@@ -5,88 +5,88 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Thu, 01 Oct 2026 13:26:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 19:17:45 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Хабр сработал, Яндекс отказал, ChatGPT удивил. Откуда приходят пользователи агрегатора вакансий</title>
-      <link>https://habr.com/ru/articles/1089192/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089192</link>
-      <description>Всем привет! 20 сентября я писал здесь про свой агрегатор IT-вакансий: Откликов все больше, ответов все меньше. Что показали 16 000 вакансий в моей базе . Та статья была про данные, парсеры и Postgres. А в комментариях, кроме багов (о них ниже), спрашивали другое. Зачем дублировать hh. Не ханипот ли это для сбора резюме. Вопросы нормальные, я сам задаю их себе периодически :) Поэтому эта статья про то, что вокруг кода. Откуда приходят люди, что они делают на сайте и почему с работодателями все с</description>
-      <pubDate>Thu, 01 Oct 2026 13:19:03 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1089192/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089192</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>ИИ в финансовой аналитике: от текстового запроса до готового дашборда за несколько минут</title>
-      <link>https://habr.com/ru/companies/diasoft_company/articles/1089172/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089172</link>
-      <description>Привет, Хабр! Меня зовут Данила Ильичев, я инженер-аналитик продукта Digital Q.Sensor BI в компании «Диасофт». Недавно я провел вебинар, на котором мы разбирали практический вопрос: как далеко сегодня можно зайти в финансовой аналитике, если отдать часть рутинной работы искусственному интеллекту. ИИ в финансовой аналитике для нас – это не история про модную технологию, которую нужно куда-нибудь встроить ради факта использования ИИ. В первую очередь это вопрос: какие этапы аналитики можно ускорит</description>
-      <pubDate>Thu, 01 Oct 2026 13:01:52 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/diasoft_company/articles/1089172/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089172</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Большой научный обзор Wi‑Fi‑сенсинга: данные, модели, проблемы и перспективы решения</title>
-      <link>https://habr.com/ru/companies/ruvds/articles/1077258/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1077258</link>
-      <description>Привет, Хабр! Меня зовут Алексей, и я занимаюсь беспроводными технологиями. Примерно год назад я написал для Хабра свою первую статью. Она была посвящена новой технологии Wi-Fi-сенсинга. Интересно, что на протяжении всего года эта первая статья напоминала о себе. По просьбе нескольких вузов я и мои коллеги выступили с презентациями и мастер-классами. В Алтайском университете провели несколько семинаров, посвящённых сенсингу. В Томском университете систем управления и радиоэлектроники провели Бол</description>
-      <pubDate>Thu, 01 Oct 2026 13:01:52 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/ruvds/articles/1077258/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1077258</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Gears of War: E-Day is a great game launching at a terrible time</title>
-      <link>https://www.theverge.com/games/1002768/gears-of-war-eday-review-xbox</link>
-      <description>There are few blockbuster games that are as confident as Gears of War: E-Day. A prequel to one of Xbox's most transformative titles, E-Day knows exactly what it wants to be: a brutal, tense, and self-aware action game, one that is stronger because it doesn't deviate from that premise. Twenty years since the original Gears […]</description>
-      <pubDate>Thu, 01 Oct 2026 13:00:00 +0000</pubDate>
-      <guid>https://www.theverge.com/games/1002768/gears-of-war-eday-review-xbox</guid>
+      <title>Steam Deck 2: Is AMD Gainsborough the chip Valve’s been waiting for?</title>
+      <link>https://www.theverge.com/games/1003593/steam-deck-2-is-amd-gainsborough-the-chip-valves-been-waiting-for</link>
+      <description>The Steam Deck is four and a half years old, and handheld gamers are eagerly awaiting a Steam Deck 2 - but Valve has consistently said it needs a new chip with a "generational leap" in performance and efficiency before building the sequel. There's some reason to believe that chip has now broken cover: AMD […]</description>
+      <pubDate>Thu, 01 Oct 2026 18:52:58 +0000</pubDate>
+      <guid>https://www.theverge.com/games/1003593/steam-deck-2-is-amd-gainsborough-the-chip-valves-been-waiting-for</guid>
       <category>The Verge</category>
     </item>
     <item>
-      <title>Amazon is launching colorful new Kindles — and a case with physical page-turn buttons</title>
-      <link>https://www.theverge.com/tech/1002811/amazon-kindle-paperwhite-colorsoft-accessory-refresh</link>
-      <description>Kindles don't usually change much with each new version, but Amazon is launching next-generation models today that look and feel a whole lot nicer. The base Kindle, Kindle Paperwhite, and Kindle Colorsoft are a millimeter thinner and 30 percent faster at opening books, and their power buttons have moved from the bottom to the right […]</description>
-      <pubDate>Thu, 01 Oct 2026 13:00:00 +0000</pubDate>
-      <guid>https://www.theverge.com/tech/1002811/amazon-kindle-paperwhite-colorsoft-accessory-refresh</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>Amazon’s Carrie is a cyberbullying nightmare</title>
-      <link>https://www.theverge.com/entertainment/1002835/carrie-review-amazon-prime-video</link>
-      <description>Do we really need a new version of Carrie? That's the question that plagues any attempt to reimagine the classic horror tale. Stephen King's 1974 novel remains one of his most iconic, and the film version from Brian De Palma and Sissy Spacek two years later remains unsurpassed, despite a handful adaptations that followed in […]</description>
-      <pubDate>Thu, 01 Oct 2026 13:00:00 +0000</pubDate>
-      <guid>https://www.theverge.com/entertainment/1002835/carrie-review-amazon-prime-video</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>HP’s answer to the MacBook Neo is thinner, lighter, and comes with OLED</title>
-      <link>https://www.theverge.com/gadgets/1003107/hp-omnibook-5-14-intel-wildcat-lake-8gb-macbook-neo-price-specs</link>
-      <description>HP is announcing a new laptop that's squarely aimed at Apple's MacBook Neo. The 2026 HP OmniBook 5 14 starts at $699.99 with an Intel Core 5 315 "Wildcat Lake" processor, 8GB of RAM, and a 256GB SSD. Much of that sounds pretty familiar, being in lockstep with both Apple's Neo and its recent competition […]</description>
-      <pubDate>Thu, 01 Oct 2026 13:00:00 +0000</pubDate>
-      <guid>https://www.theverge.com/gadgets/1003107/hp-omnibook-5-14-intel-wildcat-lake-8gb-macbook-neo-price-specs</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>Hearing tech startup Legato launches its AI hearing glasses</title>
-      <link>https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/</link>
-      <description>The glasses stem from the startup’s goal of making hearing care more accessible by addressing the cost, comfort, and stigma associated with traditional hearing aids.</description>
-      <pubDate>Thu, 01 Oct 2026 13:00:00 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/</guid>
+      <title>World’s first enhanced geothermal power plant completed in just 23 months</title>
+      <link>https://techcrunch.com/2026/10/01/worlds-first-enhanced-geothermal-power-plant-completed-in-just-23-months/</link>
+      <description>Fervo Energy completed its first power plant in less than two years. The next phases promise to connect to the grid even quicker.</description>
+      <pubDate>Thu, 01 Oct 2026 18:35:55 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/01/worlds-first-enhanced-geothermal-power-plant-completed-in-just-23-months/</guid>
       <category>TechCrunch</category>
     </item>
     <item>
-      <title>Audible’s new features let you explore book worlds — and use AI to talk to characters</title>
-      <link>https://techcrunch.com/2026/10/01/audibles-new-features-let-you-explore-book-worlds-and-even-talk-to-characters/</link>
-      <description>Audible is rolling out new features that help listeners keep track of characters, explore places and imagery mentioned in books, and even interact with characters using generative AI.</description>
-      <pubDate>Thu, 01 Oct 2026 13:00:00 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/01/audibles-new-features-let-you-explore-book-worlds-and-even-talk-to-characters/</guid>
+      <title>OpenAI cuts ties with 3 safety researchers, WSJ reports</title>
+      <link>https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/</link>
+      <description>OpenAI has parted ways with three safety researchers after an internal investigation found they mishandled sensitive company information, report says.</description>
+      <pubDate>Thu, 01 Oct 2026 18:14:42 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/</guid>
       <category>TechCrunch</category>
     </item>
     <item>
-      <title>The new Kindle ditches the bezel in a push toward a smaller, lighter e-reader</title>
-      <link>https://techcrunch.com/2026/10/01/the-new-kindle-ditches-the-bezel-in-a-push-toward-a-smaller-lighter-e-reader/</link>
-      <description>The new Kindle lineup features its lightest and thinnest designs yet, with a sleek, front-flush display that eliminates bezels for good.</description>
-      <pubDate>Thu, 01 Oct 2026 13:00:00 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/01/the-new-kindle-ditches-the-bezel-in-a-push-toward-a-smaller-lighter-e-reader/</guid>
+      <title>Когда «мы не проверили» превращается в «кандидат не знает»</title>
+      <link>https://habr.com/ru/articles/1089344/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089344</link>
+      <description>После технического интервью на позицию Go-разработчика я попросил более подробную обратную связь. Часть выводов в ней плохо стыковалась и с тем, что реально проверяли на собеседовании, и с моим фактическим опытом. Особенно по конкурентности в Go, эксплуатации инфраструктуры и Python/frontend. Мне стало интересно, как из конкретных эпизодов интервью появляются настолько широкие выводы о кандидате и в какой момент «мы не получили подтверждения» превращается в «у кандидата этого нет». Разобрать фид</description>
+      <pubDate>Thu, 01 Oct 2026 18:08:31 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1089344/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089344</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Резать или вкладывать: что автоматизировать, когда денег нет</title>
+      <link>https://habr.com/ru/articles/1089342/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089342</link>
+      <description>Когда денег в компании начинает не хватать (такое особенно часто бывает в кризисные времена, когда денег не хватает у всех , рынок падает и палки в песке перестают цвести) обычно бывает два пути. Путь первый (он же путь финансиста): режем все, что не приносит выручку прямо сейчас. Путь второй (он же продуктовый): кризис - время возможностей, надо вкладываться в инновации и быстрее всех выходить в рост, поджимать рынок под себя, пока все сокращают расходы (такой путь встречается гораздо реже, пос</description>
+      <pubDate>Thu, 01 Oct 2026 18:08:16 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1089342/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089342</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Brand Safety в инфлюенс-маркетинге: как выбрать блогера и снизить репутационные риски</title>
+      <link>https://habr.com/ru/articles/1089340/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089340</link>
+      <description>Реклама всегда существует в контексте. Баннер, видео или нативный пост пользователь видит рядом с новостями, роликами, комментариями и другими публикациями. Иногда это почти не влияет на восприятие, но бывает и так, что именно окружение определяет отношение к бренду. Например, туристическая компания рекламирует отдых на морском курорте, а ее объявление появляется рядом с новостью о разрушительном наводнении в том же регионе. Сама реклама может быть качественной, но выглядит неуместно. У аудитори</description>
+      <pubDate>Thu, 01 Oct 2026 18:07:22 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1089340/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089340</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Opus 5.5 loves to tell you ‘this matters’ (and other AI writing tells)</title>
+      <link>https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/</link>
+      <description>Opus 5.5’s biggest tell is the word “dependable,” which pops up 23 times more often than in human samples.</description>
+      <pubDate>Thu, 01 Oct 2026 17:50:19 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/</guid>
       <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>Judge dismisses antitrust lawsuits over Google’s AI Overviews</title>
+      <link>https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed</link>
+      <description>A federal judge has dismissed a pair of antitrust lawsuits filed by Chegg and Rolling Stone parent company Penske Media Corporation, which accused Google of driving away web traffic with its AI-powered search features, as reported earlier by Reuters. US District Judge Amit Mehta takes Google's side in a ruling on Wednesday, writing that PMC […]</description>
+      <pubDate>Thu, 01 Oct 2026 17:12:21 +0000</pubDate>
+      <guid>https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>This startup wants to turn idle user car inventory into rental revenue</title>
+      <link>https://techcrunch.com/2026/10/01/this-startup-wants-to-turn-idle-user-car-inventory-into-rental-revenue/</link>
+      <description>When Igor Dobrianskyi looks at a car dealership lot, he doesn't see rows of cars — he sees millions of dollars just sitting there, depreciating. Come see MyMonthlyCar in the Startup Battlefield 200 at TechCrunch Disrupt, taking place October 13 to 15 in San Francisco.</description>
+      <pubDate>Thu, 01 Oct 2026 17:09:00 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/01/this-startup-wants-to-turn-idle-user-car-inventory-into-rental-revenue/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>Автомойка для собак: разбираю автомат за 390 000 ₽</title>
+      <link>https://habr.com/ru/articles/1089300/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089300</link>
+      <description>Автомойка для собак за 390 000 ₽: разбираю устройство как систему — что автоматизируется, где остаётся человек, какие нужны аварийные сценарии и какие метрики смотреть на пилоте. Читать далее</description>
+      <pubDate>Thu, 01 Oct 2026 16:59:12 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1089300/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089300</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
   </channel>
 </rss>
