@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Корпоративное ТВ — Наука и технологии</title>
+    <link>https://tv.example.com</link>
+    <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
+    <language>ru-ru</language>
+    <lastBuildDate>Thu, 01 Oct 2026 13:26:14 +0000</lastBuildDate>
+    <generator>corp-tv-feed-generator</generator>
+    <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Хабр сработал, Яндекс отказал, ChatGPT удивил. Откуда приходят пользователи агрегатора вакансий</title>
+      <link>https://habr.com/ru/articles/1089192/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089192</link>
+      <description>Всем привет! 20 сентября я писал здесь про свой агрегатор IT-вакансий: Откликов все больше, ответов все меньше. Что показали 16 000 вакансий в моей базе . Та статья была про данные, парсеры и Postgres. А в комментариях, кроме багов (о них ниже), спрашивали другое. Зачем дублировать hh. Не ханипот ли это для сбора резюме. Вопросы нормальные, я сам задаю их себе периодически :) Поэтому эта статья про то, что вокруг кода. Откуда приходят люди, что они делают на сайте и почему с работодателями все с</description>
+      <pubDate>Thu, 01 Oct 2026 13:19:03 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1089192/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089192</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>ИИ в финансовой аналитике: от текстового запроса до готового дашборда за несколько минут</title>
+      <link>https://habr.com/ru/companies/diasoft_company/articles/1089172/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089172</link>
+      <description>Привет, Хабр! Меня зовут Данила Ильичев, я инженер-аналитик продукта Digital Q.Sensor BI в компании «Диасофт». Недавно я провел вебинар, на котором мы разбирали практический вопрос: как далеко сегодня можно зайти в финансовой аналитике, если отдать часть рутинной работы искусственному интеллекту. ИИ в финансовой аналитике для нас – это не история про модную технологию, которую нужно куда-нибудь встроить ради факта использования ИИ. В первую очередь это вопрос: какие этапы аналитики можно ускорит</description>
+      <pubDate>Thu, 01 Oct 2026 13:01:52 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/diasoft_company/articles/1089172/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089172</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Большой научный обзор Wi‑Fi‑сенсинга: данные, модели, проблемы и перспективы решения</title>
+      <link>https://habr.com/ru/companies/ruvds/articles/1077258/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1077258</link>
+      <description>Привет, Хабр! Меня зовут Алексей, и я занимаюсь беспроводными технологиями. Примерно год назад я написал для Хабра свою первую статью. Она была посвящена новой технологии Wi-Fi-сенсинга. Интересно, что на протяжении всего года эта первая статья напоминала о себе. По просьбе нескольких вузов я и мои коллеги выступили с презентациями и мастер-классами. В Алтайском университете провели несколько семинаров, посвящённых сенсингу. В Томском университете систем управления и радиоэлектроники провели Бол</description>
+      <pubDate>Thu, 01 Oct 2026 13:01:52 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/ruvds/articles/1077258/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1077258</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Gears of War: E-Day is a great game launching at a terrible time</title>
+      <link>https://www.theverge.com/games/1002768/gears-of-war-eday-review-xbox</link>
+      <description>There are few blockbuster games that are as confident as Gears of War: E-Day. A prequel to one of Xbox's most transformative titles, E-Day knows exactly what it wants to be: a brutal, tense, and self-aware action game, one that is stronger because it doesn't deviate from that premise. Twenty years since the original Gears […]</description>
+      <pubDate>Thu, 01 Oct 2026 13:00:00 +0000</pubDate>
+      <guid>https://www.theverge.com/games/1002768/gears-of-war-eday-review-xbox</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>Amazon is launching colorful new Kindles — and a case with physical page-turn buttons</title>
+      <link>https://www.theverge.com/tech/1002811/amazon-kindle-paperwhite-colorsoft-accessory-refresh</link>
+      <description>Kindles don't usually change much with each new version, but Amazon is launching next-generation models today that look and feel a whole lot nicer. The base Kindle, Kindle Paperwhite, and Kindle Colorsoft are a millimeter thinner and 30 percent faster at opening books, and their power buttons have moved from the bottom to the right […]</description>
+      <pubDate>Thu, 01 Oct 2026 13:00:00 +0000</pubDate>
+      <guid>https://www.theverge.com/tech/1002811/amazon-kindle-paperwhite-colorsoft-accessory-refresh</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>Amazon’s Carrie is a cyberbullying nightmare</title>
+      <link>https://www.theverge.com/entertainment/1002835/carrie-review-amazon-prime-video</link>
+      <description>Do we really need a new version of Carrie? That's the question that plagues any attempt to reimagine the classic horror tale. Stephen King's 1974 novel remains one of his most iconic, and the film version from Brian De Palma and Sissy Spacek two years later remains unsurpassed, despite a handful adaptations that followed in […]</description>
+      <pubDate>Thu, 01 Oct 2026 13:00:00 +0000</pubDate>
+      <guid>https://www.theverge.com/entertainment/1002835/carrie-review-amazon-prime-video</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>HP’s answer to the MacBook Neo is thinner, lighter, and comes with OLED</title>
+      <link>https://www.theverge.com/gadgets/1003107/hp-omnibook-5-14-intel-wildcat-lake-8gb-macbook-neo-price-specs</link>
+      <description>HP is announcing a new laptop that's squarely aimed at Apple's MacBook Neo. The 2026 HP OmniBook 5 14 starts at $699.99 with an Intel Core 5 315 "Wildcat Lake" processor, 8GB of RAM, and a 256GB SSD. Much of that sounds pretty familiar, being in lockstep with both Apple's Neo and its recent competition […]</description>
+      <pubDate>Thu, 01 Oct 2026 13:00:00 +0000</pubDate>
+      <guid>https://www.theverge.com/gadgets/1003107/hp-omnibook-5-14-intel-wildcat-lake-8gb-macbook-neo-price-specs</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>Hearing tech startup Legato launches its AI hearing glasses</title>
+      <link>https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/</link>
+      <description>The glasses stem from the startup’s goal of making hearing care more accessible by addressing the cost, comfort, and stigma associated with traditional hearing aids.</description>
+      <pubDate>Thu, 01 Oct 2026 13:00:00 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>Audible’s new features let you explore book worlds — and use AI to talk to characters</title>
+      <link>https://techcrunch.com/2026/10/01/audibles-new-features-let-you-explore-book-worlds-and-even-talk-to-characters/</link>
+      <description>Audible is rolling out new features that help listeners keep track of characters, explore places and imagery mentioned in books, and even interact with characters using generative AI.</description>
+      <pubDate>Thu, 01 Oct 2026 13:00:00 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/01/audibles-new-features-let-you-explore-book-worlds-and-even-talk-to-characters/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>The new Kindle ditches the bezel in a push toward a smaller, lighter e-reader</title>
+      <link>https://techcrunch.com/2026/10/01/the-new-kindle-ditches-the-bezel-in-a-push-toward-a-smaller-lighter-e-reader/</link>
+      <description>The new Kindle lineup features its lightest and thinnest designs yet, with a sleek, front-flush display that eliminates bezels for good.</description>
+      <pubDate>Thu, 01 Oct 2026 13:00:00 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/01/the-new-kindle-ditches-the-bezel-in-a-push-toward-a-smaller-lighter-e-reader/</guid>
+      <category>TechCrunch</category>
+    </item>
+  </channel>
+</rss>
