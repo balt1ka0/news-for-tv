@@ -5,88 +5,88 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Thu, 01 Oct 2026 19:17:45 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 23:43:01 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Steam Deck 2: Is AMD Gainsborough the chip Valve’s been waiting for?</title>
-      <link>https://www.theverge.com/games/1003593/steam-deck-2-is-amd-gainsborough-the-chip-valves-been-waiting-for</link>
-      <description>The Steam Deck is four and a half years old, and handheld gamers are eagerly awaiting a Steam Deck 2 - but Valve has consistently said it needs a new chip with a "generational leap" in performance and efficiency before building the sequel. There's some reason to believe that chip has now broken cover: AMD […]</description>
-      <pubDate>Thu, 01 Oct 2026 18:52:58 +0000</pubDate>
-      <guid>https://www.theverge.com/games/1003593/steam-deck-2-is-amd-gainsborough-the-chip-valves-been-waiting-for</guid>
+      <title>Apple’s reportedly developing a smart home camera that doesn’t record video</title>
+      <link>https://www.theverge.com/tech/1003877/apple-security-camera-no-video</link>
+      <description>Apple's rumored push into smart home tech could include a smart home security camera that only gives users text event descriptions instead of video footage. Mark Gurman said in the first episode of the Power On podcast that the camera will be part of "a new Apple smart home ecosystem," alongside Apple's rumored smart home […]</description>
+      <pubDate>Thu, 01 Oct 2026 22:51:36 +0000</pubDate>
+      <guid>https://www.theverge.com/tech/1003877/apple-security-camera-no-video</guid>
       <category>The Verge</category>
     </item>
     <item>
-      <title>World’s first enhanced geothermal power plant completed in just 23 months</title>
-      <link>https://techcrunch.com/2026/10/01/worlds-first-enhanced-geothermal-power-plant-completed-in-just-23-months/</link>
-      <description>Fervo Energy completed its first power plant in less than two years. The next phases promise to connect to the grid even quicker.</description>
-      <pubDate>Thu, 01 Oct 2026 18:35:55 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/01/worlds-first-enhanced-geothermal-power-plant-completed-in-just-23-months/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>OpenAI cuts ties with 3 safety researchers, WSJ reports</title>
-      <link>https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/</link>
-      <description>OpenAI has parted ways with three safety researchers after an internal investigation found they mishandled sensitive company information, report says.</description>
-      <pubDate>Thu, 01 Oct 2026 18:14:42 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>Когда «мы не проверили» превращается в «кандидат не знает»</title>
-      <link>https://habr.com/ru/articles/1089344/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089344</link>
-      <description>После технического интервью на позицию Go-разработчика я попросил более подробную обратную связь. Часть выводов в ней плохо стыковалась и с тем, что реально проверяли на собеседовании, и с моим фактическим опытом. Особенно по конкурентности в Go, эксплуатации инфраструктуры и Python/frontend. Мне стало интересно, как из конкретных эпизодов интервью появляются настолько широкие выводы о кандидате и в какой момент «мы не получили подтверждения» превращается в «у кандидата этого нет». Разобрать фид</description>
-      <pubDate>Thu, 01 Oct 2026 18:08:31 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1089344/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089344</guid>
+      <title>cert-manager-webhook-freens: сертификаты Let's Encrypt на все поддомены в Kubernetes через бесплатный российский DNS</title>
+      <link>https://habr.com/ru/articles/1089388/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089388</link>
+      <description>Казалось бы, что там может быть интересного — A-запись прописал и забыл. Ан нет: стоило захотеть один сертификат сразу на все тестовые поддомены и переключать тестовую среду между двумя кластерами Kubernetes, да ещё автоматически поднять сертификаты Let’s Encrypt с помощью cert-manager… Выяснилось, что всё просто, да не так просто, как хотелось бы. Бесплатный DynDNS, скажем, DuckDNS.org, отдаёт записи с TTL в сутки (переключился — а люди ещё долго ходят на старый кластер), а wildcard сертификат </description>
+      <pubDate>Thu, 01 Oct 2026 22:25:32 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1089388/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089388</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Резать или вкладывать: что автоматизировать, когда денег нет</title>
-      <link>https://habr.com/ru/articles/1089342/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089342</link>
-      <description>Когда денег в компании начинает не хватать (такое особенно часто бывает в кризисные времена, когда денег не хватает у всех , рынок падает и палки в песке перестают цвести) обычно бывает два пути. Путь первый (он же путь финансиста): режем все, что не приносит выручку прямо сейчас. Путь второй (он же продуктовый): кризис - время возможностей, надо вкладываться в инновации и быстрее всех выходить в рост, поджимать рынок под себя, пока все сокращают расходы (такой путь встречается гораздо реже, пос</description>
-      <pubDate>Thu, 01 Oct 2026 18:08:16 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1089342/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089342</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Brand Safety в инфлюенс-маркетинге: как выбрать блогера и снизить репутационные риски</title>
-      <link>https://habr.com/ru/articles/1089340/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089340</link>
-      <description>Реклама всегда существует в контексте. Баннер, видео или нативный пост пользователь видит рядом с новостями, роликами, комментариями и другими публикациями. Иногда это почти не влияет на восприятие, но бывает и так, что именно окружение определяет отношение к бренду. Например, туристическая компания рекламирует отдых на морском курорте, а ее объявление появляется рядом с новостью о разрушительном наводнении в том же регионе. Сама реклама может быть качественной, но выглядит неуместно. У аудитори</description>
-      <pubDate>Thu, 01 Oct 2026 18:07:22 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1089340/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089340</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Opus 5.5 loves to tell you ‘this matters’ (and other AI writing tells)</title>
-      <link>https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/</link>
-      <description>Opus 5.5’s biggest tell is the word “dependable,” which pops up 23 times more often than in human samples.</description>
-      <pubDate>Thu, 01 Oct 2026 17:50:19 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/</guid>
+      <title>Lyft is paying $272.5M to settle lawsuit over how it classified drivers</title>
+      <link>https://techcrunch.com/2026/10/01/lyft-is-paying-272-5m-to-settle-lawsuit-over-how-it-classified-drivers/</link>
+      <description>Today, gig economy drivers are classified as contractors. This settlement clears up a lingering lawsuit from 2020 when that was still an unanswered issue.</description>
+      <pubDate>Thu, 01 Oct 2026 21:57:08 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/01/lyft-is-paying-272-5m-to-settle-lawsuit-over-how-it-classified-drivers/</guid>
       <category>TechCrunch</category>
     </item>
     <item>
-      <title>Judge dismisses antitrust lawsuits over Google’s AI Overviews</title>
-      <link>https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed</link>
-      <description>A federal judge has dismissed a pair of antitrust lawsuits filed by Chegg and Rolling Stone parent company Penske Media Corporation, which accused Google of driving away web traffic with its AI-powered search features, as reported earlier by Reuters. US District Judge Amit Mehta takes Google's side in a ruling on Wednesday, writing that PMC […]</description>
-      <pubDate>Thu, 01 Oct 2026 17:12:21 +0000</pubDate>
-      <guid>https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed</guid>
+      <title>Kevin Mandia’s new ‘agent swarm’ security startup Armadin raises $255.5M at $2.5B valuation</title>
+      <link>https://techcrunch.com/2026/10/01/kevin-mandias-new-agent-swarm-security-startup-armadin-raises-255-5m-at-2-5b-valuation/</link>
+      <description>Kevin Mandia, best known as the founder of Mandiant, has a new startup that is using agent swarms to test and protect enterprises.</description>
+      <pubDate>Thu, 01 Oct 2026 21:55:22 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/01/kevin-mandias-new-agent-swarm-security-startup-armadin-raises-255-5m-at-2-5b-valuation/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>3D в игре на Flame: от одной модели до целого мира</title>
+      <link>https://habr.com/ru/articles/1089382/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089382</link>
+      <description>River Sortie это шутер в духе River Raid, в который можно сыграть прямо в браузере . Самолёт летит вверх по бесконечной реке, сбивает танкеры, вертолёты и мосты, заправляется над складами. Всё, что в нём движется, это обычные компоненты Flame с хитбоксами Flame, а рисует всё это в 3D flutter3d. Расскажу, как два движка поделили работу, что для этого пришлось добавить в мост flame_flutter3d, и про короткий способ, когда в 2D-игре нужна всего одна трёхмерная модель. Читать далее</description>
+      <pubDate>Thu, 01 Oct 2026 21:51:29 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1089382/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089382</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Musk’s AI chatbot Grok reportedly encouraged Trump to capture Venezuela’s president</title>
+      <link>https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/</link>
+      <description>President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicolás Maduro.</description>
+      <pubDate>Thu, 01 Oct 2026 21:08:11 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>900 гипотез об уязвимостях и 12 миллиардов токенов</title>
+      <link>https://habr.com/ru/articles/1089374/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089374</link>
+      <description>«Просто напишите правильный промпт», говорили они У меня появился проект, которому нужно перекладывать миллионы пакетов со скоростью канала. Для такой задачи я рассматривал C, C++ и Rust. На C я последний раз писал в 2009 году, и обратно не тянет. Слабак , согласен. Выбрал Rust: современный язык, удобная сборка, большая библиотечная экосистема и обещание безопасности памяти. Когда в описании технологии встречается слово «безопасный», у меня по профессиональной привычке начинает чесаться в кончик</description>
+      <pubDate>Thu, 01 Oct 2026 20:41:21 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1089374/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089374</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Парсер расписаний после хабратестирования: полвторого, RRULE, systemd и производственный календарь</title>
+      <link>https://habr.com/ru/articles/1089372/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089372</link>
+      <description>В прошлой статье я показал cronsense, библиотеку, которая переводит расписание на русском или английском в cron: «по будням в 9:30» → 30 9 * * 1-5 . Комментаторы устроили ей хабратестирование и нашли, чего она не умеет: «полвторого», «без пяти шестнадцать», «каждые полчаса», а ещё задачи, для которых cron не подходит вообще. За несколько дней вышло семь версий. Теперь одна фраза превращается в cron, RRULE для календарей или таймер systemd, а праздники можно называть по имени. Для «последнего раб</description>
+      <pubDate>Thu, 01 Oct 2026 20:35:47 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1089372/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089372</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Вдвое меньше токенов без смены модели: что NVIDIA сделала с harness кодинг-агента</title>
+      <link>https://habr.com/ru/articles/1089370/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089370</link>
+      <description>Исследователи из NVIDIA, MIT и NTU поручили одному ИИ-агенту улучшать harness другого, кодинг-ассистента на базе открытого Pi. Агент перебрал 152 идеи, и 4 из них сократили расход токенов почти вдвое при той же модели. Счёт за API упал на треть, средний балл на EdgeBench снизился на 6 %. Разбираем, что такое harness, какие приёмы сработали и где у результатов слабые места. Какие 4 приёма сработали</description>
+      <pubDate>Thu, 01 Oct 2026 20:15:29 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1089370/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089370</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Google’s new Guided Vision feature can help you read the fine print</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision</link>
+      <description>Guided Vision is launching in Gemini Live on compatible Android devices today to use AI to give real-time audio descriptions of anything you point your phone's camera at. By sharing your camera in Gemini Live, you can have Google's AI help with things like reading small text, describing your surroundings, finding or identifying objects around […]</description>
+      <pubDate>Thu, 01 Oct 2026 19:47:51 +0000</pubDate>
+      <guid>https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision</guid>
       <category>The Verge</category>
-    </item>
-    <item>
-      <title>This startup wants to turn idle user car inventory into rental revenue</title>
-      <link>https://techcrunch.com/2026/10/01/this-startup-wants-to-turn-idle-user-car-inventory-into-rental-revenue/</link>
-      <description>When Igor Dobrianskyi looks at a car dealership lot, he doesn't see rows of cars — he sees millions of dollars just sitting there, depreciating. Come see MyMonthlyCar in the Startup Battlefield 200 at TechCrunch Disrupt, taking place October 13 to 15 in San Francisco.</description>
-      <pubDate>Thu, 01 Oct 2026 17:09:00 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/01/this-startup-wants-to-turn-idle-user-car-inventory-into-rental-revenue/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>Автомойка для собак: разбираю автомат за 390 000 ₽</title>
-      <link>https://habr.com/ru/articles/1089300/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089300</link>
-      <description>Автомойка для собак за 390 000 ₽: разбираю устройство как систему — что автоматизируется, где остаётся человек, какие нужны аварийные сценарии и какие метрики смотреть на пилоте. Читать далее</description>
-      <pubDate>Thu, 01 Oct 2026 16:59:12 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1089300/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089300</guid>
-      <category>Все публикации подряд на Хабре</category>
     </item>
   </channel>
 </rss>
