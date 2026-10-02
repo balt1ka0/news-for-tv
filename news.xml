@@ -5,88 +5,88 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Fri, 02 Oct 2026 16:31:10 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 21:10:57 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Flutter на клиенте, Fletch на сервере: бэкенд на знакомом Dart</title>
-      <link>https://habr.com/ru/articles/1088658/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1088658</link>
-      <description>Вы пишете приложение на Flutter. Модели уже описаны, бизнес-правила продуманы. Осталась небольшая деталь: сервер, который будет принимать запросы и работать с данными. И здесь обычно начинается второй сезон сериала. Другой язык, другой менеджер пакетов, ещё один набор моделей. Поле переименовали на клиенте, забыли на сервере — поздравляем, у нас распределённая опечатка. Dart позволяет написать обе стороны приложения. А Fletch предлагает довольно понятный способ сделать серверную: знакомые по Exp</description>
-      <pubDate>Fri, 02 Oct 2026 16:25:56 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1088658/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1088658</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Gemini 4 победила в бенчмарках. Почему это всё меньше говорит о качестве модели</title>
-      <link>https://habr.com/ru/articles/1089782/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089782</link>
-      <description>Gemini 4 Argon вышел с таблицей, где он лидирует в 12 тестах из 18. Ровно такую таблицу Google показывала в феврале — для Gemini 3.1 Pro. Тот потом проиграл Claude в реальной работе больше чем на 300 очков. У релизов Gemini сложился сценарий, и Argon пока идёт по нему шаг в шаг. Дело при этом не только в Google: победа в бенчмарках сегодня значит всё меньше. Читать далее</description>
-      <pubDate>Fri, 02 Oct 2026 16:05:34 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1089782/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089782</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Как я создал СуперЗавуч — программу для генерации расписаний занятий</title>
-      <link>https://habr.com/ru/articles/1089006/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089006</link>
-      <description>Привет, Хабр! Я бы хотел рассказать о том, как я создал программу для составления расписаний для учебных заведений - СуперЗавуч . СуперЗавуч - современная программа для составления расписаний уроков для школ, лицеев и колледжей. Программа позволяет создать расписание за несколько минут и имеет много параметров для конфигураций. Читать далее</description>
-      <pubDate>Fri, 02 Oct 2026 16:00:45 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1089006/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089006</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Разбираемся с MCP на практике: сервер документации Swagger на Laravel</title>
-      <link>https://habr.com/ru/articles/1089476/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089476</link>
-      <description>Разбираемся, как дать AI-ассистенту доступ к документации API, не загружая в контекст всю спецификацию. Импортируем Swagger PetStore в PostgreSQL и собираем на официальном пакете laravel/mcp сервер с четырьмя инструментами: поиск по документации, детали операции, именованная схема и список операций по тегу. Проверяем контракт в MCP Inspector и подключаем сервер к Claude Code. Читать далее</description>
-      <pubDate>Fri, 02 Oct 2026 16:00:44 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1089476/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089476</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Typing в Python 3.11–3.14: что изменилось и как это использовать уже сейчас</title>
-      <link>https://habr.com/ru/articles/1089780/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089780</link>
-      <description>За последнее время я прочитал множество репозиториев, где в Pyhton пользуются типизацией и почти везде синтаксис не новее 3.11: Optional , TypeVar на уровне модуля, Generic[T] , кавычки вокруг опережающих ссылок. При этом у Python 3.10 поддержка закончилась, и разработчики языка дали нам новых удобных инструментов и чтобы ими пользоваться не всегда нужно обновляться до последней версии. В этой статье расскажу, какие основные фишки появились за последние несколько лет и как ими пользоваться даже </description>
-      <pubDate>Fri, 02 Oct 2026 15:54:50 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1089780/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089780</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Paramount and Warner Bros Discovery to become Skydance</title>
-      <link>https://techcrunch.com/2026/10/02/paramount-and-warner-bros-discovery-to-become-skydance/</link>
-      <description>The roughly $110 billion deal is expected to close October 6.</description>
-      <pubDate>Fri, 02 Oct 2026 15:53:50 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/02/paramount-and-warner-bros-discovery-to-become-skydance/</guid>
+      <title>Sean Parker is rebuilding Stability AI around music</title>
+      <link>https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/</link>
+      <description>Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money.</description>
+      <pubDate>Fri, 02 Oct 2026 21:09:14 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/</guid>
       <category>TechCrunch</category>
     </item>
     <item>
-      <title>Dots get up in Muse’s business</title>
-      <link>https://www.theverge.com/podcast/1004059/openai-dots-kindle-homepad-cybercab-vergecast</link>
-      <description>OpenAI's answer to Muse arrived this week, and it looks a whole lot like Muse dressed up in a suit and tie. Dots is a business-first product - for now, at least - costing a minimum of $100 per month. And sure, you can make a cute little Dot character, just like you can make […]</description>
-      <pubDate>Fri, 02 Oct 2026 15:47:05 +0000</pubDate>
-      <guid>https://www.theverge.com/podcast/1004059/openai-dots-kindle-homepad-cybercab-vergecast</guid>
+      <title>Meta open sources code to let you make Muse AI gadgets</title>
+      <link>https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link</link>
+      <description>Meta now lets you make your own Muse gadgets that feature the company's new AI agent with code that the company open sourced. The company suggests projects like loading Muse on a color E Ink display to show reminders, adding it to an HDMI stick so you can display Muse on a big screen, or […]</description>
+      <pubDate>Fri, 02 Oct 2026 21:08:37 +0000</pubDate>
+      <guid>https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link</guid>
       <category>The Verge</category>
     </item>
     <item>
-      <title>Pope Leo XIV is not a fan of AI-generated art</title>
-      <link>https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/</link>
-      <description>"There is an ontological difference, even before an aesthetic one, between art and what a machine can generate through statistical calculation based on millions of images created by others," the pope wrote. "Algorithms lack the spark of humanity."</description>
-      <pubDate>Fri, 02 Oct 2026 15:39:41 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/</guid>
-      <category>TechCrunch</category>
+      <title>Netflix is pivoting away from prestige</title>
+      <link>https://www.theverge.com/streaming/1004323/netflix-david-fincher-shawn-levy-mike-flanagan-duffer-brothers-greta-gerwig</link>
+      <description>Many of Netflix's biggest critically acclaimed hits have been the products of its multiyear production deals with noted directors like David Fincher and Shawn Levy. In the past few weeks, though, the streamer has brought some of those partnerships to an end in a way that feels indicative of a larger strategic shift. With rival […]</description>
+      <pubDate>Fri, 02 Oct 2026 20:30:26 +0000</pubDate>
+      <guid>https://www.theverge.com/streaming/1004323/netflix-david-fincher-shawn-levy-mike-flanagan-duffer-brothers-greta-gerwig</guid>
+      <category>The Verge</category>
     </item>
     <item>
-      <title>Laytr’s new app lets you save anything you find online, not just articles to read</title>
-      <link>https://techcrunch.com/2026/10/02/laytrs-new-app-lets-you-save-anything-you-find-online-not-just-articles-to-read/</link>
-      <description>Laytr lets you save articles, recipes, screenshots, videos, PDFs, and more for later, while keeping your archive private and synced across your Apple devices.</description>
-      <pubDate>Fri, 02 Oct 2026 15:31:20 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/02/laytrs-new-app-lets-you-save-anything-you-find-online-not-just-articles-to-read/</guid>
-      <category>TechCrunch</category>
+      <title>Apple will limit Mac disk access as AI agents ‘substantially’ increase risk</title>
+      <link>https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents</link>
+      <description>Apple will add new limits for "full disk access" on Mac in response to risks posed by AI agents, as reported earlier by TechCrunch. In an update on Friday, Apple says it's rolling out new controls to "ensure that users who genuinely wish to grant an app this extraordinary level of access can only do […]</description>
+      <pubDate>Fri, 02 Oct 2026 20:08:40 +0000</pubDate>
+      <guid>https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents</guid>
+      <category>The Verge</category>
     </item>
     <item>
-      <title>Ускорение рутины в 10 раз: как мы внедрили навыки для ИИ-агентов у разработчиков</title>
-      <link>https://habr.com/ru/articles/1089764/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089764</link>
-      <description>Разработчики одними из первых начали использовать ИИ-агентов, чтобы автоматизировать рутинные задачи. Для компании важно, чтобы такие изменения происходили системно: эффект был очевиден, накопленные навыки собирались и обобщались, а разработчиков можно было бы обучать работе с ними. Читать далее</description>
-      <pubDate>Fri, 02 Oct 2026 15:09:03 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1089764/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089764</guid>
+      <title>Sling TV drops its one-day cable passes</title>
+      <link>https://www.theverge.com/streaming/1004300/sling-tv-pass-cable-drops</link>
+      <description>Dish-owned Sling TV will no longer be offering its Sling Pass feature that allowed people to buy a single day of cable TV programming at a time, as reported by The Desk. The feature was announced last year and offered a day pass, a weekend pass, and a week-long pass option to be able to […]</description>
+      <pubDate>Fri, 02 Oct 2026 20:00:20 +0000</pubDate>
+      <guid>https://www.theverge.com/streaming/1004300/sling-tv-pass-cable-drops</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>Как я собрал бота коммерческих предложений на чистом stdlib и рендерю PDF через headless Chrome</title>
+      <link>https://habr.com/ru/articles/1089814/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089814</link>
+      <description>Я дизайнер интерфейсов и работаю как фрилансер. На каждое коммерческое предложение у меня уходило часа три: смета в таблице, вёрстка, экспорт, проверка. Шаги одни и те же, меняются цифры и состав работ. В конце июля я упаковал этот процесс в Telegram-бота, который задаёт семь вопросов и присылает PDF со сметой, сроками, этапами и кейсами. Расскажу, как смета собирается из свободного текста, почему PDF рендерит Chrome, как бот приводит обложки кейсов к одной пропорции и зачем ему мини-приложение.</description>
+      <pubDate>Fri, 02 Oct 2026 19:04:33 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1089814/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089814</guid>
       <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Как Claude запоминает ваш компьютер: разбираем локальные идентификаторы и сбрасываем их скриптом</title>
+      <link>https://habr.com/ru/articles/1089810/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089810</link>
+      <description>Я давно пользуюсь Claude Desktop и Claude Code на Windows. В какой-то момент стало интересно: когда я выхожу из аккаунта и захожу заново, насколько «с чистого листа» меня видит сервер? Оказалось, что аккаунт — это только половина истории. Claude помечает ещё и саму машину, причём отдельно от логина, и эти метки живут на диске между сессиями. В статье разберу, где именно лежат идентификаторы устройства, как клиент их генерирует (с кусками кода из app.asar и бинаря CLI), что из этого переживает на</description>
+      <pubDate>Fri, 02 Oct 2026 18:21:29 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1089810/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089810</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>[Перевод] N‑tier, Clean Architecture и Vertical Slice: практическое сравнение для.NET</title>
+      <link>https://habr.com/ru/articles/1089808/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089808</link>
+      <description>Как каждая из них организует код, где они пересекаются и что учитывать при выборе. Большинство .NET-разработчиков знакомятся с этими тремя архитектурами в одном и том же порядке: N-tier — в первых проектах, Clean Architecture — когда её приносит команда или шаблон, и Vertical Slice — когда о ней упоминают на код-ревью или в докладе на конференции. Каждую из них подают как улучшение предыдущей. На практике они отвечают на несколько разные вопросы, и правильный выбор зависит скорее от проекта, чем</description>
+      <pubDate>Fri, 02 Oct 2026 18:19:22 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1089808/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089808</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents</title>
+      <link>https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/</link>
+      <description>Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files, messages, mail, and browsing history riskier.</description>
+      <pubDate>Fri, 02 Oct 2026 18:11:27 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>OpenAI’s Dot agent is enterprise software that can also order your dinner</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent</link>
+      <description>It's a tale as old as last week: OpenAI's new agent platform, called Dots, is full of cute little guys who can do your bidding. But unlike the ultra-approachable Meta Muse, Dots feel very much like using workplace software that happens to be able to order you a burrito - emphasis on work. OpenAI announced […]</description>
+      <pubDate>Fri, 02 Oct 2026 18:00:00 +0000</pubDate>
+      <guid>https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent</guid>
+      <category>The Verge</category>
     </item>
   </channel>
 </rss>
