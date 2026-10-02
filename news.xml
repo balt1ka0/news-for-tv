@@ -5,88 +5,88 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Thu, 01 Oct 2026 23:43:01 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 04:22:11 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Apple’s reportedly developing a smart home camera that doesn’t record video</title>
-      <link>https://www.theverge.com/tech/1003877/apple-security-camera-no-video</link>
-      <description>Apple's rumored push into smart home tech could include a smart home security camera that only gives users text event descriptions instead of video footage. Mark Gurman said in the first episode of the Power On podcast that the camera will be part of "a new Apple smart home ecosystem," alongside Apple's rumored smart home […]</description>
-      <pubDate>Thu, 01 Oct 2026 22:51:36 +0000</pubDate>
-      <guid>https://www.theverge.com/tech/1003877/apple-security-camera-no-video</guid>
-      <category>The Verge</category>
+      <title>Heavy-Tailed Memory Traces in Long-Horizon Language Agents</title>
+      <link>https://arxiv.org/abs/2610.00010</link>
+      <description>arXiv:2610.00010v1 Announce Type: new Abstract: Long-horizon language agents increasingly rely on external memory as a frozen world model, yet current memory systems are usually judged only by task success or token cost. We argue that the missing object is the shape of memory use: under finite context and repeated retrieval, agent memory can concentrate on a small core while leaving rare states in a long tail where prediction errors accumulate. We study this effect through a conservative tail au</description>
+      <pubDate>Fri, 02 Oct 2026 04:00:00 +0000</pubDate>
+      <guid>https://arxiv.org/abs/2610.00010</guid>
+      <category>cs.AI updates on arXiv.org</category>
     </item>
     <item>
-      <title>cert-manager-webhook-freens: сертификаты Let's Encrypt на все поддомены в Kubernetes через бесплатный российский DNS</title>
-      <link>https://habr.com/ru/articles/1089388/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089388</link>
-      <description>Казалось бы, что там может быть интересного — A-запись прописал и забыл. Ан нет: стоило захотеть один сертификат сразу на все тестовые поддомены и переключать тестовую среду между двумя кластерами Kubernetes, да ещё автоматически поднять сертификаты Let’s Encrypt с помощью cert-manager… Выяснилось, что всё просто, да не так просто, как хотелось бы. Бесплатный DynDNS, скажем, DuckDNS.org, отдаёт записи с TTL в сутки (переключился — а люди ещё долго ходят на старый кластер), а wildcard сертификат </description>
-      <pubDate>Thu, 01 Oct 2026 22:25:32 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1089388/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089388</guid>
-      <category>Все публикации подряд на Хабре</category>
+      <title>When Do Causal World Models Help Modular LLM Agents</title>
+      <link>https://arxiv.org/abs/2610.00012</link>
+      <description>arXiv:2610.00012v1 Announce Type: new Abstract: LLM agents increasingly act through modular systems, such as order, payment, inventory, and shipment services, where actions in one module change which transitions are valid in another. Standard world models usually fit observational traces, but this is not the quantity needed for intervention-time planning: a trace may show that payment precedes shipment without identifying whether payment authorizes shipment, inventory mediates the effect, or a h</description>
+      <pubDate>Fri, 02 Oct 2026 04:00:00 +0000</pubDate>
+      <guid>https://arxiv.org/abs/2610.00012</guid>
+      <category>cs.AI updates on arXiv.org</category>
     </item>
     <item>
-      <title>Lyft is paying $272.5M to settle lawsuit over how it classified drivers</title>
-      <link>https://techcrunch.com/2026/10/01/lyft-is-paying-272-5m-to-settle-lawsuit-over-how-it-classified-drivers/</link>
-      <description>Today, gig economy drivers are classified as contractors. This settlement clears up a lingering lawsuit from 2020 when that was still an unanswered issue.</description>
-      <pubDate>Thu, 01 Oct 2026 21:57:08 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/01/lyft-is-paying-272-5m-to-settle-lawsuit-over-how-it-classified-drivers/</guid>
-      <category>TechCrunch</category>
+      <title>From Proposal to Verified Effect: Praxa, an Evidence-Bound Harness for Governed AI Agent Execution</title>
+      <link>https://arxiv.org/abs/2610.00015</link>
+      <description>arXiv:2610.00015v1 Announce Type: new Abstract: Large-language-model agents can propose and execute actions, but proposal, authority, dispatch, verified external effect, and serving promotion are different claims. We present Praxa, an agent harness that represents these states explicitly through deterministic admission, brokered execution, external read-back, reconciliation, and reviewed promotion. We report four evidence lanes. First, an author-run repository-local audit at a pinned revision pa</description>
+      <pubDate>Fri, 02 Oct 2026 04:00:00 +0000</pubDate>
+      <guid>https://arxiv.org/abs/2610.00015</guid>
+      <category>cs.AI updates on arXiv.org</category>
     </item>
     <item>
-      <title>Kevin Mandia’s new ‘agent swarm’ security startup Armadin raises $255.5M at $2.5B valuation</title>
-      <link>https://techcrunch.com/2026/10/01/kevin-mandias-new-agent-swarm-security-startup-armadin-raises-255-5m-at-2-5b-valuation/</link>
-      <description>Kevin Mandia, best known as the founder of Mandiant, has a new startup that is using agent swarms to test and protect enterprises.</description>
-      <pubDate>Thu, 01 Oct 2026 21:55:22 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/01/kevin-mandias-new-agent-swarm-security-startup-armadin-raises-255-5m-at-2-5b-valuation/</guid>
-      <category>TechCrunch</category>
+      <title>What Do Rationales Communicate? A Message-Intervention Study in Role-Specialized QA</title>
+      <link>https://arxiv.org/abs/2610.00018</link>
+      <description>arXiv:2610.00018v1 Announce Type: new Abstract: Role-specialized QA pipelines increasingly pass rationales from a reasoner to a verifier, but it is unclear what this message actually buys: better answers, stronger support assessment, or a new failure surface. We introduce a message-intervention diagnostic that fixes the evidence and candidate answer while varying only the rationale passed across the reasoner-to-verifier boundary. On 400 MuSiQue, HotpotQA, and 2WikiMultiHopQA examples with DeepSe</description>
+      <pubDate>Fri, 02 Oct 2026 04:00:00 +0000</pubDate>
+      <guid>https://arxiv.org/abs/2610.00018</guid>
+      <category>cs.AI updates on arXiv.org</category>
     </item>
     <item>
-      <title>3D в игре на Flame: от одной модели до целого мира</title>
-      <link>https://habr.com/ru/articles/1089382/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089382</link>
-      <description>River Sortie это шутер в духе River Raid, в который можно сыграть прямо в браузере . Самолёт летит вверх по бесконечной реке, сбивает танкеры, вертолёты и мосты, заправляется над складами. Всё, что в нём движется, это обычные компоненты Flame с хитбоксами Flame, а рисует всё это в 3D flutter3d. Расскажу, как два движка поделили работу, что для этого пришлось добавить в мост flame_flutter3d, и про короткий способ, когда в 2D-игре нужна всего одна трёхмерная модель. Читать далее</description>
-      <pubDate>Thu, 01 Oct 2026 21:51:29 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1089382/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089382</guid>
-      <category>Все публикации подряд на Хабре</category>
+      <title>Measuring the Microtask Eligibility Gap: When Is an Off-the-Shelf SLM Enough for an Agent Harness?</title>
+      <link>https://arxiv.org/abs/2610.00025</link>
+      <description>arXiv:2610.00025v1 Announce Type: new Abstract: Agent harnesses increasingly want to run small language models (SLMs) on the microtasks around a frontier large language model (LLM) planner: auto-approving shell commands, writing memory, selecting tools, ranking past turns. We ask whether off-the-shelf SLMs meet practitioner-defined thresholds and, when they fail, why, and whether quantization changes the answer. We build a benchmark of 4 such microtasks with fixed prompts and automatic metrics, </description>
+      <pubDate>Fri, 02 Oct 2026 04:00:00 +0000</pubDate>
+      <guid>https://arxiv.org/abs/2610.00025</guid>
+      <category>cs.AI updates on arXiv.org</category>
     </item>
     <item>
-      <title>Musk’s AI chatbot Grok reportedly encouraged Trump to capture Venezuela’s president</title>
-      <link>https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/</link>
-      <description>President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicolás Maduro.</description>
-      <pubDate>Thu, 01 Oct 2026 21:08:11 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/</guid>
-      <category>TechCrunch</category>
+      <title>Characterizing a Configuration Where Inference-Time PRM-Pruned Fragment Grafting Is Inert: Evidence from Three Reasoning LMs</title>
+      <link>https://arxiv.org/abs/2610.00047</link>
+      <description>arXiv:2610.00047v1 Announce Type: new Abstract: Diversity collapse in parallel chain-of-thought has motivated inference-time interventions built on a natural design: when a process reward model (PRM) prunes a chain, its high-PRM prefix is extracted and grafted verbatim as an in-context demonstration into a still-decoding sibling. We isolate this mechanism, PRM-Pruned Fragment Grafting (PPFG), as the most cost-minimal operationalization of cross-trajectory step-level transfer, and test it at the </description>
+      <pubDate>Fri, 02 Oct 2026 04:00:00 +0000</pubDate>
+      <guid>https://arxiv.org/abs/2610.00047</guid>
+      <category>cs.AI updates on arXiv.org</category>
     </item>
     <item>
-      <title>900 гипотез об уязвимостях и 12 миллиардов токенов</title>
-      <link>https://habr.com/ru/articles/1089374/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089374</link>
-      <description>«Просто напишите правильный промпт», говорили они У меня появился проект, которому нужно перекладывать миллионы пакетов со скоростью канала. Для такой задачи я рассматривал C, C++ и Rust. На C я последний раз писал в 2009 году, и обратно не тянет. Слабак , согласен. Выбрал Rust: современный язык, удобная сборка, большая библиотечная экосистема и обещание безопасности памяти. Когда в описании технологии встречается слово «безопасный», у меня по профессиональной привычке начинает чесаться в кончик</description>
-      <pubDate>Thu, 01 Oct 2026 20:41:21 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1089374/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089374</guid>
-      <category>Все публикации подряд на Хабре</category>
+      <title>Gradient-Aligned Pair Selection for Personalized Preference Optimization</title>
+      <link>https://arxiv.org/abs/2610.00061</link>
+      <description>arXiv:2610.00061v1 Announce Type: new Abstract: Personalizing large language models (LLMs) requires aligning generation behavior with user-specific preferences rather than aggregate quality. While Direct Preference Optimization (DPO) provides a stable framework for preference learning, its effectiveness in personalized settings critically depends on how preference pairs are selected. Existing approaches typically rely on heuristic criteria, such as likelihood-based extremes, which decouple optim</description>
+      <pubDate>Fri, 02 Oct 2026 04:00:00 +0000</pubDate>
+      <guid>https://arxiv.org/abs/2610.00061</guid>
+      <category>cs.AI updates on arXiv.org</category>
     </item>
     <item>
-      <title>Парсер расписаний после хабратестирования: полвторого, RRULE, systemd и производственный календарь</title>
-      <link>https://habr.com/ru/articles/1089372/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089372</link>
-      <description>В прошлой статье я показал cronsense, библиотеку, которая переводит расписание на русском или английском в cron: «по будням в 9:30» → 30 9 * * 1-5 . Комментаторы устроили ей хабратестирование и нашли, чего она не умеет: «полвторого», «без пяти шестнадцать», «каждые полчаса», а ещё задачи, для которых cron не подходит вообще. За несколько дней вышло семь версий. Теперь одна фраза превращается в cron, RRULE для календарей или таймер systemd, а праздники можно называть по имени. Для «последнего раб</description>
-      <pubDate>Thu, 01 Oct 2026 20:35:47 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1089372/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089372</guid>
-      <category>Все публикации подряд на Хабре</category>
+      <title>K-Dense BYOK: An Open-Source AI Research Assistant That Runs Locally and Keeps a Hash-Chained Lab Notebook</title>
+      <link>https://arxiv.org/abs/2610.00074</link>
+      <description>arXiv:2610.00074v1 Announce Type: new Abstract: K-Dense BYOK (bring your own keys) is a free, open-source AI research assistant for scientists in any field that runs on the researcher's own computer. The researcher supplies access to a model of their choice, hosted or running locally, and the application supplies everything else: a place for the work to run, a layer of scientific scaffolding, and a complete record. Each project is an ordinary folder, so the data, the code, the results, and the r</description>
+      <pubDate>Fri, 02 Oct 2026 04:00:00 +0000</pubDate>
+      <guid>https://arxiv.org/abs/2610.00074</guid>
+      <category>cs.AI updates on arXiv.org</category>
     </item>
     <item>
-      <title>Вдвое меньше токенов без смены модели: что NVIDIA сделала с harness кодинг-агента</title>
-      <link>https://habr.com/ru/articles/1089370/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089370</link>
-      <description>Исследователи из NVIDIA, MIT и NTU поручили одному ИИ-агенту улучшать harness другого, кодинг-ассистента на базе открытого Pi. Агент перебрал 152 идеи, и 4 из них сократили расход токенов почти вдвое при той же модели. Счёт за API упал на треть, средний балл на EdgeBench снизился на 6 %. Разбираем, что такое harness, какие приёмы сработали и где у результатов слабые места. Какие 4 приёма сработали</description>
-      <pubDate>Thu, 01 Oct 2026 20:15:29 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1089370/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089370</guid>
-      <category>Все публикации подряд на Хабре</category>
+      <title>Scientific Agents: Evaluating Profession-Specific System Prompts on Scientific Tasks</title>
+      <link>https://arxiv.org/abs/2610.00084</link>
+      <description>arXiv:2610.00084v1 Announce Type: new Abstract: Detailed profession-specific system prompts raise token use and estimated cost per response without a consistent accuracy gain. We evaluate Scientific Agents, an open-source corpus of 503 profession-specific AGENTS.md profiles, with Gemini 3.8 Flash via OpenRouter in the Pi agent harness. We compare matched profiles with four controls: a minimal baseline ("You are a helpful assistant"), the profile's opening role sentence, a generic scientific rigo</description>
+      <pubDate>Fri, 02 Oct 2026 04:00:00 +0000</pubDate>
+      <guid>https://arxiv.org/abs/2610.00084</guid>
+      <category>cs.AI updates on arXiv.org</category>
     </item>
     <item>
-      <title>Google’s new Guided Vision feature can help you read the fine print</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision</link>
-      <description>Guided Vision is launching in Gemini Live on compatible Android devices today to use AI to give real-time audio descriptions of anything you point your phone's camera at. By sharing your camera in Gemini Live, you can have Google's AI help with things like reading small text, describing your surroundings, finding or identifying objects around […]</description>
-      <pubDate>Thu, 01 Oct 2026 19:47:51 +0000</pubDate>
-      <guid>https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision</guid>
-      <category>The Verge</category>
+      <title>Comedic Fool's Gold: Reward Exploits and Countermeasures in Conversational Humor</title>
+      <link>https://arxiv.org/abs/2610.00197</link>
+      <description>arXiv:2610.00197v1 Announce Type: new Abstract: We investigate automated rewards for training language models in conversational humor, focusing on reward exploits and countermeasures. Two approaches aim to capture understandable surprise and predicted audience amusement. Controlled tests show that an embedding-based surprise reward accepts word-shuffled replies as readily as witty ones. A fluency filter detects the shuffles, but the combined reward also rejects some witty replies and fails furth</description>
+      <pubDate>Fri, 02 Oct 2026 04:00:00 +0000</pubDate>
+      <guid>https://arxiv.org/abs/2610.00197</guid>
+      <category>cs.AI updates on arXiv.org</category>
     </item>
   </channel>
 </rss>
