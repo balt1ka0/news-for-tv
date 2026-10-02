@@ -5,88 +5,88 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Fri, 02 Oct 2026 04:22:11 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 10:54:19 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Heavy-Tailed Memory Traces in Long-Horizon Language Agents</title>
-      <link>https://arxiv.org/abs/2610.00010</link>
-      <description>arXiv:2610.00010v1 Announce Type: new Abstract: Long-horizon language agents increasingly rely on external memory as a frozen world model, yet current memory systems are usually judged only by task success or token cost. We argue that the missing object is the shape of memory use: under finite context and repeated retrieval, agent memory can concentrate on a small core while leaving rare states in a long tail where prediction errors accumulate. We study this effect through a conservative tail au</description>
-      <pubDate>Fri, 02 Oct 2026 04:00:00 +0000</pubDate>
-      <guid>https://arxiv.org/abs/2610.00010</guid>
-      <category>cs.AI updates on arXiv.org</category>
+      <title>Что реально дает Wi-Fi 7 дома</title>
+      <link>https://habr.com/ru/companies/x-com/articles/1089598/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089598</link>
+      <description>Роутеры с Wi-Fi 7 за последний год подешевели настолько, что вопрос, брать или нет, перестал быть праздным. Если раньше это были в основном коммерческие приборы за 40 тысяч с антеннами как клешни у камчатского краба, то сейчас они представляют собой вполне себе одомашненные устройства за 10к рублей . То есть берут их уже просто потому, что пришло время менять старый роутер. Однако дальше происходит вот что. На коробке написано 46 Гбит/с, в описании – про одновременную работу в трех диапазонах, в</description>
+      <pubDate>Fri, 02 Oct 2026 10:50:58 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/x-com/articles/1089598/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089598</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>When Do Causal World Models Help Modular LLM Agents</title>
-      <link>https://arxiv.org/abs/2610.00012</link>
-      <description>arXiv:2610.00012v1 Announce Type: new Abstract: LLM agents increasingly act through modular systems, such as order, payment, inventory, and shipment services, where actions in one module change which transitions are valid in another. Standard world models usually fit observational traces, but this is not the quantity needed for intervention-time planning: a trace may show that payment precedes shipment without identifying whether payment authorizes shipment, inventory mediates the effect, or a h</description>
-      <pubDate>Fri, 02 Oct 2026 04:00:00 +0000</pubDate>
-      <guid>https://arxiv.org/abs/2610.00012</guid>
-      <category>cs.AI updates on arXiv.org</category>
+      <title>FAIRouter. Мы научили ИИ выбирать лучшую LLM модель для каждой задачи</title>
+      <link>https://habr.com/ru/articles/1086786/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1086786</link>
+      <description>Привет, Хабр! Мы выложили в открытый доступ библиотеку FAIRouter , которая выбирает LLM-исполнителя под задачу, а после ответа принимает у него работу. В мире, где количество больших языковых моделей (LLM) растет в геометрической прогрессии, а их возможности и стоимость сильно варьируются, встает вопрос: как выбрать именно ту модель, которая идеально подойдет для конкретной задачи, обеспечит наилучшее качество и при этом будет экономически эффективной? Для решение вышеописанной проблемы мы разра</description>
+      <pubDate>Fri, 02 Oct 2026 10:50:07 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1086786/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1086786</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>From Proposal to Verified Effect: Praxa, an Evidence-Bound Harness for Governed AI Agent Execution</title>
-      <link>https://arxiv.org/abs/2610.00015</link>
-      <description>arXiv:2610.00015v1 Announce Type: new Abstract: Large-language-model agents can propose and execute actions, but proposal, authority, dispatch, verified external effect, and serving promotion are different claims. We present Praxa, an agent harness that represents these states explicitly through deterministic admission, brokered execution, external read-back, reconciliation, and reviewed promotion. We report four evidence lanes. First, an author-run repository-local audit at a pinned revision pa</description>
-      <pubDate>Fri, 02 Oct 2026 04:00:00 +0000</pubDate>
-      <guid>https://arxiv.org/abs/2610.00015</guid>
-      <category>cs.AI updates on arXiv.org</category>
+      <title>Repka Pi 5, обзор и сравнение c Raspberry Pi 5 — сразу впечатляющие результаты</title>
+      <link>https://habr.com/ru/articles/1088566/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1088566</link>
+      <description>Около полугода назад проект Репка выпустил и вывел на рынок пятую версию - Repka Pi 5, сравним производительности Raspberry Pi 5 и Repka Pi 5 . Насколько Repka Pi оказалась быстрая? Если совсем кратко, то вот так: - производительность процессора в 1,5 раза выше; - скорость работы с ОЗУ выше более чем в 2 раза; - производительность графической подсистемы выше в 1,9 раз. Читать далее</description>
+      <pubDate>Fri, 02 Oct 2026 10:48:25 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1088566/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1088566</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>What Do Rationales Communicate? A Message-Intervention Study in Role-Specialized QA</title>
-      <link>https://arxiv.org/abs/2610.00018</link>
-      <description>arXiv:2610.00018v1 Announce Type: new Abstract: Role-specialized QA pipelines increasingly pass rationales from a reasoner to a verifier, but it is unclear what this message actually buys: better answers, stronger support assessment, or a new failure surface. We introduce a message-intervention diagnostic that fixes the evidence and candidate answer while varying only the rationale passed across the reasoner-to-verifier boundary. On 400 MuSiQue, HotpotQA, and 2WikiMultiHopQA examples with DeepSe</description>
-      <pubDate>Fri, 02 Oct 2026 04:00:00 +0000</pubDate>
-      <guid>https://arxiv.org/abs/2610.00018</guid>
-      <category>cs.AI updates on arXiv.org</category>
+      <title>Docs-as-code для медицинских систем: как перевести 1160 страниц из MS Word в Asciidoctor и автоматизировать сборку</title>
+      <link>https://habr.com/ru/articles/1089588/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089588</link>
+      <description>Вам в наследство досталось руководство пользователя МИС на 1160 страниц в формате .docx, тысячи повторяющихся скриншотов, процесс обновления вызывает глубокую грусть. Что с этим «добром» делать? В этой статье я расскажу о своём проекте по переводу такой документации на рельсы docs-as-code: переосмысление структуры, укрощение размера скриншотов, борьба с кириллицей в Asciidoctor, настройка автоматической сборки HTML и PDF через GitLab CI/CD. Читать далее</description>
+      <pubDate>Fri, 02 Oct 2026 10:33:55 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1089588/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089588</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Measuring the Microtask Eligibility Gap: When Is an Off-the-Shelf SLM Enough for an Agent Harness?</title>
-      <link>https://arxiv.org/abs/2610.00025</link>
-      <description>arXiv:2610.00025v1 Announce Type: new Abstract: Agent harnesses increasingly want to run small language models (SLMs) on the microtasks around a frontier large language model (LLM) planner: auto-approving shell commands, writing memory, selecting tools, ranking past turns. We ask whether off-the-shelf SLMs meet practitioner-defined thresholds and, when they fail, why, and whether quantization changes the answer. We build a benchmark of 4 such microtasks with fixed prompts and automatic metrics, </description>
-      <pubDate>Fri, 02 Oct 2026 04:00:00 +0000</pubDate>
-      <guid>https://arxiv.org/abs/2610.00025</guid>
-      <category>cs.AI updates on arXiv.org</category>
+      <title>Релятивистские поправки в GPS</title>
+      <link>https://habr.com/ru/articles/1089582/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089582</link>
+      <description>В этой статье разберем, как релятивистские поправки могут влиять на точность геолокации по GPS-спутникам. Для наших тестов будем использовать симулятор сигнала спутников gps-sdr-sim и утилиту gnss-sdr для геолокации. Устанавливаем утилиту gnss-sdr: Читать далее</description>
+      <pubDate>Fri, 02 Oct 2026 10:22:27 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1089582/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089582</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Characterizing a Configuration Where Inference-Time PRM-Pruned Fragment Grafting Is Inert: Evidence from Three Reasoning LMs</title>
-      <link>https://arxiv.org/abs/2610.00047</link>
-      <description>arXiv:2610.00047v1 Announce Type: new Abstract: Diversity collapse in parallel chain-of-thought has motivated inference-time interventions built on a natural design: when a process reward model (PRM) prunes a chain, its high-PRM prefix is extracted and grafted verbatim as an in-context demonstration into a still-decoding sibling. We isolate this mechanism, PRM-Pruned Fragment Grafting (PPFG), as the most cost-minimal operationalization of cross-trajectory step-level transfer, and test it at the </description>
-      <pubDate>Fri, 02 Oct 2026 04:00:00 +0000</pubDate>
-      <guid>https://arxiv.org/abs/2610.00047</guid>
-      <category>cs.AI updates on arXiv.org</category>
+      <title>Русификация Omarchy Linux одним скриптом</title>
+      <link>https://habr.com/ru/articles/1089578/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089578</link>
+      <description>Решил попробовать нашумевший дистрибутив Omarchy Linux и понять — за что же его все так хвалят. И сразу столкнулся с тем, что поддержки русского языка в полной мере нет в интерфейсе. Да, локаль можно перевести и доустановить нужное, но сами меню, плагины — не имеют переключения интерфейса на русский язык. Поэтому сначала я начал доустанавливать всё руками, а потом собрал всё в скрипты. Читать далее</description>
+      <pubDate>Fri, 02 Oct 2026 10:19:56 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1089578/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089578</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Gradient-Aligned Pair Selection for Personalized Preference Optimization</title>
-      <link>https://arxiv.org/abs/2610.00061</link>
-      <description>arXiv:2610.00061v1 Announce Type: new Abstract: Personalizing large language models (LLMs) requires aligning generation behavior with user-specific preferences rather than aggregate quality. While Direct Preference Optimization (DPO) provides a stable framework for preference learning, its effectiveness in personalized settings critically depends on how preference pairs are selected. Existing approaches typically rely on heuristic criteria, such as likelihood-based extremes, which decouple optim</description>
-      <pubDate>Fri, 02 Oct 2026 04:00:00 +0000</pubDate>
-      <guid>https://arxiv.org/abs/2610.00061</guid>
-      <category>cs.AI updates on arXiv.org</category>
+      <title>Зачем Авито нужна своя Inference-платформа для ML/LLM-сервисов: PaaS vs отдельное решение</title>
+      <link>https://habr.com/ru/companies/avito/articles/1089128/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089128</link>
+      <description>Привет, Хабр! Меня зовут Антон Алексеев , я ML Ops-инженер в Авито . В этой статье я разберу, почему существующий PaaS — отличный инструмент для веб-сервисов, но плохо подходит для ML/LLM-Inference, и с какими похожими проблемами сталкиваются крупные компании, у которых те же задачи. Также расскажу, почему было принято решение не дорабатывать PaaS под Inference, а строить отдельную Inference-платформу на базе готового open-source ядра, и почему этот путь оказался предпочтительнее. Читать далее</description>
+      <pubDate>Fri, 02 Oct 2026 10:13:09 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/avito/articles/1089128/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089128</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>K-Dense BYOK: An Open-Source AI Research Assistant That Runs Locally and Keeps a Hash-Chained Lab Notebook</title>
-      <link>https://arxiv.org/abs/2610.00074</link>
-      <description>arXiv:2610.00074v1 Announce Type: new Abstract: K-Dense BYOK (bring your own keys) is a free, open-source AI research assistant for scientists in any field that runs on the researcher's own computer. The researcher supplies access to a model of their choice, hosted or running locally, and the application supplies everything else: a place for the work to run, a layer of scientific scaffolding, and a complete record. Each project is an ordinary folder, so the data, the code, the results, and the r</description>
-      <pubDate>Fri, 02 Oct 2026 04:00:00 +0000</pubDate>
-      <guid>https://arxiv.org/abs/2610.00074</guid>
-      <category>cs.AI updates on arXiv.org</category>
+      <title>ИИ-ревью, или как я себя чуть не уволил</title>
+      <link>https://habr.com/ru/articles/1089532/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089532</link>
+      <description>AI-ревьюер для GitLab, который проверяет не отдельный merge request, а всю задачу сразу, во всех сервисах, которые она задела. И почему для этого понадобился агент, а не анализ diff через API. Читать далее</description>
+      <pubDate>Fri, 02 Oct 2026 10:01:59 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1089532/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089532</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Scientific Agents: Evaluating Profession-Specific System Prompts on Scientific Tasks</title>
-      <link>https://arxiv.org/abs/2610.00084</link>
-      <description>arXiv:2610.00084v1 Announce Type: new Abstract: Detailed profession-specific system prompts raise token use and estimated cost per response without a consistent accuracy gain. We evaluate Scientific Agents, an open-source corpus of 503 profession-specific AGENTS.md profiles, with Gemini 3.8 Flash via OpenRouter in the Pi agent harness. We compare matched profiles with four controls: a minimal baseline ("You are a helpful assistant"), the profile's opening role sentence, a generic scientific rigo</description>
-      <pubDate>Fri, 02 Oct 2026 04:00:00 +0000</pubDate>
-      <guid>https://arxiv.org/abs/2610.00084</guid>
-      <category>cs.AI updates on arXiv.org</category>
+      <title>Я обучил нейросеть играть в «Точки» — теперь она меня обыгрывает</title>
+      <link>https://habr.com/ru/articles/1089566/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089566</link>
+      <description>Знаете ли вы игру в «Точки»? Это игра на тетрадном листе в клетку. Двое игроков ставят точки разных цветов на пересечениях клеток и стараются окружить точки соперника. В школе я сыграл в неё немало партий, часто выигрывал и радовался, когда попадался сильный противник. После универа я начал работать разработчиком и хотел запрограммировать алгоритм для игры в «Точки», но у меня не получилось. Тогда стал смотреть в сторону обучения нейросети, но не знал, с чего начать. Я понимал, что для обучения </description>
+      <pubDate>Fri, 02 Oct 2026 10:01:28 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1089566/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089566</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Comedic Fool's Gold: Reward Exploits and Countermeasures in Conversational Humor</title>
-      <link>https://arxiv.org/abs/2610.00197</link>
-      <description>arXiv:2610.00197v1 Announce Type: new Abstract: We investigate automated rewards for training language models in conversational humor, focusing on reward exploits and countermeasures. Two approaches aim to capture understandable surprise and predicted audience amusement. Controlled tests show that an embedding-based surprise reward accepts word-shuffled replies as readily as witty ones. A fluency filter detects the shuffles, but the combined reward also rejects some witty replies and fails furth</description>
-      <pubDate>Fri, 02 Oct 2026 04:00:00 +0000</pubDate>
-      <guid>https://arxiv.org/abs/2610.00197</guid>
-      <category>cs.AI updates on arXiv.org</category>
+      <title>Я хотел одного гуля, а ИИ‑агенты собрали конвейер 3D‑персонажей для Unreal Engine 5</title>
+      <link>https://habr.com/ru/articles/1089554/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089554</link>
+      <description>Я делаю Dungeon Cult — игру про строительство и управление подземельем. Механически она растёт из Dungeon Keeper, а визуально уходит в Лавкрафта: культисты, глубоководные, щупальца, живая архитектура и всё такое. Начинался проект как игра на веб‑странице, а затем переехал в Unreal Engine 5. Расскажу, как попытка сделать одного рабочего гуля превратилась в конвейер 3D‑персонажей с ИИ‑агентами. Читать далее</description>
+      <pubDate>Fri, 02 Oct 2026 09:49:48 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1089554/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089554</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
   </channel>
 </rss>
