@@ -5,87 +5,87 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Fri, 02 Oct 2026 10:54:19 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 16:31:10 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Что реально дает Wi-Fi 7 дома</title>
-      <link>https://habr.com/ru/companies/x-com/articles/1089598/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089598</link>
-      <description>Роутеры с Wi-Fi 7 за последний год подешевели настолько, что вопрос, брать или нет, перестал быть праздным. Если раньше это были в основном коммерческие приборы за 40 тысяч с антеннами как клешни у камчатского краба, то сейчас они представляют собой вполне себе одомашненные устройства за 10к рублей . То есть берут их уже просто потому, что пришло время менять старый роутер. Однако дальше происходит вот что. На коробке написано 46 Гбит/с, в описании – про одновременную работу в трех диапазонах, в</description>
-      <pubDate>Fri, 02 Oct 2026 10:50:58 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/x-com/articles/1089598/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089598</guid>
+      <title>Flutter на клиенте, Fletch на сервере: бэкенд на знакомом Dart</title>
+      <link>https://habr.com/ru/articles/1088658/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1088658</link>
+      <description>Вы пишете приложение на Flutter. Модели уже описаны, бизнес-правила продуманы. Осталась небольшая деталь: сервер, который будет принимать запросы и работать с данными. И здесь обычно начинается второй сезон сериала. Другой язык, другой менеджер пакетов, ещё один набор моделей. Поле переименовали на клиенте, забыли на сервере — поздравляем, у нас распределённая опечатка. Dart позволяет написать обе стороны приложения. А Fletch предлагает довольно понятный способ сделать серверную: знакомые по Exp</description>
+      <pubDate>Fri, 02 Oct 2026 16:25:56 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1088658/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1088658</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>FAIRouter. Мы научили ИИ выбирать лучшую LLM модель для каждой задачи</title>
-      <link>https://habr.com/ru/articles/1086786/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1086786</link>
-      <description>Привет, Хабр! Мы выложили в открытый доступ библиотеку FAIRouter , которая выбирает LLM-исполнителя под задачу, а после ответа принимает у него работу. В мире, где количество больших языковых моделей (LLM) растет в геометрической прогрессии, а их возможности и стоимость сильно варьируются, встает вопрос: как выбрать именно ту модель, которая идеально подойдет для конкретной задачи, обеспечит наилучшее качество и при этом будет экономически эффективной? Для решение вышеописанной проблемы мы разра</description>
-      <pubDate>Fri, 02 Oct 2026 10:50:07 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1086786/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1086786</guid>
+      <title>Gemini 4 победила в бенчмарках. Почему это всё меньше говорит о качестве модели</title>
+      <link>https://habr.com/ru/articles/1089782/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089782</link>
+      <description>Gemini 4 Argon вышел с таблицей, где он лидирует в 12 тестах из 18. Ровно такую таблицу Google показывала в феврале — для Gemini 3.1 Pro. Тот потом проиграл Claude в реальной работе больше чем на 300 очков. У релизов Gemini сложился сценарий, и Argon пока идёт по нему шаг в шаг. Дело при этом не только в Google: победа в бенчмарках сегодня значит всё меньше. Читать далее</description>
+      <pubDate>Fri, 02 Oct 2026 16:05:34 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1089782/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089782</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Repka Pi 5, обзор и сравнение c Raspberry Pi 5 — сразу впечатляющие результаты</title>
-      <link>https://habr.com/ru/articles/1088566/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1088566</link>
-      <description>Около полугода назад проект Репка выпустил и вывел на рынок пятую версию - Repka Pi 5, сравним производительности Raspberry Pi 5 и Repka Pi 5 . Насколько Repka Pi оказалась быстрая? Если совсем кратко, то вот так: - производительность процессора в 1,5 раза выше; - скорость работы с ОЗУ выше более чем в 2 раза; - производительность графической подсистемы выше в 1,9 раз. Читать далее</description>
-      <pubDate>Fri, 02 Oct 2026 10:48:25 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1088566/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1088566</guid>
+      <title>Как я создал СуперЗавуч — программу для генерации расписаний занятий</title>
+      <link>https://habr.com/ru/articles/1089006/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089006</link>
+      <description>Привет, Хабр! Я бы хотел рассказать о том, как я создал программу для составления расписаний для учебных заведений - СуперЗавуч . СуперЗавуч - современная программа для составления расписаний уроков для школ, лицеев и колледжей. Программа позволяет создать расписание за несколько минут и имеет много параметров для конфигураций. Читать далее</description>
+      <pubDate>Fri, 02 Oct 2026 16:00:45 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1089006/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089006</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Docs-as-code для медицинских систем: как перевести 1160 страниц из MS Word в Asciidoctor и автоматизировать сборку</title>
-      <link>https://habr.com/ru/articles/1089588/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089588</link>
-      <description>Вам в наследство досталось руководство пользователя МИС на 1160 страниц в формате .docx, тысячи повторяющихся скриншотов, процесс обновления вызывает глубокую грусть. Что с этим «добром» делать? В этой статье я расскажу о своём проекте по переводу такой документации на рельсы docs-as-code: переосмысление структуры, укрощение размера скриншотов, борьба с кириллицей в Asciidoctor, настройка автоматической сборки HTML и PDF через GitLab CI/CD. Читать далее</description>
-      <pubDate>Fri, 02 Oct 2026 10:33:55 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1089588/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089588</guid>
+      <title>Разбираемся с MCP на практике: сервер документации Swagger на Laravel</title>
+      <link>https://habr.com/ru/articles/1089476/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089476</link>
+      <description>Разбираемся, как дать AI-ассистенту доступ к документации API, не загружая в контекст всю спецификацию. Импортируем Swagger PetStore в PostgreSQL и собираем на официальном пакете laravel/mcp сервер с четырьмя инструментами: поиск по документации, детали операции, именованная схема и список операций по тегу. Проверяем контракт в MCP Inspector и подключаем сервер к Claude Code. Читать далее</description>
+      <pubDate>Fri, 02 Oct 2026 16:00:44 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1089476/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089476</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Релятивистские поправки в GPS</title>
-      <link>https://habr.com/ru/articles/1089582/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089582</link>
-      <description>В этой статье разберем, как релятивистские поправки могут влиять на точность геолокации по GPS-спутникам. Для наших тестов будем использовать симулятор сигнала спутников gps-sdr-sim и утилиту gnss-sdr для геолокации. Устанавливаем утилиту gnss-sdr: Читать далее</description>
-      <pubDate>Fri, 02 Oct 2026 10:22:27 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1089582/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089582</guid>
+      <title>Typing в Python 3.11–3.14: что изменилось и как это использовать уже сейчас</title>
+      <link>https://habr.com/ru/articles/1089780/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089780</link>
+      <description>За последнее время я прочитал множество репозиториев, где в Pyhton пользуются типизацией и почти везде синтаксис не новее 3.11: Optional , TypeVar на уровне модуля, Generic[T] , кавычки вокруг опережающих ссылок. При этом у Python 3.10 поддержка закончилась, и разработчики языка дали нам новых удобных инструментов и чтобы ими пользоваться не всегда нужно обновляться до последней версии. В этой статье расскажу, какие основные фишки появились за последние несколько лет и как ими пользоваться даже </description>
+      <pubDate>Fri, 02 Oct 2026 15:54:50 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1089780/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089780</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Русификация Omarchy Linux одним скриптом</title>
-      <link>https://habr.com/ru/articles/1089578/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089578</link>
-      <description>Решил попробовать нашумевший дистрибутив Omarchy Linux и понять — за что же его все так хвалят. И сразу столкнулся с тем, что поддержки русского языка в полной мере нет в интерфейсе. Да, локаль можно перевести и доустановить нужное, но сами меню, плагины — не имеют переключения интерфейса на русский язык. Поэтому сначала я начал доустанавливать всё руками, а потом собрал всё в скрипты. Читать далее</description>
-      <pubDate>Fri, 02 Oct 2026 10:19:56 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1089578/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089578</guid>
-      <category>Все публикации подряд на Хабре</category>
+      <title>Paramount and Warner Bros Discovery to become Skydance</title>
+      <link>https://techcrunch.com/2026/10/02/paramount-and-warner-bros-discovery-to-become-skydance/</link>
+      <description>The roughly $110 billion deal is expected to close October 6.</description>
+      <pubDate>Fri, 02 Oct 2026 15:53:50 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/02/paramount-and-warner-bros-discovery-to-become-skydance/</guid>
+      <category>TechCrunch</category>
     </item>
     <item>
-      <title>Зачем Авито нужна своя Inference-платформа для ML/LLM-сервисов: PaaS vs отдельное решение</title>
-      <link>https://habr.com/ru/companies/avito/articles/1089128/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089128</link>
-      <description>Привет, Хабр! Меня зовут Антон Алексеев , я ML Ops-инженер в Авито . В этой статье я разберу, почему существующий PaaS — отличный инструмент для веб-сервисов, но плохо подходит для ML/LLM-Inference, и с какими похожими проблемами сталкиваются крупные компании, у которых те же задачи. Также расскажу, почему было принято решение не дорабатывать PaaS под Inference, а строить отдельную Inference-платформу на базе готового open-source ядра, и почему этот путь оказался предпочтительнее. Читать далее</description>
-      <pubDate>Fri, 02 Oct 2026 10:13:09 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/avito/articles/1089128/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089128</guid>
-      <category>Все публикации подряд на Хабре</category>
+      <title>Dots get up in Muse’s business</title>
+      <link>https://www.theverge.com/podcast/1004059/openai-dots-kindle-homepad-cybercab-vergecast</link>
+      <description>OpenAI's answer to Muse arrived this week, and it looks a whole lot like Muse dressed up in a suit and tie. Dots is a business-first product - for now, at least - costing a minimum of $100 per month. And sure, you can make a cute little Dot character, just like you can make […]</description>
+      <pubDate>Fri, 02 Oct 2026 15:47:05 +0000</pubDate>
+      <guid>https://www.theverge.com/podcast/1004059/openai-dots-kindle-homepad-cybercab-vergecast</guid>
+      <category>The Verge</category>
     </item>
     <item>
-      <title>ИИ-ревью, или как я себя чуть не уволил</title>
-      <link>https://habr.com/ru/articles/1089532/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089532</link>
-      <description>AI-ревьюер для GitLab, который проверяет не отдельный merge request, а всю задачу сразу, во всех сервисах, которые она задела. И почему для этого понадобился агент, а не анализ diff через API. Читать далее</description>
-      <pubDate>Fri, 02 Oct 2026 10:01:59 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1089532/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089532</guid>
-      <category>Все публикации подряд на Хабре</category>
+      <title>Pope Leo XIV is not a fan of AI-generated art</title>
+      <link>https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/</link>
+      <description>"There is an ontological difference, even before an aesthetic one, between art and what a machine can generate through statistical calculation based on millions of images created by others," the pope wrote. "Algorithms lack the spark of humanity."</description>
+      <pubDate>Fri, 02 Oct 2026 15:39:41 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/</guid>
+      <category>TechCrunch</category>
     </item>
     <item>
-      <title>Я обучил нейросеть играть в «Точки» — теперь она меня обыгрывает</title>
-      <link>https://habr.com/ru/articles/1089566/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089566</link>
-      <description>Знаете ли вы игру в «Точки»? Это игра на тетрадном листе в клетку. Двое игроков ставят точки разных цветов на пересечениях клеток и стараются окружить точки соперника. В школе я сыграл в неё немало партий, часто выигрывал и радовался, когда попадался сильный противник. После универа я начал работать разработчиком и хотел запрограммировать алгоритм для игры в «Точки», но у меня не получилось. Тогда стал смотреть в сторону обучения нейросети, но не знал, с чего начать. Я понимал, что для обучения </description>
-      <pubDate>Fri, 02 Oct 2026 10:01:28 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1089566/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089566</guid>
-      <category>Все публикации подряд на Хабре</category>
+      <title>Laytr’s new app lets you save anything you find online, not just articles to read</title>
+      <link>https://techcrunch.com/2026/10/02/laytrs-new-app-lets-you-save-anything-you-find-online-not-just-articles-to-read/</link>
+      <description>Laytr lets you save articles, recipes, screenshots, videos, PDFs, and more for later, while keeping your archive private and synced across your Apple devices.</description>
+      <pubDate>Fri, 02 Oct 2026 15:31:20 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/02/laytrs-new-app-lets-you-save-anything-you-find-online-not-just-articles-to-read/</guid>
+      <category>TechCrunch</category>
     </item>
     <item>
-      <title>Я хотел одного гуля, а ИИ‑агенты собрали конвейер 3D‑персонажей для Unreal Engine 5</title>
-      <link>https://habr.com/ru/articles/1089554/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089554</link>
-      <description>Я делаю Dungeon Cult — игру про строительство и управление подземельем. Механически она растёт из Dungeon Keeper, а визуально уходит в Лавкрафта: культисты, глубоководные, щупальца, живая архитектура и всё такое. Начинался проект как игра на веб‑странице, а затем переехал в Unreal Engine 5. Расскажу, как попытка сделать одного рабочего гуля превратилась в конвейер 3D‑персонажей с ИИ‑агентами. Читать далее</description>
-      <pubDate>Fri, 02 Oct 2026 09:49:48 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1089554/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089554</guid>
+      <title>Ускорение рутины в 10 раз: как мы внедрили навыки для ИИ-агентов у разработчиков</title>
+      <link>https://habr.com/ru/articles/1089764/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089764</link>
+      <description>Разработчики одними из первых начали использовать ИИ-агентов, чтобы автоматизировать рутинные задачи. Для компании важно, чтобы такие изменения происходили системно: эффект был очевиден, накопленные навыки собирались и обобщались, а разработчиков можно было бы обучать работе с ними. Читать далее</description>
+      <pubDate>Fri, 02 Oct 2026 15:09:03 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1089764/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089764</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
   </channel>
