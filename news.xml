@@ -5,9 +5,41 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Sat, 03 Oct 2026 19:02:50 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 22:02:37 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Перевод] 18 изображений раскроют нам, как безмерно велик наш космос</title>
+      <link>https://habr.com/ru/articles/1089804/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089804</link>
+      <description>Итан Сигел (американский астрофизик‑теоретик и научный журналист, автор рубрики «Спросите Итана», один из пропагандистов современных научных знаний), пытается показать истинные размеры нашей Вселенной и соотношения в ней различных объектов - от планет до гигантских скоплений галактик. @avshkol перевёл эту статью, поскольку это просто интересно, особенно тем читателям, кто не изучал астрономию специально, вне школы, и единственное, что видел в космосе — звёздное небо невооруженным взглядом... Чит</description>
+      <pubDate>Sat, 03 Oct 2026 21:06:14 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1089804/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089804</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Мы как мир</title>
+      <link>https://habr.com/ru/articles/1090048/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090048</link>
+      <description>Всё, чем мы себя окружаем, это и результат наших мыслей, и то, чем мы мыслим. Дороги задают географию, скорость, дистанцию, пространство. Безделушки на комоде — память, эмоции. Инструменты на столе — планы, навыки. Наша внешняя среда не говорит, что нам делать, она нас ведёт. Что-то мягче, что-то жёстче, но мы — это не только мозг в черепной коробке, мы — это и то, что создали до нас и создали мы сами. Эта статья о том, что нас окружает, и как это связано с LLM и агентами. Читать далее</description>
+      <pubDate>Sat, 03 Oct 2026 20:32:13 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1090048/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090048</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Federal judge calls Flock ‘indiscriminate mass surveillance’</title>
+      <link>https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/</link>
+      <description>A federal judge ruled that a sheriff’s deputy violated a woman’s Fourth Amendment rights when using Flock to search for her license plate without a warrant.</description>
+      <pubDate>Sat, 03 Oct 2026 19:33:15 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>Отчёты на DOCX в FARA CRM: шаблоны в Word, редактор в браузере и PDF через LibreOffice</title>
+      <link>https://habr.com/ru/companies/faracrm/articles/1090044/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090044</link>
+      <description>Счёт на оплату, договор, акт, отчёт о продажах за месяц — без документов CRM остаётся записной книжкой. В FARA CRM мы закрыли эту задачу отчётами на DOCX. Шаблон — обычный файл Word с тегами Jinja, данные — функция на Python, результат — DOCX или PDF во вложении к записи. Поверх этого выросли редактор DOCX прямо в браузере, конструктор шаблонов с каталогом полей и превью PDF на живой записи, а также рассылка отчётов по расписанию. PDF по умолчанию собирает LibreOffice в контейнере, а без него ра</description>
+      <pubDate>Sat, 03 Oct 2026 19:32:02 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/faracrm/articles/1090044/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090044</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
     <item>
       <title>Как попасть в ответы AI Overviews: на русских запросах Google берёт половину источников не из топа</title>
       <link>https://habr.com/ru/articles/1090034/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090034</link>
@@ -33,6 +65,14 @@
       <category>TechCrunch</category>
     </item>
     <item>
+      <title>Дизайн на службе извлечения прибыли</title>
+      <link>https://habr.com/ru/articles/1090024/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090024</link>
+      <description>~90 минут чтения безусловно большой временной отрезок для статьи на Хабр, потому, если хочется сразу к сути, то читать надо следующие разделы: Аннотация; Долгая вводная; Глава 7. «Музыка на льдинах» Заключение. Остальные главы вводят постепенно в контекст и сопровождают по истории формирования тех проблем, о которых пойдет речь. В данной статье разбираю моральную сторону дизайна и экономическую модель как источник морали дизайна, что существует в этой экономической модели и неизбежно рождает про</description>
+      <pubDate>Sat, 03 Oct 2026 18:17:03 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1090024/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090024</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
       <title>«Вставьте диск в устройство A:» — я попробовал заставить Windows 11 сказать это SSD</title>
       <link>https://habr.com/ru/articles/1090022/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090022</link>
       <description>В Windows 11 для дисков отведено двадцать шесть букв и первые две система до сих пор придерживает для устройства, которое в серийные компьютеры перестали ставить где-то в середине нулевых. Любой ребенок, впервые открывший «Этот компьютер», рано или поздно спрашивает «а где A и B?», взрослый рядом отвечает одним словом «дискеты» и на этом разговор обычно заканчивается, хотя вопрос был хороший и заслуживал большего. Мой первый A: случился в начале 90-х на ЕС-1841 в вычислительном центре маминого Н</description>
@@ -46,46 +86,6 @@
       <description>Capcom's Pragmata might be all about the horrors of AI, but in practice the studio doesn't seem so down on the tech. During the Capcom Open Conference RE: 2026 programmer Satoshi Ishida gave a presentation with the mouthful of a title: "The Outlook and Future of the REX Project, Further Evolving the RE Engine for […]</description>
       <pubDate>Sat, 03 Oct 2026 16:49:10 +0000</pubDate>
       <guid>https://www.theverge.com/games/1004418/capcom-ai-game-development</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>OpenAI safety employee resigns, claiming the company’s ‘culture is broken’</title>
-      <link>https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/</link>
-      <description>By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.</description>
-      <pubDate>Sat, 03 Oct 2026 16:30:01 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>The best early October Prime Day deals happening now</title>
-      <link>https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october</link>
-      <description>It’s not even October yet and Amazon is already offering some Prime Big Deal Day discounts on its own hardware, along with plenty of other popular products. It’s all to hype up October Prime Day, which starts October 6th at 3AM ET and lasts through 3AM ET on the 8th if you’re on the East […]</description>
-      <pubDate>Sat, 03 Oct 2026 16:22:40 +0000</pubDate>
-      <guid>https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>От одного агента к AI-холдингу: масштабирование автономных AI-систем</title>
-      <link>https://habr.com/ru/articles/1090014/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090014</link>
-      <description>ИИ ускоряет выполнение отдельных задач, но управление растущим числом процессов и проектов остаётся на человеке. На примере своих экспериментов покажу путь от одного агента к AI-организации и объясню, зачем над несколькими направлениями может понадобиться AI-холдинг. От агента к AI-холдингу</description>
-      <pubDate>Sat, 03 Oct 2026 15:16:25 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1090014/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090014</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Jack Dorsey’s Bitchat disappears from app stores in India after government order</title>
-      <link>https://techcrunch.com/2026/10/03/jack-dorseys-bitchat-disappears-from-app-stores-in-india-after-government-order/</link>
-      <description>Bitchat has become largely unavailable in India as a result of the restrictions.</description>
-      <pubDate>Sat, 03 Oct 2026 15:02:01 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/03/jack-dorseys-bitchat-disappears-from-app-stores-in-india-after-government-order/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>Splice CEO Kakul Srivastava thinks AI emails are killing conversations</title>
-      <link>https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview</link>
-      <description>Kakul Srivastava is the CEO of Splice, the sample platform countless producers rely on for one-shots and melodic loops. Samples pulled from the service have found their way into massive hits like Lisa's "Money" and "Espresso" by Sabrina Carpenter. (The original samples are here and here, for the curious.) Before that, Kakul held executive roles […]</description>
-      <pubDate>Sat, 03 Oct 2026 15:00:00 +0000</pubDate>
-      <guid>https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview</guid>
       <category>The Verge</category>
     </item>
   </channel>
