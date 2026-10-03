@@ -5,88 +5,88 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Sat, 03 Oct 2026 00:57:59 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 06:04:27 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Как плеер угадывает тональность трека: 12 чисел и одна корреляция</title>
-      <link>https://habr.com/ru/articles/1089832/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089832</link>
-      <description>Плеер показывает у трека «ми минор», но как он это узнал? Программа не слушает гармонию, как музыкант: она считает, сколько звучит каждой из 12 нот, и ищет гамму, на которую набор похож сильнее всего. Разбираю алгоритм Крумхансл-Шмуклера на реальных треках, показываю, где он путает квинту и родственную тональность, и что тут меняют нейросети. Читать далее</description>
-      <pubDate>Fri, 02 Oct 2026 22:45:18 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1089832/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089832</guid>
-      <category>Все публикации подряд на Хабре</category>
+      <title>Reverse Item Response Theory for Sparsity-Robust Ranking in Fragmented Cancer Drug-Response Matrices</title>
+      <link>https://arxiv.org/abs/2610.00002</link>
+      <description>arXiv:2610.00002v1 Announce Type: new Abstract: We introduce reverse Item Response Theory (IRT) to pharmacogenomic drug-response analysis by treating cancer types as latent "subjects" with resistance ability and drugs as "items" with evasion difficulty. Applied to 242,036 drug sensitivity measurements from the Genomics of Drug Sensitivity in Cancer (GDSC2) database, the model estimates cancer-type-level in-vitro resistance and drug-level broad activity on a shared latent scale. Validation across</description>
+      <pubDate>Sat, 03 Oct 2026 04:00:00 +0000</pubDate>
+      <guid>https://arxiv.org/abs/2610.00002</guid>
+      <category>cs.LG updates on arXiv.org</category>
     </item>
     <item>
-      <title>[Перевод] Спросите Итана: Как возникли атомы?</title>
-      <link>https://habr.com/ru/articles/1089726/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089726</link>
-      <description>Итан Сигел (американский астрофизик‑теоретик и научный журналист, автор рубрики «Спросите Итана», один из пропагандистов современных научных знаний), пытается раскрыть раннюю историю Вселенной, с образования первых устойчивых частиц... @avshkol перевёл эту статью, ведь здесь поднимается вопрос на стыке физики и философии: почему настройки "первичного бульона" после Большого взрыва оказались таковы, что позволили образоваться многочисленным атомам? И каковы "способствующие сложному миру" границы </description>
-      <pubDate>Fri, 02 Oct 2026 22:31:58 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1089726/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089726</guid>
-      <category>Все публикации подряд на Хабре</category>
+      <title>How Far is Adam from Natural Gradient Descent?</title>
+      <link>https://arxiv.org/abs/2610.00004</link>
+      <description>arXiv:2610.00004v1 Announce Type: new Abstract: Adam is the standard optimizer in deep learning, yet its geometric relationship to natural gradient descent (NGD) contains unresolved questions. We study Adam's full update rule, including momentum, as a diagonal empirical Fisher approximation subject to diagonal truncation, empirical label substitution, and temporal lag. Using the scale-invariant $\gamma(\Delta\theta)$ metric, we measure Adam's geometric deviation from true NGD across four loss la</description>
+      <pubDate>Sat, 03 Oct 2026 04:00:00 +0000</pubDate>
+      <guid>https://arxiv.org/abs/2610.00004</guid>
+      <category>cs.LG updates on arXiv.org</category>
     </item>
     <item>
-      <title>PBN в SEO: как работают сетки сайтов</title>
-      <link>https://habr.com/ru/articles/1089828/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089828</link>
-      <description>PBN используют давно, но под этим названием скрываются сети совершенно разного качества. Это могут быть несколько старых тематических сайтов с хорошей историей и нормальными материалами или домены, которые когда-то имели ссылки, а теперь существуют только ради новых ссылок на основной проект. Результат зависит от домена, его прошлой жизни, сохранившихся ссылок, старых страниц и того, что произошло после покупки. Со ссылками у Google тоже нет противоречий. PageRank по-прежнему входит в основные с</description>
-      <pubDate>Fri, 02 Oct 2026 21:28:55 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1089828/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089828</guid>
-      <category>Все публикации подряд на Хабре</category>
+      <title>FourierQK: Filter Shape, Admissibility and the Leakage-Coverage Law</title>
+      <link>https://arxiv.org/abs/2610.00009</link>
+      <description>arXiv:2610.00009v1 Announce Type: new Abstract: Frequency-collapse attention [Zeris, 2026e] achieves large gains over standard dot-product attention by replacing the Q/K dot product with a bandpass-filtered inner product at a learned frequency. A natural follow-up question is: which filter shape works best, and why? We test five hypotheses about filter properties -- DC suppression, Nyquist suppression, bandwidth, centre frequency, and multi-scale coverage -- using a controlled ablation on charac</description>
+      <pubDate>Sat, 03 Oct 2026 04:00:00 +0000</pubDate>
+      <guid>https://arxiv.org/abs/2610.00009</guid>
+      <category>cs.LG updates on arXiv.org</category>
     </item>
     <item>
-      <title>Sean Parker is rebuilding Stability AI around music</title>
-      <link>https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/</link>
-      <description>Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money.</description>
-      <pubDate>Fri, 02 Oct 2026 21:09:14 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/</guid>
-      <category>TechCrunch</category>
+      <title>Integrating Fairness and Explainability in a Multiple Instance Reinforcement Learning System</title>
+      <link>https://arxiv.org/abs/2610.00035</link>
+      <description>arXiv:2610.00035v1 Announce Type: new Abstract: Predicting student performance from educational interaction data requires models that are both accurate and sufficiently transparent to support meaningful intervention, while demographic information introduces an additional risk of unfair predictions. This study investigates a multi-objective framework that combines reinforcement learning-based multiple instance learning (RL-MIL), adversarial debiasing, and preference-conditioned hypernetworks for </description>
+      <pubDate>Sat, 03 Oct 2026 04:00:00 +0000</pubDate>
+      <guid>https://arxiv.org/abs/2610.00035</guid>
+      <category>cs.LG updates on arXiv.org</category>
     </item>
     <item>
-      <title>Meta open sources code to let you make Muse AI gadgets</title>
-      <link>https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link</link>
-      <description>Meta now lets you make your own Muse gadgets that feature the company's new AI agent with code that the company open sourced. The company suggests projects like loading Muse on a color E Ink display to show reminders, adding it to an HDMI stick so you can display Muse on a big screen, or […]</description>
-      <pubDate>Fri, 02 Oct 2026 21:08:37 +0000</pubDate>
-      <guid>https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link</guid>
-      <category>The Verge</category>
+      <title>Fast Polynomial Transcendentals for LLMs</title>
+      <link>https://arxiv.org/abs/2610.00049</link>
+      <description>arXiv:2610.00049v1 Announce Type: new Abstract: Graphics processing unit (GPU) generations scale matrix, special-function, and memory pipelines at different rates, so kernel bottlenecks move as hardware evolves. FlashAttention-4 exposed this imbalance inside attention on NVIDIA Blackwell. We test whether short polynomial programs can accelerate other special-function-unit (SFU) operations in large language models (LLMs). We first compare native PyTorch evaluation with packed fused multiply--add </description>
+      <pubDate>Sat, 03 Oct 2026 04:00:00 +0000</pubDate>
+      <guid>https://arxiv.org/abs/2610.00049</guid>
+      <category>cs.LG updates on arXiv.org</category>
     </item>
     <item>
-      <title>Netflix is pivoting away from prestige</title>
-      <link>https://www.theverge.com/streaming/1004323/netflix-david-fincher-shawn-levy-mike-flanagan-duffer-brothers-greta-gerwig</link>
-      <description>Many of Netflix's biggest critically acclaimed hits have been the products of its multiyear production deals with noted directors like David Fincher and Shawn Levy. In the past few weeks, though, the streamer has brought some of those partnerships to an end in a way that feels indicative of a larger strategic shift. With rival […]</description>
-      <pubDate>Fri, 02 Oct 2026 20:30:26 +0000</pubDate>
-      <guid>https://www.theverge.com/streaming/1004323/netflix-david-fincher-shawn-levy-mike-flanagan-duffer-brothers-greta-gerwig</guid>
-      <category>The Verge</category>
+      <title>SW-KAN: Kolmogorov-Arnold Networks with Stieltjes-Wigert q-Orthogonal Polynomials</title>
+      <link>https://arxiv.org/abs/2610.00050</link>
+      <description>arXiv:2610.00050v1 Announce Type: new Abstract: Kolmogorov-Arnold Networks (KANs) represent a paradigmatic shift in deep learning by replacing fixed node activations with learnable univariate functions on edges, offering enhanced interpretability and parameter efficiency. While recent polynomial-based KAN variants have addressed the computational overhead of original B-spline implementations, they introduce a fundamental yet underexplored challenge: the domain mismatch between unbounded real-val</description>
+      <pubDate>Sat, 03 Oct 2026 04:00:00 +0000</pubDate>
+      <guid>https://arxiv.org/abs/2610.00050</guid>
+      <category>cs.LG updates on arXiv.org</category>
     </item>
     <item>
-      <title>Apple will limit Mac disk access as AI agents ‘substantially’ increase risk</title>
-      <link>https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents</link>
-      <description>Apple will add new limits for "full disk access" on Mac in response to risks posed by AI agents, as reported earlier by TechCrunch. In an update on Friday, Apple says it's rolling out new controls to "ensure that users who genuinely wish to grant an app this extraordinary level of access can only do […]</description>
-      <pubDate>Fri, 02 Oct 2026 20:08:40 +0000</pubDate>
-      <guid>https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents</guid>
-      <category>The Verge</category>
+      <title>Format-Aware Fusion for Fast FP4 Pretraining</title>
+      <link>https://arxiv.org/abs/2610.00053</link>
+      <description>arXiv:2610.00053v1 Announce Type: new Abstract: Four-bit floating-point (FP4) Tensor Cores accelerate matrix multiplication, but scale computation, operand packing, layout construction, and saved backward state can erase the gain. We present \emph{format-aware fusion}, which co-designs each quantization producer with its scale domain and consumer layout for native \mxfp{}, global \nvfp{}, and cooperative-thread-array-local \nvfp{}. We evaluate Llama-3-family 8B pretraining through 160 billion to</description>
+      <pubDate>Sat, 03 Oct 2026 04:00:00 +0000</pubDate>
+      <guid>https://arxiv.org/abs/2610.00053</guid>
+      <category>cs.LG updates on arXiv.org</category>
     </item>
     <item>
-      <title>Sling TV drops its one-day cable passes</title>
-      <link>https://www.theverge.com/streaming/1004300/sling-tv-pass-cable-drops</link>
-      <description>Dish-owned Sling TV will no longer be offering its Sling Pass feature that allowed people to buy a single day of cable TV programming at a time, as reported by The Desk. The feature was announced last year and offered a day pass, a weekend pass, and a week-long pass option to be able to […]</description>
-      <pubDate>Fri, 02 Oct 2026 20:00:20 +0000</pubDate>
-      <guid>https://www.theverge.com/streaming/1004300/sling-tv-pass-cable-drops</guid>
-      <category>The Verge</category>
+      <title>"very likely" Means "uncertain"? How LLMs Diverge from Humans in Linguistic Uncertainty Quantification</title>
+      <link>https://arxiv.org/abs/2610.00083</link>
+      <description>arXiv:2610.00083v1 Announce Type: new Abstract: Humans express uncertainty verbally via markers (e.g., "possible," "likely"), yet most LLM uncertainty quantification (UQ) relies on costing likelihood- or consistency-based signals. From a cognitive perspective, accurate verbal uncertainty reflects metacognitive monitoring, representing knowledge boundaries ("knowing that you don't know") to support regulation and information seeking. In this paper, we investigate how LLMs diverge from humans in v</description>
+      <pubDate>Sat, 03 Oct 2026 04:00:00 +0000</pubDate>
+      <guid>https://arxiv.org/abs/2610.00083</guid>
+      <category>cs.LG updates on arXiv.org</category>
     </item>
     <item>
-      <title>Как я собрал бота коммерческих предложений на чистом stdlib и рендерю PDF через headless Chrome</title>
-      <link>https://habr.com/ru/articles/1089814/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089814</link>
-      <description>Я дизайнер интерфейсов и работаю как фрилансер. На каждое коммерческое предложение у меня уходило часа три: смета в таблице, вёрстка, экспорт, проверка. Шаги одни и те же, меняются цифры и состав работ. В конце июля я упаковал этот процесс в Telegram-бота, который задаёт семь вопросов и присылает PDF со сметой, сроками, этапами и кейсами. Расскажу, как смета собирается из свободного текста, почему PDF рендерит Chrome, как бот приводит обложки кейсов к одной пропорции и зачем ему мини-приложение.</description>
-      <pubDate>Fri, 02 Oct 2026 19:04:33 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1089814/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089814</guid>
-      <category>Все публикации подряд на Хабре</category>
+      <title>Nous: Learning and Certifying Memory Decisions Before Source Calibration</title>
+      <link>https://arxiv.org/abs/2610.00094</link>
+      <description>arXiv:2610.00094v1 Announce Type: new Abstract: Belief-based agent memory needs reliable decisions about current state, yet its evidence may be noisy, copied, or stale. Must a memory calibrate its sources before it can improve its decisions? We separate learning, calibration, and revision certification. On one four-model hidden Markov family, learning an unknown Bayes decision requires Theta(l^-2) records and certifying its improvement over an informative incumbent takes O(l^-2) fresh records fr</description>
+      <pubDate>Sat, 03 Oct 2026 04:00:00 +0000</pubDate>
+      <guid>https://arxiv.org/abs/2610.00094</guid>
+      <category>cs.LG updates on arXiv.org</category>
     </item>
     <item>
-      <title>[Перевод] N‑tier, Clean Architecture и Vertical Slice: практическое сравнение для.NET</title>
-      <link>https://habr.com/ru/articles/1089808/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089808</link>
-      <description>Как каждая из них организует код, где они пересекаются и что учитывать при выборе. Большинство .NET-разработчиков знакомятся с этими тремя архитектурами в одном и том же порядке: N-tier — в первых проектах, Clean Architecture — когда её приносит команда или шаблон, и Vertical Slice — когда о ней упоминают на код-ревью или в докладе на конференции. Каждую из них подают как улучшение предыдущей. На практике они отвечают на несколько разные вопросы, и правильный выбор зависит скорее от проекта, чем</description>
-      <pubDate>Fri, 02 Oct 2026 18:19:22 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1089808/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089808</guid>
-      <category>Все публикации подряд на Хабре</category>
+      <title>One Mastery Threshold Does Not Fit All Knowledge Tracing Models</title>
+      <link>https://arxiv.org/abs/2610.00095</link>
+      <description>arXiv:2610.00095v1 Announce Type: new Abstract: Tutoring systems use mastery thresholds to decide when students can stop practicing and advance, but the same numerical threshold can lead to very different decisions when the underlying knowledge tracing (KT) model changes. We examine six KT models across four public educational datasets and evaluate 12 thresholds from 0.50 to 0.99 using post-advancement performance, advancement coverage, practice burden, and disparities across prior-performance g</description>
+      <pubDate>Sat, 03 Oct 2026 04:00:00 +0000</pubDate>
+      <guid>https://arxiv.org/abs/2610.00095</guid>
+      <category>cs.LG updates on arXiv.org</category>
     </item>
   </channel>
 </rss>
