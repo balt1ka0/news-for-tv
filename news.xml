@@ -5,9 +5,33 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Fri, 02 Oct 2026 21:10:57 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 00:57:59 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Как плеер угадывает тональность трека: 12 чисел и одна корреляция</title>
+      <link>https://habr.com/ru/articles/1089832/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089832</link>
+      <description>Плеер показывает у трека «ми минор», но как он это узнал? Программа не слушает гармонию, как музыкант: она считает, сколько звучит каждой из 12 нот, и ищет гамму, на которую набор похож сильнее всего. Разбираю алгоритм Крумхансл-Шмуклера на реальных треках, показываю, где он путает квинту и родственную тональность, и что тут меняют нейросети. Читать далее</description>
+      <pubDate>Fri, 02 Oct 2026 22:45:18 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1089832/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089832</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>[Перевод] Спросите Итана: Как возникли атомы?</title>
+      <link>https://habr.com/ru/articles/1089726/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089726</link>
+      <description>Итан Сигел (американский астрофизик‑теоретик и научный журналист, автор рубрики «Спросите Итана», один из пропагандистов современных научных знаний), пытается раскрыть раннюю историю Вселенной, с образования первых устойчивых частиц... @avshkol перевёл эту статью, ведь здесь поднимается вопрос на стыке физики и философии: почему настройки "первичного бульона" после Большого взрыва оказались таковы, что позволили образоваться многочисленным атомам? И каковы "способствующие сложному миру" границы </description>
+      <pubDate>Fri, 02 Oct 2026 22:31:58 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1089726/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089726</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>PBN в SEO: как работают сетки сайтов</title>
+      <link>https://habr.com/ru/articles/1089828/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089828</link>
+      <description>PBN используют давно, но под этим названием скрываются сети совершенно разного качества. Это могут быть несколько старых тематических сайтов с хорошей историей и нормальными материалами или домены, которые когда-то имели ссылки, а теперь существуют только ради новых ссылок на основной проект. Результат зависит от домена, его прошлой жизни, сохранившихся ссылок, старых страниц и того, что произошло после покупки. Со ссылками у Google тоже нет противоречий. PageRank по-прежнему входит в основные с</description>
+      <pubDate>Fri, 02 Oct 2026 21:28:55 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1089828/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089828</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
     <item>
       <title>Sean Parker is rebuilding Stability AI around music</title>
       <link>https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/</link>
@@ -57,36 +81,12 @@
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Как Claude запоминает ваш компьютер: разбираем локальные идентификаторы и сбрасываем их скриптом</title>
-      <link>https://habr.com/ru/articles/1089810/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089810</link>
-      <description>Я давно пользуюсь Claude Desktop и Claude Code на Windows. В какой-то момент стало интересно: когда я выхожу из аккаунта и захожу заново, насколько «с чистого листа» меня видит сервер? Оказалось, что аккаунт — это только половина истории. Claude помечает ещё и саму машину, причём отдельно от логина, и эти метки живут на диске между сессиями. В статье разберу, где именно лежат идентификаторы устройства, как клиент их генерирует (с кусками кода из app.asar и бинаря CLI), что из этого переживает на</description>
-      <pubDate>Fri, 02 Oct 2026 18:21:29 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1089810/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089810</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
       <title>[Перевод] N‑tier, Clean Architecture и Vertical Slice: практическое сравнение для.NET</title>
       <link>https://habr.com/ru/articles/1089808/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089808</link>
       <description>Как каждая из них организует код, где они пересекаются и что учитывать при выборе. Большинство .NET-разработчиков знакомятся с этими тремя архитектурами в одном и том же порядке: N-tier — в первых проектах, Clean Architecture — когда её приносит команда или шаблон, и Vertical Slice — когда о ней упоминают на код-ревью или в докладе на конференции. Каждую из них подают как улучшение предыдущей. На практике они отвечают на несколько разные вопросы, и правильный выбор зависит скорее от проекта, чем</description>
       <pubDate>Fri, 02 Oct 2026 18:19:22 +0000</pubDate>
       <guid>https://habr.com/ru/articles/1089808/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089808</guid>
       <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents</title>
-      <link>https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/</link>
-      <description>Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files, messages, mail, and browsing history riskier.</description>
-      <pubDate>Fri, 02 Oct 2026 18:11:27 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>OpenAI’s Dot agent is enterprise software that can also order your dinner</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent</link>
-      <description>It's a tale as old as last week: OpenAI's new agent platform, called Dots, is full of cute little guys who can do your bidding. But unlike the ultra-approachable Meta Muse, Dots feel very much like using workplace software that happens to be able to order you a burrito - emphasis on work. OpenAI announced […]</description>
-      <pubDate>Fri, 02 Oct 2026 18:00:00 +0000</pubDate>
-      <guid>https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent</guid>
-      <category>The Verge</category>
     </item>
   </channel>
 </rss>
