@@ -5,9 +5,65 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Sat, 03 Oct 2026 15:48:49 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 19:02:50 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Как попасть в ответы AI Overviews: на русских запросах Google берёт половину источников не из топа</title>
+      <link>https://habr.com/ru/articles/1090034/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090034</link>
+      <description>Обзоры от ИИ в Google принято считать западной историей, которая российских сайтов не касается. Я собрал больше тысячи русских вопросов из полусотни ниш и снял по ним выдачу Google с регионом Россия в настройках запроса. Обзор от ИИ появился над выдачей в 93% случаев, а половина его источников стоит вне первой страницы обычного поиска. Значит, в обзор можно попасть, не будучи в топе. Читать далее</description>
+      <pubDate>Sat, 03 Oct 2026 18:59:25 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1090034/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090034</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Гипотеза простых близнецов и «ментальный сдвиг»</title>
+      <link>https://habr.com/ru/articles/1090030/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090030</link>
+      <description>«В последние месяцы успехи искусственного интеллекта в решении крупных математических проблем всё чаще становятся новостями далеко за пределами профессионального математического сообщества. Но решение задач — это лишь средство и косвенный показатель продвижения к более глубокой цели: концептуальному пониманию и появлению новых идей . Если в мире ИИ об этой цели забыть, средство способно начать разрушать то, чему оно должно было служить. Массовое производство всё новых утверждений и ответов — «ис</description>
+      <pubDate>Sat, 03 Oct 2026 18:46:45 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1090030/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090030</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Amazon responds to data center backlash, says it no longer uses NDAs</title>
+      <link>https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/</link>
+      <description>The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.</description>
+      <pubDate>Sat, 03 Oct 2026 18:43:57 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>«Вставьте диск в устройство A:» — я попробовал заставить Windows 11 сказать это SSD</title>
+      <link>https://habr.com/ru/articles/1090022/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090022</link>
+      <description>В Windows 11 для дисков отведено двадцать шесть букв и первые две система до сих пор придерживает для устройства, которое в серийные компьютеры перестали ставить где-то в середине нулевых. Любой ребенок, впервые открывший «Этот компьютер», рано или поздно спрашивает «а где A и B?», взрослый рядом отвечает одним словом «дискеты» и на этом разговор обычно заканчивается, хотя вопрос был хороший и заслуживал большего. Мой первый A: случился в начале 90-х на ЕС-1841 в вычислительном центре маминого Н</description>
+      <pubDate>Sat, 03 Oct 2026 17:23:56 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1090022/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090022</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Capcom is preparing for a ‘future where we create games together with AI’</title>
+      <link>https://www.theverge.com/games/1004418/capcom-ai-game-development</link>
+      <description>Capcom's Pragmata might be all about the horrors of AI, but in practice the studio doesn't seem so down on the tech. During the Capcom Open Conference RE: 2026 programmer Satoshi Ishida gave a presentation with the mouthful of a title: "The Outlook and Future of the REX Project, Further Evolving the RE Engine for […]</description>
+      <pubDate>Sat, 03 Oct 2026 16:49:10 +0000</pubDate>
+      <guid>https://www.theverge.com/games/1004418/capcom-ai-game-development</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>OpenAI safety employee resigns, claiming the company’s ‘culture is broken’</title>
+      <link>https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/</link>
+      <description>By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.</description>
+      <pubDate>Sat, 03 Oct 2026 16:30:01 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>The best early October Prime Day deals happening now</title>
+      <link>https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october</link>
+      <description>It’s not even October yet and Amazon is already offering some Prime Big Deal Day discounts on its own hardware, along with plenty of other popular products. It’s all to hype up October Prime Day, which starts October 6th at 3AM ET and lasts through 3AM ET on the 8th if you’re on the East […]</description>
+      <pubDate>Sat, 03 Oct 2026 16:22:40 +0000</pubDate>
+      <guid>https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october</guid>
+      <category>The Verge</category>
+    </item>
     <item>
       <title>От одного агента к AI-холдингу: масштабирование автономных AI-систем</title>
       <link>https://habr.com/ru/articles/1090014/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090014</link>
@@ -31,62 +87,6 @@
       <pubDate>Sat, 03 Oct 2026 15:00:00 +0000</pubDate>
       <guid>https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview</guid>
       <category>The Verge</category>
-    </item>
-    <item>
-      <title>An OpenAI safety employee has quit and is sounding the alarm</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm</link>
-      <description>David Robinson used to write the safety reports that accompanied every major model release at OpenAI. This week, he resigned from his position and is now speaking out in an editorial in The Atlantic. It's understandable if you're feeling a bit cynical about everyone suddenly coming out of the woodwork to warn about how dangerous […]</description>
-      <pubDate>Sat, 03 Oct 2026 14:31:56 +0000</pubDate>
-      <guid>https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>Хочу выложить приложения в AppStor и вообще в магазины на всех платформах. Практический кейс</title>
-      <link>https://habr.com/ru/articles/1090006/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090006</link>
-      <description>На мой взгляд самым удобным способом двухфакторной идентификации являются временные коды TOTP. А для своих проектов они хороши еще и как однофакторные. И вот именно такое приложение мы сделали и выкладывали в магазины приложений от лица уже полностью зарегистрированного разработчика - европейской фирмы. И это заняло неожиданно немало времени. Читать далее</description>
-      <pubDate>Sat, 03 Oct 2026 14:30:10 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1090006/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090006</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Scrum-покер строгого спринта</title>
-      <link>https://habr.com/ru/articles/1089830/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089830</link>
-      <description>У команд разработки, исповедующих Scrum, есть забава — планировать спринты. Одна из таких методик — покер планирования. Это техника коллективной оценки задач. Её предком считают Wideband Delphi Барри Боэма из 1970-х, современную форму в 2002 году описал Джеймс Греннинг. Метод получил широкую известность после книги Майка Кона Agile Estimating and Planning 2005 года. Механика простая: команда знакомится с задачей, каждый независимо выбирает карту с оценкой, затем все одновременно вскрываются. Доп</description>
-      <pubDate>Sat, 03 Oct 2026 14:18:22 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1089830/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089830</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Инженерная тайна AMD из нулевых: что общего между Xbox 360, HTC HD2, Sony Ericsson Xperia Play и LG Optimus L2</title>
-      <link>https://habr.com/ru/companies/timeweb/articles/1089784/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089784</link>
-      <description>Порой, когда погружаешься в исходный код драйверов и даташиты на железо, удивляешься тому, какие интересные инженерные решения использовались в устройствах прошлых лет. И пожалуй самым диковинным таким решением можно назвать подход AMD к разработке видеочипов в нулевых годах. В этой статье всё как вы любите - подробная предыстория, анализ зацепок, изучение исходного кода и ответ на вопрос: что-же общего между коммуникатором из 2007'ого, смартфоном 2009'ого, ноутбуком 2012'ого и Xbox 360? Читать </description>
-      <pubDate>Sat, 03 Oct 2026 14:05:42 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/timeweb/articles/1089784/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089784</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>All the AI agents that can live in your text messages</title>
-      <link>https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/</link>
-      <description>We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.</description>
-      <pubDate>Sat, 03 Oct 2026 14:00:00 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>Spotify billionaire’s body scan startup has come to America</title>
-      <link>https://techcrunch.com/2026/10/03/spotify-billionaires-body-scan-startup-has-come-to-america/</link>
-      <description>Farooq Abbasi, an investor in Neko Health, talked to Equity about the hot health tech company and what's next for it.</description>
-      <pubDate>Sat, 03 Oct 2026 14:00:00 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/03/spotify-billionaires-body-scan-startup-has-come-to-america/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>Миллионы за комментарий. Почему IT-гиганты скупают книги и корпоративную почту?</title>
-      <link>https://habr.com/ru/articles/1090002/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090002</link>
-      <description>Каждая сгенерированная фраза ИИ требует человеческих данных. В этой статье рассматриваем, как информация превратилась в дорогостоящий ресурс: от платных API Reddit и многомиллионных сделок OpenAI с медиа-гигантами до скупки бумажных книг и корпоративных архивов. Читать далее</description>
-      <pubDate>Sat, 03 Oct 2026 13:59:21 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1090002/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090002</guid>
-      <category>Все публикации подряд на Хабре</category>
     </item>
   </channel>
 </rss>
