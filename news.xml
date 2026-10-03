@@ -5,88 +5,88 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Sat, 03 Oct 2026 06:04:27 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 11:33:52 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Reverse Item Response Theory for Sparsity-Robust Ranking in Fragmented Cancer Drug-Response Matrices</title>
-      <link>https://arxiv.org/abs/2610.00002</link>
-      <description>arXiv:2610.00002v1 Announce Type: new Abstract: We introduce reverse Item Response Theory (IRT) to pharmacogenomic drug-response analysis by treating cancer types as latent "subjects" with resistance ability and drugs as "items" with evasion difficulty. Applied to 242,036 drug sensitivity measurements from the Genomics of Drug Sensitivity in Cancer (GDSC2) database, the model estimates cancer-type-level in-vitro resistance and drug-level broad activity on a shared latent scale. Validation across</description>
-      <pubDate>Sat, 03 Oct 2026 04:00:00 +0000</pubDate>
-      <guid>https://arxiv.org/abs/2610.00002</guid>
-      <category>cs.LG updates on arXiv.org</category>
+      <title>Сделал для Twitch “Детектор смеха”, где ИИ считывает эмоции. Рассказываю, как оно устроено внутри и делюсь цифрами</title>
+      <link>https://habr.com/ru/articles/1089960/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089960</link>
+      <description>Решил сделать на Twitch шоу, где нельзя смеяться, с ИИ-распознованием эмоций. Рассказываю, как оно устроено внутри и с какими проблемами столкнулся. Одновременный просмотр видео с друзьями без делея. Интеграция чтения эмоций в прямом эфире. Парсинг видео и топа комментариев, которые присылают в личку. Оверлеи и влияние зрителей на игру. Первые цифры. Буду рад фидбеку. Подробности о проекте и первые цифры</description>
+      <pubDate>Sat, 03 Oct 2026 11:29:08 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1089960/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089960</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>How Far is Adam from Natural Gradient Descent?</title>
-      <link>https://arxiv.org/abs/2610.00004</link>
-      <description>arXiv:2610.00004v1 Announce Type: new Abstract: Adam is the standard optimizer in deep learning, yet its geometric relationship to natural gradient descent (NGD) contains unresolved questions. We study Adam's full update rule, including momentum, as a diagonal empirical Fisher approximation subject to diagonal truncation, empirical label substitution, and temporal lag. Using the scale-invariant $\gamma(\Delta\theta)$ metric, we measure Adam's geometric deviation from true NGD across four loss la</description>
-      <pubDate>Sat, 03 Oct 2026 04:00:00 +0000</pubDate>
-      <guid>https://arxiv.org/abs/2610.00004</guid>
-      <category>cs.LG updates on arXiv.org</category>
+      <title>Kubernetes просто лабы, часть 1: поднимаем кластер и знакомимся с его устройством</title>
+      <link>https://habr.com/ru/articles/1089958/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089958</link>
+      <description>Практика к первой части серии «Kubernetes просто». Поднимем локальный кластер с помощью kind, найдём компоненты Control Plane и запустим первый Pod. Разберём команды и их вывод, а затем закрепим материал самостоятельными заданиями. Читать далее</description>
+      <pubDate>Sat, 03 Oct 2026 11:26:35 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1089958/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089958</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>FourierQK: Filter Shape, Admissibility and the Leakage-Coverage Law</title>
-      <link>https://arxiv.org/abs/2610.00009</link>
-      <description>arXiv:2610.00009v1 Announce Type: new Abstract: Frequency-collapse attention [Zeris, 2026e] achieves large gains over standard dot-product attention by replacing the Q/K dot product with a bandpass-filtered inner product at a learned frequency. A natural follow-up question is: which filter shape works best, and why? We test five hypotheses about filter properties -- DC suppression, Nyquist suppression, bandwidth, centre frequency, and multi-scale coverage -- using a controlled ablation on charac</description>
-      <pubDate>Sat, 03 Oct 2026 04:00:00 +0000</pubDate>
-      <guid>https://arxiv.org/abs/2610.00009</guid>
-      <category>cs.LG updates on arXiv.org</category>
+      <title>Я ускорил запрос в 75 раз. Через две недели оказалось, что дело было не в запросе</title>
+      <link>https://habr.com/ru/articles/1088948/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1088948</link>
+      <description>Добавил фильтр по городу в подзапрос — туда, куда учебники и велят его ставить. На тестовой базе в 750 строк незаметно, на проде запрос стал висеть: 0,71 с превратились в 53,7 с. Починил, замеры оставил в комментарии. Спустя две недели сел писать про это статью, перемерил — и тот же запрос на той же базе отработал за полсекунды. Разбираю, почему катастрофа рассосалась сама, почему дело было не в join и почему измеренная цифра в комментарии протухает быстрее, чем кажется. Читать далее</description>
+      <pubDate>Sat, 03 Oct 2026 10:30:03 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1088948/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1088948</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Integrating Fairness and Explainability in a Multiple Instance Reinforcement Learning System</title>
-      <link>https://arxiv.org/abs/2610.00035</link>
-      <description>arXiv:2610.00035v1 Announce Type: new Abstract: Predicting student performance from educational interaction data requires models that are both accurate and sufficiently transparent to support meaningful intervention, while demographic information introduces an additional risk of unfair predictions. This study investigates a multi-objective framework that combines reinforcement learning-based multiple instance learning (RL-MIL), adversarial debiasing, and preference-conditioned hypernetworks for </description>
-      <pubDate>Sat, 03 Oct 2026 04:00:00 +0000</pubDate>
-      <guid>https://arxiv.org/abs/2610.00035</guid>
-      <category>cs.LG updates on arXiv.org</category>
+      <title>zhim.fit: приложение для персонального тренера без подписок и регистрации</title>
+      <link>https://habr.com/ru/articles/1089924/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089924</link>
+      <description>Это статья про мобильное приложение для персональных тренеров. Про то, как оно появилось, что у него внутри и почему я решил отдать его всем, кому оно может пригодиться. Если у вас есть знакомый тренер, дочитайте до конца, там будет просьба. Читать далее</description>
+      <pubDate>Sat, 03 Oct 2026 10:18:44 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1089924/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089924</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Fast Polynomial Transcendentals for LLMs</title>
-      <link>https://arxiv.org/abs/2610.00049</link>
-      <description>arXiv:2610.00049v1 Announce Type: new Abstract: Graphics processing unit (GPU) generations scale matrix, special-function, and memory pipelines at different rates, so kernel bottlenecks move as hardware evolves. FlashAttention-4 exposed this imbalance inside attention on NVIDIA Blackwell. We test whether short polynomial programs can accelerate other special-function-unit (SFU) operations in large language models (LLMs). We first compare native PyTorch evaluation with packed fused multiply--add </description>
-      <pubDate>Sat, 03 Oct 2026 04:00:00 +0000</pubDate>
-      <guid>https://arxiv.org/abs/2610.00049</guid>
-      <category>cs.LG updates on arXiv.org</category>
+      <title>[Перевод] Чтобы понять Kubernetes, я написал свой Kubernetes</title>
+      <link>https://habr.com/ru/companies/otus/articles/1089640/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089640</link>
+      <description>Можно годами работать с Kubernetes, писать манифесты и разбираться с падениями подов – и всё равно смутно представлять, что именно происходит внутри системы. Я решил закрыть этот пробел радикально: собрал собственный оркестратор Smith и по ходу разработки столкнулся с теми же проблемами, которые когда-то сформировали архитектуру Kubernetes. В статье – разбор этих инженерных решений через реальные поломки, от сетевого взаимодействия между узлами до механики согласования состояния. Разобраться в K</description>
+      <pubDate>Sat, 03 Oct 2026 10:16:02 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/otus/articles/1089640/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089640</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>SW-KAN: Kolmogorov-Arnold Networks with Stieltjes-Wigert q-Orthogonal Polynomials</title>
-      <link>https://arxiv.org/abs/2610.00050</link>
-      <description>arXiv:2610.00050v1 Announce Type: new Abstract: Kolmogorov-Arnold Networks (KANs) represent a paradigmatic shift in deep learning by replacing fixed node activations with learnable univariate functions on edges, offering enhanced interpretability and parameter efficiency. While recent polynomial-based KAN variants have addressed the computational overhead of original B-spline implementations, they introduce a fundamental yet underexplored challenge: the domain mismatch between unbounded real-val</description>
-      <pubDate>Sat, 03 Oct 2026 04:00:00 +0000</pubDate>
-      <guid>https://arxiv.org/abs/2610.00050</guid>
-      <category>cs.LG updates on arXiv.org</category>
+      <title>Поставил своё Android‑приложение на старую Sony и научил камеры отправлять и обрабатывать кадры</title>
+      <link>https://habr.com/ru/articles/1089920/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089920</link>
+      <description>Я из тех людей, кто очень любит фотографировать и очень не любит всю рутину после — перекидывать фото, крутить равки в лайтруме. Хотел купить фуджифильм ради симуляции пленки, но так и не купил — вместо этого научил свои Sony отправлять каждый кадр на сервер, а оттуда в телеграм уже с пленкой, зерном и засветом. А самое интересное — у старой a6300 нет FTP, зато внутри оказался Android 4.1. Так что пришлось поставить на камеру свое приложение. Рассказываю, как это получилось у человека, который н</description>
+      <pubDate>Sat, 03 Oct 2026 10:13:02 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1089920/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089920</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Format-Aware Fusion for Fast FP4 Pretraining</title>
-      <link>https://arxiv.org/abs/2610.00053</link>
-      <description>arXiv:2610.00053v1 Announce Type: new Abstract: Four-bit floating-point (FP4) Tensor Cores accelerate matrix multiplication, but scale computation, operand packing, layout construction, and saved backward state can erase the gain. We present \emph{format-aware fusion}, which co-designs each quantization producer with its scale domain and consumer layout for native \mxfp{}, global \nvfp{}, and cooperative-thread-array-local \nvfp{}. We evaluate Llama-3-family 8B pretraining through 160 billion to</description>
-      <pubDate>Sat, 03 Oct 2026 04:00:00 +0000</pubDate>
-      <guid>https://arxiv.org/abs/2610.00053</guid>
-      <category>cs.LG updates on arXiv.org</category>
+      <title>Переговоры — это не только про работу: как я учу ИИ не поддаваться</title>
+      <link>https://habr.com/ru/articles/1089894/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089894</link>
+      <description>Просто попросить LLM «сыграть начальника» — мало: модель по умолчанию уступчива и сдаётся после пары сильных аргументов. Разбираюсь, что нужно добавить к ролевой репетиции, чтобы она стала тренировочным циклом, и показываю, как это устроено в моём проекте AgonArena. Читать далее</description>
+      <pubDate>Sat, 03 Oct 2026 09:37:31 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1089894/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089894</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>"very likely" Means "uncertain"? How LLMs Diverge from Humans in Linguistic Uncertainty Quantification</title>
-      <link>https://arxiv.org/abs/2610.00083</link>
-      <description>arXiv:2610.00083v1 Announce Type: new Abstract: Humans express uncertainty verbally via markers (e.g., "possible," "likely"), yet most LLM uncertainty quantification (UQ) relies on costing likelihood- or consistency-based signals. From a cognitive perspective, accurate verbal uncertainty reflects metacognitive monitoring, representing knowledge boundaries ("knowing that you don't know") to support regulation and information seeking. In this paper, we investigate how LLMs diverge from humans in v</description>
-      <pubDate>Sat, 03 Oct 2026 04:00:00 +0000</pubDate>
-      <guid>https://arxiv.org/abs/2610.00083</guid>
-      <category>cs.LG updates on arXiv.org</category>
+      <title>Скорость визуального восприятия: правда и мифы</title>
+      <link>https://habr.com/ru/articles/1089898/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089898</link>
+      <description>В очередной раз готовясь к выступлению, я задумалась над якобы фактом, который преследует любого, кто работает с визуальным мышлением и визуализацией в целом. «Мозг обрабатывает картинку в 60 000 раз быстрее текста», — тезис кочует из презентации в презентацию, используется как аргумент при доказательстве важности картинок и даже нашел место в книгах коллег. За годы исследования визуального мышления я выработала привычку проверять достоверность каждой цифры, которая ложится в презентацию или ста</description>
+      <pubDate>Sat, 03 Oct 2026 09:20:55 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1089898/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089898</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Nous: Learning and Certifying Memory Decisions Before Source Calibration</title>
-      <link>https://arxiv.org/abs/2610.00094</link>
-      <description>arXiv:2610.00094v1 Announce Type: new Abstract: Belief-based agent memory needs reliable decisions about current state, yet its evidence may be noisy, copied, or stale. Must a memory calibrate its sources before it can improve its decisions? We separate learning, calibration, and revision certification. On one four-model hidden Markov family, learning an unknown Bayes decision requires Theta(l^-2) records and certifying its improvement over an informative incumbent takes O(l^-2) fresh records fr</description>
-      <pubDate>Sat, 03 Oct 2026 04:00:00 +0000</pubDate>
-      <guid>https://arxiv.org/abs/2610.00094</guid>
-      <category>cs.LG updates on arXiv.org</category>
+      <title>Часть 12. Приключения латинского алфавита в разных языках: почему польская и чешская латиницы такие разные?</title>
+      <link>https://habr.com/ru/companies/ruvds/articles/1089672/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089672</link>
+      <description>Народы, вошедшие в орбиту католической церкви даже далеко за пределами былой Римской империи, в основном восприняли через неё и латинское письмо. В том числе это произошло и в Восточной Европе со многими народами славянского и угро-финского корня. При этом возникло несколько почти независимых друг от друга центров формирования систем письма под языки, имевшие здесь заметно больше фонем, чем в латыни. Наиболее древними можно назвать традиции латинского письма для польского, чешского и венгерского</description>
+      <pubDate>Sat, 03 Oct 2026 09:01:52 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/ruvds/articles/1089672/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089672</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>One Mastery Threshold Does Not Fit All Knowledge Tracing Models</title>
-      <link>https://arxiv.org/abs/2610.00095</link>
-      <description>arXiv:2610.00095v1 Announce Type: new Abstract: Tutoring systems use mastery thresholds to decide when students can stop practicing and advance, but the same numerical threshold can lead to very different decisions when the underlying knowledge tracing (KT) model changes. We examine six KT models across four public educational datasets and evaluate 12 thresholds from 0.50 to 0.99 using post-advancement performance, advancement coverage, practice burden, and disparities across prior-performance g</description>
-      <pubDate>Sat, 03 Oct 2026 04:00:00 +0000</pubDate>
-      <guid>https://arxiv.org/abs/2610.00095</guid>
-      <category>cs.LG updates on arXiv.org</category>
+      <title>Какую LLM выбрать: собираем свой бенчмарк</title>
+      <link>https://habr.com/ru/articles/1089876/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089876</link>
+      <description>Обычно, когда выбирают LLM, сначала смотрят рейтинги. Проблема рейтингов в том, что по ним не узнать, как модель справится с вашими задачами и сколько это будет стоить. В нашей лаборатории мы пользуемся электронным лабораторным — базой, куда записываются данные всех эксперименотов и измерений, а ИИ ассистент отвечает на вопросы по ней. Разумеется, возник вопрос, какая модель должна этим ассистентом рулить. Публичные рейтинги ответа не давали, так что мы собрали свой бенчмарк: двадцать четыре воп</description>
+      <pubDate>Sat, 03 Oct 2026 08:30:58 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1089876/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089876</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
   </channel>
 </rss>
