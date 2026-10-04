@@ -5,87 +5,87 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Sun, 04 Oct 2026 13:03:30 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 17:26:23 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>The AirPods Pro 3 are a fantastic deal at $179</title>
-      <link>https://www.theverge.com/gadgets/1004242/airpods-pro-3-amazon-october-prime-day-deal-sale</link>
-      <description>It’s been a while since we’ve seen a good discount on the Apple AirPods Pro 3, but like the latest iPad Mini and the M5 MacBook Airs, a great one is happening now for October Prime Day. You can snag a pair of the noise-canceling earbuds that include five ear tip sizes, live translation, and […]</description>
-      <pubDate>Sun, 04 Oct 2026 13:00:00 +0000</pubDate>
-      <guid>https://www.theverge.com/gadgets/1004242/airpods-pro-3-amazon-october-prime-day-deal-sale</guid>
+      <title>The best early October Prime Day deals happening now</title>
+      <link>https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october</link>
+      <description>It’s not even October yet and Amazon is already offering some Prime Big Deal Day discounts on its own hardware, along with plenty of other popular products. It’s all to hype up October Prime Day, which starts October 6th at 3AM ET and lasts through 3AM ET on the 8th if you’re on the East […]</description>
+      <pubDate>Sun, 04 Oct 2026 17:18:00 +0000</pubDate>
+      <guid>https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october</guid>
       <category>The Verge</category>
     </item>
     <item>
-      <title>Кто будет работать в России в 2032 и 2040 годах: считаю по демографическому прогнозу Росстата</title>
-      <link>https://habr.com/ru/articles/1090154/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090154</link>
-      <description>К 2040 году в России может стать примерно на 11 млн меньше работников в возрасте 30–49 лет, но при этом какого-то общего обвала числа работников при этом скорее не произойдет, так как будет частичная компенсация молодыми, людьми 50+ и миграцией, но уже после 2040 года эта компенсация будет начинать немного сбоить . Я взял демографический прогноз Росстата, данные о занятости по полу и возрасту, учёл пенсионную реформу и миграцию и попробовал посчитать, сколько же людей вообще будет доступно росси</description>
-      <pubDate>Sun, 04 Oct 2026 12:59:35 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1090154/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090154</guid>
+      <title>Первая часть шестнадцатой проблемы Гильберта: перебираем схемы степени 8 с ограничениями</title>
+      <link>https://habr.com/ru/articles/1090172/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090172</link>
+      <description>В этой статье я хочу рассказать об одной из многих тысяч нерешённых математических проблем. Речь пойдёт о Шестнадцатой проблеме Гильберта. Шестнадцатая проблема Ги́льберта — одна из 23 задач , которые Давид Гильберт предложил 8 августа 1900 года на II Международном конгрессе математиков . Исходно называлась «Проблема топологии алгебраических кривых и поверхностей». Впоследствии фактически разделилась на две похожие проблемы в разных областях математики: исследование взаимного расположения овалов</description>
+      <pubDate>Sun, 04 Oct 2026 17:12:21 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1090172/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090172</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>The MacBook Air M5 is $200 off for the first time in months</title>
-      <link>https://www.theverge.com/gadgets/1000832/macbook-air-m5-amazon-prime-big-deal-sale</link>
-      <description>Amazon’s October Prime Day has effectively chopped off Apple’s June price increases. Usually $1,299, the 13-inch MacBook Air with the M5 chip and 512GB of storage is on sale for $1,099 at Amazon. That’s a more palatable price for a machine that’s significantly faster than Apple’s $699 MacBook Neo. The 15-inch version, also with 512GB […]</description>
-      <pubDate>Sun, 04 Oct 2026 12:34:01 +0000</pubDate>
-      <guid>https://www.theverge.com/gadgets/1000832/macbook-air-m5-amazon-prime-big-deal-sale</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>The iPad Mini is slightly cheaper again during Prime Day</title>
-      <link>https://www.theverge.com/gadgets/1000323/apple-ipad-mini-amazon-prime-big-deal-days-sale</link>
-      <description>Apple bumped up prices on several of its devices in June, and we haven’t seen a good discount on the iPad Mini since. Just ahead of Amazon’s October Prime Big Deals Days, however, both Wi-Fi only and cellular-connected models are $100 off. The Wi-Fi version with 128GB of storage is currently $499, the 256GB model […]</description>
-      <pubDate>Sun, 04 Oct 2026 12:31:50 +0000</pubDate>
-      <guid>https://www.theverge.com/gadgets/1000323/apple-ipad-mini-amazon-prime-big-deal-days-sale</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>История построения автоматизации с нуля в банке: от первых трудностей до реальных результатов</title>
-      <link>https://habr.com/ru/articles/1090148/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090148</link>
-      <description>Личная история о том, как я выстраивала автоматизацию с нуля в банковском проекте. Точка старта: огромный проект, ручной регресс на 5 дней, QA вечно «в мыле». Через год: автоматизирована половина тест‑кейсов, регресс занимает 2 дня, ручные QA выдохнули и пишут первые автотесты Читать далее</description>
-      <pubDate>Sun, 04 Oct 2026 12:23:48 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1090148/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090148</guid>
+      <title>Обучили классификатор телепередач для Kodi: что он рекомендовал и почему F1 = 1,000 нас обманул</title>
+      <link>https://habr.com/ru/articles/1090216/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090216</link>
+      <description>Телевизор я смотрю редко. Когда всё-таки включаю, хочется попасть на хороший фильм о путешествиях, науке или космосе. Нравятся каналы вроде «Моей Планеты», но смотреть всё подряд даже там не хочется. В одной сетке соседствуют экспедиции, гастротуры, обзоры достопримечательностей и передачи, которым достаточно идти фоном. Кулинария меня вообще не интересует. Решил сделать персональную разметку телепрограммы: читать названия и описания, находить подходящие передачи и добавлять звёздочку в начало н</description>
+      <pubDate>Sun, 04 Oct 2026 16:51:41 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1090216/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090216</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>[Перевод] Теорема о четырёх красках получила новое редкое доказательство</title>
-      <link>https://habr.com/ru/articles/1090146/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090146</link>
-      <description>Теорема о четырёх красках формулируется очень просто: можно ли на непрерывной карте раскрасить каждую область одним из четырёх цветов так, чтобы соседние области были разных цветов? Некоторые математические задачи продолжают преследовать исследователей ещё долго после того, как были решены. Появляется доказательство, его даже торжественно приветствуют, но чувство неудовлетворённости остаётся. Возможно, рассуждение слишком запутано и люди продолжают искать неуловимое доказательство на одной стран</description>
-      <pubDate>Sun, 04 Oct 2026 12:22:06 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1090146/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090146</guid>
+      <title>Пиксели Фурье работают как приёмник и генератор световых полей</title>
+      <link>https://habr.com/ru/companies/globalsign/articles/1090208/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090208</link>
+      <description>Мы привыкли, что пиксели на мониторе и в матрице фотоаппарата — это разные устройства. Одни работают как сенсоры, регистрируя энергию фотонов в ПЗС- или КМОП-матрице камеры. А другие излучают свет, как в RGB-решётке монитора. Однако учёные из Швейцарской высшей технической школы Цюриха (ETH Zurich) разработали принципиально новые пиксели Фурье , которые работают одновременно и как приёмник, и как излучатель света. С такими пикселями, например, компьютерный монитор «видит» всё перед собой. Монито</description>
+      <pubDate>Sun, 04 Oct 2026 16:21:03 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/globalsign/articles/1090208/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090208</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>The forgotten Chromebook that started it all</title>
-      <link>https://www.theverge.com/podcast/1001215/the-forgotten-chromebook-that-started-it-all</link>
-      <description>Google didn't even call the first Chromebook a "Chromebook." The Cr-48 had no interesting design and no bright logos - it wasn't even designed to be a product you could buy. Instead, it was a portal to a big new idea about computers. In this week's episode of Version History, The Verge's Nilay Patel and […]</description>
-      <pubDate>Sun, 04 Oct 2026 12:00:00 +0000</pubDate>
-      <guid>https://www.theverge.com/podcast/1001215/the-forgotten-chromebook-that-started-it-all</guid>
+      <title>Как я ноутбук Lenovo IdeaPad Gaming 3 чинил. Новый чип, его прошивка и капризный зарядник</title>
+      <link>https://habr.com/ru/companies/ru_mts/articles/1089746/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089746</link>
+      <description>Привет, Хабр! Ну что, я таки починил игровой ноутбук от Lenovo. Это оказалось не так просто, но все получилось. Напомню, это «залитик», то есть лэптоп, пострадавший от жидкости, — самая неприятная категория ремонтов. В первой части я нашел причину, по которой Lenovo IdeaPad Gaming 3-15ACH6 не включался и не заряжался. После «купания» пробило мультиконтроллер ENE KB9022QD и на одной из линий питания оказалось около 20 Ом. Стоило снять чип, как сопротивление выросло до килоом, а дежурные 3,3 В сно</description>
+      <pubDate>Sun, 04 Oct 2026 16:19:04 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/ru_mts/articles/1089746/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089746</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>NJ’s lieutenant governor told PBS, AI says he didn’t commit sexual harassment</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true</link>
+      <description>New Jersey's lieutenant governor Dale Caldwell was forced to resign on September 25th after an investigation found he had sexually harassed a staffer and repeatedly violated ethics rules. The now-former Lt. governor has been making the media rounds trying to clear his name. But he took a particularly odd tactic during an interview on NJ […]</description>
+      <pubDate>Sun, 04 Oct 2026 16:16:04 +0000</pubDate>
+      <guid>https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true</guid>
       <category>The Verge</category>
     </item>
     <item>
-      <title>The rise, fall, and rise of portable MP3 players</title>
-      <link>https://www.theverge.com/column/1003566/history-apple-ipod-mp3-music-player</link>
-      <description>This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the collapse and the resurgence of the portable media player, follow Terrence O'Brien. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started We are […]</description>
-      <pubDate>Sun, 04 Oct 2026 12:00:00 +0000</pubDate>
-      <guid>https://www.theverge.com/column/1003566/history-apple-ipod-mp3-music-player</guid>
+      <title>TechCrunch Mobility: Reining in robotaxis</title>
+      <link>https://techcrunch.com/2026/10/04/techcrunch-mobility-reining-in-robotaxis/</link>
+      <description>Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.</description>
+      <pubDate>Sun, 04 Oct 2026 16:05:00 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/04/techcrunch-mobility-reining-in-robotaxis/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>[Перевод] Interpretable Context Methodology (Методология интерпретируемого контекста): структура директорий как архитектура агента</title>
+      <link>https://habr.com/ru/articles/1090196/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090196</link>
+      <description>Привет, Хабр! Это не перевод, скорее выжимка из статьи со схожим названием. Очень советую ознакомиться, если подход заинтересует. Текущий подход к оркестрации AI агентов обычно включает в себя создание фреймворка, который руководит передачей контекста, памятью, обработкой ошибок и координацией шагов решения задачи (CrewAI, LangChain, AutoGen). Подобные фреймворки отлично подходят для сложных, многозадачных систем. Но для последовательных процессов, требующих проверки работы человеком для определ</description>
+      <pubDate>Sun, 04 Oct 2026 15:30:28 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1090196/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090196</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>An AI couldn’t beat humans at StarCraft, so it decided to cheat</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft</link>
+      <description>StarSkirmish pits AI-made StarCraft-playing bots against one another, as well as against human-made bots. OpenAI's GPT-6 Astra and Claude Opus 5.5 were essentially tied as the best-performing AI-made bots, but they couldn't top Stardust, the top-rated human-made bot. On Friday, GPT was facing off against Claude and the human-created bot Pluto, but according to Kotaku, […]</description>
+      <pubDate>Sun, 04 Oct 2026 15:21:59 +0000</pubDate>
+      <guid>https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft</guid>
       <category>The Verge</category>
     </item>
     <item>
-      <title>Amazon’s colorful and sturdy new Kindles</title>
-      <link>https://www.theverge.com/tech/1004199/amazon-kindle-openai-dots-witcher-3-remastered-bose-wired-headphones</link>
-      <description>Hi, friends! Welcome to Installer No. 146, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, it's October already?, and also you can read all the old editions at the Installer homepage.) This week, I'm wishing I could do Walmart potato drone delivery in Portland, watching Mike Tomlin […]</description>
-      <pubDate>Sun, 04 Oct 2026 12:00:00 +0000</pubDate>
-      <guid>https://www.theverge.com/tech/1004199/amazon-kindle-openai-dots-witcher-3-remastered-bose-wired-headphones</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>Сделал браузерное расширение, чтобы сохранять иностранные слова прямо из статей и потом учить их в мобильном приложении</title>
-      <link>https://habr.com/ru/articles/1090040/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090040</link>
-      <description>Уже примерно год я делаю приложение для изучения иностранных слов. За это время оно довольно сильно изменилось: появились новые языки, подборки, рекомендации, игры, уроки и куча других вещей. Сейчас в приложении можно учить 12 языков. Но основная идея все это время оставалась одной и той же: помочь человеку быстро находить любые слова и фразы, а потом давать ему возможность максимально эффективно запоминать их через интервальные повторения. И забавно, что за год разработки я успел придумать дово</description>
-      <pubDate>Sun, 04 Oct 2026 11:17:52 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1090040/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090040</guid>
+      <title>Почему «ничего не делать для GEO‑оптимизации» — нормальная стратегия GEO‑оптимизации контента</title>
+      <link>https://habr.com/ru/articles/1088196/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1088196</link>
+      <description>Компании и менеджеры узнают о партнерах или конкурентах в первую очередь из ответов нейронок, поэтому сегодня все устремились в GEO — Generative Engine Optimization. Метод подразумевает настройку контента на сайте таким образом, чтобы чат-боты вроде ChatGPT и поисковики с генеративными функциями цитировали бренд в своих ответах. Получается что-то вроде SEO-лихорадки из нулевых , когда компании гонялись за нужными ключевиками и соревновались в методах «творческой оптимизации». Ниже — о том, что (</description>
+      <pubDate>Sun, 04 Oct 2026 15:20:43 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1088196/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1088196</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
   </channel>
