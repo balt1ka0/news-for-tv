@@ -5,9 +5,41 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Sun, 04 Oct 2026 20:55:42 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 23:51:08 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Зачем я запускаю smoke‑тесты прямо в production и как они однажды сломали мне аналитику</title>
+      <link>https://habr.com/ru/articles/1090270/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090270</link>
+      <description>Что будет, если production smoke-тесты начнут вести себя почти как настоящие пользователи? В статье рассказываю, зачем я запускаю автоматические проверки прямо в проде, как они проверяют реальные пользовательские сценарии и почему однажды из-за них статистика мессенджера внезапно оказалась слишком оптимистичной. Разберём synthetic traffic, soft delete, искажённые DAU/WAU/MAU и то, как отделять техническую активность от реальной, не отказываясь от production smoke. Читать далее</description>
+      <pubDate>Sun, 04 Oct 2026 23:00:27 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1090270/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090270</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Я научу управлять тебя деньгами — обзор на книгу Игоря Шимко и поможет ли она айтишникам</title>
+      <link>https://habr.com/ru/articles/1090258/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090258</link>
+      <description>Недавно на Хабре вышла статья про пенсионные стратегии для айтишников, где главным выводом стала однушка возле метро и безнадёга во всех остальных инструментах. И откровенно говоря, это немного пугает с учётом того, что многие эксперты-демографы предрекают полный коллапс пенсионных систем по всему миру в силу роста числа людей золотого поколения и снижающейся рождаемости. С этой ситуацией я вышел в интернет, где у нас есть множество роликов от наших американских коллег, где всё ограничивается не</description>
+      <pubDate>Sun, 04 Oct 2026 21:21:54 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1090258/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090258</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>The new Fitbit Edge leaks</title>
+      <link>https://www.theverge.com/gadgets/1004616/the-new-fitbit-edge-leaks</link>
+      <description>We don't know a ton about the Fitbit Edge, but it appears to be a successor to the midrange Charge line. It had leaked previously, but we can clearly see in these images posted by Android Headlines, you can see that Google's rumored fitness tracker sort of splits the difference between the Pixel Watch and […]</description>
+      <pubDate>Sun, 04 Oct 2026 21:02:09 +0000</pubDate>
+      <guid>https://www.theverge.com/gadgets/1004616/the-new-fitbit-edge-leaks</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>Я сделал с ИИ сайт на 2000 страниц на четырёх языках. Из Google на него приходят два человека в день</title>
+      <link>https://habr.com/ru/articles/1090256/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090256</link>
+      <description>Летом я сделал энциклопедию по истории искусства, artatlas.site . 184 картины, 107 художников, музеи, статьи, и все это на русском, английском, испанском и французском. Две с лишним тысячи HTML‑файлов. Код и тексты почти целиком писал ИИ (Claude Code), а я ставил задачи, ругался и проверял. Ругался, честно говоря, чаще чем проверял. Lighthouse ставит доступности сотню, JSON‑LD валидный везде, где он есть. Google приводит 1,9 человека в день. Я посчитал, да. Дальше — как так вышло. Местами смешно</description>
+      <pubDate>Sun, 04 Oct 2026 20:55:22 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1090256/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090256</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
     <item>
       <title>Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions</title>
       <link>https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/</link>
@@ -17,7 +49,7 @@
       <category>TechCrunch</category>
     </item>
     <item>
-      <title>OpsDeck: собрал рабочее место DevOps-инженера в одном окне и выложил в open source</title>
+      <title>OpsDeck: собрал рабочее место DevOps‑инженера в одном окне и выложил в open source</title>
       <link>https://habr.com/ru/articles/1090248/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090248</link>
       <description>Вспомните свой обычный рабочий день: три терминала, Lens, вкладки с Grafana, Argo CD и GitLab, KeePassXC, Obsidian с ранбуками, DBeaver, WinBox для роутеров и где-то среди всего этого — чат с ИИ. Алерт прилетает в Telegram, команду из ранбука копируешь руками, пароль ищешь в третьем окне. Мне надоело собирать себя по кусочкам каждое утро, и я сделал OpsDeck — бесплатное приложение с открытым кодом, в котором всё это живёт вместе и знает друг о друге. Ниже — экскурсия по каждому разделу со скринш</description>
       <pubDate>Sun, 04 Oct 2026 20:21:57 +0000</pubDate>
@@ -41,51 +73,19 @@
       <category>The Verge</category>
     </item>
     <item>
-      <title>Автономный умный дом: к чему готовиться, если из-за блокировок пропадет интернет</title>
-      <link>https://habr.com/ru/articles/1090236/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090236</link>
-      <description>Автономный умный дом: к чему готовиться, если из-за блокировок пропадет интернет На рынке систем умного дома сегодня есть два противоположных полюса. Первый — выстраивание архитектуры в расчете на облачную инфраструктуру. У такого подхода много плюсов, но все их полностью обнуляет тотальная зависимость от доступности чужого сервера. Второй — локальные интеграционные решения, когда интегратор собирает из разнородных систем что-то уникальное, условно связанное между собой и непростое в поддержке. </description>
-      <pubDate>Sun, 04 Oct 2026 18:40:55 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1090236/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090236</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>[Перевод] Роджер Пенроуз о пространстве-времени, сознании и Вселенной (интервью)</title>
+      <title>[Перевод] Роджер Пенроуз о пространстве‑времени, сознании и Вселенной (интервью)</title>
       <link>https://habr.com/ru/articles/1090228/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090228</link>
-      <description>Сэр Роджер Пенроуз прожил необыкновенную жизнь. Он внёс огромный вклад в наше понимание общей теории относительности - возможно, больший, чем кто-либо после самого Эйнштейна: диаграммы Пенроуза, теоремы о сингулярностях, процесс Пенроуза, гипотеза космической цензуры - и это лишь начало списка. Он внёс важный вклад и в математику, придумав, среди прочего, такие занятные вещи, как треугольник Пенроуза и апериодические замощения. Кроме того, он выдвигал смелые гипотезы в общеизвестно спорных облас</description>
+      <description>Сэр Роджер Пенроуз прожил необыкновенную жизнь. Он внёс огромный вклад в наше понимание общей теории относительности — возможно, больший, чем кто‑либо после самого Эйнштейна: диаграммы Пенроуза, теоремы о сингулярностях, процесс Пенроуза, гипотеза космической цензуры — и это лишь начало списка. Он внёс важный вклад и в математику, придумав, среди прочего, такие занятные вещи, как треугольник Пенроуза и апериодические замощения. Кроме того, он выдвигал смелые гипотезы в общеизвестно спорных облас</description>
       <pubDate>Sun, 04 Oct 2026 18:19:19 +0000</pubDate>
       <guid>https://habr.com/ru/articles/1090228/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090228</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Жил-был «Кенгурёнок»</title>
+      <title>Жил‑был «Кенгурёнок»</title>
       <link>https://habr.com/ru/articles/1090224/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090224</link>
       <description>Учебный графический исполнитель (ГРИС) — это компьютерная модель, имитирующая работу чертёжного узла в режимах непосредственного и программного управления. ГРИС используют при изучении основ алгоритмизации для демонстрации принципов структурного программирования. Существует множество различных реализаций ГРИС, которые отличаются целевыми компьютерными платформами, наборами команд и возможностями исполнителей. Ярким и запоминающимся примером может служить среда ГРИС «Кенгурёнок» , созданная в нач</description>
       <pubDate>Sun, 04 Oct 2026 17:55:50 +0000</pubDate>
       <guid>https://habr.com/ru/articles/1090224/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090224</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>The best early October Prime Day deals happening now</title>
-      <link>https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october</link>
-      <description>It’s not even October yet and Amazon is already offering some Prime Big Deal Day discounts on its own hardware, along with plenty of other popular products. It’s all to hype up October Prime Day, which starts October 6th at 3AM ET and lasts through 3AM ET on the 8th if you’re on the East […]</description>
-      <pubDate>Sun, 04 Oct 2026 17:18:00 +0000</pubDate>
-      <guid>https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>Первая часть шестнадцатой проблемы Гильберта: перебираем схемы степени 8 с ограничениями</title>
-      <link>https://habr.com/ru/articles/1090172/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090172</link>
-      <description>Код и списки выложены в публичном репозитории на GitVerse по ссылке: https://gitverse.ru/mshshukin2005/real-schemes-degree8 В этой статье я хочу рассказать об одной из многих тысяч нерешённых математических проблем. Речь пойдёт о Шестнадцатой проблеме Гильберта. Шестнадцатая проблема Ги́льберта — одна из 23 задач , которые Давид Гильберт предложил 8 августа 1900 года на II Международном конгрессе математиков . Исходно называлась «Проблема топологии алгебраических кривых и поверхностей». Впоследс</description>
-      <pubDate>Sun, 04 Oct 2026 17:12:21 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1090172/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090172</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Обучили классификатор телепередач для Kodi: что он рекомендовал и почему F1 = 1,000 нас обманул</title>
-      <link>https://habr.com/ru/articles/1090216/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090216</link>
-      <description>Телевизор я смотрю редко. Когда всё-таки включаю, хочется попасть на хороший фильм о путешествиях, науке или космосе. Нравятся каналы вроде «Моей Планеты», но смотреть всё подряд даже там не хочется. В одной сетке соседствуют экспедиции, гастротуры, обзоры достопримечательностей и передачи, которым достаточно идти фоном. Кулинария меня вообще не интересует. Решил сделать персональную разметку телепрограммы: читать названия и описания, находить подходящие передачи и добавлять звёздочку в начало н</description>
-      <pubDate>Sun, 04 Oct 2026 16:51:41 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1090216/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090216</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
   </channel>
