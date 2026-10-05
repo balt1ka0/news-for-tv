@@ -5,88 +5,88 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Mon, 05 Oct 2026 04:23:51 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 12:04:09 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[Перевод] Дэвид Л. Парнас «Аспекты распределения информации в методологии проектирования»</title>
-      <link>https://habr.com/ru/articles/1090278/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090278</link>
-      <description>В начале 1970-х программные системы уже не помещались в голове одного человека, а документация порой росла быстрее, чем код. Парнас задался вопросом, которого до него, кажется, никто не задавал: а нужно ли вообще, чтобы каждый программист знал о системе все? Его ответ — нет, и именно из этого «нет» выросло то, что мы сегодня называем инкапсуляцией. Читать далее</description>
-      <pubDate>Mon, 05 Oct 2026 04:19:35 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1090278/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090278</guid>
+      <title>TCL’s paperlike OLED phone made me more excited for the iPhone Duo</title>
+      <link>https://www.theverge.com/tech/1004079/tcl-p80-ultra-nxtpaper-matte-display-iphone-duo</link>
+      <description>I've spent most of the last couple weeks using an otherwise unexceptional midrange Android phone with one amazing feature: a matte OLED display. That screen is by far the best thing about the TCL P80 Ultra, and weirdly, it's made me more excited for the iPhone Duo and its matte inner display. 2023's TCL Nxtpaper […]</description>
+      <pubDate>Mon, 05 Oct 2026 12:02:41 +0000</pubDate>
+      <guid>https://www.theverge.com/tech/1004079/tcl-p80-ultra-nxtpaper-matte-display-iphone-duo</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>Спросить SIEM словами: подключаем LLM-ассистента к Wazuh</title>
+      <link>https://habr.com/ru/companies/selectel/articles/1086770/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1086770</link>
+      <description>Wazuh хорошо собирает события безопасности, но чтобы найти в них ответ, нужно знать язык запросов и сотни полей индекса. Опытный инженер SOC напишет запрос за минуту, но вот коллегам, которые не работали в Wazuh или с SIEM-системами, это сделать не так просто. Дашборд Wazuh построен на OpenSearch Dashboards, а у OpenSearch есть готовый ассистент — OpenSearch Assistant. В поставку Wazuh он не входит, но ставится штатными плагинами той же версии, без переделки самого Wazuh. На связи Андрей, руково</description>
+      <pubDate>Mon, 05 Oct 2026 12:01:03 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/selectel/articles/1086770/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1086770</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>MintFlow: Minimal Trajectory Intervention for Constrained Flow Matching</title>
-      <link>https://arxiv.org/abs/2610.02260</link>
-      <description>arXiv:2610.02260v1 Announce Type: new Abstract: Flow matching models excel at generative modeling, and many downstream applications require their samples to satisfy prescribed constraints, such as observed measurements and physical laws. However, existing constrained samplers often face a trade-off: \textit{enforcing constraints can substantially displace samples from the pretrained data distribution}. To address this trade-off, we introduce \textbf{MintFlow}, a training-free constrained samplin</description>
-      <pubDate>Mon, 05 Oct 2026 04:00:00 +0000</pubDate>
-      <guid>https://arxiv.org/abs/2610.02260</guid>
-      <category>cs.AI updates on arXiv.org</category>
+      <title>Can Safeworld convince people that gen AI robots won’t hurt them?</title>
+      <link>https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them/</link>
+      <description>Safeworld is building digital humans to make sure robots don't hurt the real ones.</description>
+      <pubDate>Mon, 05 Oct 2026 12:00:00 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them/</guid>
+      <category>TechCrunch</category>
     </item>
     <item>
-      <title>Fast Models, Slow Evidence: A Paired and Self-Audited Evaluation of System-1 Decision Models for LLM Agent Harnesses</title>
-      <link>https://arxiv.org/abs/2610.02267</link>
-      <description>arXiv:2610.02267v1 Announce Type: new Abstract: Agent harnesses make many small, typed decisions per task: which model to call, which tool to use, whether retrieved text is relevant, whether an input carries an injection. System-1 decision models answer such questions in a single forward pass with class probabilities, promising large cost and latency savings over LLM calls. We present a paired evaluation of an open-weight (Laya) and a hosted (Jev) System-1 model on 11 agent decision points built</description>
-      <pubDate>Mon, 05 Oct 2026 04:00:00 +0000</pubDate>
-      <guid>https://arxiv.org/abs/2610.02267</guid>
-      <category>cs.AI updates on arXiv.org</category>
+      <title>Карта профессий ИБ в эпоху ИИ: что автоматизируется, куда смещается спрос и чему учиться</title>
+      <link>https://habr.com/ru/articles/1090506/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090506</link>
+      <description>Происходящая когнитивная революция, вызванная развитием AI-технологий точно не оставит в стороне рынок труда в информационной безопасности. Разбираем тектонический сдвиг который происходит: как автономные агенты вымывают линейную рутину, какие специализации становятся дефицитными, как изменится архитектура киберзащиты к 2030 году и чему учиться инженерам уже сегодня. Читать далее</description>
+      <pubDate>Mon, 05 Oct 2026 11:54:05 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1090506/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090506</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>The AI Risk Observatory: What Can We Learn from AI Disclosures in Annual Reports About Societal Resilience?</title>
-      <link>https://arxiv.org/abs/2610.02281</link>
-      <description>arXiv:2610.02281v1 Announce Type: new Abstract: Societal resilience research relies on access to useful and actionable data, which motivates our main research question: Can annual reports, processed at scale with LLMs, provide a useful signal about how companies disclose their response to AI? We test this by applying a reproducible two-stage classification pipeline to 9,821 annual reports from 1,362 UK listed companies (2020-2025, with partial 2026 data). We first validate the method against 474</description>
-      <pubDate>Mon, 05 Oct 2026 04:00:00 +0000</pubDate>
-      <guid>https://arxiv.org/abs/2610.02281</guid>
-      <category>cs.AI updates on arXiv.org</category>
+      <title>У нас есть «плюсы» дома: о чем говорили на митапе YADRO × C++ Russia</title>
+      <link>https://habr.com/ru/companies/yadro/articles/1090332/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090332</link>
+      <description>С++20-корутины, миграция акторной системы и KvadraOS — все это было на митапе для разработчиков на «плюсах», который организовали YADRO и C++ Russia. Под катом собрали записи докладов и рассказали о новых проектах для инженеров: экскурсии по инженерному центру и проекту о работе с легаси-кодом. Читать далее</description>
+      <pubDate>Mon, 05 Oct 2026 11:52:23 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/yadro/articles/1090332/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090332</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Keep It CALM: Analyzing the Limits of Global Unsafety in Text-to-Image Generation</title>
-      <link>https://arxiv.org/abs/2610.02300</link>
-      <description>arXiv:2610.02300v1 Announce Type: new Abstract: Training-free safeguards for text-to-image generation often rely on a reusable safety signal, such as an unsafe direction or global toxic subspace, applied broadly across prompts. We provide a controlled geometric analysis of this global-unsafety assumption and reveal a consistent coverage-selectivity trade-off: compact unsafe subspaces fail to cover heterogeneous unsafe semantics, whereas broader aggregation increasingly distorts safety-adjacent b</description>
-      <pubDate>Mon, 05 Oct 2026 04:00:00 +0000</pubDate>
-      <guid>https://arxiv.org/abs/2610.02300</guid>
-      <category>cs.AI updates on arXiv.org</category>
+      <title>[Перевод] Как AI изменил рынок софта?</title>
+      <link>https://habr.com/ru/articles/1090504/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090504</link>
+      <description>Привет! Меня зовут Саша Журавлев. Я венчурный инвестор и основатель фонда Mento vc. Мы инвестируем в стартапы на стадиях Seed / Series A в США, а в своем телеграм-канале рассказываю, как вижу рынок и принимаю инвестиционные решения. ICONIQ (более $80B под управлением) каждый год выпускает отчет об эффективности software-компаний. И вот недавно вышел свежий сентябрьский отчет за 2026 год. Для меня это один из самых важных репортов индустрии, и я ждал его с июля (он в прошлом году вышел в июле 202</description>
+      <pubDate>Mon, 05 Oct 2026 11:51:53 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1090504/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090504</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Choosing Before Acting: Comparative Value Estimation for Long-Horizon Tool-Use Agents</title>
-      <link>https://arxiv.org/abs/2610.02330</link>
-      <description>arXiv:2610.02330v1 Announce Type: new Abstract: Large language models (LLMs) rely on long-horizon tool invocation sequences for complex tasks, where each invocation can alter the task state and condition subsequent decisions. In long-horizon tool use, final-outcome rewards provide weak credit assignment over long interaction traces. Step-level rewards can offer more targeted feedback, but obtaining reliable step supervision often requires human or LLM judgment, or additional rollouts to estimate</description>
-      <pubDate>Mon, 05 Oct 2026 04:00:00 +0000</pubDate>
-      <guid>https://arxiv.org/abs/2610.02330</guid>
-      <category>cs.AI updates on arXiv.org</category>
+      <title>Нобелевская премия по физиологии и медицине-2026: смотрим на патенты лауреатов и главных бенефициаров открытий ученых</title>
+      <link>https://habr.com/ru/companies/onlinepatent/articles/1090486/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090486</link>
+      <description>Нобелевскую премию по физиологии и медицине за 2026 год присудили Карлу Дейссероту, Петеру Хегеманну, Георгу Нагелю за открытия, которые привели к созданию оптогенетики. Данный метод позволяет с помощью света включать и выключать активность отдельных нервных клеток в головном мозге. Разбираемся, сколько патентов у нобелиатов этого года, и кому они принадлжат. Читать далее</description>
+      <pubDate>Mon, 05 Oct 2026 11:14:02 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/onlinepatent/articles/1090486/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090486</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>World Editing: Intervening on Executable Worlds at Increasing Depth</title>
-      <link>https://arxiv.org/abs/2610.02331</link>
-      <description>arXiv:2610.02331v1 Announce Type: new Abstract: Interactive world models are increasingly capable of generating environments and acting within them, yet deliberately editing an existing executable world remains underexplored. We formulate world editing as intervening on an existing world while preserving properties that should remain unchanged, and introduce intervention depth as an axis describing how strongly an edit couples world entities, dynamics, and systems. We instantiate this capability</description>
-      <pubDate>Mon, 05 Oct 2026 04:00:00 +0000</pubDate>
-      <guid>https://arxiv.org/abs/2610.02331</guid>
-      <category>cs.AI updates on arXiv.org</category>
+      <title>Горение свечи и стрелы объяснений</title>
+      <link>https://habr.com/ru/articles/1090484/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090484</link>
+      <description>Обычно считается, что механика сплошных сред и классическая термодинамика уже сведены к статистической и квантовой механике. Так, Стивен Вайнберг в книге ' Мечты об окончательной теории ' рассматривает сводимость теорий более высоких уровней организации с использованием метафоры стрел объяснений: 'Мы ищем универсальные истины о природе и, когда мы их находим, пытаемся объяснить их, показав, каким образом они выводятся из еще более глубоких истин. Представьте себе пространство научных принципов, </description>
+      <pubDate>Mon, 05 Oct 2026 11:13:01 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1090484/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090484</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>A Multi Method Importance and Performance Efficiency Analysis of Topological Metrics for Natural Visibility Graph Based Cyber Attack Detection</title>
-      <link>https://arxiv.org/abs/2610.02342</link>
-      <description>arXiv:2610.02342v1 Announce Type: new Abstract: Natural Visibility Graph (NVG) based analysis characterizes network traffic through topological descriptors reflecting different structural properties. However, not all descriptors contribute equally to cyber-attack classification, and extracting a large metric set can increase computational cost. This study evaluates 21 NVG derived topological metrics and investigates whether a compact subset can preserve classification capability while improving </description>
-      <pubDate>Mon, 05 Oct 2026 04:00:00 +0000</pubDate>
-      <guid>https://arxiv.org/abs/2610.02342</guid>
-      <category>cs.AI updates on arXiv.org</category>
+      <title>PostgreSQL 19: Коммитфест 2026-03 Часть 5.3 (DBA3, DBS)</title>
+      <link>https://habr.com/ru/companies/postgrespro/articles/1090470/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090470</link>
+      <description>Продолжаем обзор мартовского коммитфеста 19-й версии. В третьей статье серии рассмотрим изменения, относящиеся к материалам курсов DBA3 и DBS . Напоминаю план статей о последнем коммитфесте 19-й версии: Часть 5.1 (QPT) Часть 5.2 (DBA1, DBA2) Часть 5.3 (DBA3, DBS) – мы здесь 🙂 Часть 5.4 (SQL, DEV1, DEV2) Об изменениях в предыдущих коммитфестах рассказано здесь: 2025-07 , 2025-09 , 2025-11 , 2026-01 . Читать далее</description>
+      <pubDate>Mon, 05 Oct 2026 11:10:50 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/postgrespro/articles/1090470/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090470</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>DeReAct: Decomposed Reasoning and Acting for Reliable AI Agents</title>
-      <link>https://arxiv.org/abs/2610.02351</link>
-      <description>arXiv:2610.02351v1 Announce Type: new Abstract: ReAct-based agents typically rely on a single LLM policy to propose actions, interact with the environment, and decide when a task is complete. This coupling makes action authorization and completion control difficult to enforce independently, allowing errors to propagate and unsupported completion claims to terminate execution. We introduce DeReAct, a modular agent architecture that externalizes two gating policies: a Critic that validates propose</description>
-      <pubDate>Mon, 05 Oct 2026 04:00:00 +0000</pubDate>
-      <guid>https://arxiv.org/abs/2610.02351</guid>
-      <category>cs.AI updates on arXiv.org</category>
-    </item>
-    <item>
-      <title>Traversing the Satisfaction-Diversity Frontier in Text-to-Image Diffusion</title>
-      <link>https://arxiv.org/abs/2610.02372</link>
-      <description>arXiv:2610.02372v1 Announce Type: new Abstract: Text-to-image generation enables users to explore several images generated from the same prompt. For these generated images to be useful, each one must reflect the user's preferences, measured by a learned reward, and differ visually from the others to maintain diversity. Existing methods are limited: they either address reward and diversity separately or combine them in one aggregate score, enabling high diversity to offset low rewards. In this pa</description>
-      <pubDate>Mon, 05 Oct 2026 04:00:00 +0000</pubDate>
-      <guid>https://arxiv.org/abs/2610.02372</guid>
-      <category>cs.AI updates on arXiv.org</category>
+      <title>Сравнение провайдеров managed PostgreSQL</title>
+      <link>https://habr.com/ru/companies/amvera/articles/1090478/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090478</link>
+      <description>PostgreSQL является самой распространённой СУБД согласно исследованию StackOverflow . Но самостоятельный хостинг PostgreSQL сопряжён с риском потери данных и неоптимальной настройки. В статье мы рассмотрим основных международных и российских провайдеров managed PostgreSQL. Их сильные и слабые стороны и сценарии оптимального использования. Читать далее</description>
+      <pubDate>Mon, 05 Oct 2026 11:02:45 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/amvera/articles/1090478/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090478</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
   </channel>
 </rss>
