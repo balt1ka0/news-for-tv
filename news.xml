@@ -5,88 +5,88 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Sun, 04 Oct 2026 23:51:08 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 04:23:51 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Зачем я запускаю smoke‑тесты прямо в production и как они однажды сломали мне аналитику</title>
-      <link>https://habr.com/ru/articles/1090270/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090270</link>
-      <description>Что будет, если production smoke-тесты начнут вести себя почти как настоящие пользователи? В статье рассказываю, зачем я запускаю автоматические проверки прямо в проде, как они проверяют реальные пользовательские сценарии и почему однажды из-за них статистика мессенджера внезапно оказалась слишком оптимистичной. Разберём synthetic traffic, soft delete, искажённые DAU/WAU/MAU и то, как отделять техническую активность от реальной, не отказываясь от production smoke. Читать далее</description>
-      <pubDate>Sun, 04 Oct 2026 23:00:27 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1090270/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090270</guid>
+      <title>[Перевод] Дэвид Л. Парнас «Аспекты распределения информации в методологии проектирования»</title>
+      <link>https://habr.com/ru/articles/1090278/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090278</link>
+      <description>В начале 1970-х программные системы уже не помещались в голове одного человека, а документация порой росла быстрее, чем код. Парнас задался вопросом, которого до него, кажется, никто не задавал: а нужно ли вообще, чтобы каждый программист знал о системе все? Его ответ — нет, и именно из этого «нет» выросло то, что мы сегодня называем инкапсуляцией. Читать далее</description>
+      <pubDate>Mon, 05 Oct 2026 04:19:35 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1090278/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090278</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Я научу управлять тебя деньгами — обзор на книгу Игоря Шимко и поможет ли она айтишникам</title>
-      <link>https://habr.com/ru/articles/1090258/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090258</link>
-      <description>Недавно на Хабре вышла статья про пенсионные стратегии для айтишников, где главным выводом стала однушка возле метро и безнадёга во всех остальных инструментах. И откровенно говоря, это немного пугает с учётом того, что многие эксперты-демографы предрекают полный коллапс пенсионных систем по всему миру в силу роста числа людей золотого поколения и снижающейся рождаемости. С этой ситуацией я вышел в интернет, где у нас есть множество роликов от наших американских коллег, где всё ограничивается не</description>
-      <pubDate>Sun, 04 Oct 2026 21:21:54 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1090258/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090258</guid>
-      <category>Все публикации подряд на Хабре</category>
+      <title>MintFlow: Minimal Trajectory Intervention for Constrained Flow Matching</title>
+      <link>https://arxiv.org/abs/2610.02260</link>
+      <description>arXiv:2610.02260v1 Announce Type: new Abstract: Flow matching models excel at generative modeling, and many downstream applications require their samples to satisfy prescribed constraints, such as observed measurements and physical laws. However, existing constrained samplers often face a trade-off: \textit{enforcing constraints can substantially displace samples from the pretrained data distribution}. To address this trade-off, we introduce \textbf{MintFlow}, a training-free constrained samplin</description>
+      <pubDate>Mon, 05 Oct 2026 04:00:00 +0000</pubDate>
+      <guid>https://arxiv.org/abs/2610.02260</guid>
+      <category>cs.AI updates on arXiv.org</category>
     </item>
     <item>
-      <title>The new Fitbit Edge leaks</title>
-      <link>https://www.theverge.com/gadgets/1004616/the-new-fitbit-edge-leaks</link>
-      <description>We don't know a ton about the Fitbit Edge, but it appears to be a successor to the midrange Charge line. It had leaked previously, but we can clearly see in these images posted by Android Headlines, you can see that Google's rumored fitness tracker sort of splits the difference between the Pixel Watch and […]</description>
-      <pubDate>Sun, 04 Oct 2026 21:02:09 +0000</pubDate>
-      <guid>https://www.theverge.com/gadgets/1004616/the-new-fitbit-edge-leaks</guid>
-      <category>The Verge</category>
+      <title>Fast Models, Slow Evidence: A Paired and Self-Audited Evaluation of System-1 Decision Models for LLM Agent Harnesses</title>
+      <link>https://arxiv.org/abs/2610.02267</link>
+      <description>arXiv:2610.02267v1 Announce Type: new Abstract: Agent harnesses make many small, typed decisions per task: which model to call, which tool to use, whether retrieved text is relevant, whether an input carries an injection. System-1 decision models answer such questions in a single forward pass with class probabilities, promising large cost and latency savings over LLM calls. We present a paired evaluation of an open-weight (Laya) and a hosted (Jev) System-1 model on 11 agent decision points built</description>
+      <pubDate>Mon, 05 Oct 2026 04:00:00 +0000</pubDate>
+      <guid>https://arxiv.org/abs/2610.02267</guid>
+      <category>cs.AI updates on arXiv.org</category>
     </item>
     <item>
-      <title>Я сделал с ИИ сайт на 2000 страниц на четырёх языках. Из Google на него приходят два человека в день</title>
-      <link>https://habr.com/ru/articles/1090256/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090256</link>
-      <description>Летом я сделал энциклопедию по истории искусства, artatlas.site . 184 картины, 107 художников, музеи, статьи, и все это на русском, английском, испанском и французском. Две с лишним тысячи HTML‑файлов. Код и тексты почти целиком писал ИИ (Claude Code), а я ставил задачи, ругался и проверял. Ругался, честно говоря, чаще чем проверял. Lighthouse ставит доступности сотню, JSON‑LD валидный везде, где он есть. Google приводит 1,9 человека в день. Я посчитал, да. Дальше — как так вышло. Местами смешно</description>
-      <pubDate>Sun, 04 Oct 2026 20:55:22 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1090256/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090256</guid>
-      <category>Все публикации подряд на Хабре</category>
+      <title>The AI Risk Observatory: What Can We Learn from AI Disclosures in Annual Reports About Societal Resilience?</title>
+      <link>https://arxiv.org/abs/2610.02281</link>
+      <description>arXiv:2610.02281v1 Announce Type: new Abstract: Societal resilience research relies on access to useful and actionable data, which motivates our main research question: Can annual reports, processed at scale with LLMs, provide a useful signal about how companies disclose their response to AI? We test this by applying a reproducible two-stage classification pipeline to 9,821 annual reports from 1,362 UK listed companies (2020-2025, with partial 2026 data). We first validate the method against 474</description>
+      <pubDate>Mon, 05 Oct 2026 04:00:00 +0000</pubDate>
+      <guid>https://arxiv.org/abs/2610.02281</guid>
+      <category>cs.AI updates on arXiv.org</category>
     </item>
     <item>
-      <title>Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions</title>
-      <link>https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/</link>
-      <description>AI slop seems to be overwhelming bug bounty programs.</description>
-      <pubDate>Sun, 04 Oct 2026 20:31:07 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/</guid>
-      <category>TechCrunch</category>
+      <title>Keep It CALM: Analyzing the Limits of Global Unsafety in Text-to-Image Generation</title>
+      <link>https://arxiv.org/abs/2610.02300</link>
+      <description>arXiv:2610.02300v1 Announce Type: new Abstract: Training-free safeguards for text-to-image generation often rely on a reusable safety signal, such as an unsafe direction or global toxic subspace, applied broadly across prompts. We provide a controlled geometric analysis of this global-unsafety assumption and reveal a consistent coverage-selectivity trade-off: compact unsafe subspaces fail to cover heterogeneous unsafe semantics, whereas broader aggregation increasingly distorts safety-adjacent b</description>
+      <pubDate>Mon, 05 Oct 2026 04:00:00 +0000</pubDate>
+      <guid>https://arxiv.org/abs/2610.02300</guid>
+      <category>cs.AI updates on arXiv.org</category>
     </item>
     <item>
-      <title>OpsDeck: собрал рабочее место DevOps‑инженера в одном окне и выложил в open source</title>
-      <link>https://habr.com/ru/articles/1090248/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090248</link>
-      <description>Вспомните свой обычный рабочий день: три терминала, Lens, вкладки с Grafana, Argo CD и GitLab, KeePassXC, Obsidian с ранбуками, DBeaver, WinBox для роутеров и где-то среди всего этого — чат с ИИ. Алерт прилетает в Telegram, команду из ранбука копируешь руками, пароль ищешь в третьем окне. Мне надоело собирать себя по кусочкам каждое утро, и я сделал OpsDeck — бесплатное приложение с открытым кодом, в котором всё это живёт вместе и знает друг о друге. Ниже — экскурсия по каждому разделу со скринш</description>
-      <pubDate>Sun, 04 Oct 2026 20:21:57 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1090248/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090248</guid>
-      <category>Все публикации подряд на Хабре</category>
+      <title>Choosing Before Acting: Comparative Value Estimation for Long-Horizon Tool-Use Agents</title>
+      <link>https://arxiv.org/abs/2610.02330</link>
+      <description>arXiv:2610.02330v1 Announce Type: new Abstract: Large language models (LLMs) rely on long-horizon tool invocation sequences for complex tasks, where each invocation can alter the task state and condition subsequent decisions. In long-horizon tool use, final-outcome rewards provide weak credit assignment over long interaction traces. Step-level rewards can offer more targeted feedback, but obtaining reliable step supervision often requires human or LLM judgment, or additional rollouts to estimate</description>
+      <pubDate>Mon, 05 Oct 2026 04:00:00 +0000</pubDate>
+      <guid>https://arxiv.org/abs/2610.02330</guid>
+      <category>cs.AI updates on arXiv.org</category>
     </item>
     <item>
-      <title>Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?</title>
-      <link>https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/</link>
-      <description>On Equity, we discussed the Trump administration's attempts to rebrand AI.</description>
-      <pubDate>Sun, 04 Oct 2026 20:08:34 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/</guid>
-      <category>TechCrunch</category>
+      <title>World Editing: Intervening on Executable Worlds at Increasing Depth</title>
+      <link>https://arxiv.org/abs/2610.02331</link>
+      <description>arXiv:2610.02331v1 Announce Type: new Abstract: Interactive world models are increasingly capable of generating environments and acting within them, yet deliberately editing an existing executable world remains underexplored. We formulate world editing as intervening on an existing world while preserving properties that should remain unchanged, and introduce intervention depth as an axis describing how strongly an edit couples world entities, dynamics, and systems. We instantiate this capability</description>
+      <pubDate>Mon, 05 Oct 2026 04:00:00 +0000</pubDate>
+      <guid>https://arxiv.org/abs/2610.02331</guid>
+      <category>cs.AI updates on arXiv.org</category>
     </item>
     <item>
-      <title>Prick’s theatrical industrial punk is perfect for spooky season</title>
-      <link>https://www.theverge.com/entertainment/1004595/prick-industrial-glam-punk-album-review</link>
-      <description>While deep in the recording process for The Downward Spiral, Trent Reznor lent some of his production talents to old friend Kevin McMahon, from the new wave band Lucky Pierre (which Reznor was briefly a member of). While Reznor is only credited as the producer on four tracks off Prick's self-titled debut record, his fingerprints […]</description>
-      <pubDate>Sun, 04 Oct 2026 20:00:00 +0000</pubDate>
-      <guid>https://www.theverge.com/entertainment/1004595/prick-industrial-glam-punk-album-review</guid>
-      <category>The Verge</category>
+      <title>A Multi Method Importance and Performance Efficiency Analysis of Topological Metrics for Natural Visibility Graph Based Cyber Attack Detection</title>
+      <link>https://arxiv.org/abs/2610.02342</link>
+      <description>arXiv:2610.02342v1 Announce Type: new Abstract: Natural Visibility Graph (NVG) based analysis characterizes network traffic through topological descriptors reflecting different structural properties. However, not all descriptors contribute equally to cyber-attack classification, and extracting a large metric set can increase computational cost. This study evaluates 21 NVG derived topological metrics and investigates whether a compact subset can preserve classification capability while improving </description>
+      <pubDate>Mon, 05 Oct 2026 04:00:00 +0000</pubDate>
+      <guid>https://arxiv.org/abs/2610.02342</guid>
+      <category>cs.AI updates on arXiv.org</category>
     </item>
     <item>
-      <title>[Перевод] Роджер Пенроуз о пространстве‑времени, сознании и Вселенной (интервью)</title>
-      <link>https://habr.com/ru/articles/1090228/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090228</link>
-      <description>Сэр Роджер Пенроуз прожил необыкновенную жизнь. Он внёс огромный вклад в наше понимание общей теории относительности — возможно, больший, чем кто‑либо после самого Эйнштейна: диаграммы Пенроуза, теоремы о сингулярностях, процесс Пенроуза, гипотеза космической цензуры — и это лишь начало списка. Он внёс важный вклад и в математику, придумав, среди прочего, такие занятные вещи, как треугольник Пенроуза и апериодические замощения. Кроме того, он выдвигал смелые гипотезы в общеизвестно спорных облас</description>
-      <pubDate>Sun, 04 Oct 2026 18:19:19 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1090228/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090228</guid>
-      <category>Все публикации подряд на Хабре</category>
+      <title>DeReAct: Decomposed Reasoning and Acting for Reliable AI Agents</title>
+      <link>https://arxiv.org/abs/2610.02351</link>
+      <description>arXiv:2610.02351v1 Announce Type: new Abstract: ReAct-based agents typically rely on a single LLM policy to propose actions, interact with the environment, and decide when a task is complete. This coupling makes action authorization and completion control difficult to enforce independently, allowing errors to propagate and unsupported completion claims to terminate execution. We introduce DeReAct, a modular agent architecture that externalizes two gating policies: a Critic that validates propose</description>
+      <pubDate>Mon, 05 Oct 2026 04:00:00 +0000</pubDate>
+      <guid>https://arxiv.org/abs/2610.02351</guid>
+      <category>cs.AI updates on arXiv.org</category>
     </item>
     <item>
-      <title>Жил‑был «Кенгурёнок»</title>
-      <link>https://habr.com/ru/articles/1090224/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090224</link>
-      <description>Учебный графический исполнитель (ГРИС) — это компьютерная модель, имитирующая работу чертёжного узла в режимах непосредственного и программного управления. ГРИС используют при изучении основ алгоритмизации для демонстрации принципов структурного программирования. Существует множество различных реализаций ГРИС, которые отличаются целевыми компьютерными платформами, наборами команд и возможностями исполнителей. Ярким и запоминающимся примером может служить среда ГРИС «Кенгурёнок» , созданная в нач</description>
-      <pubDate>Sun, 04 Oct 2026 17:55:50 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1090224/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090224</guid>
-      <category>Все публикации подряд на Хабре</category>
+      <title>Traversing the Satisfaction-Diversity Frontier in Text-to-Image Diffusion</title>
+      <link>https://arxiv.org/abs/2610.02372</link>
+      <description>arXiv:2610.02372v1 Announce Type: new Abstract: Text-to-image generation enables users to explore several images generated from the same prompt. For these generated images to be useful, each one must reflect the user's preferences, measured by a learned reward, and differ visually from the others to maintain diversity. Existing methods are limited: they either address reward and diversity separately or combine them in one aggregate score, enabling high diversity to offset low rewards. In this pa</description>
+      <pubDate>Mon, 05 Oct 2026 04:00:00 +0000</pubDate>
+      <guid>https://arxiv.org/abs/2610.02372</guid>
+      <category>cs.AI updates on arXiv.org</category>
     </item>
   </channel>
 </rss>
