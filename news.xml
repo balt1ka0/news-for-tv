@@ -5,87 +5,87 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Tue, 06 Oct 2026 01:40:43 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 08:37:59 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Gemini Call for Me might tell your mom you’re running late</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors</link>
-      <description>Google may be expanding its "Call for Me" AI feature beyond business calls so you can use it to send messages to friends and family. Android Authority reports finding a "Gemini Calling" introductory screen in an APK teardown with examples that include "Call Mom and tell her I will be 15 minutes late" and "Call […]</description>
-      <pubDate>Mon, 05 Oct 2026 23:09:55 +0000</pubDate>
-      <guid>https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>Что мы на самом деле открываем?</title>
-      <link>https://habr.com/ru/articles/1090772/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090772</link>
-      <description>Начну со своего проекта. Я буквально чудом поднял для EvertyDesk крутой автотестовый стенд, на котором сейчас гоняю кучу разных сценариев. Иногда у меня уходят недели просто на то, чтобы воспроизвести какую-то маленькую аномалию, понять, существует ли она вообще, поймать нужное состояние и наконец разобраться, что именно происходит. И в какой-то момент я поймал себя на довольно неприятной мысли. Есть люди с деньгами, большими лимитами и доступом к невероятным современным моделям ии. Есть сами мо</description>
-      <pubDate>Mon, 05 Oct 2026 22:59:17 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1090772/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090772</guid>
+      <title>[Перевод] Виртуальные потоки после JDK 24: что изменилось в Java</title>
+      <link>https://habr.com/ru/companies/axiomjdk/articles/1090852/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090852</link>
+      <description>JEP 491 в JDK 24 устранил закрепление виртуальных потоков за потоками-носителями при работе с мониторами. Именно из-за этого механизма переход на виртуальные потоки в Java 21 был рискованным для блокирующего кода внутри synchronized. Однако закрепление всё ещё возможно при выполнении нативного кода, загрузке классов и локальных файловых операциях в Linux. Поэтому событие JDK Flight Recorder (JFR) jdk.VirtualThreadPinned по-прежнему должно входить в контрольный список перед внедрением. Читать дал</description>
+      <pubDate>Tue, 06 Oct 2026 08:30:36 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/axiomjdk/articles/1090852/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090852</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Гипотеза о происхождении жизни из горячих источников поставлена под сомнение</title>
-      <link>https://elementy.ru/novosti_nauki/434439/Gipoteza_o_proiskhozhdenii_zhizni_iz_goryachikh_istochnikov_postavlena_pod_somnenie</link>
-      <description>Канадский геохимик Бенджамин Тутоло опубликовал статью, в которой критически разобрал господствующую теорию происхождения жизни с геохимических позиций. В сценарии появления первых протоклеток в горячих источниках он нашел сразу несколько изъянов: неправильные измерения pH, экстраполяция современных геологических условий на древнюю Землю и игнорирование условий протекания реакций.</description>
-      <pubDate>Mon, 05 Oct 2026 22:19:00 +0000</pubDate>
-      <guid>https://elementy.ru/novosti_nauki/434439/Gipoteza_o_proiskhozhdenii_zhizni_iz_goryachikh_istochnikov_postavlena_pod_somnenie</guid>
-      <category>"Элементы": новости науки</category>
-    </item>
-    <item>
-      <title>Голосовой ИИ Агент</title>
-      <link>https://habr.com/ru/articles/1090760/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090760</link>
-      <description>Голосового агента выдаёт не голос. Современный синтез звучит прилично, и на связке телефонной линии с её 8 кГц разница между хорошим и отличным TTS вообще теряется. Выдаёт другое: как он читает числа. «Привезём 15.07.2026» в устах робота превращается во что угодно — от «пятнадцать точка ноль семь» до бодрого чтения даты как дроби. Телефон, прочитанный как одно десятизначное число, невозможно записать со слуха. И каждый такой момент — это секунда, в которую собеседник вспоминает, что говорит с пр</description>
-      <pubDate>Mon, 05 Oct 2026 22:13:22 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1090760/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090760</guid>
+      <title>1 PDF = 1 000 000 токенов = 200 рублей?! Что отправлять нейросети вместо PDF</title>
+      <link>https://habr.com/ru/companies/speshu_ai/articles/1090868/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090868</link>
+      <description>Claude считает каждую страницу отсканированного PDF как изображение — это примерно 1785 токенов на страницу. Незаметно 200-страничный документ превращается в 357 000 токенов. Если взять Claude Sonnet 5 и цену $3 за миллион токенов это около 90 рублей только за то, чтобы модель просканировала ваш документ. При прогоне 50 документов в день стоимость составит $55 в сутки, или $1 600 в месяц. Если из того же PDF заранее извлечь текст, страница будет стоить в среднем 300–600 токенов, а 200 страниц — </description>
+      <pubDate>Tue, 06 Oct 2026 08:27:48 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/speshu_ai/articles/1090868/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090868</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Lucid Motors’ EV output falls to lowest level in almost 2 years</title>
-      <link>https://techcrunch.com/2026/10/05/lucid-motors-ev-output-falls-to-lowest-level-in-almost-two-years/</link>
-      <description>The company is deliberately limiting production after years of struggling to find mass-market demand for its EVs.</description>
-      <pubDate>Mon, 05 Oct 2026 21:54:01 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/05/lucid-motors-ev-output-falls-to-lowest-level-in-almost-two-years/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>От орбитальных данных до 3D‑орбиты в браузере: как я делал интерактивную карту спутников</title>
-      <link>https://habr.com/ru/articles/1090752/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090752</link>
-      <description>Вы тоже стали чаще замечать движущиеся светящиеся точки на небе? Небо ожило даже для простых наблюдателей с земли. Я разработчик со стажем 7+ лет, а в космической отрасли работаю около 3-х, и скажу вам, цифры меня самого пугают - 8 лет назад вокруг Земли работало примерно 1950 спутников. Сейчас их порядка 16 тысяч. А в месте с [отслеживаемым] мусором 47 тысяч. Однако с ростом оживленности космоса, я не наблюдаю роста популярности этой темы. Ну да, летают какие то спутники, что тут такого интерес</description>
-      <pubDate>Mon, 05 Oct 2026 21:31:44 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1090752/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090752</guid>
+      <title>Книга: «Высоконагруженные приложения. Программирование, масштабирование, поддержка. 2-е изд»</title>
+      <link>https://habr.com/ru/companies/piter/articles/1090492/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090492</link>
+      <description>Привет, Хаброжители! Сегодня данные играют главенствующую роль в проектировании систем, и нужно обеспечить их масштабируемость, согласованность, надежность, производительность и удобство сопровождения. Необходимо учитывать огромное разнообразие систем хранения данных: реляционных баз данных, хранилищ NoSQL, складов и озер данных, а также облачных и локальных сервисов и встроенных баз данных. С новым обновленным изданием книги вы сможете разобраться в терминологии и решить какой вариант лучше все</description>
+      <pubDate>Tue, 06 Oct 2026 08:25:17 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/piter/articles/1090492/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090492</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>О тестировании ИИ-агентов, вызывающих функции</title>
-      <link>https://habr.com/ru/articles/1090748/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090748</link>
-      <description>У ИИ-агентов, вызывающих функции (function calling, tool use), есть ошибка, которую не видит ни одна из обычных защит. Агент вызывает функцию при невыполненном условии ее применения, когда оно прямо ему не названо, и сообщает об успехе, не называя препятствия. Такую ошибку не замечают проверка схемы, система, отчет самого агента, подтверждение оператора и существующие наборы проверок. В статье описана методология, которая находит такие ошибки и для каждой указывает место: какое условие нарушено,</description>
-      <pubDate>Mon, 05 Oct 2026 21:21:31 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1090748/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090748</guid>
+      <title>OpenCode против пентестера</title>
+      <link>https://habr.com/ru/companies/secware/articles/1090380/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090380</link>
+      <description>Про AI в разработке/тестировании/пентесте написано и сказано немало. Постепенно он проникает во все сферы нашей жизни, и уже часто можно услышать, что мы все скоро останемся без работы. В этом есть доля правды. Но мне понравилась услышанная однажды фраза – «Не ИИ нас заменит, но те, кто смог приручить ИИ, заменит тех, кто с этим не справился». Вот мы в команде Secware и решили проверить, как на текущий момент искусственный разум справляется с задачами пентеста. В любом пентесте часть рутинной ра</description>
+      <pubDate>Tue, 06 Oct 2026 08:20:09 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/secware/articles/1090380/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090380</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Reverse-engineered games: All the news on video game decomps, recomps, VR and web and 3D ports</title>
-      <link>https://www.theverge.com/games/1004869/reverse-engineered-games-all-the-news-on-video-game-decomps-recomps-vr-and-web-and-3d-ports</link>
-      <description>It’s a wild time for retro gaming. Thanks to decompilations and recompilations of classic titles, those games are becoming unshackled from their proprietary code and original hardware to be ported to new devices or updated in ways to completely change the original game. Ever imagined skateboarding in Call of Duty? Or playing the original Halo right […]</description>
-      <pubDate>Mon, 05 Oct 2026 21:17:45 +0000</pubDate>
-      <guid>https://www.theverge.com/games/1004869/reverse-engineered-games-all-the-news-on-video-game-decomps-recomps-vr-and-web-and-3d-ports</guid>
-      <category>The Verge</category>
+      <title>Почему робот за 2 млн рублей умеет в кунг-фу, но не может сходить за пивом</title>
+      <link>https://habr.com/ru/articles/1090856/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090856</link>
+      <description>Гуманоиды уже умеют драться, танцевать и работать на заводах, но с обычной бытовухой пока справляются плохо. Разбираюсь, почему главный дефицит рынка может оказаться не в самом железе, а в ИИ-моделях, данных обучения и сервисах вокруг роботов. Читать далее</description>
+      <pubDate>Tue, 06 Oct 2026 08:14:19 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1090856/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090856</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>The Matic is the first robovac to get an FCC ban waiver, not that it needs it</title>
-      <link>https://www.theverge.com/policy/1004926/matic-fcc-ban-waiver-conditional-approval</link>
-      <description>The Matic is our favorite robot vacuum and robo-mop, and it's also now the first to escape the FCC's Roomba ban. Well, sort of - because the Matic wasn't banned to begin with. Here's what's actually happening: On October 2nd, the FCC added the original Matic, model 4MA0001, and its charging dock model 4DK0008 to […]</description>
-      <pubDate>Mon, 05 Oct 2026 21:15:05 +0000</pubDate>
-      <guid>https://www.theverge.com/policy/1004926/matic-fcc-ban-waiver-conditional-approval</guid>
-      <category>The Verge</category>
+      <title>Фреймворк RAFT: как работает RAG на максималках от Microsoft</title>
+      <link>https://habr.com/ru/companies/ru_mts/articles/1089320/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089320</link>
+      <description>Чтобы быстрее отвечать пользователям, команды техподдержки применяют RAG — подход, при котором нейросеть ищет информацию в базе знаний и опирается на нее при подготовке ответа. Проблема в том, что в архивных тикетах важные детали часто разбросаны по переписке: по отдельному фрагменту не всегда понятно, какие способы уже проверяли и чем все закончилось. К тому же в ходе диагностики часто появляются новые факты, которые меняют представление о проблеме. Исследователи из Microsoft предложили новый п</description>
+      <pubDate>Tue, 06 Oct 2026 08:07:34 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/ru_mts/articles/1089320/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089320</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>От режиссёра КИНО до режиссёра КОДА: как я заставил ИИ создавать полностью готовые программы автоматически</title>
-      <link>https://habr.com/ru/articles/1090746/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090746</link>
-      <description>От режиссёра КИНО до режиссёра КОДА: как я создал автономную ИИ-среду разработки EVA Engineer (от промпта до .EXE и .APK) Читать, скачать, создавать!</description>
-      <pubDate>Mon, 05 Oct 2026 21:07:02 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1090746/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090746</guid>
+      <title>Писать агенту по-английски ради экономии? 40 прогонов: разница 12 токенов на задачу</title>
+      <link>https://habr.com/ru/articles/1090848/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090848</link>
+      <description>Частый совет: пишите агенту по-английски, русский съедает в полтора раза больше токенов. Токенизатор это подтверждает: 194 токена против 132 на одном и том же абзаце. Я прогнал пять рутинных задач на двух моделях, на обоих языках, по два раза. Сорок прогонов. Оба языка решили по 17 задач из 20, русский промпт к задаче длиннее в среднем на 12 токенов, а это 0,005% от того, что агент читает за прогон. Разброс между двумя одинаковыми запусками доходит до 3,4 раза. Рассказываю, куда делись полтора р</description>
+      <pubDate>Tue, 06 Oct 2026 08:03:58 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1090848/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090848</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Какой ты вайбкодер. Шуточный опрос</title>
+      <link>https://habr.com/ru/articles/1090742/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090742</link>
+      <description>/ Мы уже научились писать код с помощью AI. Но гораздо интереснее другое - как именно мы встроили AI разработку в свою работу. Я попробовал вспомнить все свои наблюдения и составил небольшую небольшую классификацию - от Воина до Некроманта. Надеюсь этот опрос вас немного порадует. Читать далее</description>
+      <pubDate>Tue, 06 Oct 2026 08:00:33 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1090742/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090742</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>PPU Zhenwu 810E от Alibaba: как китайский AI-ускоритель справляется с LLM</title>
+      <link>https://habr.com/ru/companies/selectel/articles/1090546/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090546</link>
+      <description>Привет, я Дмитрий, MLOps-инженер в Selectel . Современный ландшафт AI-ускорителей изобилует всевозможными устройствами: GPU, TPU, NPU, LPU и прочими удивительными аббревиатурами. Китайские компании активно участвуют в этой колоссальной гонке, и в данном материале я расскажу, как мы тестировали AI-ускоритель от Alibaba Group. В первую очередь мы хотели понять, что за устройство перед нами и как его можно использовать в наших стандартных сценариях для инференса — прежде всего в качестве ноды для о</description>
+      <pubDate>Tue, 06 Oct 2026 08:00:33 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/selectel/articles/1090546/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090546</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Windows IR: системный подход. Часть 2 — изоляция, процессы, службы</title>
+      <link>https://habr.com/ru/companies/first/articles/1087512/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1087512</link>
+      <description>Это вторая часть материала, посвященного Windows Incident Response. Первая часть была посвящена подготовке, общим принципам расследования, фиксации состояния хоста и анализу сетевого состояния. В этой части — изолируем хост, чтобы прекратить возможную угрозу, не потеряв данные, а затем идём разбирать процессы и службы. Именно здесь у найденной в демонстрационной лабе сетевой активности будет установлен процесс-источник. Читать далее</description>
+      <pubDate>Tue, 06 Oct 2026 08:00:32 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/first/articles/1087512/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1087512</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
   </channel>
