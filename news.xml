@@ -5,87 +5,87 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Tue, 06 Oct 2026 08:37:59 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 15:43:22 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[Перевод] Виртуальные потоки после JDK 24: что изменилось в Java</title>
-      <link>https://habr.com/ru/companies/axiomjdk/articles/1090852/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090852</link>
-      <description>JEP 491 в JDK 24 устранил закрепление виртуальных потоков за потоками-носителями при работе с мониторами. Именно из-за этого механизма переход на виртуальные потоки в Java 21 был рискованным для блокирующего кода внутри synchronized. Однако закрепление всё ещё возможно при выполнении нативного кода, загрузке классов и локальных файловых операциях в Linux. Поэтому событие JDK Flight Recorder (JFR) jdk.VirtualThreadPinned по-прежнему должно входить в контрольный список перед внедрением. Читать дал</description>
-      <pubDate>Tue, 06 Oct 2026 08:30:36 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/axiomjdk/articles/1090852/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090852</guid>
+      <title>Разбор заданий ZeroNights HackQuest 2026</title>
+      <link>https://habr.com/ru/companies/dsec/articles/1091180/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1091180</link>
+      <description>30 сентября мы провели конференцию по информационной безопасности ZeroNights 2026. Спасибо всем, кто решил поучаствовать! Без вас не было бы ни классных докладов, ни мерча, ни веселой суеты вокруг всего этого. Скоро начнём выкладывать материалы на сайт, там будут доступны презентации и видеозаписи докладов. А пока хотим поделиться райтапами на задания HackQuest этого года. Это традиционное соревнование в формате CTF, которое мы проводим до начала конференции. Под катом разбор заданий на веб-уязв</description>
+      <pubDate>Tue, 06 Oct 2026 15:29:03 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/dsec/articles/1091180/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1091180</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>1 PDF = 1 000 000 токенов = 200 рублей?! Что отправлять нейросети вместо PDF</title>
-      <link>https://habr.com/ru/companies/speshu_ai/articles/1090868/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090868</link>
-      <description>Claude считает каждую страницу отсканированного PDF как изображение — это примерно 1785 токенов на страницу. Незаметно 200-страничный документ превращается в 357 000 токенов. Если взять Claude Sonnet 5 и цену $3 за миллион токенов это около 90 рублей только за то, чтобы модель просканировала ваш документ. При прогоне 50 документов в день стоимость составит $55 в сутки, или $1 600 в месяц. Если из того же PDF заранее извлечь текст, страница будет стоить в среднем 300–600 токенов, а 200 страниц — </description>
-      <pubDate>Tue, 06 Oct 2026 08:27:48 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/speshu_ai/articles/1090868/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090868</guid>
+      <title>LibreOffice says ‘no AI’ is now a software feature</title>
+      <link>https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature/</link>
+      <description>The maker of the open source document editor says it has no plans to add AI to its software's default configuration, citing user privacy.</description>
+      <pubDate>Tue, 06 Oct 2026 15:25:00 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>Vinod Khosla believes ex-DeepMind engineer’s Wajo will win agent market on trust</title>
+      <link>https://techcrunch.com/2026/10/06/vinod-khosla-believes-ex-deepmind-engineers-wajo-will-win-agent-market-on-trust/</link>
+      <description>Wajo's Fo agent can hire humans to complete a task.</description>
+      <pubDate>Tue, 06 Oct 2026 15:15:00 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/06/vinod-khosla-believes-ex-deepmind-engineers-wajo-will-win-agent-market-on-trust/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>Младшая модель обыграла старших: как Claude Sonnet 5.5 победил Opus 5.5 и Fable 5.1 в пошаговой стратегии</title>
+      <link>https://habr.com/ru/articles/1091200/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1091200</link>
+      <description>Мы посадили модели Claude играть друг против друга в пошаговую стратегию, где нужно строить экономику, воевать, договариваться с соседями и решать, когда договор пора нарушить. Хотели понять две вещи: как топовые языковые модели справляются с такой игрой и совпадёт ли расстановка сил за игровым столом с той, что показывают общепризнанные бенчмарки. Я разработчик «Стратегикона» , пошаговой онлайн-стратегии на гексах. С конца августа по начало октября мы провели серию партий LLM-агентов между собо</description>
+      <pubDate>Tue, 06 Oct 2026 15:12:00 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1091200/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1091200</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Книга: «Высоконагруженные приложения. Программирование, масштабирование, поддержка. 2-е изд»</title>
-      <link>https://habr.com/ru/companies/piter/articles/1090492/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090492</link>
-      <description>Привет, Хаброжители! Сегодня данные играют главенствующую роль в проектировании систем, и нужно обеспечить их масштабируемость, согласованность, надежность, производительность и удобство сопровождения. Необходимо учитывать огромное разнообразие систем хранения данных: реляционных баз данных, хранилищ NoSQL, складов и озер данных, а также облачных и локальных сервисов и встроенных баз данных. С новым обновленным изданием книги вы сможете разобраться в терминологии и решить какой вариант лучше все</description>
-      <pubDate>Tue, 06 Oct 2026 08:25:17 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/piter/articles/1090492/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090492</guid>
+      <title>10 кг, три экрана и защита от воды: пять ноутбуков для работы в сложных условиях</title>
+      <link>https://habr.com/ru/companies/ru_mts/articles/1089718/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089718</link>
+      <description>Обычный ноутбук плохо переносит внешние факторы вроде влаги, пыли, падений на пол. А еще иногда на лэптопы садятся, что тоже не очень хорошо влияет на работоспособность девайса. Короче, работу с большинством моделей можно назвать тепличной. Но что, если нужен лэптоп на стройке или буровых работах? Для таких условий выпускают спецмодели. В этом материале мы собрали несколько интересных девайсов, которые крайне хорошо защищены. О них сегодня и поговорим. Читать далее</description>
+      <pubDate>Tue, 06 Oct 2026 15:02:15 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/ru_mts/articles/1089718/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089718</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>OpenCode против пентестера</title>
-      <link>https://habr.com/ru/companies/secware/articles/1090380/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090380</link>
-      <description>Про AI в разработке/тестировании/пентесте написано и сказано немало. Постепенно он проникает во все сферы нашей жизни, и уже часто можно услышать, что мы все скоро останемся без работы. В этом есть доля правды. Но мне понравилась услышанная однажды фраза – «Не ИИ нас заменит, но те, кто смог приручить ИИ, заменит тех, кто с этим не справился». Вот мы в команде Secware и решили проверить, как на текущий момент искусственный разум справляется с задачами пентеста. В любом пентесте часть рутинной ра</description>
-      <pubDate>Tue, 06 Oct 2026 08:20:09 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/secware/articles/1090380/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090380</guid>
+      <title>The earbuds with the best call quality are cheaper than ever</title>
+      <link>https://www.theverge.com/gadgets/1004111/soundcore-liberty-5-pro-prime-day-deal-sale</link>
+      <description>Normally $169.99, the Soundcore Liberty 5 Pro are discounted to $135.99 during Amazon’s October sale, beating their previous low price of $149.99, and coming in $14 lower than the AirPods 5. While these earbuds stand out for a number of reasons, like great ANC and a handy screen on the charging case, our favorite aspect […]</description>
+      <pubDate>Tue, 06 Oct 2026 15:00:00 +0000</pubDate>
+      <guid>https://www.theverge.com/gadgets/1004111/soundcore-liberty-5-pro-prime-day-deal-sale</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>Нейросеть нашла источник, но ошиблась: проверяю восемь замен Perplexity на свежих фактах, фейке и таблице ЦБ</title>
+      <link>https://habr.com/ru/companies/bothub/articles/1090636/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090636</link>
+      <description>В сентябре 2026 года я спросил семь нейросетей, как теперь оформить Perplexity Pro российской картой, раз Perplexity в августе открыла офис в Москве и начала принимать «Мир». Офиса нет, «Мир» Perplexity не принимает, эту новость я придумал сам. Выдумку поймали все семь. Но одна при этом не заглянула ни в один источник, а другая пересказала чужую ошибку про блокировки аккаунтов: в первоисточнике речь шла совсем о другом сервисе. Это один из четырёх вопросов, на которых я сравнивал замены Perplexi</description>
+      <pubDate>Tue, 06 Oct 2026 14:54:58 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/bothub/articles/1090636/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090636</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Почему робот за 2 млн рублей умеет в кунг-фу, но не может сходить за пивом</title>
-      <link>https://habr.com/ru/articles/1090856/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090856</link>
-      <description>Гуманоиды уже умеют драться, танцевать и работать на заводах, но с обычной бытовухой пока справляются плохо. Разбираюсь, почему главный дефицит рынка может оказаться не в самом железе, а в ИИ-моделях, данных обучения и сервисах вокруг роботов. Читать далее</description>
-      <pubDate>Tue, 06 Oct 2026 08:14:19 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1090856/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090856</guid>
+      <title>Bluesky wants to give you your own domain on the open web</title>
+      <link>https://techcrunch.com/2026/10/06/bluesky-wants-to-give-you-your-own-domain-on-the-open-web/</link>
+      <description>Bluesky says the process will still take 18-24 months, so don't expect your new, shortened 'bsky' handle any time soon.</description>
+      <pubDate>Tue, 06 Oct 2026 14:41:52 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/06/bluesky-wants-to-give-you-your-own-domain-on-the-open-web/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>Браузер умеет больше, чем кажется: дайджест недели WASM Smart Engines</title>
+      <link>https://habr.com/ru/companies/smartengines/articles/1089744/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089744</link>
+      <description>Распознавание паспортов, банковских карт и QR, небиометрическая сверка лиц и антифрод в браузере — уже не технология будущего, а эталон удобства и скорости цифрового клиентского опыта. В Smart Engines мы успешно перенесли распознавание паспортов, банковских карт, QR-кодов, платежных реквизитов и деловых документов прямо в браузер с помощью WebAssembly (WASM). Собрали главное за Неделю WASM в одном дайджесте. Читать далее</description>
+      <pubDate>Tue, 06 Oct 2026 14:39:25 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/smartengines/articles/1089744/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089744</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Фреймворк RAFT: как работает RAG на максималках от Microsoft</title>
-      <link>https://habr.com/ru/companies/ru_mts/articles/1089320/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089320</link>
-      <description>Чтобы быстрее отвечать пользователям, команды техподдержки применяют RAG — подход, при котором нейросеть ищет информацию в базе знаний и опирается на нее при подготовке ответа. Проблема в том, что в архивных тикетах важные детали часто разбросаны по переписке: по отдельному фрагменту не всегда понятно, какие способы уже проверяли и чем все закончилось. К тому же в ходе диагностики часто появляются новые факты, которые меняют представление о проблеме. Исследователи из Microsoft предложили новый п</description>
-      <pubDate>Tue, 06 Oct 2026 08:07:34 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/ru_mts/articles/1089320/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089320</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Писать агенту по-английски ради экономии? 40 прогонов: разница 12 токенов на задачу</title>
-      <link>https://habr.com/ru/articles/1090848/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090848</link>
-      <description>Частый совет: пишите агенту по-английски, русский съедает в полтора раза больше токенов. Токенизатор это подтверждает: 194 токена против 132 на одном и том же абзаце. Я прогнал пять рутинных задач на двух моделях, на обоих языках, по два раза. Сорок прогонов. Оба языка решили по 17 задач из 20, русский промпт к задаче длиннее в среднем на 12 токенов, а это 0,005% от того, что агент читает за прогон. Разброс между двумя одинаковыми запусками доходит до 3,4 раза. Рассказываю, куда делись полтора р</description>
-      <pubDate>Tue, 06 Oct 2026 08:03:58 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1090848/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090848</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Какой ты вайбкодер. Шуточный опрос</title>
-      <link>https://habr.com/ru/articles/1090742/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090742</link>
-      <description>/ Мы уже научились писать код с помощью AI. Но гораздо интереснее другое - как именно мы встроили AI разработку в свою работу. Я попробовал вспомнить все свои наблюдения и составил небольшую небольшую классификацию - от Воина до Некроманта. Надеюсь этот опрос вас немного порадует. Читать далее</description>
-      <pubDate>Tue, 06 Oct 2026 08:00:33 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1090742/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090742</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>PPU Zhenwu 810E от Alibaba: как китайский AI-ускоритель справляется с LLM</title>
-      <link>https://habr.com/ru/companies/selectel/articles/1090546/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090546</link>
-      <description>Привет, я Дмитрий, MLOps-инженер в Selectel . Современный ландшафт AI-ускорителей изобилует всевозможными устройствами: GPU, TPU, NPU, LPU и прочими удивительными аббревиатурами. Китайские компании активно участвуют в этой колоссальной гонке, и в данном материале я расскажу, как мы тестировали AI-ускоритель от Alibaba Group. В первую очередь мы хотели понять, что за устройство перед нами и как его можно использовать в наших стандартных сценариях для инференса — прежде всего в качестве ноды для о</description>
-      <pubDate>Tue, 06 Oct 2026 08:00:33 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/selectel/articles/1090546/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090546</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Windows IR: системный подход. Часть 2 — изоляция, процессы, службы</title>
-      <link>https://habr.com/ru/companies/first/articles/1087512/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1087512</link>
-      <description>Это вторая часть материала, посвященного Windows Incident Response. Первая часть была посвящена подготовке, общим принципам расследования, фиксации состояния хоста и анализу сетевого состояния. В этой части — изолируем хост, чтобы прекратить возможную угрозу, не потеряв данные, а затем идём разбирать процессы и службы. Именно здесь у найденной в демонстрационной лабе сетевой активности будет установлен процесс-источник. Читать далее</description>
-      <pubDate>Tue, 06 Oct 2026 08:00:32 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/first/articles/1087512/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1087512</guid>
+      <title>Decision-модели изнутри: как устроены Jev, Clef, pplx-decider, Strands Decider, Laya и GLiDE</title>
+      <link>https://habr.com/ru/articles/1091188/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1091188</link>
+      <description>15 сентября TypeSafe выпустила Jev и назвала её первой моделью класса System One. Jev получает состояние системы и набор типизированных вопросов, а возвращает распределение вероятностей по допустимым ответам. Весь ответ считается за один прямой проход, без генерации токенов. За 16 дней вышли ещё пять реализаций той же идеи: Clef и Clef-flash от Cloudflare, pplx-decider-v1-27b от Perplexity, Strands Decider 2B от AWS, Laya от Convai Innovations и GLiDE от Fastino. Миллион решений у самой дешёвой </description>
+      <pubDate>Tue, 06 Oct 2026 14:39:00 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1091188/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1091188</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
   </channel>
