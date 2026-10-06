@@ -5,87 +5,87 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Mon, 05 Oct 2026 12:04:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 01:40:43 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>TCL’s paperlike OLED phone made me more excited for the iPhone Duo</title>
-      <link>https://www.theverge.com/tech/1004079/tcl-p80-ultra-nxtpaper-matte-display-iphone-duo</link>
-      <description>I've spent most of the last couple weeks using an otherwise unexceptional midrange Android phone with one amazing feature: a matte OLED display. That screen is by far the best thing about the TCL P80 Ultra, and weirdly, it's made me more excited for the iPhone Duo and its matte inner display. 2023's TCL Nxtpaper […]</description>
-      <pubDate>Mon, 05 Oct 2026 12:02:41 +0000</pubDate>
-      <guid>https://www.theverge.com/tech/1004079/tcl-p80-ultra-nxtpaper-matte-display-iphone-duo</guid>
+      <title>Gemini Call for Me might tell your mom you’re running late</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors</link>
+      <description>Google may be expanding its "Call for Me" AI feature beyond business calls so you can use it to send messages to friends and family. Android Authority reports finding a "Gemini Calling" introductory screen in an APK teardown with examples that include "Call Mom and tell her I will be 15 minutes late" and "Call […]</description>
+      <pubDate>Mon, 05 Oct 2026 23:09:55 +0000</pubDate>
+      <guid>https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors</guid>
       <category>The Verge</category>
     </item>
     <item>
-      <title>Спросить SIEM словами: подключаем LLM-ассистента к Wazuh</title>
-      <link>https://habr.com/ru/companies/selectel/articles/1086770/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1086770</link>
-      <description>Wazuh хорошо собирает события безопасности, но чтобы найти в них ответ, нужно знать язык запросов и сотни полей индекса. Опытный инженер SOC напишет запрос за минуту, но вот коллегам, которые не работали в Wazuh или с SIEM-системами, это сделать не так просто. Дашборд Wazuh построен на OpenSearch Dashboards, а у OpenSearch есть готовый ассистент — OpenSearch Assistant. В поставку Wazuh он не входит, но ставится штатными плагинами той же версии, без переделки самого Wazuh. На связи Андрей, руково</description>
-      <pubDate>Mon, 05 Oct 2026 12:01:03 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/selectel/articles/1086770/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1086770</guid>
+      <title>Что мы на самом деле открываем?</title>
+      <link>https://habr.com/ru/articles/1090772/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090772</link>
+      <description>Начну со своего проекта. Я буквально чудом поднял для EvertyDesk крутой автотестовый стенд, на котором сейчас гоняю кучу разных сценариев. Иногда у меня уходят недели просто на то, чтобы воспроизвести какую-то маленькую аномалию, понять, существует ли она вообще, поймать нужное состояние и наконец разобраться, что именно происходит. И в какой-то момент я поймал себя на довольно неприятной мысли. Есть люди с деньгами, большими лимитами и доступом к невероятным современным моделям ии. Есть сами мо</description>
+      <pubDate>Mon, 05 Oct 2026 22:59:17 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1090772/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090772</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Can Safeworld convince people that gen AI robots won’t hurt them?</title>
-      <link>https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them/</link>
-      <description>Safeworld is building digital humans to make sure robots don't hurt the real ones.</description>
-      <pubDate>Mon, 05 Oct 2026 12:00:00 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them/</guid>
+      <title>Гипотеза о происхождении жизни из горячих источников поставлена под сомнение</title>
+      <link>https://elementy.ru/novosti_nauki/434439/Gipoteza_o_proiskhozhdenii_zhizni_iz_goryachikh_istochnikov_postavlena_pod_somnenie</link>
+      <description>Канадский геохимик Бенджамин Тутоло опубликовал статью, в которой критически разобрал господствующую теорию происхождения жизни с геохимических позиций. В сценарии появления первых протоклеток в горячих источниках он нашел сразу несколько изъянов: неправильные измерения pH, экстраполяция современных геологических условий на древнюю Землю и игнорирование условий протекания реакций.</description>
+      <pubDate>Mon, 05 Oct 2026 22:19:00 +0000</pubDate>
+      <guid>https://elementy.ru/novosti_nauki/434439/Gipoteza_o_proiskhozhdenii_zhizni_iz_goryachikh_istochnikov_postavlena_pod_somnenie</guid>
+      <category>"Элементы": новости науки</category>
+    </item>
+    <item>
+      <title>Голосовой ИИ Агент</title>
+      <link>https://habr.com/ru/articles/1090760/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090760</link>
+      <description>Голосового агента выдаёт не голос. Современный синтез звучит прилично, и на связке телефонной линии с её 8 кГц разница между хорошим и отличным TTS вообще теряется. Выдаёт другое: как он читает числа. «Привезём 15.07.2026» в устах робота превращается во что угодно — от «пятнадцать точка ноль семь» до бодрого чтения даты как дроби. Телефон, прочитанный как одно десятизначное число, невозможно записать со слуха. И каждый такой момент — это секунда, в которую собеседник вспоминает, что говорит с пр</description>
+      <pubDate>Mon, 05 Oct 2026 22:13:22 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1090760/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090760</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Lucid Motors’ EV output falls to lowest level in almost 2 years</title>
+      <link>https://techcrunch.com/2026/10/05/lucid-motors-ev-output-falls-to-lowest-level-in-almost-two-years/</link>
+      <description>The company is deliberately limiting production after years of struggling to find mass-market demand for its EVs.</description>
+      <pubDate>Mon, 05 Oct 2026 21:54:01 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/05/lucid-motors-ev-output-falls-to-lowest-level-in-almost-two-years/</guid>
       <category>TechCrunch</category>
     </item>
     <item>
-      <title>Карта профессий ИБ в эпоху ИИ: что автоматизируется, куда смещается спрос и чему учиться</title>
-      <link>https://habr.com/ru/articles/1090506/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090506</link>
-      <description>Происходящая когнитивная революция, вызванная развитием AI-технологий точно не оставит в стороне рынок труда в информационной безопасности. Разбираем тектонический сдвиг который происходит: как автономные агенты вымывают линейную рутину, какие специализации становятся дефицитными, как изменится архитектура киберзащиты к 2030 году и чему учиться инженерам уже сегодня. Читать далее</description>
-      <pubDate>Mon, 05 Oct 2026 11:54:05 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1090506/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090506</guid>
+      <title>От орбитальных данных до 3D‑орбиты в браузере: как я делал интерактивную карту спутников</title>
+      <link>https://habr.com/ru/articles/1090752/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090752</link>
+      <description>Вы тоже стали чаще замечать движущиеся светящиеся точки на небе? Небо ожило даже для простых наблюдателей с земли. Я разработчик со стажем 7+ лет, а в космической отрасли работаю около 3-х, и скажу вам, цифры меня самого пугают - 8 лет назад вокруг Земли работало примерно 1950 спутников. Сейчас их порядка 16 тысяч. А в месте с [отслеживаемым] мусором 47 тысяч. Однако с ростом оживленности космоса, я не наблюдаю роста популярности этой темы. Ну да, летают какие то спутники, что тут такого интерес</description>
+      <pubDate>Mon, 05 Oct 2026 21:31:44 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1090752/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090752</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>У нас есть «плюсы» дома: о чем говорили на митапе YADRO × C++ Russia</title>
-      <link>https://habr.com/ru/companies/yadro/articles/1090332/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090332</link>
-      <description>С++20-корутины, миграция акторной системы и KvadraOS — все это было на митапе для разработчиков на «плюсах», который организовали YADRO и C++ Russia. Под катом собрали записи докладов и рассказали о новых проектах для инженеров: экскурсии по инженерному центру и проекту о работе с легаси-кодом. Читать далее</description>
-      <pubDate>Mon, 05 Oct 2026 11:52:23 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/yadro/articles/1090332/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090332</guid>
+      <title>О тестировании ИИ-агентов, вызывающих функции</title>
+      <link>https://habr.com/ru/articles/1090748/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090748</link>
+      <description>У ИИ-агентов, вызывающих функции (function calling, tool use), есть ошибка, которую не видит ни одна из обычных защит. Агент вызывает функцию при невыполненном условии ее применения, когда оно прямо ему не названо, и сообщает об успехе, не называя препятствия. Такую ошибку не замечают проверка схемы, система, отчет самого агента, подтверждение оператора и существующие наборы проверок. В статье описана методология, которая находит такие ошибки и для каждой указывает место: какое условие нарушено,</description>
+      <pubDate>Mon, 05 Oct 2026 21:21:31 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1090748/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090748</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>[Перевод] Как AI изменил рынок софта?</title>
-      <link>https://habr.com/ru/articles/1090504/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090504</link>
-      <description>Привет! Меня зовут Саша Журавлев. Я венчурный инвестор и основатель фонда Mento vc. Мы инвестируем в стартапы на стадиях Seed / Series A в США, а в своем телеграм-канале рассказываю, как вижу рынок и принимаю инвестиционные решения. ICONIQ (более $80B под управлением) каждый год выпускает отчет об эффективности software-компаний. И вот недавно вышел свежий сентябрьский отчет за 2026 год. Для меня это один из самых важных репортов индустрии, и я ждал его с июля (он в прошлом году вышел в июле 202</description>
-      <pubDate>Mon, 05 Oct 2026 11:51:53 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1090504/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090504</guid>
-      <category>Все публикации подряд на Хабре</category>
+      <title>Reverse-engineered games: All the news on video game decomps, recomps, VR and web and 3D ports</title>
+      <link>https://www.theverge.com/games/1004869/reverse-engineered-games-all-the-news-on-video-game-decomps-recomps-vr-and-web-and-3d-ports</link>
+      <description>It’s a wild time for retro gaming. Thanks to decompilations and recompilations of classic titles, those games are becoming unshackled from their proprietary code and original hardware to be ported to new devices or updated in ways to completely change the original game. Ever imagined skateboarding in Call of Duty? Or playing the original Halo right […]</description>
+      <pubDate>Mon, 05 Oct 2026 21:17:45 +0000</pubDate>
+      <guid>https://www.theverge.com/games/1004869/reverse-engineered-games-all-the-news-on-video-game-decomps-recomps-vr-and-web-and-3d-ports</guid>
+      <category>The Verge</category>
     </item>
     <item>
-      <title>Нобелевская премия по физиологии и медицине-2026: смотрим на патенты лауреатов и главных бенефициаров открытий ученых</title>
-      <link>https://habr.com/ru/companies/onlinepatent/articles/1090486/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090486</link>
-      <description>Нобелевскую премию по физиологии и медицине за 2026 год присудили Карлу Дейссероту, Петеру Хегеманну, Георгу Нагелю за открытия, которые привели к созданию оптогенетики. Данный метод позволяет с помощью света включать и выключать активность отдельных нервных клеток в головном мозге. Разбираемся, сколько патентов у нобелиатов этого года, и кому они принадлжат. Читать далее</description>
-      <pubDate>Mon, 05 Oct 2026 11:14:02 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/onlinepatent/articles/1090486/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090486</guid>
-      <category>Все публикации подряд на Хабре</category>
+      <title>The Matic is the first robovac to get an FCC ban waiver, not that it needs it</title>
+      <link>https://www.theverge.com/policy/1004926/matic-fcc-ban-waiver-conditional-approval</link>
+      <description>The Matic is our favorite robot vacuum and robo-mop, and it's also now the first to escape the FCC's Roomba ban. Well, sort of - because the Matic wasn't banned to begin with. Here's what's actually happening: On October 2nd, the FCC added the original Matic, model 4MA0001, and its charging dock model 4DK0008 to […]</description>
+      <pubDate>Mon, 05 Oct 2026 21:15:05 +0000</pubDate>
+      <guid>https://www.theverge.com/policy/1004926/matic-fcc-ban-waiver-conditional-approval</guid>
+      <category>The Verge</category>
     </item>
     <item>
-      <title>Горение свечи и стрелы объяснений</title>
-      <link>https://habr.com/ru/articles/1090484/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090484</link>
-      <description>Обычно считается, что механика сплошных сред и классическая термодинамика уже сведены к статистической и квантовой механике. Так, Стивен Вайнберг в книге ' Мечты об окончательной теории ' рассматривает сводимость теорий более высоких уровней организации с использованием метафоры стрел объяснений: 'Мы ищем универсальные истины о природе и, когда мы их находим, пытаемся объяснить их, показав, каким образом они выводятся из еще более глубоких истин. Представьте себе пространство научных принципов, </description>
-      <pubDate>Mon, 05 Oct 2026 11:13:01 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1090484/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090484</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>PostgreSQL 19: Коммитфест 2026-03 Часть 5.3 (DBA3, DBS)</title>
-      <link>https://habr.com/ru/companies/postgrespro/articles/1090470/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090470</link>
-      <description>Продолжаем обзор мартовского коммитфеста 19-й версии. В третьей статье серии рассмотрим изменения, относящиеся к материалам курсов DBA3 и DBS . Напоминаю план статей о последнем коммитфесте 19-й версии: Часть 5.1 (QPT) Часть 5.2 (DBA1, DBA2) Часть 5.3 (DBA3, DBS) – мы здесь 🙂 Часть 5.4 (SQL, DEV1, DEV2) Об изменениях в предыдущих коммитфестах рассказано здесь: 2025-07 , 2025-09 , 2025-11 , 2026-01 . Читать далее</description>
-      <pubDate>Mon, 05 Oct 2026 11:10:50 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/postgrespro/articles/1090470/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090470</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Сравнение провайдеров managed PostgreSQL</title>
-      <link>https://habr.com/ru/companies/amvera/articles/1090478/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090478</link>
-      <description>PostgreSQL является самой распространённой СУБД согласно исследованию StackOverflow . Но самостоятельный хостинг PostgreSQL сопряжён с риском потери данных и неоптимальной настройки. В статье мы рассмотрим основных международных и российских провайдеров managed PostgreSQL. Их сильные и слабые стороны и сценарии оптимального использования. Читать далее</description>
-      <pubDate>Mon, 05 Oct 2026 11:02:45 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/amvera/articles/1090478/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090478</guid>
+      <title>От режиссёра КИНО до режиссёра КОДА: как я заставил ИИ создавать полностью готовые программы автоматически</title>
+      <link>https://habr.com/ru/articles/1090746/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090746</link>
+      <description>От режиссёра КИНО до режиссёра КОДА: как я создал автономную ИИ-среду разработки EVA Engineer (от промпта до .EXE и .APK) Читать, скачать, создавать!</description>
+      <pubDate>Mon, 05 Oct 2026 21:07:02 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1090746/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090746</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
   </channel>
