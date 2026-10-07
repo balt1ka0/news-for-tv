@@ -5,88 +5,88 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Tue, 06 Oct 2026 20:48:58 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 00:23:30 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Silicon Valley’s AI wunderkind launches Underdog, the most private Instinct/Muse competitor yet</title>
-      <link>https://techcrunch.com/2026/10/06/silicon-valleys-ai-wunderkind-launches-underdog-the-most-private-instinct-muse-competitor-yet/</link>
-      <description>Sigil Wen, backed by a Silicon Valley's who-who, has built an on-device AI assistant that promises to be free, fully private, and capable for everyday tasks.</description>
-      <pubDate>Tue, 06 Oct 2026 20:47:01 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/06/silicon-valleys-ai-wunderkind-launches-underdog-the-most-private-instinct-muse-competitor-yet/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>Tesla’s Model 3 and Model Y can be a backup battery for your house</title>
-      <link>https://www.theverge.com/transportation/1006193/tesla-model-3-model-y-powershare-home-backup</link>
-      <description>Some Tesla Model 3 and Model Y owners can use their EV battery to keep the lights on longer during a power outage, now that Tesla's expanding the Powershare Home Backup feature. It was previously only available on the Cybertruck, and also requires owning Tesla's Powerwall 3. However, support for the Powerwall 2 and Powerwall […]</description>
-      <pubDate>Tue, 06 Oct 2026 20:37:54 +0000</pubDate>
-      <guid>https://www.theverge.com/transportation/1006193/tesla-model-3-model-y-powershare-home-backup</guid>
+      <title>OpenAI drops another batch of mathematical breakthroughs</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github</link>
+      <description>OpenAI has revealed solutions to a number of long-standing mathematics problems produced by an unreleased frontier model in a batch of 722 manuscripts, covering 372 result families that group related papers. It extends a run of breakthroughs that have both impressed and unsettled parts of the mathematical community while raising questions about research ethics and […]</description>
+      <pubDate>Tue, 06 Oct 2026 23:26:38 +0000</pubDate>
+      <guid>https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github</guid>
       <category>The Verge</category>
     </item>
     <item>
-      <title>How AI decision models could change content moderation</title>
-      <link>https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/</link>
-      <description>On Tuesday, Musubi announced a lightweight decision model made for real-time moderation called PolicyLM-1.7B, released with open weights.</description>
-      <pubDate>Tue, 06 Oct 2026 20:35:20 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/</guid>
+      <title>Apple is reportedly partnering with LG to launch a smart lock, thermostat, and doorbell</title>
+      <link>https://techcrunch.com/2026/10/06/apple-is-reportedly-partnering-with-lg-to-launch-a-smart-lock-thermostat-and-doorbell/</link>
+      <description>Apple appears poised to push into the smart home market with a slate of new devices and a key partner.</description>
+      <pubDate>Tue, 06 Oct 2026 22:53:09 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/06/apple-is-reportedly-partnering-with-lg-to-launch-a-smart-lock-thermostat-and-doorbell/</guid>
       <category>TechCrunch</category>
     </item>
     <item>
-      <title>Google’s power-hungry data centers crave nuclear energy</title>
-      <link>https://www.theverge.com/science/1006082/google-nuclear-energy-power-purchase-agreement-constellation</link>
-      <description>Google announced a new agreement to update six nuclear power plant sites across the US as the tech giant seeks to generate more electricity for its power-hungry data centers. Google signed the 20-year deal with Constellation, the leading nuclear power plant operator in the US. The power purchase agreement is meant to guarantee the revenue […]</description>
-      <pubDate>Tue, 06 Oct 2026 20:32:10 +0000</pubDate>
-      <guid>https://www.theverge.com/science/1006082/google-nuclear-energy-power-purchase-agreement-constellation</guid>
-      <category>The Verge</category>
+      <title>Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product</title>
+      <link>https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/</link>
+      <description>Instead of helping marketers manage and optimize ad spend, the company is focusing on building the tools that generate the creative assets and campaigns.</description>
+      <pubDate>Tue, 06 Oct 2026 22:34:03 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/</guid>
+      <category>TechCrunch</category>
     </item>
     <item>
-      <title>Как умрет 1С</title>
-      <link>https://habr.com/ru/articles/1091284/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1091284</link>
-      <description>Титаника убил айсберг. А ведь казалось, что он непотопляем. 1С, такая гигантская и непоколебимая, скоро легко может быть убита через ИИ. Вот первая ласточка уже прилетела от одного из программистов на 1С. Читать далее</description>
-      <pubDate>Tue, 06 Oct 2026 20:29:22 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1091284/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1091284</guid>
+      <title>[Перевод] Кип Торн о гравитационных волнах, путешествиях во времени и фильме «Интерстеллар» (интервью)</title>
+      <link>https://habr.com/ru/articles/1091302/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1091302</link>
+      <description>Я отчётливо помню, как около пятнадцати лет назад вёл коллоквиум с приглашённым докладчиком, который рассказывал о гравитационно-волновой обсерватории LIGO, только начавшей собирать данные. Сопоставив достигнутую чувствительность с той, которую ещё предстояло получить, слушатели после доклада вполголоса пришли к ясному выводу: "У них ничего не выйдет". Разумеется, теперь мы знаем, что всё вышло, и объявление об обнаружении гравитационных волн в 2016 году принесло в 2017-м Нобелевскую премию Райн</description>
+      <pubDate>Tue, 06 Oct 2026 22:19:42 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1091302/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1091302</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>AI computing startup Lambda to raise $4B ahead of planned IPO</title>
-      <link>https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/</link>
-      <description>Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone.</description>
-      <pubDate>Tue, 06 Oct 2026 20:00:30 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/</guid>
+      <title>Xbox has secured exclusive GTA 6 streaming rights</title>
+      <link>https://www.theverge.com/report/1005859/microsoft-xbox-gta-6-streaming-rights</link>
+      <description>Xbox CEO Asha Sharma told employees that Microsoft is getting ready to do something around Grand Theft Auto VI that "no other platform holder is doing" during an employee all-hands this morning. According to sources familiar with Microsoft's plans, Xbox has managed to land a deal for the exclusive game streaming rights for Grand Theft […]</description>
+      <pubDate>Tue, 06 Oct 2026 22:12:27 +0000</pubDate>
+      <guid>https://www.theverge.com/report/1005859/microsoft-xbox-gta-6-streaming-rights</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>The best robot vacuum and mop deals during October Prime Day</title>
+      <link>https://www.theverge.com/gadgets/1006059/robot-vacuum-mop-roborock-qrevo-prime-day-deal-sale</link>
+      <description>Spending too much time constantly sweeping and mopping? If you have the money to delegate those chores to a robot cleaner, you could save a lot of personal time. Thankfully, it’s cheaper than usual to buy a robot vacuum / mop hybrid during Amazon’s Prime Big Deal Days, and some of our favorite models are […]</description>
+      <pubDate>Tue, 06 Oct 2026 22:00:00 +0000</pubDate>
+      <guid>https://www.theverge.com/gadgets/1006059/robot-vacuum-mop-roborock-qrevo-prime-day-deal-sale</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>Смотрим ILA без программатора на Zynq SoC</title>
+      <link>https://habr.com/ru/articles/1091300/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1091300</link>
+      <description>Всем привет! Сегодня я хочу рассмотреть довольно интересную возможность на Zynq SoC, связанную с отладкой с помощью ILA (Integrated Logic Analyzer) без физического подключения через JTAG. В этой статье мы попробуем разобраться, как использовать Xilinx Virtual Cable, соберем драйвера, посмотрим как подключаться из Hardware Manager Vivado. Читать далее</description>
+      <pubDate>Tue, 06 Oct 2026 21:54:14 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1091300/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1091300</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Apple and LG team up on new smart home gear, starting with a lock, doorbell, and thermostat</title>
+      <link>https://www.theverge.com/news/1006238/apple-lg-homekit-rumor-fcc</link>
+      <description>Apple is collaborating with LG on a new lineup of smart home devices, including a video doorbell, thermostat, indoor camera, and more, according to a report from Bloomberg. The products will reportedly feature LG branding but integrate with the company's rumored smart home hub that's expected to launch during an event on October 13th. Sources […]</description>
+      <pubDate>Tue, 06 Oct 2026 21:39:53 +0000</pubDate>
+      <guid>https://www.theverge.com/news/1006238/apple-lg-homekit-rumor-fcc</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>Sebastian Maniscalco’s SiriusXM channel is hurting up-and-coming talent, comics say</title>
+      <link>https://www.theverge.com/entertainment/1006221/sebastian-maniscalco-siriusxm-channel-controversy</link>
+      <description>Comedian Sebastian Maniscalco is facing backlash from fellow comics who claim his takeover of SiriusXM's Raw Comedy channel is harming up-and-coming talent, as reported earlier by Deadline. Many established comics, including Patton Oswalt and Margaret Cho, have posted videos online calling on Maniscalco to carry on Raw Comedy's legacy by highlighting newer comedians on his […]</description>
+      <pubDate>Tue, 06 Oct 2026 21:10:13 +0000</pubDate>
+      <guid>https://www.theverge.com/entertainment/1006221/sebastian-maniscalco-siriusxm-channel-controversy</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>Silicon Valley’s AI wunderkind launches Underdog, the most private Instinct/Muse competitor yet</title>
+      <link>https://techcrunch.com/2026/10/06/silicon-valleys-ai-wunderkind-launches-underdog-the-most-private-instinct-muse-competitor-yet/</link>
+      <description>Sigil Wen, backed by a Silicon Valley who's who, has built an on-device AI assistant that promises to be free, fully private, and capable for everyday tasks.</description>
+      <pubDate>Tue, 06 Oct 2026 20:47:01 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/06/silicon-valleys-ai-wunderkind-launches-underdog-the-most-private-instinct-muse-competitor-yet/</guid>
       <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>Amazon’s last-gen Kindle Paperwhite is 30 percent off</title>
-      <link>https://www.theverge.com/gadgets/1006020/amazon-kindle-paperwhite-prime-day-deal-sale</link>
-      <description>Calling something “last-gen” usually means it comes with big compromises compared to the latest version. That’s not as true for the last-gen Kindle Paperwhite as it is with some other tech. The newer version can open books 30 percent faster (not the same as page-turning speed), and its aluminum design is a millimeter thinner — […]</description>
-      <pubDate>Tue, 06 Oct 2026 20:00:00 +0000</pubDate>
-      <guid>https://www.theverge.com/gadgets/1006020/amazon-kindle-paperwhite-prime-day-deal-sale</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>The next hurdle for AI agents: getting websites to let them in</title>
-      <link>https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/</link>
-      <description>Personal AI agents promise to shop, book flights, and make reservations for you. But deliberate blocks and anti-bot defenses are getting in the way, leaving consumers caught in the middle. A new standard aims to help.</description>
-      <pubDate>Tue, 06 Oct 2026 19:56:50 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>Save on MacBooks, iPads and Apple Watches during October Prime Day</title>
-      <link>https://www.theverge.com/gadgets/1005662/apple-ipad-macbook-airpod-prime-day-deal-sale</link>
-      <description>Amazon’s October Big Deal Days are underway (lasting through tomorrow night), and we spotted a ton of Apple products and accessories in the sale, ranging from laptops and headphones to desktops and more. Some of the deals are only for Prime members, but other retailers are often matching or beating Amazon’s prices, and we’ll continue […]</description>
-      <pubDate>Tue, 06 Oct 2026 19:30:00 +0000</pubDate>
-      <guid>https://www.theverge.com/gadgets/1005662/apple-ipad-macbook-airpod-prime-day-deal-sale</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>Two mystery PlayStation products have leaked — one might be a PlayStation Portal OLED</title>
-      <link>https://www.theverge.com/games/1006092/playstation-portal-oled-wi-fi-alliance-certifications</link>
-      <description>Is Sony about to announce a new PlayStation Portal game streaming handheld? The Wi-Fi Alliance recently certified two unannounced PlayStation products of some kind, and the certification documents indicate that they could be updates to the PlayStation Portal, which might mean we're getting the OLED screen rumored earlier this year. The two devices, which are […]</description>
-      <pubDate>Tue, 06 Oct 2026 19:12:26 +0000</pubDate>
-      <guid>https://www.theverge.com/games/1006092/playstation-portal-oled-wi-fi-alliance-certifications</guid>
-      <category>The Verge</category>
     </item>
   </channel>
 </rss>
