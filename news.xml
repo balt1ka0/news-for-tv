@@ -5,88 +5,88 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Wed, 07 Oct 2026 00:23:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 06:53:13 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>OpenAI drops another batch of mathematical breakthroughs</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github</link>
-      <description>OpenAI has revealed solutions to a number of long-standing mathematics problems produced by an unreleased frontier model in a batch of 722 manuscripts, covering 372 result families that group related papers. It extends a run of breakthroughs that have both impressed and unsettled parts of the mathematical community while raising questions about research ethics and […]</description>
-      <pubDate>Tue, 06 Oct 2026 23:26:38 +0000</pubDate>
-      <guid>https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>Apple is reportedly partnering with LG to launch a smart lock, thermostat, and doorbell</title>
-      <link>https://techcrunch.com/2026/10/06/apple-is-reportedly-partnering-with-lg-to-launch-a-smart-lock-thermostat-and-doorbell/</link>
-      <description>Apple appears poised to push into the smart home market with a slate of new devices and a key partner.</description>
-      <pubDate>Tue, 06 Oct 2026 22:53:09 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/06/apple-is-reportedly-partnering-with-lg-to-launch-a-smart-lock-thermostat-and-doorbell/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product</title>
-      <link>https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/</link>
-      <description>Instead of helping marketers manage and optimize ad spend, the company is focusing on building the tools that generate the creative assets and campaigns.</description>
-      <pubDate>Tue, 06 Oct 2026 22:34:03 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>[Перевод] Кип Торн о гравитационных волнах, путешествиях во времени и фильме «Интерстеллар» (интервью)</title>
-      <link>https://habr.com/ru/articles/1091302/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1091302</link>
-      <description>Я отчётливо помню, как около пятнадцати лет назад вёл коллоквиум с приглашённым докладчиком, который рассказывал о гравитационно-волновой обсерватории LIGO, только начавшей собирать данные. Сопоставив достигнутую чувствительность с той, которую ещё предстояло получить, слушатели после доклада вполголоса пришли к ясному выводу: "У них ничего не выйдет". Разумеется, теперь мы знаем, что всё вышло, и объявление об обнаружении гравитационных волн в 2016 году принесло в 2017-м Нобелевскую премию Райн</description>
-      <pubDate>Tue, 06 Oct 2026 22:19:42 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1091302/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1091302</guid>
+      <title>[Перевод] Новые агрегации перцентилей и медианного абсолютного отклонения в Manticore Search</title>
+      <link>https://habr.com/ru/articles/1091346/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1091346</link>
+      <description>Новые агрегации перцентилей и MAD в Manticore Search: как анализировать поведение хвостов распределения и выбросы в SQL и JSON с настраиваемой точностью через compression. Читать далее</description>
+      <pubDate>Wed, 07 Oct 2026 06:38:36 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1091346/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1091346</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Xbox has secured exclusive GTA 6 streaming rights</title>
-      <link>https://www.theverge.com/report/1005859/microsoft-xbox-gta-6-streaming-rights</link>
-      <description>Xbox CEO Asha Sharma told employees that Microsoft is getting ready to do something around Grand Theft Auto VI that "no other platform holder is doing" during an employee all-hands this morning. According to sources familiar with Microsoft's plans, Xbox has managed to land a deal for the exclusive game streaming rights for Grand Theft […]</description>
-      <pubDate>Tue, 06 Oct 2026 22:12:27 +0000</pubDate>
-      <guid>https://www.theverge.com/report/1005859/microsoft-xbox-gta-6-streaming-rights</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>The best robot vacuum and mop deals during October Prime Day</title>
-      <link>https://www.theverge.com/gadgets/1006059/robot-vacuum-mop-roborock-qrevo-prime-day-deal-sale</link>
-      <description>Spending too much time constantly sweeping and mopping? If you have the money to delegate those chores to a robot cleaner, you could save a lot of personal time. Thankfully, it’s cheaper than usual to buy a robot vacuum / mop hybrid during Amazon’s Prime Big Deal Days, and some of our favorite models are […]</description>
-      <pubDate>Tue, 06 Oct 2026 22:00:00 +0000</pubDate>
-      <guid>https://www.theverge.com/gadgets/1006059/robot-vacuum-mop-roborock-qrevo-prime-day-deal-sale</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>Смотрим ILA без программатора на Zynq SoC</title>
-      <link>https://habr.com/ru/articles/1091300/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1091300</link>
-      <description>Всем привет! Сегодня я хочу рассмотреть довольно интересную возможность на Zynq SoC, связанную с отладкой с помощью ILA (Integrated Logic Analyzer) без физического подключения через JTAG. В этой статье мы попробуем разобраться, как использовать Xilinx Virtual Cable, соберем драйвера, посмотрим как подключаться из Hardware Manager Vivado. Читать далее</description>
-      <pubDate>Tue, 06 Oct 2026 21:54:14 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1091300/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1091300</guid>
+      <title>1С под нагрузкой: как вырасти от запуска тестов до экспертных решений</title>
+      <link>https://habr.com/ru/companies/infostart/articles/1091174/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1091174</link>
+      <description>Система прошла функциональные проверки: документы проводятся, отчёты формируются, интеграции работают. Но после подключения нескольких сотен пользователей операции замедляются, а серверы оказываются перегружены. Чтобы разобраться в причинах, нужно связать прикладную логику, поведение СУБД и состояние инфраструктуры. Нагрузочное тестирование помогает специалисту 1С расширить свою ответственность — от проверки отдельных сценариев до оценки готовности системы к промышленной эксплуатации. Разработчи</description>
+      <pubDate>Wed, 07 Oct 2026 06:38:24 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/infostart/articles/1091174/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1091174</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Apple and LG team up on new smart home gear, starting with a lock, doorbell, and thermostat</title>
-      <link>https://www.theverge.com/news/1006238/apple-lg-homekit-rumor-fcc</link>
-      <description>Apple is collaborating with LG on a new lineup of smart home devices, including a video doorbell, thermostat, indoor camera, and more, according to a report from Bloomberg. The products will reportedly feature LG branding but integrate with the company's rumored smart home hub that's expected to launch during an event on October 13th. Sources […]</description>
-      <pubDate>Tue, 06 Oct 2026 21:39:53 +0000</pubDate>
-      <guid>https://www.theverge.com/news/1006238/apple-lg-homekit-rumor-fcc</guid>
-      <category>The Verge</category>
+      <title>Почему JSON Schema не делает ответ LLM надёжным</title>
+      <link>https://habr.com/ru/articles/1091358/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1091358</link>
+      <description>Structured output решает одну из самых раздражающих проблем LLM-интеграций: модель наконец стабильно возвращает данные в ожидаемом формате. Но валидный JSON ещё не означает правильные данные. Разбираю, где заканчиваются гарантии JSON Schema и как провести границу доверия между LLM и бизнес-логикой Go-сервиса. Читать далее</description>
+      <pubDate>Wed, 07 Oct 2026 06:33:10 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1091358/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1091358</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Sebastian Maniscalco’s SiriusXM channel is hurting up-and-coming talent, comics say</title>
-      <link>https://www.theverge.com/entertainment/1006221/sebastian-maniscalco-siriusxm-channel-controversy</link>
-      <description>Comedian Sebastian Maniscalco is facing backlash from fellow comics who claim his takeover of SiriusXM's Raw Comedy channel is harming up-and-coming talent, as reported earlier by Deadline. Many established comics, including Patton Oswalt and Margaret Cho, have posted videos online calling on Maniscalco to carry on Raw Comedy's legacy by highlighting newer comedians on his […]</description>
-      <pubDate>Tue, 06 Oct 2026 21:10:13 +0000</pubDate>
-      <guid>https://www.theverge.com/entertainment/1006221/sebastian-maniscalco-siriusxm-channel-controversy</guid>
-      <category>The Verge</category>
+      <title>Генеративные тесты — “серебряная пуля” или бесполезный костыль: что говорят разработчики и ученые</title>
+      <link>https://habr.com/ru/companies/dalee_group/articles/1088932/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1088932</link>
+      <description>В последнее время вокруг систем ИИ, генерирующих тесты, активно развивается дискуссия, причем как в профессиональной, так и в академической среде. С одной стороны, такие системы делают ровно то, для чего задуманы ИИ-агенты: выполняют работу, которую мало кто любит делать, экономят массу времени и сил. С другой — порой выдают непредсказуемый результат: удаляют или корректируют тест-кейсы, игнорируют пограничные сценарии. Мы решили посмотреть, какие мнения есть относительно генеративных тестов в И</description>
+      <pubDate>Wed, 07 Oct 2026 06:01:07 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/dalee_group/articles/1088932/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1088932</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Silicon Valley’s AI wunderkind launches Underdog, the most private Instinct/Muse competitor yet</title>
-      <link>https://techcrunch.com/2026/10/06/silicon-valleys-ai-wunderkind-launches-underdog-the-most-private-instinct-muse-competitor-yet/</link>
-      <description>Sigil Wen, backed by a Silicon Valley who's who, has built an on-device AI assistant that promises to be free, fully private, and capable for everyday tasks.</description>
-      <pubDate>Tue, 06 Oct 2026 20:47:01 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/06/silicon-valleys-ai-wunderkind-launches-underdog-the-most-private-instinct-muse-competitor-yet/</guid>
-      <category>TechCrunch</category>
+      <title>Проверка боем: автопентест, BAS и как AI обогнал людей в поиске уязвимостей</title>
+      <link>https://habr.com/ru/articles/1073084/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1073084</link>
+      <description>Дашборд зеленый - но дойдет ли реальный злоумышленник до цели? Раз в год пентеста мало. Разбираем автопентест и BAS - непрерывную проверку защиты, российские решения и прорыв 2025 года, когда AI-система XBOW заняла первое место среди багхантеров HackerOne, обогнав всех людей. Читать далее</description>
+      <pubDate>Wed, 07 Oct 2026 05:30:56 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1073084/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1073084</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Я из будущего, и я в ужасе: советские микросхемы глазами современного инженера</title>
+      <link>https://habr.com/ru/articles/1091324/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1091324</link>
+      <description>Знаете это чувство, когда ты весь такой прогрессор, начитался про попаданцев, которые в древнем мире внедряли паровые машины, и думаешь: «Вот попаду в прошлое - точно всех удивлю»? У меня было так же. Очнулся в первой половине восьмидесятых. Не в Древнем Риме, а в самом что ни на есть научно-техническом мире - Советском Союзе, где вокруг летают спутники, работают ядерные реакторы, а микросхемы уже выпускают серийно. «Отлично, - подумал я. - Вот оно, моё время. Сейчас я им покажу флеш-память. Рас</description>
+      <pubDate>Wed, 07 Oct 2026 04:41:59 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1091324/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1091324</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Два робота и один скрипт на Bash</title>
+      <link>https://habr.com/ru/articles/1091320/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1091320</link>
+      <description>Я раньше ругал людей который пишут посты с помощью ИИ, но решил написать такой пост сам. Пост ниже сгенерен ИИ от первой до последней буквы (кроме картинки, ее нарисовал я сам). При этом, как честный человек, я привожу промпт. Также оправданием служит то, что речь идет не о чем-то абстрактном, а о моей конкретной (скорее всего не оригинальной) методе генерить код, натравливая один ИИ (claude) на другой (codex). Чтобы они соревновались друг с другом, писали разборы конкурента и сравнения, исправл</description>
+      <pubDate>Wed, 07 Oct 2026 04:04:05 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1091320/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1091320</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>GAMEGO: Training Game-Dev Agents with Synthetic Trajectories Anchored in Real-World Assets</title>
+      <link>https://arxiv.org/abs/2610.06910</link>
+      <description>arXiv:2610.06910v1 Announce Type: new Abstract: Recent advances in Large Language Models (LLMs) have demonstrated remarkable capabilities in web front-end execution, with browser-based game generation emerging as a particularly prominent frontier. While previous efforts frequently rely on complex multi-turn workflows or focus on static game evaluation benchmarks, this work targets direct end-to-end real-world game synthesis driven by coding agents. However, generating complex games directly from</description>
+      <pubDate>Wed, 07 Oct 2026 04:00:00 +0000</pubDate>
+      <guid>https://arxiv.org/abs/2610.06910</guid>
+      <category>cs.AI updates on arXiv.org</category>
+    </item>
+    <item>
+      <title>Text2Dashboard: A Governed Agent Architecture for Natural-Language Dashboard Generation over Enterprise DataBrain</title>
+      <link>https://arxiv.org/abs/2610.06914</link>
+      <description>arXiv:2610.06914v1 Announce Type: new Abstract: Text2Dashboard is a DataBrain-specific prototype that turns natural-language analytic requests into inspectable dashboards. An installable Codex plugin and standalone Agent Runtime combine schema-constrained model decisions with typed tools, persistent state, and deterministic Hooks for approval, audit, checkpointing, recovery, and failure handling. The pipeline resolves entities, discovers metadata, enforces read-only SQL, composes dashboards, and</description>
+      <pubDate>Wed, 07 Oct 2026 04:00:00 +0000</pubDate>
+      <guid>https://arxiv.org/abs/2610.06914</guid>
+      <category>cs.AI updates on arXiv.org</category>
+    </item>
+    <item>
+      <title>FluidPD: In-Place Elasticity for SLO-Aware Prefill-Decode Disaggregated LLM Serving</title>
+      <link>https://arxiv.org/abs/2610.06917</link>
+      <description>arXiv:2610.06917v1 Announce Type: new Abstract: Prefill-decode disaggregation is becoming a common architecture for LLM serving because it separates two phases with distinct execution patterns and SLO objectives. Existing systems typically combine a fixed prefill/decode worker ratio with request routing across workers. However, real-world workloads exhibit both short bursts and sustained shifts in the prefill-to-decode demand ratio. As a result, a configuration that is well provisioned at one ti</description>
+      <pubDate>Wed, 07 Oct 2026 04:00:00 +0000</pubDate>
+      <guid>https://arxiv.org/abs/2610.06917</guid>
+      <category>cs.AI updates on arXiv.org</category>
     </item>
   </channel>
 </rss>
