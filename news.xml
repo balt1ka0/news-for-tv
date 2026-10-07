@@ -5,88 +5,88 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Wed, 07 Oct 2026 14:14:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 20:25:41 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Ранжирование рекомендаций на главной Авито: как мы перешли от CatBoost к нейросетям</title>
-      <link>https://habr.com/ru/companies/avito/articles/1090584/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090584</link>
-      <description>Всем привет! Меня зовут Ярослав Хныков , я DS Tech Lead в Авито . Наша команда отвечает за рекомендации на главной странице Авито. В статье расскажу, как мы шли от CatBoost к нейросетевому ранжированию: какие данные брали, почему первые АБ-тесты уходили в минус и что дало резкий прирост качества. Будет полезно ML-инженерам и тимлидам, которые работают с ранжированием и рекомендательными системами. Читать далее</description>
-      <pubDate>Wed, 07 Oct 2026 14:08:39 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/avito/articles/1090584/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090584</guid>
-      <category>Все публикации подряд на Хабре</category>
+      <title>Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11</title>
+      <link>https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/</link>
+      <description>Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents.</description>
+      <pubDate>Wed, 07 Oct 2026 20:22:37 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/</guid>
+      <category>TechCrunch</category>
     </item>
     <item>
-      <title>Ring’s first smart lock can be charged by turning a dial when the battery unexpectedly dies</title>
-      <link>https://www.theverge.com/tech/1005916/amazon-ring-smart-home-lock-dial-recharge-camera-security-pricing-availability</link>
-      <description>Amazon announced its first smart lock that eliminates the need for a physical backup key should its rechargeable battery die while you're away from home. While other smart locks lean on hidden USB ports or metal contacts for connecting a 9-volt battery to replenish a dead battery, the new Ring Smart Lock incorporates a more […]</description>
-      <pubDate>Wed, 07 Oct 2026 14:00:00 +0000</pubDate>
-      <guid>https://www.theverge.com/tech/1005916/amazon-ring-smart-home-lock-dial-recharge-camera-security-pricing-availability</guid>
+      <title>Roku’s OLED TVs are up to $400 off during Prime Day, starting at $700</title>
+      <link>https://www.theverge.com/gadgets/1007149/roku-oled-tv-pro-prime-day-deal-sale</link>
+      <description>Just over a week ago, we covered a deal at Amazon that knocked around 30 percent off Roku’s new (and first-ever) OLED TVs. The deal expired, but has returned for the final day of October Prime Day. The 55-inch Pro Series OLED is $699.99 at Amazon, which is 30 percent off its list price. The […]</description>
+      <pubDate>Wed, 07 Oct 2026 19:27:39 +0000</pubDate>
+      <guid>https://www.theverge.com/gadgets/1007149/roku-oled-tv-pro-prime-day-deal-sale</guid>
       <category>The Verge</category>
     </item>
     <item>
-      <title>6 days to TechCrunch Disrupt 2026: Save on your pass before doors open</title>
-      <link>https://techcrunch.com/2026/10/07/6-days-to-techcrunch-disrupt-2026-save-on-your-pass-before-doors-open/</link>
-      <description>In 6 days, 10,000+ people from across the global startup and tech ecosystem will come together at San Francisco’s Moscone West for TechCrunch Disrupt 2026. If you’re planning to be one of them, don’t wait to register your ticket before prices increase at the door. Save up to $100 on your pass, plus 50% on a second of the same type.</description>
-      <pubDate>Wed, 07 Oct 2026 14:00:00 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/07/6-days-to-techcrunch-disrupt-2026-save-on-your-pass-before-doors-open/</guid>
-      <category>TechCrunch</category>
+      <title>Чёрная магия C++: Быстрый кольцевой буфер</title>
+      <link>https://habr.com/ru/articles/1070772/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1070772</link>
+      <description>Однажды у меня возникла потребность в кольцевом буфере на C++ для хранения довольно объёмных потоковых данных. Проблема заключалась в том, что мне было необходимо поддерживать непрерывность и упорядоченность данных в памяти, чтобы в любой момент времени я мог считать все элементы буфера одним бесшовным куском в порядке поступления элементов. Как правило, кольцевой буфер реализуется через списки, вроде std::list или std::deque , либо через плоские массивы, вроде std::vector или boost::circular_bu</description>
+      <pubDate>Wed, 07 Oct 2026 19:26:11 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1070772/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1070772</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Google’s new SynthID website can identify AI-generated media</title>
-      <link>https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media/</link>
-      <description>Google on Tuesday launched a new site that lets anyone verify whether a piece of media, be it an image, a video or an audio clip, is generated using AI.</description>
-      <pubDate>Wed, 07 Oct 2026 14:00:00 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>Ring’s first smart lock can be hand-cranked when its battery dies</title>
-      <link>https://techcrunch.com/2026/10/07/rings-first-smart-lock-can-be-hand-cranked-when-its-battery-dies/</link>
-      <description>Amazon-owned Ring is entering the smart lock market with a device designed to tackle a common concern: getting locked out when the battery dies</description>
-      <pubDate>Wed, 07 Oct 2026 14:00:00 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/07/rings-first-smart-lock-can-be-hand-cranked-when-its-battery-dies/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>My cats hate to see this great upright carpet cleaner coming</title>
-      <link>https://www.theverge.com/gadgets/1006710/bissell-carpet-cleaning-prime-day-deal-sale</link>
-      <description>For a while, I swore by Bissell’s Little Green carpet cleaner. I liked the sub-$100 price, the fact that it was small enough to fit on a closet shelf, and that it does a good job of cleaning up little messes. However, after you clean enough spots around the place, eventually the entire carpet needs […]</description>
-      <pubDate>Wed, 07 Oct 2026 13:55:04 +0000</pubDate>
-      <guid>https://www.theverge.com/gadgets/1006710/bissell-carpet-cleaning-prime-day-deal-sale</guid>
+      <title>ChatGPT’s ‘Intelligent UI’ update fills its responses with pictures, charts, and buttons</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6</link>
+      <description>OpenAI is launching a new Intelligent UI feature in ChatGPT that allows the chatbot to answer your questions with interactive visuals. The update, which is rolling out to all users alongside GPT-6, gives ChatGPT the ability to combine a text response with diagrams, charts, forms, tappable buttons, and more. In a blog post explaining the […]</description>
+      <pubDate>Wed, 07 Oct 2026 19:10:42 +0000</pubDate>
+      <guid>https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6</guid>
       <category>The Verge</category>
     </item>
     <item>
-      <title>Another personal AI assistant has launched — Meet Tab, which emerged from stealth with a $300M valuation</title>
-      <link>https://techcrunch.com/2026/10/07/another-personal-ai-assistant-has-launched-meet-tab-which-emerged-from-stealth-with-a-300m-valuation/</link>
-      <description>A new personal AI assistant has arrived. Meet Tab, which announced Tuesday that it had officially emerged from stealth.</description>
-      <pubDate>Wed, 07 Oct 2026 13:45:00 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/07/another-personal-ai-assistant-has-launched-meet-tab-which-emerged-from-stealth-with-a-300m-valuation/</guid>
-      <category>TechCrunch</category>
+      <title>The first Nvidia RTX Spark laptops cost up to $7,000</title>
+      <link>https://www.theverge.com/gadgets/1007040/nvidias-powerful-rtx-spark-laptops-can-cost-up-to-7000</link>
+      <description>The first array of laptops powered by Nvidia's new RTX Spark chip are designed to compete with high-end MacBook Pros - and they've got some high-end prices to match. The flagship Surface Laptop Ultra and RTX Spark laptops from Dell, Lenovo, MSI, HP, and Asus start as low as $2,599 for configurations with an 18-core […]</description>
+      <pubDate>Wed, 07 Oct 2026 19:05:52 +0000</pubDate>
+      <guid>https://www.theverge.com/gadgets/1007040/nvidias-powerful-rtx-spark-laptops-can-cost-up-to-7000</guid>
+      <category>The Verge</category>
     </item>
     <item>
-      <title>ИИ в рекламе: как внедрить нейросети и перевести работу команды на новый уровень</title>
-      <link>https://habr.com/ru/companies/yandex_ads/articles/1091636/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1091636</link>
-      <description>Мы в Яндекс Рекламе регулярно проводим исследования рынка и анализируем обратную связь от специалистов. Сейчас много обсуждают нейросети — и возникает ощущение, что ИИ в рекламе появился недавно, на волне популярности больших языковых моделей. На самом деле нейросети используются в управлении рекламой уже много лет. Давайте разберём на примере Яндекс Директа, как именно работают ИИ в рекламе сегодня, какие бизнес-задачи они решают и как использовать нейросети в маркетинге с пользой для бизнеса. </description>
-      <pubDate>Wed, 07 Oct 2026 13:35:14 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/yandex_ads/articles/1091636/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1091636</guid>
+      <title>Один мозг на миллион пользователей: чему backend-разработчик может научиться у мозга мухи</title>
+      <link>https://habr.com/ru/articles/1091764/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1091764</link>
+      <description>Можно ли позаимствовать у мозга мухи способ накапливать индивидуальный опыт — и использовать его для персонализации прогнозов? Я backend-разработчик и начинающий в ML. Исследуя предсказание пищевых срывов, я взял фрагмент коннектома дрозофилы, отделил общую модель от персональной памяти и проверил конструкцию на синтетических данных. Получилось интереснее, чем просто перенести биологическую аналогию в Python: память улучшила ошибку вероятностного прогноза внутри одной модели, и пока что убедител</description>
+      <pubDate>Wed, 07 Oct 2026 19:04:14 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1091764/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1091764</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Дайджест ИБ, 30 сентября – 6 октября: ИИ-агенты на сайтах властей, Google остановила bug bounty</title>
-      <link>https://habr.com/ru/articles/1091452/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1091452</link>
-      <description>Новости информационной безопасности за неделю с 30 сентября по 6 октября, в одну строку с ссылками на источник. Темы: ИИ, Уязвимости, Атаки и утечки, Исследования, Рынок, Регулирование, Медиа Читать далее</description>
-      <pubDate>Wed, 07 Oct 2026 13:30:13 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1091452/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1091452</guid>
+      <title>LLM Wiki: готовые baseline-шаблоны и новая реализация паттерна для доказательных выводов</title>
+      <link>https://habr.com/ru/articles/1091774/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1091774</link>
+      <description>Паттерн LLM Wiki предлагает хранить знания не как историю чата с моделью, а как вики, которую агент инкрементально собирает из источников. В статье предлагаются к использованию два репозитория: (А) llm-wiki-baseline — с шестью готовыми шаблонами «второго мозга» под разные домены и (Б) llm-wiki-kbt , реализующий тот же паттерн, но для вики в другой архитектуре, с проверяемой структурой на расширяемых схемах данных и с заделом под доказательный вывод: типизированные YAML-записи, строгие схемы, общ</description>
+      <pubDate>Wed, 07 Oct 2026 19:02:45 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1091774/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1091774</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Как я попал в книгу Голдрата</title>
-      <link>https://habr.com/ru/articles/1091632/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1091632</link>
-      <description>В какой-то момент поиска работы мне позвонили и предложили довольно любопытную вакансию. Не совсем вакансию даже. Собственник торгово-производственной компании искал кризис-менеджера. Бизнес был в тяжелом состоянии и, судя по описанию, находился где-то между надо срочно выручать и проще уже продать. Читать далее</description>
-      <pubDate>Wed, 07 Oct 2026 13:28:34 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1091632/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1091632</guid>
+      <title>Платёж списывается дважды. Найдите причину в коде, который прошёл ревью</title>
+      <link>https://habr.com/ru/companies/otus/articles/1077950/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1077950</link>
+      <description>Платёжный сервис прошёл ревью, тесты зелёные, в базе один успешный платёж — а с карты списали деньги дважды. Причём в двух инцидентах к дублю привели разные сценарии. Разбираемся по коду и логам, откуда взялись повторные списания и как построить идемпотентность, которая закрывает оба случая. Проверить решение</description>
+      <pubDate>Wed, 07 Oct 2026 18:50:35 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/otus/articles/1077950/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1077950</guid>
       <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>It appears .agent and .agi are about to be the hot new domains</title>
+      <link>https://www.theverge.com/tech/1007132/icann-domains-2026-ai-agi</link>
+      <description>For the first time in years, the Internet Corporation for Assigned Names and Numbers - better known as ICANN - is accepting applications for new top-level domains. These are the suffixes at the end of all URLs, and you may know them as things like .com, .org, and .pizza. ICANN just announced the 1,615 applications […]</description>
+      <pubDate>Wed, 07 Oct 2026 18:46:16 +0000</pubDate>
+      <guid>https://www.theverge.com/tech/1007132/icann-domains-2026-ai-agi</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>Everything announced at Microsoft’s Surface Laptop Ultra event</title>
+      <link>https://www.theverge.com/tech/1007147/microsoft-surface-laptop-ultra-windows-event-everything-announced</link>
+      <description>Microsoft just wrapped up a big Windows and Surface-focused keynote in San Francisco. The biggest announcement was arguably the release details about the Surface Laptop Ultra, its new laptop that’s powered by Nvidia’s RTX Spark Arm-based chip. The machine will start at $2,599 for a configuration with an 8-core CPU, 24GB of RAM, and 512GB […]</description>
+      <pubDate>Wed, 07 Oct 2026 18:42:22 +0000</pubDate>
+      <guid>https://www.theverge.com/tech/1007147/microsoft-surface-laptop-ultra-windows-event-everything-announced</guid>
+      <category>The Verge</category>
     </item>
   </channel>
 </rss>
