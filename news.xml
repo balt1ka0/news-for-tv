@@ -5,87 +5,87 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Thu, 08 Oct 2026 07:01:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 14:28:05 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Потолок на 800 Вт и окна по расписанию: как устроена умная квартира на 175 м²</title>
-      <link>https://habr.com/ru/companies/wirenboard/articles/1091772/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1091772</link>
-      <description>Окна открываются по расписанию, ночная подсветка загорается на 10% яркости, а настенные клавиши работают даже при выключенном контроллере. В квартире площадью около 175 м² интегратор объединил проводную автоматику и беспроводные устройства, а владельцу оставил возможность самому менять сценарии. Заглянем в щит, разберем световой потолок на 800 Вт и посмотрим, какие задачи решает автоматика после переезда — и что еще предстоит настроить. Читать далее</description>
-      <pubDate>Thu, 08 Oct 2026 07:00:21 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/wirenboard/articles/1091772/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1091772</guid>
+      <title>[Перевод] Где сломался AI-агент? Как отлаживать многоэтапные воркфлоу по шагам</title>
+      <link>https://habr.com/ru/companies/otus/articles/1091962/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1091962</link>
+      <description>Многоэтапный AI-агент может выдать убедительный ответ, хотя ошибка произошла ещё в начале расследования. Найти её по итоговому результату непросто. Рассказываем, как поэтапные проверки помогли нам локализовать сбои и обнаружить баг в самом механизме оценки. Разобрать подход</description>
+      <pubDate>Thu, 08 Oct 2026 14:18:34 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/otus/articles/1091962/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1091962</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Кинематографическая простота Геннадия Шпаликова</title>
-      <link>https://habr.com/ru/articles/1090246/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090246</link>
-      <description>С помощью Python исследовал творчество Геннадия Шпаликова и установил, как поэт достигает "кинематографической простоты" своей поэзии. Читать далее</description>
-      <pubDate>Thu, 08 Oct 2026 07:00:21 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1090246/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090246</guid>
-      <category>Все публикации подряд на Хабре</category>
+      <title>Atari is bringing back one of its earliest 8-bit home computers</title>
+      <link>https://www.theverge.com/tech/1007732/atari-console-800xl-basic-personal-computer-retro-preorder</link>
+      <description>After resurrecting iconic consoles like the 2600 and Mattel's Intellivision, Atari is relaunching one of the brand's personal computers that originally debuted 43 years ago. The 800XL is a faithful recreation of the all-in-one 8-bit PC that's being resurrected as part of a collaboration with game developer and publisher Plaion. While most retro enthusiasts will […]</description>
+      <pubDate>Thu, 08 Oct 2026 14:16:37 +0000</pubDate>
+      <guid>https://www.theverge.com/tech/1007732/atari-console-800xl-basic-personal-computer-retro-preorder</guid>
+      <category>The Verge</category>
     </item>
     <item>
-      <title>Дайджест ИБ-регулирования. Июль–сентябрь 2026</title>
-      <link>https://habr.com/ru/companies/searchinform/articles/1091854/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1091854</link>
-      <description>Публикуем традиционный ежеквартальный дайджест регуляторных инициатив. В этом выпуске – новое за июль-сентябрь: ФСТЭК готовит замену приказу № 21, вводит правила для ИИ в госсистемах и методику оценки ИБ-зрелости, Минтруд утвердил профстандарт для ИБ-специалистов КИИ, а московский суд впервые признал утечкой передачу данных в ИИ-сервис. Читать далее</description>
-      <pubDate>Thu, 08 Oct 2026 07:00:08 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/searchinform/articles/1091854/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1091854</guid>
-      <category>Все публикации подряд на Хабре</category>
+      <title>Alexa Plus is better at running my home, but it’s not ready to run my life</title>
+      <link>https://www.theverge.com/tech/1007565/amazon-alexa-plus-review-one-year-echo-show-dot-max</link>
+      <description>Of all the things Alexa Plus can do, I never expected it to make me cry. Since my son left for college, the Echo Show in my office has been making then-and-now photo montages: the toddler with his first tennis racket next to the captain of his varsity team; me hugging him as a tween […]</description>
+      <pubDate>Thu, 08 Oct 2026 14:00:22 +0000</pubDate>
+      <guid>https://www.theverge.com/tech/1007565/amazon-alexa-plus-review-one-year-echo-show-dot-max</guid>
+      <category>The Verge</category>
     </item>
     <item>
-      <title>Блог на автопилоте: markdown в статику, выход статьи по дате и пинг в IndexNow только для новых страниц</title>
-      <link>https://habr.com/ru/articles/1090862/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090862</link>
-      <description>У меня блог на 78 markdown-файлах, и руками я его не публикую уже больше недели. Статья выходит, когда наступает дата в её шапке: сборщик в тот день включает её в сайт, сервер замечает новую страницу, пишет о ней поисковику и обновляет sitemap с RSS. Ниже разбираю, как это собрано, и три места, где всё ломалось. Фреймворка тут нет, только один Python-файл примерно на 800 строк, bash-скрипт на 30 строк и cron. Весь код упрощён, домен заменён на example.com , пути на /srv/blog и /srv/www . Читать </description>
-      <pubDate>Thu, 08 Oct 2026 06:50:20 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1090862/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090862</guid>
-      <category>Все публикации подряд на Хабре</category>
+      <title>Can you trust Meta’s Muse or OpenAI’s Dots to run your life?</title>
+      <link>https://www.theverge.com/podcast/1007408/meta-muse-openai-dots-ai-agent-race-privacy-free</link>
+      <description>My Decoder guest today is Hayden Field, The Verge’s senior AI reporter, and we’re discussing the new wave of consumer-friendly AI agents. If you’ve been paying attention to this space, you know AI enthusiasts have been using agents for a minute now — homebrew OpenClaw setups led to a surge in Mac Mini sales earlier […]</description>
+      <pubDate>Thu, 08 Oct 2026 14:00:00 +0000</pubDate>
+      <guid>https://www.theverge.com/podcast/1007408/meta-muse-openai-dots-ai-agent-race-privacy-free</guid>
+      <category>The Verge</category>
     </item>
     <item>
-      <title>Как внедрить СЭД на производстве</title>
-      <link>https://habr.com/ru/companies/directum/articles/1091842/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1091842</link>
-      <description>Повседневная реальность завода состоит из бумажных накладных, отчетов, табелей, пыльных цеховых архивов на огромных площадях. При этом переход на СЭД для предприятия уже становится вопросом выживания в конкурентной среде. В статье прописали путь миграции в цифру и рассказали, как сделать его наименее болезненным. Читать далее</description>
-      <pubDate>Thu, 08 Oct 2026 06:34:02 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/directum/articles/1091842/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1091842</guid>
-      <category>Все публикации подряд на Хабре</category>
+      <title>Artificial is a wicked satire that also sticks to the facts</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1007786/artificial-is-a-wicked-satire-that-also-sticks-to-the-facts</link>
+      <description>At the New York Film Festival premiere of Artificial, Luca Guadagnino's satirical Sam Altman biopic, the director said onstage that "[when] someone wants to play God, that's very interesting to me." The idea of playing God, and power in general - who has it, who desperately wants it, and who will do anything to get […]</description>
+      <pubDate>Thu, 08 Oct 2026 14:00:00 +0000</pubDate>
+      <guid>https://www.theverge.com/ai-artificial-intelligence/1007786/artificial-is-a-wicked-satire-that-also-sticks-to-the-facts</guid>
+      <category>The Verge</category>
     </item>
     <item>
-      <title>India rejects Elon Musk’s claim of discrimination over Starlink launch</title>
-      <link>https://techcrunch.com/2026/10/07/india-rejects-elon-musks-claim-of-discrimination-over-starlink-launch/</link>
-      <description>Starlink is still awaiting security clearance before it can seek spectrum and begin commercial services in India.</description>
-      <pubDate>Thu, 08 Oct 2026 06:14:11 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/07/india-rejects-elon-musks-claim-of-discrimination-over-starlink-launch/</guid>
+      <title>Cal AI’s 19-year-old founder just raised $10M for his new AI startup</title>
+      <link>https://techcrunch.com/2026/10/08/cal-ais-19-year-old-founder-just-raised-10m-for-his-new-ai-startup/</link>
+      <description>Zach Yadegari, the teen co-founder of popular Cal AI calorie tracking app, has launched a new personal AI agent startup that competes with Instinct, Muse and Bee.</description>
+      <pubDate>Thu, 08 Oct 2026 14:00:00 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/08/cal-ais-19-year-old-founder-just-raised-10m-for-his-new-ai-startup/</guid>
       <category>TechCrunch</category>
     </item>
     <item>
-      <title>«Вдруг как в сказке навайбкодил Saas!» или что осталось за кадром успешного успеха Cal AI, Rork и Base44</title>
-      <link>https://habr.com/ru/articles/1091844/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1091844</link>
-      <description>Cal AI, Rork и Base44 выглядят как тот самый успешный успех вайбкодинга. Школьник разгоняет приложение до десятков миллионов долларов, два фаундера с долгами получают $2.8 млн инвестиций, а соло-разработчик за полгода продает продукт Wix за $80 млн. Звучит так, будто достаточно открыть Claude Code, нагенерить SaaS и ждать, когда понесут деньги. Я полез смотреть, что было за кадром. А за красивой историей: опыт, прошлые провалы, деньги, маркетинг, команда. Вайбкодинг тут только часть успешного ус</description>
-      <pubDate>Thu, 08 Oct 2026 05:59:42 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1091844/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1091844</guid>
+      <title>Усредняющие сети: как ускорить 8-битные сети почти без потери точности</title>
+      <link>https://habr.com/ru/companies/smartengines/articles/1092088/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092088</link>
+      <description>Чтобы распознать документ на смартфоне , мало хорошо обучить нейросеть читать текст. Нужно ещё добиться, чтобы она делала это быстро на процессоре самого устройства. При разработке Smart Document Engine, системы распознавания и анализа документов , мы решаем именно такие задачи: обработка должна выполняться локально, а вычислительные ресурсы ограничены. Поэтому для нас поиск более экономных способов вычисления нейронных сетей — вполне практическая задача. Один из привычных способов ускорить нейр</description>
+      <pubDate>Thu, 08 Oct 2026 13:56:10 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/smartengines/articles/1092088/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092088</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Страдают ли LLM от боли. Разбор нашумевшего препринта</title>
-      <link>https://habr.com/ru/articles/1091784/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1091784</link>
-      <description>По телеграм-каналам прокатилась очередная волна. Ученые нашли в LLM вектор боли. ИИ способен страдать. Насколько искусственен искусственный интеллект? Должны ли мы установить этические правила обращения с ИИ? Эта статья разбор того, что ученые написали на самом деле, и какие выводы из этого следуют. Читать далее</description>
-      <pubDate>Thu, 08 Oct 2026 04:37:43 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1091784/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1091784</guid>
-      <category>Все публикации подряд на Хабре</category>
+      <title>FDA-approved epilepsy drug may help reverse osteoarthritis damage</title>
+      <link>https://www.sciencedaily.com/releases/2026/10/261006234528.htm</link>
+      <description>Researchers at Yale have identified a promising new approach to osteoarthritis that could do more than simply ease pain. The epilepsy drug lacosamide appears to block a protein involved in both pain signaling and cartilage destruction, helping damaged joints shift back toward repair in preclinical studies.</description>
+      <pubDate>Thu, 08 Oct 2026 13:52:56 +0000</pubDate>
+      <guid>https://www.sciencedaily.com/releases/2026/10/261006234528.htm</guid>
+      <category>All Top News -- ScienceDaily</category>
     </item>
     <item>
-      <title>В Якутском остроге нашли старинную жалобу на священника</title>
-      <link>https://nplus1.ru/news/2026/10/08/old-letter-from-yakutsk</link>
-      <description>В 2025 году российские археологи обнаружили в Якутском остроге личное письмо, отправленное жителем Олекминского острога архимандриту Феофану, который был настоятелем якутского Спасского монастыря. В своем послании, относящемся к первой трети XVIII века, автор просит защиты и жалуется на своего соседа — священника Андрея Ядрихинского, который, по словам отправителя, не давал ему жить и совершал преступления, в том числе стрелял из лука по его слугам, свиньям, а также зарезал корову, когда отправи</description>
-      <pubDate>Thu, 08 Oct 2026 04:06:00 +0000</pubDate>
-      <guid>https://nplus1.ru/news/2026/10/08/old-letter-from-yakutsk</guid>
-      <category>N + 1 — главное издание о науке, технике и технологиях</category>
+      <title>Amazon’s new Kids Tablets let parents manage access to the Google Play store</title>
+      <link>https://www.theverge.com/tech/1007768/amazon-kids-tablet-android-kid-proof-case-google-play</link>
+      <description>Alongside its new collection of Alexa Tablets that run Android with full access to the Google Play store, Amazon is introducing kid versions with similar functionality but the ability for parents to limit what software and content they have access to. The Amazon Kids Tablets also come with two different styles of colorful cases featuring […]</description>
+      <pubDate>Thu, 08 Oct 2026 13:48:48 +0000</pubDate>
+      <guid>https://www.theverge.com/tech/1007768/amazon-kids-tablet-android-kid-proof-case-google-play</guid>
+      <category>The Verge</category>
     </item>
     <item>
-      <title>Код еще никогда не был так дешев. И еще никогда так дорого не обходился</title>
-      <link>https://habr.com/ru/articles/1091806/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1091806</link>
-      <description>За последний год в новостной ленте сложился отдельный жанр коротких историй, у которых почти всегда одинаковое начало и подозрительно похожий конец. Сначала кто-нибудь рассказывает, как за выходные собрал приложение, ни разу не открыв учебник и просто объясняя нейросети словами, чего он хочет, а через пару недель в той же ленте всплывает заметка, что из этого приложения утекли данные пользователей или что сервис лег и никто толком не понимает почему, потому что этот код из живых людей никто и не</description>
-      <pubDate>Thu, 08 Oct 2026 04:01:09 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1091806/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1091806</guid>
+      <title>FRIDA Decisions: быстро думать на русском</title>
+      <link>https://habr.com/ru/companies/sberbank/articles/1092056/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092056</link>
+      <description>FRIDA Decisions — открытая модель быстрого мышления для русского языка. Она выбирает вариант из списка, ставит оценку по шкале, отвечает «да» или «нет» и ранжирует кандидатов за один проход энкодера, без генерации текста и за десятки миллисекунд на RTX 5060 Ti. Её можно поставить везде, где сейчас LLM работает классификатором или судьёй: маршрутизация обращений, модерация, разметка данных, ранжирование для RAG. На нашем бенчмарке razvilka модель набирает 0,893 — наравне с коммерческим API TypeSa</description>
+      <pubDate>Thu, 08 Oct 2026 13:44:10 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/sberbank/articles/1092056/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092056</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
   </channel>
