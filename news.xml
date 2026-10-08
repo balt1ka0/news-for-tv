@@ -5,87 +5,87 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Thu, 08 Oct 2026 14:28:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 20:31:12 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[Перевод] Где сломался AI-агент? Как отлаживать многоэтапные воркфлоу по шагам</title>
-      <link>https://habr.com/ru/companies/otus/articles/1091962/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1091962</link>
-      <description>Многоэтапный AI-агент может выдать убедительный ответ, хотя ошибка произошла ещё в начале расследования. Найти её по итоговому результату непросто. Рассказываем, как поэтапные проверки помогли нам локализовать сбои и обнаружить баг в самом механизме оценки. Разобрать подход</description>
-      <pubDate>Thu, 08 Oct 2026 14:18:34 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/otus/articles/1091962/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1091962</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Atari is bringing back one of its earliest 8-bit home computers</title>
-      <link>https://www.theverge.com/tech/1007732/atari-console-800xl-basic-personal-computer-retro-preorder</link>
-      <description>After resurrecting iconic consoles like the 2600 and Mattel's Intellivision, Atari is relaunching one of the brand's personal computers that originally debuted 43 years ago. The 800XL is a faithful recreation of the all-in-one 8-bit PC that's being resurrected as part of a collaboration with game developer and publisher Plaion. While most retro enthusiasts will […]</description>
-      <pubDate>Thu, 08 Oct 2026 14:16:37 +0000</pubDate>
-      <guid>https://www.theverge.com/tech/1007732/atari-console-800xl-basic-personal-computer-retro-preorder</guid>
+      <title>California is trying to shut down robot vs. human cage matches</title>
+      <link>https://www.theverge.com/tech/1008401/california-shut-down-rek-fighting-robot-company-human</link>
+      <description>The California State Athletic Commission sent a cease-and-desist letter to a startup that hosted a match between a human and a robot last month, as reported by The New York Times. The fight, which took place on September 18th, pitted a human, Frankie LaPenna, against a humanoid robot owned by a tech startup, Rek, that […]</description>
+      <pubDate>Thu, 08 Oct 2026 20:06:56 +0000</pubDate>
+      <guid>https://www.theverge.com/tech/1008401/california-shut-down-rek-fighting-robot-company-human</guid>
       <category>The Verge</category>
     </item>
     <item>
-      <title>Alexa Plus is better at running my home, but it’s not ready to run my life</title>
-      <link>https://www.theverge.com/tech/1007565/amazon-alexa-plus-review-one-year-echo-show-dot-max</link>
-      <description>Of all the things Alexa Plus can do, I never expected it to make me cry. Since my son left for college, the Echo Show in my office has been making then-and-now photo montages: the toddler with his first tennis racket next to the captain of his varsity team; me hugging him as a tween […]</description>
-      <pubDate>Thu, 08 Oct 2026 14:00:22 +0000</pubDate>
-      <guid>https://www.theverge.com/tech/1007565/amazon-alexa-plus-review-one-year-echo-show-dot-max</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>Can you trust Meta’s Muse or OpenAI’s Dots to run your life?</title>
-      <link>https://www.theverge.com/podcast/1007408/meta-muse-openai-dots-ai-agent-race-privacy-free</link>
-      <description>My Decoder guest today is Hayden Field, The Verge’s senior AI reporter, and we’re discussing the new wave of consumer-friendly AI agents. If you’ve been paying attention to this space, you know AI enthusiasts have been using agents for a minute now — homebrew OpenClaw setups led to a surge in Mac Mini sales earlier […]</description>
-      <pubDate>Thu, 08 Oct 2026 14:00:00 +0000</pubDate>
-      <guid>https://www.theverge.com/podcast/1007408/meta-muse-openai-dots-ai-agent-race-privacy-free</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>Artificial is a wicked satire that also sticks to the facts</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1007786/artificial-is-a-wicked-satire-that-also-sticks-to-the-facts</link>
-      <description>At the New York Film Festival premiere of Artificial, Luca Guadagnino's satirical Sam Altman biopic, the director said onstage that "[when] someone wants to play God, that's very interesting to me." The idea of playing God, and power in general - who has it, who desperately wants it, and who will do anything to get […]</description>
-      <pubDate>Thu, 08 Oct 2026 14:00:00 +0000</pubDate>
-      <guid>https://www.theverge.com/ai-artificial-intelligence/1007786/artificial-is-a-wicked-satire-that-also-sticks-to-the-facts</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>Cal AI’s 19-year-old founder just raised $10M for his new AI startup</title>
-      <link>https://techcrunch.com/2026/10/08/cal-ais-19-year-old-founder-just-raised-10m-for-his-new-ai-startup/</link>
-      <description>Zach Yadegari, the teen co-founder of popular Cal AI calorie tracking app, has launched a new personal AI agent startup that competes with Instinct, Muse and Bee.</description>
-      <pubDate>Thu, 08 Oct 2026 14:00:00 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/08/cal-ais-19-year-old-founder-just-raised-10m-for-his-new-ai-startup/</guid>
+      <title>Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect</title>
+      <link>https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/</link>
+      <description>Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on the company’s AI safety culture.</description>
+      <pubDate>Thu, 08 Oct 2026 20:04:26 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/</guid>
       <category>TechCrunch</category>
     </item>
     <item>
-      <title>Усредняющие сети: как ускорить 8-битные сети почти без потери точности</title>
-      <link>https://habr.com/ru/companies/smartengines/articles/1092088/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092088</link>
-      <description>Чтобы распознать документ на смартфоне , мало хорошо обучить нейросеть читать текст. Нужно ещё добиться, чтобы она делала это быстро на процессоре самого устройства. При разработке Smart Document Engine, системы распознавания и анализа документов , мы решаем именно такие задачи: обработка должна выполняться локально, а вычислительные ресурсы ограничены. Поэтому для нас поиск более экономных способов вычисления нейронных сетей — вполне практическая задача. Один из привычных способов ускорить нейр</description>
-      <pubDate>Thu, 08 Oct 2026 13:56:10 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/smartengines/articles/1092088/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092088</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>FDA-approved epilepsy drug may help reverse osteoarthritis damage</title>
-      <link>https://www.sciencedaily.com/releases/2026/10/261006234528.htm</link>
-      <description>Researchers at Yale have identified a promising new approach to osteoarthritis that could do more than simply ease pain. The epilepsy drug lacosamide appears to block a protein involved in both pain signaling and cartilage destruction, helping damaged joints shift back toward repair in preclinical studies.</description>
-      <pubDate>Thu, 08 Oct 2026 13:52:56 +0000</pubDate>
-      <guid>https://www.sciencedaily.com/releases/2026/10/261006234528.htm</guid>
-      <category>All Top News -- ScienceDaily</category>
-    </item>
-    <item>
-      <title>Amazon’s new Kids Tablets let parents manage access to the Google Play store</title>
-      <link>https://www.theverge.com/tech/1007768/amazon-kids-tablet-android-kid-proof-case-google-play</link>
-      <description>Alongside its new collection of Alexa Tablets that run Android with full access to the Google Play store, Amazon is introducing kid versions with similar functionality but the ability for parents to limit what software and content they have access to. The Amazon Kids Tablets also come with two different styles of colorful cases featuring […]</description>
-      <pubDate>Thu, 08 Oct 2026 13:48:48 +0000</pubDate>
-      <guid>https://www.theverge.com/tech/1007768/amazon-kids-tablet-android-kid-proof-case-google-play</guid>
+      <title>ICE detainees in Georgia used the facility’s video calling software to expose the conditions inside</title>
+      <link>https://www.theverge.com/report/1008342/folkston-georgia-ice-detention-hunger-strike-video</link>
+      <description>Four men detained at an ICE detention center in rural Georgia used the facility's video conferencing software to expose both the conditions inside and President Donald Trump's hostile takeover of the immigration courts. In the five-minute video, the men describe an intentionally dysfunctional legal system designed to keep them trapped in federal custody for months […]</description>
+      <pubDate>Thu, 08 Oct 2026 19:45:00 +0000</pubDate>
+      <guid>https://www.theverge.com/report/1008342/folkston-georgia-ice-detention-hunger-strike-video</guid>
       <category>The Verge</category>
     </item>
     <item>
-      <title>FRIDA Decisions: быстро думать на русском</title>
-      <link>https://habr.com/ru/companies/sberbank/articles/1092056/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092056</link>
-      <description>FRIDA Decisions — открытая модель быстрого мышления для русского языка. Она выбирает вариант из списка, ставит оценку по шкале, отвечает «да» или «нет» и ранжирует кандидатов за один проход энкодера, без генерации текста и за десятки миллисекунд на RTX 5060 Ti. Её можно поставить везде, где сейчас LLM работает классификатором или судьёй: маршрутизация обращений, модерация, разметка данных, ранжирование для RAG. На нашем бенчмарке razvilka модель набирает 0,893 — наравне с коммерческим API TypeSa</description>
-      <pubDate>Thu, 08 Oct 2026 13:44:10 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/sberbank/articles/1092056/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092056</guid>
+      <title>Microsoft’s new Windows Search is exactly what Windows 11 needs</title>
+      <link>https://www.theverge.com/news/1008320/microsoft-windows-search-overhaul-windows-11</link>
+      <description>Windows Search has been one of the most frustrating parts of Windows 11, and now Microsoft is addressing this with a significant overhaul. A new redesigned Windows Search is now in testing that is much faster, more capable, and a lot more modern. "This new Windows Search experience is built for speed," says Anshul Rawat, […]</description>
+      <pubDate>Thu, 08 Oct 2026 19:30:21 +0000</pubDate>
+      <guid>https://www.theverge.com/news/1008320/microsoft-windows-search-overhaul-windows-11</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>Черная дыра искусственного интеллекта: почему инфраструктура стала главным барьером развития отрасли?</title>
+      <link>https://habr.com/ru/articles/1092192/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092192</link>
+      <description>Всем привет! На связи снова Кирилл и сегодня хотелось бы поделиться интересными новостями и предостеречь будущих адептов ИИ... Искусственный интеллект перестает быть исключительно задачей разработки моделей. Сегодня ключевые ограничения постепенно смещаются в сторону вычислительной инфраструктуры: GPU-кластеров, дата-центров, механизмов закупок оборудования, нормативного регулирования и технологической независимости. Куда мы движемся? А какие пути движения вообще есть? И что нам предстоит в конц</description>
+      <pubDate>Thu, 08 Oct 2026 19:22:43 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1092192/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092192</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>ИИ в DevOps или как мы слепо доверяем сгенерированным манифестам</title>
+      <link>https://habr.com/ru/companies/otus/articles/1088180/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1088180</link>
+      <description>ИИ может за секунды сгенерировать аккуратный Kubernetes‑манифест, который пройдет валидацию и даже успешно запустится в кластере — а проблемы проявятся уже в production. Разбираемся, почему LLM воспроизводят устаревшие и небезопасные конфигурации и как проверять сгенерированные манифесты до деплоя. Проверить манифест</description>
+      <pubDate>Thu, 08 Oct 2026 19:15:54 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/otus/articles/1088180/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1088180</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Paramount is making a Cyberpunk 2077 film</title>
+      <link>https://www.theverge.com/games/1008327/paramount-pictures-cyberpunk-2077-film-movie</link>
+      <description>Cyberpunk 2077 is heading to the big screen. Deadline reports that CD Projekt Red's popular sci-fi video game franchise is being adapted into a live-action film by Paramount Pictures. There's no details just yet on when the film might premiere. But Deadline says that Lorenzo di Bonaventura, who is known for producing the Transformers films, […]</description>
+      <pubDate>Thu, 08 Oct 2026 19:14:03 +0000</pubDate>
+      <guid>https://www.theverge.com/games/1008327/paramount-pictures-cyberpunk-2077-film-movie</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>Tim Cook says ‘I’m not meddling’ in the new Apple CEO’s business</title>
+      <link>https://www.theverge.com/news/1008279/apple-tim-cook-not-meddling-john-ternus-ceo</link>
+      <description>Tim Cook stepped down as Apple CEO in September, handing over the top job to former hardware chief John Ternus and taking an executive chairman role. Cook's still a visible representative of the company, having been recently photographed attending a state dinner at the White House. But in an interview with The Independent, Cook says […]</description>
+      <pubDate>Thu, 08 Oct 2026 18:48:36 +0000</pubDate>
+      <guid>https://www.theverge.com/news/1008279/apple-tim-cook-not-meddling-john-ternus-ceo</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>I only bought Pokémon Legends: Z-A during Prime Day, and it’s still on sale</title>
+      <link>https://www.theverge.com/gadgets/1008212/pokemon-legends-z-a-switch-deal-sale</link>
+      <description>After covering Amazon’s October sale for the last few days, only one item found its way into my shopping cart, and, lucky for you, it’s still on sale after the event’s conclusion. Pokémon Legends: Z-A for the Nintendo Switch or Switch 2 is $39.88 (usually $59.99 for Switch or $69.99 for Switch 2) at Amazon. […]</description>
+      <pubDate>Thu, 08 Oct 2026 18:48:11 +0000</pubDate>
+      <guid>https://www.theverge.com/gadgets/1008212/pokemon-legends-z-a-switch-deal-sale</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>WASM кроссбраузерность во Flutter Web на 2026</title>
+      <link>https://habr.com/ru/articles/1083398/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1083398</link>
+      <description>В мае 2024 года команда Flutter выпустила версию Flutter 22, в которой они стабилизировали поддержку WebAssembly, объединив компилятор Dart с системой сборки мусора WebAssembly — WASM GC. Примерно с этого же времени я много экспериментировал со сборками WASM и, в принципе, для широкого круга приложений они работают не хуже JavaScript, кроме двух интересных проблем. Это несовместимость данной технологии с браузерами Firefox и Safari. Я решил покопаться в этом вопросе: то есть, при чём здесь вообщ</description>
+      <pubDate>Thu, 08 Oct 2026 18:38:51 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1083398/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1083398</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
   </channel>
