@@ -5,87 +5,87 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Thu, 08 Oct 2026 00:44:12 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 07:01:51 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Ретроспектива как поход в данж: зачем команде pixel-таверна вместо доски стикеров</title>
-      <link>https://habr.com/ru/articles/1091824/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1091824</link>
-      <description>Я устал от ретро, которые существуют, чтобы существовать. Раз в две недели команда открывает Miro. Три колонки. Люди пишут то же, что на стендапе. Самый громкий через четыре минуты говорит «давайте заведём тикет». Стеснительные не пишут, потому что стикер с именем — это уже оценка. Action items живут в углу доски до следующей пятницы и исчезают без носителя. Фасилитатор чувствует вину, что «не хватило энергии», и в следующий раз приносит новую рамку: wow/now/how , sailboat , 4Ls . Рамка меняется</description>
-      <pubDate>Thu, 08 Oct 2026 00:33:15 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1091824/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1091824</guid>
+      <title>Потолок на 800 Вт и окна по расписанию: как устроена умная квартира на 175 м²</title>
+      <link>https://habr.com/ru/companies/wirenboard/articles/1091772/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1091772</link>
+      <description>Окна открываются по расписанию, ночная подсветка загорается на 10% яркости, а настенные клавиши работают даже при выключенном контроллере. В квартире площадью около 175 м² интегратор объединил проводную автоматику и беспроводные устройства, а владельцу оставил возможность самому менять сценарии. Заглянем в щит, разберем световой потолок на 800 Вт и посмотрим, какие задачи решает автоматика после переезда — и что еще предстоит настроить. Читать далее</description>
+      <pubDate>Thu, 08 Oct 2026 07:00:21 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/wirenboard/articles/1091772/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1091772</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Robot data startup Mecka AI nabs $60M from Sequoia</title>
-      <link>https://techcrunch.com/2026/10/07/robot-data-startup-mecka-ai-nabs-60m-from-sequoia/</link>
-      <description>Mecka AI collects and analyzes human motion data to train humanoid robots and other kinds of robots. The startup pays people to record everyday tasks.</description>
-      <pubDate>Wed, 07 Oct 2026 23:36:57 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/07/robot-data-startup-mecka-ai-nabs-60m-from-sequoia/</guid>
+      <title>Кинематографическая простота Геннадия Шпаликова</title>
+      <link>https://habr.com/ru/articles/1090246/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090246</link>
+      <description>С помощью Python исследовал творчество Геннадия Шпаликова и установил, как поэт достигает "кинематографической простоты" своей поэзии. Читать далее</description>
+      <pubDate>Thu, 08 Oct 2026 07:00:21 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1090246/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090246</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Дайджест ИБ-регулирования. Июль–сентябрь 2026</title>
+      <link>https://habr.com/ru/companies/searchinform/articles/1091854/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1091854</link>
+      <description>Публикуем традиционный ежеквартальный дайджест регуляторных инициатив. В этом выпуске – новое за июль-сентябрь: ФСТЭК готовит замену приказу № 21, вводит правила для ИИ в госсистемах и методику оценки ИБ-зрелости, Минтруд утвердил профстандарт для ИБ-специалистов КИИ, а московский суд впервые признал утечкой передачу данных в ИИ-сервис. Читать далее</description>
+      <pubDate>Thu, 08 Oct 2026 07:00:08 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/searchinform/articles/1091854/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1091854</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Блог на автопилоте: markdown в статику, выход статьи по дате и пинг в IndexNow только для новых страниц</title>
+      <link>https://habr.com/ru/articles/1090862/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090862</link>
+      <description>У меня блог на 78 markdown-файлах, и руками я его не публикую уже больше недели. Статья выходит, когда наступает дата в её шапке: сборщик в тот день включает её в сайт, сервер замечает новую страницу, пишет о ней поисковику и обновляет sitemap с RSS. Ниже разбираю, как это собрано, и три места, где всё ломалось. Фреймворка тут нет, только один Python-файл примерно на 800 строк, bash-скрипт на 30 строк и cron. Весь код упрощён, домен заменён на example.com , пути на /srv/blog и /srv/www . Читать </description>
+      <pubDate>Thu, 08 Oct 2026 06:50:20 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1090862/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090862</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Как внедрить СЭД на производстве</title>
+      <link>https://habr.com/ru/companies/directum/articles/1091842/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1091842</link>
+      <description>Повседневная реальность завода состоит из бумажных накладных, отчетов, табелей, пыльных цеховых архивов на огромных площадях. При этом переход на СЭД для предприятия уже становится вопросом выживания в конкурентной среде. В статье прописали путь миграции в цифру и рассказали, как сделать его наименее болезненным. Читать далее</description>
+      <pubDate>Thu, 08 Oct 2026 06:34:02 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/directum/articles/1091842/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1091842</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>India rejects Elon Musk’s claim of discrimination over Starlink launch</title>
+      <link>https://techcrunch.com/2026/10/07/india-rejects-elon-musks-claim-of-discrimination-over-starlink-launch/</link>
+      <description>Starlink is still awaiting security clearance before it can seek spectrum and begin commercial services in India.</description>
+      <pubDate>Thu, 08 Oct 2026 06:14:11 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/07/india-rejects-elon-musks-claim-of-discrimination-over-starlink-launch/</guid>
       <category>TechCrunch</category>
     </item>
     <item>
-      <title>While VCs crowd into San Francisco, Endeavor Catalyst raises $320M for founders ‘elsewhere’</title>
-      <link>https://techcrunch.com/2026/10/07/while-vcs-crowd-into-san-francisco-endeavor-catalyst-raises-320m-for-founders-elsewhere/</link>
-      <description>Endeavor Catalyst just raised $320 million to keep backing founders outside Silicon Valley. Half the profits go back to the nonprofit that finds them.</description>
-      <pubDate>Wed, 07 Oct 2026 22:59:16 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/07/while-vcs-crowd-into-san-francisco-endeavor-catalyst-raises-320m-for-founders-elsewhere/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>Claude Code на Windows: что я прописал агенту, чтобы он перестал спотыкаться</title>
-      <link>https://habr.com/ru/articles/1091814/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1091814</link>
-      <description>Большая часть материалов про Claude Code написана под macOS и Linux. У меня часть задач завязана на Windows, в первую очередь браузерная автоматизация с живыми профилями Chrome, поэтому агент работает прямо в нативном окружении, без WSL. Сам Claude Code под Windows ведёт себя стабильно. Проблемы возникают на стыке с окружением: PowerShell 5.1, кодировки, имена процессов, PATH. Каждую такую мелочь я в итоге записывал агенту в память, чтобы он больше не наступал туда же. Набралось пять штук, плюс </description>
-      <pubDate>Wed, 07 Oct 2026 22:02:57 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1091814/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1091814</guid>
+      <title>«Вдруг как в сказке навайбкодил Saas!» или что осталось за кадром успешного успеха Cal AI, Rork и Base44</title>
+      <link>https://habr.com/ru/articles/1091844/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1091844</link>
+      <description>Cal AI, Rork и Base44 выглядят как тот самый успешный успех вайбкодинга. Школьник разгоняет приложение до десятков миллионов долларов, два фаундера с долгами получают $2.8 млн инвестиций, а соло-разработчик за полгода продает продукт Wix за $80 млн. Звучит так, будто достаточно открыть Claude Code, нагенерить SaaS и ждать, когда понесут деньги. Я полез смотреть, что было за кадром. А за красивой историей: опыт, прошлые провалы, деньги, маркетинг, команда. Вайбкодинг тут только часть успешного ус</description>
+      <pubDate>Thu, 08 Oct 2026 05:59:42 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1091844/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1091844</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>BMW’s iX4 SUV is a 428-mile defensive weapon against China’s EV takeover</title>
-      <link>https://www.theverge.com/transportation/1006837/bmw-ix4-ev-range-price-specs-tesla-china</link>
-      <description>While much of the automotive world sits dumbfounded as China gobbles up all its customers, BMW continues to roll out extremely well-crafted, technologically advanced electric vehicles that impress in both drive quality and price. The latest is the BMW iX4, a coupe-shaped SUV that puts a sportier spin on the automaker's iX3. The iX4 is […]</description>
-      <pubDate>Wed, 07 Oct 2026 22:01:00 +0000</pubDate>
-      <guid>https://www.theverge.com/transportation/1006837/bmw-ix4-ev-range-price-specs-tesla-china</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>[Перевод] IceCube, высокоэнергетические нейтрино и Фрэнсис Халцен, лауреат Нобелевской премии по физике 2026 года</title>
-      <link>https://habr.com/ru/articles/1091782/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1091782</link>
-      <description>Итан Сигел (американский астрофизик‑теоретик и научный журналист, автор рубрики «Спросите Итана», один из пропагандистов современных научных знаний), спешит рассказать подробнее, за что дали Нобелевскую премию по физике 2026 года, причем одному-единственному человеку, Фрэнсису Халцену. @avshkol , в свою очередь, оперативно перевел эту статью, поскольку мы наблюдаем действительно редкий случай: один лауреат, и не за научное открытие, а за постановку очень сложного эксперимента, да ещё он был дале</description>
-      <pubDate>Wed, 07 Oct 2026 21:55:18 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1091782/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1091782</guid>
+      <title>Страдают ли LLM от боли. Разбор нашумевшего препринта</title>
+      <link>https://habr.com/ru/articles/1091784/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1091784</link>
+      <description>По телеграм-каналам прокатилась очередная волна. Ученые нашли в LLM вектор боли. ИИ способен страдать. Насколько искусственен искусственный интеллект? Должны ли мы установить этические правила обращения с ИИ? Эта статья разбор того, что ученые написали на самом деле, и какие выводы из этого следуют. Читать далее</description>
+      <pubDate>Thu, 08 Oct 2026 04:37:43 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1091784/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1091784</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Проблема ворот</title>
-      <link>https://habr.com/ru/articles/1091276/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1091276</link>
-      <description>В предыдущих статьях я уже немного затронул тему правильного обмана игрока, через койоттайм и подкручивание стрельбы . Смотря на эти случаи, вы наверное заметили, что хороший игровой код довольно часто занимается построением модели мира которая будет достаточно хорошо совпадать с тем, что человек ожидает от игры. С навигацией в играх приходится хачить не меньше, и приходится разбираться уже не со временем прыжка и физическим состоянием персонажа в понимании игрока, а с набором полигонов, узлов, </description>
-      <pubDate>Wed, 07 Oct 2026 21:23:25 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1091276/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1091276</guid>
-      <category>Все публикации подряд на Хабре</category>
+      <title>В Якутском остроге нашли старинную жалобу на священника</title>
+      <link>https://nplus1.ru/news/2026/10/08/old-letter-from-yakutsk</link>
+      <description>В 2025 году российские археологи обнаружили в Якутском остроге личное письмо, отправленное жителем Олекминского острога архимандриту Феофану, который был настоятелем якутского Спасского монастыря. В своем послании, относящемся к первой трети XVIII века, автор просит защиты и жалуется на своего соседа — священника Андрея Ядрихинского, который, по словам отправителя, не давал ему жить и совершал преступления, в том числе стрелял из лука по его слугам, свиньям, а также зарезал корову, когда отправи</description>
+      <pubDate>Thu, 08 Oct 2026 04:06:00 +0000</pubDate>
+      <guid>https://nplus1.ru/news/2026/10/08/old-letter-from-yakutsk</guid>
+      <category>N + 1 — главное издание о науке, технике и технологиях</category>
     </item>
     <item>
-      <title>Teenage Engineering’s CEO says it’ll stop making synths</title>
-      <link>https://www.theverge.com/gadgets/1007489/teengage-engineering-stop-making-synths</link>
-      <description>Teenage Engineering founder and CEO Jesper Kouthoofd told Highsnobiety that it plans to stop making synths. And yes, that includes the iconic OP-1, which put the company on the map. TE isn't just a music gear maker; it's also a sought-after design firm. It's collaborated with Ikea, Nothing, and Playdate, among others. But almost everything […]</description>
-      <pubDate>Wed, 07 Oct 2026 21:19:54 +0000</pubDate>
-      <guid>https://www.theverge.com/gadgets/1007489/teengage-engineering-stop-making-synths</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>Финальный отчет по проекту фотобиореактора 435nm. Биотехнологическая повесть с картинками</title>
-      <link>https://habr.com/ru/articles/1091790/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1091790</link>
-      <description>Данная статья подводит итоги проекта 435nm, в рамках которого за десять лет был создан прототип биологической системы жизнеобеспечения на микроводорослях. В статье описана причина появления проекта, даны основные этапы его развития, рассказано о решенных и нерешенных технических, биологических и организационных проблемах, приведен список участников проекта на разных стадиях и намечены перспективы развития этого направления. Цель написания этой статьи - поделиться нашим опытом создания фотобиореа</description>
-      <pubDate>Wed, 07 Oct 2026 21:05:35 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1091790/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1091790</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Как сделать GeoAI-агента, который ищет пожары и отправляет к этим местам пожарные расчеты и дроны</title>
-      <link>https://habr.com/ru/articles/1091794/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1091794</link>
-      <description>Как сделать GeoAI-агента, который сам из космоса ищет пожары и отправляет к этим местам пожарные расчеты и беспилотные летательные аппараты. Fire Monitor (Стрела) - это умная система мониторинга лесных пожаров, которой управляет полноценный GeoAI-агент. Она сама собирает термоточки со спутников VIIRS и MODIS, оценивает масштабы выгорания территории по снимкам Santinel-2, строит маршруты от ближайших пожарных частей к очагу по дорожной сети для пожарных машин и даже рассчитывает траектории (галсы</description>
-      <pubDate>Wed, 07 Oct 2026 21:01:04 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1091794/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1091794</guid>
+      <title>Код еще никогда не был так дешев. И еще никогда так дорого не обходился</title>
+      <link>https://habr.com/ru/articles/1091806/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1091806</link>
+      <description>За последний год в новостной ленте сложился отдельный жанр коротких историй, у которых почти всегда одинаковое начало и подозрительно похожий конец. Сначала кто-нибудь рассказывает, как за выходные собрал приложение, ни разу не открыв учебник и просто объясняя нейросети словами, чего он хочет, а через пару недель в той же ленте всплывает заметка, что из этого приложения утекли данные пользователей или что сервис лег и никто толком не понимает почему, потому что этот код из живых людей никто и не</description>
+      <pubDate>Thu, 08 Oct 2026 04:01:09 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1091806/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1091806</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
   </channel>
