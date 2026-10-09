@@ -5,9 +5,65 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Thu, 08 Oct 2026 20:31:12 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 01:00:25 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>От одного компьютера до глобальной эпидемии: как WannaCry распространялся по сети</title>
+      <link>https://habr.com/ru/articles/1092226/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092226</link>
+      <description>12 мая 2017 года компьютеры по всему миру начали блокировать доступ к файлам и требовать выкуп. Больницы отменяли приёмы, предприятия останавливали производство, а WannaCry продолжал искать новые цели. Ему не нужно было ждать, пока пользователь откроет письмо или запустит заражённый файл: один успешно заражённый компьютер мог стать началом цепочки новых заражений. Как программа находила другие компьютеры? Почему уязвимость, для которой уже существовало обновление, всё ещё оставалась угрозой? И к</description>
+      <pubDate>Fri, 09 Oct 2026 00:15:39 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1092226/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092226</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>President Trump awards Big Tech donors with nation’s highest science prizes</title>
+      <link>https://techcrunch.com/2026/10/08/president-trump-awards-big-tech-donors-with-nations-highest-science-prizes/</link>
+      <description>Together, the awardees have donated nearly $6 billion to efforts tied to Trump and his administration.</description>
+      <pubDate>Thu, 08 Oct 2026 22:33:59 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/08/president-trump-awards-big-tech-donors-with-nations-highest-science-prizes/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>US plans livestream of execution by firing squad</title>
+      <link>https://www.theverge.com/tech/1008530/us-government-livestream-execution-firing-squad-fort-hood</link>
+      <description>The United States' execution of the Fort Hood shooter will be livestreamed, anonymous officials from the Defense Department told the BBC and Associated Press. The planned execution of Nidal Hasan, the former US Army major convicted of killing 13 people at the Texas military base, was announced this week. He is scheduled to be executed […]</description>
+      <pubDate>Thu, 08 Oct 2026 22:32:04 +0000</pubDate>
+      <guid>https://www.theverge.com/tech/1008530/us-government-livestream-execution-firing-squad-fort-hood</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>Anthropic launches free AI security scans for open-source projects</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner</link>
+      <description>Anthropic's offering to help open-source projects track down security vulnerabilities with a new service called OSS Scanner. It says open-source projects that opt-in will get "thorough, periodic security scans by our strongest models at no cost." That could mean open-source projects get alerted about possible security issues sooner, but the trade-off is that OSS Scanner's […]</description>
+      <pubDate>Thu, 08 Oct 2026 21:53:51 +0000</pubDate>
+      <guid>https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>SpaceX announces plan to become a ‘major mobile carrier’</title>
+      <link>https://www.theverge.com/science/1008467/spacex-announces-plan-to-become-a-major-mobile-carrier</link>
+      <description>SpaceX has acquired a portfolio of low-band spectrum licenses - a move the company says "will pave the way" for its Starlink Mobile service to become a "major" US carrier. When the Federal Communications Commission signs off on the deal, SpaceX says it will deploy its new architecture that combines its satellite-to-mobile constellation with a […]</description>
+      <pubDate>Thu, 08 Oct 2026 21:23:31 +0000</pubDate>
+      <guid>https://www.theverge.com/science/1008467/spacex-announces-plan-to-become-a-major-mobile-carrier</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website</title>
+      <link>https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/</link>
+      <description>With over a thousand emails, slides, texts, and documents from the United States v. Elizabeth Holmes trial, Extend engineer Bo Lau created a website that simulates what it might have been like to rifle through the Theranos founder's desk.</description>
+      <pubDate>Thu, 08 Oct 2026 21:00:00 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>Apple will reportedly debut its first touchscreen MacBook in three weeks</title>
+      <link>https://www.theverge.com/tech/1008422/apple-macbook-pro-touchscreen-ipad-mini-rumor</link>
+      <description>Apple is set to introduce a new MacBook Pro with a touchscreen and an updated iPad Mini "on or around" October 27th, Bloomberg reports. If true, that would put the event just two weeks after the October 13th event Apple announced today, which is rumored to focus on smart home products. Bloomberg says that the […]</description>
+      <pubDate>Thu, 08 Oct 2026 20:32:21 +0000</pubDate>
+      <guid>https://www.theverge.com/tech/1008422/apple-macbook-pro-touchscreen-ipad-mini-rumor</guid>
+      <category>The Verge</category>
+    </item>
     <item>
       <title>California is trying to shut down robot vs. human cage matches</title>
       <link>https://www.theverge.com/tech/1008401/california-shut-down-rek-fighting-robot-company-human</link>
@@ -31,62 +87,6 @@
       <pubDate>Thu, 08 Oct 2026 19:45:00 +0000</pubDate>
       <guid>https://www.theverge.com/report/1008342/folkston-georgia-ice-detention-hunger-strike-video</guid>
       <category>The Verge</category>
-    </item>
-    <item>
-      <title>Microsoft’s new Windows Search is exactly what Windows 11 needs</title>
-      <link>https://www.theverge.com/news/1008320/microsoft-windows-search-overhaul-windows-11</link>
-      <description>Windows Search has been one of the most frustrating parts of Windows 11, and now Microsoft is addressing this with a significant overhaul. A new redesigned Windows Search is now in testing that is much faster, more capable, and a lot more modern. "This new Windows Search experience is built for speed," says Anshul Rawat, […]</description>
-      <pubDate>Thu, 08 Oct 2026 19:30:21 +0000</pubDate>
-      <guid>https://www.theverge.com/news/1008320/microsoft-windows-search-overhaul-windows-11</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>Черная дыра искусственного интеллекта: почему инфраструктура стала главным барьером развития отрасли?</title>
-      <link>https://habr.com/ru/articles/1092192/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092192</link>
-      <description>Всем привет! На связи снова Кирилл и сегодня хотелось бы поделиться интересными новостями и предостеречь будущих адептов ИИ... Искусственный интеллект перестает быть исключительно задачей разработки моделей. Сегодня ключевые ограничения постепенно смещаются в сторону вычислительной инфраструктуры: GPU-кластеров, дата-центров, механизмов закупок оборудования, нормативного регулирования и технологической независимости. Куда мы движемся? А какие пути движения вообще есть? И что нам предстоит в конц</description>
-      <pubDate>Thu, 08 Oct 2026 19:22:43 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1092192/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092192</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>ИИ в DevOps или как мы слепо доверяем сгенерированным манифестам</title>
-      <link>https://habr.com/ru/companies/otus/articles/1088180/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1088180</link>
-      <description>ИИ может за секунды сгенерировать аккуратный Kubernetes‑манифест, который пройдет валидацию и даже успешно запустится в кластере — а проблемы проявятся уже в production. Разбираемся, почему LLM воспроизводят устаревшие и небезопасные конфигурации и как проверять сгенерированные манифесты до деплоя. Проверить манифест</description>
-      <pubDate>Thu, 08 Oct 2026 19:15:54 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/otus/articles/1088180/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1088180</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Paramount is making a Cyberpunk 2077 film</title>
-      <link>https://www.theverge.com/games/1008327/paramount-pictures-cyberpunk-2077-film-movie</link>
-      <description>Cyberpunk 2077 is heading to the big screen. Deadline reports that CD Projekt Red's popular sci-fi video game franchise is being adapted into a live-action film by Paramount Pictures. There's no details just yet on when the film might premiere. But Deadline says that Lorenzo di Bonaventura, who is known for producing the Transformers films, […]</description>
-      <pubDate>Thu, 08 Oct 2026 19:14:03 +0000</pubDate>
-      <guid>https://www.theverge.com/games/1008327/paramount-pictures-cyberpunk-2077-film-movie</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>Tim Cook says ‘I’m not meddling’ in the new Apple CEO’s business</title>
-      <link>https://www.theverge.com/news/1008279/apple-tim-cook-not-meddling-john-ternus-ceo</link>
-      <description>Tim Cook stepped down as Apple CEO in September, handing over the top job to former hardware chief John Ternus and taking an executive chairman role. Cook's still a visible representative of the company, having been recently photographed attending a state dinner at the White House. But in an interview with The Independent, Cook says […]</description>
-      <pubDate>Thu, 08 Oct 2026 18:48:36 +0000</pubDate>
-      <guid>https://www.theverge.com/news/1008279/apple-tim-cook-not-meddling-john-ternus-ceo</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>I only bought Pokémon Legends: Z-A during Prime Day, and it’s still on sale</title>
-      <link>https://www.theverge.com/gadgets/1008212/pokemon-legends-z-a-switch-deal-sale</link>
-      <description>After covering Amazon’s October sale for the last few days, only one item found its way into my shopping cart, and, lucky for you, it’s still on sale after the event’s conclusion. Pokémon Legends: Z-A for the Nintendo Switch or Switch 2 is $39.88 (usually $59.99 for Switch or $69.99 for Switch 2) at Amazon. […]</description>
-      <pubDate>Thu, 08 Oct 2026 18:48:11 +0000</pubDate>
-      <guid>https://www.theverge.com/gadgets/1008212/pokemon-legends-z-a-switch-deal-sale</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>WASM кроссбраузерность во Flutter Web на 2026</title>
-      <link>https://habr.com/ru/articles/1083398/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1083398</link>
-      <description>В мае 2024 года команда Flutter выпустила версию Flutter 22, в которой они стабилизировали поддержку WebAssembly, объединив компилятор Dart с системой сборки мусора WebAssembly — WASM GC. Примерно с этого же времени я много экспериментировал со сборками WASM и, в принципе, для широкого круга приложений они работают не хуже JavaScript, кроме двух интересных проблем. Это несовместимость данной технологии с браузерами Firefox и Safari. Я решил покопаться в этом вопросе: то есть, при чём здесь вообщ</description>
-      <pubDate>Thu, 08 Oct 2026 18:38:51 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1083398/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1083398</guid>
-      <category>Все публикации подряд на Хабре</category>
     </item>
   </channel>
 </rss>
