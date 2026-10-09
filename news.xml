@@ -5,87 +5,87 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Fri, 09 Oct 2026 15:00:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 20:00:51 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Один кабинет вместо пяти сервисов: зачем я делаю 121ai для тех, кто работает 1-на-1</title>
-      <link>https://habr.com/ru/articles/1092446/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092446</link>
-      <description>В прошлых статьях я писал про свой путь в IT, а теперь хочу рассказать про свой проект, с кем еще не знаком, то давайте знакомиться. Меня зовут Денис, я 22 года в IT: прошёл путь от разработчика до руководителя группы разработки. Много лет строю команды, наставляю людей и внедряю автоматизацию, в том числе на базе AI. Поэтому, когда моя супруга, коуч ICF и системный аналитик с 18-летним опытом в IT, показала мне, сколько времени у "помогающих" специалистов уходит на всё вокруг самой сессии, я ср</description>
-      <pubDate>Fri, 09 Oct 2026 15:00:18 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1092446/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092446</guid>
+      <title>WASM vs JavaScript 2026 — проверка на Flutter Web</title>
+      <link>https://habr.com/ru/articles/1092606/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092606</link>
+      <description>Когда мы апгрейдим процессор или видеокарту и начинаем играть в привычную нам игрушку с новым железом, то увеличение производительности на некоторое количество процентов становится сразу же заметным. Например, увеличение производительности заметно уже с 5 процентов, если дело касается FPS в какой-то игре. 10 процентов — более заметно, 15 процентов — ещё заметнее. А увеличение производительности на 50 процентов не заметить практически невозможно. Примерно так же я смотрел на отрисовку интерфейса </description>
+      <pubDate>Fri, 09 Oct 2026 19:46:15 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1092606/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092606</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Markdown, который вы не замечали: от двух пробелов до интерактивной статьи</title>
-      <link>https://habr.com/ru/articles/1091602/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1091602</link>
-      <description>Я собирался написать статью про Markdown. В процессе внутри документа оказался Doom. Разбираемся, почему два пробела меняют перенос строки, обратные кавычки не всегда спасают таблицу, а один .md по-разному выглядит на Хабре и GitHub. Прямо в статье можно менять разметку в лаборатории, решать задания и проверять результат. Есть GIF, вложенные спойлеры, маленький квест и разбор того, как упаковать ресурсы Doom в Markdown — и что на самом деле запускает игру. Читать и экспериментировать</description>
-      <pubDate>Fri, 09 Oct 2026 15:00:18 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1091602/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1091602</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Beyond TechCrunch Disrupt 2026: The Side Events, Parties &amp; Networking You Can’t Miss</title>
-      <link>https://techcrunch.com/2026/10/09/beyond-techcrunch-disrupt-2026-the-side-events-parties-networking-you-cant-miss/</link>
-      <description>TechCrunch Disrupt 2026 is just the beginning. From exclusive networking events and startup showcases to happy hours, dinners, and after-hours meetups, discover what’s happening across San Francisco during Disrupt Week, October 10–16. Find your next connection, your next opportunity, or your next favorite event.</description>
-      <pubDate>Fri, 09 Oct 2026 14:42:34 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/09/beyond-techcrunch-disrupt-2026-the-side-events-parties-networking-you-cant-miss/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>Как создать ИИ-бота ВК на ChatGPT за 10 минут: пошаговая инструкция без кода</title>
-      <link>https://habr.com/ru/companies/gptunnel/articles/1092536/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092536</link>
-      <description>«Сколько стоит?», «А в другом цвете есть?», «До скольки вы работаете?», «Как оформить возврат?». Если вы ведёте сообщество с живой аудиторией, то эти вопросы уже читали наизусть. И отвечали на них раз сто. Каждый раз с нуля, потому что копипаст выглядит холодно. Есть способ передать эту рутину тому, кто не устаёт: ИИ-бот с нейросетью внутри. Он мгновенно консультирует по товарам, записывает на услуги, разбирает частые вопросы и говорит ровно тем тоном, который вы ему зададите. Хорошая новость: ч</description>
-      <pubDate>Fri, 09 Oct 2026 14:28:05 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/gptunnel/articles/1092536/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092536</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Trump’s attempt to rename AI is looking awfully artificial</title>
-      <link>https://www.theverge.com/policy/1008677/trump-super-intelligence-ai-rebranding</link>
-      <description>President Donald Trump has a knack for turning words against his enemies. His first successful presidential run was built on monikers like "Little Marco" and "Crooked Hillary"; he changed "fake news" from a phrase describing scammy media outlets to a derogatory term for the press at large. Over the past few weeks, he's clearly decided […]</description>
-      <pubDate>Fri, 09 Oct 2026 14:25:43 +0000</pubDate>
-      <guid>https://www.theverge.com/policy/1008677/trump-super-intelligence-ai-rebranding</guid>
+      <title>Ohio blogger found guilty of harassment for sending Shrek nude to senator</title>
+      <link>https://www.theverge.com/policy/1008991/ohio-blogger-harassment-shrek-nude</link>
+      <description>A jury found an Ohio political blogger guilty of telecommunications harassment after he sent an explicit image of Shrek to a Republican state senator. On Friday, a judge ordered DJ Byrnes, owner of political commentary blog The Rooster, to pay a $200 fine, according to a report from the Columbus Dispatch. Byrnes texted Ohio Sen. […]</description>
+      <pubDate>Fri, 09 Oct 2026 19:41:11 +0000</pubDate>
+      <guid>https://www.theverge.com/policy/1008991/ohio-blogger-harassment-shrek-nude</guid>
       <category>The Verge</category>
     </item>
     <item>
-      <title>Обновления GigaIDE за сентябрь 2026</title>
-      <link>https://habr.com/ru/companies/sberbank/articles/1091448/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1091448</link>
-      <description>Как и в предыдущие месяцы , по итогам сентября мы решили рассказать про то, как изменилась GigaIDE за прошедший месяц. Ниже — краткий обзор обновлений Pro-функциональности GigaIDE, которую можно найти на нашем маркетплейсе . Читать далее</description>
-      <pubDate>Fri, 09 Oct 2026 14:15:58 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/sberbank/articles/1091448/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1091448</guid>
+      <title>An Anthropic AI model sent a false homicide tip to Philadelphia police</title>
+      <link>https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/</link>
+      <description>Anthropic did not discover this behavior until over two months after its AI submitted the false tip.</description>
+      <pubDate>Fri, 09 Oct 2026 19:36:56 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>[Перевод] Дэвид Уоллес о стреле времени (интервью)</title>
+      <link>https://habr.com/ru/articles/1092604/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092604</link>
+      <description>Стрела времени - все различия между прошлым и будущим - увлекательная тема, потому что она связывает повседневные явления (память, старение, причинно-следственные связи) с глубокими вопросами физики и философии. В её основе лежит тот факт, что энтропия со временем возрастает, а это, в свою очередь, можно проследить до особых условий в ранней Вселенной. Дэвид Уоллес - один из ведущих мировых философов, занимающихся основаниями физики, включая пространство и время, а также квантовую механику. Мы о</description>
+      <pubDate>Fri, 09 Oct 2026 19:21:01 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1092604/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092604</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Компьютер без Windows и Linux: как Huawei строит собственную экосистему ПК</title>
-      <link>https://habr.com/ru/companies/ru_mts/articles/1092440/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092440</link>
-      <description>Привет, Хабр! Китайская компания Huawei добралась до настольных ПК с собственной операционкой. Недавно корпорация представила HM650 на HarmonyOS. Новинка предназначена для офисов и госучреждений, продажи обещали начать в октябре 2026 года. Внутри заявлен Kirin X90, тоже собственного производства. Вообще говоря, корпорация в течение несколько лет собирает связку из своего железа, инструментов разработки и магазина приложений. Похоже, это финальный этап. Давайте посмотрим, что сейчас представляет </description>
-      <pubDate>Fri, 09 Oct 2026 14:11:31 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/ru_mts/articles/1092440/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092440</guid>
+      <title>Площадка недоступна, сроков восстановления нет: как спроектировать DR, который переживёт потерю ключевого ЦОДа</title>
+      <link>https://habr.com/ru/companies/hstx/articles/1092602/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092602</link>
+      <description>В ночь на 8 октября в Yandex Cloud потеряла электропитание зона доступности ru-central1-b — один из ключевых дата-центров облака. К утру компания сообщила, что работа дата-центра полностью остановлена. Жалобы на сбои начали поступать от пользователей самых разных сервисов: сайтов объявлений вроде «Авито» и «ЦИАН», банков, транспортных порталов, ритейла и других. Утром 9 октября были полностью выведены из строя несколько модулей ещё одного дата-центра Яндекса, в Калуге. На момент подготовки стать</description>
+      <pubDate>Fri, 09 Oct 2026 19:16:56 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/hstx/articles/1092602/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092602</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Особенности разработки встраиваемого программного обеспечения. Часть 2</title>
-      <link>https://habr.com/ru/articles/1092518/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092518</link>
-      <description>В предыдущей части статьи я рассказал об особенностях реализации многозадачности для ВПО. Однако, какой бы ни был выбран подход к многозадачности, архитектура самих задач напрямую влияет на эффективность работы всей встраиваемой системы. Для достижения оптимальной работы системы, задачи необходимо проектировать по принципу эффективного использования процессорного времени . Т.е. задача должна использовать процессорное время исключительно для полезной нагрузки. Данный принцип выполняет 2 основные </description>
-      <pubDate>Fri, 09 Oct 2026 14:01:36 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1092518/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092518</guid>
+      <title>‘Pure insanity’: Mathematicians will need years to make sense of OpenAI’s latest drop</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos</link>
+      <description>"Staggering." "Overwhelming." "Unprecedented." "Surreal." "Pure insanity." Those were among the descriptions more than three dozen mathematicians reached for in conversations with The Verge as they tried to make sense of the flood of mathematical results OpenAI abruptly dropped on the field this week. Amid the awe, excitement, and uncertainty over the sheer scale of the […]</description>
+      <pubDate>Fri, 09 Oct 2026 19:09:44 +0000</pubDate>
+      <guid>https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>Batteries are now cheaper than natural gas turbines used at many data centers</title>
+      <link>https://techcrunch.com/2026/10/09/batteries-are-now-cheaper-than-natural-gas-turbines-used-at-many-data-centers/</link>
+      <description>Batteries are now cheaper than natural gas turbines as the data center boom pushes prices up.</description>
+      <pubDate>Fri, 09 Oct 2026 18:57:58 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/09/batteries-are-now-cheaper-than-natural-gas-turbines-used-at-many-data-centers/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>Brendan Carr says he’ll let Pete Hegseth decide whether TV networks can air the public execution</title>
+      <link>https://www.theverge.com/policy/1008950/fcc-brendan-carr-pete-hegseth-execution-tv-networks-air</link>
+      <description>FCC chairman Brendan Carr said he will defer to Secretary of Defense Pete Hegseth on whether TV networks can air the planned execution of convicted Fort Hood shooter Nidal Hasan by firing squad. The Pentagon has said the execution will be livestreamed, suggesting it'll appear on an online platform beyond the FCC's jurisdiction. But it's […]</description>
+      <pubDate>Fri, 09 Oct 2026 18:30:48 +0000</pubDate>
+      <guid>https://www.theverge.com/policy/1008950/fcc-brendan-carr-pete-hegseth-execution-tv-networks-air</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>Создание собственной библиотеки на Python, или же как я создал свою библиотеку баз данных GibridDB. Часть I</title>
+      <link>https://habr.com/ru/articles/1092592/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092592</link>
+      <description>Дорогие читатели Давно я не делился с вами новостями о своей текущей деятельности, и вот наконец настал момент восполнить этот пробел. Сегодня мы затронем увлекательную и важную тему — создание библиотек для Python. В рамках нашего эксперимента мы пройдем путь от теоретических основ до практического применения. Мы детально разберем особенности разработки собственных библиотек и посмотрим, как абстрактные концепции превращаются в работающий инструмент. Введение Итак, все мы прекрасно знаем язык п</description>
+      <pubDate>Fri, 09 Oct 2026 18:12:47 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1092592/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092592</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Призраки в системе управления уязвимостями: как идентификация, слияние и история активов спасают от аномалий</title>
-      <link>https://habr.com/ru/companies/pt/articles/1092214/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092214</link>
-      <description>Каждый актив в инфраструктуре проходит свой жизненный цикл: он появляется, функционирует, а со временем выводится из эксплуатации. Новые активы часто создаются как копии существующих, но со временем обрастают уникальными особенностями. Из-за постоянных изменений в инфраструктуре возникают аномалии данных: дубликаты, «склейки» и цифровые призраки — активы, которых уже нет, но они продолжают числиться в системе. Чтобы справиться с этой проблемой, нужно решить три нетривиальные задачи: сопоставить </description>
-      <pubDate>Fri, 09 Oct 2026 14:00:06 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/pt/articles/1092214/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092214</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Instinct was the buzziest AI agent around — can it survive Muse?</title>
-      <link>https://www.theverge.com/tech/1008254/instinct-agent-ai-hands-on-muse-dots</link>
-      <description>Before there were cute little guys, there was Instinct. In August, the startup got its AI agent to market with an unusual playbook: invite-only, no marketing, and barely so much as a website. And yet, Instinct quickly became the buzziest thing in AI, garnering praise for its straightforward, text message-based interface and its ability to […]</description>
-      <pubDate>Fri, 09 Oct 2026 14:00:00 +0000</pubDate>
-      <guid>https://www.theverge.com/tech/1008254/instinct-agent-ai-hands-on-muse-dots</guid>
+      <title>Nikon microscopic video competition winner disqualified for using generative AI</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1008930/nikon-small-world-in-motion-winner-ai</link>
+      <description>Nikon says the video that originally won first place in its Small World in Motion contest "did not comply with the competition rules regarding generative AI." BBC reports that the original first place video from Dr. Ning Xu claimed to show "tiny, hair-like structures called cilia moving in the airway of a child with the […]</description>
+      <pubDate>Fri, 09 Oct 2026 18:06:57 +0000</pubDate>
+      <guid>https://www.theverge.com/ai-artificial-intelligence/1008930/nikon-small-world-in-motion-winner-ai</guid>
       <category>The Verge</category>
     </item>
   </channel>
