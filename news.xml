@@ -5,88 +5,88 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Fri, 09 Oct 2026 07:10:17 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 15:00:42 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Спецэффекты в кино до появления компьютерной графики: синий экран, натрий, рир и фронт проекции</title>
-      <link>https://habr.com/ru/companies/beget/articles/1087734/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1087734</link>
-      <description>В прошлой статье мы начали разбирать спецэффекты в кино до появления компьютерной графики. И узнали, что уже в те годы вполне свободно совмещали между собой несколько слоев изображения иди могли впихнуть в кадр двух персонажей, сыгранных одним актером. Теперь переходим к вещам посложнее. Читать далее</description>
-      <pubDate>Fri, 09 Oct 2026 07:05:41 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/beget/articles/1087734/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1087734</guid>
+      <title>Один кабинет вместо пяти сервисов: зачем я делаю 121ai для тех, кто работает 1-на-1</title>
+      <link>https://habr.com/ru/articles/1092446/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092446</link>
+      <description>В прошлых статьях я писал про свой путь в IT, а теперь хочу рассказать про свой проект, с кем еще не знаком, то давайте знакомиться. Меня зовут Денис, я 22 года в IT: прошёл путь от разработчика до руководителя группы разработки. Много лет строю команды, наставляю людей и внедряю автоматизацию, в том числе на базе AI. Поэтому, когда моя супруга, коуч ICF и системный аналитик с 18-летним опытом в IT, показала мне, сколько времени у "помогающих" специалистов уходит на всё вокруг самой сессии, я ср</description>
+      <pubDate>Fri, 09 Oct 2026 15:00:18 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1092446/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092446</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>В хеттской Самухе нашли 131 глиняную табличку из царского архива</title>
-      <link>https://nplus1.ru/news/2026/10/09/clay-tablets-from-samuha</link>
-      <description>Турецкий министр культуры и туризма Мехмет Нури Эрсой (Mehmet Nuri Ersoy) рассказал на своей странице в социальной сети X о результатах раскопок, которые проходили в древнем хеттском городе Самуха, располагавшемся на территории современного поселения Каялыпынар в центральной части Малой Азии. В 2026 году археологи обнаружили на этом памятнике 131 целую или фрагментированную глиняную табличку с клинописными текстами на хеттском и хурритском языках в дополнение к 53 аналогичным артефактам, раскопа</description>
-      <pubDate>Fri, 09 Oct 2026 06:07:00 +0000</pubDate>
-      <guid>https://nplus1.ru/news/2026/10/09/clay-tablets-from-samuha</guid>
-      <category>N + 1 — главное издание о науке, технике и технологиях</category>
-    </item>
-    <item>
-      <title>Как заставить ваше растение работать на вас: аналоговый биосопроцессор своими руками</title>
-      <link>https://habr.com/ru/articles/1092244/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092244</link>
-      <description>Привет Хабр! Кремний и видеокарты дорожают, а квантовые компьютеры не поместятся в квартире. Поэтому я решил собрать биопроцессор своими руками из денежного дерева на подоконнике… Читать далее</description>
-      <pubDate>Fri, 09 Oct 2026 05:41:02 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1092244/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092244</guid>
+      <title>Markdown, который вы не замечали: от двух пробелов до интерактивной статьи</title>
+      <link>https://habr.com/ru/articles/1091602/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1091602</link>
+      <description>Я собирался написать статью про Markdown. В процессе внутри документа оказался Doom. Разбираемся, почему два пробела меняют перенос строки, обратные кавычки не всегда спасают таблицу, а один .md по-разному выглядит на Хабре и GitHub. Прямо в статье можно менять разметку в лаборатории, решать задания и проверять результат. Есть GIF, вложенные спойлеры, маленький квест и разбор того, как упаковать ресурсы Doom в Markdown — и что на самом деле запускает игру. Читать и экспериментировать</description>
+      <pubDate>Fri, 09 Oct 2026 15:00:18 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1091602/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1091602</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Настройка HAProxy для автоматического определения ролей экземпляров PostgreSQL и защиты от split brain</title>
-      <link>https://habr.com/ru/companies/tantor/articles/1092218/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092218</link>
-      <description>HAProxy должен выполнять проверки, чтобы определить роль экземпляров PostgreSQL: мастер или реплика, чтобы направлять соединения на подходящие сервера. Описываются способы настройки HAProxy для обнаружения переключения ролей экземпляров PostgreSQL: 1) через Patroni REST API 2) через параметр in_hot_standby, передаваемый сервером сразу после аутентификации клиента 3) запросом select pg_is_in_recovery(); Два последних способа используются, если Patroniпоставлен на паузу или не используется. Читать</description>
-      <pubDate>Fri, 09 Oct 2026 05:09:31 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/tantor/articles/1092218/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092218</guid>
+      <title>Beyond TechCrunch Disrupt 2026: The Side Events, Parties &amp; Networking You Can’t Miss</title>
+      <link>https://techcrunch.com/2026/10/09/beyond-techcrunch-disrupt-2026-the-side-events-parties-networking-you-cant-miss/</link>
+      <description>TechCrunch Disrupt 2026 is just the beginning. From exclusive networking events and startup showcases to happy hours, dinners, and after-hours meetups, discover what’s happening across San Francisco during Disrupt Week, October 10–16. Find your next connection, your next opportunity, or your next favorite event.</description>
+      <pubDate>Fri, 09 Oct 2026 14:42:34 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/09/beyond-techcrunch-disrupt-2026-the-side-events-parties-networking-you-cant-miss/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>Как создать ИИ-бота ВК на ChatGPT за 10 минут: пошаговая инструкция без кода</title>
+      <link>https://habr.com/ru/companies/gptunnel/articles/1092536/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092536</link>
+      <description>«Сколько стоит?», «А в другом цвете есть?», «До скольки вы работаете?», «Как оформить возврат?». Если вы ведёте сообщество с живой аудиторией, то эти вопросы уже читали наизусть. И отвечали на них раз сто. Каждый раз с нуля, потому что копипаст выглядит холодно. Есть способ передать эту рутину тому, кто не устаёт: ИИ-бот с нейросетью внутри. Он мгновенно консультирует по товарам, записывает на услуги, разбирает частые вопросы и говорит ровно тем тоном, который вы ему зададите. Хорошая новость: ч</description>
+      <pubDate>Fri, 09 Oct 2026 14:28:05 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/gptunnel/articles/1092536/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092536</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Anthropic запретила обижать Claude, а я матерюсь в каждом втором сообщении. Пришлось сделать Punto Switcher для промптов</title>
-      <link>https://habr.com/ru/articles/1092236/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092236</link>
-      <description>Всем привет! 8 октября Anthropic обновила правила пользования своими моделями. Среди прочего там появился пункт, который меня обеспокоил: систематическая бессмысленная жестокость к моделям теперь под запретом. Я как раз писал об этом новость и поймал себя на мысли, что я буду первым, кого забанят. Потому что я матерюсь на Claude Code. Много. Когда агент в который раз бодро рапортует «готово», а ничего не готово, слова я не подбираю. У меня даже есть скилл Prompt Warrior , который по логам считае</description>
-      <pubDate>Fri, 09 Oct 2026 05:06:32 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1092236/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092236</guid>
+      <title>Trump’s attempt to rename AI is looking awfully artificial</title>
+      <link>https://www.theverge.com/policy/1008677/trump-super-intelligence-ai-rebranding</link>
+      <description>President Donald Trump has a knack for turning words against his enemies. His first successful presidential run was built on monikers like "Little Marco" and "Crooked Hillary"; he changed "fake news" from a phrase describing scammy media outlets to a derogatory term for the press at large. Over the past few weeks, he's clearly decided […]</description>
+      <pubDate>Fri, 09 Oct 2026 14:25:43 +0000</pubDate>
+      <guid>https://www.theverge.com/policy/1008677/trump-super-intelligence-ai-rebranding</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>Обновления GigaIDE за сентябрь 2026</title>
+      <link>https://habr.com/ru/companies/sberbank/articles/1091448/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1091448</link>
+      <description>Как и в предыдущие месяцы , по итогам сентября мы решили рассказать про то, как изменилась GigaIDE за прошедший месяц. Ниже — краткий обзор обновлений Pro-функциональности GigaIDE, которую можно найти на нашем маркетплейсе . Читать далее</description>
+      <pubDate>Fri, 09 Oct 2026 14:15:58 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/sberbank/articles/1091448/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1091448</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Нобелевская премия по физиологии и медицине — 2026</title>
-      <link>https://elementy.ru/novosti_nauki/434440/Nobelevskaya_premiya_po_fiziologii_i_meditsine_2026</link>
-      <description>Нобелевку по физиологии и медицине получили трое ученых, показавших возможность управления активностью нейронов с помощью вспышек света. Петер Хегеман и Георг Нагель открыли первые светочувствительные ионные каналы, которые можно встроить в мембрану клетки и «научить» ее реагировать на свет. А Карл Дейссерот попробовал приспособить их к выявлению механизмов психических заболеваний.</description>
-      <pubDate>Fri, 09 Oct 2026 04:25:00 +0000</pubDate>
-      <guid>https://elementy.ru/novosti_nauki/434440/Nobelevskaya_premiya_po_fiziologii_i_meditsine_2026</guid>
-      <category>"Элементы": новости науки</category>
+      <title>Компьютер без Windows и Linux: как Huawei строит собственную экосистему ПК</title>
+      <link>https://habr.com/ru/companies/ru_mts/articles/1092440/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092440</link>
+      <description>Привет, Хабр! Китайская компания Huawei добралась до настольных ПК с собственной операционкой. Недавно корпорация представила HM650 на HarmonyOS. Новинка предназначена для офисов и госучреждений, продажи обещали начать в октябре 2026 года. Внутри заявлен Kirin X90, тоже собственного производства. Вообще говоря, корпорация в течение несколько лет собирает связку из своего железа, инструментов разработки и магазина приложений. Похоже, это финальный этап. Давайте посмотрим, что сейчас представляет </description>
+      <pubDate>Fri, 09 Oct 2026 14:11:31 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/ru_mts/articles/1092440/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092440</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Скандинавов эпохи мезолита заподозрили в отравлении стрел</title>
-      <link>https://nplus1.ru/news/2026/10/09/poisoned-arrows</link>
-      <description>Исследовательский коллектив проанализировал миниатюрные острия, которые древние скандинавские охотники-собиратели эпохи мезолита, вполне возможно, использовали в качестве наконечников для стрел. Ученые пришли к выводу, что в раннем мезолите люди отравляли ядом свои стрелы, чтобы добывать крупных млекопитающих. При этом в среднем и позднем мезолите они перешли к более крупным наконечникам, с помощью которых охотились на меньшую по размеру дичь, но уже, возможно, не используя яд. Об этом авторы пи</description>
-      <pubDate>Fri, 09 Oct 2026 04:22:00 +0000</pubDate>
-      <guid>https://nplus1.ru/news/2026/10/09/poisoned-arrows</guid>
-      <category>N + 1 — главное издание о науке, технике и технологиях</category>
+      <title>Особенности разработки встраиваемого программного обеспечения. Часть 2</title>
+      <link>https://habr.com/ru/articles/1092518/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092518</link>
+      <description>В предыдущей части статьи я рассказал об особенностях реализации многозадачности для ВПО. Однако, какой бы ни был выбран подход к многозадачности, архитектура самих задач напрямую влияет на эффективность работы всей встраиваемой системы. Для достижения оптимальной работы системы, задачи необходимо проектировать по принципу эффективного использования процессорного времени . Т.е. задача должна использовать процессорное время исключительно для полезной нагрузки. Данный принцип выполняет 2 основные </description>
+      <pubDate>Fri, 09 Oct 2026 14:01:36 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1092518/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092518</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>An Explainable Header-Centric Framework for Large-Scale Semantic Table Interpretation and Data Quality Assessment</title>
-      <link>https://arxiv.org/abs/2610.10541</link>
-      <description>arXiv:2610.10541v1 Announce Type: new Abstract: Knowledge Graph (KG) quality depends not only on downstream graph validation, but also on the quality of tabular metadata used before integration. In metadata-only Semantic Table Interpretation (STI), where cell values are unavailable, noisy, or unsuitable, column headers become a critical source of semantic evidence for traceable KG preparation. We present an explainable, header-centric framework for metadata-only Column Type Annotation (CTA) and </description>
-      <pubDate>Fri, 09 Oct 2026 04:00:00 +0000</pubDate>
-      <guid>https://arxiv.org/abs/2610.10541</guid>
-      <category>cs.AI updates on arXiv.org</category>
+      <title>Призраки в системе управления уязвимостями: как идентификация, слияние и история активов спасают от аномалий</title>
+      <link>https://habr.com/ru/companies/pt/articles/1092214/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092214</link>
+      <description>Каждый актив в инфраструктуре проходит свой жизненный цикл: он появляется, функционирует, а со временем выводится из эксплуатации. Новые активы часто создаются как копии существующих, но со временем обрастают уникальными особенностями. Из-за постоянных изменений в инфраструктуре возникают аномалии данных: дубликаты, «склейки» и цифровые призраки — активы, которых уже нет, но они продолжают числиться в системе. Чтобы справиться с этой проблемой, нужно решить три нетривиальные задачи: сопоставить </description>
+      <pubDate>Fri, 09 Oct 2026 14:00:06 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/pt/articles/1092214/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092214</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Synthesis Through Simulation: Generating Coherent Enterprise Data via Scalable Agent-System Interaction</title>
-      <link>https://arxiv.org/abs/2610.10549</link>
-      <description>arXiv:2610.10549v1 Announce Type: new Abstract: Tool-calling agents have become central to enterprise AI, yet training and evaluating them at scale remains severely constrained due to business and legal restrictions on enterprise systems, data, and database schemas. Tabular data synthesis offers a natural alternative, but its effectiveness is fundamentally limited by structural validity and schema availability, while procedure-based approaches yield the opposite weakness, typically lacking distr</description>
-      <pubDate>Fri, 09 Oct 2026 04:00:00 +0000</pubDate>
-      <guid>https://arxiv.org/abs/2610.10549</guid>
-      <category>cs.AI updates on arXiv.org</category>
-    </item>
-    <item>
-      <title>Agent-Controlled Forgetting for Tool-Using Agents: Reversible Context Curation in Practice</title>
-      <link>https://arxiv.org/abs/2610.10590</link>
-      <description>arXiv:2610.10590v1 Announce Type: new Abstract: Tool-using agents repeatedly carry observations whose useful content can be much smaller than their original payload. We study agent-controlled forgetting: the acting model selects previously observed tool results, replaces each with a short note at its original position, and retains the exact original in a recoverable archive. A Python harness exposes batch archival and explicit recovery without task-specific model training, while protecting user </description>
-      <pubDate>Fri, 09 Oct 2026 04:00:00 +0000</pubDate>
-      <guid>https://arxiv.org/abs/2610.10590</guid>
-      <category>cs.AI updates on arXiv.org</category>
+      <title>Instinct was the buzziest AI agent around — can it survive Muse?</title>
+      <link>https://www.theverge.com/tech/1008254/instinct-agent-ai-hands-on-muse-dots</link>
+      <description>Before there were cute little guys, there was Instinct. In August, the startup got its AI agent to market with an unusual playbook: invite-only, no marketing, and barely so much as a website. And yet, Instinct quickly became the buzziest thing in AI, garnering praise for its straightforward, text message-based interface and its ability to […]</description>
+      <pubDate>Fri, 09 Oct 2026 14:00:00 +0000</pubDate>
+      <guid>https://www.theverge.com/tech/1008254/instinct-agent-ai-hands-on-muse-dots</guid>
+      <category>The Verge</category>
     </item>
   </channel>
 </rss>
