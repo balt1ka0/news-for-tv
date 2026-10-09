@@ -5,88 +5,88 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Fri, 09 Oct 2026 01:00:25 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 07:10:17 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>От одного компьютера до глобальной эпидемии: как WannaCry распространялся по сети</title>
-      <link>https://habr.com/ru/articles/1092226/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092226</link>
-      <description>12 мая 2017 года компьютеры по всему миру начали блокировать доступ к файлам и требовать выкуп. Больницы отменяли приёмы, предприятия останавливали производство, а WannaCry продолжал искать новые цели. Ему не нужно было ждать, пока пользователь откроет письмо или запустит заражённый файл: один успешно заражённый компьютер мог стать началом цепочки новых заражений. Как программа находила другие компьютеры? Почему уязвимость, для которой уже существовало обновление, всё ещё оставалась угрозой? И к</description>
-      <pubDate>Fri, 09 Oct 2026 00:15:39 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1092226/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092226</guid>
+      <title>Спецэффекты в кино до появления компьютерной графики: синий экран, натрий, рир и фронт проекции</title>
+      <link>https://habr.com/ru/companies/beget/articles/1087734/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1087734</link>
+      <description>В прошлой статье мы начали разбирать спецэффекты в кино до появления компьютерной графики. И узнали, что уже в те годы вполне свободно совмещали между собой несколько слоев изображения иди могли впихнуть в кадр двух персонажей, сыгранных одним актером. Теперь переходим к вещам посложнее. Читать далее</description>
+      <pubDate>Fri, 09 Oct 2026 07:05:41 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/beget/articles/1087734/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1087734</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>President Trump awards Big Tech donors with nation’s highest science prizes</title>
-      <link>https://techcrunch.com/2026/10/08/president-trump-awards-big-tech-donors-with-nations-highest-science-prizes/</link>
-      <description>Together, the awardees have donated nearly $6 billion to efforts tied to Trump and his administration.</description>
-      <pubDate>Thu, 08 Oct 2026 22:33:59 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/08/president-trump-awards-big-tech-donors-with-nations-highest-science-prizes/</guid>
-      <category>TechCrunch</category>
+      <title>В хеттской Самухе нашли 131 глиняную табличку из царского архива</title>
+      <link>https://nplus1.ru/news/2026/10/09/clay-tablets-from-samuha</link>
+      <description>Турецкий министр культуры и туризма Мехмет Нури Эрсой (Mehmet Nuri Ersoy) рассказал на своей странице в социальной сети X о результатах раскопок, которые проходили в древнем хеттском городе Самуха, располагавшемся на территории современного поселения Каялыпынар в центральной части Малой Азии. В 2026 году археологи обнаружили на этом памятнике 131 целую или фрагментированную глиняную табличку с клинописными текстами на хеттском и хурритском языках в дополнение к 53 аналогичным артефактам, раскопа</description>
+      <pubDate>Fri, 09 Oct 2026 06:07:00 +0000</pubDate>
+      <guid>https://nplus1.ru/news/2026/10/09/clay-tablets-from-samuha</guid>
+      <category>N + 1 — главное издание о науке, технике и технологиях</category>
     </item>
     <item>
-      <title>US plans livestream of execution by firing squad</title>
-      <link>https://www.theverge.com/tech/1008530/us-government-livestream-execution-firing-squad-fort-hood</link>
-      <description>The United States' execution of the Fort Hood shooter will be livestreamed, anonymous officials from the Defense Department told the BBC and Associated Press. The planned execution of Nidal Hasan, the former US Army major convicted of killing 13 people at the Texas military base, was announced this week. He is scheduled to be executed […]</description>
-      <pubDate>Thu, 08 Oct 2026 22:32:04 +0000</pubDate>
-      <guid>https://www.theverge.com/tech/1008530/us-government-livestream-execution-firing-squad-fort-hood</guid>
-      <category>The Verge</category>
+      <title>Как заставить ваше растение работать на вас: аналоговый биосопроцессор своими руками</title>
+      <link>https://habr.com/ru/articles/1092244/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092244</link>
+      <description>Привет Хабр! Кремний и видеокарты дорожают, а квантовые компьютеры не поместятся в квартире. Поэтому я решил собрать биопроцессор своими руками из денежного дерева на подоконнике… Читать далее</description>
+      <pubDate>Fri, 09 Oct 2026 05:41:02 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1092244/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092244</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Anthropic launches free AI security scans for open-source projects</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner</link>
-      <description>Anthropic's offering to help open-source projects track down security vulnerabilities with a new service called OSS Scanner. It says open-source projects that opt-in will get "thorough, periodic security scans by our strongest models at no cost." That could mean open-source projects get alerted about possible security issues sooner, but the trade-off is that OSS Scanner's […]</description>
-      <pubDate>Thu, 08 Oct 2026 21:53:51 +0000</pubDate>
-      <guid>https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner</guid>
-      <category>The Verge</category>
+      <title>Настройка HAProxy для автоматического определения ролей экземпляров PostgreSQL и защиты от split brain</title>
+      <link>https://habr.com/ru/companies/tantor/articles/1092218/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092218</link>
+      <description>HAProxy должен выполнять проверки, чтобы определить роль экземпляров PostgreSQL: мастер или реплика, чтобы направлять соединения на подходящие сервера. Описываются способы настройки HAProxy для обнаружения переключения ролей экземпляров PostgreSQL: 1) через Patroni REST API 2) через параметр in_hot_standby, передаваемый сервером сразу после аутентификации клиента 3) запросом select pg_is_in_recovery(); Два последних способа используются, если Patroniпоставлен на паузу или не используется. Читать</description>
+      <pubDate>Fri, 09 Oct 2026 05:09:31 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/tantor/articles/1092218/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092218</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>SpaceX announces plan to become a ‘major mobile carrier’</title>
-      <link>https://www.theverge.com/science/1008467/spacex-announces-plan-to-become-a-major-mobile-carrier</link>
-      <description>SpaceX has acquired a portfolio of low-band spectrum licenses - a move the company says "will pave the way" for its Starlink Mobile service to become a "major" US carrier. When the Federal Communications Commission signs off on the deal, SpaceX says it will deploy its new architecture that combines its satellite-to-mobile constellation with a […]</description>
-      <pubDate>Thu, 08 Oct 2026 21:23:31 +0000</pubDate>
-      <guid>https://www.theverge.com/science/1008467/spacex-announces-plan-to-become-a-major-mobile-carrier</guid>
-      <category>The Verge</category>
+      <title>Anthropic запретила обижать Claude, а я матерюсь в каждом втором сообщении. Пришлось сделать Punto Switcher для промптов</title>
+      <link>https://habr.com/ru/articles/1092236/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092236</link>
+      <description>Всем привет! 8 октября Anthropic обновила правила пользования своими моделями. Среди прочего там появился пункт, который меня обеспокоил: систематическая бессмысленная жестокость к моделям теперь под запретом. Я как раз писал об этом новость и поймал себя на мысли, что я буду первым, кого забанят. Потому что я матерюсь на Claude Code. Много. Когда агент в который раз бодро рапортует «готово», а ничего не готово, слова я не подбираю. У меня даже есть скилл Prompt Warrior , который по логам считае</description>
+      <pubDate>Fri, 09 Oct 2026 05:06:32 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1092236/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092236</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website</title>
-      <link>https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/</link>
-      <description>With over a thousand emails, slides, texts, and documents from the United States v. Elizabeth Holmes trial, Extend engineer Bo Lau created a website that simulates what it might have been like to rifle through the Theranos founder's desk.</description>
-      <pubDate>Thu, 08 Oct 2026 21:00:00 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/</guid>
-      <category>TechCrunch</category>
+      <title>Нобелевская премия по физиологии и медицине — 2026</title>
+      <link>https://elementy.ru/novosti_nauki/434440/Nobelevskaya_premiya_po_fiziologii_i_meditsine_2026</link>
+      <description>Нобелевку по физиологии и медицине получили трое ученых, показавших возможность управления активностью нейронов с помощью вспышек света. Петер Хегеман и Георг Нагель открыли первые светочувствительные ионные каналы, которые можно встроить в мембрану клетки и «научить» ее реагировать на свет. А Карл Дейссерот попробовал приспособить их к выявлению механизмов психических заболеваний.</description>
+      <pubDate>Fri, 09 Oct 2026 04:25:00 +0000</pubDate>
+      <guid>https://elementy.ru/novosti_nauki/434440/Nobelevskaya_premiya_po_fiziologii_i_meditsine_2026</guid>
+      <category>"Элементы": новости науки</category>
     </item>
     <item>
-      <title>Apple will reportedly debut its first touchscreen MacBook in three weeks</title>
-      <link>https://www.theverge.com/tech/1008422/apple-macbook-pro-touchscreen-ipad-mini-rumor</link>
-      <description>Apple is set to introduce a new MacBook Pro with a touchscreen and an updated iPad Mini "on or around" October 27th, Bloomberg reports. If true, that would put the event just two weeks after the October 13th event Apple announced today, which is rumored to focus on smart home products. Bloomberg says that the […]</description>
-      <pubDate>Thu, 08 Oct 2026 20:32:21 +0000</pubDate>
-      <guid>https://www.theverge.com/tech/1008422/apple-macbook-pro-touchscreen-ipad-mini-rumor</guid>
-      <category>The Verge</category>
+      <title>Скандинавов эпохи мезолита заподозрили в отравлении стрел</title>
+      <link>https://nplus1.ru/news/2026/10/09/poisoned-arrows</link>
+      <description>Исследовательский коллектив проанализировал миниатюрные острия, которые древние скандинавские охотники-собиратели эпохи мезолита, вполне возможно, использовали в качестве наконечников для стрел. Ученые пришли к выводу, что в раннем мезолите люди отравляли ядом свои стрелы, чтобы добывать крупных млекопитающих. При этом в среднем и позднем мезолите они перешли к более крупным наконечникам, с помощью которых охотились на меньшую по размеру дичь, но уже, возможно, не используя яд. Об этом авторы пи</description>
+      <pubDate>Fri, 09 Oct 2026 04:22:00 +0000</pubDate>
+      <guid>https://nplus1.ru/news/2026/10/09/poisoned-arrows</guid>
+      <category>N + 1 — главное издание о науке, технике и технологиях</category>
     </item>
     <item>
-      <title>California is trying to shut down robot vs. human cage matches</title>
-      <link>https://www.theverge.com/tech/1008401/california-shut-down-rek-fighting-robot-company-human</link>
-      <description>The California State Athletic Commission sent a cease-and-desist letter to a startup that hosted a match between a human and a robot last month, as reported by The New York Times. The fight, which took place on September 18th, pitted a human, Frankie LaPenna, against a humanoid robot owned by a tech startup, Rek, that […]</description>
-      <pubDate>Thu, 08 Oct 2026 20:06:56 +0000</pubDate>
-      <guid>https://www.theverge.com/tech/1008401/california-shut-down-rek-fighting-robot-company-human</guid>
-      <category>The Verge</category>
+      <title>An Explainable Header-Centric Framework for Large-Scale Semantic Table Interpretation and Data Quality Assessment</title>
+      <link>https://arxiv.org/abs/2610.10541</link>
+      <description>arXiv:2610.10541v1 Announce Type: new Abstract: Knowledge Graph (KG) quality depends not only on downstream graph validation, but also on the quality of tabular metadata used before integration. In metadata-only Semantic Table Interpretation (STI), where cell values are unavailable, noisy, or unsuitable, column headers become a critical source of semantic evidence for traceable KG preparation. We present an explainable, header-centric framework for metadata-only Column Type Annotation (CTA) and </description>
+      <pubDate>Fri, 09 Oct 2026 04:00:00 +0000</pubDate>
+      <guid>https://arxiv.org/abs/2610.10541</guid>
+      <category>cs.AI updates on arXiv.org</category>
     </item>
     <item>
-      <title>Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect</title>
-      <link>https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/</link>
-      <description>Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on the company’s AI safety culture.</description>
-      <pubDate>Thu, 08 Oct 2026 20:04:26 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/</guid>
-      <category>TechCrunch</category>
+      <title>Synthesis Through Simulation: Generating Coherent Enterprise Data via Scalable Agent-System Interaction</title>
+      <link>https://arxiv.org/abs/2610.10549</link>
+      <description>arXiv:2610.10549v1 Announce Type: new Abstract: Tool-calling agents have become central to enterprise AI, yet training and evaluating them at scale remains severely constrained due to business and legal restrictions on enterprise systems, data, and database schemas. Tabular data synthesis offers a natural alternative, but its effectiveness is fundamentally limited by structural validity and schema availability, while procedure-based approaches yield the opposite weakness, typically lacking distr</description>
+      <pubDate>Fri, 09 Oct 2026 04:00:00 +0000</pubDate>
+      <guid>https://arxiv.org/abs/2610.10549</guid>
+      <category>cs.AI updates on arXiv.org</category>
     </item>
     <item>
-      <title>ICE detainees in Georgia used the facility’s video calling software to expose the conditions inside</title>
-      <link>https://www.theverge.com/report/1008342/folkston-georgia-ice-detention-hunger-strike-video</link>
-      <description>Four men detained at an ICE detention center in rural Georgia used the facility's video conferencing software to expose both the conditions inside and President Donald Trump's hostile takeover of the immigration courts. In the five-minute video, the men describe an intentionally dysfunctional legal system designed to keep them trapped in federal custody for months […]</description>
-      <pubDate>Thu, 08 Oct 2026 19:45:00 +0000</pubDate>
-      <guid>https://www.theverge.com/report/1008342/folkston-georgia-ice-detention-hunger-strike-video</guid>
-      <category>The Verge</category>
+      <title>Agent-Controlled Forgetting for Tool-Using Agents: Reversible Context Curation in Practice</title>
+      <link>https://arxiv.org/abs/2610.10590</link>
+      <description>arXiv:2610.10590v1 Announce Type: new Abstract: Tool-using agents repeatedly carry observations whose useful content can be much smaller than their original payload. We study agent-controlled forgetting: the acting model selects previously observed tool results, replaces each with a short note at its original position, and retains the exact original in a recoverable archive. A Python harness exposes batch archival and explicit recovery without task-specific model training, while protecting user </description>
+      <pubDate>Fri, 09 Oct 2026 04:00:00 +0000</pubDate>
+      <guid>https://arxiv.org/abs/2610.10590</guid>
+      <category>cs.AI updates on arXiv.org</category>
     </item>
   </channel>
 </rss>
