@@ -5,87 +5,87 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Sat, 10 Oct 2026 10:58:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 16:06:57 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Как свет научился управлять нейронами: путь оптогенетики к Нобелевской премии</title>
-      <link>https://habr.com/ru/companies/ru_mts/articles/1092586/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092586</link>
-      <description>В начале октября прошла очередная волна присуждения нобелевских премий. В категории медицины и физиологии наградили достижения в оптогенетике. Если вы ни разу не слышали про оптогенетику, объясню: это технология управления активностью клеток с помощью… света. Грубо говоря ученые светят лазером в мозг мышки, запускают определенные нейроны — и этим заставляют ее бояться, радоваться, вспоминать пережитое или менять поведение. Но издеваться над мышью здесь далеко не главная ценность: с помощью оптог</description>
-      <pubDate>Sat, 10 Oct 2026 10:47:25 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/ru_mts/articles/1092586/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092586</guid>
+      <title>Переделка квадроцикла в ходовую для мобильной робототехники</title>
+      <link>https://habr.com/ru/articles/1092756/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092756</link>
+      <description>Взял дешёвый б/у квадроцикл и попытался сделать из него автономного ровер. Получилось не всё: рулевое управление оказалось одним из самых сложных узлов для самоделки. Читать далее</description>
+      <pubDate>Sat, 10 Oct 2026 16:00:27 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1092756/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092756</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Блютус выживальщика</title>
-      <link>https://habr.com/ru/articles/1092672/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092672</link>
-      <description>Иногда связь нужна там, где её нет. А иногда просто хочется поэкспериментировать с передачей данных. В этот раз я решил проверить - какие пределы дальности у Bluetooth, можно ли использовать современный смартфон в качестве рации и организовать беспроводной цифровой канал связи в горах. В теории блютус достаточно дальнобойный, но в обычной жизни связь с устройствами ограничена буквально метрами. Но зато он есть в любом телефоне, всегда под рукой, не требует дополнительного оборудования и довольно</description>
-      <pubDate>Sat, 10 Oct 2026 10:43:16 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1092672/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092672</guid>
+      <title>8 ИИ-сервисов для Reels и Shorts: что работает в 2026 году</title>
+      <link>https://habr.com/ru/companies/polzaai/articles/1092706/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092706</link>
+      <description>Час-два записанного материала у меня частенько растягивались на целый вечер или два чистого монтажа, а сейчас – несколько минут. Если вы еще об этом не слышали – в интернете появилось полно бесплатных и не очень сервисов для нарезки вертикальных роликов. Я много из них перепробовал – и решил составить мой небольшой обзорчик. Читать далее</description>
+      <pubDate>Sat, 10 Oct 2026 15:39:38 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/polzaai/articles/1092706/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092706</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Я написал 61 тест для AI-ментора. Потом выяснилось, что тестам тоже нельзя верить</title>
-      <link>https://habr.com/ru/articles/1092676/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092676</link>
-      <description>Репетитора не нанимают по резюме. Ему дают тетрадь реального ученика и смотрят не на то, знает ли он ответ, а на то, где он остановится. Подскажет, в какой строке ошибка, или перепишет задачу за ученика? Скажет «не знаю, давай проверим» или уверенно додумает? Месяц назад я встроил в свою учебную платформу AI-ментора: он видит уроки, прогресс студента и его последнюю попытку по заданию. Чтобы не выбирать модель и не править промпт по ощущениям, я собрал стенд из автоматических проверок и начал пр</description>
-      <pubDate>Sat, 10 Oct 2026 10:40:51 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1092676/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092676</guid>
+      <title>В 2026-м — из желудей и спичек: измерительный комплекс для Musical Fidelity M1</title>
+      <link>https://habr.com/ru/articles/1092722/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092722</link>
+      <description>Редкий Musical Fidelity M1 с тонармом SME M2-9 находится в 3000 километрах, а покупать его только на слух и по фотографии не хочется. Из игровой Sound Blaster G3, старого Sony и ноутбука собираю измерительный комплекс: WFGUI, тон 3150 Гц, советские тестовые пластинки и собственный DAT Viewer. Сам M1 пока не измерен — статья о подготовке комплекса, контрольных опытах и ограничениях метода. Читать далее</description>
+      <pubDate>Sat, 10 Oct 2026 15:16:51 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1092722/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092722</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Почему я больше не использую Pull Requests</title>
-      <link>https://habr.com/ru/articles/1092666/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092666</link>
-      <description>В феврале этого года я, Алекс Гусев, отдал Codex-агенту на переписывание @teqfw/di — библиотеку, которую разрабатывал с 2019 года и в которой годами выверял каждую строчку. Об этом я тогда написал на Хабре . С тех пор программный код вручную я больше не пишу. Не потому, что разучился. Просто теперь эту работу делают агенты. Заодно из моей разработки почти исчезли Pull Requests. Я не перестал пользоваться GitHub и не отменил проверку результатов. Мне перестала быть нужна процедура, в которой кто-</description>
-      <pubDate>Sat, 10 Oct 2026 09:58:54 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1092666/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092666</guid>
+      <title>K-pop star Sunmi loves Notion and ear cleaning videos</title>
+      <link>https://www.theverge.com/entertainment/1008654/k-pop-sunmi-wonder-girls-interview</link>
+      <description>Sunmi is an undeniable force in K-pop. She first made her debut as a member of the Wonder Girls back in 2007, one of the first K-pop acts to really break through in the West. The English version of their single "Nobody" was the first K-pop song to hit the Billboard Hot 100 in October […]</description>
+      <pubDate>Sat, 10 Oct 2026 15:00:00 +0000</pubDate>
+      <guid>https://www.theverge.com/entertainment/1008654/k-pop-sunmi-wonder-girls-interview</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream</title>
+      <link>https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/</link>
+      <description>TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they’ve built to 10,000 tech leaders. Plus, 250+ speakers are ready to share insights across 200+ sessions. Register before doors open to save up to $100 and get a second pass at 50% off.</description>
+      <pubDate>Sat, 10 Oct 2026 15:00:00 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>Anthropic is cutting off its internal evaluations from the internet</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet</link>
+      <description>After a recent spate of high-profile incidents in which AI agents escaped containment, Anthropic is cutting off internet access for all internal evaluations. In a report Friday, the company detailed "unintended model actions," including submitting a false tip regarding an unsolved murder, that led to the decision. Although the impact of these behaviors was minimal […]</description>
+      <pubDate>Sat, 10 Oct 2026 14:41:16 +0000</pubDate>
+      <guid>https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>Will Warner Bros. kill Skydance — or will David Ellison kill Warner Bros?</title>
+      <link>https://www.theverge.com/podcast/1008733/warner-skydance-paramount-ellison-debt-failure</link>
+      <description>Today, I’m talking with Peter Kafka, chief correspondent at Business Insider and host of the Channels podcast, about the gigantic Warner Bros.-Paramount merger and the future of the company now simply called Skydance. Skydance is owned by David Ellison, son of Oracle CEO Larry Ellison, and its deal to acquire Warner Bros. Discovery officially closed […]</description>
+      <pubDate>Sat, 10 Oct 2026 14:00:00 +0000</pubDate>
+      <guid>https://www.theverge.com/podcast/1008733/warner-skydance-paramount-ellison-debt-failure</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>Here are the top AI agents that can live in your text messages</title>
+      <link>https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/</link>
+      <description>We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.</description>
+      <pubDate>Sat, 10 Oct 2026 14:00:00 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>[Перевод] Джеффри Хантли: агенту хватит --help, если CLI сделана хорошо</title>
+      <link>https://habr.com/ru/articles/1092348/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092348</link>
+      <description>Джеффри Хантли о споре «MCP против CLI». По его мнению, компании с инструментами для разработчиков делятся на S-tier и F-tier, и решают это веса моделей: с GitHub модели работают через gh CLI без всяких скиллов и MCP. Новичкам он советует вылизывать --help под агентов, оптимизировать документацию под агентский веб-поиск и договариваться с лабораториями о включении документации в обучение. Читать дальше &amp;rarr;</description>
+      <pubDate>Sat, 10 Oct 2026 13:39:47 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1092348/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092348</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Длинные нарды глазами нейросети: как движок выбирает ход и где ошибаются люди</title>
-      <link>https://habr.com/ru/articles/1092658/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092658</link>
-      <description>Как программа выбирает ход в длинных нардах, почему правило головы и запрет глухого забора — испытание для генератора ходов, и что нейросеть нашла в 170 тысячах ходов живых игроков. Главные потери — в начале партии и в размере поражения: марсах и коксах. Плюс четыре задачи из реальных партий — попробуйте решить их сами. Читать далее</description>
-      <pubDate>Sat, 10 Oct 2026 08:54:28 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1092658/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092658</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Часть файлов на Яндекс.Диске стала недоступной: последствия вывода из строя датацентров?</title>
-      <link>https://habr.com/ru/articles/1092652/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092652</link>
-      <description>После атаки на дата‑центр Яндекса в Сасово я решил на всякий случай сделать резервную копию данных с Яндекс.Диска и обнаружил, что часть файлов в галерее не открывается: в приложении «Ошибка сервера», на части миниатюр код 500. Скачивание некоторых оригиналов отдает ошибку 504, при этом часть обычных файлов (не из «галереи») также стала недоступна. Разберёмся: какие из этих файлов реально не скачиваются, а какие просто теряют превью, как проверить свой Диск и почему копия вне облака не лишняя. Ч</description>
-      <pubDate>Sat, 10 Oct 2026 08:47:00 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1092652/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092652</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Автопостинг в TenChat без API: Playwright, редактор Quill и вставка через ClipboardEvent</title>
-      <link>https://habr.com/ru/articles/1090866/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090866</link>
-      <description>У TenChat нет публичного API для публикации постов. Отложенная публикация в самом сервисе есть только на платном тарифе (на 28.09.2026 от 990 ₽ в месяц), а мне нужен был простой сценарий: раз в день берём следующую статью из блога, собираем из неё короткий пост с обложкой и выкладываем без участия человека. Я написал для этого скрипт на Python и Playwright, он работает на сервере по cron с конца сентября 2026 года. В статье разберу, как скрипт входит в аккаунт без пароля, как заставить редактор </description>
-      <pubDate>Sat, 10 Oct 2026 08:40:26 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1090866/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090866</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Детектор ИИ-текста своими руками: какие признаки нейрослопа ловит код и какие остаются живому редактору</title>
-      <link>https://habr.com/ru/articles/1092636/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092636</link>
-      <description>Я разложил по проверкам своего детектора ИИ-текста 12 признаков нейрослопа, то есть текста, который выдала нейросеть и никто не вычитал. Кодом ловятся пять, из них два частично. Остальные семь держатся только на правилах для редактора. На пробе мимо скрипта прошли две типичные фразы-вводки: «В этой статье мы рассмотрим» и «Вывод простой» с двоеточием. Онлайн-детекторы отвечают процентом и не говорят, что править. Сам процент тоже ненадёжен: в работе Liang и соавторов семь детекторов в среднем пр</description>
-      <pubDate>Sat, 10 Oct 2026 08:32:03 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1092636/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092636</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Серверное железо 2027: какие новинки мы ждем</title>
-      <link>https://habr.com/ru/companies/selectel/articles/1092382/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092382</link>
-      <description>2027 год обещает стать значимым для серверной индустрии. Появятся новые GPU, процессоры, открытые интерконнекты, новая архитектура памяти и другие инновации. Однако все это — всего лишь часть эволюции железа. На связи Сергей Ковалёв, менеджер продукта в Selectel ! Сегодня разбираем ключевые новинки и выясняем, какие возможности для вычислений откроются перед нами уже совсем скоро. Читать далее</description>
-      <pubDate>Sat, 10 Oct 2026 08:01:23 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/selectel/articles/1092382/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092382</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Open Source – высшая форма человеческой деятельности</title>
-      <link>https://habr.com/ru/articles/1092616/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092616</link>
-      <description>Честно признаюсь: я всегда боялся Open Source. Знал, что за этим феноменом стоит нечто сверхчеловеческое и экзистенциальное. Меня всегда пугало, когда люди цинично забирали чужие открытые наработки в свои закрытые коммерческие продукты, игнорируя лицензии и посмеиваясь над наивностью авторов. И дело не в том что это плохо – я чувствовал, что это не может закончиться ничем. Просто не думал, что окажется настолько серьезно… Читать далее</description>
-      <pubDate>Sat, 10 Oct 2026 07:11:19 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1092616/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092616</guid>
+      <title>Собираю робота на Raspberry Pi 5 для дочери. Но говорящей колонкой тут не отделаться! Вызов принят, погнали. (Часть 2)</title>
+      <link>https://habr.com/ru/articles/1092726/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092726</link>
+      <description>В первой части Лягушка научилась смотреть на человека, говорить и поворачивать голову. Теперь добавляю знакомые лица, память о разговорах, вопросы по фотографии, объяснения на экране и помощь со стихами. По дороге робот пропускает собственные команды, узнаёт своего «Создателя» и отправляет рисунок в принтер. А ещё выяснилось, что сильнее всего тормозило Лягушку… Читать далее</description>
+      <pubDate>Sat, 10 Oct 2026 13:23:42 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1092726/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092726</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
   </channel>
