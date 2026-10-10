@@ -5,87 +5,87 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Sat, 10 Oct 2026 16:06:57 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 20:29:19 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Переделка квадроцикла в ходовую для мобильной робототехники</title>
-      <link>https://habr.com/ru/articles/1092756/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092756</link>
-      <description>Взял дешёвый б/у квадроцикл и попытался сделать из него автономного ровер. Получилось не всё: рулевое управление оказалось одним из самых сложных узлов для самоделки. Читать далее</description>
-      <pubDate>Sat, 10 Oct 2026 16:00:27 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1092756/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092756</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>8 ИИ-сервисов для Reels и Shorts: что работает в 2026 году</title>
-      <link>https://habr.com/ru/companies/polzaai/articles/1092706/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092706</link>
-      <description>Час-два записанного материала у меня частенько растягивались на целый вечер или два чистого монтажа, а сейчас – несколько минут. Если вы еще об этом не слышали – в интернете появилось полно бесплатных и не очень сервисов для нарезки вертикальных роликов. Я много из них перепробовал – и решил составить мой небольшой обзорчик. Читать далее</description>
-      <pubDate>Sat, 10 Oct 2026 15:39:38 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/polzaai/articles/1092706/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092706</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>В 2026-м — из желудей и спичек: измерительный комплекс для Musical Fidelity M1</title>
-      <link>https://habr.com/ru/articles/1092722/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092722</link>
-      <description>Редкий Musical Fidelity M1 с тонармом SME M2-9 находится в 3000 километрах, а покупать его только на слух и по фотографии не хочется. Из игровой Sound Blaster G3, старого Sony и ноутбука собираю измерительный комплекс: WFGUI, тон 3150 Гц, советские тестовые пластинки и собственный DAT Viewer. Сам M1 пока не измерен — статья о подготовке комплекса, контрольных опытах и ограничениях метода. Читать далее</description>
-      <pubDate>Sat, 10 Oct 2026 15:16:51 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1092722/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092722</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>K-pop star Sunmi loves Notion and ear cleaning videos</title>
-      <link>https://www.theverge.com/entertainment/1008654/k-pop-sunmi-wonder-girls-interview</link>
-      <description>Sunmi is an undeniable force in K-pop. She first made her debut as a member of the Wonder Girls back in 2007, one of the first K-pop acts to really break through in the West. The English version of their single "Nobody" was the first K-pop song to hit the Billboard Hot 100 in October […]</description>
-      <pubDate>Sat, 10 Oct 2026 15:00:00 +0000</pubDate>
-      <guid>https://www.theverge.com/entertainment/1008654/k-pop-sunmi-wonder-girls-interview</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream</title>
-      <link>https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/</link>
-      <description>TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they’ve built to 10,000 tech leaders. Plus, 250+ speakers are ready to share insights across 200+ sessions. Register before doors open to save up to $100 and get a second pass at 50% off.</description>
-      <pubDate>Sat, 10 Oct 2026 15:00:00 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/</guid>
+      <title>Apple discloses deal to hire team and license tech from personalized podcast startup Huxe</title>
+      <link>https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/</link>
+      <description>Is Apple hoping to get into the AI-generated podcast business?</description>
+      <pubDate>Sat, 10 Oct 2026 19:50:00 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/</guid>
       <category>TechCrunch</category>
     </item>
     <item>
-      <title>Anthropic is cutting off its internal evaluations from the internet</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet</link>
-      <description>After a recent spate of high-profile incidents in which AI agents escaped containment, Anthropic is cutting off internet access for all internal evaluations. In a report Friday, the company detailed "unintended model actions," including submitting a false tip regarding an unsolved murder, that led to the decision. Although the impact of these behaviors was minimal […]</description>
-      <pubDate>Sat, 10 Oct 2026 14:41:16 +0000</pubDate>
-      <guid>https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet</guid>
+      <title>Scientists may have found a shortcut to fusion energy</title>
+      <link>https://www.sciencedaily.com/releases/2026/10/261008005242.htm</link>
+      <description>Princeton Plasma Physics Laboratory may have found a dramatically more efficient route to fusion energy by reversing the traditional approach: heating plasma first, then increasing its density. Their calculations could help future reactors reach self-sustaining fusion with far less energy while avoiding hidden problems that make ignition harder.</description>
+      <pubDate>Sat, 10 Oct 2026 18:57:27 +0000</pubDate>
+      <guid>https://www.sciencedaily.com/releases/2026/10/261008005242.htm</guid>
+      <category>All Top News -- ScienceDaily</category>
+    </item>
+    <item>
+      <title>Loneliness may steal nearly 6 years of good health</title>
+      <link>https://www.sciencedaily.com/releases/2026/10/261006234514.htm</link>
+      <description>A large study suggests loneliness and social isolation can cost people years of healthy life, especially when it comes to mental health. Men experiencing both lost about 5.8 years free from depression and anxiety, while women lost roughly 3.7 years.</description>
+      <pubDate>Sat, 10 Oct 2026 18:57:02 +0000</pubDate>
+      <guid>https://www.sciencedaily.com/releases/2026/10/261006234514.htm</guid>
+      <category>All Top News -- ScienceDaily</category>
+    </item>
+    <item>
+      <title>MIT astronomers catch a star in a feast that could last billions of years</title>
+      <link>https://www.sciencedaily.com/releases/2026/10/261008005240.htm</link>
+      <description>Astronomers have discovered a bizarre star system about 300 light-years from Earth where a small star is slowly devouring a nearby brown dwarf, an object too massive to be a planet but too small to be a true star. Unlike stars that rapidly swallow their companions, this one is gradually stealing material in a process that could continue for billions of years.</description>
+      <pubDate>Sat, 10 Oct 2026 18:56:25 +0000</pubDate>
+      <guid>https://www.sciencedaily.com/releases/2026/10/261008005240.htm</guid>
+      <category>All Top News -- ScienceDaily</category>
+    </item>
+    <item>
+      <title>DistroKid has been quietly taking down songs in response to UMG lawsuit</title>
+      <link>https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit</link>
+      <description>Artists are taking to social media to complain that DistroKid has unceremoniously removed their work without notice. Now DistroKid has confirmed to The Verge that the takedowns are a direct response to claims made by UMG. The label filed a lawsuit in September claiming that DistroKid has created an "AI-slop pipeline." Artists are saying that […]</description>
+      <pubDate>Sat, 10 Oct 2026 18:52:07 +0000</pubDate>
+      <guid>https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit</guid>
       <category>The Verge</category>
     </item>
     <item>
-      <title>Will Warner Bros. kill Skydance — or will David Ellison kill Warner Bros?</title>
-      <link>https://www.theverge.com/podcast/1008733/warner-skydance-paramount-ellison-debt-failure</link>
-      <description>Today, I’m talking with Peter Kafka, chief correspondent at Business Insider and host of the Channels podcast, about the gigantic Warner Bros.-Paramount merger and the future of the company now simply called Skydance. Skydance is owned by David Ellison, son of Oracle CEO Larry Ellison, and its deal to acquire Warner Bros. Discovery officially closed […]</description>
-      <pubDate>Sat, 10 Oct 2026 14:00:00 +0000</pubDate>
-      <guid>https://www.theverge.com/podcast/1008733/warner-skydance-paramount-ellison-debt-failure</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>Here are the top AI agents that can live in your text messages</title>
-      <link>https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/</link>
-      <description>We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.</description>
-      <pubDate>Sat, 10 Oct 2026 14:00:00 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>[Перевод] Джеффри Хантли: агенту хватит --help, если CLI сделана хорошо</title>
-      <link>https://habr.com/ru/articles/1092348/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092348</link>
-      <description>Джеффри Хантли о споре «MCP против CLI». По его мнению, компании с инструментами для разработчиков делятся на S-tier и F-tier, и решают это веса моделей: с GitHub модели работают через gh CLI без всяких скиллов и MCP. Новичкам он советует вылизывать --help под агентов, оптимизировать документацию под агентский веб-поиск и договариваться с лабораториями о включении документации в обучение. Читать дальше &amp;rarr;</description>
-      <pubDate>Sat, 10 Oct 2026 13:39:47 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1092348/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092348</guid>
+      <title>DarkSword «P7»: утёкшая iOS-цепочка уровня госзаказчика теперь крадёт данные криптокошельков</title>
+      <link>https://habr.com/ru/articles/1092766/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092766</link>
+      <description>Одно посещение веб-страницы с iPhone на iOS 18.4–18.7 — и через несколько секунд в SpringBoard работает имплант, который расшифровывает связку ключей прямо на устройстве, находит seed-фразы и keystore криптокошельков и отправляет их на сервер. Ещё год назад так выглядела операция, доступная единицам заказчиков. По нашей оценке, сегодня эта цепочка работает внутри сервиса доставки эксплойтов с партнёрскими «каналами», а приманками служат сайты китайских онлайн-казино. 8 октября iVerify описала кр</description>
+      <pubDate>Sat, 10 Oct 2026 17:02:14 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1092766/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092766</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Собираю робота на Raspberry Pi 5 для дочери. Но говорящей колонкой тут не отделаться! Вызов принят, погнали. (Часть 2)</title>
-      <link>https://habr.com/ru/articles/1092726/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092726</link>
-      <description>В первой части Лягушка научилась смотреть на человека, говорить и поворачивать голову. Теперь добавляю знакомые лица, память о разговорах, вопросы по фотографии, объяснения на экране и помощь со стихами. По дороге робот пропускает собственные команды, узнаёт своего «Создателя» и отправляет рисунок в принтер. А ещё выяснилось, что сильнее всего тормозило Лягушку… Читать далее</description>
-      <pubDate>Sat, 10 Oct 2026 13:23:42 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1092726/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092726</guid>
+      <title>Petra Power looks to modernize energy for data centers and defense vehicles</title>
+      <link>https://techcrunch.com/2026/10/10/petra-power-looks-to-modernize-energy-for-data-centers-and-defense-vehicles/</link>
+      <description>The startup says its fuel cells are super efficient and cut fuel costs during a time when the tech industry can’t get enough electricity.</description>
+      <pubDate>Sat, 10 Oct 2026 17:00:00 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/10/petra-power-looks-to-modernize-energy-for-data-centers-and-defense-vehicles/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>Ledger wallet tampering suspected after reports of crypto thefts</title>
+      <link>https://www.theverge.com/tech/1009294/ledger-wallet-tampering-suspected-after-reports-of-crypto-thefts</link>
+      <description>Reports have been mounting that users of the Ledger crypto wallet have seen their accounts drained, and it appears to be related to tampered hardware sold by CryptoBillis. Ledger has asked CryptoBillis to pause all sales of its wallets while it conducts an investigation. Ledger has confirmed that "one of the impacted users' devices contained […]</description>
+      <pubDate>Sat, 10 Oct 2026 16:36:44 +0000</pubDate>
+      <guid>https://www.theverge.com/tech/1009294/ledger-wallet-tampering-suspected-after-reports-of-crypto-thefts</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>«Яму» убрали, обрывы остались: один живой адрес Telegram и молчаливый лимит на 13 соединений</title>
+      <link>https://habr.com/ru/articles/1092760/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092760</link>
+      <description>Предыдущий разбор закончился тем, что из клиентского пути убрали периодическую яму: раз в десять минут прокси проверял мёртвую первую ступень, клиент оплачивал эту проверку несколькими секундами ожидания и уходил, не получив ни одного байта. Окна исчезли, сообщение «прокси использует некорректные настройки» больше не появлялось — а через несколько часов телефон снова начал терять соединения. Лог при этом выглядел безупречно: ни одной строки ERROR за девять часов, ни одного перезапуска процесса, </description>
+      <pubDate>Sat, 10 Oct 2026 16:32:44 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1092760/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092760</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Инструменты для aiogram</title>
+      <link>https://habr.com/ru/articles/1080364/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1080364</link>
+      <description>Сделай разработку ботов на aiogram проще тремя инструментами: Dependency Injection в стиле FastAPI, RateLimit для ограничения частоты вызовов хендлеров и LongCallbackData для callback_data длиннее 64 байт. Читать далее</description>
+      <pubDate>Sat, 10 Oct 2026 16:31:01 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1080364/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1080364</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
   </channel>
