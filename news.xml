@@ -5,9 +5,73 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Sun, 11 Oct 2026 18:38:17 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 22:41:15 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Как массово скачать фотографии и документы с Яндекс Диска себе на компьютер</title>
+      <link>https://habr.com/ru/articles/1093024/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093024</link>
+      <description>Всем кому СРОЧНО нужно выкачать все с Яндекс Диска себе на компьютер!!! История о том как за два часа за чашечкой кофе и с ИИ напарником попытаться спасти мир :) Читать далее</description>
+      <pubDate>Sun, 11 Oct 2026 21:55:47 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1093024/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093024</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Дизайн-система как инструкция для AI</title>
+      <link>https://habr.com/ru/articles/1093022/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093022</link>
+      <description>Дизайн-система передаёт AI решения команды через правила, примеры и проверки. На кейсах Builder и Miro разбираю, почему наличия документации ещё недостаточно и что помогает связать инструкцию с результатом. Читать далее</description>
+      <pubDate>Sun, 11 Oct 2026 21:17:27 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1093022/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093022</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Will the HomeView be Apple’s first smart home success?</title>
+      <link>https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/</link>
+      <description>Apple will announce a new smart home hub on Tuesday called the HomeView, according to Bloomberg’s Mark Gurman. Over the past couple of years, we’ve seen There have been multiple reports that Apple was working on a new smart home product, but now it seems the product has a name and a launch date. Gurman […]</description>
+      <pubDate>Sun, 11 Oct 2026 21:14:40 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>Севший на мель сухогруз Sunny Faith</title>
+      <link>https://habr.com/ru/articles/1093016/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093016</link>
+      <description>Выбрал неправильный курс - сел на мель Нет, это не очередной пост о важности постановки целей и планирования, в пятницу, у нас в регионе произошло событие, подобного которому, не было уже 53 года. Читать далее</description>
+      <pubDate>Sun, 11 Oct 2026 21:10:27 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1093016/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093016</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Aaron Sorkin’s ‘Social Reckoning’ is off to a weak start</title>
+      <link>https://techcrunch.com/2026/10/11/aaron-sorkins-social-reckoning-is-off-to-a-weak-start/</link>
+      <description>What does this mean for a fall full of movies starring villainous tech CEOs?</description>
+      <pubDate>Sun, 11 Oct 2026 20:51:47 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/11/aaron-sorkins-social-reckoning-is-off-to-a-weak-start/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>Почему тимлид не может сказать, сколько команда сделает в следующем спринте, и как я это посчитал</title>
+      <link>https://habr.com/ru/articles/1093012/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093012</link>
+      <description>Если спросить тимлида «сколько story points команда сделает в следующем спринте?», чаще всего ответ будет такой: «Ну, в прошлый раз было около 300, давай возьмём столько же». Потом выясняется, что двое уходят в отпуск, один новичок ещё не разогнался, а треть времени съедят баги. Спринт заканчивается авралом, задачи доделывают в последние два дня, и этот аврал попадает в статистику как «нормальная скорость команды». Следующий план строится уже на нём. Я руковожу кросс-функциональной командой внут</description>
+      <pubDate>Sun, 11 Oct 2026 20:45:18 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1093012/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093012</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>A college in Illinois tried to cancel its Flock contact and it refused</title>
+      <link>https://www.theverge.com/tech/1009411/elgin-community-college-flock-safety-cameras</link>
+      <description>In April of 2025, Elgin Community College had six Flock safety cameras installed to "enhance the safety and security of students." But by September of that year, the school's administration grew concerned that Flock was sharing data with Customs and Border Patrol, that camera feeds were not properly secured, and that both law enforcement and […]</description>
+      <pubDate>Sun, 11 Oct 2026 20:06:43 +0000</pubDate>
+      <guid>https://www.theverge.com/tech/1009411/elgin-community-college-flock-safety-cameras</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next</title>
+      <link>https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/</link>
+      <description>Less than 48 hours, TechCrunch Disrupt 2026 starts in San Francisco’s Moscone West. Save up to $100 on your pass before prices increase at the door, plus get 50% on a second pass. Or score other deals.</description>
+      <pubDate>Sun, 11 Oct 2026 19:00:00 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/</guid>
+      <category>TechCrunch</category>
+    </item>
     <item>
       <title>Silicon Valley is falling in line with Trump’s attempt to rename AI</title>
       <link>https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai</link>
@@ -23,70 +87,6 @@
       <pubDate>Sun, 11 Oct 2026 17:53:37 +0000</pubDate>
       <guid>https://techcrunch.com/2026/10/11/the-investors-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/</guid>
       <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>The new Apple TV could have a built-in mic and a remote with a speaker</title>
-      <link>https://www.theverge.com/tech/1009397/apple-tv-refresh-built-in-mic-remote-speaker</link>
-      <description>The latest rumors are that the new Apple TV will have a built-in microphone, while the upgraded remote will get a speaker. The mic would let users control the set-top box using Siri without having to speak into the remote or a connected HomePod device. That could also let the Apple TV serve as a […]</description>
-      <pubDate>Sun, 11 Oct 2026 17:31:07 +0000</pubDate>
-      <guid>https://www.theverge.com/tech/1009397/apple-tv-refresh-built-in-mic-remote-speaker</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>Осенью всегда должно быть комфортно и жутко. Лучшие хорроры на вечер</title>
-      <link>https://habr.com/ru/companies/timeweb/articles/1090972/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090972</link>
-      <description>Я искренне считаю, что в хорроры нужно играть исключительно осенью и зимой, а на остальные релизы отвести другое время. А еще я до сих пор уверен, что жанр находится на грани смерти и переполнен откровенно плохими релизами. Но, собственно, как говорится, критикуешь — предлагай, и поэтому сегодня я собрал несколько крепких и свежих проектов в жанре, которые точно стоит опробовать между крупными релизами этой безумной осени. Читать далее</description>
-      <pubDate>Sun, 11 Oct 2026 17:05:34 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/timeweb/articles/1090972/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090972</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Можно ли научить маленькую LLM учиться без роста весов? Продолжение: почему повторное обучение упёрлось в потолок</title>
-      <link>https://habr.com/ru/articles/1092998/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092998</link>
-      <description>В первой статье я показал несколько опытов с небольшой моделью (её размер влезает в обычную домашнюю видеокарту) вокруг одного вопроса: может ли такая модель становиться умнее со временем — не раздуваясь до огромных размеров, а за счёт памяти, аккуратного дообучения и проверки ответов. Но я тогда не сказал, ради чего всё это и что это вообще часть чего-то большего. Теперь раскрою карты. Эти опыты — не сами по себе. Это шаги к новой архитектуре, над которой я работаю; я зову её LANN-4 (если расши</description>
-      <pubDate>Sun, 11 Oct 2026 17:00:00 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1092998/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092998</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Can the AI industry persuade data center opponents by getting rid of NDAs?</title>
-      <link>https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/</link>
-      <description>On Equity, we debate the impact of data center moratoriums and whether the AI industry has a communication problem.</description>
-      <pubDate>Sun, 11 Oct 2026 16:52:33 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>TechCrunch Mobility: A roadblock clears for self-driving trucks</title>
-      <link>https://techcrunch.com/2026/10/11/techcrunch-mobility-a-roadblock-clears-for-self-driving-trucks/</link>
-      <description>Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.</description>
-      <pubDate>Sun, 11 Oct 2026 16:02:00 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/11/techcrunch-mobility-a-roadblock-clears-for-self-driving-trucks/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>Дешёвый прогноз, дорогая проверка: кто платит за страх перед ИИ</title>
-      <link>https://habr.com/ru/articles/1092608/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092608</link>
-      <description>Постараюсь вкратце и по делу сугубо. Первое что сразу хочется сказать: спасибо автору!) За рамку: у кода есть цена написания и цена владения, и разъехались они в разные стороны. Также отдельно за то, что он сам оговаривает свои источники, про отчёты Veracode особенно честно. Бухгалтерию беру у него, а тезис ниже мой: следующая строчка счёта приходит не коду, а прогнозам . Нового уже от себя добавляю: перенос механизма с кода на дискурс и то, как выглядит цена владения не в новостях, а на примере</description>
-      <pubDate>Sun, 11 Oct 2026 16:00:29 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1092608/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092608</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Dawn Myers is making it easier to style, detangle, and care for curly hair</title>
-      <link>https://techcrunch.com/2026/10/11/dawn-myers-is-making-it-easier-to-style-detangle-and-care-for-curly-hair/</link>
-      <description>Richualist is one of TechCrunch's Battlefield 200 Companies!</description>
-      <pubDate>Sun, 11 Oct 2026 16:00:00 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/11/dawn-myers-is-making-it-easier-to-style-detangle-and-care-for-curly-hair/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>Моя CRM в Obsidian на плагине Operon</title>
-      <link>https://habr.com/ru/articles/1092984/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092984</link>
-      <description>В начале сентября я провёл в канале интерактив: предложил подписчикам написать в комментариях свою профессию и пообещал каждому прислать эскиз системы в Obsidian под его работу. Эскиз - это буклет на 3 страницы: какие разделы нужны хранилищу юриста, психолога или инженера, как между ними ходит информация и какими плагинами это собирается. Профессию назвали 20 человек. Каждому ушёл буклет в личку, дальше пошли переписки и записи на консультации. Через неделю я уже не помнил, кому что отправил и к</description>
-      <pubDate>Sun, 11 Oct 2026 15:49:26 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1092984/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092984</guid>
-      <category>Все публикации подряд на Хабре</category>
     </item>
   </channel>
 </rss>
