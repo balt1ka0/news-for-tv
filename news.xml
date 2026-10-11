@@ -5,88 +5,88 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Sun, 11 Oct 2026 06:50:30 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 13:47:45 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>The eye has a hidden cleanup system scientists never knew existed</title>
-      <link>https://www.sciencedaily.com/releases/2026/10/261008005254.htm</link>
-      <description>Scientists have discovered a hidden cleanup system at the back of the eye that drains fluid and waste through a previously unknown pathway. The surprising finding, demonstrated in mice, could open the door to new treatments for glaucoma, macular degeneration, and other causes of blindness.</description>
-      <pubDate>Sun, 11 Oct 2026 06:01:54 +0000</pubDate>
-      <guid>https://www.sciencedaily.com/releases/2026/10/261008005254.htm</guid>
-      <category>All Top News -- ScienceDaily</category>
-    </item>
-    <item>
-      <title>Scientists build a nuclear clock that could make atomic clocks obsolete</title>
-      <link>https://www.sciencedaily.com/releases/2026/10/261008102701.htm</link>
-      <description>Scientists in Vienna have achieved a major breakthrough in timekeeping by creating the world’s first self-stabilizing nuclear clock, a technology that could eventually surpass even the most precise atomic clocks. Instead of relying on electrons in atoms, the clock uses the tiny nuclei of thorium atoms, which are far less sensitive to outside disturbances.</description>
-      <pubDate>Sun, 11 Oct 2026 03:06:35 +0000</pubDate>
-      <guid>https://www.sciencedaily.com/releases/2026/10/261008102701.htm</guid>
-      <category>All Top News -- ScienceDaily</category>
-    </item>
-    <item>
-      <title>Титановые белила, Геринг и ядерные испытания: как физика ловит подделки картин</title>
-      <link>https://habr.com/ru/articles/1092818/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092818</link>
-      <description>Я создал сайт, в котором указаны удивительные факты о разных произведениях искусства. artatlas.site. Сайт идеально подходит для того, чтобы втянуть человека со стороны в мир искусства. Вот одна из удивительных историй человека, который был не признан, но хотел доказать всему миру, что он чего-то стоит. Движимый больше обидой он создавал и продавал поддельные картины. Таким образом и разбогател. Никто не верил, что он сам смог создать такие качественные подделки, но он доказал всему миру и превра</description>
-      <pubDate>Sun, 11 Oct 2026 02:34:33 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1092818/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092818</guid>
+      <title>Из ИТ в fashion и к ИИ-агентам: как я создал COSMOS</title>
+      <link>https://habr.com/ru/articles/1092832/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092832</link>
+      <description>Я пришёл из ИТ в бизнес одежды. Экономика маркетплейсов заставила нас оцифровать работу и заняться автоматизацией 1С. Примерно год назад я начал собирать harness для агентов; постепенно он вырос в COSMOS — то, что я называю «ОС компании». Личная история, технические решения и границы агентной работы. Читать далее</description>
+      <pubDate>Sun, 11 Oct 2026 13:11:31 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1092832/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092832</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Neanderthals may have used prehistoric glue as an ancient antibiotic</title>
-      <link>https://www.sciencedaily.com/releases/2026/10/261008005256.htm</link>
-      <description>Neanderthals may have used a sticky substance made from birch bark to treat wounds thousands of years before antibiotics existed. Researchers recreated ancient birch tar production techniques and discovered that every sample could inhibit the growth of bacteria responsible for dangerous wound infections. Previously known mainly as a prehistoric glue, birch tar may have doubled as a surprisingly effective natural medicine.</description>
-      <pubDate>Sun, 11 Oct 2026 00:45:37 +0000</pubDate>
-      <guid>https://www.sciencedaily.com/releases/2026/10/261008005256.htm</guid>
-      <category>All Top News -- ScienceDaily</category>
-    </item>
-    <item>
-      <title>Scientists created a tiny device that can control your nerves to treat chronic pain</title>
-      <link>https://www.sciencedaily.com/releases/2026/10/261008005253.htm</link>
-      <description>Scientists have developed a tiny, injectable device that can control nerve activity without surgery, batteries, or wires, potentially transforming treatment for chronic pain and movement disorders. Powered wirelessly from outside the body, the seed-sized technology has shown promising results in early testing.</description>
-      <pubDate>Sun, 11 Oct 2026 00:23:19 +0000</pubDate>
-      <guid>https://www.sciencedaily.com/releases/2026/10/261008005253.htm</guid>
-      <category>All Top News -- ScienceDaily</category>
-    </item>
-    <item>
-      <title>Odyssey-3: мировая модель, которая учит роботов физике по видео</title>
-      <link>https://habr.com/ru/articles/1092810/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092810</link>
-      <description>Попробуйте объяснить ребёнку, почему кружка, столкнутая со стола, разбивается. Вы вряд ли начнёте с закона всемирного тяготения. Ребёнок увидит сотни падающих предметов, и в его голове сам собой сложился образ: вещи падают, твёрдое о твёрдое бьётся, жидкость растекается. Физику он «впитал» из наблюдений, а не из учебника. А теперь представьте, что так же можно научить нейросеть. Не показывать ей тысячи часов одной и той же задачи, а дать посмотреть огромное количество видео, чтобы она сама понял</description>
-      <pubDate>Sat, 10 Oct 2026 22:23:51 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1092810/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092810</guid>
+      <title>AdaEngine 1.0.0: от движка к полноценной среде разработки игр</title>
+      <link>https://habr.com/ru/articles/1092864/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092864</link>
+      <description>Ada Studio: код, сцены и инструменты разработки в одном рабочем пространстве. Мы представляем AdaEngine 1.0.0 — большое обновление нашего открытого игрового движка на Swift. Первый публичный релиз заложил основу: ECS, рендеринг, сцены, ассеты, физику, звук и AdaUI. С тех пор мы работали над тем, чтобы эти возможности складывались в удобный процесс создания игры. В версии 1.0.0 появился новый Ada Studio с AI-агентами и интерактивными A2UI-инструментами, значительно выросли возможности AdaScript, </description>
+      <pubDate>Sun, 11 Oct 2026 13:07:49 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1092864/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092864</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Satya Nadella says we should assume all AI models are ‘compromised’</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised</link>
-      <description>In a lengthy post on X, Microsoft's CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks. Nadella says we can no longer accept a world where AI is treated as a "set of nested black boxes" whose advice and actions we simply accept or […]</description>
-      <pubDate>Sat, 10 Oct 2026 22:10:17 +0000</pubDate>
-      <guid>https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised</guid>
+      <title>Фабрика EVPN-VXLAN, которая выглядит исправной и не передаёт ни одного пакета</title>
+      <link>https://habr.com/ru/articles/1092896/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092896</link>
+      <description>Собрал дома фабрику EVPN-VXLAN на бесплатных образах Junos в containerlab — под Windows, в WSL2, на AMD. Фабрика поднялась: обе сессии BGP в Establ, маршруты EVPN разошлись, туннель построен, MAC соседнего хоста в таблице. И при этом между хостами не проходит ни одного пакета. Разбор по трём захватам и разгадка в одну строку конфига, которой нет ни в одном туториале. Вторая половина — про то, как мерить отказы честно: почему ping с секундным разрешением не годится, и что показал поток в тысячу п</description>
+      <pubDate>Sun, 11 Oct 2026 13:00:28 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1092896/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092896</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>[Перевод] Археологи расшифровали правила древнеримской настольной игры при помощи ИИ</title>
+      <link>https://habr.com/ru/articles/1092878/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092878</link>
+      <description>Учёные использовали искусственный интеллект для анализа следов износа на куске известняка размером примерно 20 × 15 сантиметров, относящемся к римской эпохе и хранящемся в Римском музее в Нидерландах. Фото: Luk van Goor. На протяжении десятилетий небольшой потёртый камень с выгравированным на нём узором из прямоугольников и линий спокойно лежал в голландском музее. Специалисты считали его обломком архитектурного элемента. Однако теперь авторы исследования, опубликованного в журнале Antiquity, пр</description>
+      <pubDate>Sun, 11 Oct 2026 13:00:17 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1092878/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092878</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Vurt wants you to look at vertical videos as a genre of their own</title>
+      <link>https://www.theverge.com/entertainment/1008720/vurt-microdramas-verticals-interview-hilmon-sorey</link>
+      <description>From Disney Plus to HBO Max, almost every major established streaming service is experimenting with ways to get into vertical content. It's clear that these companies see video-focused social media platforms like TikTok and Instagram as existential threats. In this arms race for viewers' attention, it has often felt like everyone is trying to find […]</description>
+      <pubDate>Sun, 11 Oct 2026 13:00:00 +0000</pubDate>
+      <guid>https://www.theverge.com/entertainment/1008720/vurt-microdramas-verticals-interview-hilmon-sorey</guid>
       <category>The Verge</category>
     </item>
     <item>
-      <title>Нейросеть по рецепту: вычисляем веса вместо хранения матриц</title>
-      <link>https://habr.com/ru/articles/1092220/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092220</link>
-      <description>Веса нейросети — это очень много циферок в очень больших матрицах. А что, если вместо них хранить небольшой рецепт, по которому нужные веса можно вычислить? Такие подходы уже есть: от маленькой сети, которая генерирует другую сеть, до формул и настоящих фракталов. Разберёмся, что из этого работает и чем приходится платить за компактность. Посмотрим, как далеко LLM находится от участи первого Doom - быть запущенной на каждом чайнике. Читать далее</description>
-      <pubDate>Sat, 10 Oct 2026 22:01:23 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1092220/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092220</guid>
+      <title>What to expect from Apple’s ‘Welcome Home’ event</title>
+      <link>https://www.theverge.com/tech/1009317/apple-what-to-expect-welcome-home</link>
+      <description>We are quickly coming up on Apple's "Welcome Home" launch event, where we expect a host of smart home-related announcements. We are expecting refreshes to Apple TV and HomePod Mini, as well as a brand new smart home hub. We could also see the debut of a new platform called homeOS, and some partner devices […]</description>
+      <pubDate>Sun, 11 Oct 2026 13:00:00 +0000</pubDate>
+      <guid>https://www.theverge.com/tech/1009317/apple-what-to-expect-welcome-home</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>Мобильная разработка за неделю #649 (4 — 11 октября)</title>
+      <link>https://habr.com/ru/articles/1092886/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092886</link>
+      <description>В новом выпуске ioS-приложение на 10 лет и правда о Coil в Jetpack Compose, физический аналоговый ввод на плоском экране в iOS и первый убыток JetBrains за 26 лет, «конце эпохи ручного программирования», почему нельзя слепо копировать Ozon, Amazon и Taobao, история Chess.com, ИИ-ревьюер на 4000 PR в день и многое другое. Заходите! Читать далее</description>
+      <pubDate>Sun, 11 Oct 2026 12:54:42 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1092886/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092886</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Microsoft’s Satya Nadella says AI models need an ‘emergency brake’</title>
-      <link>https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/</link>
-      <description>In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.</description>
-      <pubDate>Sat, 10 Oct 2026 21:47:51 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/</guid>
-      <category>TechCrunch</category>
+      <title>Слово не переводится, а реплика рядом переводится: разбираю баг во встроенном переводчике Chrome</title>
+      <link>https://habr.com/ru/articles/1092872/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092872</link>
+      <description>Я сделал это расширение для себя. Смотрю фильмы и сериалы с английскими субтитрами, и раньше каждое незнакомое слово значило паузу и вкладку с переводчиком. Встроенный переводчик Chrome переводит страницы, а с субтитрами в видео не помогает. Поэтому у меня просто тултип: навёл на слово и сразу видишь перевод. Переводит Translator API, он встроен в Chrome и работает прямо на устройстве. О самом расширении я рассказывал в прошлой статье, тут только про один баг. Читать далее</description>
+      <pubDate>Sun, 11 Oct 2026 12:24:04 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1092872/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092872</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Поэзия агентной разработки или как теперь писать код</title>
-      <link>https://habr.com/ru/articles/1092802/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092802</link>
-      <description>Я к вам пишу — чего же боле? Агент все может написать. Но за ошибки поневоле Придется вам же отвечать. (Письмо инженера Татьяны к вайбкодеру Евгению) Как писать код с агентами, говорят много, часто предлагают конкретные подходы. На мой взгляд, полезнее подняться на уровень абстракции выше — разобраться в проблематике, ценностях и смыслах, и только после переходить к деталям. Читать далее</description>
-      <pubDate>Sat, 10 Oct 2026 20:58:25 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1092802/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092802</guid>
-      <category>Все публикации подряд на Хабре</category>
+      <title>Horror is big business</title>
+      <link>https://www.theverge.com/column/1008432/horror-popular-widows-bay-resident-evil</link>
+      <description>This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on how pervasive horror has become, follow Andrew Webster. The Stepback, arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started Resident Evil has been around for 30 […]</description>
+      <pubDate>Sun, 11 Oct 2026 12:00:00 +0000</pubDate>
+      <guid>https://www.theverge.com/column/1008432/horror-popular-widows-bay-resident-evil</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>Why the LeapPad couldn’t survive the iPad</title>
+      <link>https://www.theverge.com/podcast/1008578/leapfrog-leappad-technology-version-history</link>
+      <description>For multiple years, the hottest toy in the United States was a book. But not just any book: a smart book that could play sounds and respond to taps and help kids learn to read. It was the kind of gadget seemingly any parent could get behind, but it came with a high price - […]</description>
+      <pubDate>Sun, 11 Oct 2026 12:00:00 +0000</pubDate>
+      <guid>https://www.theverge.com/podcast/1008578/leapfrog-leappad-technology-version-history</guid>
+      <category>The Verge</category>
     </item>
   </channel>
 </rss>
