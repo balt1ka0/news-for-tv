@@ -5,9 +5,49 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Sat, 10 Oct 2026 20:29:19 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 00:06:55 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Odyssey-3: мировая модель, которая учит роботов физике по видео</title>
+      <link>https://habr.com/ru/articles/1092810/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092810</link>
+      <description>Попробуйте объяснить ребёнку, почему кружка, столкнутая со стола, разбивается. Вы вряд ли начнёте с закона всемирного тяготения. Ребёнок увидит сотни падающих предметов, и в его голове сам собой сложился образ: вещи падают, твёрдое о твёрдое бьётся, жидкость растекается. Физику он «впитал» из наблюдений, а не из учебника. А теперь представьте, что так же можно научить нейросеть. Не показывать ей тысячи часов одной и той же задачи, а дать посмотреть огромное количество видео, чтобы она сама понял</description>
+      <pubDate>Sat, 10 Oct 2026 22:23:51 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1092810/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092810</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Satya Nadella says we should assume all AI models are ‘compromised’</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised</link>
+      <description>In a lengthy post on X, Microsoft's CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks. Nadella says we can no longer accept a world where AI is treated as a "set of nested black boxes" whose advice and actions we simply accept or […]</description>
+      <pubDate>Sat, 10 Oct 2026 22:10:17 +0000</pubDate>
+      <guid>https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>Нейросеть по рецепту: вычисляем веса вместо хранения матриц</title>
+      <link>https://habr.com/ru/articles/1092220/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092220</link>
+      <description>Веса нейросети — это очень много циферок в очень больших матрицах. А что, если вместо них хранить небольшой рецепт, по которому нужные веса можно вычислить? Такие подходы уже есть: от маленькой сети, которая генерирует другую сеть, до формул и настоящих фракталов. Разберёмся, что из этого работает и чем приходится платить за компактность. Посмотрим, как далеко LLM находится от участи первого Doom - быть запущенной на каждом чайнике. Читать далее</description>
+      <pubDate>Sat, 10 Oct 2026 22:01:23 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1092220/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092220</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Microsoft’s Satya Nadella says AI models need an ‘emergency brake’</title>
+      <link>https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/</link>
+      <description>In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.</description>
+      <pubDate>Sat, 10 Oct 2026 21:47:51 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>Поэзия агентной разработки или как теперь писать код</title>
+      <link>https://habr.com/ru/articles/1092802/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092802</link>
+      <description>Я к вам пишу — чего же боле? Агент все может написать. Но за ошибки поневоле Придется вам же отвечать. (Письмо инженера Татьяны к вайбкодеру Евгению) Как писать код с агентами, говорят много, часто предлагают конкретные подходы. На мой взгляд, полезнее подняться на уровень абстракции выше — разобраться в проблематике, ценностях и смыслах, и только после переходить к деталям. Читать далее</description>
+      <pubDate>Sat, 10 Oct 2026 20:58:25 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1092802/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092802</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
     <item>
       <title>Apple discloses deal to hire team and license tech from personalized podcast startup Huxe</title>
       <link>https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/</link>
@@ -47,46 +87,6 @@
       <pubDate>Sat, 10 Oct 2026 18:52:07 +0000</pubDate>
       <guid>https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit</guid>
       <category>The Verge</category>
-    </item>
-    <item>
-      <title>DarkSword «P7»: утёкшая iOS-цепочка уровня госзаказчика теперь крадёт данные криптокошельков</title>
-      <link>https://habr.com/ru/articles/1092766/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092766</link>
-      <description>Одно посещение веб-страницы с iPhone на iOS 18.4–18.7 — и через несколько секунд в SpringBoard работает имплант, который расшифровывает связку ключей прямо на устройстве, находит seed-фразы и keystore криптокошельков и отправляет их на сервер. Ещё год назад так выглядела операция, доступная единицам заказчиков. По нашей оценке, сегодня эта цепочка работает внутри сервиса доставки эксплойтов с партнёрскими «каналами», а приманками служат сайты китайских онлайн-казино. 8 октября iVerify описала кр</description>
-      <pubDate>Sat, 10 Oct 2026 17:02:14 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1092766/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092766</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Petra Power looks to modernize energy for data centers and defense vehicles</title>
-      <link>https://techcrunch.com/2026/10/10/petra-power-looks-to-modernize-energy-for-data-centers-and-defense-vehicles/</link>
-      <description>The startup says its fuel cells are super efficient and cut fuel costs during a time when the tech industry can’t get enough electricity.</description>
-      <pubDate>Sat, 10 Oct 2026 17:00:00 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/10/petra-power-looks-to-modernize-energy-for-data-centers-and-defense-vehicles/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>Ledger wallet tampering suspected after reports of crypto thefts</title>
-      <link>https://www.theverge.com/tech/1009294/ledger-wallet-tampering-suspected-after-reports-of-crypto-thefts</link>
-      <description>Reports have been mounting that users of the Ledger crypto wallet have seen their accounts drained, and it appears to be related to tampered hardware sold by CryptoBillis. Ledger has asked CryptoBillis to pause all sales of its wallets while it conducts an investigation. Ledger has confirmed that "one of the impacted users' devices contained […]</description>
-      <pubDate>Sat, 10 Oct 2026 16:36:44 +0000</pubDate>
-      <guid>https://www.theverge.com/tech/1009294/ledger-wallet-tampering-suspected-after-reports-of-crypto-thefts</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>«Яму» убрали, обрывы остались: один живой адрес Telegram и молчаливый лимит на 13 соединений</title>
-      <link>https://habr.com/ru/articles/1092760/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092760</link>
-      <description>Предыдущий разбор закончился тем, что из клиентского пути убрали периодическую яму: раз в десять минут прокси проверял мёртвую первую ступень, клиент оплачивал эту проверку несколькими секундами ожидания и уходил, не получив ни одного байта. Окна исчезли, сообщение «прокси использует некорректные настройки» больше не появлялось — а через несколько часов телефон снова начал терять соединения. Лог при этом выглядел безупречно: ни одной строки ERROR за девять часов, ни одного перезапуска процесса, </description>
-      <pubDate>Sat, 10 Oct 2026 16:32:44 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1092760/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092760</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Инструменты для aiogram</title>
-      <link>https://habr.com/ru/articles/1080364/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1080364</link>
-      <description>Сделай разработку ботов на aiogram проще тремя инструментами: Dependency Injection в стиле FastAPI, RateLimit для ограничения частоты вызовов хендлеров и LongCallbackData для callback_data длиннее 64 байт. Читать далее</description>
-      <pubDate>Sat, 10 Oct 2026 16:31:01 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1080364/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1080364</guid>
-      <category>Все публикации подряд на Хабре</category>
     </item>
   </channel>
 </rss>
