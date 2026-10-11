@@ -5,9 +5,49 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Sun, 11 Oct 2026 00:06:55 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 06:50:30 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The eye has a hidden cleanup system scientists never knew existed</title>
+      <link>https://www.sciencedaily.com/releases/2026/10/261008005254.htm</link>
+      <description>Scientists have discovered a hidden cleanup system at the back of the eye that drains fluid and waste through a previously unknown pathway. The surprising finding, demonstrated in mice, could open the door to new treatments for glaucoma, macular degeneration, and other causes of blindness.</description>
+      <pubDate>Sun, 11 Oct 2026 06:01:54 +0000</pubDate>
+      <guid>https://www.sciencedaily.com/releases/2026/10/261008005254.htm</guid>
+      <category>All Top News -- ScienceDaily</category>
+    </item>
+    <item>
+      <title>Scientists build a nuclear clock that could make atomic clocks obsolete</title>
+      <link>https://www.sciencedaily.com/releases/2026/10/261008102701.htm</link>
+      <description>Scientists in Vienna have achieved a major breakthrough in timekeeping by creating the world’s first self-stabilizing nuclear clock, a technology that could eventually surpass even the most precise atomic clocks. Instead of relying on electrons in atoms, the clock uses the tiny nuclei of thorium atoms, which are far less sensitive to outside disturbances.</description>
+      <pubDate>Sun, 11 Oct 2026 03:06:35 +0000</pubDate>
+      <guid>https://www.sciencedaily.com/releases/2026/10/261008102701.htm</guid>
+      <category>All Top News -- ScienceDaily</category>
+    </item>
+    <item>
+      <title>Титановые белила, Геринг и ядерные испытания: как физика ловит подделки картин</title>
+      <link>https://habr.com/ru/articles/1092818/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092818</link>
+      <description>Я создал сайт, в котором указаны удивительные факты о разных произведениях искусства. artatlas.site. Сайт идеально подходит для того, чтобы втянуть человека со стороны в мир искусства. Вот одна из удивительных историй человека, который был не признан, но хотел доказать всему миру, что он чего-то стоит. Движимый больше обидой он создавал и продавал поддельные картины. Таким образом и разбогател. Никто не верил, что он сам смог создать такие качественные подделки, но он доказал всему миру и превра</description>
+      <pubDate>Sun, 11 Oct 2026 02:34:33 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1092818/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092818</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Neanderthals may have used prehistoric glue as an ancient antibiotic</title>
+      <link>https://www.sciencedaily.com/releases/2026/10/261008005256.htm</link>
+      <description>Neanderthals may have used a sticky substance made from birch bark to treat wounds thousands of years before antibiotics existed. Researchers recreated ancient birch tar production techniques and discovered that every sample could inhibit the growth of bacteria responsible for dangerous wound infections. Previously known mainly as a prehistoric glue, birch tar may have doubled as a surprisingly effective natural medicine.</description>
+      <pubDate>Sun, 11 Oct 2026 00:45:37 +0000</pubDate>
+      <guid>https://www.sciencedaily.com/releases/2026/10/261008005256.htm</guid>
+      <category>All Top News -- ScienceDaily</category>
+    </item>
+    <item>
+      <title>Scientists created a tiny device that can control your nerves to treat chronic pain</title>
+      <link>https://www.sciencedaily.com/releases/2026/10/261008005253.htm</link>
+      <description>Scientists have developed a tiny, injectable device that can control nerve activity without surgery, batteries, or wires, potentially transforming treatment for chronic pain and movement disorders. Powered wirelessly from outside the body, the seed-sized technology has shown promising results in early testing.</description>
+      <pubDate>Sun, 11 Oct 2026 00:23:19 +0000</pubDate>
+      <guid>https://www.sciencedaily.com/releases/2026/10/261008005253.htm</guid>
+      <category>All Top News -- ScienceDaily</category>
+    </item>
     <item>
       <title>Odyssey-3: мировая модель, которая учит роботов физике по видео</title>
       <link>https://habr.com/ru/articles/1092810/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092810</link>
@@ -47,46 +87,6 @@
       <pubDate>Sat, 10 Oct 2026 20:58:25 +0000</pubDate>
       <guid>https://habr.com/ru/articles/1092802/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092802</guid>
       <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Apple discloses deal to hire team and license tech from personalized podcast startup Huxe</title>
-      <link>https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/</link>
-      <description>Is Apple hoping to get into the AI-generated podcast business?</description>
-      <pubDate>Sat, 10 Oct 2026 19:50:00 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>Scientists may have found a shortcut to fusion energy</title>
-      <link>https://www.sciencedaily.com/releases/2026/10/261008005242.htm</link>
-      <description>Princeton Plasma Physics Laboratory may have found a dramatically more efficient route to fusion energy by reversing the traditional approach: heating plasma first, then increasing its density. Their calculations could help future reactors reach self-sustaining fusion with far less energy while avoiding hidden problems that make ignition harder.</description>
-      <pubDate>Sat, 10 Oct 2026 18:57:27 +0000</pubDate>
-      <guid>https://www.sciencedaily.com/releases/2026/10/261008005242.htm</guid>
-      <category>All Top News -- ScienceDaily</category>
-    </item>
-    <item>
-      <title>Loneliness may steal nearly 6 years of good health</title>
-      <link>https://www.sciencedaily.com/releases/2026/10/261006234514.htm</link>
-      <description>A large study suggests loneliness and social isolation can cost people years of healthy life, especially when it comes to mental health. Men experiencing both lost about 5.8 years free from depression and anxiety, while women lost roughly 3.7 years.</description>
-      <pubDate>Sat, 10 Oct 2026 18:57:02 +0000</pubDate>
-      <guid>https://www.sciencedaily.com/releases/2026/10/261006234514.htm</guid>
-      <category>All Top News -- ScienceDaily</category>
-    </item>
-    <item>
-      <title>MIT astronomers catch a star in a feast that could last billions of years</title>
-      <link>https://www.sciencedaily.com/releases/2026/10/261008005240.htm</link>
-      <description>Astronomers have discovered a bizarre star system about 300 light-years from Earth where a small star is slowly devouring a nearby brown dwarf, an object too massive to be a planet but too small to be a true star. Unlike stars that rapidly swallow their companions, this one is gradually stealing material in a process that could continue for billions of years.</description>
-      <pubDate>Sat, 10 Oct 2026 18:56:25 +0000</pubDate>
-      <guid>https://www.sciencedaily.com/releases/2026/10/261008005240.htm</guid>
-      <category>All Top News -- ScienceDaily</category>
-    </item>
-    <item>
-      <title>DistroKid has been quietly taking down songs in response to UMG lawsuit</title>
-      <link>https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit</link>
-      <description>Artists are taking to social media to complain that DistroKid has unceremoniously removed their work without notice. Now DistroKid has confirmed to The Verge that the takedowns are a direct response to claims made by UMG. The label filed a lawsuit in September claiming that DistroKid has created an "AI-slop pipeline." Artists are saying that […]</description>
-      <pubDate>Sat, 10 Oct 2026 18:52:07 +0000</pubDate>
-      <guid>https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit</guid>
-      <category>The Verge</category>
     </item>
   </channel>
 </rss>
