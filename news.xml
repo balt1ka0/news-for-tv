@@ -5,19 +5,43 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Sun, 11 Oct 2026 22:41:15 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 02:06:15 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Как массово скачать фотографии и документы с Яндекс Диска себе на компьютер</title>
-      <link>https://habr.com/ru/articles/1093024/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093024</link>
-      <description>Всем кому СРОЧНО нужно выкачать все с Яндекс Диска себе на компьютер!!! История о том как за два часа за чашечкой кофе и с ИИ напарником попытаться спасти мир :) Читать далее</description>
-      <pubDate>Sun, 11 Oct 2026 21:55:47 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1093024/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093024</guid>
+      <link>https://habr.com/ru/articles/1093052/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093052</link>
+      <description>Привет! Если вы читаете эту статью, то у вас возникла такая же проблема как и у многих сейчас. Срочно надо скачать все и сразу. А по одной фоточке выгружать это конечно такое себе. И хоть есть локальное приложение Яндекс Диск для Windows для других ОС, а у меня к примеру Linux, установить его возможности нет. В общем понимать надо. Сложить руки нам никак нельзя, задачу надо решать и решать оперативно! Поэтому за пару часов, мы с агентом накидали вам свое творение, не судите строго, но все работа</description>
+      <pubDate>Mon, 12 Oct 2026 01:35:46 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1093052/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093052</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Дизайн-система как инструкция для AI</title>
+      <title>Микросервисы(async single-threaded) в эмбеддед. OpenBMC и рефакторинг «кошмара на С++» с помощью ИИ</title>
+      <link>https://habr.com/ru/articles/1092774/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092774</link>
+      <description>Я всегда знал, что разработка для встраиваемых систем (embedded) является не тривиальным делом, но даже не представлял, насколько С++ код в реальных enterprise-проектах может быть... скажем так, перегруженным. Тем интереснее попытаться исправить хотя бы кусочек такого кода, тем более что сегодня у нас есть прилежный цифровой помощник. Справится ли искусственный интеллект с рефакторингом кода, от которого у обычного разработчика дёргается глаз? И в чём нейросети пока ещё безоговорочно уступают че</description>
+      <pubDate>Mon, 12 Oct 2026 01:05:03 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1092774/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092774</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know</title>
+      <link>https://techcrunch.com/2026/10/11/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/</link>
+      <description>TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programming and speaker lineup reflect that.</description>
+      <pubDate>Mon, 12 Oct 2026 00:59:01 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/11/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>Нейропрокси для агентов. Чать 1: Gigachat</title>
+      <link>https://habr.com/ru/articles/1093040/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093040</link>
+      <description>Hermes Agent я использую как основной «агентный комбайн». Долгое время он крутился на DeepSeek, но захотелось экспериментов с LLM - первое за что взялся GigaChat от Сбера: русский язык, российская юрисдикция и огромное количество токенов "за красивые глаза". Казалось бы, делов-то - подставить ключ в конфиг. Но не тут-то было. Читать далее</description>
+      <pubDate>Mon, 12 Oct 2026 00:04:16 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1093040/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093040</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Дизайн‑система как инструкция для AI</title>
       <link>https://habr.com/ru/articles/1093022/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093022</link>
       <description>Дизайн-система передаёт AI решения команды через правила, примеры и проверки. На кейсах Builder и Miro разбираю, почему наличия документации ещё недостаточно и что помогает связать инструкцию с результатом. Читать далее</description>
       <pubDate>Sun, 11 Oct 2026 21:17:27 +0000</pubDate>
@@ -27,7 +51,7 @@
     <item>
       <title>Will the HomeView be Apple’s first smart home success?</title>
       <link>https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/</link>
-      <description>Apple will announce a new smart home hub on Tuesday called the HomeView, according to Bloomberg’s Mark Gurman. Over the past couple of years, we’ve seen There have been multiple reports that Apple was working on a new smart home product, but now it seems the product has a name and a launch date. Gurman […]</description>
+      <description>Over the past couple of years, we’ve seen multiple reports that Apple was working on a new smart home product, but now it seems the product has a name and a launch date.</description>
       <pubDate>Sun, 11 Oct 2026 21:14:40 +0000</pubDate>
       <guid>https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/</guid>
       <category>TechCrunch</category>
@@ -63,30 +87,6 @@
       <pubDate>Sun, 11 Oct 2026 20:06:43 +0000</pubDate>
       <guid>https://www.theverge.com/tech/1009411/elgin-community-college-flock-safety-cameras</guid>
       <category>The Verge</category>
-    </item>
-    <item>
-      <title>48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next</title>
-      <link>https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/</link>
-      <description>Less than 48 hours, TechCrunch Disrupt 2026 starts in San Francisco’s Moscone West. Save up to $100 on your pass before prices increase at the door, plus get 50% on a second pass. Or score other deals.</description>
-      <pubDate>Sun, 11 Oct 2026 19:00:00 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>Silicon Valley is falling in line with Trump’s attempt to rename AI</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai</link>
-      <description>When President Donald Trump announced his plans to rebrand artificial intelligence as "super intelligence," you'd be forgiven for being skeptical that it would catch on. While most of the broader population is sticking with AI, some of Silicon Valley's most powerful are falling in line and trying to give Trump the great AI rebrand he […]</description>
-      <pubDate>Sun, 11 Oct 2026 18:33:56 +0000</pubDate>
-      <guid>https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>The investor’s guide to TechCrunch Disrupt 2026: Everything you need to know</title>
-      <link>https://techcrunch.com/2026/10/11/the-investors-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/</link>
-      <description>Year after year, investors who've explored the Expo Halls, met founders, and learned from peers have proven why you need to be on the ground at Disrupt Oct. 13.</description>
-      <pubDate>Sun, 11 Oct 2026 17:53:37 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/11/the-investors-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/</guid>
-      <category>TechCrunch</category>
     </item>
   </channel>
 </rss>
