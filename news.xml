@@ -5,88 +5,88 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Mon, 12 Oct 2026 10:19:30 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 20:07:56 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Квестоша: ИИ-помощник в контакт-центре агрегатора квестов</title>
-      <link>https://habr.com/ru/articles/1093240/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093240</link>
-      <description>«Мир Квестов» агрегирует квесты в реальности, и клиенты пишут в чат, чтобы подобрать игру и забронировать. С третьего квартала 2026 года первым в чате отвечает бот Квестоша. Рассказываем, как он устроен: вики из markdown-файлов вместо дообучения, маскировка персональных данных до модели, каталог сайта по MCP, ночной цикл правок с экзаменом и сравнение пяти моделей по двенадцати гейтам безопасности. Вторая часть про людей: карта стейкхолдеров, ожидания смежных команд и пять уроков для тимлида. Чи</description>
-      <pubDate>Mon, 12 Oct 2026 09:57:25 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1093240/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093240</guid>
+      <title>На арене PlyLoom — Qwen против DeepSeek</title>
+      <link>https://habr.com/ru/articles/1093546/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093546</link>
+      <description>Суть эксперимента сравнить графовые ответы 2-х моделей относительно друг-друга. Обоим моделям (QWEN 3.8 MAX и DEEPSEEK V4) был задан один и тот же перекрестный вопрос. Результаты загружены в PlyLoom для анализа и сравнения. Читать далее</description>
+      <pubDate>Mon, 12 Oct 2026 19:23:05 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1093546/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093546</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Неожиданный антивайб разработки через ИИ-агентов</title>
-      <link>https://habr.com/ru/articles/1093258/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093258</link>
-      <description>Менеджеры считают, что ИИ-агенты ускорят разработку в десять раз. Математика говорит, что ускорится только написание. Проверять смысл по-прежнему будут люди, с конечной скоростью, и очередь выстроится к самым опытным. PostgreSQL 19 не вышел в срок. Не потому, что ИИ нашёл много багов, а потому что ИИ научился генерировать правдоподобные отчёты быстрее, чем люди успевают их читать. В статье разбираю, почему так, где настоящий предел и что меняется. Читать далее</description>
-      <pubDate>Mon, 12 Oct 2026 09:56:59 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1093258/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093258</guid>
+      <title>Город для робота-курьера в браузере: Arduino Uno, физика и пешеходы, которые уступают дорогу</title>
+      <link>https://habr.com/ru/articles/1093544/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093544</link>
+      <description>Мы создали симуляцию 3D-города с машинами, пешеходами и светофорами, по которому ездит шестиколёсный робот под управлением настоящего скетча Arduino в вашем браузере. Все это для обучения детей и взрослых в кружках робототехники. Читать далее</description>
+      <pubDate>Mon, 12 Oct 2026 19:21:24 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1093544/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093544</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Премию Нобеля по экономике присудили за изучение микроэкономических основ макроэкономической стабилизации</title>
-      <link>https://nplus1.ru/news/2026/10/12/nobel-economic-2026</link>
-      <description>Премию Нобеля по экономике присудили за изучение микроэкономических основ макроэкономической стабилизации</description>
-      <pubDate>Mon, 12 Oct 2026 09:51:00 +0000</pubDate>
-      <guid>https://nplus1.ru/news/2026/10/12/nobel-economic-2026</guid>
+      <title>Конверсия упала на 14% за ночь. Найдите причину за 20 минут</title>
+      <link>https://habr.com/ru/companies/otus/articles/1088882/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1088882</link>
+      <description>Конверсия интернет-магазина за ночь упала на 14%, хотя оплаченных заказов стало больше. Под подозрением — релиз iOS и посевы в Telegram. Разбираем, как за 20 минут проверить метрику, выявить сбой трекинга и разобраться в реальных причинах просадки. Читать далее</description>
+      <pubDate>Mon, 12 Oct 2026 19:05:31 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/otus/articles/1088882/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1088882</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Насекомые обзавелись крыльями всего один раз в истории</title>
+      <link>https://nplus1.ru/news/2026/10/12/origin-of-winged-insects</link>
+      <description>Насекомые обзавелись крыльями всего один раз в истории</description>
+      <pubDate>Mon, 12 Oct 2026 19:00:00 +0000</pubDate>
+      <guid>https://nplus1.ru/news/2026/10/12/origin-of-winged-insects</guid>
       <category>N + 1 — главное издание о науке, технике и технологиях</category>
     </item>
     <item>
-      <title>Ловушка дешевого GPU: почему цена за час ничего не говорит о реальных затратах на ИИ-проект</title>
-      <link>https://habr.com/ru/companies/k2tech/articles/1093244/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093244</link>
-      <description>Почасовой тариф на GPU давно стал главным аргументом при выборе облачной площадки. Открываешь таблицу, находишь минимальную ставку, запрашиваешь коммерческое предложение. Логика понятная: дешевле час — дешевле проект. На практике бюджет ИИ-проекта определяют не тарифы. Его определяют простои, скорость хранилища и сети, время инженеров на настройку и отладку. Проект, который начинался как выгодный по прайс-листу, уходит в перерасход, и заметно это становится только к середине работ. Привет, Хабр!</description>
-      <pubDate>Mon, 12 Oct 2026 09:45:30 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/k2tech/articles/1093244/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093244</guid>
+      <title>Meta releases its first frontier model, Muse Wonder</title>
+      <link>https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/</link>
+      <description>Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and better results on complex tasks like coding.</description>
+      <pubDate>Mon, 12 Oct 2026 17:56:56 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>WindBorne wins a hefty US Air Force contract for its balloon data</title>
+      <link>https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/</link>
+      <description>A Silicon Valley startup that uses weather balloons and AI to predict the weather won a U.S. military contract worth almost $50 million.</description>
+      <pubDate>Mon, 12 Oct 2026 17:19:14 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>[Перевод] Я заказал художнику рисунок своего дома, и теперь это мой дашборд Home Assistant</title>
+      <link>https://habr.com/ru/articles/1093134/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093134</link>
+      <description>Антон Фролов год автоматизировал дом на Home Assistant, но приложением, кроме него, никто в семье пользоваться не хотел. Тогда он заказал художнику иллюстрацию дома в разрезе и собрал из неё дашборд: камин и кондиционеры анимированы, ночью меняется освещение, оба этажа и сад видны на телевизоре. В статье техзадание для художника, карточка picture-elements, переключение дня и ночи, YAML-режим и киоск на HDMI. Читать дальше &amp;rarr;</description>
+      <pubDate>Mon, 12 Oct 2026 17:01:24 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1093134/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093134</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Я держу VPN ради нейросетей, и за неделю у меня отвалились восемь рабочих сервисов</title>
-      <link>https://habr.com/ru/articles/1093242/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093242</link>
-      <description>12 октября утром не открылся TGBooster, через который я веду рекламу в Telegram. Неделю назад я уже чинил его доступ при включённом VPN, и всё работало. Оказалось, сервис за это время переехал на новый IP, а моё исключение осталось на старом. Это был восьмой рабочий сайт за неделю, который отвалился у меня из-за VPN. И каждый раз причина была своя. Читать далее</description>
-      <pubDate>Mon, 12 Oct 2026 09:41:03 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1093242/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093242</guid>
+      <title>Свой переключатель раскладки на Delphi, от низкоуровневого хука до скоринга n-грамм</title>
+      <link>https://habr.com/ru/articles/1093518/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093518</link>
+      <description>Знакомая картина. Пишешь на автомате сложный однострочник в терминале или строчку кода в любимой IDE, нажимаешь клавишу – и с тоской наблюдаешь, как вместо команды на экране появляется россыпь кракозябр вроде git ghjvjnt или docker compose гз (примеры – для примера). Шелл ожидаемо выдает ошибку, пальцы по привычке зажимают Ctrl+Backspace или долбят клавишу удаления, а рабочий настрой разбивается о банальный язык ввода. Хуже этого может быть только поведение так называемых «умных помощников», кот</description>
+      <pubDate>Mon, 12 Oct 2026 17:00:40 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1093518/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093518</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Продвижение Telegram-канала в 2026 году: что изменилось за 3 года и какие методы ещё работают</title>
-      <link>https://habr.com/ru/articles/1093232/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093232</link>
-      <description>Продолжение статьи, набравшей почти 600 тысяч просмотров. Разбираем SEO, поиск внутри Telegram, каталоги, внешние источники трафика, рекламу и аналитику. С поправкой на реалии российского рынка. В феврале 2023 года я опубликовал на Хабре статью « 15 проверенных методов продвижения канала в Телеграм» . На момент написания этого материала она набрала почти 600 тысяч просмотров. Признаться, когда писал тот текст, на такие цифры не рассчитывал. Хотел собрать в одном месте методы, с которыми сталкива</description>
-      <pubDate>Mon, 12 Oct 2026 09:32:17 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1093232/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093232</guid>
-      <category>Все публикации подряд на Хабре</category>
+      <title>Meta has some Wonder Full new AI models</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model</link>
+      <description>Meta is making up for lost time in the AI race. After launching Muse Spark, the first model from its revamped Superintelligence Labs division, and buzzy AI agent Muse, it's now launching two new models it claims can go toe-to-toe with the industry's best. The new models, Muse Wonder and Muse Wonder Full, are available […]</description>
+      <pubDate>Mon, 12 Oct 2026 17:00:00 +0000</pubDate>
+      <guid>https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model</guid>
+      <category>The Verge</category>
     </item>
     <item>
-      <title>Видео из фото нейросетью: связка Nano Banana 2.1 и Hailuo 3.0, физика движения и промпты</title>
-      <link>https://habr.com/ru/companies/syntx_ai/articles/1093162/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093162</link>
-      <description>Чтобы сделать видео из фото нейросетью, нужны кадр и описание движения. Разбираю связку Nano Banana 2.1 и Hailuo 3.0 (MiniMax H3). Читать далее</description>
-      <pubDate>Mon, 12 Oct 2026 09:16:30 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/syntx_ai/articles/1093162/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093162</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Теория экстремальных событий: графы, много математики и простой агент</title>
-      <link>https://habr.com/ru/articles/1093010/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093010</link>
-      <description>Экстремальное событие почти никогда не возникает на ровном месте. Эпилептический приступ, отказ авиадвигателя, обвал рынка - всё это финал процесса, который сначала зародился в одном месте системы: в одной области мозга, в одном модуле двигателя, в одном секторе рынка. Потом процесс распространился по связям и стал заметен везде. Классическая статистика экстремумов хорошо отвечает на вопрос «насколько это редко?». Но для врача, инженера или аналитика важнее другое: когда начал развиваться процес</description>
-      <pubDate>Mon, 12 Oct 2026 09:13:47 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1093010/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093010</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Пилот, который сам собирает себе разметку</title>
-      <link>https://habr.com/ru/articles/1093210/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093210</link>
-      <description>Когда стоит задача научить ИИ ловить аномалии, мы первым делом смотрим, на чём эта модель будет учиться. Справочники и источники данных можно привести в порядок заранее — это делается до всякой модели, про такую подготовку был отдельный разбор. С разметкой фокус не проходит. Её нельзя подготовить впрок: никто никогда не отмечал задним числом, где была аномалия, а где норма, и этой истории не существует, пока кто-то не начнёт выносить вердикты на живом потоке. Собирать её отдельным этапом — это п</description>
-      <pubDate>Mon, 12 Oct 2026 09:09:58 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1093210/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093210</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>ИИ написал ТЗ, вы переслали исполнителю — и вернулись вопросы. Как не быть «мясным прокси» в цепочке заданий</title>
-      <link>https://habr.com/ru/articles/1093200/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093200</link>
-      <description>Вы просите ИИ составить ТЗ и отправляете разработчику. Его нейросеть отвечает: «Непонятно, какой блок менять». Вы копируете вопрос в свой ИИ, он переписывает, вы отправляете снова. Три‑четыре круга, и вы уже не помните, что в ТЗ написано. Это и есть «мясной прокси» — человек как кабель между двумя ИИ. Я собрала пять скилов для Claude, чтобы эти круги проходили до отправки, а не после. Читать далее</description>
-      <pubDate>Mon, 12 Oct 2026 09:05:03 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1093200/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093200</guid>
-      <category>Все публикации подряд на Хабре</category>
+      <title>Elon Musk has donated over $276 million to Republican midterm efforts</title>
+      <link>https://www.theverge.com/tech/1009604/elon-musk-2026-midterm-republican-donations</link>
+      <description>Elon Musk has handed out at least $276 million to Republican groups since July, The New York Times reports, making him both the party's top known donor and the biggest established midterm donor. $158 million of that money - one of the largest political donations in American history - has been funneled into the Senate […]</description>
+      <pubDate>Mon, 12 Oct 2026 16:52:54 +0000</pubDate>
+      <guid>https://www.theverge.com/tech/1009604/elon-musk-2026-midterm-republican-donations</guid>
+      <category>The Verge</category>
     </item>
   </channel>
 </rss>
