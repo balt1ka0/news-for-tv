@@ -5,88 +5,88 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Tue, 13 Oct 2026 10:09:57 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 17:57:47 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Осень. Срочно дайте телефон Перельмана — я доказал гипотезу Римана</title>
-      <link>https://habr.com/ru/articles/1093770/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093770</link>
-      <description>Всё началось лет сорок назад, когда я впервые услышал о простых числах и попытался понять, что это такое. Картинка, которая сложилась у меня в голове, казалась куда понятнее того, что мне тогда пытались объяснить. Лет двадцать назад я попробовал изложить всё это понятным другим людям языком. Не хватило ни вычислительных мощностей, ни упорства. И вот наконец нашёлся помощник, который нормально относится к алгебре — в отличие от меня — и обладает нечеловеческим упорством и терпением. Теперь у той </description>
-      <pubDate>Tue, 13 Oct 2026 09:59:33 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1093770/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093770</guid>
+      <title>The feds are looking into reports of Tesla’s robotaxis speeding through school zones</title>
+      <link>https://www.theverge.com/transportation/1010364/tesla-robotaxi-school-zonespeeding-investigation</link>
+      <description>The National Highway Traffic Safety Administration says it's evaluating allegations that Tesla's 1,000 or so robotaxis using its automated driving system are exceeding "posted speed limits in active school zones." Waymo's robotaxis have also faced similar inquiries, including for illegally passing school buses and hitting a child near a California elementary school. NHTSA: The Office […]</description>
+      <pubDate>Tue, 13 Oct 2026 17:40:15 +0000</pubDate>
+      <guid>https://www.theverge.com/transportation/1010364/tesla-robotaxi-school-zonespeeding-investigation</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>8 неочевидных вариантов использования Claude Opus 5.5</title>
+      <link>https://habr.com/ru/articles/1094032/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094032</link>
+      <description>Я использую новую модель Opus 5.5 в работе уже больше недели, и впечатления у меня пока только хорошие. Практически всё, о чём я ее прошу, модель генерирует почти без ошибок, при этом нет необходимости постоянно следить за ней и исправлять результаты. К тому же стоимость токенов гораздо меньше по сравнению с Fable 5.1. Недавно Anthropic выпустила Opus 5.5, и после этого в моей ленте в X я нахожу примеры того, как люди используют модель. Кто-то использует ее в технических задачах, а кто-то - в тв</description>
+      <pubDate>Tue, 13 Oct 2026 17:32:54 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1094032/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094032</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Подмена камеры в Яндекс.Телемосте</title>
-      <link>https://habr.com/ru/articles/1093768/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093768</link>
-      <description>Яндекс.Телепульт — расширение для Chrome, которое добавляет в Яндекс.Телемост то, чего мне не хватало на созвонах: исчезновение из кадра по щелчку пальцами, фон, маски, стикеры, субтитры с переводом, календарь и трекер рядом со звонком. Всё работает локально в браузере, без серверов. В статье разбираю, как это устроено: как подменить камеру через getUserMedia и canvas.captureStream, как найти человека в кадре без нейросети и с MediaPipe, как распознать щелчок пальцами по видео и как сделать субт</description>
-      <pubDate>Tue, 13 Oct 2026 09:58:05 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1093768/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093768</guid>
+      <title>Laplace Intelligence red-teams robots and self-driving cars before they hit the real world</title>
+      <link>https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/</link>
+      <description>University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing at TechCrunch Disrupt's Startup Battlefield.</description>
+      <pubDate>Tue, 13 Oct 2026 17:30:00 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>Сломанный Ctrl+C — сначала гасла VM, а потом не прерывался sleep: Java, KVM и Linux</title>
+      <link>https://habr.com/ru/articles/1094024/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094024</link>
+      <description>Обычный Ctrl+C оказался для моей Java VM неожиданной проблемой: сначала он завершал саму виртуальную машину, а после исправления перестал останавливать команды внутри Linux. Чтобы разобраться, пришлось пройти весь путь от host terminal через UART и KVM до гостевого TTY и Unix-сигналов. В статье разберём не только причину, но и метод диагностики, который пригодится далеко за пределами виртуализации. Разбираемся, куда пропал Ctrl+C</description>
+      <pubDate>Tue, 13 Oct 2026 17:26:27 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1094024/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094024</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>CayleyPy и кубик Рубика: как нейросеть превосходит классический поиск</title>
-      <link>https://habr.com/ru/articles/1093076/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093076</link>
-      <description>Задача сборки механических головоломок за минимальное количество ходов формализуется как поиск кратчайшего пути в графе Кэли. Вершинами такого графа являются допустимые состояния головоломки, а ребрами – допустимые ходы, переводящие одно состояние в другое. Для классического кубика Рубика 3×3×3 диаметр графа был определен в 2010 году Томасом Рокицки с коллегами – число Бога составило 20 ходов в метрике HTM (Half-Turn Metric). Однако для головоломок больших размеров – кубиков 4×4×4, 5×5×5, биг-ку</description>
-      <pubDate>Tue, 13 Oct 2026 09:57:02 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1093076/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093076</guid>
+      <title>Второй том «Мёртвых душ». Мистификация Клавдия</title>
+      <link>https://habr.com/ru/articles/1094020/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094020</link>
+      <description>Вдохновившись опытом Сбера, заставившего ГигаЧат ходить Гоголем, мы в «Товариществе Виноградова» и магазине «Книжный.рф» решили лукаво не мудрствовать, а воспользоваться складывающимся вокруг продолжения хайпом. Команды экспертов собирать не стали: на дворе, слава богу, двадцать первый век, и мир, переживший ковид, давно научился обходиться малым; а малое, надобно сказать, есть чудо. Загружать в машину два миллиарда русских слов и британский путеводитель по русской истории также не стали, но зад</description>
+      <pubDate>Tue, 13 Oct 2026 17:22:11 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1094020/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094020</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>[Перевод] Современное веб-приложение на C: CGI, SQLite и один бинарник</title>
-      <link>https://habr.com/ru/articles/1093752/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093752</link>
-      <description>Автор оригинала выпустил коммерческий веб-продукт с аккаунтами, оплатой через Stripe и письмами через Postmark на технологии 1994 года: CGI-программа на C, OpenBSD httpd и файл SQLite. Без фреймворка, шаблонизатора, контейнера и JavaScript, с тремя зависимостями. В статье: как устроен стек BCHS, чем CGI удобен сегодня (отладка в шелле, минимальный риск цепочки поставок, выкатка заменой одного файла) и чего в нём не хватает. Читать дальше &amp;rarr;</description>
-      <pubDate>Tue, 13 Oct 2026 09:52:23 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1093752/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093752</guid>
+      <title>Pluto Security raises $42M as AI gives enterprise security teams a new headache</title>
+      <link>https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/</link>
+      <description>Pluto Security has raised $42 million Jump Capital, TLV Partners, Ansa Capital and angel investors.</description>
+      <pubDate>Tue, 13 Oct 2026 17:18:25 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>Facebook will let you customize your feed algorithm using AI</title>
+      <link>https://www.theverge.com/tech/1010344/meta-facebook-your-algorithm-ai</link>
+      <description>Facebook's new "Your Algorithm" feature will let you directly add and manage topics you want to see in your feed and Facebook Reels. Meta says your recommendations "respond right away" after you make updates using the new feature by hitting "interested" or "not interested" for different topics. Your Algorithm previously launched on Instagram earlier this […]</description>
+      <pubDate>Tue, 13 Oct 2026 17:01:31 +0000</pubDate>
+      <guid>https://www.theverge.com/tech/1010344/meta-facebook-your-algorithm-ai</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>Я добавил Rerank в Obsidian. Что показали тесты на 64 и 500 заметках</title>
+      <link>https://habr.com/ru/articles/1093954/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093954</link>
+      <description>Добавил Rerank в свой плагин для Obsidian и решил проверить, стоит ли запускать вторую модель при каждом поиске. Сравнил три модели, провёл эксперименты на 64 и 500 заметках. В тесте на 64 заметках первый полезный результат удалось поднять наверх только один раз из 24. На 500 заметках обнаружилась другая проблема: оценка целых документов скрывала различия между выбранными фрагментами. Рассказываю о результатах, расходах и том, почему в итоге сделал отдельную кнопку уточнения. Читать далее</description>
+      <pubDate>Tue, 13 Oct 2026 17:00:58 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1093954/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093954</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Астана, Astana Hub и большой AI: как выглядит изнутри место, куда сейчас заходят все</title>
-      <link>https://habr.com/ru/articles/1093744/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093744</link>
-      <description>Казахстан сейчас собирает у себя то, за чем обычно надо лететь через полмира: международные форумы, хакатоны мировых лабораторий, производство роботов, суперкомпьютерные кластеры. И всё это в трёх часах лёта, без виз и без языкового барьера. Я поехал туда в августе посмотреть своими глазами и остался. Дальше поделюсь своим опытом и впечатлениями. Читать далее</description>
-      <pubDate>Tue, 13 Oct 2026 09:41:33 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1093744/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093744</guid>
+      <title>[Перевод] Я не хочу читать то, чего вы не писали</title>
+      <link>https://habr.com/ru/articles/1093138/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093138</link>
+      <description>Инженер Колин Брек устал читать дизайн-доки, описания PR, тикеты и письма, сгенерированные ИИ. При этом ему самому ИИ помогает писать: недавно он закончил научную статью, где ИИ сверял написанное с исходниками и логами, ловил опечатки и оформлял ссылки, а написал только аннотацию. В эссе он разбирает, почему чужой сгенерированный текст нечитаем, где ИИ в письме действительно полезен и чего он сделать не может. Читать дальше &amp;rarr;</description>
+      <pubDate>Tue, 13 Oct 2026 17:00:58 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1093138/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093138</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Oracle показала, что у технологической ИИ-революции могут закончиться деньги</title>
-      <link>https://habr.com/ru/articles/1093726/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093726</link>
-      <description>Искусственный интеллект обещал изменить мировую экономику. Но пока компании рассказывают о революции производительности, инвесторы начинают задавать значительно более приземлённый вопрос: Кто заплатит за сотни миллиардов долларов, уже потраченных на эту революцию? История Oracle показывает, что проблема может возникнуть задолго до того, как закончится спрос на ИИ. Прошу обратить внимание на событие, которое произошло в сентябре 2026 года. Оно осталось практически незамеченным за пределами финанс</description>
-      <pubDate>Tue, 13 Oct 2026 09:31:57 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1093726/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093726</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Расчет параметров сквозного переходного отверстия на печатной плате в программе SimPCB Lite</title>
-      <link>https://habr.com/ru/companies/eremexru/articles/1093570/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093570</link>
-      <description>Одним из типов топологических примитивов, встречающихся на печатной плате, является переходное отверстие (ПО). ПО соединяет проводники разных слоев и для электрического сигнала не является идеальным проводником. Металлизированный ствол, контактные площадки, антипады образуют электромагнитную неоднородность. Она добавляет паразитную емкость и индуктивность, вызывает отражения и ограничивает полосу высокоскоростного канала. Поэтому параметры ПО необходимо оценивать еще при выборе структуры и топол</description>
-      <pubDate>Tue, 13 Oct 2026 09:25:06 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/eremexru/articles/1093570/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093570</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Ошибки RAG: 6 причин, почему лагает память ИИ-агента, и как провести диагностику retrieval</title>
-      <link>https://habr.com/ru/companies/speshu_ai/articles/1093732/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093732</link>
-      <description>RAG (Retrieval-Augmented Generation или генерация с дополненной выборкой) — это технология, которая объединяет большую языковую модель (LLM) с внешней базой знаний. Вместо того чтобы полагаться только на заученные во время обучения данные, ИИ сначала ищет точную информацию в корпоративных документах, справочниках или интернете, а затем пишет ответ на её основе. Читать далее</description>
-      <pubDate>Tue, 13 Oct 2026 09:23:41 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/speshu_ai/articles/1093732/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093732</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Зачем нам 200 инструментов и 5 чатов: как мы строим ИИ-агентов в финтехе</title>
-      <link>https://habr.com/ru/companies/svoi_ru/articles/1093724/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093724</link>
-      <description>Сегодня интеграцией искусственного интеллекта в рабочие процессы никого не удивишь. Однако разница между быстрым прототипом на базе стороннего API и полноценной системой внутри корпоративной инфраструктуры для работы с внутренними данными и бизнес-задачами огромна. Мы запустили в СВОЙ Тех процесс внедрения собственного AI-ассистента и внутренней платформы специализированных ИИ-агентов. Рассказываем, как устроена наша архитектура «под капотом», какие инструменты мы подключили, с помощью каких чат</description>
-      <pubDate>Tue, 13 Oct 2026 09:16:22 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/svoi_ru/articles/1093724/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093724</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Может ли робот написать merge request? Агенты фронтенда с GigaChat и без</title>
-      <link>https://habr.com/ru/companies/sberdevices/articles/1091880/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1091880</link>
-      <description>Салют, Хабр! У GitHub есть GitHub Copilot Code Review, y GitVerse — GigaCode Agent… но мы не можем их использовать, так как это внешние решения, которым не хочется открывать свой код. Когда речь идёт об AI-агентах в разработке, путь большинства крупных компаний — создавать собственный велосипед с нужным количеством колёс и педалей. Меня зовут Аврора, я занимаюсь инфраструктурой фронтенда в SberDevices. Для упрощения работы мы реализовали систему агентов фронтенда, где скомбинировали два подхода:</description>
-      <pubDate>Tue, 13 Oct 2026 09:09:39 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/sberdevices/articles/1091880/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1091880</guid>
-      <category>Все публикации подряд на Хабре</category>
+      <title>Google makes it easier to launch your vibe-coded apps</title>
+      <link>https://www.theverge.com/tech/1009066/google-play-vibe-coded-android-apps-launch</link>
+      <description>The next time you vibe-code a custom app with Google's AI Studio, you won't have to connect your phone to a computer to install it. On Tuesday, Google announced a new feature in the US that will allow you to launch personal apps directly through the Play Store. Google first launched the ability to vibe-code […]</description>
+      <pubDate>Tue, 13 Oct 2026 17:00:00 +0000</pubDate>
+      <guid>https://www.theverge.com/tech/1009066/google-play-vibe-coded-android-apps-launch</guid>
+      <category>The Verge</category>
     </item>
   </channel>
 </rss>
