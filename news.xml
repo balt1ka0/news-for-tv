@@ -5,87 +5,87 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Tue, 13 Oct 2026 02:26:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 10:09:57 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>DevRaid: я устал ждать ответа от HR‑ботов и сделал платформу, где найм — это RPG</title>
-      <link>https://habr.com/ru/articles/1093592/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093592</link>
-      <description>Привет, Хабр. Расскажу про проект, который делал последние несколько месяцев. Это не очередная «убийца HH» и не «революция в рекрутинге». Это попытка решить одну конкретную проблему, которая бесит меня лично. Живая ссылка: https://devraid.ru Читать далее</description>
-      <pubDate>Mon, 12 Oct 2026 23:07:37 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1093592/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093592</guid>
+      <title>Осень. Срочно дайте телефон Перельмана — я доказал гипотезу Римана</title>
+      <link>https://habr.com/ru/articles/1093770/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093770</link>
+      <description>Всё началось лет сорок назад, когда я впервые услышал о простых числах и попытался понять, что это такое. Картинка, которая сложилась у меня в голове, казалась куда понятнее того, что мне тогда пытались объяснить. Лет двадцать назад я попробовал изложить всё это понятным другим людям языком. Не хватило ни вычислительных мощностей, ни упорства. И вот наконец нашёлся помощник, который нормально относится к алгебре — в отличие от меня — и обладает нечеловеческим упорством и терпением. Теперь у той </description>
+      <pubDate>Tue, 13 Oct 2026 09:59:33 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1093770/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093770</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>В зубах средневековых англичан нашли огромное количество свинца</title>
-      <link>https://nplus1.ru/news/2026/10/13/toxic-lead-production</link>
-      <description>Британские исследователи проанализировали химический состав зубной эмали людей, похороненных в английской местности Пик-Дистрикт, где с древности добывали и перерабатывали свинцовую руду. Ученые обнаружили, что средневековое население этого региона с детского возраста накапливало в организме огромное количество свинца. При этом высокий статус отдельных индивидов коррелировал с меньшей концентрацией тяжелого металла в останках, о чем сообщается в статье, опубликованной в журнале Antiquity.</description>
-      <pubDate>Mon, 12 Oct 2026 23:01:00 +0000</pubDate>
-      <guid>https://nplus1.ru/news/2026/10/13/toxic-lead-production</guid>
-      <category>N + 1 — главное издание о науке, технике и технологиях</category>
-    </item>
-    <item>
-      <title>От семейного кризиса до стартапа: 11-я битва Мечтателя и Валидатора за стартап VOPP</title>
-      <link>https://habr.com/ru/articles/1093588/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093588</link>
-      <description>Когда в семье грядёт второе прибавление, а работа требует всё больше времени - семейная жизнь превращается в затяжной день сурка. Искра первых лет отношений куда-то испаряется, романтические разговоры сменяются короткими перекличками о подгузниках и стиральном порошке, а самый близкий человек постепенно становится соседом по совместному быту. Вот и я оказался тут. Большинство в такой ситуации вздыхает и говорит себе: «Ну, сейчас у всех так, надо просто перетерпеть», но я решил попробовать сломит</description>
-      <pubDate>Mon, 12 Oct 2026 22:52:20 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1093588/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093588</guid>
+      <title>Подмена камеры в Яндекс.Телемосте</title>
+      <link>https://habr.com/ru/articles/1093768/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093768</link>
+      <description>Яндекс.Телепульт — расширение для Chrome, которое добавляет в Яндекс.Телемост то, чего мне не хватало на созвонах: исчезновение из кадра по щелчку пальцами, фон, маски, стикеры, субтитры с переводом, календарь и трекер рядом со звонком. Всё работает локально в браузере, без серверов. В статье разбираю, как это устроено: как подменить камеру через getUserMedia и canvas.captureStream, как найти человека в кадре без нейросети и с MediaPipe, как распознать щелчок пальцами по видео и как сделать субт</description>
+      <pubDate>Tue, 13 Oct 2026 09:58:05 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1093768/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093768</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Строим простой локальный CI/CD на Windows: k3s + Jenkins + Gitea + ArgoCD</title>
-      <link>https://habr.com/ru/articles/1093586/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093586</link>
-      <description>Для этого используем sh скрипт, который выполняет несколько действий: устанавливает k3d и Helm, скачивает необходимые docker образы и создает локальные теги для них, которые будут использоваться через локальный реестр. Читать далее</description>
-      <pubDate>Mon, 12 Oct 2026 22:26:14 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1093586/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093586</guid>
+      <title>CayleyPy и кубик Рубика: как нейросеть превосходит классический поиск</title>
+      <link>https://habr.com/ru/articles/1093076/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093076</link>
+      <description>Задача сборки механических головоломок за минимальное количество ходов формализуется как поиск кратчайшего пути в графе Кэли. Вершинами такого графа являются допустимые состояния головоломки, а ребрами – допустимые ходы, переводящие одно состояние в другое. Для классического кубика Рубика 3×3×3 диаметр графа был определен в 2010 году Томасом Рокицки с коллегами – число Бога составило 20 ходов в метрике HTM (Half-Turn Metric). Однако для головоломок больших размеров – кубиков 4×4×4, 5×5×5, биг-ку</description>
+      <pubDate>Tue, 13 Oct 2026 09:57:02 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1093076/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093076</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Домашний ИИ и пути развития: одна Tesla V100 32 ГБ в 2026 году</title>
-      <link>https://habr.com/ru/articles/1093584/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093584</link>
-      <description>Старая серверная карта Tesla V100 на 32 ГБ до сих пор стоит как одна современная видеокарта среднего класса, а памяти у неё столько, что в неё целиком помещается модель на 30 млрд параметров, а с ухищрениями поднимается модель на 120 млрд параметров. Собрал на ней домашний сервер для локальных моделей, прогнал замеры скорости и выяснил, что половина моих “выводов” была ошибками измерения. Читать далее</description>
-      <pubDate>Mon, 12 Oct 2026 22:02:17 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1093584/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093584</guid>
+      <title>[Перевод] Современное веб-приложение на C: CGI, SQLite и один бинарник</title>
+      <link>https://habr.com/ru/articles/1093752/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093752</link>
+      <description>Автор оригинала выпустил коммерческий веб-продукт с аккаунтами, оплатой через Stripe и письмами через Postmark на технологии 1994 года: CGI-программа на C, OpenBSD httpd и файл SQLite. Без фреймворка, шаблонизатора, контейнера и JavaScript, с тремя зависимостями. В статье: как устроен стек BCHS, чем CGI удобен сегодня (отладка в шелле, минимальный риск цепочки поставок, выкатка заменой одного файла) и чего в нём не хватает. Читать дальше &amp;rarr;</description>
+      <pubDate>Tue, 13 Oct 2026 09:52:23 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1093752/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093752</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Потерянная тетрадь — разработка длиною в ночь</title>
-      <link>https://habr.com/ru/articles/1093580/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093580</link>
-      <description>Был поздний вечер. Ужасно болела голова, вирус не давал нормально дышать, а градусник упрямо полз вверх. Что можно делать в таком состоянии, когда кажется, что сама Смерть уже натирает лыжи где-то рядом? Будь как дома, путник...</description>
-      <pubDate>Mon, 12 Oct 2026 21:52:43 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1093580/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093580</guid>
+      <title>Астана, Astana Hub и большой AI: как выглядит изнутри место, куда сейчас заходят все</title>
+      <link>https://habr.com/ru/articles/1093744/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093744</link>
+      <description>Казахстан сейчас собирает у себя то, за чем обычно надо лететь через полмира: международные форумы, хакатоны мировых лабораторий, производство роботов, суперкомпьютерные кластеры. И всё это в трёх часах лёта, без виз и без языкового барьера. Я поехал туда в августе посмотреть своими глазами и остался. Дальше поделюсь своим опытом и впечатлениями. Читать далее</description>
+      <pubDate>Tue, 13 Oct 2026 09:41:33 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1093744/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093744</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Может ли ИИ размножаться? Anthropic проверила, что для этого уже умеют модели</title>
-      <link>https://habr.com/ru/articles/1093568/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093568</link>
-      <description>Исследователи Anthropic купили пятнадцать Android TV-приставок примерно по 55 долларов, соединили их в сеть и запустили на них нейросеть. Та работала медленно, но работала. Каждая коробочка считала свою часть, а вместе они справлялись с моделью, для которой у отдельного устройства не хватило бы памяти. Приставки понадобились для довольно неприятного вопроса. Если ИИ-агент сможет копировать себя на чужие устройства, обязательно ли ему захватывать дорогие серверы? Или хватит обычной домашней техни</description>
-      <pubDate>Mon, 12 Oct 2026 21:26:34 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1093568/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093568</guid>
+      <title>Oracle показала, что у технологической ИИ-революции могут закончиться деньги</title>
+      <link>https://habr.com/ru/articles/1093726/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093726</link>
+      <description>Искусственный интеллект обещал изменить мировую экономику. Но пока компании рассказывают о революции производительности, инвесторы начинают задавать значительно более приземлённый вопрос: Кто заплатит за сотни миллиардов долларов, уже потраченных на эту революцию? История Oracle показывает, что проблема может возникнуть задолго до того, как закончится спрос на ИИ. Прошу обратить внимание на событие, которое произошло в сентябре 2026 года. Оно осталось практически незамеченным за пределами финанс</description>
+      <pubDate>Tue, 13 Oct 2026 09:31:57 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1093726/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093726</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>The Social Reckoning is flopping at the box office</title>
-      <link>https://www.theverge.com/entertainment/1009630/social-reckoning-box-office-other-mommy</link>
-      <description>As important as some of the messages in The Social Reckoning are, the movie has been drastically underperforming at the box office. Per Variety, Aaron's Sorkin's follow up to The Social Network only grossed a measly $5.5 million this past weekend against a budget that's somewhere within the $30-42 million range. That would make it […]</description>
-      <pubDate>Mon, 12 Oct 2026 21:20:57 +0000</pubDate>
-      <guid>https://www.theverge.com/entertainment/1009630/social-reckoning-box-office-other-mommy</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>Организация конвейера загрузки событий из RabbitMQ в ClickHouse</title>
-      <link>https://habr.com/ru/articles/1084896/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1084896</link>
-      <description>В DWH требовалось организовать приём событий пользовательского поведения из RabbitMQ и предоставить команде e-commerce доступ к ним с задержкой не более пяти секунд. Под задержкой далее понимается интервал между публикацией сообщения в RabbitMQ и доступностью соответствующей записи для запроса в ClickHouse. В исходных именах таблиц и представлений используется термин customer tracking . В данной статье он обозначает события взаимодействия пользователя с платформой интернет-магазина: просмотры и </description>
-      <pubDate>Mon, 12 Oct 2026 20:37:57 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1084896/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1084896</guid>
+      <title>Расчет параметров сквозного переходного отверстия на печатной плате в программе SimPCB Lite</title>
+      <link>https://habr.com/ru/companies/eremexru/articles/1093570/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093570</link>
+      <description>Одним из типов топологических примитивов, встречающихся на печатной плате, является переходное отверстие (ПО). ПО соединяет проводники разных слоев и для электрического сигнала не является идеальным проводником. Металлизированный ствол, контактные площадки, антипады образуют электромагнитную неоднородность. Она добавляет паразитную емкость и индуктивность, вызывает отражения и ограничивает полосу высокоскоростного канала. Поэтому параметры ПО необходимо оценивать еще при выборе структуры и топол</description>
+      <pubDate>Tue, 13 Oct 2026 09:25:06 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/eremexru/articles/1093570/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093570</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Почему генетические алгоритмы не заменили инженера</title>
-      <link>https://habr.com/ru/articles/1093558/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093558</link>
-      <description>Рассуждая об эволюции, трудно отделаться от чувства профессиональной зависти. Перед нами идеальный, абсолютно всеядный оптимизатор. Он не решает уравнения, не отлаживает модули, не читает документацию. Ему не требуется разбираться ни в физике, ни в химии, ни в механике. Время, изменчивость и естественный отбор делают всё сами. И когда этот метод применяют в инженерии, он создает вещи, которые ставят специалистов в тупик. Читать далее</description>
-      <pubDate>Mon, 12 Oct 2026 20:08:13 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1093558/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093558</guid>
+      <title>Ошибки RAG: 6 причин, почему лагает память ИИ-агента, и как провести диагностику retrieval</title>
+      <link>https://habr.com/ru/companies/speshu_ai/articles/1093732/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093732</link>
+      <description>RAG (Retrieval-Augmented Generation или генерация с дополненной выборкой) — это технология, которая объединяет большую языковую модель (LLM) с внешней базой знаний. Вместо того чтобы полагаться только на заученные во время обучения данные, ИИ сначала ищет точную информацию в корпоративных документах, справочниках или интернете, а затем пишет ответ на её основе. Читать далее</description>
+      <pubDate>Tue, 13 Oct 2026 09:23:41 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/speshu_ai/articles/1093732/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093732</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Зачем нам 200 инструментов и 5 чатов: как мы строим ИИ-агентов в финтехе</title>
+      <link>https://habr.com/ru/companies/svoi_ru/articles/1093724/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093724</link>
+      <description>Сегодня интеграцией искусственного интеллекта в рабочие процессы никого не удивишь. Однако разница между быстрым прототипом на базе стороннего API и полноценной системой внутри корпоративной инфраструктуры для работы с внутренними данными и бизнес-задачами огромна. Мы запустили в СВОЙ Тех процесс внедрения собственного AI-ассистента и внутренней платформы специализированных ИИ-агентов. Рассказываем, как устроена наша архитектура «под капотом», какие инструменты мы подключили, с помощью каких чат</description>
+      <pubDate>Tue, 13 Oct 2026 09:16:22 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/svoi_ru/articles/1093724/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093724</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Может ли робот написать merge request? Агенты фронтенда с GigaChat и без</title>
+      <link>https://habr.com/ru/companies/sberdevices/articles/1091880/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1091880</link>
+      <description>Салют, Хабр! У GitHub есть GitHub Copilot Code Review, y GitVerse — GigaCode Agent… но мы не можем их использовать, так как это внешние решения, которым не хочется открывать свой код. Когда речь идёт об AI-агентах в разработке, путь большинства крупных компаний — создавать собственный велосипед с нужным количеством колёс и педалей. Меня зовут Аврора, я занимаюсь инфраструктурой фронтенда в SberDevices. Для упрощения работы мы реализовали систему агентов фронтенда, где скомбинировали два подхода:</description>
+      <pubDate>Tue, 13 Oct 2026 09:09:39 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/sberdevices/articles/1091880/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1091880</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
   </channel>
