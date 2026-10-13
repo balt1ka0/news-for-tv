@@ -5,88 +5,88 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Tue, 13 Oct 2026 17:57:47 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 22:21:01 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>The feds are looking into reports of Tesla’s robotaxis speeding through school zones</title>
-      <link>https://www.theverge.com/transportation/1010364/tesla-robotaxi-school-zonespeeding-investigation</link>
-      <description>The National Highway Traffic Safety Administration says it's evaluating allegations that Tesla's 1,000 or so robotaxis using its automated driving system are exceeding "posted speed limits in active school zones." Waymo's robotaxis have also faced similar inquiries, including for illegally passing school buses and hitting a child near a California elementary school. NHTSA: The Office […]</description>
-      <pubDate>Tue, 13 Oct 2026 17:40:15 +0000</pubDate>
-      <guid>https://www.theverge.com/transportation/1010364/tesla-robotaxi-school-zonespeeding-investigation</guid>
+      <title>Apple’s HomeView ad is confusing to everyone except parents</title>
+      <link>https://www.theverge.com/tech/1010561/apple-homeview-commercial-reaction</link>
+      <description>Apple's ad introducing its new HomeView smart display is a little unusual. It's fast-paced and unruly, depicting a family of five as they rush through the morning routine. There's yelling and mess, misplaced keys and discarded eggshells. Apple's typical vibe is clean, simple, orderly; this commercial is chaos. But the spot has parents - those […]</description>
+      <pubDate>Tue, 13 Oct 2026 22:10:00 +0000</pubDate>
+      <guid>https://www.theverge.com/tech/1010561/apple-homeview-commercial-reaction</guid>
       <category>The Verge</category>
     </item>
     <item>
-      <title>8 неочевидных вариантов использования Claude Opus 5.5</title>
-      <link>https://habr.com/ru/articles/1094032/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094032</link>
-      <description>Я использую новую модель Opus 5.5 в работе уже больше недели, и впечатления у меня пока только хорошие. Практически всё, о чём я ее прошу, модель генерирует почти без ошибок, при этом нет необходимости постоянно следить за ней и исправлять результаты. К тому же стоимость токенов гораздо меньше по сравнению с Fable 5.1. Недавно Anthropic выпустила Opus 5.5, и после этого в моей ленте в X я нахожу примеры того, как люди используют модель. Кто-то использует ее в технических задачах, а кто-то - в тв</description>
-      <pubDate>Tue, 13 Oct 2026 17:32:54 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1094032/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094032</guid>
+      <title>Резюме не работает. Я сделал платформу, где код говорит за тебя</title>
+      <link>https://habr.com/ru/articles/1094078/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094078</link>
+      <description>На днях я выложил статью про DevRaid — платформу, где разработчик подтверждает свой опыт через реальные проверки кода. Docker, тесты, ESLint, безопасность, AI-ревью. Вместо резюме — публичный профиль с подтверждёнными навыками. Результат был скромный: 7300 просмотров, 333 захода на сайт, 16 регистраций, 0 пройденных квестов . Я полез в логи и увидел ноль строк verify.start . Люди регистрировались и уходили, не начав проверку. Единственный квест тогда был «Создать интернет-магазин» — 9 фаз, Docke</description>
+      <pubDate>Tue, 13 Oct 2026 21:50:58 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1094078/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094078</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Laplace Intelligence red-teams robots and self-driving cars before they hit the real world</title>
-      <link>https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/</link>
-      <description>University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing at TechCrunch Disrupt's Startup Battlefield.</description>
-      <pubDate>Tue, 13 Oct 2026 17:30:00 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/</guid>
+      <title>Влияние транспорта KV‑переноса на производительность PD‑disaggregation на примере инференса MiniMax‑M3</title>
+      <link>https://habr.com/ru/articles/1094076/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094076</link>
+      <description>Привет! Проводил тестирование на рабочих стендах и хочу поделиться своими результатами с Habr. В работе исследуется влияние транспорта KV-кэша на производительность и работоспособность disaggregated inference, в котором стадии prefill и decode выполняются на разных GPU-узлах. На кластере из двух узлов с восемью NVIDIA B200 на каждом сравниваются RDMA/InfiniBand с GPUDirect и TCP/Ethernet в инференсе MiniMax-M3 через sglang. Эксперимент включает четыре уровня наблюдения: потолок фабрики ( L0 ), и</description>
+      <pubDate>Tue, 13 Oct 2026 21:29:50 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1094076/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094076</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Helix Carbon says it can make iron cheaper by recycling blast furnace pollution</title>
+      <link>https://techcrunch.com/2026/10/13/helix-carbon-makes-iron-cheaper-by-upcycling-blast-furnace-pollution-see-how-at-techcrunch-disrupt/</link>
+      <description>The steel industry is a big polluter, but Helix Carbon can upcycle pollution from blast furnaces to drive down emissions and improve margins.</description>
+      <pubDate>Tue, 13 Oct 2026 21:15:00 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/13/helix-carbon-makes-iron-cheaper-by-upcycling-blast-furnace-pollution-see-how-at-techcrunch-disrupt/</guid>
       <category>TechCrunch</category>
     </item>
     <item>
-      <title>Сломанный Ctrl+C — сначала гасла VM, а потом не прерывался sleep: Java, KVM и Linux</title>
-      <link>https://habr.com/ru/articles/1094024/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094024</link>
-      <description>Обычный Ctrl+C оказался для моей Java VM неожиданной проблемой: сначала он завершал саму виртуальную машину, а после исправления перестал останавливать команды внутри Linux. Чтобы разобраться, пришлось пройти весь путь от host terminal через UART и KVM до гостевого TTY и Unix-сигналов. В статье разберём не только причину, но и метод диагностики, который пригодится далеко за пределами виртуализации. Разбираемся, куда пропал Ctrl+C</description>
-      <pubDate>Tue, 13 Oct 2026 17:26:27 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1094024/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094024</guid>
+      <title>Модуляция CPFSK и не только в квадратурах на микропроцессорах STM32</title>
+      <link>https://habr.com/ru/articles/1094068/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094068</link>
+      <description>Добрый день, уважаемые коллеги! Начнем с того, что побудило написать статью. Я инженер, который ранее работал в организациях, которые так или иначе были связаны с проектированием, производством и поставками оборудования и микросхем для систем связи. В наши задачи входила работа с протокольным уровнем систем связи, проектирование устройств и стабилизация их параметров с применением калибровок. Это мир большого телекома. На работе мы пользовались весьма серьезными приборами вроде CMW-270, FSL-6, F</description>
+      <pubDate>Tue, 13 Oct 2026 21:10:44 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1094068/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094068</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Второй том «Мёртвых душ». Мистификация Клавдия</title>
-      <link>https://habr.com/ru/articles/1094020/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094020</link>
-      <description>Вдохновившись опытом Сбера, заставившего ГигаЧат ходить Гоголем, мы в «Товариществе Виноградова» и магазине «Книжный.рф» решили лукаво не мудрствовать, а воспользоваться складывающимся вокруг продолжения хайпом. Команды экспертов собирать не стали: на дворе, слава богу, двадцать первый век, и мир, переживший ковид, давно научился обходиться малым; а малое, надобно сказать, есть чудо. Загружать в машину два миллиарда русских слов и британский путеводитель по русской истории также не стали, но зад</description>
-      <pubDate>Tue, 13 Oct 2026 17:22:11 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1094020/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094020</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Pluto Security raises $42M as AI gives enterprise security teams a new headache</title>
-      <link>https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/</link>
-      <description>Pluto Security has raised $42 million Jump Capital, TLV Partners, Ansa Capital and angel investors.</description>
-      <pubDate>Tue, 13 Oct 2026 17:18:25 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/</guid>
+      <title>FBI arrests OpenAI employee accused of planting hidden recording device in conference room</title>
+      <link>https://techcrunch.com/2026/10/13/fbi-arrests-openai-employee-accused-of-planting-hidden-recording-device-in-conference-room/</link>
+      <description>It's not clear exactly for what purpose the recording device was used, but FBI director Kash Patel said the scheme was to "capture sensitive communications about the company’s super intelligence technology."</description>
+      <pubDate>Tue, 13 Oct 2026 20:59:11 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/13/fbi-arrests-openai-employee-accused-of-planting-hidden-recording-device-in-conference-room/</guid>
       <category>TechCrunch</category>
     </item>
     <item>
-      <title>Facebook will let you customize your feed algorithm using AI</title>
-      <link>https://www.theverge.com/tech/1010344/meta-facebook-your-algorithm-ai</link>
-      <description>Facebook's new "Your Algorithm" feature will let you directly add and manage topics you want to see in your feed and Facebook Reels. Meta says your recommendations "respond right away" after you make updates using the new feature by hitting "interested" or "not interested" for different topics. Your Algorithm previously launched on Instagram earlier this […]</description>
-      <pubDate>Tue, 13 Oct 2026 17:01:31 +0000</pubDate>
-      <guid>https://www.theverge.com/tech/1010344/meta-facebook-your-algorithm-ai</guid>
+      <title>OpenAI employee arrested for allegedly planting a bug in a conference room</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device</link>
+      <description>An OpenAI engineer was arrested after the company said it discovered a "sophisticated recording device" hidden in one of its offices. The employee was identified as Abdulrahman Alfozan, a 35-year-old Saudi national. Alfozan is charged with using or endeavoring to use a device to intercept oral communications, according to a press release from the Department […]</description>
+      <pubDate>Tue, 13 Oct 2026 20:45:25 +0000</pubDate>
+      <guid>https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device</guid>
       <category>The Verge</category>
     </item>
     <item>
-      <title>Я добавил Rerank в Obsidian. Что показали тесты на 64 и 500 заметках</title>
-      <link>https://habr.com/ru/articles/1093954/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093954</link>
-      <description>Добавил Rerank в свой плагин для Obsidian и решил проверить, стоит ли запускать вторую модель при каждом поиске. Сравнил три модели, провёл эксперименты на 64 и 500 заметках. В тесте на 64 заметках первый полезный результат удалось поднять наверх только один раз из 24. На 500 заметках обнаружилась другая проблема: оценка целых документов скрывала различия между выбранными фрагментами. Рассказываю о результатах, расходах и том, почему в итоге сделал отдельную кнопку уточнения. Читать далее</description>
-      <pubDate>Tue, 13 Oct 2026 17:00:58 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1093954/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093954</guid>
+      <title>ИИ‑агенты. Часть 1: Первые шаги</title>
+      <link>https://habr.com/ru/articles/1094062/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094062</link>
+      <description>Всем привет! Сегодня я хочу рассказать вам про то, как я начал внедрять в процесс разработки ИИ-агентов. Поделюсь своим опытом. Эта статья нацелена на начинающих, чтобы дать им первый толчок к использованию ИИ-агентов. Однако, если вы уже давно в этой теме, то буду рад вам в комментариях. Читать далее</description>
+      <pubDate>Tue, 13 Oct 2026 20:37:12 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1094062/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094062</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>[Перевод] Я не хочу читать то, чего вы не писали</title>
-      <link>https://habr.com/ru/articles/1093138/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093138</link>
-      <description>Инженер Колин Брек устал читать дизайн-доки, описания PR, тикеты и письма, сгенерированные ИИ. При этом ему самому ИИ помогает писать: недавно он закончил научную статью, где ИИ сверял написанное с исходниками и логами, ловил опечатки и оформлял ссылки, а написал только аннотацию. В эссе он разбирает, почему чужой сгенерированный текст нечитаем, где ИИ в письме действительно полезен и чего он сделать не может. Читать дальше &amp;rarr;</description>
-      <pubDate>Tue, 13 Oct 2026 17:00:58 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1093138/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093138</guid>
-      <category>Все публикации подряд на Хабре</category>
+      <title>Judge orders OpenAI to turn over hiring records in Apple trade secrets case</title>
+      <link>https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/</link>
+      <description>A federal judge ruled that Apple can access OpenAI's interview materials involving former Apple employees, as well as private messages and testimony from key figures in the case.</description>
+      <pubDate>Tue, 13 Oct 2026 20:36:44 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/</guid>
+      <category>TechCrunch</category>
     </item>
     <item>
-      <title>Google makes it easier to launch your vibe-coded apps</title>
-      <link>https://www.theverge.com/tech/1009066/google-play-vibe-coded-android-apps-launch</link>
-      <description>The next time you vibe-code a custom app with Google's AI Studio, you won't have to connect your phone to a computer to install it. On Tuesday, Google announced a new feature in the US that will allow you to launch personal apps directly through the Play Store. Google first launched the ability to vibe-code […]</description>
-      <pubDate>Tue, 13 Oct 2026 17:00:00 +0000</pubDate>
-      <guid>https://www.theverge.com/tech/1009066/google-play-vibe-coded-android-apps-launch</guid>
-      <category>The Verge</category>
+      <title>Cambridge Heavy Industries has been quietly building a desktop fusion device</title>
+      <link>https://techcrunch.com/2026/10/13/cambridge-heavy-industries-has-been-quietly-building-a-desktop-fusion-device/</link>
+      <description>Fusion power startup Cambridge Heavy Industries is building a small, laser-powered fusion device to fuel the coming wave of fusion power plants.</description>
+      <pubDate>Tue, 13 Oct 2026 20:13:53 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/13/cambridge-heavy-industries-has-been-quietly-building-a-desktop-fusion-device/</guid>
+      <category>TechCrunch</category>
     </item>
   </channel>
 </rss>
