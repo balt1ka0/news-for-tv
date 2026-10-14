@@ -5,88 +5,88 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Wed, 14 Oct 2026 13:20:47 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 18:19:55 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Токеномика прайсов: три валюты, в которых нам выставляют счёт за ИИ</title>
-      <link>https://habr.com/ru/companies/ru_mts/articles/1093270/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093270</link>
-      <description>Помимо текстов для Хабра, я сейчас работаю над очередной книгой. ИИ тут здорово выручает. И подборку материалов сделает, и факты проверит. Только вот в бесплатной версии большинства из них серьезная работа заканчивается всегда одинаково. Источники разобраны, логика сходится, я наконец сажусь за чистовик, и на втором абзаце прилетает: «лимит исчерпан, подождите несколько часов». А время на работу есть сейчас. Вдохновение и законченная мысль в голове тоже только сейчас. Остается наскоро сохранить </description>
-      <pubDate>Wed, 14 Oct 2026 13:13:42 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/ru_mts/articles/1093270/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093270</guid>
+      <title>Скам расправил плечи: как ИИ открыл возможности для мошенников в ИТ-найме</title>
+      <link>https://habr.com/ru/articles/1094498/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094498</link>
+      <description>Сейчас в ИТ-сфере довольно турбулентно и непредсказуемо: экономическая нестабильность, массовые увольнения, сокращение общего числа вакансий, повсеместное внедрение ИИ, который угрожает заменить разработчиков. Все заставляет переживать работников интеллектуальной сферы. Совокупность всех описанных факторов распространило на рынке огромное число скам-вакансий. Не удивительно, ведь злоумышленники всегда играли на чувствах и опасениях жертв, а текущая ситуация создает огромные возможности для подоб</description>
+      <pubDate>Wed, 14 Oct 2026 18:04:03 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1094498/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094498</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>[Перевод] Я не хочу читать то, чего вы не писали</title>
-      <link>https://habr.com/ru/companies/ruvds/articles/1093900/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093900</link>
-      <description>Люди, редко писавшие что-то оригинальное, внезапно начали создавать подробные проекты, бизнес-планы, документацию, презентации, тикеты, пул-реквесты, посты и конспекты совещаний. Всё это генерируют LLM. И эти тексты нечитаемы. ИИ помогает мне писать лучше и быстрее, но я по уши сыт чтением практически всего, что написано ИИ. В этом эссе мне бы хотелось выразить своё раздражение и рассказать о том, в чём для меня заключается ценность ИИ при написании текстов. Читать далее</description>
-      <pubDate>Wed, 14 Oct 2026 13:01:30 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/ruvds/articles/1093900/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093900</guid>
+      <title>Парсинг маркетплейсов в 2026: Почему ротация по таймеру работает против парсера</title>
+      <link>https://habr.com/ru/companies/mobileproxy/articles/1094496/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094496</link>
+      <description>Разбираю сутки телеметрии смен IP в сети мобильных прокси и сопоставляю привычки парсеров с тем, что способен увидеть антифрод маркетплейса. Внутри распределения по операторам и способам ротации, длительность смены адреса, дубли команд и каркас парсера, который привязывает ротацию к сессии. Отдельно и честно о том, чего измерить не удалось. Читать далее</description>
+      <pubDate>Wed, 14 Oct 2026 18:00:41 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/mobileproxy/articles/1094496/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094496</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>The Ocarina of Time remake feels remarkably modern — and surprisingly terrifying</title>
-      <link>https://www.theverge.com/games/1010101/zelda-ocarina-of-time-remake-switch-2-preview-hands-on</link>
-      <description>With its upcoming remake for the Switch 2, Nintendo might have nailed the best thing about The Legend of Zelda: Ocarina of Time: its timelessness. The 1998 3D action adventure game for the Nintendo 64 that pioneered so much - 3D graphics, movement, exploration, openness - has been reengineered with changes that make it feel […]</description>
-      <pubDate>Wed, 14 Oct 2026 13:00:00 +0000</pubDate>
-      <guid>https://www.theverge.com/games/1010101/zelda-ocarina-of-time-remake-switch-2-preview-hands-on</guid>
+      <title>Apate sends AI agents undercover to get scammed so they can gather fraud intelligence</title>
+      <link>https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/</link>
+      <description>Most companies use AI agents to ship products faster or speed up workflows. Apate.ai sends them undercover to get scammed.</description>
+      <pubDate>Wed, 14 Oct 2026 18:00:00 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>Повышаем температуру, или почему один промпт дает разные сюжеты</title>
+      <link>https://habr.com/ru/companies/bothub/articles/1094492/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094492</link>
+      <description>Авторам, которые пишут с помощью ИИ, советуют поднять температуру модели, чтобы сюжет получился интереснее. Я проверила этот совет на двух Qwen и сравнила 48 ответов: новые сюжеты появлялись уже при 0,2 , а при 1,2 в рассказ полезли обрывки кода. Рассказываю, почему один промпт даёт разные истории и как пользоваться температурой, не доводя модель до лихорадочного бреда. Читать далее</description>
+      <pubDate>Wed, 14 Oct 2026 17:46:50 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/bothub/articles/1094492/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094492</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Как писать текст для нейросети, чтобы она сослалась на сайт: в 60 ответах она чаще брала абзацы от 30 слов</title>
+      <link>https://habr.com/ru/articles/1094484/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094484</link>
+      <description>Допустим, вы ведёте документацию или блог и хотите, чтобы куски текста попадали в ответы ChatGPT, Perplexity или Алисы AI. Я проверил на ответах Perplexity простой совет — не начинать абзац с «это», «он» или «поэтому». Такие начала одинаково редки у абзацев, которые нейросеть взяла, и у тех, что пропустила. Заметно отличается другое: взятые абзацы длиннее. Совет появился потому, что нейросеть с поиском берёт со страницы не всю статью, а один-два абзаца, и они должны быть понятны без соседей. Но </description>
+      <pubDate>Wed, 14 Oct 2026 17:28:27 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1094484/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094484</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Apple’s new HomeView smart display is $10 cheaper at Amazon</title>
+      <link>https://www.theverge.com/gadgets/1011227/apple-homeview-smart-display-deal-sale</link>
+      <description>Apple only just announced on Tuesday that its first smart display, the HomeView, will arrive on November 13th, but you can already save a couple bucks on it. Right now, you can buy the display for $289.99 ($10 off) in gray and the creamy white “starlight” colorway at Amazon. Sure, it’s a small discount, but […]</description>
+      <pubDate>Wed, 14 Oct 2026 17:24:42 +0000</pubDate>
+      <guid>https://www.theverge.com/gadgets/1011227/apple-homeview-smart-display-deal-sale</guid>
       <category>The Verge</category>
     </item>
     <item>
-      <title>The Alexa Tablet 12 Pro is almost the Android tablet we needed</title>
-      <link>https://www.theverge.com/tech/1010780/alexa-tablet-12-pro-review</link>
-      <description>We have to talk about this screen. It's the first thing you notice, and maybe the only thing that matters, about the Alexa Tablet 12 Pro. It's a 12-inch, 2800 x 1840 panel with a new technology Amazon calls "Nanomatte" that is meant to decrease glare and increase the feeling that you can reach out […]</description>
-      <pubDate>Wed, 14 Oct 2026 13:00:00 +0000</pubDate>
-      <guid>https://www.theverge.com/tech/1010780/alexa-tablet-12-pro-review</guid>
+      <title>Sprout Pi adds Bluetooth, streaming, and USB-C to your aging iPod</title>
+      <link>https://www.theverge.com/gadgets/1011266/sprout-pi-adds-bluetooth-streaming-and-usb-c-to-your-aging-ipod</link>
+      <description>There's an entire cottage industry of iPod mods out there, but Sprout Pi and Sprout Pico are two of the few full motherboard replacements that combine many of the most popular mods into a single upgrade. Both versions add Bluetooth, Wi-Fi, USB-C, a microSD card slot, FLAC playback, and more. And while cracking open an […]</description>
+      <pubDate>Wed, 14 Oct 2026 17:19:11 +0000</pubDate>
+      <guid>https://www.theverge.com/gadgets/1011266/sprout-pi-adds-bluetooth-streaming-and-usb-c-to-your-aging-ipod</guid>
       <category>The Verge</category>
     </item>
     <item>
-      <title>Кoгдa яблoкo yпaлo cлишкoм близкo не к той яблoнe: copy-paste oшибки в cтpyктypнo изoмopфнoм Go кoдe</title>
-      <link>https://habr.com/ru/companies/pvs-studio/articles/1094356/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094356</link>
-      <description>Bы нaвepнякa дeлaли этo мнoгo paз: нaшли в пpoeктe пoдxoдящий для peшeния зaдaчи кoд, cкoпиpoвaли, зaмeнили в кoпии пepeмeнныe или вызoвы фyнкций нa дpyгиe, нo пpи выпoлнeнии пoлyчили нe тo пoвeдeниe, которое oжидaли? Bepoятнo, пpи peдaктиpoвaнии чтo-тo ycкoльзнyлo oт вaшeгo внимaния. Имeннo тaк poждaютcя oшибки, o кoтopыx пoйдёт peчь в этoй cтaтьe. Читать далее</description>
-      <pubDate>Wed, 14 Oct 2026 12:35:51 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/pvs-studio/articles/1094356/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094356</guid>
+      <title>Anbernic’s next dual-screen handheld could replace your aging Nintendo 3DS</title>
+      <link>https://www.theverge.com/tech/1011200/anbernic-rg-dds-dual-screen-handheld-emulator-nintendo-3ds</link>
+      <description>Anbernic shared a new video of its upcoming dual-screen handheld it announced last week showing the device playing 3DS, Xbox, and PS3 games through emulation. While competitors like Ayaneo have been making dual-screen handhelds for a few years, Anbernic only recently introduced its own dual-screen devices including the RG DS and RG DS Plus. Those […]</description>
+      <pubDate>Wed, 14 Oct 2026 17:13:27 +0000</pubDate>
+      <guid>https://www.theverge.com/tech/1011200/anbernic-rg-dds-dual-screen-handheld-emulator-nintendo-3ds</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>Аутсорс разработки — недооценка масштабов проекта</title>
+      <link>https://habr.com/ru/articles/1094480/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094480</link>
+      <description>Мы занимаемся заказной разработкой ПО уже 20 лет. И, конечно, в нашей работе и в обсуждениях с коллегами по рынку регулярно всплывают истории о том или ином проекте, который или вообще не стартовал, или испытывал проблемы, а то и вообще завершился неудачно. Эта статья - часть серии статей, в которых хочется поделиться с сообществом полученным опытом. Скоуп этой статьи - заказная разработка ПО при объёме проекта от 10 до 100 млн руб. в год. Я обсудил тему с коллегами и мы попробовали сформировать</description>
+      <pubDate>Wed, 14 Oct 2026 17:06:22 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1094480/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094480</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Оркестратор Apache Airflow: что это и как используется в BI и DWH</title>
-      <link>https://habr.com/ru/articles/1094354/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094354</link>
-      <description>В статье разбираем, как устроен Apache Airflow 3, для каких задач он используется, какую роль играет в архитектуре DWH и BI, и когда его стоит выбирать для оркестрации процессов обработки данных. Сравниваем с Prefect и Dagster. Читать далее</description>
-      <pubDate>Wed, 14 Oct 2026 12:30:52 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1094354/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094354</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>[Перевод] Нет, ИИ не решил задачу Навье-Стокса</title>
-      <link>https://habr.com/ru/articles/1093452/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093452</link>
-      <description>Сэм Альтман не устает потворять, что ИИ вот-вот вылечит рак и решит все остальные задачи, столь насущные для человечества. Из этого логически следует, что ИИ станет более разумным, нежели коллективы из сотен или даже тысяч высококвалифицированных экспертов, затративших десятилетия на решения этих задач. Вкратце, Альтман обещает суперинтеллект, и остальные технобро от ИИ делали схожие заявления. Проблема только в том, что ИИ так не работает. По факту искуственный интеллект не является интеллектом</description>
-      <pubDate>Wed, 14 Oct 2026 12:19:38 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1093452/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093452</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>[Перевод] Как собрать Linux‑контейнер с нуля без Docker: unshare, pivot_root и rootfs</title>
-      <link>https://habr.com/ru/companies/otus/articles/1090538/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090538</link>
-      <description>За одной командой docker run скрывается целая последовательность операций с файловой системой Linux. Но что потребуется, чтобы воспроизвести их вручную? Пройдём путь от создания пространств имён и настройки rootfs до запуска приложения в собственном контейнере, используя стандартные инструменты Linux. Разобраться в изоляции</description>
-      <pubDate>Wed, 14 Oct 2026 12:16:26 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/otus/articles/1090538/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090538</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Scientists reveal why some workout recovery tricks can backfire</title>
-      <link>https://www.sciencedaily.com/releases/2026/10/261013015805.htm</link>
-      <description>Ice baths, massages, compression garments, and recovery supplements promise faster muscle recovery, but research suggests their benefits are often overstated, and some techniques may even undermine long-term gains. Scientists say the most effective recovery methods are far simpler and cheaper: getting enough sleep, eating well, and giving muscles time to rebuild.</description>
-      <pubDate>Wed, 14 Oct 2026 12:04:20 +0000</pubDate>
-      <guid>https://www.sciencedaily.com/releases/2026/10/261013015805.htm</guid>
-      <category>All Top News -- ScienceDaily</category>
-    </item>
-    <item>
-      <title>Команда ИИ-агентов в Claude Code для сбора цитат аудитории: разведка, сбор и проверка каждой ссылки</title>
-      <link>https://habr.com/ru/articles/1094336/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094336</link>
-      <description>Разбираю, как устроена команда ИИ-агентов в Claude Code, которая собирает дословные цитаты целевой аудитории из открытых источников и сама проверяет, что каждая цитата существует. Архитектура, лимиты, реальный замер на 13 агентах и ошибки, которые пришлось чинить. Читать далее</description>
-      <pubDate>Wed, 14 Oct 2026 12:00:42 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1094336/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094336</guid>
-      <category>Все публикации подряд на Хабре</category>
+      <title>My AI doppelganger tells me what to eat</title>
+      <link>https://www.theverge.com/column/1011264/digital-twin-metabolism-ai-twin-health</link>
+      <description>This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. For the past 100 days or so, my mornings have had a new rhythm. When I wake up, the first […]</description>
+      <pubDate>Wed, 14 Oct 2026 17:00:00 +0000</pubDate>
+      <guid>https://www.theverge.com/column/1011264/digital-twin-metabolism-ai-twin-health</guid>
+      <category>The Verge</category>
     </item>
   </channel>
 </rss>
