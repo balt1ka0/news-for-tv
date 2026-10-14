@@ -5,87 +5,87 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Wed, 14 Oct 2026 07:09:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 13:20:47 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Как сделать конспект лекции с ИИ и не потерять важные оговорки</title>
-      <link>https://habr.com/ru/companies/kemp_ai/articles/1094144/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094144</link>
-      <description>Хороший конспект позволяет восстановить ход объяснения после лекции. Список ключевых слов для этого недостаточен: в нём могут исчезнуть условия задачи, исключения и переходы между понятиями. ИИ удобно использовать для первого разбора материала, а затем сравнивать результат с источником. Ниже — процесс работы с лекцией или учебным текстом. В качестве отправной точки можно открыть Kampus AI . На сайте платформы заявлена работа с учебными материалами; поддерживаемые форматы и ограничения загрузки п</description>
-      <pubDate>Wed, 14 Oct 2026 07:02:28 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/kemp_ai/articles/1094144/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094144</guid>
+      <title>Токеномика прайсов: три валюты, в которых нам выставляют счёт за ИИ</title>
+      <link>https://habr.com/ru/companies/ru_mts/articles/1093270/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093270</link>
+      <description>Помимо текстов для Хабра, я сейчас работаю над очередной книгой. ИИ тут здорово выручает. И подборку материалов сделает, и факты проверит. Только вот в бесплатной версии большинства из них серьезная работа заканчивается всегда одинаково. Источники разобраны, логика сходится, я наконец сажусь за чистовик, и на втором абзаце прилетает: «лимит исчерпан, подождите несколько часов». А время на работу есть сейчас. Вдохновение и законченная мысль в голове тоже только сейчас. Остается наскоро сохранить </description>
+      <pubDate>Wed, 14 Oct 2026 13:13:42 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/ru_mts/articles/1093270/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093270</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Я попробовал заменить разработчиков ИИ-агентами</title>
-      <link>https://habr.com/ru/companies/koda/articles/1094060/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094060</link>
-      <description>Четыре ИИ-субагента нашли ошибку, которую пропустил одиночный агент. После успешной оплаты заказ всё ещё можно было оплатить повторно. В скрытом наборе тестов одиночный запуск набрал 7/8, а агентная команда получила 8/8. При этом обе версии успешно прошли production build и свои тесты. Значит ли это, что команду разработчиков уже можно заменить? Читать далее</description>
-      <pubDate>Wed, 14 Oct 2026 07:02:18 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/koda/articles/1094060/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094060</guid>
+      <title>[Перевод] Я не хочу читать то, чего вы не писали</title>
+      <link>https://habr.com/ru/companies/ruvds/articles/1093900/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093900</link>
+      <description>Люди, редко писавшие что-то оригинальное, внезапно начали создавать подробные проекты, бизнес-планы, документацию, презентации, тикеты, пул-реквесты, посты и конспекты совещаний. Всё это генерируют LLM. И эти тексты нечитаемы. ИИ помогает мне писать лучше и быстрее, но я по уши сыт чтением практически всего, что написано ИИ. В этом эссе мне бы хотелось выразить своё раздражение и рассказать о том, в чём для меня заключается ценность ИИ при написании текстов. Читать далее</description>
+      <pubDate>Wed, 14 Oct 2026 13:01:30 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/ruvds/articles/1093900/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093900</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Распознавание речи на микроконтроллере: от фонем к словам</title>
-      <link>https://habr.com/ru/articles/1094112/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094112</link>
-      <description>В прошлый раз STM32N6 собирал слова из фонем по заданной таблице. Теперь микроконтроллер превращает свободную английскую речь в текст - без интернета и сервера, при потреблении около 0,2 Вт во время вычислений. Показываю, как это работает на реальной плате, где модель ошибается и что удалось улучшить. Исходники, модель и готовая прошивка выложены на github Читать далее</description>
-      <pubDate>Wed, 14 Oct 2026 07:01:56 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1094112/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094112</guid>
+      <title>The Ocarina of Time remake feels remarkably modern — and surprisingly terrifying</title>
+      <link>https://www.theverge.com/games/1010101/zelda-ocarina-of-time-remake-switch-2-preview-hands-on</link>
+      <description>With its upcoming remake for the Switch 2, Nintendo might have nailed the best thing about The Legend of Zelda: Ocarina of Time: its timelessness. The 1998 3D action adventure game for the Nintendo 64 that pioneered so much - 3D graphics, movement, exploration, openness - has been reengineered with changes that make it feel […]</description>
+      <pubDate>Wed, 14 Oct 2026 13:00:00 +0000</pubDate>
+      <guid>https://www.theverge.com/games/1010101/zelda-ocarina-of-time-remake-switch-2-preview-hands-on</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>The Alexa Tablet 12 Pro is almost the Android tablet we needed</title>
+      <link>https://www.theverge.com/tech/1010780/alexa-tablet-12-pro-review</link>
+      <description>We have to talk about this screen. It's the first thing you notice, and maybe the only thing that matters, about the Alexa Tablet 12 Pro. It's a 12-inch, 2800 x 1840 panel with a new technology Amazon calls "Nanomatte" that is meant to decrease glare and increase the feeling that you can reach out […]</description>
+      <pubDate>Wed, 14 Oct 2026 13:00:00 +0000</pubDate>
+      <guid>https://www.theverge.com/tech/1010780/alexa-tablet-12-pro-review</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>Кoгдa яблoкo yпaлo cлишкoм близкo не к той яблoнe: copy-paste oшибки в cтpyктypнo изoмopфнoм Go кoдe</title>
+      <link>https://habr.com/ru/companies/pvs-studio/articles/1094356/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094356</link>
+      <description>Bы нaвepнякa дeлaли этo мнoгo paз: нaшли в пpoeктe пoдxoдящий для peшeния зaдaчи кoд, cкoпиpoвaли, зaмeнили в кoпии пepeмeнныe или вызoвы фyнкций нa дpyгиe, нo пpи выпoлнeнии пoлyчили нe тo пoвeдeниe, которое oжидaли? Bepoятнo, пpи peдaктиpoвaнии чтo-тo ycкoльзнyлo oт вaшeгo внимaния. Имeннo тaк poждaютcя oшибки, o кoтopыx пoйдёт peчь в этoй cтaтьe. Читать далее</description>
+      <pubDate>Wed, 14 Oct 2026 12:35:51 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/pvs-studio/articles/1094356/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094356</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Как NAS умер вовремя: ZFS-хранилище из б/у железа и бэкапы, которые проверяют себя сами</title>
-      <link>https://habr.com/ru/articles/1092574/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092574</link>
-      <description>Привет, Хабр. Месяц назад я рассказывал, как в одиночку построил AI-платформу на железе под столом. Та статья вышла с опозданием на день, «потому что вчера я чинил NFS». Через три недели NFS-сервер — старенький QNAP TS-220 — умер окончательно. А вечером того же дня мне переслали список б/у железа «под NAS, не надо?». Эта статья — о том, что выросло из этого совпадения: домашнее ZFS-хранилище из б/у комплектующих, три слоя бэкапов и, главное, проверка восстановления, которая теперь запускается са</description>
-      <pubDate>Wed, 14 Oct 2026 07:00:53 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1092574/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092574</guid>
+      <title>Оркестратор Apache Airflow: что это и как используется в BI и DWH</title>
+      <link>https://habr.com/ru/articles/1094354/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094354</link>
+      <description>В статье разбираем, как устроен Apache Airflow 3, для каких задач он используется, какую роль играет в архитектуре DWH и BI, и когда его стоит выбирать для оркестрации процессов обработки данных. Сравниваем с Prefect и Dagster. Читать далее</description>
+      <pubDate>Wed, 14 Oct 2026 12:30:52 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1094354/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094354</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Офлайн-ИИ в десктопном приложении: что я узнал, встраивая Ollama в лаунчер для трёх ОС</title>
-      <link>https://habr.com/ru/articles/1094066/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094066</link>
-      <description>Я делаю Lumi, открытый лаунчер в духе Spotlight: по горячей клавише открывается строка, в которой можно запустить программу, найти файл или задать вопрос нейросети. Честно скажу сразу: код я пишу вместе с Claude, сам я не программист. Но тесты, цифры и ошибки ниже настоящие, и о них хочется рассказать. Задача была такая: человек без опыта нажимает одну кнопку и получает ИИ, который работает без интернета . Ему не нужен терминал и не нужно знать, что такое Ollama. Дальше расскажу, что из этого вы</description>
-      <pubDate>Wed, 14 Oct 2026 07:00:53 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1094066/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094066</guid>
+      <title>[Перевод] Нет, ИИ не решил задачу Навье-Стокса</title>
+      <link>https://habr.com/ru/articles/1093452/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093452</link>
+      <description>Сэм Альтман не устает потворять, что ИИ вот-вот вылечит рак и решит все остальные задачи, столь насущные для человечества. Из этого логически следует, что ИИ станет более разумным, нежели коллективы из сотен или даже тысяч высококвалифицированных экспертов, затративших десятилетия на решения этих задач. Вкратце, Альтман обещает суперинтеллект, и остальные технобро от ИИ делали схожие заявления. Проблема только в том, что ИИ так не работает. По факту искуственный интеллект не является интеллектом</description>
+      <pubDate>Wed, 14 Oct 2026 12:19:38 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1093452/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093452</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Как сделать текст человечнее онлайн: редактируем объяснение под читателя</title>
-      <link>https://habr.com/ru/companies/kemp_ai/articles/1094140/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094140</link>
-      <description>«Сделать текст человечнее» — слишком широкое задание для онлайн-редактора. Одному читателю нужен короткий ответ, другому — подробное объяснение, третьему — инструкция. Чтобы получить полезную правку, нужно описать адресата и действие, которое он должен выполнить после чтения. В этой статье разберём редактирование объяснения для однокурсника. Такой сценарий отличается от удаления штампов: здесь мы меняем порядок подачи, выбираем примеры и проверяем, насколько понятны термины. Для работы с учебным</description>
-      <pubDate>Wed, 14 Oct 2026 06:59:05 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/kemp_ai/articles/1094140/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094140</guid>
+      <title>[Перевод] Как собрать Linux‑контейнер с нуля без Docker: unshare, pivot_root и rootfs</title>
+      <link>https://habr.com/ru/companies/otus/articles/1090538/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090538</link>
+      <description>За одной командой docker run скрывается целая последовательность операций с файловой системой Linux. Но что потребуется, чтобы воспроизвести их вручную? Пройдём путь от создания пространств имён и настройки rootfs до запуска приложения в собственном контейнере, используя стандартные инструменты Linux. Разобраться в изоляции</description>
+      <pubDate>Wed, 14 Oct 2026 12:16:26 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/otus/articles/1090538/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090538</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Текст без «ИИ-слов»: как убрать штампы и сохранить смысл учебной работы</title>
-      <link>https://habr.com/ru/companies/kemp_ai/articles/1094138/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094138</link>
-      <description>Просьба «убери ИИ-слова» обычно означает, что текст звучит расплывчато: много вводных конструкций, повторов и громких оценок. Надёжного списка слов, по которому можно определить автора, нет. Выражения «важно отметить» или «играет ключевую роль» встречаются и у людей. Редактировать нужно функцию фразы: что она сообщает и нужна ли читателю. Разберём процесс правки учебного текста: от проверки смысла до последнего чтения. Для организации работы можно открыть Kampus AI ; ниже приведены самостоятельн</description>
-      <pubDate>Wed, 14 Oct 2026 06:45:59 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/kemp_ai/articles/1094138/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094138</guid>
-      <category>Все публикации подряд на Хабре</category>
+      <title>Scientists reveal why some workout recovery tricks can backfire</title>
+      <link>https://www.sciencedaily.com/releases/2026/10/261013015805.htm</link>
+      <description>Ice baths, massages, compression garments, and recovery supplements promise faster muscle recovery, but research suggests their benefits are often overstated, and some techniques may even undermine long-term gains. Scientists say the most effective recovery methods are far simpler and cheaper: getting enough sleep, eating well, and giving muscles time to rebuild.</description>
+      <pubDate>Wed, 14 Oct 2026 12:04:20 +0000</pubDate>
+      <guid>https://www.sciencedaily.com/releases/2026/10/261013015805.htm</guid>
+      <category>All Top News -- ScienceDaily</category>
     </item>
     <item>
-      <title>Генерация презентаций с ИИ: как превратить учебный материал в понятные слайды</title>
-      <link>https://habr.com/ru/companies/kemp_ai/articles/1094136/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094136</link>
-      <description>Презентация для семинара должна помогать объяснять тему. Если перенести на слайды страницы реферата, слушателю придётся одновременно читать и слушать. ИИ полезен на этапе отбора материала: предложить структуру, сократить формулировки, найти места для схем. Решение о том, что доказывает доклад, остаётся за автором. Ниже — рабочий процесс на примере учебного выступления о том, как команда выбирает инструмент для совместной работы. Это методический пример, а не отчёт о тестировании конкретной платф</description>
-      <pubDate>Wed, 14 Oct 2026 06:38:00 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/kemp_ai/articles/1094136/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094136</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Бюстгальтер, уменьшающий грудь: куда девается объём и почему давление сидит на краях</title>
-      <link>https://habr.com/ru/articles/1094134/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094134</link>
-      <description>Самый частый вопрос, который мне задают про так называемый бюстгальтер, уменьшающий грудь, звучит как вопрос о сжатии: «насколько он утягивает?». Подразумевается, что изделие работает как пресс, и чем сильнее давит, тем меньше результат. С инженерной точки зрения это неверная модель, и из неё вырастают почти все ошибки выбора, которые я вижу на примерках. Ниже попробую разобрать, что на самом деле происходит с объёмом, какие силы при этом действуют и почему самое неприятное давление возникает во</description>
-      <pubDate>Wed, 14 Oct 2026 06:34:14 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1094134/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094134</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Как работает российская экосистема ИИ‑разработки для крупных корпораций Digital Q: подробный разбор</title>
-      <link>https://habr.com/ru/companies/diasoft_company/articles/1094130/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094130</link>
-      <description>7 октября мы провели онлайн-презентацию новой, AI-driven версии экосистемы Digital Q. Мы впервые публично показали полную схему конвейера ИИ-агентов, разобрали контур за контуром и продемонстрировали, как он проводит реальную задачу от встречи с заказчиком до подписанного релиза. А теперь обо всем подробнее. Читать далее</description>
-      <pubDate>Wed, 14 Oct 2026 06:28:48 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/diasoft_company/articles/1094130/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094130</guid>
+      <title>Команда ИИ-агентов в Claude Code для сбора цитат аудитории: разведка, сбор и проверка каждой ссылки</title>
+      <link>https://habr.com/ru/articles/1094336/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094336</link>
+      <description>Разбираю, как устроена команда ИИ-агентов в Claude Code, которая собирает дословные цитаты целевой аудитории из открытых источников и сама проверяет, что каждая цитата существует. Архитектура, лимиты, реальный замер на 13 агентах и ошибки, которые пришлось чинить. Читать далее</description>
+      <pubDate>Wed, 14 Oct 2026 12:00:42 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1094336/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094336</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
   </channel>
