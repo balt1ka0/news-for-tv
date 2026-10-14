@@ -5,88 +5,88 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Wed, 14 Oct 2026 01:37:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 07:09:43 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Justice Department says North Koreans have infiltrated dozens of U.S. companies</title>
-      <link>https://techcrunch.com/2026/10/13/justice-department-says-north-koreans-have-infiltrated-dozens-of-u-s-companies/</link>
-      <description>U.S. authorities warn that sanctioned hackers are increasingly targeting Americans to act as facilitators between breached U.S. companies and Pyongyang.</description>
-      <pubDate>Wed, 14 Oct 2026 01:30:42 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/13/justice-department-says-north-koreans-have-infiltrated-dozens-of-u-s-companies/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>Как сцена взлома принтеров изобрела собственный DRM</title>
-      <link>https://habr.com/ru/articles/1092764/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092764</link>
-      <description>Если за последние двадцать лет у вас был принтер, вы наверняка знаете, какими они могут быть неожиданно капризными: «не могу печатать черным, потому что закончился желтый» — классическая шутка о струйниках. Или функция сканирования в МФУ, которая в некоторых моделях перестает работать, если закончились чернила, — и без специальных махинаций ее не запустить. Для заправки лазерного картриджа не нужно ничего, кроме отвёртки, недорогого тонера в банке и желания: в первый раз вы наверняка перепачкает</description>
-      <pubDate>Wed, 14 Oct 2026 01:25:30 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1092764/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092764</guid>
+      <title>Как сделать конспект лекции с ИИ и не потерять важные оговорки</title>
+      <link>https://habr.com/ru/companies/kemp_ai/articles/1094144/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094144</link>
+      <description>Хороший конспект позволяет восстановить ход объяснения после лекции. Список ключевых слов для этого недостаточен: в нём могут исчезнуть условия задачи, исключения и переходы между понятиями. ИИ удобно использовать для первого разбора материала, а затем сравнивать результат с источником. Ниже — процесс работы с лекцией или учебным текстом. В качестве отправной точки можно открыть Kampus AI . На сайте платформы заявлена работа с учебными материалами; поддерживаемые форматы и ограничения загрузки п</description>
+      <pubDate>Wed, 14 Oct 2026 07:02:28 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/kemp_ai/articles/1094144/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094144</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Science Corporation implants its vision-restoring chip in its first Stargardt disease patient</title>
-      <link>https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/</link>
-      <description>Max Hodak, the former president and co-founder of Neuralink, detailed on stage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI).</description>
-      <pubDate>Tue, 13 Oct 2026 23:13:31 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home</title>
-      <link>https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/</link>
-      <description>Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and partly in the cloud.</description>
-      <pubDate>Tue, 13 Oct 2026 23:05:34 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>Cerebras CEO pushes back on AI doomsday warnings</title>
-      <link>https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/</link>
-      <description>Cerebras CEO Andrew Feldman has a message for AI leaders spreading doomsday warnings: Maybe stop talking? At TechCrunch Disrupt, he argued that the industry's focus on AI's risks is drowning out its potential benefits.</description>
-      <pubDate>Tue, 13 Oct 2026 22:36:59 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>Конец привычного уютного айти. Что делать дальше</title>
-      <link>https://habr.com/ru/articles/1094080/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094080</link>
-      <description>Думаете, что это очередная статья про то, что ИИ всех заменит? Возможно. Но на самом деле я просто хочу разобраться что делать сегодня, чтобы завтра не остаться ни с чем. Читать далее</description>
-      <pubDate>Tue, 13 Oct 2026 22:36:49 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1094080/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094080</guid>
+      <title>Я попробовал заменить разработчиков ИИ-агентами</title>
+      <link>https://habr.com/ru/companies/koda/articles/1094060/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094060</link>
+      <description>Четыре ИИ-субагента нашли ошибку, которую пропустил одиночный агент. После успешной оплаты заказ всё ещё можно было оплатить повторно. В скрытом наборе тестов одиночный запуск набрал 7/8, а агентная команда получила 8/8. При этом обе версии успешно прошли production build и свои тесты. Значит ли это, что команду разработчиков уже можно заменить? Читать далее</description>
+      <pubDate>Wed, 14 Oct 2026 07:02:18 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/koda/articles/1094060/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094060</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Apple’s HomeView ad is confusing to everyone except parents</title>
-      <link>https://www.theverge.com/tech/1010561/apple-homeview-commercial-reaction</link>
-      <description>Apple's ad introducing its new HomeView smart display is a little unusual. It's fast-paced and unruly, depicting a family of five as they rush through the morning routine. There's yelling and mess, misplaced keys and discarded eggshells. Apple's typical vibe is clean, simple, orderly; this commercial is chaos. But the spot has parents - those […]</description>
-      <pubDate>Tue, 13 Oct 2026 22:10:00 +0000</pubDate>
-      <guid>https://www.theverge.com/tech/1010561/apple-homeview-commercial-reaction</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>Резюме не работает. Я сделал платформу, где код говорит за тебя</title>
-      <link>https://habr.com/ru/articles/1094078/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094078</link>
-      <description>На днях я выложил статью про DevRaid — платформу, где разработчик подтверждает свой опыт через реальные проверки кода. Docker, тесты, ESLint, безопасность, AI-ревью. Вместо резюме — публичный профиль с подтверждёнными навыками. Результат был скромный: 7300 просмотров, 333 захода на сайт, 16 регистраций, 0 пройденных квестов . Я полез в логи и увидел ноль строк verify.start . Люди регистрировались и уходили, не начав проверку. Единственный квест тогда был «Создать интернет-магазин» — 9 фаз, Docke</description>
-      <pubDate>Tue, 13 Oct 2026 21:50:58 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1094078/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094078</guid>
+      <title>Распознавание речи на микроконтроллере: от фонем к словам</title>
+      <link>https://habr.com/ru/articles/1094112/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094112</link>
+      <description>В прошлый раз STM32N6 собирал слова из фонем по заданной таблице. Теперь микроконтроллер превращает свободную английскую речь в текст - без интернета и сервера, при потреблении около 0,2 Вт во время вычислений. Показываю, как это работает на реальной плате, где модель ошибается и что удалось улучшить. Исходники, модель и готовая прошивка выложены на github Читать далее</description>
+      <pubDate>Wed, 14 Oct 2026 07:01:56 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1094112/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094112</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Влияние транспорта KV‑переноса на производительность PD‑disaggregation на примере инференса MiniMax‑M3</title>
-      <link>https://habr.com/ru/articles/1094076/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094076</link>
-      <description>Привет! Проводил тестирование на рабочих стендах и хочу поделиться своими результатами с Habr. В работе исследуется влияние транспорта KV-кэша на производительность и работоспособность disaggregated inference, в котором стадии prefill и decode выполняются на разных GPU-узлах. На кластере из двух узлов с восемью NVIDIA B200 на каждом сравниваются RDMA/InfiniBand с GPUDirect и TCP/Ethernet в инференсе MiniMax-M3 через sglang. Эксперимент включает четыре уровня наблюдения: потолок фабрики ( L0 ), и</description>
-      <pubDate>Tue, 13 Oct 2026 21:29:50 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1094076/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094076</guid>
+      <title>Как NAS умер вовремя: ZFS-хранилище из б/у железа и бэкапы, которые проверяют себя сами</title>
+      <link>https://habr.com/ru/articles/1092574/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092574</link>
+      <description>Привет, Хабр. Месяц назад я рассказывал, как в одиночку построил AI-платформу на железе под столом. Та статья вышла с опозданием на день, «потому что вчера я чинил NFS». Через три недели NFS-сервер — старенький QNAP TS-220 — умер окончательно. А вечером того же дня мне переслали список б/у железа «под NAS, не надо?». Эта статья — о том, что выросло из этого совпадения: домашнее ZFS-хранилище из б/у комплектующих, три слоя бэкапов и, главное, проверка восстановления, которая теперь запускается са</description>
+      <pubDate>Wed, 14 Oct 2026 07:00:53 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1092574/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092574</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Helix Carbon says it can make iron cheaper by recycling blast furnace pollution</title>
-      <link>https://techcrunch.com/2026/10/13/helix-carbon-makes-iron-cheaper-by-upcycling-blast-furnace-pollution-see-how-at-techcrunch-disrupt/</link>
-      <description>The steel industry is a big polluter, but Helix Carbon can upcycle pollution from blast furnaces to drive down emissions and improve margins.</description>
-      <pubDate>Tue, 13 Oct 2026 21:15:00 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/13/helix-carbon-makes-iron-cheaper-by-upcycling-blast-furnace-pollution-see-how-at-techcrunch-disrupt/</guid>
-      <category>TechCrunch</category>
+      <title>Офлайн-ИИ в десктопном приложении: что я узнал, встраивая Ollama в лаунчер для трёх ОС</title>
+      <link>https://habr.com/ru/articles/1094066/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094066</link>
+      <description>Я делаю Lumi, открытый лаунчер в духе Spotlight: по горячей клавише открывается строка, в которой можно запустить программу, найти файл или задать вопрос нейросети. Честно скажу сразу: код я пишу вместе с Claude, сам я не программист. Но тесты, цифры и ошибки ниже настоящие, и о них хочется рассказать. Задача была такая: человек без опыта нажимает одну кнопку и получает ИИ, который работает без интернета . Ему не нужен терминал и не нужно знать, что такое Ollama. Дальше расскажу, что из этого вы</description>
+      <pubDate>Wed, 14 Oct 2026 07:00:53 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1094066/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094066</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Как сделать текст человечнее онлайн: редактируем объяснение под читателя</title>
+      <link>https://habr.com/ru/companies/kemp_ai/articles/1094140/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094140</link>
+      <description>«Сделать текст человечнее» — слишком широкое задание для онлайн-редактора. Одному читателю нужен короткий ответ, другому — подробное объяснение, третьему — инструкция. Чтобы получить полезную правку, нужно описать адресата и действие, которое он должен выполнить после чтения. В этой статье разберём редактирование объяснения для однокурсника. Такой сценарий отличается от удаления штампов: здесь мы меняем порядок подачи, выбираем примеры и проверяем, насколько понятны термины. Для работы с учебным</description>
+      <pubDate>Wed, 14 Oct 2026 06:59:05 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/kemp_ai/articles/1094140/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094140</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Текст без «ИИ-слов»: как убрать штампы и сохранить смысл учебной работы</title>
+      <link>https://habr.com/ru/companies/kemp_ai/articles/1094138/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094138</link>
+      <description>Просьба «убери ИИ-слова» обычно означает, что текст звучит расплывчато: много вводных конструкций, повторов и громких оценок. Надёжного списка слов, по которому можно определить автора, нет. Выражения «важно отметить» или «играет ключевую роль» встречаются и у людей. Редактировать нужно функцию фразы: что она сообщает и нужна ли читателю. Разберём процесс правки учебного текста: от проверки смысла до последнего чтения. Для организации работы можно открыть Kampus AI ; ниже приведены самостоятельн</description>
+      <pubDate>Wed, 14 Oct 2026 06:45:59 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/kemp_ai/articles/1094138/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094138</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Генерация презентаций с ИИ: как превратить учебный материал в понятные слайды</title>
+      <link>https://habr.com/ru/companies/kemp_ai/articles/1094136/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094136</link>
+      <description>Презентация для семинара должна помогать объяснять тему. Если перенести на слайды страницы реферата, слушателю придётся одновременно читать и слушать. ИИ полезен на этапе отбора материала: предложить структуру, сократить формулировки, найти места для схем. Решение о том, что доказывает доклад, остаётся за автором. Ниже — рабочий процесс на примере учебного выступления о том, как команда выбирает инструмент для совместной работы. Это методический пример, а не отчёт о тестировании конкретной платф</description>
+      <pubDate>Wed, 14 Oct 2026 06:38:00 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/kemp_ai/articles/1094136/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094136</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Бюстгальтер, уменьшающий грудь: куда девается объём и почему давление сидит на краях</title>
+      <link>https://habr.com/ru/articles/1094134/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094134</link>
+      <description>Самый частый вопрос, который мне задают про так называемый бюстгальтер, уменьшающий грудь, звучит как вопрос о сжатии: «насколько он утягивает?». Подразумевается, что изделие работает как пресс, и чем сильнее давит, тем меньше результат. С инженерной точки зрения это неверная модель, и из неё вырастают почти все ошибки выбора, которые я вижу на примерках. Ниже попробую разобрать, что на самом деле происходит с объёмом, какие силы при этом действуют и почему самое неприятное давление возникает во</description>
+      <pubDate>Wed, 14 Oct 2026 06:34:14 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1094134/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094134</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Как работает российская экосистема ИИ‑разработки для крупных корпораций Digital Q: подробный разбор</title>
+      <link>https://habr.com/ru/companies/diasoft_company/articles/1094130/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094130</link>
+      <description>7 октября мы провели онлайн-презентацию новой, AI-driven версии экосистемы Digital Q. Мы впервые публично показали полную схему конвейера ИИ-агентов, разобрали контур за контуром и продемонстрировали, как он проводит реальную задачу от встречи с заказчиком до подписанного релиза. А теперь обо всем подробнее. Читать далее</description>
+      <pubDate>Wed, 14 Oct 2026 06:28:48 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/diasoft_company/articles/1094130/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094130</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
   </channel>
 </rss>
