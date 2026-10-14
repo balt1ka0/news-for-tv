@@ -5,88 +5,88 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Wed, 14 Oct 2026 18:19:55 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 22:04:21 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Скам расправил плечи: как ИИ открыл возможности для мошенников в ИТ-найме</title>
-      <link>https://habr.com/ru/articles/1094498/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094498</link>
-      <description>Сейчас в ИТ-сфере довольно турбулентно и непредсказуемо: экономическая нестабильность, массовые увольнения, сокращение общего числа вакансий, повсеместное внедрение ИИ, который угрожает заменить разработчиков. Все заставляет переживать работников интеллектуальной сферы. Совокупность всех описанных факторов распространило на рынке огромное число скам-вакансий. Не удивительно, ведь злоумышленники всегда играли на чувствах и опасениях жертв, а текущая ситуация создает огромные возможности для подоб</description>
-      <pubDate>Wed, 14 Oct 2026 18:04:03 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1094498/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094498</guid>
-      <category>Все публикации подряд на Хабре</category>
+      <title>The best feature of Apple’s HomeView might be its simplicity</title>
+      <link>https://www.theverge.com/tech/1011431/apple-homeview-smart-display-best-feature</link>
+      <description>I'm just going to come right out and say it. I love the approach Apple has taken with the HomeView. I think it's the shared, always-available household interface that my family might finally use. Is Apple's first smart display my dream smart home dashboard? No. But is it the right product for Apple Home at […]</description>
+      <pubDate>Wed, 14 Oct 2026 22:00:02 +0000</pubDate>
+      <guid>https://www.theverge.com/tech/1011431/apple-homeview-smart-display-best-feature</guid>
+      <category>The Verge</category>
     </item>
     <item>
-      <title>Парсинг маркетплейсов в 2026: Почему ротация по таймеру работает против парсера</title>
-      <link>https://habr.com/ru/companies/mobileproxy/articles/1094496/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094496</link>
-      <description>Разбираю сутки телеметрии смен IP в сети мобильных прокси и сопоставляю привычки парсеров с тем, что способен увидеть антифрод маркетплейса. Внутри распределения по операторам и способам ротации, длительность смены адреса, дубли команд и каркас парсера, который привязывает ротацию к сессии. Отдельно и честно о том, чего измерить не удалось. Читать далее</description>
-      <pubDate>Wed, 14 Oct 2026 18:00:41 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/mobileproxy/articles/1094496/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094496</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Apate sends AI agents undercover to get scammed so they can gather fraud intelligence</title>
-      <link>https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/</link>
-      <description>Most companies use AI agents to ship products faster or speed up workflows. Apate.ai sends them undercover to get scammed.</description>
-      <pubDate>Wed, 14 Oct 2026 18:00:00 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/</guid>
+      <title>CedarDB wants one database to handle both transactions and analytics, as AI agents raise the stakes</title>
+      <link>https://techcrunch.com/2026/10/14/cedardb-wants-one-database-to-handle-both-transactions-and-analytics-as-ai-agents-raise-the-stakes/</link>
+      <description>Databases have traditionally been designed either for analytical data or for operational data. But database engine CedarDB supports both, and its approach has gained relevance with the rise of agentic AI.</description>
+      <pubDate>Wed, 14 Oct 2026 22:00:00 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/14/cedardb-wants-one-database-to-handle-both-transactions-and-analytics-as-ai-agents-raise-the-stakes/</guid>
       <category>TechCrunch</category>
     </item>
     <item>
-      <title>Повышаем температуру, или почему один промпт дает разные сюжеты</title>
-      <link>https://habr.com/ru/companies/bothub/articles/1094492/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094492</link>
-      <description>Авторам, которые пишут с помощью ИИ, советуют поднять температуру модели, чтобы сюжет получился интереснее. Я проверила этот совет на двух Qwen и сравнила 48 ответов: новые сюжеты появлялись уже при 0,2 , а при 1,2 в рассказ полезли обрывки кода. Рассказываю, почему один промпт даёт разные истории и как пользоваться температурой, не доводя модель до лихорадочного бреда. Читать далее</description>
-      <pubDate>Wed, 14 Oct 2026 17:46:50 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/bothub/articles/1094492/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094492</guid>
+      <title>Ambani’s Jio seeks to raise $3.2B in what could be India’s biggest IPO</title>
+      <link>https://techcrunch.com/2026/10/14/ambanis-jio-seeks-to-raise-3-2b-in-what-could-be-indias-biggest-ipo/</link>
+      <description>Jio plans to use most of its IPO proceeds to repay debt as it expands beyond telecom.</description>
+      <pubDate>Wed, 14 Oct 2026 21:48:20 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/14/ambanis-jio-seeks-to-raise-3-2b-in-what-could-be-indias-biggest-ipo/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>Агенты Claude Code превратили список научных статей в настоящую лабораторию, которую можно запустить прямо в браузере</title>
+      <link>https://habr.com/ru/articles/1094538/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094538</link>
+      <description>Борис Черный (создатель Claude Code) дал 12 агентам 64 научные статьи и одно задание: создать браузерную лабораторию, чтобы читатели могли повторить эксперименты. В лаборатории можно выбрать симуляцию жидкости, изменить условия и понаблюдать за изменением результата. А рядом с анимацией можно посмотреть на уравнения и код. Читать далее</description>
+      <pubDate>Wed, 14 Oct 2026 21:31:56 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1094538/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094538</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Как писать текст для нейросети, чтобы она сослалась на сайт: в 60 ответах она чаще брала абзацы от 30 слов</title>
-      <link>https://habr.com/ru/articles/1094484/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094484</link>
-      <description>Допустим, вы ведёте документацию или блог и хотите, чтобы куски текста попадали в ответы ChatGPT, Perplexity или Алисы AI. Я проверил на ответах Perplexity простой совет — не начинать абзац с «это», «он» или «поэтому». Такие начала одинаково редки у абзацев, которые нейросеть взяла, и у тех, что пропустила. Заметно отличается другое: взятые абзацы длиннее. Совет появился потому, что нейросеть с поиском берёт со страницы не всю статью, а один-два абзаца, и они должны быть понятны без соседей. Но </description>
-      <pubDate>Wed, 14 Oct 2026 17:28:27 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1094484/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094484</guid>
+      <title>Flock CEO says its microphones detect ‘just gunshots’ — its website says different</title>
+      <link>https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/</link>
+      <description>Langley’s comments come amid mounting scrutiny of Flock from privacy advocates, including the ACLU, and members of the public who are concerned about the misuse of its technology.</description>
+      <pubDate>Wed, 14 Oct 2026 21:30:33 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>Eight states sue OpenAI, saying ChatGPT isn’t safe for kids</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety</link>
+      <description>OpenAI is facing a new wave of lawsuits from eight US states that accuse the company of harming children and misleading customers about the safety of ChatGPT, as reported earlier by Reuters. The lawsuits, filed separately by Iowa, Kansas, Nebraska, West Virginia, Arkansas, Arizona, Idaho, and Montana, allege OpenAI unlawfully put profits over safety when […]</description>
+      <pubDate>Wed, 14 Oct 2026 21:11:28 +0000</pubDate>
+      <guid>https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>Colossal Biosciences announces new AI platform to help accelerate de-extinction efforts</title>
+      <link>https://techcrunch.com/2026/10/14/colossal-biosciences-announces-new-ai-platform-to-help-accelerate-de-extinction-efforts/</link>
+      <description>Colossal announced a new AI platform to help accelerate its de-extinction efforts and Peter Diamandis has launched a new fund to back startups who use it.</description>
+      <pubDate>Wed, 14 Oct 2026 21:00:00 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/14/colossal-biosciences-announces-new-ai-platform-to-help-accelerate-de-extinction-efforts/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>Встраивание участка геннотерапевтического препарата в ДНК привело к опухоли у мальчика</title>
+      <link>https://nplus1.ru/news/2026/10/15/malignant-integration</link>
+      <description>Встраивание участка геннотерапевтического препарата в ДНК привело к опухоли у мальчика</description>
+      <pubDate>Wed, 14 Oct 2026 21:00:00 +0000</pubDate>
+      <guid>https://nplus1.ru/news/2026/10/15/malignant-integration</guid>
+      <category>N + 1 — главное издание о науке, технике и технологиях</category>
+    </item>
+    <item>
+      <title>Как я запилил «Дискорд» для вечерних каток в стиле рации</title>
+      <link>https://habr.com/ru/articles/1094530/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094530</link>
+      <description>Привет, друзья. Долго думал, с чего начать. Может, забить промт в нейросеть — от которой уже все устали — и, махнув рукой, сказать «и так сойдёт» или накалякать самому, но от души? И надумал! В общем, если будет нудно — извиняйте, я не писатель и не копирайтер технических статей. Поэтому не удивляйтесь, если текст окажется технически грамотным, а где надо — с длинным тире, это всё проделки DeepSeek и его форматирования. Начну с того самого вечера, когда мне пришла мысль создать свой аналог голос</description>
+      <pubDate>Wed, 14 Oct 2026 20:34:38 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1094530/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094530</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Apple’s new HomeView smart display is $10 cheaper at Amazon</title>
-      <link>https://www.theverge.com/gadgets/1011227/apple-homeview-smart-display-deal-sale</link>
-      <description>Apple only just announced on Tuesday that its first smart display, the HomeView, will arrive on November 13th, but you can already save a couple bucks on it. Right now, you can buy the display for $289.99 ($10 off) in gray and the creamy white “starlight” colorway at Amazon. Sure, it’s a small discount, but […]</description>
-      <pubDate>Wed, 14 Oct 2026 17:24:42 +0000</pubDate>
-      <guid>https://www.theverge.com/gadgets/1011227/apple-homeview-smart-display-deal-sale</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>Sprout Pi adds Bluetooth, streaming, and USB-C to your aging iPod</title>
-      <link>https://www.theverge.com/gadgets/1011266/sprout-pi-adds-bluetooth-streaming-and-usb-c-to-your-aging-ipod</link>
-      <description>There's an entire cottage industry of iPod mods out there, but Sprout Pi and Sprout Pico are two of the few full motherboard replacements that combine many of the most popular mods into a single upgrade. Both versions add Bluetooth, Wi-Fi, USB-C, a microSD card slot, FLAC playback, and more. And while cracking open an […]</description>
-      <pubDate>Wed, 14 Oct 2026 17:19:11 +0000</pubDate>
-      <guid>https://www.theverge.com/gadgets/1011266/sprout-pi-adds-bluetooth-streaming-and-usb-c-to-your-aging-ipod</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>Anbernic’s next dual-screen handheld could replace your aging Nintendo 3DS</title>
-      <link>https://www.theverge.com/tech/1011200/anbernic-rg-dds-dual-screen-handheld-emulator-nintendo-3ds</link>
-      <description>Anbernic shared a new video of its upcoming dual-screen handheld it announced last week showing the device playing 3DS, Xbox, and PS3 games through emulation. While competitors like Ayaneo have been making dual-screen handhelds for a few years, Anbernic only recently introduced its own dual-screen devices including the RG DS and RG DS Plus. Those […]</description>
-      <pubDate>Wed, 14 Oct 2026 17:13:27 +0000</pubDate>
-      <guid>https://www.theverge.com/tech/1011200/anbernic-rg-dds-dual-screen-handheld-emulator-nintendo-3ds</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>Аутсорс разработки — недооценка масштабов проекта</title>
-      <link>https://habr.com/ru/articles/1094480/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094480</link>
-      <description>Мы занимаемся заказной разработкой ПО уже 20 лет. И, конечно, в нашей работе и в обсуждениях с коллегами по рынку регулярно всплывают истории о том или ином проекте, который или вообще не стартовал, или испытывал проблемы, а то и вообще завершился неудачно. Эта статья - часть серии статей, в которых хочется поделиться с сообществом полученным опытом. Скоуп этой статьи - заказная разработка ПО при объёме проекта от 10 до 100 млн руб. в год. Я обсудил тему с коллегами и мы попробовали сформировать</description>
-      <pubDate>Wed, 14 Oct 2026 17:06:22 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1094480/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094480</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>My AI doppelganger tells me what to eat</title>
-      <link>https://www.theverge.com/column/1011264/digital-twin-metabolism-ai-twin-health</link>
-      <description>This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. For the past 100 days or so, my mornings have had a new rhythm. When I wake up, the first […]</description>
-      <pubDate>Wed, 14 Oct 2026 17:00:00 +0000</pubDate>
-      <guid>https://www.theverge.com/column/1011264/digital-twin-metabolism-ai-twin-health</guid>
-      <category>The Verge</category>
+      <title>Flock CEO: We haven’t ‘fired’ any police departments as customers</title>
+      <link>https://techcrunch.com/2026/10/14/flock-ceo-we-havent-fired-any-police-departments-as-customers/</link>
+      <description>Flock CEO Garrett Langley said that the surveillance company has not canceled contracts of any police department or law enforcement agency, despite reports of abuse.</description>
+      <pubDate>Wed, 14 Oct 2026 20:26:25 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/14/flock-ceo-we-havent-fired-any-police-departments-as-customers/</guid>
+      <category>TechCrunch</category>
     </item>
   </channel>
 </rss>
