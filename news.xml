@@ -5,88 +5,88 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Thu, 15 Oct 2026 19:43:36 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 22:54:52 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Bluesky wants to make it easier to buy, sell, and fundraise on the network</title>
-      <link>https://techcrunch.com/2026/10/15/bluesky-wants-to-make-it-easier-to-buy-sell-and-fundraise-on-the-network/</link>
-      <description>The executives argued that advertising isn’t the only path to monetization, and that there are alternative models that are feasible when it comes to monetization.</description>
-      <pubDate>Thu, 15 Oct 2026 19:29:05 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/15/bluesky-wants-to-make-it-easier-to-buy-sell-and-fundraise-on-the-network/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>Meta* выпустила самую мощную открытую модель США. Китайские все равно сильнее</title>
-      <link>https://habr.com/ru/articles/1094982/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094982</link>
-      <description>Meta* (признана экстремистской и запрещена в РФ) 15 октября выложила веса Muse Spark Open – открытой версии своей модели Muse Spark. Компания называет ее “самой мощной американской моделью с открытыми весами”: по агентным бенчмаркам новинка обходит открытые модели Nvidia и Thinking Machines, но по общему индексу уступает китайским Kimi K3 и GLM 5.3. Разбираем карточку модели , лицензию, замеры Apple и то, какое железо нужно, чтобы запустить 816 млрд параметров у себя. Читать далее</description>
-      <pubDate>Thu, 15 Oct 2026 19:29:02 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1094982/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094982</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Anthropic is letting METR researchers look under the hood with employee-level access</title>
-      <link>https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/</link>
-      <description>METR will publish its own assessments of Anthropic’s risks, incidents, and practices, and the frontier AI model maker has given up the right to block them.</description>
-      <pubDate>Thu, 15 Oct 2026 19:14:26 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more</title>
-      <link>https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/</link>
-      <description>Bluesky is bringing “social vibe coding” to its experimental Attie platform, allowing users to create interactive experiences like games, quizzes, and websites that can tap into the social network's audience.</description>
-      <pubDate>Thu, 15 Oct 2026 18:56:46 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>Как менялся pattern matching в C#. Пять версий на примерах</title>
-      <link>https://habr.com/ru/articles/1093998/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093998</link>
-      <description>Я преподаю C# и делаю платформу обучения IRON PROGRAMMER во Владикавказе. Когда ученики присылают решения, я часто вижу длинные цепочки проверок. Объект существует, вложенное свойство не null , город совпадает, прогресс дошел до нужного значения. Сопоставление с образцом (pattern matching) записывает такую проверку в одну строку. Коротко. C# 7 дал образцы объявления и when , C# 8 выражение switch и образцы свойств, C# 9 сравнения и and / or / not , C# 10 вложенные свойства через точку, C# 11 обр</description>
-      <pubDate>Thu, 15 Oct 2026 18:39:34 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1093998/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093998</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Как обучить модель для upscale на ноутбуке с 4 ГБ и не умереть</title>
-      <link>https://habr.com/ru/companies/neoflex/articles/1094958/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094958</link>
-      <description>Зачем нам свой улучшатор? Мы живем в эпоху доступности генеративных нейросетей, однако большинство качественных инструментов улучшения качества фото и видео остаются либо платными SaaS-сервисами, либо сложными академическими проектами. Когда речь заходит об обработке больших объемов личных данных - будь то оцифровка семейных видеокассет или архива институтских пленок - возникает закономерный вопрос доверия и стоимости. Мы поставили перед собой цель: автоматизировать процесс реставрации старых ма</description>
-      <pubDate>Thu, 15 Oct 2026 18:19:27 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/neoflex/articles/1094958/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094958</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Meta and Apple team up to make Muse AI models run better on Macs</title>
-      <link>https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx</link>
-      <description>Meta announced the Muse Spark Open AI model today, claiming that it's the "most capable US open-weight model to date." But the company also says that it's the "the first model in its class" that can "run on your desktop using two Apple M5 Ultra Mac Studios with the latest MLX framework." Meta and Apple, […]</description>
-      <pubDate>Thu, 15 Oct 2026 18:15:36 +0000</pubDate>
-      <guid>https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx</guid>
+      <title>ChatGPT can peek at your Chrome tabs now</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs</link>
+      <description>OpenAI's ChatGPT Atlas browser is gone, but now ChatGPT's Google Chrome extension is getting some upgrades that allow it to use the browser tabs you already have open. With the extension installed, OpenAI says ChatGPT can now view your browser tabs when you tag Chrome in ChatGPT's web or desktop app, posting a demo video […]</description>
+      <pubDate>Thu, 15 Oct 2026 22:43:23 +0000</pubDate>
+      <guid>https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs</guid>
       <category>The Verge</category>
     </item>
     <item>
-      <title>Last chance to save up to $200 on your TechCrunch Founder Summit pass: Early booking ends October 16</title>
-      <link>https://techcrunch.com/2026/10/15/last-chance-to-save-up-to-200-on-techcrunch-founder-summit-early-booking-ends-oct-16/</link>
-      <description>Savings of up to $200 end October 16 for TechCrunch Founder Summit. These savings for Founder and Investor Passes vanish after Friday. Join 1,000 founders and investors on November 4 at Boston’s SoWa Power Station. Bring your toughest questions and make the day count for your business.</description>
-      <pubDate>Thu, 15 Oct 2026 18:00:00 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/15/last-chance-to-save-up-to-200-on-techcrunch-founder-summit-early-booking-ends-oct-16/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>Sony made a $5,900 gold-plated Walkman MP3 player</title>
-      <link>https://www.theverge.com/tech/1012200/sony-made-a-5900-gold-plated-walkman-mp3-player</link>
-      <description>Sony has announced a trio of new Walkman portable media players that start at an already absurd $1,899.99 for the NW-ZX900 and climb all the way up to $5,899 for the gold-plated NW-WM1ZM3. Sandwiched in between is the $2,999.99 Walkman NW-WM1AM3, which is nearly identical to the WM1ZM3, just minus the gaudy gold shell. All […]</description>
-      <pubDate>Thu, 15 Oct 2026 17:48:57 +0000</pubDate>
-      <guid>https://www.theverge.com/tech/1012200/sony-made-a-5900-gold-plated-walkman-mp3-player</guid>
+      <title>Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch</title>
+      <link>https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled</link>
+      <description>Sega is removing Total War: Shogun 2 - Complete Edition from storefronts following a disastrous launch where users complained about issues like bugs and upscaling that appears to have been done by AI. Complete Edition, a remaster of the 2011 strategy game, launched on Tuesday, and it bundled the main game and all of its […]</description>
+      <pubDate>Thu, 15 Oct 2026 22:35:55 +0000</pubDate>
+      <guid>https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled</guid>
       <category>The Verge</category>
     </item>
     <item>
-      <title>Volvo makes a bigger bet on Nvidia for hands-free automated driving</title>
-      <link>https://techcrunch.com/2026/10/15/volvo-makes-a-bigger-bet-on-nvidia/</link>
-      <description>Volvo is leveling up its automated driving system through an expansion of its nearly decade-long partnership with Nvidia that will extend beyond its battery electric vehicles.</description>
-      <pubDate>Thu, 15 Oct 2026 17:34:40 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/15/volvo-makes-a-bigger-bet-on-nvidia/</guid>
+      <title>The tech backlash is now in theaters</title>
+      <link>https://www.theverge.com/entertainment/1012438/hollywood-tech-backlash-you-can-see-everything-musk-the-social-reckoning-artificial</link>
+      <description>Though movies about disruptive tech founders are nothing new, 2026 has been unusually stacked with features that take a much more critical look at how Silicon Valley is reshaping our reality. Aaron Sorkin's The Social Reckoning frames Mark Zuckerberg as a robotic villain whose ambitions are destabilizing society. Nathan Fielder and Lance Oppenheim's You Can […]</description>
+      <pubDate>Thu, 15 Oct 2026 21:39:52 +0000</pubDate>
+      <guid>https://www.theverge.com/entertainment/1012438/hollywood-tech-backlash-you-can-see-everything-musk-the-social-reckoning-artificial</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>Переводчик с тимлидского: что слышит команда, когда вы говорите «внедряем ИИ‑агентов»</title>
+      <link>https://habr.com/ru/articles/1095024/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095024</link>
+      <description>«С понедельника пишем код через ИИ-агентов!» — говорите вы на созвоне. Вы предвкушаете ускорение процессов, а разработчик в этот момент молча обновляет резюме на Хедхантере . Почему классные ИИ-инструменты вызывают у команды только тихий ужас и глухое сопротивление? Разбираем реальные страхи разработчиков перед автоматизацией и делимся готовыми шпаргалками для руководителя, которые спасут ваше следующее планирование. Читать далее</description>
+      <pubDate>Thu, 15 Oct 2026 21:33:48 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1095024/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095024</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Trump posts AI-edited photo to brag about White House restoration work</title>
+      <link>https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column</link>
+      <description>President Donald Trump posted a series of photos on Truth Social showing off renovations to the White House - but one of them appears to be modified with AI. The picture, which compares an old White House column to a "restored" one, has several discrepancies and was flagged by Google's AI detector as "made or […]</description>
+      <pubDate>Thu, 15 Oct 2026 21:09:33 +0000</pubDate>
+      <guid>https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>Как Транснефть бесплатно забрала у нашей IT‑компании софт для автоматизации 13% ВВП страны, а нас отправила в РНП</title>
+      <link>https://habr.com/ru/articles/1095014/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095014</link>
+      <description>Меня зовут Алексей Рыбаков, я генеральный директор IT-компании «Омега Софт» из Йошкар-Олы. Последние 15 лет наша команда создает сложный промышленный софт для крупных российских предприятий. Мы привыкли работать в правовом поле, сдавать проекты в срок и верить, что добросовестное исполнение контракта — это главная защита бизнеса. Но прецедент, с которым мы столкнулись в рамках дела № А40-311087/2025 , показал: перед лицом гигантской корпоративной машины и слепого судейского формализма независимы</description>
+      <pubDate>Thu, 15 Oct 2026 21:00:33 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1095014/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095014</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Заводим C++ корутины на микроконтроллере</title>
+      <link>https://habr.com/ru/articles/1095012/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095012</link>
+      <description>Мне давно было интересно попробовать запустить корутины на микроконтроллере, но стандарт С++ совершенно не учитывает мир embedded с его ограничениями и не даёт возможности создать корутину в статической памяти. Недавно я обнаружил что LLM агенты уже могут реализовывать довольно сложные задачи самостоятельно с неплохим качеством кода. И тут я понял - чего бы не попробовать сделать своё расширение для clang с корутинами, которые гарантированно не используют аллокации и поверх этого реализовать неб</description>
+      <pubDate>Thu, 15 Oct 2026 20:53:42 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1095012/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095012</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Разработка цифрового радиолюбительского протокола на базе OFDM. MAC и LLC уровни</title>
+      <link>https://habr.com/ru/articles/1095010/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095010</link>
+      <description>В предыдущей части статьи были рассмотрены принципы и механизмы работы PHY-уровня радиолюбительского OFDM-протокола, а также алгоритмы кодирования и декодирования данных. В этой статье рассматриваются принципы построения уровней управления доступом к среде (MAC) и управления логическим каналом (LLC), реализующих полудуплексное сетевое соединение между двумя трансиверами, а также анализируются возникшие при реализации и методы их решения. Читать далее</description>
+      <pubDate>Thu, 15 Oct 2026 20:45:52 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1095010/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095010</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Amazon devices chief Panos Panay on the importance of failure and bouncing back from it</title>
+      <link>https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-on-the-importance-of-failure-and-bouncing-back-from-it/</link>
+      <description>Panay said that it's possible to recover and learn from all sorts of failures, even catastrophic ones, when building products.</description>
+      <pubDate>Thu, 15 Oct 2026 20:38:13 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-on-the-importance-of-failure-and-bouncing-back-from-it/</guid>
       <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>[Перевод] Марк Камионковский о тёмной энергии и космологических аномалиях</title>
+      <link>https://habr.com/ru/articles/1095006/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095006</link>
+      <description>Будем откровенны: в 1998 году космологи были по-настоящему ошеломлены, когда наблюдения показали, что расширение Вселенной ускоряется . Казалось, этому есть вполне очевидное и правдоподобное объяснение - космологическая постоянная , предложенная Эйнштейном, которая эквивалентна постоянной плотности энергии вакуума, заполняющего всё пространство. Однако уже тогда было известно, что космологическая постоянная на много порядков меньше своего «естественного» значения. И тот факт, что она настолько м</description>
+      <pubDate>Thu, 15 Oct 2026 20:15:41 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1095006/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095006</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
   </channel>
 </rss>
