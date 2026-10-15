@@ -5,88 +5,88 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Thu, 15 Oct 2026 00:25:58 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 05:36:39 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Gudea leverages AI to help organizations prevent social media crises before they erupt</title>
-      <link>https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/</link>
-      <description>Every day, conversations unfold across social media and websites around the world. A seemingly insignificant post—whether it involves AI-generated misinformation, hate speech, or a damaging rumor—can quickly snowball into a much larger public controversy. Gudea, a company that tracks how stories and rumors spread online that describes itself as the “storm tracker for the internet,” […]</description>
-      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/</guid>
-      <category>TechCrunch</category>
+      <title>Миллионы событий WAF в одну аномалию: как PT AF Cloud замечает смену характера атак</title>
+      <link>https://habr.com/ru/companies/pt/articles/1094394/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094394</link>
+      <description>Привет, Хабр! Меня зовут Даниил Лопаткин, я ML-инженер в группе машинного обучения Positive Technologies. Расскажу, как в PT Cloud Application Firewall работает обнаружение аномалий в профиле трафика и зачем мы его сделали. Межсетевой экран уровня веб-приложений (WAF) записывает каждое срабатывание правила защиты. У крупного клиента за сутки набираются десятки и сотни тысяч таких событий. Большая часть из них — привычный фон: боты, сканеры, перебор типовых путей, превышения лимита запросов. След</description>
+      <pubDate>Thu, 15 Oct 2026 05:16:46 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/pt/articles/1094394/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094394</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Intero Biosystems wants drugmakers to test on mini human intestines, not animals</title>
-      <link>https://techcrunch.com/2026/10/14/intero-biosystems-wants-drugmakers-to-test-on-mini-human-intestines-not-animals/</link>
-      <description>Intero Biosystems is selling lab-grown human intestines to drugmakers as regulators push for alternatives to animal testing, while the startup looks to scale production and expand its organoid technology.</description>
-      <pubDate>Wed, 14 Oct 2026 23:00:00 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/14/intero-biosystems-wants-drugmakers-to-test-on-mini-human-intestines-not-animals/</guid>
-      <category>TechCrunch</category>
+      <title>Как я подружил llama-server с Claude Code: доработка Go-лаунчера для локальных LLM</title>
+      <link>https://habr.com/ru/articles/1094534/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094534</link>
+      <description>В своих прошлых материалах я уже рассказывал о запуске крупных MoE-моделей на ограниченном железе через llama-server и о сравнительных экспериментах с 35B, 120B и 176B-классами моделей. Практика показала, что llama.cpp давно перестал быть просто «запускатором GGUF»: сегодня это полноценный рантайм с OpenAI-совместимым API, поддержкой инструментов, Jinja-шаблонов, спекулятивного декодирования и гибкого CPU/GPU-offload. Единственное, чего ему не хватало для повседневной работы, — удобной обвязки, </description>
+      <pubDate>Thu, 15 Oct 2026 05:00:20 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1094534/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094534</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>McKinsey is making job applicants spar with a fake AI client</title>
-      <link>https://www.theverge.com/news/1011654/mckinsey-ai-client-interview</link>
-      <description>Consulting firm McKinsey &amp; Company is going to ask some entry-level candidates to have a 10-minute conversation with an AI simulation of a client as part of the interview process, according to The Wall Street Journal. The AI simulation "aims to reflect 80% of the scenarios McKinsey consultants might encounter in their day-to-day work," the […]</description>
-      <pubDate>Wed, 14 Oct 2026 22:53:31 +0000</pubDate>
-      <guid>https://www.theverge.com/news/1011654/mckinsey-ai-client-interview</guid>
-      <category>The Verge</category>
+      <title>Artificiality's First Exam: An LLM-Referenced C-test for Supraintelligence</title>
+      <link>https://arxiv.org/abs/2610.14005</link>
+      <description>arXiv:2610.14005v1 Announce Type: new Abstract: Under the accelerated pace of AI development, any benchmark whose difficulty is calibrated with humans or current AI systems becomes circular, or saturates soon. How can we then evaluate machines that may become more capable than the current machines and the people who write the tests? One answer to the question hinges on inverse problems, inductive inference questions for which difficulty depends on the complexity of the underlying mechanism, give</description>
+      <pubDate>Thu, 15 Oct 2026 04:00:00 +0000</pubDate>
+      <guid>https://arxiv.org/abs/2610.14005</guid>
+      <category>cs.AI updates on arXiv.org</category>
     </item>
     <item>
-      <title>The best feature of Apple’s HomeView might be its simplicity</title>
-      <link>https://www.theverge.com/tech/1011431/apple-homeview-smart-display-best-feature</link>
-      <description>I'm just going to come right out and say it. I love the approach Apple has taken with the HomeView. I think it's the shared, always-available household interface that my family might finally use. Is Apple's first smart display my dream smart home dashboard? No. But is it the right product for Apple Home at […]</description>
-      <pubDate>Wed, 14 Oct 2026 22:00:02 +0000</pubDate>
-      <guid>https://www.theverge.com/tech/1011431/apple-homeview-smart-display-best-feature</guid>
-      <category>The Verge</category>
+      <title>The Silent Failures in Agentic Data Science</title>
+      <link>https://arxiv.org/abs/2610.14115</link>
+      <description>arXiv:2610.14115v1 Announce Type: new Abstract: Large language models have significantly lowered the barrier to writing code. Naturally, this has also led to the development of data science agents that promise automating the design and execution of data science from task formulation to model development. Existing evaluations of agentic data science (agentic DS) assess downstream predictive performance and code correctness, providing preliminary insight in agentic DS capabilities. We argue that t</description>
+      <pubDate>Thu, 15 Oct 2026 04:00:00 +0000</pubDate>
+      <guid>https://arxiv.org/abs/2610.14115</guid>
+      <category>cs.AI updates on arXiv.org</category>
     </item>
     <item>
-      <title>CedarDB wants one database to handle both transactions and analytics, as AI agents raise the stakes</title>
-      <link>https://techcrunch.com/2026/10/14/cedardb-wants-one-database-to-handle-both-transactions-and-analytics-as-ai-agents-raise-the-stakes/</link>
-      <description>Databases have traditionally been designed either for analytical data or for operational data. But database engine CedarDB supports both, and its approach has gained relevance with the rise of agentic AI.</description>
-      <pubDate>Wed, 14 Oct 2026 22:00:00 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/14/cedardb-wants-one-database-to-handle-both-transactions-and-analytics-as-ai-agents-raise-the-stakes/</guid>
-      <category>TechCrunch</category>
+      <title>ClawLoop: Self-Improving Agents via Harness-Native Training Loop</title>
+      <link>https://arxiv.org/abs/2610.14118</link>
+      <description>arXiv:2610.14118v1 Announce Type: new Abstract: The rapid advancement of Large Language Models (LLMs) has driven their deployment toward general-purpose harness environments, where LLM-based agents operate in sandbox workspaces and interact directly with file systems and shells. While numerous post-training pipelines exist for tool-use agents, their counterparts for harness-based agents remain scarce and are predominantly one-shot and teacher-dependent: a stronger external model synthesizes task</description>
+      <pubDate>Thu, 15 Oct 2026 04:00:00 +0000</pubDate>
+      <guid>https://arxiv.org/abs/2610.14118</guid>
+      <category>cs.AI updates on arXiv.org</category>
     </item>
     <item>
-      <title>Ambani’s Jio seeks to raise $3.2B in what could be India’s biggest IPO</title>
-      <link>https://techcrunch.com/2026/10/14/ambanis-jio-seeks-to-raise-3-2b-in-what-could-be-indias-biggest-ipo/</link>
-      <description>Jio plans to use most of its IPO proceeds to repay debt as it expands beyond telecom.</description>
-      <pubDate>Wed, 14 Oct 2026 21:48:20 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/14/ambanis-jio-seeks-to-raise-3-2b-in-what-could-be-indias-biggest-ipo/</guid>
-      <category>TechCrunch</category>
+      <title>Correction Training for Diffusion Models</title>
+      <link>https://arxiv.org/abs/2610.14136</link>
+      <description>arXiv:2610.14136v2 Announce Type: new Abstract: Iterative sampling in diffusion models can lead to error accumulation due to exposure bias. The denoiser is trained on real images interpolated with noise, but at inference its inputs are constructed from its own imperfect predictions from the earlier steps, something it has never seen at training time. This might be one reason diffusion models often struggle without additional help, such as CFG. We introduce a correction step for diffusion models </description>
+      <pubDate>Thu, 15 Oct 2026 04:00:00 +0000</pubDate>
+      <guid>https://arxiv.org/abs/2610.14136</guid>
+      <category>cs.AI updates on arXiv.org</category>
     </item>
     <item>
-      <title>Flock CEO says its microphones detect ‘just gunshots’ — its website says different</title>
-      <link>https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/</link>
-      <description>Langley’s comments come amid mounting scrutiny of Flock from privacy advocates, including the ACLU, and members of the public who are concerned about the misuse of its technology.</description>
-      <pubDate>Wed, 14 Oct 2026 21:30:33 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/</guid>
-      <category>TechCrunch</category>
+      <title>Long-Horizon-Terminal-Bench 2.0: Automating Diverse Task Construction and Measuring Sustained Agent Progress</title>
+      <link>https://arxiv.org/abs/2610.14146</link>
+      <description>arXiv:2610.14146v1 Announce Type: new Abstract: Long-horizon terminal benchmarks measure whether an agent can sustain progress through extended workflows with process rewards, not only whether its final state passes a binary check. We present Long-Horizon-Terminal-Bench 2.0 (LHTB 2.0), an extension of Long-Horizon-Terminal-Bench that preserves its 46 original tasks while correcting task and evaluation-infrastructure defects and extending 31 tasks. LHTB 2.0 contains 77 tasks across 13 domains and</description>
+      <pubDate>Thu, 15 Oct 2026 04:00:00 +0000</pubDate>
+      <guid>https://arxiv.org/abs/2610.14146</guid>
+      <category>cs.AI updates on arXiv.org</category>
     </item>
     <item>
-      <title>Eight states sue OpenAI, saying ChatGPT isn’t safe for kids</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety</link>
-      <description>OpenAI is facing a new wave of lawsuits from eight US states that accuse the company of harming children and misleading customers about the safety of ChatGPT, as reported earlier by Reuters. The lawsuits, filed separately by Iowa, Kansas, Nebraska, West Virginia, Arkansas, Arizona, Idaho, and Montana, allege OpenAI unlawfully put profits over safety when […]</description>
-      <pubDate>Wed, 14 Oct 2026 21:11:28 +0000</pubDate>
-      <guid>https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety</guid>
-      <category>The Verge</category>
+      <title>VETNET: Assembling Benchmark Datasets for AI-Driven Veterinary Innovation</title>
+      <link>https://arxiv.org/abs/2610.14149</link>
+      <description>arXiv:2610.14149v1 Announce Type: new Abstract: VETNET represents an ecosystem of live benchmark datasets and evaluation frameworks designed to accelerate AI-driven innovation in animal science and veterinary medicine through standardized, high-quality datasets and multi-institutional collaboration across academic and non-academic sectors. This framework addresses the gap between AI advances in human medicine and the fragmented state of veterinary AI development.</description>
+      <pubDate>Thu, 15 Oct 2026 04:00:00 +0000</pubDate>
+      <guid>https://arxiv.org/abs/2610.14149</guid>
+      <category>cs.AI updates on arXiv.org</category>
     </item>
     <item>
-      <title>Colossal Biosciences announces new AI platform to help accelerate de-extinction efforts</title>
-      <link>https://techcrunch.com/2026/10/14/colossal-biosciences-announces-new-ai-platform-to-help-accelerate-de-extinction-efforts/</link>
-      <description>Colossal announced a new AI platform to help accelerate its de-extinction efforts and Peter Diamandis has launched a new fund to back startups who use it.</description>
-      <pubDate>Wed, 14 Oct 2026 21:00:00 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/14/colossal-biosciences-announces-new-ai-platform-to-help-accelerate-de-extinction-efforts/</guid>
-      <category>TechCrunch</category>
+      <title>Unconstrained CTI-REALM with Open-Weights</title>
+      <link>https://arxiv.org/abs/2610.14180</link>
+      <description>arXiv:2610.14180v1 Announce Type: new Abstract: Organisations that want language-model agents for security work face a choice between open-weight models, which they can run and audit themselves, and far more expensive closed frontier models. We study that choice on CTI-REALM (arXiv:2603.13517), a benchmark in which an agent turns a threat-intelligence report into a working detection by querying a live telemetry store. We evaluate twenty-six models, nineteen open-weight and seven closed, under a </description>
+      <pubDate>Thu, 15 Oct 2026 04:00:00 +0000</pubDate>
+      <guid>https://arxiv.org/abs/2610.14180</guid>
+      <category>cs.AI updates on arXiv.org</category>
     </item>
     <item>
-      <title>Встраивание участка геннотерапевтического препарата в ДНК привело к опухоли у мальчика</title>
-      <link>https://nplus1.ru/news/2026/10/15/malignant-integration</link>
-      <description>Встраивание участка геннотерапевтического препарата в ДНК привело к опухоли у мальчика</description>
-      <pubDate>Wed, 14 Oct 2026 21:00:00 +0000</pubDate>
-      <guid>https://nplus1.ru/news/2026/10/15/malignant-integration</guid>
-      <category>N + 1 — главное издание о науке, технике и технологиях</category>
+      <title>Visualizing the World Model in an Agent's Value Function</title>
+      <link>https://arxiv.org/abs/2610.14186</link>
+      <description>arXiv:2610.14186v1 Announce Type: new Abstract: Could model-free reinforcement learning algorithms actually be learning a model of the environment? In this work, we apply counterfactual interventions which hold everything about a state fixed, besides a targeted change, to explore if the value function of a Proximal Policy Optimization agent forms a world model of the Crafter environment. Despite only being trained to optimize reward, we discover that the value function learns concepts such as th</description>
+      <pubDate>Thu, 15 Oct 2026 04:00:00 +0000</pubDate>
+      <guid>https://arxiv.org/abs/2610.14186</guid>
+      <category>cs.AI updates on arXiv.org</category>
     </item>
   </channel>
 </rss>
