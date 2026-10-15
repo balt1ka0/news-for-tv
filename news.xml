@@ -5,9 +5,33 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Wed, 14 Oct 2026 22:04:21 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 00:25:58 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gudea leverages AI to help organizations prevent social media crises before they erupt</title>
+      <link>https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/</link>
+      <description>Every day, conversations unfold across social media and websites around the world. A seemingly insignificant post—whether it involves AI-generated misinformation, hate speech, or a damaging rumor—can quickly snowball into a much larger public controversy. Gudea, a company that tracks how stories and rumors spread online that describes itself as the “storm tracker for the internet,” […]</description>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>Intero Biosystems wants drugmakers to test on mini human intestines, not animals</title>
+      <link>https://techcrunch.com/2026/10/14/intero-biosystems-wants-drugmakers-to-test-on-mini-human-intestines-not-animals/</link>
+      <description>Intero Biosystems is selling lab-grown human intestines to drugmakers as regulators push for alternatives to animal testing, while the startup looks to scale production and expand its organoid technology.</description>
+      <pubDate>Wed, 14 Oct 2026 23:00:00 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/14/intero-biosystems-wants-drugmakers-to-test-on-mini-human-intestines-not-animals/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>McKinsey is making job applicants spar with a fake AI client</title>
+      <link>https://www.theverge.com/news/1011654/mckinsey-ai-client-interview</link>
+      <description>Consulting firm McKinsey &amp; Company is going to ask some entry-level candidates to have a 10-minute conversation with an AI simulation of a client as part of the interview process, according to The Wall Street Journal. The AI simulation "aims to reflect 80% of the scenarios McKinsey consultants might encounter in their day-to-day work," the […]</description>
+      <pubDate>Wed, 14 Oct 2026 22:53:31 +0000</pubDate>
+      <guid>https://www.theverge.com/news/1011654/mckinsey-ai-client-interview</guid>
+      <category>The Verge</category>
+    </item>
     <item>
       <title>The best feature of Apple’s HomeView might be its simplicity</title>
       <link>https://www.theverge.com/tech/1011431/apple-homeview-smart-display-best-feature</link>
@@ -31,14 +55,6 @@
       <pubDate>Wed, 14 Oct 2026 21:48:20 +0000</pubDate>
       <guid>https://techcrunch.com/2026/10/14/ambanis-jio-seeks-to-raise-3-2b-in-what-could-be-indias-biggest-ipo/</guid>
       <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>Агенты Claude Code превратили список научных статей в настоящую лабораторию, которую можно запустить прямо в браузере</title>
-      <link>https://habr.com/ru/articles/1094538/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094538</link>
-      <description>Борис Черный (создатель Claude Code) дал 12 агентам 64 научные статьи и одно задание: создать браузерную лабораторию, чтобы читатели могли повторить эксперименты. В лаборатории можно выбрать симуляцию жидкости, изменить условия и понаблюдать за изменением результата. А рядом с анимацией можно посмотреть на уравнения и код. Читать далее</description>
-      <pubDate>Wed, 14 Oct 2026 21:31:56 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1094538/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094538</guid>
-      <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
       <title>Flock CEO says its microphones detect ‘just gunshots’ — its website says different</title>
@@ -71,22 +87,6 @@
       <pubDate>Wed, 14 Oct 2026 21:00:00 +0000</pubDate>
       <guid>https://nplus1.ru/news/2026/10/15/malignant-integration</guid>
       <category>N + 1 — главное издание о науке, технике и технологиях</category>
-    </item>
-    <item>
-      <title>Как я запилил «Дискорд» для вечерних каток в стиле рации</title>
-      <link>https://habr.com/ru/articles/1094530/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094530</link>
-      <description>Привет, друзья. Долго думал, с чего начать. Может, забить промт в нейросеть — от которой уже все устали — и, махнув рукой, сказать «и так сойдёт» или накалякать самому, но от души? И надумал! В общем, если будет нудно — извиняйте, я не писатель и не копирайтер технических статей. Поэтому не удивляйтесь, если текст окажется технически грамотным, а где надо — с длинным тире, это всё проделки DeepSeek и его форматирования. Начну с того самого вечера, когда мне пришла мысль создать свой аналог голос</description>
-      <pubDate>Wed, 14 Oct 2026 20:34:38 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1094530/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094530</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Flock CEO: We haven’t ‘fired’ any police departments as customers</title>
-      <link>https://techcrunch.com/2026/10/14/flock-ceo-we-havent-fired-any-police-departments-as-customers/</link>
-      <description>Flock CEO Garrett Langley said that the surveillance company has not canceled contracts of any police department or law enforcement agency, despite reports of abuse.</description>
-      <pubDate>Wed, 14 Oct 2026 20:26:25 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/14/flock-ceo-we-havent-fired-any-police-departments-as-customers/</guid>
-      <category>TechCrunch</category>
     </item>
   </channel>
 </rss>
