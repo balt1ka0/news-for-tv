@@ -5,88 +5,88 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Thu, 15 Oct 2026 15:30:53 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 19:43:36 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>25 лет книги Александреску</title>
-      <link>https://habr.com/ru/articles/1094142/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094142</link>
-      <description>Книга Андрея Александреску «Modern C++ Design» (2001) оказала глубокое влияние на развитие C++, но ее влияние на стандарты проявлялось не в прямом заимствовании готового кода, а через демонстрацию новых возможностей шаблонов и формирование запроса сообщества на языковые средства, которые сделали бы эти техники более удобными и безопасными . Сам термин «современный C++» (modern C++) сегодня часто ассоциируется именно со стилем, который популяризировала эта книга . Вот основные направления влияния</description>
-      <pubDate>Thu, 15 Oct 2026 15:30:26 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1094142/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094142</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Где заканчивается самостоятельность ИИ-агента? Я дал ему банковскую карту, телефон, браузер и 200+ MCP: итоги теста</title>
-      <link>https://habr.com/ru/articles/1094906/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094906</link>
-      <description>ИИ-агент купил мне авиабилет, накопил годовой запас кофе и попал в чёрный список ресторанов. Я дал ему банковскую карту, телефон, браузер и доступ к 200+ MCP и API – и проверил, как он выполняет поручения в реальном мире. Показываю кейсы и выводы из экспериментов с облачным агентом, а затем разбираю десктопную версию с открытым кодом и on-device LLM: какие задачи уже можно решать локально. Читать далее</description>
-      <pubDate>Thu, 15 Oct 2026 15:28:49 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1094906/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094906</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Alone in the Dark 1992 года навайбкожено на DirectX 12: ремейк за четыре часа и DLSS 5 сверху</title>
-      <link>https://habr.com/ru/articles/1094900/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094900</link>
-      <description>Спойлер: собаку пришлось перерисовать с нуля. Но обо всём по порядку. А больше всего времени занял скульптинг груди ;-) В прошлый раз Claude за полтора часа перевёл досовскую демку Quake на нативный DirectX 12, пока я ходил на кухню. Демка Alone in the Dark лежала в соседней папке, в той же самой папке Heroes 2 и просто дх12 порта мне показлось мало… Долой автора - долой вайбкодинг</description>
-      <pubDate>Thu, 15 Oct 2026 15:26:40 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1094900/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094900</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Забыты вне зоны доступа</title>
-      <link>https://habr.com/ru/articles/1094896/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094896</link>
-      <description>Эта статья о людях, полностью вычеркнутых из привычного нам мира, из политической и социальной жизни, ежедневно дискриминируемых государством по территориальному признаку, лишённых своих конституционных прав и привычных благ современной цивилизации, стоя́щей сегодня на пороге технологической сингулярности. О людях, живущих сегодня как в начале позапрошлого века, где единственной приметой «цивилизованности» остаётся одно лишь электричество. Ни школ, ни библиотек, ни магазинов, ни банков, вообще н</description>
-      <pubDate>Thu, 15 Oct 2026 15:14:47 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1094896/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094896</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>AI agents are coming to Rivian’s cars</title>
-      <link>https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/</link>
-      <description>We'll likely learn more about how this will work at the company's upcoming "AI &amp; Autonomy Day" event in December.</description>
-      <pubDate>Thu, 15 Oct 2026 15:02:36 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/</guid>
+      <title>Bluesky wants to make it easier to buy, sell, and fundraise on the network</title>
+      <link>https://techcrunch.com/2026/10/15/bluesky-wants-to-make-it-easier-to-buy-sell-and-fundraise-on-the-network/</link>
+      <description>The executives argued that advertising isn’t the only path to monetization, and that there are alternative models that are feasible when it comes to monetization.</description>
+      <pubDate>Thu, 15 Oct 2026 19:29:05 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/15/bluesky-wants-to-make-it-easier-to-buy-sell-and-fundraise-on-the-network/</guid>
       <category>TechCrunch</category>
     </item>
     <item>
-      <title>Shelly’s new presence sensor simultaneously detects up to 10 people without a camera</title>
-      <link>https://www.theverge.com/tech/1011967/shellys-new-presence-sensor-simultaneously-detects-up-to-ten-people-without-a-camera</link>
-      <description>Following the launch of its $50 subscription-free security camera last month, Shelly announced another new accessory for smart home automation today that can keep track of multiple people as they move through rooms or large spaces without recording them. The Shelly Presence Gen4 sensor uses mmWave radar technology instead of a camera to detect the […]</description>
-      <pubDate>Thu, 15 Oct 2026 15:00:00 +0000</pubDate>
-      <guid>https://www.theverge.com/tech/1011967/shellys-new-presence-sensor-simultaneously-detects-up-to-ten-people-without-a-camera</guid>
-      <category>The Verge</category>
+      <title>Meta* выпустила самую мощную открытую модель США. Китайские все равно сильнее</title>
+      <link>https://habr.com/ru/articles/1094982/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094982</link>
+      <description>Meta* (признана экстремистской и запрещена в РФ) 15 октября выложила веса Muse Spark Open – открытой версии своей модели Muse Spark. Компания называет ее “самой мощной американской моделью с открытыми весами”: по агентным бенчмаркам новинка обходит открытые модели Nvidia и Thinking Machines, но по общему индексу уступает китайским Kimi K3 и GLM 5.3. Разбираем карточку модели , лицензию, замеры Apple и то, какое железо нужно, чтобы запустить 816 млрд параметров у себя. Читать далее</description>
+      <pubDate>Thu, 15 Oct 2026 19:29:02 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1094982/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094982</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Microsoft’s new Photos app combines your PC, OneDrive, and iCloud galleries</title>
-      <link>https://www.theverge.com/tech/1012003/microsoft-windows-11-new-photos-app-onedrive-icloud</link>
-      <description>Microsoft has redesigned its Photos app for Windows 11, overhauling the editor and image viewer, and combining photos and videos from your PC, OneDrive, and iCloud into a single space. The new combined gallery experience aims to make it easier to manage and view your photos without jumping between apps or devices, while also improving […]</description>
-      <pubDate>Thu, 15 Oct 2026 14:53:38 +0000</pubDate>
-      <guid>https://www.theverge.com/tech/1012003/microsoft-windows-11-new-photos-app-onedrive-icloud</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>Ramp reaches $60B valuation as it pushes deeper into AI</title>
-      <link>https://techcrunch.com/2026/10/15/ramp-reaches-60b-valuation-as-it-pushes-deeper-into-ai/</link>
-      <description>The funding comes as Ramp's annualized revenue crosses $2B, and its customer count reaches 85,000.</description>
-      <pubDate>Thu, 15 Oct 2026 14:47:09 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/15/ramp-reaches-60b-valuation-as-it-pushes-deeper-into-ai/</guid>
+      <title>Anthropic is letting METR researchers look under the hood with employee-level access</title>
+      <link>https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/</link>
+      <description>METR will publish its own assessments of Anthropic’s risks, incidents, and practices, and the frontier AI model maker has given up the right to block them.</description>
+      <pubDate>Thu, 15 Oct 2026 19:14:26 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/</guid>
       <category>TechCrunch</category>
     </item>
     <item>
-      <title>Trump calls off livestream of execution</title>
-      <link>https://www.theverge.com/policy/1011991/trump-nidal-hasan-execution-not-livestreaming</link>
-      <description>The execution of Fort Hood shooter Nidal Hasan will not be livestreamed as Secretary of Defense Pete Hegseth had previously announced. Donald Trump announced the plan was off in a post on Truth Social: I think streaming the execution for all to see might have been a strong deterrent for the World to witness how […]</description>
-      <pubDate>Thu, 15 Oct 2026 14:43:44 +0000</pubDate>
-      <guid>https://www.theverge.com/policy/1011991/trump-nidal-hasan-execution-not-livestreaming</guid>
+      <title>Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more</title>
+      <link>https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/</link>
+      <description>Bluesky is bringing “social vibe coding” to its experimental Attie platform, allowing users to create interactive experiences like games, quizzes, and websites that can tap into the social network's audience.</description>
+      <pubDate>Thu, 15 Oct 2026 18:56:46 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>Как менялся pattern matching в C#. Пять версий на примерах</title>
+      <link>https://habr.com/ru/articles/1093998/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093998</link>
+      <description>Я преподаю C# и делаю платформу обучения IRON PROGRAMMER во Владикавказе. Когда ученики присылают решения, я часто вижу длинные цепочки проверок. Объект существует, вложенное свойство не null , город совпадает, прогресс дошел до нужного значения. Сопоставление с образцом (pattern matching) записывает такую проверку в одну строку. Коротко. C# 7 дал образцы объявления и when , C# 8 выражение switch и образцы свойств, C# 9 сравнения и and / or / not , C# 10 вложенные свойства через точку, C# 11 обр</description>
+      <pubDate>Thu, 15 Oct 2026 18:39:34 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1093998/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093998</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Как обучить модель для upscale на ноутбуке с 4 ГБ и не умереть</title>
+      <link>https://habr.com/ru/companies/neoflex/articles/1094958/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094958</link>
+      <description>Зачем нам свой улучшатор? Мы живем в эпоху доступности генеративных нейросетей, однако большинство качественных инструментов улучшения качества фото и видео остаются либо платными SaaS-сервисами, либо сложными академическими проектами. Когда речь заходит об обработке больших объемов личных данных - будь то оцифровка семейных видеокассет или архива институтских пленок - возникает закономерный вопрос доверия и стоимости. Мы поставили перед собой цель: автоматизировать процесс реставрации старых ма</description>
+      <pubDate>Thu, 15 Oct 2026 18:19:27 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/neoflex/articles/1094958/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094958</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Meta and Apple team up to make Muse AI models run better on Macs</title>
+      <link>https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx</link>
+      <description>Meta announced the Muse Spark Open AI model today, claiming that it's the "most capable US open-weight model to date." But the company also says that it's the "the first model in its class" that can "run on your desktop using two Apple M5 Ultra Mac Studios with the latest MLX framework." Meta and Apple, […]</description>
+      <pubDate>Thu, 15 Oct 2026 18:15:36 +0000</pubDate>
+      <guid>https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx</guid>
       <category>The Verge</category>
     </item>
     <item>
-      <title>How Windows is being optimized for Nvidia’s RTX Spark laptops</title>
-      <link>https://www.theverge.com/tech/1011996/microsoft-windows-rtx-spark-platform-changes-notepad</link>
-      <description>Microsoft and Nvidia held a launch party for the first wave of RTX Spark laptops last week in San Francisco, where a new wave of AI PCs took center stage amid a packed crowd and a lively hands-on area. A day after the media event, I was invited to a quieter Nvidia event to hear […]</description>
-      <pubDate>Thu, 15 Oct 2026 14:30:00 +0000</pubDate>
-      <guid>https://www.theverge.com/tech/1011996/microsoft-windows-rtx-spark-platform-changes-notepad</guid>
+      <title>Last chance to save up to $200 on your TechCrunch Founder Summit pass: Early booking ends October 16</title>
+      <link>https://techcrunch.com/2026/10/15/last-chance-to-save-up-to-200-on-techcrunch-founder-summit-early-booking-ends-oct-16/</link>
+      <description>Savings of up to $200 end October 16 for TechCrunch Founder Summit. These savings for Founder and Investor Passes vanish after Friday. Join 1,000 founders and investors on November 4 at Boston’s SoWa Power Station. Bring your toughest questions and make the day count for your business.</description>
+      <pubDate>Thu, 15 Oct 2026 18:00:00 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/15/last-chance-to-save-up-to-200-on-techcrunch-founder-summit-early-booking-ends-oct-16/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>Sony made a $5,900 gold-plated Walkman MP3 player</title>
+      <link>https://www.theverge.com/tech/1012200/sony-made-a-5900-gold-plated-walkman-mp3-player</link>
+      <description>Sony has announced a trio of new Walkman portable media players that start at an already absurd $1,899.99 for the NW-ZX900 and climb all the way up to $5,899 for the gold-plated NW-WM1ZM3. Sandwiched in between is the $2,999.99 Walkman NW-WM1AM3, which is nearly identical to the WM1ZM3, just minus the gaudy gold shell. All […]</description>
+      <pubDate>Thu, 15 Oct 2026 17:48:57 +0000</pubDate>
+      <guid>https://www.theverge.com/tech/1012200/sony-made-a-5900-gold-plated-walkman-mp3-player</guid>
       <category>The Verge</category>
+    </item>
+    <item>
+      <title>Volvo makes a bigger bet on Nvidia for hands-free automated driving</title>
+      <link>https://techcrunch.com/2026/10/15/volvo-makes-a-bigger-bet-on-nvidia/</link>
+      <description>Volvo is leveling up its automated driving system through an expansion of its nearly decade-long partnership with Nvidia that will extend beyond its battery electric vehicles.</description>
+      <pubDate>Thu, 15 Oct 2026 17:34:40 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/15/volvo-makes-a-bigger-bet-on-nvidia/</guid>
+      <category>TechCrunch</category>
     </item>
   </channel>
 </rss>
