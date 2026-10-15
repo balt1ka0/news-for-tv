@@ -5,88 +5,88 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Thu, 15 Oct 2026 05:36:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 10:57:18 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Миллионы событий WAF в одну аномалию: как PT AF Cloud замечает смену характера атак</title>
-      <link>https://habr.com/ru/companies/pt/articles/1094394/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094394</link>
-      <description>Привет, Хабр! Меня зовут Даниил Лопаткин, я ML-инженер в группе машинного обучения Positive Technologies. Расскажу, как в PT Cloud Application Firewall работает обнаружение аномалий в профиле трафика и зачем мы его сделали. Межсетевой экран уровня веб-приложений (WAF) записывает каждое срабатывание правила защиты. У крупного клиента за сутки набираются десятки и сотни тысяч таких событий. Большая часть из них — привычный фон: боты, сканеры, перебор типовых путей, превышения лимита запросов. След</description>
-      <pubDate>Thu, 15 Oct 2026 05:16:46 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/pt/articles/1094394/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094394</guid>
+      <title>Оптимизация компиляции: как наш компилятор PL/I приблизился к clang -O2</title>
+      <link>https://habr.com/ru/articles/1094730/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094730</link>
+      <description>Наш проект — pli-llvm , компилятор PL/I с LLVM-бэкендом. Реализованные фичи включают поддержку настоящую десятичную арифметику фиксированной точности, встроенные строки переменной длины, обработку сигналов и управление памятью на уровне языка. В этой статье рассматривается, как такие конструкции представлены в компиляторе и какие оптимизации удалось применить. Для сравнения использовались парные реализации одинаковых алгоритмов на PL/I и C — таких, как тест Коллатца. Целью было приблизиться к пр</description>
+      <pubDate>Thu, 15 Oct 2026 10:34:58 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1094730/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094730</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Как я подружил llama-server с Claude Code: доработка Go-лаунчера для локальных LLM</title>
-      <link>https://habr.com/ru/articles/1094534/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094534</link>
-      <description>В своих прошлых материалах я уже рассказывал о запуске крупных MoE-моделей на ограниченном железе через llama-server и о сравнительных экспериментах с 35B, 120B и 176B-классами моделей. Практика показала, что llama.cpp давно перестал быть просто «запускатором GGUF»: сегодня это полноценный рантайм с OpenAI-совместимым API, поддержкой инструментов, Jinja-шаблонов, спекулятивного декодирования и гибкого CPU/GPU-offload. Единственное, чего ему не хватало для повседневной работы, — удобной обвязки, </description>
-      <pubDate>Thu, 15 Oct 2026 05:00:20 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1094534/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094534</guid>
+      <title>Интересное из отчета о безопасности Gemini 4 Argon: как проверить ИИ, который раскусил проверку</title>
+      <link>https://habr.com/ru/articles/1094674/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094674</link>
+      <description>В тесте Apollo Gemini 4 Argon передала привет проверяющим прямо в своих рассуждениях. В другом опыте отказалась от плана спрятать бэкдор, рассудив, что станет знаменитым примером обманчивого ИИ. Разбираем, что отчет Google говорит о безопасности модели и почему узнавание испытаний мешает оценить ее поведение. Читать далее</description>
+      <pubDate>Thu, 15 Oct 2026 10:34:46 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1094674/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094674</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Artificiality's First Exam: An LLM-Referenced C-test for Supraintelligence</title>
-      <link>https://arxiv.org/abs/2610.14005</link>
-      <description>arXiv:2610.14005v1 Announce Type: new Abstract: Under the accelerated pace of AI development, any benchmark whose difficulty is calibrated with humans or current AI systems becomes circular, or saturates soon. How can we then evaluate machines that may become more capable than the current machines and the people who write the tests? One answer to the question hinges on inverse problems, inductive inference questions for which difficulty depends on the complexity of the underlying mechanism, give</description>
-      <pubDate>Thu, 15 Oct 2026 04:00:00 +0000</pubDate>
-      <guid>https://arxiv.org/abs/2610.14005</guid>
-      <category>cs.AI updates on arXiv.org</category>
+      <title>Железный фундамент: как автоматизация помогает строить и динамично менять инфраструктуру облака</title>
+      <link>https://habr.com/ru/companies/k2tech/articles/1094360/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094360</link>
+      <description>Привет, Хабр! Меня зовут Антон Бушный, я тимлид инфраструктурных инженеров в K2 Cloud. В этой статье мы поговорим про железо — о нем, как нам кажется, говорят непростительно мало. А ведь любое приложение, сервис, Kubernetes-кластер не существует в вакууме — он обязательно работает на физической инфраструктуре. Речь пойдет о концепции построения большой инфраструктуры, но конкретные модели серверов и замеры производительности сравнивать не будем, разговор верхнеуровневый. Статья будет состоять из</description>
+      <pubDate>Thu, 15 Oct 2026 10:30:58 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/k2tech/articles/1094360/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094360</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>The Silent Failures in Agentic Data Science</title>
-      <link>https://arxiv.org/abs/2610.14115</link>
-      <description>arXiv:2610.14115v1 Announce Type: new Abstract: Large language models have significantly lowered the barrier to writing code. Naturally, this has also led to the development of data science agents that promise automating the design and execution of data science from task formulation to model development. Existing evaluations of agentic data science (agentic DS) assess downstream predictive performance and code correctness, providing preliminary insight in agentic DS capabilities. We argue that t</description>
-      <pubDate>Thu, 15 Oct 2026 04:00:00 +0000</pubDate>
-      <guid>https://arxiv.org/abs/2610.14115</guid>
-      <category>cs.AI updates on arXiv.org</category>
+      <title>Как в МТС Premium научились искать ошибки в распределенных данных с помощью собственного фреймворка</title>
+      <link>https://habr.com/ru/companies/ru_mts/articles/1094512/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094512</link>
+      <description>Качество данных (DQ) связано с технической зрелостью продукта, но не сводится к ней. В большой системе проблема редко ограничивается одной таблицей или ошибкой. Запись может быть технически корректной, но, например, появиться в базе дважды. Или другой пример: статус может быть допустимым для конкретной базы, но расходиться со статусом подписки в соседнем продукте. Итоговая бизнес-метрика при этом может выглядеть вполне правдоподобно, хотя ошибка уже возникла, причем давно. Привет, жители Хабра! </description>
+      <pubDate>Thu, 15 Oct 2026 10:26:21 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/ru_mts/articles/1094512/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094512</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>ClawLoop: Self-Improving Agents via Harness-Native Training Loop</title>
-      <link>https://arxiv.org/abs/2610.14118</link>
-      <description>arXiv:2610.14118v1 Announce Type: new Abstract: The rapid advancement of Large Language Models (LLMs) has driven their deployment toward general-purpose harness environments, where LLM-based agents operate in sandbox workspaces and interact directly with file systems and shells. While numerous post-training pipelines exist for tool-use agents, their counterparts for harness-based agents remain scarce and are predominantly one-shot and teacher-dependent: a stronger external model synthesizes task</description>
-      <pubDate>Thu, 15 Oct 2026 04:00:00 +0000</pubDate>
-      <guid>https://arxiv.org/abs/2610.14118</guid>
-      <category>cs.AI updates on arXiv.org</category>
+      <title>Миграция Java-приложений: пять ошибок при смене сервера</title>
+      <link>https://habr.com/ru/companies/diasoft_company/articles/1094720/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094720</link>
+      <description>Привет, Хабр! Меня зовут Всеволод Котик, я инженер-аналитик в компании «Диасофт». Перенос Java-приложения с WebLogic или WebSphere на другой сервер приложений может показаться относительно простой задачей . Но на практике основные сложности часто возникают не на этапе запуска, а там, где приложение зависит от особенностей прежней среды исполнения. В этой статье разберем, как подготовиться к такой миграции, а также какие ошибки не стоит допускать. Читать далее</description>
+      <pubDate>Thu, 15 Oct 2026 10:23:40 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/diasoft_company/articles/1094720/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094720</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Correction Training for Diffusion Models</title>
-      <link>https://arxiv.org/abs/2610.14136</link>
-      <description>arXiv:2610.14136v2 Announce Type: new Abstract: Iterative sampling in diffusion models can lead to error accumulation due to exposure bias. The denoiser is trained on real images interpolated with noise, but at inference its inputs are constructed from its own imperfect predictions from the earlier steps, something it has never seen at training time. This might be one reason diffusion models often struggle without additional help, such as CFG. We introduce a correction step for diffusion models </description>
-      <pubDate>Thu, 15 Oct 2026 04:00:00 +0000</pubDate>
-      <guid>https://arxiv.org/abs/2610.14136</guid>
-      <category>cs.AI updates on arXiv.org</category>
+      <title>Букмекер видит вашу ставку через 10 секунд: что real-time-аналитика делает с данными пользователей</title>
+      <link>https://habr.com/ru/companies/pari_blog/articles/1094714/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094714</link>
+      <description>В беттинге данные о действиях нужны почти сразу — не через час и даже не через полчаса. В нашем случае — в течение 10–15 секунд. Иначе продуктовая команда рискует поздно заметить проблему, а бизнес — потерять деньги и время, за которое конкурент уже запустит свою механику. Поэтому на связи Владимир Медников — директор по данным в PARI. Я расскажу, что происходит с событием пользователя после нажатия кнопки, зачем здесь Kafka с ClickHouse и почему именно 10–15 секунд, а не три минуты. Читать дале</description>
+      <pubDate>Thu, 15 Oct 2026 10:22:50 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/pari_blog/articles/1094714/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094714</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Long-Horizon-Terminal-Bench 2.0: Automating Diverse Task Construction and Measuring Sustained Agent Progress</title>
-      <link>https://arxiv.org/abs/2610.14146</link>
-      <description>arXiv:2610.14146v1 Announce Type: new Abstract: Long-horizon terminal benchmarks measure whether an agent can sustain progress through extended workflows with process rewards, not only whether its final state passes a binary check. We present Long-Horizon-Terminal-Bench 2.0 (LHTB 2.0), an extension of Long-Horizon-Terminal-Bench that preserves its 46 original tasks while correcting task and evaluation-infrastructure defects and extending 31 tasks. LHTB 2.0 contains 77 tasks across 13 domains and</description>
-      <pubDate>Thu, 15 Oct 2026 04:00:00 +0000</pubDate>
-      <guid>https://arxiv.org/abs/2610.14146</guid>
-      <category>cs.AI updates on arXiv.org</category>
+      <title>Эффект Atomic Heart: ретрофутуризм как безопасная форма эскапизма для зарубежной аудитории</title>
+      <link>https://habr.com/ru/companies/miip/articles/1094716/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094716</link>
+      <description>За первые три недели с момента выхода Atomic Heart привлекла 5 млн человек по всему миру и вошла в топ-10 игр на Steam в ряде стран, включая США, Германию, Великобританию, Францию, Финляндию и Японию. Онлайн за первые сутки превысил 38 000 , в то время как у Dead Space этот показатель составлял 30 000. За первые два года аудитория на всех платформах превысила 10 млн человек . Завоевав популярность среди нашей аудитории, в 2023 году Atomic Heart вошла в Зал Славы видеоигровой индустрии России . Э</description>
+      <pubDate>Thu, 15 Oct 2026 10:17:57 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/miip/articles/1094716/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094716</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>VETNET: Assembling Benchmark Datasets for AI-Driven Veterinary Innovation</title>
-      <link>https://arxiv.org/abs/2610.14149</link>
-      <description>arXiv:2610.14149v1 Announce Type: new Abstract: VETNET represents an ecosystem of live benchmark datasets and evaluation frameworks designed to accelerate AI-driven innovation in animal science and veterinary medicine through standardized, high-quality datasets and multi-institutional collaboration across academic and non-academic sectors. This framework addresses the gap between AI advances in human medicine and the fragmented state of veterinary AI development.</description>
-      <pubDate>Thu, 15 Oct 2026 04:00:00 +0000</pubDate>
-      <guid>https://arxiv.org/abs/2610.14149</guid>
-      <category>cs.AI updates on arXiv.org</category>
+      <title>Big Walk skipped Xbox to boycott Microsoft’s involvement with Israel</title>
+      <link>https://www.theverge.com/games/1011785/big-walk-house-house-microsoft-xbox-bds-boycott</link>
+      <description>Big Walk's co-op multiplayer walking adventure has proved popular since launching in August, but Xbox players have been excluded from the fun - and now the game's creators have explained why. Developer House House said in a blog post that it decided not to release Big Walk on Xbox consoles in accordance with the Palestinian-led […]</description>
+      <pubDate>Thu, 15 Oct 2026 10:05:07 +0000</pubDate>
+      <guid>https://www.theverge.com/games/1011785/big-walk-house-house-microsoft-xbox-bds-boycott</guid>
+      <category>The Verge</category>
     </item>
     <item>
-      <title>Unconstrained CTI-REALM with Open-Weights</title>
-      <link>https://arxiv.org/abs/2610.14180</link>
-      <description>arXiv:2610.14180v1 Announce Type: new Abstract: Organisations that want language-model agents for security work face a choice between open-weight models, which they can run and audit themselves, and far more expensive closed frontier models. We study that choice on CTI-REALM (arXiv:2603.13517), a benchmark in which an agent turns a threat-intelligence report into a working detection by querying a live telemetry store. We evaluate twenty-six models, nineteen open-weight and seven closed, under a </description>
-      <pubDate>Thu, 15 Oct 2026 04:00:00 +0000</pubDate>
-      <guid>https://arxiv.org/abs/2610.14180</guid>
-      <category>cs.AI updates on arXiv.org</category>
+      <title>Самый дорогой источник потерь в проектах, о котором никто не говорит</title>
+      <link>https://habr.com/ru/articles/1094692/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094692</link>
+      <description>23 сентября 1999 года аппарат NASA Mars Climate Orbiter подошёл к Марсу после девяти месяцев полёта, вошёл в атмосферу слишком низко и разрушился. Комиссия по расследованию назвала причину: в одном из наземных программных файлов не использовались метрические единицы. Одна программа выдавала данные об импульсе двигателей в фунт-секундах, а принимающая её навигационная система ожидала ньютон-секунды. Расхождение в 4,45 раза – ровно во столько раз недооценили влияние работы двигателей на траекторию</description>
+      <pubDate>Thu, 15 Oct 2026 10:00:04 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1094692/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094692</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Visualizing the World Model in an Agent's Value Function</title>
-      <link>https://arxiv.org/abs/2610.14186</link>
-      <description>arXiv:2610.14186v1 Announce Type: new Abstract: Could model-free reinforcement learning algorithms actually be learning a model of the environment? In this work, we apply counterfactual interventions which hold everything about a state fixed, besides a targeted change, to explore if the value function of a Proximal Policy Optimization agent forms a world model of the Crafter environment. Despite only being trained to optimize reward, we discover that the value function learns concepts such as th</description>
-      <pubDate>Thu, 15 Oct 2026 04:00:00 +0000</pubDate>
-      <guid>https://arxiv.org/abs/2610.14186</guid>
-      <category>cs.AI updates on arXiv.org</category>
+      <title>[Перевод] Где искать возможности в B2C сегменте в AI</title>
+      <link>https://habr.com/ru/articles/1094680/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094680</link>
+      <description>Привет! Меня зовут Саша Журавлев. Я венчурный инвестор и основатель фонда Mento vc. Мы инвестируем в стартапы на стадиях Seed / Series A в США, а в своем телеграм-канале рассказываю, как вижу рынок и принимаю инвестиционные решения. a16z (vc фонд, больше $100B под управлением) выпустили отчет о состоянии B2C AI рынка. В нем собрали данные о веб-трафике (и оплатах) различных AI-приложений - сравнили их и сделали выводы. А мы с командой перевели разбор всех тезисов и графиков для вас. Внутри ответ</description>
+      <pubDate>Thu, 15 Oct 2026 09:46:25 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1094680/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094680</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
   </channel>
 </rss>
