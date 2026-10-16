@@ -5,88 +5,88 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Fri, 16 Oct 2026 05:34:30 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 10:50:03 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Нейрослоп не пройдёт: отбор в первую Школу аналитиков hh</title>
-      <link>https://habr.com/ru/companies/hh/articles/1094450/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094450</link>
-      <description>Мы получили больше 250 тестовых на 25 мест в первую Школу аналитиков hh. Многие решения были сделаны с нейросетью, и это нормально — аналитики в работе тоже пользуются LLM-инструментами. Вопрос был в другом: как за аккуратным текстом от LLM разглядеть кандидата с пониманием того, что он делает. Читать далее</description>
-      <pubDate>Fri, 16 Oct 2026 05:31:21 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/hh/articles/1094450/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094450</guid>
+      <title>Giga IDE Pro больше не будет. Но это хорошая новость</title>
+      <link>https://habr.com/ru/companies/sberbank/articles/1093766/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093766</link>
+      <description>Pro-сборка была важным этапом в развитии GigaIDE: она позволила быстрее развивать профессиональные инструменты, собирать обратную связь от корпоративных пользователей и проверять сценарии, которые выходят за рамки Community-версии. Но у отдельного дистрибутива есть и обратная сторона: пользователю нужно выбирать сборку, командам — отдельно управлять установками, а продукту — поддерживать лишнюю развилку там, где её уже можно убрать. Читать далее</description>
+      <pubDate>Fri, 16 Oct 2026 10:23:00 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/sberbank/articles/1093766/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093766</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Что я поняла за первый год работы бизнес-аналитиком</title>
-      <link>https://habr.com/ru/companies/korus_consulting/articles/1094444/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094444</link>
-      <description>О профессии бизнес-аналитика я не знала до прохождения популярного японского теста «Икигаи», который помогает сузить список и найти занятие на стыке вашей страсти, миссии, интересов и способностей. По итогам теста профессия бизнес-аналитика оказалась ровно на пересечении всех моих потребностей. Я решила попробовать — и осталась, убедившись, что тест не соврал. Меня зовут Дарья Шадривова , я младший бизнес-аналитик направления BI в «ДАР» (ГК «КОРУС Консалтинг»), и в этой статье поделюсь своими на</description>
-      <pubDate>Fri, 16 Oct 2026 05:30:21 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/korus_consulting/articles/1094444/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094444</guid>
+      <title>В 39% игр в Тайного Санту двое дарят друг другу. Считаем жеребьёвку как следует</title>
+      <link>https://habr.com/ru/articles/1095224/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095224</link>
+      <description>Раздать имена в Тайном Санте — задача на пять строк: перемешал список, проверил, что никто не достался сам себе, готово. Я так и думал, пока не посчитал. При таком способе почти в четырёх играх из десяти найдутся двое, которые дарят друг другу, и это не баг реализации, а свойство случайных перестановок. Разбираю жеребьёвку с цифрами: шляпа, перестановки, один круг через всех, исключения — и перекос, который нашёл в собственном коде, пока писал эту статью. Читать далее</description>
+      <pubDate>Fri, 16 Oct 2026 10:18:14 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1095224/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095224</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Immortality as a Service: от цифровой личности к цифровой цивилизации</title>
-      <link>https://habr.com/ru/articles/1095000/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095000</link>
-      <description>Человечество всегда пыталось передать себя через время. Но до сих пор мы передавали потомкам главным образом культурный след человека: его тексты, образы, поступки и память о нём. Теперь впервые появляется возможность передавать способность отвечать, выбирать и действовать. Это уже не архив. Это начало новой субъектности. Читать и обсуждать</description>
-      <pubDate>Fri, 16 Oct 2026 05:27:58 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1095000/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095000</guid>
+      <title>Хорошо исследовать недостаточно: чего продуктовая команда ждёт от UX-исследователя</title>
+      <link>https://habr.com/ru/companies/skbkontur/articles/1094652/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094652</link>
+      <description>Провести исследование — это только часть работы UX-исследователя. Не менее важно помочь команде принять продуктовое решение: объяснить, что означают найденные данные, и связать их с продуктовыми задачами. В статье разбираем, как выстроить взаимодействие исследователя и продуктовой команды, какие ожидания могут возникать с обеих сторон и что помогает превращать результаты исследований в реальные продуктовые изменения. Читать далее</description>
+      <pubDate>Fri, 16 Oct 2026 10:17:32 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/skbkontur/articles/1094652/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094652</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Even Benchmark thinks AI is eroding the venture pact against backing rivals</title>
-      <link>https://techcrunch.com/2026/10/15/even-benchmark-thinks-ai-is-eroding-the-venture-pact-against-backing-rivals/</link>
-      <description>Benchmark says the Valley’s rule against backing rivals is getting harder to keep.</description>
-      <pubDate>Fri, 16 Oct 2026 05:16:46 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/15/even-benchmark-thinks-ai-is-eroding-the-venture-pact-against-backing-rivals/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>Локальная ИИшница: рецепт приготовления</title>
-      <link>https://habr.com/ru/articles/1094976/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094976</link>
-      <description>Статья для тех, кто уже имеет опыт работы с облачными ИИ, но в силу причин вынужден перейти на локальную ИИшку. Здесь я опишу несколько неожиданных проблем с выбором железа и софта, которые мне пришлось решить, имея на старте несколько противоречивых требований. Спойлер: я прошел путь от «лучше, чем ничего» до «гораздо лучше, чем ничего!». Читать далее</description>
-      <pubDate>Fri, 16 Oct 2026 05:16:20 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1094976/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094976</guid>
+      <title>Gemini начинает с «Вот» 9 текстов из 10. Почерк 12 нейросетей в рабочих текстах</title>
+      <link>https://habr.com/ru/articles/1095030/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095030</link>
+      <description>Посчитал привычки 12 нейросетей на 84 рабочих текстах. Gemini начинает с «Вот» 9 раз из 10, Kimi и Claude Sonnet заканчивают предложением что-то доработать, а длинных тире у моделей в среднем почти столько же, сколько у Гиляровского. Читать далее</description>
+      <pubDate>Fri, 16 Oct 2026 10:13:46 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1095030/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095030</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Отдельный экран для Teams и Outlook: Event Panel в работе</title>
-      <link>https://habr.com/ru/articles/1095056/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095056</link>
-      <description>В работе за компьютером есть довольно странное противоречие. С одной стороны, мы стараемся избавиться от всего, что отвлекает: выключаем всплывающие уведомления, убираем лишние окна, иногда даже специально включаем режим «Не беспокоить». С другой — нам всё равно нужно понимать, что происходит в рабочих чатах, не пропускать письма и вовремя подключаться к встречам. Недавно я писал о том, почему снова включил уведомления , хотя прекрасно понимаю, как они мешают концентрации. В той статье я упомяну</description>
-      <pubDate>Fri, 16 Oct 2026 04:58:26 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1095056/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095056</guid>
+      <title>Средняя метрика скрывает провал редкого сегмента: проверяем ML-модель на срезах</title>
+      <link>https://habr.com/ru/companies/otus/articles/1091192/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1091192</link>
+      <description>Accuracy выросла, очередь на ручную проверку сократилась — кажется, новую ML-модель можно выпускать в продакшен. Но за улучшением общих метрик может скрываться серьёзная просадка качества на отдельных сегментах данных. На примере классификатора объявлений разбираем, как выявлять такие проблемы, проверять модель на срезах и определять критерии её готовности к релизу. Разобрать ошибки ML</description>
+      <pubDate>Fri, 16 Oct 2026 10:05:54 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/otus/articles/1091192/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1091192</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Переезд S3 без простоя и без привязки к одному облаку: rclone union + serve s3 на практике</title>
-      <link>https://habr.com/ru/articles/1094874/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094874</link>
-      <description>«Три зоны доступности» внутри одного облака не спасают, когда отказывает само облако. Собираем S3, который переживает отказ провайдера: один endpoint для приложения, за ним несколько облаков, переезд без простоя и без правок в коде. Всё на rclone — union, combine и serve s3. Два режима: старое облако работает или после аварии отдаёт данные только на чтение. Читать далее</description>
-      <pubDate>Fri, 16 Oct 2026 04:25:56 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1094874/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094874</guid>
+      <title>Genoas — ещё один генератор OpenAPI 3.1 для Go</title>
+      <link>https://habr.com/ru/articles/1095222/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095222</link>
+      <description>Всем привет! Cегодня я хотел бы представить свой небольшой проект по генерации свагера для Go-проектов. Читать далее</description>
+      <pubDate>Fri, 16 Oct 2026 10:02:46 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1095222/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095222</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>The World Won't Wait: Evaluating and Teaching Agents Under a Live Clock</title>
-      <link>https://arxiv.org/abs/2610.20665</link>
-      <description>arXiv:2610.20665v1 Announce Type: new Abstract: Large language model (LLM) agents can solve complex interactive tasks, yet reasoning and tool calls take time. In continuously changing environments, an otherwise correct action may arrive too late. We introduce RealtimeBench, with 180 tasks across six game types, to evaluate agents while games continue running during inference. Paired evaluations show that GPT-6.1-sol outperforms the faster Jev when games are paused, but falls behind when they kee</description>
-      <pubDate>Fri, 16 Oct 2026 04:00:00 +0000</pubDate>
-      <guid>https://arxiv.org/abs/2610.20665</guid>
-      <category>cs.AI updates on arXiv.org</category>
+      <title>NetFix Mobile: как я сделал Android-приложение, которое чинит YouTube, Discord и Telegram на телефоне и ТВ</title>
+      <link>https://habr.com/ru/articles/1094866/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094866</link>
+      <description>Сделал Android-приложение, которое одной кнопкой чинит YouTube, Discord и Telegram на телефоне и Smart TV. Оно само подбирает рабочие настройки под вашего провайдера, отдельно для Wi-Fi и мобильной сети, а для Telegram поднимает свой прокси. Без консоли и без поиска строк аргументов в чатах. Как это устроено внутри, под катом читайте далее 👇 Читать далее</description>
+      <pubDate>Fri, 16 Oct 2026 10:00:53 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1094866/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094866</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Evaluating Model Capabilities After Benchmark Saturation</title>
-      <link>https://arxiv.org/abs/2610.20667</link>
-      <description>arXiv:2610.20667v1 Announce Type: new Abstract: Rapid advances in AI capabilities are causing benchmarks to saturate. Once several models approach perfect scores, a benchmark loses its power to differentiate between them, and with it its utility for informing AI safety cases and frontier policies. Yet benchmark items produce far more information than the scores we typically extract from them: a full transcript of how each model solved the task. We investigate whether these transcripts can be use</description>
-      <pubDate>Fri, 16 Oct 2026 04:00:00 +0000</pubDate>
-      <guid>https://arxiv.org/abs/2610.20667</guid>
-      <category>cs.AI updates on arXiv.org</category>
+      <title>Как я собрал базу знаний и почему команда до сих пор ей активно пользуется</title>
+      <link>https://habr.com/ru/companies/rt-dc/articles/1094854/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094854</link>
+      <description>Записать полезную информацию на салфетке, в чате или комментарии к задаче точно лучше, чем сразу же забыть. Однако может наступить момент, когда «салфеток» стало слишком много. Мы с командой оказались именно в таком моменте и на собственном опыте узнали, что одна хорошая инструкция, на которую один сотрудник потратил несколько часов, облегчает работу всем, помогая сэкономить недели. Читать далее</description>
+      <pubDate>Fri, 16 Oct 2026 10:00:53 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/rt-dc/articles/1094854/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094854</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Value-Informed Schedule Trimming for Accelerated Sequential Monte Carlo Guidance in Discrete Diffusion</title>
-      <link>https://arxiv.org/abs/2610.20669</link>
-      <description>arXiv:2610.20669v1 Announce Type: new Abstract: Reward-guided discrete diffusion enables test-time alignment with downstream objectives, but applying Sequential Monte Carlo (SMC) guidance at every denoising step is computationally expensive. Active guidance steps require additional reward evaluations and, for gradient-based proposals, value-gradient computations. Sparse guidance reduces this cost by guiding only a subset of timesteps, but commonly used schedules are fixed heuristics whose effect</description>
-      <pubDate>Fri, 16 Oct 2026 04:00:00 +0000</pubDate>
-      <guid>https://arxiv.org/abs/2610.20669</guid>
-      <category>cs.AI updates on arXiv.org</category>
+      <title>Time is a-changin’: say goodbye to the leap second</title>
+      <link>https://www.theverge.com/tech/1012689/leap-second-discontinue-timekeeping-change</link>
+      <description>An important change will soon be made to global timekeeping that aims to prevent potential infrastructure failures akin to the Y2K bug scare. On Thursday, the International Bureau of Weights and Measures (BIPM) voted to scrap the leap second, an ad hoc time adjustment that's occasionally added so tracked time standards mirror the Earth's real […]</description>
+      <pubDate>Fri, 16 Oct 2026 10:00:25 +0000</pubDate>
+      <guid>https://www.theverge.com/tech/1012689/leap-second-discontinue-timekeeping-change</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>[Перевод] ИИ всё лучше водит киберпреступников за нос</title>
+      <link>https://habr.com/ru/companies/speshu_ai/articles/1095220/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095220</link>
+      <description>Мошенники давно используют автоматизацию: массовые рассылки, подмену номеров, шаблоны диалогов и системы обзвона помогают им работать сразу с тысячами потенциальных жертв. Генеративный ИИ добавил к этому убедительные тексты, синтез речи и возможность быстро менять легенду под собеседника. Но тот же принцип начинают применять защитники: вместо того чтобы только блокировать подозрительный звонок, они дают мошеннику «жертву», с которой можно разговаривать часами и которая никогда не переведёт деньг</description>
+      <pubDate>Fri, 16 Oct 2026 10:00:16 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/speshu_ai/articles/1095220/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095220</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
   </channel>
 </rss>
