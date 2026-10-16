@@ -5,88 +5,88 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Fri, 16 Oct 2026 01:01:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 05:34:30 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Кажется, мы ищем форму</title>
-      <link>https://habr.com/ru/articles/1095038/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095038</link>
-      <description>Привет, Хабр :3, что-то давно я не писал свое графоманство, что читается хуже нейрослопа, да и знаки препинания по паузам в уме моём, а еще я "–" умею ставить ввиду академической проф-деформации. Итак, заваривайте чай, напрягаем мозг, сегодня поговорим в целом о программировании и его проблемах ввиду популяризации LLM, а также экспериментах и куда смотреть, а куда не надо. Плана статьи не будет, до конца дочитают сильнейшие (изи байт). Ехала! Начать погружение в дебри ненормальности</description>
-      <pubDate>Fri, 16 Oct 2026 00:38:36 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1095038/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095038</guid>
+      <title>Нейрослоп не пройдёт: отбор в первую Школу аналитиков hh</title>
+      <link>https://habr.com/ru/companies/hh/articles/1094450/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094450</link>
+      <description>Мы получили больше 250 тестовых на 25 мест в первую Школу аналитиков hh. Многие решения были сделаны с нейросетью, и это нормально — аналитики в работе тоже пользуются LLM-инструментами. Вопрос был в другом: как за аккуратным текстом от LLM разглядеть кандидата с пониманием того, что он делает. Читать далее</description>
+      <pubDate>Fri, 16 Oct 2026 05:31:21 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/hh/articles/1094450/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094450</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>When it came to Cal AI’s viral success, a small army of influencers paid off</title>
-      <link>https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/</link>
-      <description>The company generated over $30 million in revenue in two years and was acquired by MyFitnessPal for an undisclosed amount of money in March.</description>
-      <pubDate>Thu, 15 Oct 2026 23:44:56 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/</guid>
+      <title>Что я поняла за первый год работы бизнес-аналитиком</title>
+      <link>https://habr.com/ru/companies/korus_consulting/articles/1094444/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094444</link>
+      <description>О профессии бизнес-аналитика я не знала до прохождения популярного японского теста «Икигаи», который помогает сузить список и найти занятие на стыке вашей страсти, миссии, интересов и способностей. По итогам теста профессия бизнес-аналитика оказалась ровно на пересечении всех моих потребностей. Я решила попробовать — и осталась, убедившись, что тест не соврал. Меня зовут Дарья Шадривова , я младший бизнес-аналитик направления BI в «ДАР» (ГК «КОРУС Консалтинг»), и в этой статье поделюсь своими на</description>
+      <pubDate>Fri, 16 Oct 2026 05:30:21 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/korus_consulting/articles/1094444/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094444</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Immortality as a Service: от цифровой личности к цифровой цивилизации</title>
+      <link>https://habr.com/ru/articles/1095000/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095000</link>
+      <description>Человечество всегда пыталось передать себя через время. Но до сих пор мы передавали потомкам главным образом культурный след человека: его тексты, образы, поступки и память о нём. Теперь впервые появляется возможность передавать способность отвечать, выбирать и действовать. Это уже не архив. Это начало новой субъектности. Читать и обсуждать</description>
+      <pubDate>Fri, 16 Oct 2026 05:27:58 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1095000/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095000</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Even Benchmark thinks AI is eroding the venture pact against backing rivals</title>
+      <link>https://techcrunch.com/2026/10/15/even-benchmark-thinks-ai-is-eroding-the-venture-pact-against-backing-rivals/</link>
+      <description>Benchmark says the Valley’s rule against backing rivals is getting harder to keep.</description>
+      <pubDate>Fri, 16 Oct 2026 05:16:46 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/15/even-benchmark-thinks-ai-is-eroding-the-venture-pact-against-backing-rivals/</guid>
       <category>TechCrunch</category>
     </item>
     <item>
-      <title>And the winner of Startup Battlefield at Disrupt 2026 is: Intero Biosystems</title>
-      <link>https://techcrunch.com/2026/10/15/and-the-winner-of-startup-battlefield-at-disrupt-2026-is-intero-biosystems/</link>
-      <description>Intero Biosystems beat out 199 other Startup Battlefield companies to take home the $100,000 grand prize at TechCrunch Disrupt 2026.</description>
-      <pubDate>Thu, 15 Oct 2026 23:33:45 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/15/and-the-winner-of-startup-battlefield-at-disrupt-2026-is-intero-biosystems/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>Steam can now show game achievements in separate ‘sets’</title>
-      <link>https://www.theverge.com/games/1012541/valve-steam-achievement-sets</link>
-      <description>Valve is introducing a major new feature for Steam achievements called "achievement sets" that lets developers list different groups of achievements for a base game and DLCs. "In games that support sets, you still unlock achievements by playing the game as usual," Valve says. "But when you browse what you have unlocked afterward, Steam will […]</description>
-      <pubDate>Thu, 15 Oct 2026 23:18:28 +0000</pubDate>
-      <guid>https://www.theverge.com/games/1012541/valve-steam-achievement-sets</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>ChatGPT can peek at your Chrome tabs now</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs</link>
-      <description>OpenAI's ChatGPT Atlas browser is gone, but now ChatGPT's Google Chrome extension is getting some upgrades that allow it to use the browser tabs you already have open. With the extension installed, OpenAI says ChatGPT can now view your browser tabs when you tag Chrome in ChatGPT's web or desktop app, posting a demo video […]</description>
-      <pubDate>Thu, 15 Oct 2026 22:43:23 +0000</pubDate>
-      <guid>https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch</title>
-      <link>https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled</link>
-      <description>Sega is removing Total War: Shogun 2 - Complete Edition from storefronts following a disastrous launch where users complained about issues like bugs and upscaling that appears to have been done by AI. Complete Edition, a remaster of the 2011 strategy game, launched on Tuesday, and it bundled the main game and all of its […]</description>
-      <pubDate>Thu, 15 Oct 2026 22:35:55 +0000</pubDate>
-      <guid>https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>The tech backlash is now in theaters</title>
-      <link>https://www.theverge.com/entertainment/1012438/hollywood-tech-backlash-you-can-see-everything-musk-the-social-reckoning-artificial</link>
-      <description>Though movies about disruptive tech founders are nothing new, 2026 has been unusually stacked with features that take a much more critical look at how Silicon Valley is reshaping our reality. Aaron Sorkin's The Social Reckoning frames Mark Zuckerberg as a robotic villain whose ambitions are destabilizing society. Nathan Fielder and Lance Oppenheim's You Can […]</description>
-      <pubDate>Thu, 15 Oct 2026 21:39:52 +0000</pubDate>
-      <guid>https://www.theverge.com/entertainment/1012438/hollywood-tech-backlash-you-can-see-everything-musk-the-social-reckoning-artificial</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>Переводчик с тимлидского: что слышит команда, когда вы говорите «внедряем ИИ‑агентов»</title>
-      <link>https://habr.com/ru/articles/1095024/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095024</link>
-      <description>«С понедельника пишем код через ИИ-агентов!» — говорите вы на созвоне. Вы предвкушаете ускорение процессов, а разработчик в этот момент молча обновляет резюме на Хедхантере . Почему классные ИИ-инструменты вызывают у команды только тихий ужас и глухое сопротивление? Разбираем реальные страхи разработчиков перед автоматизацией и делимся готовыми шпаргалками для руководителя, которые спасут ваше следующее планирование. Читать далее</description>
-      <pubDate>Thu, 15 Oct 2026 21:33:48 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1095024/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095024</guid>
+      <title>Локальная ИИшница: рецепт приготовления</title>
+      <link>https://habr.com/ru/articles/1094976/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094976</link>
+      <description>Статья для тех, кто уже имеет опыт работы с облачными ИИ, но в силу причин вынужден перейти на локальную ИИшку. Здесь я опишу несколько неожиданных проблем с выбором железа и софта, которые мне пришлось решить, имея на старте несколько противоречивых требований. Спойлер: я прошел путь от «лучше, чем ничего» до «гораздо лучше, чем ничего!». Читать далее</description>
+      <pubDate>Fri, 16 Oct 2026 05:16:20 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1094976/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094976</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Trump posts AI-edited photo to brag about White House restoration work</title>
-      <link>https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column</link>
-      <description>President Donald Trump posted a series of photos on Truth Social showing off renovations to the White House - but one of them appears to be modified with AI. The picture, which compares an old White House column to a "restored" one, has several discrepancies and was flagged by Google's AI detector as "made or […]</description>
-      <pubDate>Thu, 15 Oct 2026 21:09:33 +0000</pubDate>
-      <guid>https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column</guid>
-      <category>The Verge</category>
+      <title>Отдельный экран для Teams и Outlook: Event Panel в работе</title>
+      <link>https://habr.com/ru/articles/1095056/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095056</link>
+      <description>В работе за компьютером есть довольно странное противоречие. С одной стороны, мы стараемся избавиться от всего, что отвлекает: выключаем всплывающие уведомления, убираем лишние окна, иногда даже специально включаем режим «Не беспокоить». С другой — нам всё равно нужно понимать, что происходит в рабочих чатах, не пропускать письма и вовремя подключаться к встречам. Недавно я писал о том, почему снова включил уведомления , хотя прекрасно понимаю, как они мешают концентрации. В той статье я упомяну</description>
+      <pubDate>Fri, 16 Oct 2026 04:58:26 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1095056/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095056</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Как у нашей IT-компании бесплатно забрали софт для автоматизации 13% ВВП страны, а нас отправили в РНП без экспертизы</title>
-      <link>https://habr.com/ru/articles/1095014/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095014</link>
-      <description>Меня зовут Алексей Рыбаков, я генеральный директор IT-компании «Омега Софт» из Йошкар-Олы. Последние 15 лет наша команда создает сложный промышленный софт для крупных российских предприятий. Мы привыкли работать в правовом поле, сдавать проекты в срок и верить, что добросовестное исполнение контракта — это главная защита бизнеса. Но прецедент, с которым мы столкнулись в рамках дела № А40-311087/2025 , показал: перед лицом гигантской корпоративной машины и слепого судейского формализма независимы</description>
-      <pubDate>Thu, 15 Oct 2026 21:00:33 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1095014/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095014</guid>
+      <title>Переезд S3 без простоя и без привязки к одному облаку: rclone union + serve s3 на практике</title>
+      <link>https://habr.com/ru/articles/1094874/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094874</link>
+      <description>«Три зоны доступности» внутри одного облака не спасают, когда отказывает само облако. Собираем S3, который переживает отказ провайдера: один endpoint для приложения, за ним несколько облаков, переезд без простоя и без правок в коде. Всё на rclone — union, combine и serve s3. Два режима: старое облако работает или после аварии отдаёт данные только на чтение. Читать далее</description>
+      <pubDate>Fri, 16 Oct 2026 04:25:56 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1094874/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094874</guid>
       <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>The World Won't Wait: Evaluating and Teaching Agents Under a Live Clock</title>
+      <link>https://arxiv.org/abs/2610.20665</link>
+      <description>arXiv:2610.20665v1 Announce Type: new Abstract: Large language model (LLM) agents can solve complex interactive tasks, yet reasoning and tool calls take time. In continuously changing environments, an otherwise correct action may arrive too late. We introduce RealtimeBench, with 180 tasks across six game types, to evaluate agents while games continue running during inference. Paired evaluations show that GPT-6.1-sol outperforms the faster Jev when games are paused, but falls behind when they kee</description>
+      <pubDate>Fri, 16 Oct 2026 04:00:00 +0000</pubDate>
+      <guid>https://arxiv.org/abs/2610.20665</guid>
+      <category>cs.AI updates on arXiv.org</category>
+    </item>
+    <item>
+      <title>Evaluating Model Capabilities After Benchmark Saturation</title>
+      <link>https://arxiv.org/abs/2610.20667</link>
+      <description>arXiv:2610.20667v1 Announce Type: new Abstract: Rapid advances in AI capabilities are causing benchmarks to saturate. Once several models approach perfect scores, a benchmark loses its power to differentiate between them, and with it its utility for informing AI safety cases and frontier policies. Yet benchmark items produce far more information than the scores we typically extract from them: a full transcript of how each model solved the task. We investigate whether these transcripts can be use</description>
+      <pubDate>Fri, 16 Oct 2026 04:00:00 +0000</pubDate>
+      <guid>https://arxiv.org/abs/2610.20667</guid>
+      <category>cs.AI updates on arXiv.org</category>
+    </item>
+    <item>
+      <title>Value-Informed Schedule Trimming for Accelerated Sequential Monte Carlo Guidance in Discrete Diffusion</title>
+      <link>https://arxiv.org/abs/2610.20669</link>
+      <description>arXiv:2610.20669v1 Announce Type: new Abstract: Reward-guided discrete diffusion enables test-time alignment with downstream objectives, but applying Sequential Monte Carlo (SMC) guidance at every denoising step is computationally expensive. Active guidance steps require additional reward evaluations and, for gradient-based proposals, value-gradient computations. Sparse guidance reduces this cost by guiding only a subset of timesteps, but commonly used schedules are fixed heuristics whose effect</description>
+      <pubDate>Fri, 16 Oct 2026 04:00:00 +0000</pubDate>
+      <guid>https://arxiv.org/abs/2610.20669</guid>
+      <category>cs.AI updates on arXiv.org</category>
     </item>
   </channel>
 </rss>
