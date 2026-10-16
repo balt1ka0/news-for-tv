@@ -5,9 +5,57 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Fri, 16 Oct 2026 19:21:54 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 22:35:16 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Лимиты ChatGPT и локальные LLM: мой эксперимент с Hermes Agent</title>
+      <link>https://habr.com/ru/articles/1095496/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095496</link>
+      <description>Проверил, можно ли разгрузить Hermes Agent с помощью локальных LLM на домашнем ПК с RTX 3080 и 32 ГБ RAM. Сравнил Qwen и GLM на архитектурных задачах, редактуре и извлечении данных, испытал разные квантования и подключил Hermes на Mac к модели на Windows. В статье — условия испытаний, замеры скорости и памяти, конкретные ошибки и причины итогового выбора Qwen3.5 9B. Подключение заработало, но получить привычное качество ответов и подтвердить экономию облачного лимита пока не удалось. Читать дале</description>
+      <pubDate>Fri, 16 Oct 2026 21:27:58 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1095496/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095496</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Replit is no longer working with Anthropic, CEO says</title>
+      <link>https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/</link>
+      <description>Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.</description>
+      <pubDate>Fri, 16 Oct 2026 21:22:28 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>Построение карты проходимости на GPU по данным RGB-D камеры &amp; лидара</title>
+      <link>https://habr.com/ru/articles/1095506/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095506</link>
+      <description>Как я переделал воксельную карту 10 см в HD-карту высот с разрешением 1 мм на CUDA, две новые проблемы: шум глубины и скачки одометрии по высоте. Читать далее</description>
+      <pubDate>Fri, 16 Oct 2026 21:17:26 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1095506/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095506</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>We can finally hear some of Wu-Tang Clan’s Once Upon A Time in Shaolin album</title>
+      <link>https://www.theverge.com/entertainment/1013277/wu-tang-once-upon-a-time-in-shaolin-pablo-torre-martin-shkreli</link>
+      <description>Wu-Tang's Once Upon A Time in Shaolin album has, for the most part, been extremely difficult to listen to, but you can now hear two snippets of the album thanks to the podcast Pablo Torre Finds Out, which just published an episode all about the exclusive record. Once Upon A Time in Shaolin has a […]</description>
+      <pubDate>Fri, 16 Oct 2026 20:50:27 +0000</pubDate>
+      <guid>https://www.theverge.com/entertainment/1013277/wu-tang-once-upon-a-time-in-shaolin-pablo-torre-martin-shkreli</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>Tesla driver says he was asleep and using FSD when he crashed into highway patrol cars</title>
+      <link>https://www.theverge.com/transportation/1013280/tesla-chp-fsd-crash</link>
+      <description>After this horrific crash involving a Tesla driver who said he was asleep and using the driver assist mode, the California Highway Patrol warns that "Despite its name, full self-driving is not fully autonomous. Technology does not relieve drivers of their responsibility to safely operate their vehicles." Video released by CHP shows the Tesla speeding […]</description>
+      <pubDate>Fri, 16 Oct 2026 20:49:04 +0000</pubDate>
+      <guid>https://www.theverge.com/transportation/1013280/tesla-chp-fsd-crash</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>Зачем сисадмину ИИ-агент: реальный опыт работы с pi</title>
+      <link>https://habr.com/ru/articles/1095500/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095500</link>
+      <description>Ночная смена. На мониторинге краснеет алерт — что-то опять не так на одном из серверов. Ты открываешь терминал, листаешь логи, лезешь в конфиги, пытаешься вспомнить, как именно три года назад настраивал этот сервис, грепаешь историю bash в поисках той самой команды… Знакомая картина? Сегодня первый порыв — спросить ChatGPT. Он подскажет, где копать. Но давайте честно: он работает медленно и односторонне. Ты копируешь ему кусок конфига, он советует, ты идёшь применять, возвращаешься с результатом</description>
+      <pubDate>Fri, 16 Oct 2026 20:22:42 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1095500/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095500</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
     <item>
       <title>Why Apple is finally making its own smart home devices</title>
       <link>https://www.theverge.com/tech/1013025/apple-home-collection-products-lg-schneider-smart-home</link>
@@ -17,7 +65,7 @@
       <category>The Verge</category>
     </item>
     <item>
-      <title>Интеграция LED-люстры в умный дом</title>
+      <title>Интеграция LED‑люстры в умный дом</title>
       <link>https://habr.com/ru/articles/1095488/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095488</link>
       <description>Дисклеймер. В проекте есть работа с сетевым напряжением 220 В и с радиопередачей. Первое может убить, второе — только ваши нервы. Всё, что касается сети, делайте при выключенном автомате в щитке, а не просто при выключенном выключателе. Если не уверены — зовите электрика. А перехватывать и воспроизводить радиосигналы допустимо только для своих собственных устройств. Читать далее</description>
       <pubDate>Fri, 16 Oct 2026 18:22:31 +0000</pubDate>
@@ -25,7 +73,7 @@
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Что почитать Android-разработчику в 2026-ом году?</title>
+      <title>Что почитать Android‑разработчику в 2026-м году?</title>
       <link>https://habr.com/ru/articles/1095486/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095486</link>
       <description>В 2026-ом году я задалась вопросом, стоит ли сейчас читать книги о программировании? И если да, то какие? Читать далее</description>
       <pubDate>Fri, 16 Oct 2026 18:19:46 +0000</pubDate>
@@ -39,54 +87,6 @@
       <pubDate>Fri, 16 Oct 2026 18:19:04 +0000</pubDate>
       <guid>https://habr.com/ru/articles/1095484/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095484</guid>
       <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Как я создал свою Android клавиатуру, потому что остальные меня не устраивали</title>
-      <link>https://habr.com/ru/articles/1095476/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095476</link>
-      <description>Больше 10 лет я пользовался клавиатурой Fleksy: менялись устройства, но клавиатура оставалась неизменной. Интуитивная, гибкая, с жестами и чертовски точной автокоррекцией. Но совсем недавно, после очередного обновления ОС, я обнаружил, что любимая клава больше не работает, да и из Google Play её благополучно выпилили. Как оказалось, ребят из Fleksy кто-то перекупил и, по старой доброй традиции, всё свернули. Скачивать APK с какого-то левого сайта - затея небезопасная, так что рисковать я не стал</description>
-      <pubDate>Fri, 16 Oct 2026 18:04:18 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1095476/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095476</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Text-to-image на ESP32: диффузионный трансформер в микроконтроллере</title>
-      <link>https://habr.com/ru/articles/1095474/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095474</link>
-      <description>Stable Diffusion хочет видеокарту с 4–8 ГБ памяти. Flux хочет 12 ГБ, а лучше 24. А у меня на столе лежит ESP32-S3 — микроконтроллер, отладочная плата с которым стоит несколько сотен рублей, у которого 512 КБ оперативной памяти, два ядра по 240 МГц и ни одного тензорного ядра. Вопрос был простой: можно ли заставить эту штуку рисовать картинки по тексту? Не «отправить промпт в облако и показать ответ», а честно прогнать диффузию на самом чипе. Спойлер: можно. Пишешь «улыбающаяся девушка со светлым</description>
-      <pubDate>Fri, 16 Oct 2026 17:59:35 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1095474/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095474</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>India becomes the latest country to report rogue AI agent activity</title>
-      <link>https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/</link>
-      <description>The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.</description>
-      <pubDate>Fri, 16 Oct 2026 17:52:24 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>Нет записи о покупке — нет покупки? Как реальные данные изменили постановку задачи</title>
-      <link>https://habr.com/ru/articles/1095468/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095468</link>
-      <description>Для оценки рекомендательной системы я подготовила 60 000 сессий, но Hit@20 посчитала только по 748. Остальные не стали автоматически промахами: отсутствие записи о покупке ещё не доказывает, что посетитель ничего не купил. На данных Coveo это заставило меня пересмотреть цель, подготовку данных и обучение. В статье разбираю на простом примере, какие действия может видеть модель, откуда берутся нулевые метки и почему промахи отбора кандидатов должны оставаться в метрике. Все эти правила уже работа</description>
-      <pubDate>Fri, 16 Oct 2026 17:26:00 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1095468/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095468</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Не DDoS, а баг в OPcache: воркеры PHP-FPM по 600 МБ на сервере с 5 500 сайтами WordPress</title>
-      <link>https://habr.com/ru/articles/1095438/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095438</link>
-      <description>Клиент написал: сайты лежат, похоже на DDoS. На сервере около 5 500 сайтов WordPress, nginx, PHP-FPM 8.4, MariaDB, 125 ГБ памяти, Debian 13. Я нашёл сканер, закрыл его в nginx, сайты поднялись. Через два дня клиент написал снова: всё падает каждые пять минут. Причина оказалась не снаружи. Каждый новый воркер PHP-FPM с первого же запроса весил около 600 МБ, и OOM-killer по очереди убивал базу и nginx. Воркеры раздувал баг в OPcache, который срабатывает на каждом сбросе кеша под нагрузкой. Сбрасыв</description>
-      <pubDate>Fri, 16 Oct 2026 17:16:48 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1095438/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095438</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet</title>
-      <link>https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/</link>
-      <description>Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt. This view runs counter to those who believe that robotics, powered by a general foundation model, is about to have […]</description>
-      <pubDate>Fri, 16 Oct 2026 16:30:00 +0000</pubDate>
-      <guid>https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/</guid>
-      <category>TechCrunch</category>
     </item>
   </channel>
 </rss>
