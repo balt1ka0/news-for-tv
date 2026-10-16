@@ -5,88 +5,88 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Fri, 16 Oct 2026 10:50:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 15:14:57 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Giga IDE Pro больше не будет. Но это хорошая новость</title>
-      <link>https://habr.com/ru/companies/sberbank/articles/1093766/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093766</link>
-      <description>Pro-сборка была важным этапом в развитии GigaIDE: она позволила быстрее развивать профессиональные инструменты, собирать обратную связь от корпоративных пользователей и проверять сценарии, которые выходят за рамки Community-версии. Но у отдельного дистрибутива есть и обратная сторона: пользователю нужно выбирать сборку, командам — отдельно управлять установками, а продукту — поддерживать лишнюю развилку там, где её уже можно убрать. Читать далее</description>
-      <pubDate>Fri, 16 Oct 2026 10:23:00 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/sberbank/articles/1093766/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093766</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>В 39% игр в Тайного Санту двое дарят друг другу. Считаем жеребьёвку как следует</title>
-      <link>https://habr.com/ru/articles/1095224/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095224</link>
-      <description>Раздать имена в Тайном Санте — задача на пять строк: перемешал список, проверил, что никто не достался сам себе, готово. Я так и думал, пока не посчитал. При таком способе почти в четырёх играх из десяти найдутся двое, которые дарят друг другу, и это не баг реализации, а свойство случайных перестановок. Разбираю жеребьёвку с цифрами: шляпа, перестановки, один круг через всех, исключения — и перекос, который нашёл в собственном коде, пока писал эту статью. Читать далее</description>
-      <pubDate>Fri, 16 Oct 2026 10:18:14 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1095224/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095224</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Хорошо исследовать недостаточно: чего продуктовая команда ждёт от UX-исследователя</title>
-      <link>https://habr.com/ru/companies/skbkontur/articles/1094652/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094652</link>
-      <description>Провести исследование — это только часть работы UX-исследователя. Не менее важно помочь команде принять продуктовое решение: объяснить, что означают найденные данные, и связать их с продуктовыми задачами. В статье разбираем, как выстроить взаимодействие исследователя и продуктовой команды, какие ожидания могут возникать с обеих сторон и что помогает превращать результаты исследований в реальные продуктовые изменения. Читать далее</description>
-      <pubDate>Fri, 16 Oct 2026 10:17:32 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/skbkontur/articles/1094652/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094652</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Gemini начинает с «Вот» 9 текстов из 10. Почерк 12 нейросетей в рабочих текстах</title>
-      <link>https://habr.com/ru/articles/1095030/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095030</link>
-      <description>Посчитал привычки 12 нейросетей на 84 рабочих текстах. Gemini начинает с «Вот» 9 раз из 10, Kimi и Claude Sonnet заканчивают предложением что-то доработать, а длинных тире у моделей в среднем почти столько же, сколько у Гиляровского. Читать далее</description>
-      <pubDate>Fri, 16 Oct 2026 10:13:46 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1095030/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095030</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Средняя метрика скрывает провал редкого сегмента: проверяем ML-модель на срезах</title>
-      <link>https://habr.com/ru/companies/otus/articles/1091192/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1091192</link>
-      <description>Accuracy выросла, очередь на ручную проверку сократилась — кажется, новую ML-модель можно выпускать в продакшен. Но за улучшением общих метрик может скрываться серьёзная просадка качества на отдельных сегментах данных. На примере классификатора объявлений разбираем, как выявлять такие проблемы, проверять модель на срезах и определять критерии её готовности к релизу. Разобрать ошибки ML</description>
-      <pubDate>Fri, 16 Oct 2026 10:05:54 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/otus/articles/1091192/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1091192</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Genoas — ещё один генератор OpenAPI 3.1 для Go</title>
-      <link>https://habr.com/ru/articles/1095222/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095222</link>
-      <description>Всем привет! Cегодня я хотел бы представить свой небольшой проект по генерации свагера для Go-проектов. Читать далее</description>
-      <pubDate>Fri, 16 Oct 2026 10:02:46 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1095222/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095222</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>NetFix Mobile: как я сделал Android-приложение, которое чинит YouTube, Discord и Telegram на телефоне и ТВ</title>
-      <link>https://habr.com/ru/articles/1094866/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094866</link>
-      <description>Сделал Android-приложение, которое одной кнопкой чинит YouTube, Discord и Telegram на телефоне и Smart TV. Оно само подбирает рабочие настройки под вашего провайдера, отдельно для Wi-Fi и мобильной сети, а для Telegram поднимает свой прокси. Без консоли и без поиска строк аргументов в чатах. Как это устроено внутри, под катом читайте далее 👇 Читать далее</description>
-      <pubDate>Fri, 16 Oct 2026 10:00:53 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1094866/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094866</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Как я собрал базу знаний и почему команда до сих пор ей активно пользуется</title>
-      <link>https://habr.com/ru/companies/rt-dc/articles/1094854/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094854</link>
-      <description>Записать полезную информацию на салфетке, в чате или комментарии к задаче точно лучше, чем сразу же забыть. Однако может наступить момент, когда «салфеток» стало слишком много. Мы с командой оказались именно в таком моменте и на собственном опыте узнали, что одна хорошая инструкция, на которую один сотрудник потратил несколько часов, облегчает работу всем, помогая сэкономить недели. Читать далее</description>
-      <pubDate>Fri, 16 Oct 2026 10:00:53 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/rt-dc/articles/1094854/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094854</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Time is a-changin’: say goodbye to the leap second</title>
-      <link>https://www.theverge.com/tech/1012689/leap-second-discontinue-timekeeping-change</link>
-      <description>An important change will soon be made to global timekeeping that aims to prevent potential infrastructure failures akin to the Y2K bug scare. On Thursday, the International Bureau of Weights and Measures (BIPM) voted to scrap the leap second, an ad hoc time adjustment that's occasionally added so tracked time standards mirror the Earth's real […]</description>
-      <pubDate>Fri, 16 Oct 2026 10:00:25 +0000</pubDate>
-      <guid>https://www.theverge.com/tech/1012689/leap-second-discontinue-timekeeping-change</guid>
+      <title>Analogue is re-releasing its SNES and Genesis consoles with some nice upgrades</title>
+      <link>https://www.theverge.com/tech/1012901/analogue-retro-console-supern-nt-plus-nintendo-sega-genesis-mega-plus</link>
+      <description>Analogue announced new versions of its Super Nt and Mega Sg retro consoles today with a "reworked industrial design" and built-in wireless connectivity for controllers and accessories. Like the original versions, the new Super Nt Plus and Mega Sg Plus are able to play Nintendo and Sega Genesis cartridges using an FPGA processor that perfectly […]</description>
+      <pubDate>Fri, 16 Oct 2026 15:08:38 +0000</pubDate>
+      <guid>https://www.theverge.com/tech/1012901/analogue-retro-console-supern-nt-plus-nintendo-sega-genesis-mega-plus</guid>
       <category>The Verge</category>
     </item>
     <item>
-      <title>[Перевод] ИИ всё лучше водит киберпреступников за нос</title>
-      <link>https://habr.com/ru/companies/speshu_ai/articles/1095220/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095220</link>
-      <description>Мошенники давно используют автоматизацию: массовые рассылки, подмену номеров, шаблоны диалогов и системы обзвона помогают им работать сразу с тысячами потенциальных жертв. Генеративный ИИ добавил к этому убедительные тексты, синтез речи и возможность быстро менять легенду под собеседника. Но тот же принцип начинают применять защитники: вместо того чтобы только блокировать подозрительный звонок, они дают мошеннику «жертву», с которой можно разговаривать часами и которая никогда не переведёт деньг</description>
-      <pubDate>Fri, 16 Oct 2026 10:00:16 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/speshu_ai/articles/1095220/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095220</guid>
+      <title>A fake WhatsApp clone is showing up before the real version on the Play Store</title>
+      <link>https://www.theverge.com/tech/1012918/google-play-store-fake-whatsapp-android</link>
+      <description>After a Chrome clone was spotted on the Play Store earlier this week, a user on Reddit says they're seeing a fake version of WhatsApp in a "sponsored" slot above the real version. As reported earlier by Android Authority, the WhatsApp dupe has racked up over 500,000 downloads and, at the time of writing, its […]</description>
+      <pubDate>Fri, 16 Oct 2026 15:02:23 +0000</pubDate>
+      <guid>https://www.theverge.com/tech/1012918/google-play-store-fake-whatsapp-android</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>Чем хорош роутер-миньон: сравниваю с Cudy за $50 и терминалом от провайдера</title>
+      <link>https://habr.com/ru/articles/1091660/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1091660</link>
+      <description>Роутер в виде миньона выглядит как сувенир, но внутри — трёхдиапазонный Wi-Fi 6E. Владельцы используют его для беспроводного VR, исследователи разбирают корпус и добираются до загрузчика, а устройство снова появляется в технологических новостях. Разобрался, чем интересен Davolink Kevin, и сравнил его возможности со своим Cudy TR3000 v1 за $50 на OpenWrt и терминалом Transservice TS-4022 от провайдера. Где пригодятся 6 ГГц, почему «2000 Мбит/с» не означают такую скорость передачи данных и какие з</description>
+      <pubDate>Fri, 16 Oct 2026 15:00:15 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1091660/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1091660</guid>
       <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Странные олдскульные технологии, которые так и не взлетели, часть 4</title>
+      <link>https://habr.com/ru/companies/studyai/articles/1093464/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093464</link>
+      <description>Продолжаем обзор странных и порой абсурдных поделий, которые провалились коммерчески, но запомнились своей неординарностью. Читать далее</description>
+      <pubDate>Fri, 16 Oct 2026 15:00:15 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/studyai/articles/1093464/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093464</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops</title>
+      <link>https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions</link>
+      <description>Nvidia's RTX Spark N1X processor is finally here, and we've been collectively testing a small fortune's worth of powerful laptops sporting this new "superchip." RTX Spark is designed to be a high-performing Arm-based SoC for laptops and small desktop computers, rivaling the best from Apple, Intel, AMD, and Qualcomm. It has loads of cores, Nvidia […]</description>
+      <pubDate>Fri, 16 Oct 2026 15:00:00 +0000</pubDate>
+      <guid>https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>Как убрать пароли из XML-конфигов Hadoop: Credential Provider API и JCEKS на практике</title>
+      <link>https://habr.com/ru/companies/arenadata/articles/1094630/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094630</link>
+      <description>Привет, Хабр! Меня зовут Егор Ившин, я аналитик по безопасности в Arenadata. Я отвечаю за безопасность продукта ADH: моя ключевая задача – выявлять уязвимости и оперативно передавать информацию о них команде разработки, при этом я не только фиксирую проблему, но и помогаю с её устранением. В своей работе я применяю различные виды анализа: SCA, SAST, ручное тестирование. В этой статье разберём, как работает Hadoop Credential Provider API, где и как хранить JCEKS и какие подводные камни во всём эт</description>
+      <pubDate>Fri, 16 Oct 2026 14:42:24 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/arenadata/articles/1094630/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094630</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Мировая губка. Как изобразить теорию всего на многообразиях Калаби‑Яу</title>
+      <link>https://habr.com/ru/articles/1095410/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095410</link>
+      <description>Ума не приложу, как так получилось, что почти за 400 публикаций в научно‑популярном блоге на Хабре я ни разу не попытался поговорить с вами о теории струн. Действительно, я читал на эту тему лишь две авторитетные научно‑популярные книги: « Закрученные пассажи » Лизы Рэндалл и « Космический ландшафт. Теория струн и иллюзия разумного замысла Вселенной » Леонарда Сасскинда. Действительно, теория струн — это модный научный аппарат, объясняющий квантовые феномены при допущении, что элементарные части</description>
+      <pubDate>Fri, 16 Oct 2026 14:39:53 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1095410/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095410</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy</title>
+      <link>https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/</link>
+      <description>Actor and angel investor Mark Wahlberg says he's OK with using AI in filmmaking, provided it's used "to enhance what you're doing."</description>
+      <pubDate>Fri, 16 Oct 2026 14:26:51 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>Research First Builder: как проверить, откуда ИИ‑агент взял архитектурное решение</title>
+      <link>https://habr.com/ru/articles/1095394/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095394</link>
+      <description>В плане локального менеджера закладок появилась SQLite. Сам выбор выглядит разумно: один пользователь, небольшая база, ничего не нужно разворачивать на сервере. Но по названию базы ещё нельзя понять, что произойдёт при повторном сохранении ссылки и переживут ли изменения перезапуск приложения. Такие вопросы стоит разобрать до кода. Для этого я сделал Research First Builder — скилл для ИИ‑агента и небольшую проверяющую программу. Он задаёт порядок работы: изучить похожие реализации, объяснить реш</description>
+      <pubDate>Fri, 16 Oct 2026 14:19:35 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1095394/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095394</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>The incredible flying Tesla Roadster is just for show</title>
+      <link>https://www.theverge.com/transportation/1012783/tesla-roadster-flying-stunt-production-reality-musk</link>
+      <description>Last night, Elon Musk gave the people what they want: a car driving vertically up a multi-story ramp, launching off the edge, executing a mid-air "kickflip" over a lineup of Teslas, and landing via cold-gas thrusters. That's what the people want, right? "We were promised flying cars," sure, but isn't the operative word in that […]</description>
+      <pubDate>Fri, 16 Oct 2026 14:15:29 +0000</pubDate>
+      <guid>https://www.theverge.com/transportation/1012783/tesla-roadster-flying-stunt-production-reality-musk</guid>
+      <category>The Verge</category>
     </item>
   </channel>
 </rss>
