@@ -5,9 +5,17 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Sat, 17 Oct 2026 01:06:27 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 06:38:04 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mark Wahlberg wants to take on the longevity-startup crowd with an affordable gym concept</title>
+      <link>https://techcrunch.com/2026/10/16/mark-wahlberg-wants-to-take-on-the-longevity-startup-crowd-with-an-affordable-gym-concept/</link>
+      <description>Mark Wahlberg, who once sank money into a gym chain that got kicked off the NYSE, is now building his own, and he promises you’ll get a cold plunge, a blood panel and a protein muffin without needing a trust fund.</description>
+      <pubDate>Sat, 17 Oct 2026 02:36:18 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/16/mark-wahlberg-wants-to-take-on-the-longevity-startup-crowd-with-an-affordable-gym-concept/</guid>
+      <category>TechCrunch</category>
+    </item>
     <item>
       <title>Ошибка вендора. Соберись, тряпка</title>
       <link>https://habr.com/ru/articles/1095520/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095520</link>
@@ -79,14 +87,6 @@
       <pubDate>Fri, 16 Oct 2026 20:49:04 +0000</pubDate>
       <guid>https://www.theverge.com/transportation/1013280/tesla-chp-fsd-crash</guid>
       <category>The Verge</category>
-    </item>
-    <item>
-      <title>Зачем сисадмину ИИ‑агент: реальный опыт работы с pi</title>
-      <link>https://habr.com/ru/articles/1095500/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095500</link>
-      <description>Ночная смена. На мониторинге краснеет алерт — что-то опять не так на одном из серверов. Ты открываешь терминал, листаешь логи, лезешь в конфиги, пытаешься вспомнить, как именно три года назад настраивал этот сервис, грепаешь историю bash в поисках той самой команды… Знакомая картина? Сегодня первый порыв — спросить ChatGPT. Он подскажет, где копать. Но давайте честно: он работает медленно и односторонне. Ты копируешь ему кусок конфига, он советует, ты идёшь применять, возвращаешься с результатом</description>
-      <pubDate>Fri, 16 Oct 2026 20:22:42 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1095500/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095500</guid>
-      <category>Все публикации подряд на Хабре</category>
     </item>
   </channel>
 </rss>
