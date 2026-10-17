@@ -5,88 +5,88 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Sat, 17 Oct 2026 06:38:04 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 11:25:28 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Mark Wahlberg wants to take on the longevity-startup crowd with an affordable gym concept</title>
-      <link>https://techcrunch.com/2026/10/16/mark-wahlberg-wants-to-take-on-the-longevity-startup-crowd-with-an-affordable-gym-concept/</link>
-      <description>Mark Wahlberg, who once sank money into a gym chain that got kicked off the NYSE, is now building his own, and he promises you’ll get a cold plunge, a blood panel and a protein muffin without needing a trust fund.</description>
-      <pubDate>Sat, 17 Oct 2026 02:36:18 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/16/mark-wahlberg-wants-to-take-on-the-longevity-startup-crowd-with-an-affordable-gym-concept/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>Ошибка вендора. Соберись, тряпка</title>
-      <link>https://habr.com/ru/articles/1095520/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095520</link>
-      <description>Если посмотреть на наше выживающее сообщество со стороны, то мы - вылитые "Стражи Галактики", застрявшие в декорациях "Властелина Колец". Сборище неудачников, аутсайдеров и одиночек. Вендор наш со своей бесчисленной армией франчайзи-орков, строит свою неповоротливую ERP-Мордорию. Они смотрят на нас и на малый бизнес как на безумных фриков и космический мусор, который давно пора выжечь с лица земли принудительными обновлениями. И они, пожалуй, правы! Мы и есть банда фриков. Один воюет с честными </description>
-      <pubDate>Sat, 17 Oct 2026 00:09:53 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1095520/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095520</guid>
+      <title>Полгода в одиночку: как глупая идея превратилась в платформу для ролевых игр с ИИ</title>
+      <link>https://habr.com/ru/articles/1095610/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095610</link>
+      <description>Весной я сел делать анонимный чат. Частично от скуки, частично меня просто не устраивали существующие опции на рынке. В этой статье я расскажу, как моя идея менялась, с какими трудностями я столкнулся, какие полезные фишки в работе с ИИ и кодом нашел для себя, а так же во что это все вылилось по итогам полугодия. Полгода спустя от изначальной идеи осталось немного. Проект получил название Katomu и дважды сменил курс: сначала стал площадкой для текстовых ролевых игр с живыми людьми, а потом сдела</description>
+      <pubDate>Sat, 17 Oct 2026 11:18:39 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1095610/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095610</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>All the news about the iPhone Duo</title>
-      <link>https://www.theverge.com/tech/1010131/apple-iphone-duo-news-announcements</link>
-      <description>Apple has finally announced its long-rumored foldable: the iPhone Duo. The new phone has a 5.4-inch outer display and a 7.6-inch inner display, a “nano‑texture” finish on the inner screen, and barely any visible crease. Instead of Face ID, it uses Touch ID on the power button. It has two cameras, a main lens and […]</description>
-      <pubDate>Fri, 16 Oct 2026 23:36:26 +0000</pubDate>
-      <guid>https://www.theverge.com/tech/1010131/apple-iphone-duo-news-announcements</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>Apple’s updated App Store rules go after ‘nudify’ AI apps</title>
-      <link>https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment</link>
-      <description>Apple's App Store rules now more explicitly ban so-called "nudify" apps that generate intimate images of people without their consent using AI tools. The rule changes follow significant criticism toward Apple after X users used Grok earlier this year to make nonconsensual, sexualized deepfakes, including minors. Apple didn't pull X or Grok from the App […]</description>
-      <pubDate>Fri, 16 Oct 2026 22:51:22 +0000</pubDate>
-      <guid>https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>Машинное обучение на PHP: Rubix ML 3.x – большое обновление экосистемы</title>
-      <link>https://habr.com/ru/articles/1095514/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095514</link>
-      <description>В PHP-экосистеме не так часто происходят заметные изменения в области машинного обучения. Пока основное внимание разработчиков сосредоточено на Python, PyTorch и больших языковых моделях, инструменты для ML на PHP продолжают развиваться, хотя и остаются нишевым направлением. Поэтому выход Rubix ML 3.x – важное событие для PHP-разработчиков, которые хотят использовать машинное обучение в своих проектах. Это не просто очередная версия библиотеки: обновление затронуло производительность, обучение н</description>
-      <pubDate>Fri, 16 Oct 2026 22:46:54 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1095514/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095514</guid>
+      <title>Инди космос за 6 лет. От лобби в VR до мультиплеерной игры</title>
+      <link>https://habr.com/ru/articles/1095604/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095604</link>
+      <description>Я помню свои первые впечатления от лобби когда я впервые включил Oculus Quest. Космическая станция на орбите. За окном — вселенная. Солнечный свет отражается от стен каюты. За пределами атмосферы солнце кажется необычайно ярким. Вентиляция тихо гудит. Хотелось запрыгнуть в челнок и помчаться по просторам космоса. Но тогда я не знал о существовании подходящей игры. А может, её просто не было. Безумно хотелось летать. Шесть лет назад появилась идея игры, которая со временем превратилась в Орбиту .</description>
+      <pubDate>Sat, 17 Oct 2026 11:09:24 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1095604/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095604</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Лимиты ChatGPT и локальные LLM: мой эксперимент с Hermes Agent</title>
-      <link>https://habr.com/ru/articles/1095496/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095496</link>
-      <description>Проверил, можно ли разгрузить Hermes Agent с помощью локальных LLM на домашнем ПК с RTX 3080 и 32 ГБ RAM. Сравнил Qwen и GLM на архитектурных задачах, редактуре и извлечении данных, испытал разные квантования и подключил Hermes на Mac к модели на Windows. В статье — условия испытаний, замеры скорости и памяти, конкретные ошибки и причины итогового выбора Qwen3.5 9B. Подключение заработало, но получить привычное качество ответов и подтвердить экономию облачного лимита пока не удалось. Читать дале</description>
-      <pubDate>Fri, 16 Oct 2026 21:27:58 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1095496/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095496</guid>
+      <title>Квант трейдинг для каждого и ловушка красивого графика</title>
+      <link>https://habr.com/ru/articles/1095592/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095592</link>
+      <description>Стратегия заработала 57% за год, её коэффициент Шарпа превысил три. Такой результат удалось получить на случайных числах: достаточно сгенерировать 2000 вариантов и выбрать победителя. На следующем отрезке он уже теряет деньги. Собрать торгового робота сегодня можно за вечер. Сложнее понять, есть ли у него преимущество перед рынком и откуда взялась прибыль в отчёте. Ошибки в данных, перебор настроек и слишком удобные правила исполнения способны превратить слабую идею в убедительный график. Разбер</description>
+      <pubDate>Sat, 17 Oct 2026 10:40:46 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1095592/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095592</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Replit is no longer working with Anthropic, CEO says</title>
-      <link>https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/</link>
-      <description>Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.</description>
-      <pubDate>Fri, 16 Oct 2026 21:22:28 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>Построение карты проходимости на GPU по данным RGB-D камеры &amp; лидара</title>
-      <link>https://habr.com/ru/articles/1095506/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095506</link>
-      <description>Как я переделал воксельную карту 10 см в HD-карту высот с разрешением 1 мм на CUDA, две новые проблемы: шум глубины и скачки одометрии по высоте. Читать далее</description>
-      <pubDate>Fri, 16 Oct 2026 21:17:26 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1095506/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095506</guid>
+      <title>Сжатие, красота и Шмидхубер: умеют ли нейросети выдумывать новое</title>
+      <link>https://habr.com/ru/companies/ru_mts/articles/1095280/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095280</link>
+      <description>В ноябре 2025 года Юрген Шмидхубер, которого половина индустрии считает настоящим отцом современного ИИ, в ответ Илону Маску опубликовал ссылку на свою же работу семнадцатилетней давности. Мол, хотите понять, почему нынешний ИИ не способен к настоящему творчеству, почитайте мою статью из 2008 года… Под катом расскажу, что это за теория, почему ее автор уверен, что она объясняет вообще все, от шуток до закона всемирного тяготения, и что из этого следует для LLM. Читать</description>
+      <pubDate>Sat, 17 Oct 2026 10:30:36 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/ru_mts/articles/1095280/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095280</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>We can finally hear some of Wu-Tang Clan’s Once Upon A Time in Shaolin album</title>
-      <link>https://www.theverge.com/entertainment/1013277/wu-tang-once-upon-a-time-in-shaolin-pablo-torre-martin-shkreli</link>
-      <description>Wu-Tang's Once Upon A Time in Shaolin album has, for the most part, been extremely difficult to listen to, but you can now hear two snippets of the album thanks to the podcast Pablo Torre Finds Out, which just published an episode all about the exclusive record. Once Upon A Time in Shaolin has a […]</description>
-      <pubDate>Fri, 16 Oct 2026 20:50:27 +0000</pubDate>
-      <guid>https://www.theverge.com/entertainment/1013277/wu-tang-once-upon-a-time-in-shaolin-pablo-torre-martin-shkreli</guid>
-      <category>The Verge</category>
+      <title>Как я собрал модель для определения стадии диабетической ретинопатии на бесплатном Colab</title>
+      <link>https://habr.com/ru/articles/1095572/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095572</link>
+      <description>Предыстория Я собрал двухпоточную модель: она смотрит на снимок глазного дна и одновременно получает клинические показатели пациента. На отложенном тесте первый запуск дал QWK 0.834. Потом я стал разбираться, за счёт чего, и оказалось, что клинические признаки в моих данных содержат ответ. Я поставил три контрольных эксперимента, в том числе обучил отдельную модель только по снимкам. У неё QWK 0.713. Ниже весь пайплайн и способы, которыми такая утечка находится. Читать далее</description>
+      <pubDate>Sat, 17 Oct 2026 09:25:56 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1095572/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095572</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Tesla driver says he was asleep and using FSD when he crashed into highway patrol cars</title>
-      <link>https://www.theverge.com/transportation/1013280/tesla-chp-fsd-crash</link>
-      <description>After this horrific crash involving a Tesla driver who said he was asleep and using the driver assist mode, the California Highway Patrol warns that "Despite its name, full self-driving is not fully autonomous. Technology does not relieve drivers of their responsibility to safely operate their vehicles." Video released by CHP shows the Tesla speeding […]</description>
-      <pubDate>Fri, 16 Oct 2026 20:49:04 +0000</pubDate>
-      <guid>https://www.theverge.com/transportation/1013280/tesla-chp-fsd-crash</guid>
-      <category>The Verge</category>
+      <title>Как я перестал жить «от зарплаты до зарплаты» и купил дом: история одного алгоритма</title>
+      <link>https://habr.com/ru/articles/1095570/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095570</link>
+      <description>Привет, Хабр! Давно меня тут не было. Программирую уже 15 лет, а писать сюда перестал - сказать было что, но загруженность проектами не оставляла времени. В этот раз хочу рассказать вам историю о том, как поиск "нормального" учёта финансов привёл меня к разработке собственного сервиса и к покупке загородного дома, который раньше казался недостижимой мечтой. Сразу оговорюсь: это не рекламный пост. Я не буду убеждать вас, что мой сервис - единственно верный. Я хочу показать, как устроена логика, к</description>
+      <pubDate>Sat, 17 Oct 2026 09:25:02 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1095570/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095570</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Карандашный набросок, который заливается акварелью: разбираю эффект на SVG без библиотек</title>
+      <link>https://habr.com/ru/articles/1095566/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095566</link>
+      <description>Делал интерактивную открытку на день рождения и хотел, чтобы картинка не просто появлялась, а «рисовалась»: сначала карандашные линии, потом по касанию её заливает акварель, причём с рваным краем, как у краски, которая впитывается в бумагу. Готовых решений под такое не нашёл. Видео не подходило: нужна была реакция на тап и чёткость на любом экране. В итоге всё собралось на чистом SVG, паре фильтров и небольшом количестве JS. Ниже разбираю по шагам, с кодом и граблями, на которые наступил. Читать</description>
+      <pubDate>Sat, 17 Oct 2026 09:11:28 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1095566/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095566</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Нафиг NVIDIA! Часть 2. Запустил 8 нейросетей на FPGA за $50 — и упёрся в DDR3</title>
+      <link>https://habr.com/ru/articles/1095564/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095564</link>
+      <description>Можно ли запустить настоящие языковые модели на списанной FPGA за $50 - без NVIDIA? В первой части я запустил Qwen, а теперь разобрал openTPU до RTL, собрал прошивку в Vivado и проверил 8 нейросетей в 165 запусках. Покажу реальные замеры, устройство кристалла, грабли и почему добавление умножителей не решает проблему. Спойлер: в ту же стену памяти сейчас упираются и дата-центры за миллиарды. Читать далее</description>
+      <pubDate>Sat, 17 Oct 2026 09:06:10 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1095564/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095564</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Стоит ли связывать Claude Code и Gemini Notebook?</title>
+      <link>https://habr.com/ru/articles/1095562/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095562</link>
+      <description>В этой статье я честно делюсь личным опытом интеграции Claude Code и Gemini Notebook через неофициальные библиотеки. Разбераю архитектуру этого решения, сталкиваюсь с неизбежными костылями автоматизации и отвечу на главный вопрос: где заканчивается реальная польза и начинается избыточное усложнение. Читать далее</description>
+      <pubDate>Sat, 17 Oct 2026 09:01:27 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1095562/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095562</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Как появилась современная система летоисчисления? Часть 1: календарь имени Юлия Цезаря и Октавиана Августа</title>
+      <link>https://habr.com/ru/companies/ruvds/articles/1095356/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095356</link>
+      <description>В мире по сей день используют разные системы летоисчисления. Так, в еврейской традиции счёт лет ведут «от сотворения мира» 7 октября 3671 года до нашей эры, а у мусульман сейчас 1448 год со дня Хиджры, когда пророк Мухаммед повёл своих сторонников из Мекки в Медину, и для обеих традиций очень важную роль сохраняют именно лунные месяцы. Однако главным общемировым стандартом уже не первый век является григорианский календарь, ведущий отсчёт от Рождества Христова — или, в более светском варианте, «</description>
+      <pubDate>Sat, 17 Oct 2026 09:01:27 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/ruvds/articles/1095356/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095356</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
   </channel>
 </rss>
