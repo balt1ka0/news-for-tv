@@ -5,88 +5,88 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Sat, 17 Oct 2026 15:04:21 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 17:50:37 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Plyloom новая версия (0.14). Работа над удобствами и мысли про OKF (Open Knowledge Format)</title>
-      <link>https://habr.com/ru/articles/1095666/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095666</link>
-      <description>В статье речь пойдет немножко про OKF (Open Knowledge Format) и мои мысли про позиционирование инструмента Plyloom.net относительно него, а также представление новой версии Plyloom. В обновлении была проведена работа по переработке функционала который больше всего влияет на удобства. Также сильно переработан режим “Стопка”, раньше он был скорее заглушкой, чем чем-то полезным, теперь же он кажется стал лучше. Также мне очень хотелось добавить возможность добавления к узлам мини-картинок. Читать д</description>
-      <pubDate>Sat, 17 Oct 2026 14:51:43 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1095666/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095666</guid>
+      <title>Робот в тумане: лошадь оставить, туман удалить</title>
+      <link>https://habr.com/ru/articles/1095696/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095696</link>
+      <description>Утром SpeedyBot отказался ехать: вокруг препятствия, хотя перед ним свободно. Протёрли лидар — не помогло. За призрачным кольцом оказался туман. Мы записали 5,81 миллиона точек, отправили робота к скамейке и устроили ему «Матрицу» из виртуальных столбов и сеток. Почему подавить 97% шума мало и как убрать кольцо, сохранив тонкие препятствия. Читать далее</description>
+      <pubDate>Sat, 17 Oct 2026 17:28:07 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1095696/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095696</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Claude и сиды кривых NIST — что действительно доказано, а что осталось догадкой</title>
-      <link>https://habr.com/ru/articles/1095660/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095660</link>
-      <description>16 октября Anthropic опубликовала две работы в один день. Первая разбирает происхождение «случайных» сидов эллиптических кривых NIST, вторая — проектирование квантовых схем. Что в этих работах подтверждено воспроизводимым кодом и расчётом, что остаётся гипотезой самих авторов, и где формулировки пресс-подачи стоит читать аккуратнее, чем заголовки о них? Читать далее</description>
-      <pubDate>Sat, 17 Oct 2026 14:41:59 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1095660/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095660</guid>
+      <title>Как один сервер на Go держит 2500 бойцов в браузерной драке</title>
+      <link>https://habr.com/ru/articles/1095682/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095682</link>
+      <description>Я в одиночку делаю Brawl Town — уличную драку в браузере в духе Final Fight и Streets of Rage, только онлайн: одна улица, сотни игроков и ботов, все против всех, круглые сутки. С первого дня у проекта была инженерная цель: сколько людей выдержит один процесс на обычном десктопе, если честно считать бой на сервере. Ответ на сегодня — около 2500 одновременных бойцов на i7-7700K при тике около 30 мс из бюджета 50. Рассказываю, что оказалось узким местом: не алгоритмы, а кэш процессора и трафик. Чит</description>
+      <pubDate>Sat, 17 Oct 2026 17:11:23 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1095682/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095682</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Асимметрия модульного монолита</title>
-      <link>https://habr.com/ru/articles/1095650/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095650</link>
-      <description>Всем привет. Меня зовут Александр Кубит, я работаю архитектором, системным аналитиком и разработчиком в компании Promet System. Мы уже много лет занимаемся развитием и сопровождением довольно крупной ERP-системы по управлению заводами металлоконструкций. На данный момент наша кодовая база насчитывает порядка четырех миллионов строк кода. Несколько лет наша команда состояла из двух-трех разработчиков, которым по наследству досталось огромное легаси. Предметная область сама по себе достаточно слож</description>
-      <pubDate>Sat, 17 Oct 2026 14:08:38 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1095650/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095650</guid>
+      <title>Mercedes-AMG’s first ground-up SUV is a 1,150hp electric beast</title>
+      <link>https://www.theverge.com/transportation/1013088/mercedes-amg-gt-suv-price-specs-performance</link>
+      <description>Earlier this year, Mercedes' AMG performance brand grabbed our attention with the GT four-door coupe, a souped-up sports sedan with three axial flux motors delivering over 1,150 horsepower. Well, now meet its beefier cousin, the 2028 Mercedes-AMG GT SUV, an equally powerful, ultra-fast-charging electric people-hauler. The AMG GT SUV (say that five times fast) marks […]</description>
+      <pubDate>Sat, 17 Oct 2026 17:00:00 +0000</pubDate>
+      <guid>https://www.theverge.com/transportation/1013088/mercedes-amg-gt-suv-price-specs-performance</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>api2app: Использование совместно с ComfyUI</title>
+      <link>https://habr.com/ru/articles/1093214/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093214</link>
+      <description>В этом уроке я расскажу как можно использовать ComfyUI в роли API и быстро создать веб-приложение с доступом из мира. В приложении я смогу оперативно настраивать интерфейс под меняющиеся задачи без программирования . Читать далее</description>
+      <pubDate>Sat, 17 Oct 2026 16:49:28 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1093214/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093214</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Секреты первых 3D-игр: как работала графика в тайтлах 90-х</title>
-      <link>https://habr.com/ru/companies/timeweb/articles/1095348/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095348</link>
-      <description>Осторожно: Эта статья во всех подробностях описывает принципы работы 3D-игр из 90-х годов максимально простым языком. Если вы любите настоящие статьи времен того самого лампового Хабра и без нейрослопа - материал обязателен к прочтению! Задумывались ли вы когда-нибудь о том, как разработчики 3D-игр умудрялись выжимать красивую графику из слабого железа в 90-х годах? Вспомните NFS High Stakes, Quake 3, Unreal или Jurassic Park: Tresspaser — все они, несмотря на простоту технологий, выглядят сногс</description>
-      <pubDate>Sat, 17 Oct 2026 14:05:59 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/timeweb/articles/1095348/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095348</guid>
+      <title>Elon Musk settles lawsuits over $1 million voter giveaway</title>
+      <link>https://www.theverge.com/tech/1013431/elon-musk-settles-lawsuits-over-1-million-voter-giveaway</link>
+      <description>In 2024, Elon Musk promised to give away $1 million a day to a randomly selected registered voter in a swing state. That prompted legal challenges, raised questions about its legality, and drew lawsuits from two Arizona residents claiming the lottery was a fraud. Musk has now agreed to settle the two lawsuits filed in […]</description>
+      <pubDate>Sat, 17 Oct 2026 16:39:44 +0000</pubDate>
+      <guid>https://www.theverge.com/tech/1013431/elon-musk-settles-lawsuits-over-1-million-voter-giveaway</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>Ни зарплат, ни отпусков, ни больничных. Зато есть User Story и Merge Request: как AI-агенты работают у меня в Jira</title>
+      <link>https://habr.com/ru/articles/1095690/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095690</link>
+      <description>IT-команда в средней компании (продуктовой, интеграторе, неважно) обычно состоит из продукт-менеджера, бизнес-аналитиков, разработчиков и QA-инженеров. Работают они, как правило, в одном трекере вроде Jira. А теперь представьте, что в поле Assignee появились виртуальные коллеги на все эти роли. У меня таких три: фронт, бэк и аналитик. Людей они не заменяют. Ревью, ответы на вопросы и последнее слово в MR остаются за человеком, ниже покажу, где именно. Агентам я отдаю oneshot-задачи: достаточно п</description>
+      <pubDate>Sat, 17 Oct 2026 16:36:51 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1095690/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095690</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Паттерны проектирования. Порождающие</title>
-      <link>https://habr.com/ru/articles/1092836/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092836</link>
-      <description>Тема довольно "заезженная", поэтому я буду часто ссылаться на другие статьи, где паттерны разбираются более подробно. Моя же цель другая - управлять поездом структурировать собранную информацию и написать примеры под углом разработки на Swift. Читать далее</description>
-      <pubDate>Sat, 17 Oct 2026 13:59:22 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1092836/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092836</guid>
+      <title>Три раза ALLOW: в ERP оказалось 120 вместо разрешённых 100</title>
+      <link>https://habr.com/ru/articles/1095622/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095622</link>
+      <description>Человек разрешил workflow заказать не больше 100 единиц товара. Три запроса по 40 прошли через слой авторизации и получили ALLOW. В ERP в итоге оказалось 120. Разбираю, почему локально допустимые решения могут вместе выйти за пределы общего лимита, как check-then-act ломается при конкурентном исполнении и почему ALLOW нужно связывать с атомарным резервированием общего лимита до внешнего эффекта. Читать далее</description>
+      <pubDate>Sat, 17 Oct 2026 16:06:26 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1095622/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095622</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Shared memory в ROS 2 Humble: CycloneDDS + iceoryx на практике</title>
-      <link>https://habr.com/ru/articles/1095648/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095648</link>
-      <description>Shared memory в ROS 2 это буквально чит-код на бесплатное ускорение? Одна строка в конфиге, и мегабайтные сообщения летят через общую память, а не через сеть, но ros2 node list показывает пустой список, хотя всё работает. Разбираемся в нюансах и фичах механизмов shm и zero-copy на примере ROS2 Humble + CycloneDDS. Читать далее</description>
-      <pubDate>Sat, 17 Oct 2026 13:49:42 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1095648/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095648</guid>
+      <title>React 19: разделяем логику и разметку, тестируем с Shallowly и Vitest</title>
+      <link>https://habr.com/ru/articles/1095628/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095628</link>
+      <description>На примере панели профиля вынесем логику и подготовку данных в useSetup[Component] , а в компоненте оставим разметку. Затем отдельно проверим setup-хук, компонент через Shallowly и взаимодействие через React Testing Library. В конце — полный пример с Vitest, который можно забрать и запустить. Читать далее</description>
+      <pubDate>Sat, 17 Oct 2026 15:36:48 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1095628/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095628</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>NASA’s Roman Space Telescope exceeds expectations by nearly 30%</title>
-      <link>https://www.sciencedaily.com/releases/2026/10/261016070630.htm</link>
-      <description>NASA’s Nancy Grace Roman Space Telescope has exceeded expectations after engineers made incredibly tiny adjustments to sharpen its view of the universe. By moving a mirror just one-sixteenth the width of a human hair, the team helped bring its powerful instruments into near-perfect alignment. Roman’s Wide Field Instrument now produces image quality nearly 30% better than predicted, promising exceptionally sharp cosmic surveys.</description>
-      <pubDate>Sat, 17 Oct 2026 13:28:13 +0000</pubDate>
-      <guid>https://www.sciencedaily.com/releases/2026/10/261016070630.htm</guid>
-      <category>All Top News -- ScienceDaily</category>
-    </item>
-    <item>
-      <title>[Перевод] Как я превратил свой нарисованный дом в живой дашборд Home Assistant</title>
-      <link>https://habr.com/ru/companies/otus/articles/1095190/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095190</link>
-      <description>Автоматизировать дом оказалось проще, чем убедить домашних пользоваться Home Assistant. Когда обычный дашборд так и не прижился, автор решил зайти с другой стороны: нанял художника, заказал иллюстрацию собственного дома и превратил её в живой интерфейс управления. В статье — как с помощью стандартных возможностей Home Assistant удалось оживить рисунок, связать его с реальными устройствами и собрать весь умный дом на одном экране. Читать историю</description>
-      <pubDate>Sat, 17 Oct 2026 13:25:49 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/otus/articles/1095190/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095190</guid>
+      <title>Snake? Eel! Мои эксперименты с питоном и эрлангом продолжаются</title>
+      <link>https://habr.com/ru/articles/1092544/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092544</link>
+      <description>Дорогие читатели-питонисты, хочу вас поздравить с выходом питона 3.15! А пишущим на эрланге хочу напомнить, что OTP 30 уже наполовину готова. Этот пост - продолжение саги, начатой предыдущим поросячьим постом. Моя идея насчёт нового языка для BEAM не только не исчезла, но и получила развитие. Правда, брендинг теперь другой, все поросята были выгнаны. Теперь на обложке угорь - Eel. Как это обычно бывает, после написания предыдущего поста я узнал, что Erlang в чистом виде - изящный и минималистичн</description>
+      <pubDate>Sat, 17 Oct 2026 15:30:27 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1092544/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092544</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Vite, OOM и сервер на 4 ГБ: как мы снизили память сборки на 52%</title>
-      <link>https://habr.com/ru/articles/1095642/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095642</link>
-      <description>Сборка нового Vue-приложения проходила локально, а на сервере с 4 ГБ RAM заканчивалась убийством Node по OOM. Мы ограничивали heap, меняли импорты, отключали минификацию и проверяли другие сборщики. Рассказываю, что помогло, какие оптимизации почти ничего не дали и почему добавили Rsbuild. В наших серверных замерах пиковый RSS снизился с 1681 до 802 MiB, а время сборки — с 41 до 11,7 секунды. В статье — условия сравнения, таблицы и ограничения этих результатов. Читать далее</description>
-      <pubDate>Sat, 17 Oct 2026 13:10:33 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1095642/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095642</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>По ту сторону кода: дружелюбное введение в UART, I2C и SPI для тех, кто боится железа</title>
-      <link>https://habr.com/ru/articles/1095176/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095176</link>
-      <description>Возьмите в руки смартфон и ненадолго вскройте его мысленно. Там сидит колония из крошечных чипов, и большинство из них не знает о существовании соседей. Контроллер батареи никогда не слышал о сканере отпечатка, а датчик приближения понятия не имеет, зачем рядом гудит вибромотор. Читать далее</description>
-      <pubDate>Sat, 17 Oct 2026 13:05:02 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1095176/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095176</guid>
-      <category>Все публикации подряд на Хабре</category>
+      <title>Meta removes language that may have allowed it to scrape news sites</title>
+      <link>https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites</link>
+      <description>After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI. Specifically, the following language no longer appears on the commercial terms page: … Meta may use any content from such domains, web pages, or URLs to provide, develop, improve, […]</description>
+      <pubDate>Sat, 17 Oct 2026 15:04:36 +0000</pubDate>
+      <guid>https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites</guid>
+      <category>The Verge</category>
     </item>
   </channel>
 </rss>
