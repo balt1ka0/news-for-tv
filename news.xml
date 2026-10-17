@@ -5,16 +5,40 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Sat, 17 Oct 2026 20:13:23 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 22:54:56 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Telegram Serverless против двух VPS: нужен ли теперь хостинг для бота?</title>
-      <link>https://habr.com/ru/articles/1095716/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095716</link>
-      <description>Telegram теперь может разместить код бота, базу и Mini App. Я запустил общий цифровой сад и сравнил новую площадку с двумя VPS: SQLite, пакетная запись, JSON, вычисления, параллельные запросы и растущий журнал. Показываю цифры, ограничения и объясняю, где бесплатный Serverless оказался удобнее, а почему рабочие проекты я оставляю на VPS. Посмотреть замеры</description>
-      <pubDate>Sat, 17 Oct 2026 20:03:18 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1095716/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095716</guid>
+      <title>L×Box: от VPN‑клиента до экосистемы управления сетевым трафиком</title>
+      <link>https://habr.com/ru/articles/1095724/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095724</link>
+      <description>Я рассказываю тут про развитие VPN-клиента L×Box, его ядра и десктоп-версии. Новость месяца: L×Box уже доступен в Google Play Проект быстро развивается: пока я дописывал раздел про форк, ядро проехало три минорных релиза. Пока описывал фичесет приложения, вышло 27 релизов. Так что все технологические фишки тут не смогу описать — только главное и интересное, и поговорим про позиционирование! Читать далее</description>
+      <pubDate>Sat, 17 Oct 2026 21:32:07 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1095724/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095724</guid>
       <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Meta removes language that raised scraping and AI training concerns</title>
+      <link>https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/</link>
+      <description>A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.</description>
+      <pubDate>Sat, 17 Oct 2026 21:31:32 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>TikTok permanently bans ‘Musk’ documentary advertising account</title>
+      <link>https://techcrunch.com/2026/10/17/tiktok-permanently-bans-musk-documentary-advertising-account/</link>
+      <description>A four-hour documentary about Elon Musk continues to meet resistance from social media platforms.</description>
+      <pubDate>Sat, 17 Oct 2026 20:55:52 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/17/tiktok-permanently-bans-musk-documentary-advertising-account/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>Anthropic says its workforce has become less junior and is spending more time in meetings</title>
+      <link>https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/</link>
+      <description>The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.</description>
+      <pubDate>Sat, 17 Oct 2026 20:21:19 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/</guid>
+      <category>TechCrunch</category>
     </item>
     <item>
       <title>TikTok bans Musk documentary account</title>
@@ -41,7 +65,7 @@
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Replit is no longer working with Anthropic, CEO says</title>
+      <title>Replit makes OpenAI its default over Anthropic, CEO says</title>
       <link>https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/</link>
       <description>Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.</description>
       <pubDate>Sat, 17 Oct 2026 18:48:08 +0000</pubDate>
@@ -62,30 +86,6 @@
       <description>Утром SpeedyBot отказался ехать: вокруг препятствия, хотя перед ним свободно. Протёрли лидар — не помогло. За призрачным кольцом оказался туман. Мы записали 5,81 миллиона точек, отправили робота к скамейке и устроили ему «Матрицу» из виртуальных столбов и сеток. Почему подавить 97% шума мало и как убрать кольцо, сохранив тонкие препятствия. Читать далее</description>
       <pubDate>Sat, 17 Oct 2026 17:28:07 +0000</pubDate>
       <guid>https://habr.com/ru/articles/1095696/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095696</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Как один сервер на Go держит 2500 бойцов в браузерной драке</title>
-      <link>https://habr.com/ru/articles/1095682/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095682</link>
-      <description>Я в одиночку делаю Brawl Town — уличную драку в браузере в духе Final Fight и Streets of Rage, только онлайн: одна улица, сотни игроков и ботов, все против всех, круглые сутки. С первого дня у проекта была инженерная цель: сколько людей выдержит один процесс на обычном десктопе, если честно считать бой на сервере. Ответ на сегодня — около 2500 одновременных бойцов на i7-7700K при тике около 30 мс из бюджета 50. Рассказываю, что оказалось узким местом: не алгоритмы, а кэш процессора и трафик. Чит</description>
-      <pubDate>Sat, 17 Oct 2026 17:11:23 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1095682/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095682</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Mercedes-AMG’s first ground-up SUV is a 1,150hp electric beast</title>
-      <link>https://www.theverge.com/transportation/1013088/mercedes-amg-gt-suv-price-specs-performance</link>
-      <description>Earlier this year, Mercedes' AMG performance brand grabbed our attention with the GT four-door coupe, a souped-up sports sedan with three axial flux motors delivering over 1,150 horsepower. Well, now meet its beefier cousin, the 2028 Mercedes-AMG GT SUV, an equally powerful, ultra-fast-charging electric people-hauler. The AMG GT SUV (say that five times fast) marks […]</description>
-      <pubDate>Sat, 17 Oct 2026 17:00:00 +0000</pubDate>
-      <guid>https://www.theverge.com/transportation/1013088/mercedes-amg-gt-suv-price-specs-performance</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>api2app: Использование совместно с ComfyUI</title>
-      <link>https://habr.com/ru/articles/1093214/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093214</link>
-      <description>В этом уроке я расскажу как можно использовать ComfyUI в роли API и быстро создать веб-приложение с доступом из мира. В приложении я смогу оперативно настраивать интерфейс под меняющиеся задачи без программирования . Читать далее</description>
-      <pubDate>Sat, 17 Oct 2026 16:49:28 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1093214/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093214</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
   </channel>
