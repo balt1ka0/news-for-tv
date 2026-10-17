@@ -5,9 +5,57 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Sat, 17 Oct 2026 17:50:37 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 20:13:23 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Telegram Serverless против двух VPS: нужен ли теперь хостинг для бота?</title>
+      <link>https://habr.com/ru/articles/1095716/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095716</link>
+      <description>Telegram теперь может разместить код бота, базу и Mini App. Я запустил общий цифровой сад и сравнил новую площадку с двумя VPS: SQLite, пакетная запись, JSON, вычисления, параллельные запросы и растущий журнал. Показываю цифры, ограничения и объясняю, где бесплатный Serverless оказался удобнее, а почему рабочие проекты я оставляю на VPS. Посмотреть замеры</description>
+      <pubDate>Sat, 17 Oct 2026 20:03:18 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1095716/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095716</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>TikTok bans Musk documentary account</title>
+      <link>https://www.theverge.com/tech/1013453/tiktok-bans-alex-gibneys-musk-documentary</link>
+      <description>Just ahead of the wider release of Alex Gibney's Musk documentary, TikTok has banned the film's social media account from its platform. TikTok did not immediately respond to a request for comment. According to The Hollywood Reporter, the film's distributor, Bleecker Street, was informed Friday afternoon that a "permanent suspension" was imminent. Bleecker Street has […]</description>
+      <pubDate>Sat, 17 Oct 2026 19:32:23 +0000</pubDate>
+      <guid>https://www.theverge.com/tech/1013453/tiktok-bans-alex-gibneys-musk-documentary</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>DBML Diagram 1.0.1: схемы БД в продуктах от JetBrains, интеграция с dbdiagram.io и ваши идеи</title>
+      <link>https://habr.com/ru/articles/1095714/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095714</link>
+      <description>Привет, Хабр! На связи Boost for Java . В первой статье о DBML Diagram мы рассказали, зачем сделали open source плагин для работы с DBML прямо в IntelliJ IDEA. Тогда основой были редактор и диаграмма рядом с кодом, а интеграция с dbdiagram.io оставалась в планах. Сейчас в JetBrains Marketplace доступна версия 1.0.1 . С момента первой публикации появились обмен схемами с dbdiagram.io , экспорт DDL для трёх СУБД, ручная настройка расположения таблиц и связей, а также проверка отношений между табли</description>
+      <pubDate>Sat, 17 Oct 2026 19:17:51 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1095714/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095714</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Как можно понять то, что не понимал даже Фейнман</title>
+      <link>https://habr.com/ru/articles/1095704/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095704</link>
+      <description>Это новая редакция моей старой статьи. Я перечитал её и решил, что всё изложено слишком кратко, слишком сумбурно, а кое-где возможно и не совсем верно. Фейнман утверждал «думаю, я смело могу сказать, что никто не понимает квантовую механику». Пожалуй, в то время, когда это было сказано, он был прав. И пожалуй, скажи он это сейчас, он бы ошибся. Наука и философия не стояли на месте и я убеждён, что то время, когда квантовую механику может при желании понять каждый, настало. Читать далее</description>
+      <pubDate>Sat, 17 Oct 2026 18:50:30 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1095704/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095704</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Replit is no longer working with Anthropic, CEO says</title>
+      <link>https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/</link>
+      <description>Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.</description>
+      <pubDate>Sat, 17 Oct 2026 18:48:08 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>Русский язык в программировании. РУСИ++</title>
+      <link>https://habr.com/ru/articles/1069968/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1069968</link>
+      <description>Статья посвящена системному программированию на русском языке с C-подобным синтаксисом. Компилятор для языков программирования РУСИ, РУСИ++ и объектный-РУСИ создан путём модификации и пересборки компилятора GCC 14й версии с превращением его в полноценный русско-английский билингвальный компилятор. Отдельно дана инструкция модификации русской раскладки клавиатуры для добавления в неё фигурных, угловых и квадратных скобок - дабы не переключаться и не терять поток. Читать::Далее();</description>
+      <pubDate>Sat, 17 Oct 2026 18:18:11 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1069968/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1069968</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
     <item>
       <title>Робот в тумане: лошадь оставить, туман удалить</title>
       <link>https://habr.com/ru/articles/1095696/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095696</link>
@@ -39,54 +87,6 @@
       <pubDate>Sat, 17 Oct 2026 16:49:28 +0000</pubDate>
       <guid>https://habr.com/ru/articles/1093214/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093214</guid>
       <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Elon Musk settles lawsuits over $1 million voter giveaway</title>
-      <link>https://www.theverge.com/tech/1013431/elon-musk-settles-lawsuits-over-1-million-voter-giveaway</link>
-      <description>In 2024, Elon Musk promised to give away $1 million a day to a randomly selected registered voter in a swing state. That prompted legal challenges, raised questions about its legality, and drew lawsuits from two Arizona residents claiming the lottery was a fraud. Musk has now agreed to settle the two lawsuits filed in […]</description>
-      <pubDate>Sat, 17 Oct 2026 16:39:44 +0000</pubDate>
-      <guid>https://www.theverge.com/tech/1013431/elon-musk-settles-lawsuits-over-1-million-voter-giveaway</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>Ни зарплат, ни отпусков, ни больничных. Зато есть User Story и Merge Request: как AI-агенты работают у меня в Jira</title>
-      <link>https://habr.com/ru/articles/1095690/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095690</link>
-      <description>IT-команда в средней компании (продуктовой, интеграторе, неважно) обычно состоит из продукт-менеджера, бизнес-аналитиков, разработчиков и QA-инженеров. Работают они, как правило, в одном трекере вроде Jira. А теперь представьте, что в поле Assignee появились виртуальные коллеги на все эти роли. У меня таких три: фронт, бэк и аналитик. Людей они не заменяют. Ревью, ответы на вопросы и последнее слово в MR остаются за человеком, ниже покажу, где именно. Агентам я отдаю oneshot-задачи: достаточно п</description>
-      <pubDate>Sat, 17 Oct 2026 16:36:51 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1095690/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095690</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Три раза ALLOW: в ERP оказалось 120 вместо разрешённых 100</title>
-      <link>https://habr.com/ru/articles/1095622/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095622</link>
-      <description>Человек разрешил workflow заказать не больше 100 единиц товара. Три запроса по 40 прошли через слой авторизации и получили ALLOW. В ERP в итоге оказалось 120. Разбираю, почему локально допустимые решения могут вместе выйти за пределы общего лимита, как check-then-act ломается при конкурентном исполнении и почему ALLOW нужно связывать с атомарным резервированием общего лимита до внешнего эффекта. Читать далее</description>
-      <pubDate>Sat, 17 Oct 2026 16:06:26 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1095622/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095622</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>React 19: разделяем логику и разметку, тестируем с Shallowly и Vitest</title>
-      <link>https://habr.com/ru/articles/1095628/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095628</link>
-      <description>На примере панели профиля вынесем логику и подготовку данных в useSetup[Component] , а в компоненте оставим разметку. Затем отдельно проверим setup-хук, компонент через Shallowly и взаимодействие через React Testing Library. В конце — полный пример с Vitest, который можно забрать и запустить. Читать далее</description>
-      <pubDate>Sat, 17 Oct 2026 15:36:48 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1095628/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095628</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Snake? Eel! Мои эксперименты с питоном и эрлангом продолжаются</title>
-      <link>https://habr.com/ru/articles/1092544/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092544</link>
-      <description>Дорогие читатели-питонисты, хочу вас поздравить с выходом питона 3.15! А пишущим на эрланге хочу напомнить, что OTP 30 уже наполовину готова. Этот пост - продолжение саги, начатой предыдущим поросячьим постом. Моя идея насчёт нового языка для BEAM не только не исчезла, но и получила развитие. Правда, брендинг теперь другой, все поросята были выгнаны. Теперь на обложке угорь - Eel. Как это обычно бывает, после написания предыдущего поста я узнал, что Erlang в чистом виде - изящный и минималистичн</description>
-      <pubDate>Sat, 17 Oct 2026 15:30:27 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1092544/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092544</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Meta removes language that may have allowed it to scrape news sites</title>
-      <link>https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites</link>
-      <description>After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI. Specifically, the following language no longer appears on the commercial terms page: … Meta may use any content from such domains, web pages, or URLs to provide, develop, improve, […]</description>
-      <pubDate>Sat, 17 Oct 2026 15:04:36 +0000</pubDate>
-      <guid>https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites</guid>
-      <category>The Verge</category>
     </item>
   </channel>
 </rss>
