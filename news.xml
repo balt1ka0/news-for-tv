@@ -5,87 +5,87 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Sun, 18 Oct 2026 10:30:03 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 14:19:48 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>ИИ не ускоряет разработчиков. Он увеличивает разрыв между ними</title>
-      <link>https://habr.com/ru/articles/1095794/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095794</link>
-      <description>Представим, что разработчик научился выполнять дневную норму за два часа. Что он получит: премию, повышение или ещё четыре дневные нормы? Если приз за скорость — новая норма, молчание становится рациональной стратегией. Возможно, некоторые разработчики уже работают в несколько раз быстрее. Просто не обязательно для вас. Читать далее</description>
-      <pubDate>Sun, 18 Oct 2026 10:20:10 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1095794/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095794</guid>
+      <title>J Mascis has nothing better to do</title>
+      <link>https://www.theverge.com/entertainment/1012442/j-mascis-dinosaur-jr-fender-interview</link>
+      <description>Dinosaur Jr. frontman J Mascis is known as something of a slacker guitar god. He stands stoically onstage, barely moving, as he seemingly effortlessly works through deft guitar solos and lopsided riffs. Unfortunately, Mascis has developed a similar reputation as an interview subject, quietly sitting and offering deft nonanswers. That's not to say that Mascis […]</description>
+      <pubDate>Sun, 18 Oct 2026 14:00:00 +0000</pubDate>
+      <guid>https://www.theverge.com/entertainment/1012442/j-mascis-dinosaur-jr-fender-interview</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>Scientists discover a natural compound that could protect the brain from too much salt</title>
+      <link>https://www.sciencedaily.com/releases/2026/10/261017230032.htm</link>
+      <description>Eating too much salt may do more than raise blood pressure. It could also harm memory and social behavior. In a new study, Japanese researchers discovered that a soy-derived compound called LPC70 helped protect mice from several damaging effects of a high-salt diet. Mice given the supplement had lower blood pressure, better memory, and improved social interactions compared with mice consuming excess salt alone.</description>
+      <pubDate>Sun, 18 Oct 2026 13:46:34 +0000</pubDate>
+      <guid>https://www.sciencedaily.com/releases/2026/10/261017230032.htm</guid>
+      <category>All Top News -- ScienceDaily</category>
+    </item>
+    <item>
+      <title>Physicists create a bizarre new quantum state called a fractional fermi sea</title>
+      <link>https://www.sciencedaily.com/releases/2026/10/261018084644.htm</link>
+      <description>Physicists have discovered a strange new state of quantum matter in which ultracold atoms defy familiar organizational rules, forming a highly excited yet surprisingly orderly configuration called a "fractional Fermi sea." The discovery challenges established quantum theories and hints at exotic quasiparticles that scientists have dubbed potential "super-Fermions."</description>
+      <pubDate>Sun, 18 Oct 2026 13:37:21 +0000</pubDate>
+      <guid>https://www.sciencedaily.com/releases/2026/10/261018084644.htm</guid>
+      <category>All Top News -- ScienceDaily</category>
+    </item>
+    <item>
+      <title>7 способов применения нейронок</title>
+      <link>https://habr.com/ru/articles/1093652/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093652</link>
+      <description>Привет! Меня зовут Степан, я разработчик. Чуть больше года назад я открыл для себя агенсткую разработку, и мой мир теперь не будет прежним: я применяю ИИшницу не только в работе и не только в разработке, но ещё и в аналитике, тестировании, диагностике, и даже в хобби! Делюсь разными примерами её применения под катом Что у тебя там</description>
+      <pubDate>Sun, 18 Oct 2026 13:32:39 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1093652/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093652</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Cilium в качестве Load Balancer для локального Kind-кластера через Gateway API</title>
-      <link>https://habr.com/ru/articles/1095700/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095700</link>
-      <description>Kind + Gateway API + Cilium в качестве Load Balancer В этой статье я делюсь опытом развертывания и предлагаю заглянуть в настройку этой технологии — сетевой стек на базе Gateway API и Cilium, выступающего в роли балансировщика. Это практический стенд, демонструет возможности Cilium и декларативный подход к маршрутизации в локальной среде. Читать далее</description>
-      <pubDate>Sun, 18 Oct 2026 10:10:28 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1095700/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095700</guid>
+      <title>Новый мир наступает быстрее, чем мы успеваем испугаться</title>
+      <link>https://habr.com/ru/articles/1095856/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095856</link>
+      <description>Уже ни для кого не секрет, что ИИ развивается быстрее, чем мы успеваем это осознать. Наверняка что-то из этой статьи вы уже слышали, но не судите сразу. Читать далее</description>
+      <pubDate>Sun, 18 Oct 2026 13:28:32 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1095856/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095856</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Сутки из жизни G3A1SF: как я учу агента без backprop — днём он живёт, ночью учится</title>
-      <link>https://habr.com/ru/articles/1095790/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095790</link>
-      <description>Что происходит с агентом, который не решает одну задачу, а живёт — долго, в мире, который всё время меняется? Я собрал NOWA-Cognitive, когнитивную архитектуру без backprop, без глобальной функции потерь и без языковой модели в контуре решений: днём агент записывает опыт быстро и «начерно», а долговременную память переписывает ночью, во сне. Рассказываю, как это устроено, на примере одних суток одной шиншиллы из колонии — G3A1SF. Читать далее</description>
-      <pubDate>Sun, 18 Oct 2026 10:04:08 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1095790/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095790</guid>
+      <title>Trump says Google kisses his ass</title>
+      <link>https://www.theverge.com/policy/1013485/trump-google-kiss-my-ass</link>
+      <description>During a rally on Saturday, October 17th, in Highland Heights, Kentucky, Donald Trump bragged about how much more powerful and influential he was during his second term. While listing off his accomplishments, he mentioned his decision to rename the Gulf of Mexico and Lake Ontario. "This is a much more powerful term. I can do […]</description>
+      <pubDate>Sun, 18 Oct 2026 13:25:01 +0000</pubDate>
+      <guid>https://www.theverge.com/policy/1013485/trump-google-kiss-my-ass</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>Eating blueberries every day may have a surprising effect on your mood</title>
+      <link>https://www.sciencedaily.com/releases/2026/10/261017230028.htm</link>
+      <description>Eating blueberries every day could have surprising effects on mood, according to a small study that found greater reductions in depressive symptoms among older adults who consumed the fruit for three months. Researchers also detected changes in gut microbial enzymes, suggesting a possible gut-brain connection, although the mood benefits were not statistically significant compared with a placebo.</description>
+      <pubDate>Sun, 18 Oct 2026 13:22:24 +0000</pubDate>
+      <guid>https://www.sciencedaily.com/releases/2026/10/261017230028.htm</guid>
+      <category>All Top News -- ScienceDaily</category>
+    </item>
+    <item>
+      <title>J. W. – мечтатель, неудачник, законодатель моды</title>
+      <link>https://habr.com/ru/articles/1095526/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095526</link>
+      <description>Джулиан Волкович не первым додумался построить самолёт-биплан с соединёнными по концам крыльями. А додумавшись, не успел оставить заметного следа в истории авиации. И тем не менее каждый из многочисленных ныне рендеров самолётов с фантастическим соединённым крылом (joined wing) обязан своим появлением именно ему. Джулиан Волкович родился в Великобритании, но в 1958 г. эмигрировал в США. Он работал в «Конвере», «Воуте» и других аэрокосмических фирмах, где приобрёл богатый опыт аэродинамического п</description>
+      <pubDate>Sun, 18 Oct 2026 13:20:25 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1095526/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095526</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>YPtun</title>
-      <link>https://habr.com/ru/articles/1095778/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095778</link>
-      <description>Xray, sing‑box, Hysteria2, AmneziaWG, TrustTunnel, TURN‑транспорт, MasterDNS, OpenFlux и snolc в одном приложении, с одним Go‑рантаймом на весь процесс. А ещё VLESS с Reality и XHTTP, VMess, Trojan, Shadowsocks, NaiveProxy и WireGuard, всё под Android, Windows, Linux и iOS. Внутри: почему два gomobile‑AAR роняют процесс, как bsdiff упёрся в 2 ГиБ, почему пинг в уведомлении всегда показывал ноль и как перенести данные на новый applicationId, чтобы ими не воспользовалось чужое приложение. Читать д</description>
-      <pubDate>Sun, 18 Oct 2026 09:20:05 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1095778/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095778</guid>
+      <title>Методология оптимизации игр, или как 3 дня работы над тестовым стендом дало больше FPS, чем месяц написания кода</title>
+      <link>https://habr.com/ru/articles/1095846/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095846</link>
+      <description>Я работал месяц над переписыванием физического движка и оптимизацией отрисовки и получил ошибочный успех. Спустя несколько месяцев я вернулся с другим подходом, который позволил мне улучшить производительность в 2 раза за 5 дней, и подчерпнуть много нового о правильном подходе к оптимизации игр Читать далее</description>
+      <pubDate>Sun, 18 Oct 2026 13:18:24 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1095846/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095846</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>«Жадные» гиперскейлеры, старые столбы и другие неочевидные причины, по которым в разных странах «не летает» интернет</title>
-      <link>https://habr.com/ru/companies/vasexperts/articles/1095770/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095770</link>
-      <description>Единого подхода к тому, что считать широкополосным доступом к интернету (ШПД), не существует — требования отличаются от страны к стране. Различаются и проблемы, мешающие расширять покрытие: где-то все дело в изношенной инфраструктуре, на базе которой приходится строить новые сети, а где-то палки в колеса операторов вставляют (внимание!) железнодорожные компании. Посмотрим, с какими необычными трудностями сталкиваются телекомы в США, ЕС, Канаде и других странах, как можно их обойти, и какие планы</description>
-      <pubDate>Sun, 18 Oct 2026 09:01:03 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/vasexperts/articles/1095770/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095770</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Раньше были основой, а потом пропали без следа. Какие мобильные ОС мы потеряли</title>
-      <link>https://habr.com/ru/companies/timeweb/articles/1093928/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093928</link>
-      <description>Пару недель назад мы с вами погрузились в беглый, но ностальгичный разбор потерянных форматов в индустрии техники, и там я оставил небольшой намек, что к этому разговору мы еще вернемся. Только с немного другой стороны. Ладно форматы, а вы помните свой первый смартфон? Если мы с вами примерно одного возраста, то, скорее всего, это что-то на Symbian, да? А помните, каким он был крутым для своего времени? Вот и предлагаю вспомнить. Мы потеряли эти ОС благодаря вездесущей стандартизации… Или причин</description>
-      <pubDate>Sun, 18 Oct 2026 08:05:59 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/timeweb/articles/1093928/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093928</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Сверка таблиц в PostgreSQL, или О том, нужны ли для этого специальные утилиты</title>
-      <link>https://habr.com/ru/companies/tantor/articles/1095702/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095702</link>
-      <description>Лет десять назад я делал инструмент сверки таблиц для мультимастера — крайне неэффективным способом: брал снапшот и под ним просто шёл по таблице, матчил строки. С тех пор задача стала только актуальнее : одни и те же данные всё чаще живут в разных дата-центрах, на разных инстансах с надёжным failover’ом, и рано или поздно приходится задумываться о проверке их идентичности. Готовые инструменты для сравнения таблиц в мире Postgres есть — pg_comparator , pgCompare , ACE . Однако давайте сегодня по</description>
-      <pubDate>Sun, 18 Oct 2026 07:47:51 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/tantor/articles/1095702/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095702</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Shelter на Android: что видно изнутри отдельного профиля?</title>
-      <link>https://habr.com/ru/articles/1094998/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094998</link>
-      <description>Казалось бы, если вынести российские приложения в отдельный профиль Shelter и исключить их из VPN-маршрутизации, проблема обнаружения VPN на Андроиде должна исчезнуть. У меня такая схема действительно работала — пока осенью не начались странности с банковскими приложениями и VK. Но что на самом деле видит приложение из своего изолированного профиля? Я решил проверить это экспериментально: шесть сценариев на Android, диагностика RKNHardering и сравнение результатов. Некоторые выводы оказались вес</description>
-      <pubDate>Sun, 18 Oct 2026 07:29:31 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1094998/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094998</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Превращаем Antminer в ИИ‑ускоритель: асинхронно‑пакетный оркестратор и троичная логика против NVIDIA</title>
-      <link>https://habr.com/ru/articles/1095768/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095768</link>
-      <description>Архитектура ZAP: Как обойти кремниевый тупик, убрать «бутылочное горлышко» Фон Неймана и запустить ИИ на адиабатических фазовых коллизиях Сегодня индустрия искусственного интеллекта упёрлась в очевидный технологический и энергетический тупик. Попытки масштабировать классические кластеры на базе бинарного кремния (NVIDIA H100/B200) приводят к экспоненциальному росту энергопотребления. Дата‑центры требуют мегаватты мощности. Причина этого — не плохой софт, а фундаментальные ограничения: физический</description>
-      <pubDate>Sun, 18 Oct 2026 07:12:55 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1095768/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095768</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Я пустил ИИ-агента на рабочий кластер 1С. Он нашёл 119 ГБ srvinfo, бэкап-призрак и не нашёл тормозов</title>
-      <link>https://habr.com/ru/articles/1095764/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095764</link>
-      <description>«Утром никто не может зайти: начало сеанса запрещено». «Пользователь ушёл домой ещё вчера, а его сеанс до сих пор висит и держит лицензию». «rphost опять съел всю память, перезагружаем сервер, как каждую неделю». Если вы хоть раз администрировали 1С, у вас сейчас дёрнулся глаз. А потом я сделал то, от чего у любого безопасника поднимется давление: посадил ИИ-агента за большой рабочий кластер. Без RDP, из обычного чата. В тестовую базу, не паникуйте, но кластер настоящий: 16 баз, два сервера, 512</description>
-      <pubDate>Sun, 18 Oct 2026 06:53:55 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1095764/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095764</guid>
+      <title>Компьютер в кармане: вспоминаем легендарный Sony CLIE PEG-UX50</title>
+      <link>https://habr.com/ru/companies/ruvds/articles/1093302/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093302</link>
+      <description>В 2003 году я мечтал о ноутбуке, но позволить себе его не мог: такие девайсы были слишком дорогими, к тому же — тяжёлыми и непрактичными. Приходилось довольствоваться КПК на Windows CE : в сочетании с портативной раздвижной клавиатурой аппарат вполне справлялся со своей основной задачей: набор и редактирование текста. Если бы я знал, что в том же 2003 году на рынке появился компактный, лёгкий, удобный и не слишком дорогой карманный компьютер в форм-факторе ноутбука, я бы, возможно, повременил с </description>
+      <pubDate>Sun, 18 Oct 2026 13:01:22 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/ruvds/articles/1093302/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093302</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
   </channel>
