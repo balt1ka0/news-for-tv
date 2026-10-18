@@ -5,87 +5,87 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Sun, 18 Oct 2026 05:28:51 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 10:30:03 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Как индексация строк изменила систему типов HydraScript</title>
-      <link>https://habr.com/ru/articles/1095744/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095744</link>
-      <description>В HydraScript мне понадобились две привычные операции со строками: получить длину и обратиться по индексу. Массивы уже умели и то и другое. Чтобы научить этому строки, нужно было поправить несколько мест в семантическом анализаторе: каждое по-своему решало, что разрешено делать с типом. Заодно появился повод разобраться, почему эти правила оказались именно там. Тип строки в интерпретаторе был, а за списком доступных ему операций приходилось идти в обработчики разных выражений. Добавляешь возможн</description>
-      <pubDate>Sat, 17 Oct 2026 23:59:04 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1095744/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095744</guid>
+      <title>ИИ не ускоряет разработчиков. Он увеличивает разрыв между ними</title>
+      <link>https://habr.com/ru/articles/1095794/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095794</link>
+      <description>Представим, что разработчик научился выполнять дневную норму за два часа. Что он получит: премию, повышение или ещё четыре дневные нормы? Если приз за скорость — новая норма, молчание становится рациональной стратегией. Возможно, некоторые разработчики уже работают в несколько раз быстрее. Просто не обязательно для вас. Читать далее</description>
+      <pubDate>Sun, 18 Oct 2026 10:20:10 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1095794/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095794</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>L×Box: от VPN‑клиента до экосистемы управления сетевым трафиком</title>
-      <link>https://habr.com/ru/articles/1095724/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095724</link>
-      <description>Я рассказываю тут про развитие VPN-клиента L×Box, его ядра и десктоп-версии. Новость месяца: L×Box уже доступен в Google Play Проект быстро развивается: пока я дописывал раздел про форк, ядро проехало три минорных релиза. Пока описывал фичесет приложения, вышло 27 релизов. Так что все технологические фишки тут не смогу описать — только главное и интересное, и поговорим про позиционирование! Читать далее</description>
-      <pubDate>Sat, 17 Oct 2026 21:32:07 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1095724/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095724</guid>
+      <title>Cilium в качестве Load Balancer для локального Kind-кластера через Gateway API</title>
+      <link>https://habr.com/ru/articles/1095700/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095700</link>
+      <description>Kind + Gateway API + Cilium в качестве Load Balancer В этой статье я делюсь опытом развертывания и предлагаю заглянуть в настройку этой технологии — сетевой стек на базе Gateway API и Cilium, выступающего в роли балансировщика. Это практический стенд, демонструет возможности Cilium и декларативный подход к маршрутизации в локальной среде. Читать далее</description>
+      <pubDate>Sun, 18 Oct 2026 10:10:28 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1095700/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095700</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Meta removes language that raised scraping and AI training concerns</title>
-      <link>https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/</link>
-      <description>A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.</description>
-      <pubDate>Sat, 17 Oct 2026 21:31:32 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>TikTok permanently bans ‘Musk’ documentary advertising account</title>
-      <link>https://techcrunch.com/2026/10/17/tiktok-permanently-bans-musk-documentary-advertising-account/</link>
-      <description>A four-hour documentary about Elon Musk continues to meet resistance from social media platforms.</description>
-      <pubDate>Sat, 17 Oct 2026 20:55:52 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/17/tiktok-permanently-bans-musk-documentary-advertising-account/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>Anthropic says its workforce has become less junior and is spending more time in meetings</title>
-      <link>https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/</link>
-      <description>The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.</description>
-      <pubDate>Sat, 17 Oct 2026 20:21:19 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>TikTok bans Musk documentary account</title>
-      <link>https://www.theverge.com/tech/1013453/tiktok-bans-alex-gibneys-musk-documentary</link>
-      <description>Just ahead of the wider release of Alex Gibney's Musk documentary, TikTok has banned the film's social media account from its platform. TikTok did not immediately respond to a request for comment. According to The Hollywood Reporter, the film's distributor, Bleecker Street, was informed Friday afternoon that a "permanent suspension" was imminent. Bleecker Street has […]</description>
-      <pubDate>Sat, 17 Oct 2026 19:32:23 +0000</pubDate>
-      <guid>https://www.theverge.com/tech/1013453/tiktok-bans-alex-gibneys-musk-documentary</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>DBML Diagram 1.0.1: схемы БД в продуктах от JetBrains, интеграция с dbdiagram.io и ваши идеи</title>
-      <link>https://habr.com/ru/articles/1095714/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095714</link>
-      <description>Привет, Хабр! На связи Boost for Java . В первой статье о DBML Diagram мы рассказали, зачем сделали open source плагин для работы с DBML прямо в IntelliJ IDEA. Тогда основой были редактор и диаграмма рядом с кодом, а интеграция с dbdiagram.io оставалась в планах. Сейчас в JetBrains Marketplace доступна версия 1.0.1 . С момента первой публикации появились обмен схемами с dbdiagram.io , экспорт DDL для трёх СУБД, ручная настройка расположения таблиц и связей, а также проверка отношений между табли</description>
-      <pubDate>Sat, 17 Oct 2026 19:17:51 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1095714/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095714</guid>
+      <title>Сутки из жизни G3A1SF: как я учу агента без backprop — днём он живёт, ночью учится</title>
+      <link>https://habr.com/ru/articles/1095790/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095790</link>
+      <description>Что происходит с агентом, который не решает одну задачу, а живёт — долго, в мире, который всё время меняется? Я собрал NOWA-Cognitive, когнитивную архитектуру без backprop, без глобальной функции потерь и без языковой модели в контуре решений: днём агент записывает опыт быстро и «начерно», а долговременную память переписывает ночью, во сне. Рассказываю, как это устроено, на примере одних суток одной шиншиллы из колонии — G3A1SF. Читать далее</description>
+      <pubDate>Sun, 18 Oct 2026 10:04:08 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1095790/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095790</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Как можно понять то, что не понимал даже Фейнман</title>
-      <link>https://habr.com/ru/articles/1095704/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095704</link>
-      <description>Это новая редакция моей старой статьи. Я перечитал её и решил, что всё изложено слишком кратко, слишком сумбурно, а кое-где возможно и не совсем верно. Фейнман утверждал «думаю, я смело могу сказать, что никто не понимает квантовую механику». Пожалуй, в то время, когда это было сказано, он был прав. И пожалуй, скажи он это сейчас, он бы ошибся. Наука и философия не стояли на месте и я убеждён, что то время, когда квантовую механику может при желании понять каждый, настало. Читать далее</description>
-      <pubDate>Sat, 17 Oct 2026 18:50:30 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1095704/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095704</guid>
+      <title>YPtun</title>
+      <link>https://habr.com/ru/articles/1095778/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095778</link>
+      <description>Xray, sing‑box, Hysteria2, AmneziaWG, TrustTunnel, TURN‑транспорт, MasterDNS, OpenFlux и snolc в одном приложении, с одним Go‑рантаймом на весь процесс. А ещё VLESS с Reality и XHTTP, VMess, Trojan, Shadowsocks, NaiveProxy и WireGuard, всё под Android, Windows, Linux и iOS. Внутри: почему два gomobile‑AAR роняют процесс, как bsdiff упёрся в 2 ГиБ, почему пинг в уведомлении всегда показывал ноль и как перенести данные на новый applicationId, чтобы ими не воспользовалось чужое приложение. Читать д</description>
+      <pubDate>Sun, 18 Oct 2026 09:20:05 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1095778/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095778</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Replit makes OpenAI its default over Anthropic, CEO says</title>
-      <link>https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/</link>
-      <description>Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.</description>
-      <pubDate>Sat, 17 Oct 2026 18:48:08 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/</guid>
-      <category>TechCrunch</category>
+      <title>«Жадные» гиперскейлеры, старые столбы и другие неочевидные причины, по которым в разных странах «не летает» интернет</title>
+      <link>https://habr.com/ru/companies/vasexperts/articles/1095770/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095770</link>
+      <description>Единого подхода к тому, что считать широкополосным доступом к интернету (ШПД), не существует — требования отличаются от страны к стране. Различаются и проблемы, мешающие расширять покрытие: где-то все дело в изношенной инфраструктуре, на базе которой приходится строить новые сети, а где-то палки в колеса операторов вставляют (внимание!) железнодорожные компании. Посмотрим, с какими необычными трудностями сталкиваются телекомы в США, ЕС, Канаде и других странах, как можно их обойти, и какие планы</description>
+      <pubDate>Sun, 18 Oct 2026 09:01:03 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/vasexperts/articles/1095770/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095770</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Русский язык в программировании. РУСИ++</title>
-      <link>https://habr.com/ru/articles/1069968/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1069968</link>
-      <description>Статья посвящена системному программированию на русском языке с C-подобным синтаксисом. Компилятор для языков программирования РУСИ, РУСИ++ и объектный-РУСИ создан путём модификации и пересборки компилятора GCC 14й версии с превращением его в полноценный русско-английский билингвальный компилятор. Отдельно дана инструкция модификации русской раскладки клавиатуры для добавления в неё фигурных, угловых и квадратных скобок - дабы не переключаться и не терять поток. Читать::Далее();</description>
-      <pubDate>Sat, 17 Oct 2026 18:18:11 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1069968/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1069968</guid>
+      <title>Раньше были основой, а потом пропали без следа. Какие мобильные ОС мы потеряли</title>
+      <link>https://habr.com/ru/companies/timeweb/articles/1093928/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093928</link>
+      <description>Пару недель назад мы с вами погрузились в беглый, но ностальгичный разбор потерянных форматов в индустрии техники, и там я оставил небольшой намек, что к этому разговору мы еще вернемся. Только с немного другой стороны. Ладно форматы, а вы помните свой первый смартфон? Если мы с вами примерно одного возраста, то, скорее всего, это что-то на Symbian, да? А помните, каким он был крутым для своего времени? Вот и предлагаю вспомнить. Мы потеряли эти ОС благодаря вездесущей стандартизации… Или причин</description>
+      <pubDate>Sun, 18 Oct 2026 08:05:59 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/timeweb/articles/1093928/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093928</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Сверка таблиц в PostgreSQL, или О том, нужны ли для этого специальные утилиты</title>
+      <link>https://habr.com/ru/companies/tantor/articles/1095702/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095702</link>
+      <description>Лет десять назад я делал инструмент сверки таблиц для мультимастера — крайне неэффективным способом: брал снапшот и под ним просто шёл по таблице, матчил строки. С тех пор задача стала только актуальнее : одни и те же данные всё чаще живут в разных дата-центрах, на разных инстансах с надёжным failover’ом, и рано или поздно приходится задумываться о проверке их идентичности. Готовые инструменты для сравнения таблиц в мире Postgres есть — pg_comparator , pgCompare , ACE . Однако давайте сегодня по</description>
+      <pubDate>Sun, 18 Oct 2026 07:47:51 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/tantor/articles/1095702/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095702</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Shelter на Android: что видно изнутри отдельного профиля?</title>
+      <link>https://habr.com/ru/articles/1094998/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094998</link>
+      <description>Казалось бы, если вынести российские приложения в отдельный профиль Shelter и исключить их из VPN-маршрутизации, проблема обнаружения VPN на Андроиде должна исчезнуть. У меня такая схема действительно работала — пока осенью не начались странности с банковскими приложениями и VK. Но что на самом деле видит приложение из своего изолированного профиля? Я решил проверить это экспериментально: шесть сценариев на Android, диагностика RKNHardering и сравнение результатов. Некоторые выводы оказались вес</description>
+      <pubDate>Sun, 18 Oct 2026 07:29:31 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1094998/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094998</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Превращаем Antminer в ИИ‑ускоритель: асинхронно‑пакетный оркестратор и троичная логика против NVIDIA</title>
+      <link>https://habr.com/ru/articles/1095768/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095768</link>
+      <description>Архитектура ZAP: Как обойти кремниевый тупик, убрать «бутылочное горлышко» Фон Неймана и запустить ИИ на адиабатических фазовых коллизиях Сегодня индустрия искусственного интеллекта упёрлась в очевидный технологический и энергетический тупик. Попытки масштабировать классические кластеры на базе бинарного кремния (NVIDIA H100/B200) приводят к экспоненциальному росту энергопотребления. Дата‑центры требуют мегаватты мощности. Причина этого — не плохой софт, а фундаментальные ограничения: физический</description>
+      <pubDate>Sun, 18 Oct 2026 07:12:55 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1095768/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095768</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Я пустил ИИ-агента на рабочий кластер 1С. Он нашёл 119 ГБ srvinfo, бэкап-призрак и не нашёл тормозов</title>
+      <link>https://habr.com/ru/articles/1095764/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095764</link>
+      <description>«Утром никто не может зайти: начало сеанса запрещено». «Пользователь ушёл домой ещё вчера, а его сеанс до сих пор висит и держит лицензию». «rphost опять съел всю память, перезагружаем сервер, как каждую неделю». Если вы хоть раз администрировали 1С, у вас сейчас дёрнулся глаз. А потом я сделал то, от чего у любого безопасника поднимется давление: посадил ИИ-агента за большой рабочий кластер. Без RDP, из обычного чата. В тестовую базу, не паникуйте, но кластер настоящий: 16 баз, два сервера, 512</description>
+      <pubDate>Sun, 18 Oct 2026 06:53:55 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1095764/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095764</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
   </channel>
