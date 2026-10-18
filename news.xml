@@ -5,9 +5,49 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Sun, 18 Oct 2026 17:51:41 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 20:10:59 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mister Organ is one of the most unsettling documentaries I’ve ever seen</title>
+      <link>https://www.theverge.com/entertainment/1013545/mister-organ-horror-documentary-review</link>
+      <description>Mister Organ doesn't reach the level of societal horror of The Act of Killing or the creepypasta-meets-true-crime gruesomeness of Beware the Slenderman, but there's something deeply unsettling about Michael Organ and his intimate campaign of terror against everyone who enters his life. Mister Organ is a documentary by David Farrier, an Auckland, New Zealand journalist. […]</description>
+      <pubDate>Sun, 18 Oct 2026 19:30:00 +0000</pubDate>
+      <guid>https://www.theverge.com/entertainment/1013545/mister-organ-horror-documentary-review</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>Everyone’s watching the Elizabeth Holmes documentary ‘You Can See Everything’</title>
+      <link>https://techcrunch.com/2026/10/18/everyones-watching-the-elizabeth-holmes-documentary-you-can-see-everything/</link>
+      <description>"You Can See Everything" is having the second biggest opening weekend ever for a documentary film.</description>
+      <pubDate>Sun, 18 Oct 2026 19:03:38 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/18/everyones-watching-the-elizabeth-holmes-documentary-you-can-see-everything/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>Приключения вайбкодера в Ворде, или Как две нейронки не осилили простенькую задачку</title>
+      <link>https://habr.com/ru/articles/1095958/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095958</link>
+      <description>Мой коллега, физик-теоретик, попросил меня помочь с оформлением своих научных отчетов и статей. Пишет он эти документы в обычном Ворде с использованием программы под названием MathType - это, по-простоиму, такой визуальный LaTeX для написания уравнений, штука достаточно удобная, а главное - она сама и номера уравнений вставляет и чертовски здорово оперирует с ними, даже если их переносишь из одного документа в другой. Проблема возникла, когда он начал использовать нейронку (Copilot) для “вычистк</description>
+      <pubDate>Sun, 18 Oct 2026 18:50:33 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1095958/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095958</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Коммиттер PostgreSQL: LLM-ревью нашло в версии 19 больше ошибок, чем успели исправить</title>
+      <link>https://habr.com/ru/articles/1095950/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095950</link>
+      <description>PostgreSQL 19 выйдет 19 ноября. Раньше релиз ждали в конце сентября или начале октября. До переноса из версии убрали 8–10 крупных функций. Один из ведущих коммиттеров проекта, Питер Эйзентраут из EDB, частично объясняет это проверкой кода с помощью языковых моделей. Читать далее</description>
+      <pubDate>Sun, 18 Oct 2026 18:36:06 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1095950/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095950</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>A woman was arrested in Philly for blocking a delivery robot</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot</link>
+      <description>Carolyn Marvin was arrested and charged with disorderly conduct after blocking the path of an Uber delivery robot and refusing to get out of the way. Marvin told Philadelphia's ABC13 "I know they're taking the jobs of human delivery workers and so, I have been protesting them whenever I saw them by standing in front […]</description>
+      <pubDate>Sun, 18 Oct 2026 18:28:10 +0000</pubDate>
+      <guid>https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot</guid>
+      <category>The Verge</category>
+    </item>
     <item>
       <title>Заводам не нужны 3,5 миллиона человек?</title>
       <link>https://habr.com/ru/articles/1095930/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095930</link>
@@ -35,7 +75,7 @@
     <item>
       <title>Disney agrees to hire the majority of Character.AI’s workforce</title>
       <link>https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/</link>
-      <description>After chatbot startup Character.AI filed for bankruptcy earlier this week, many of its employees will have the opportunity to take jobs at Disney. Character.AI’s former CEO Karandeep Anand recently became the entertainment giant’s first CTO, and the startup previously said that Disney had agreed to acquire some of its assets for $20 million. A legal […]</description>
+      <description>The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer.</description>
       <pubDate>Sun, 18 Oct 2026 16:30:00 +0000</pubDate>
       <guid>https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/</guid>
       <category>TechCrunch</category>
@@ -47,46 +87,6 @@
       <pubDate>Sun, 18 Oct 2026 16:27:51 +0000</pubDate>
       <guid>https://www.theverge.com/policy/1013521/video-game-ownership-bill-congress-power-to-the-players-act</guid>
       <category>The Verge</category>
-    </item>
-    <item>
-      <title>Ouroboros, очередной инструмент для вашего harness</title>
-      <link>https://habr.com/ru/articles/1095918/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095918</link>
-      <description>Harness - построение инфры вокруг LLM таким образом, чтобы man in the loop (человек в процессе поддержки LLM) отсутствовал. Я решил поэкспериментировать некоторое время назад, идея была очень простой - дать агенту возможность дебажить и исследовать написанный код через логгирование до того, как он попадет в чистовик. Дисклеймер: инструмент пилил для себя, результатом доволен (таблица с результатами в конце статьи), для локальных моделей буст получил, для агентов клода тоже, если есть идеи как до</description>
-      <pubDate>Sun, 18 Oct 2026 16:22:18 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1095918/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095918</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Как я делаю Dungeon Cult: 13 нейросетей снаружи, игровой ИИ внутри</title>
-      <link>https://habr.com/ru/articles/1095882/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095882</link>
-      <description>Как я строю Dungeon Cult с помощью 13 ИИ-моделей и сервисов: что оставил для кода, 3D и звука. Внутри игры — свои правила для хранителя и существ. Рассказываю про копаемое подземелье, локальную озвучку, карту разработки и тестовый бой 45 на 45. Читать далее</description>
-      <pubDate>Sun, 18 Oct 2026 16:10:02 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1095882/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095882</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>TechCrunch Mobility: Rivian’s next act</title>
-      <link>https://techcrunch.com/2026/10/18/techcrunch-mobility-rivians-next-act/</link>
-      <description>Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.</description>
-      <pubDate>Sun, 18 Oct 2026 16:05:00 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/18/techcrunch-mobility-rivians-next-act/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>Звёздные хороводы в Hen 2–10</title>
-      <link>https://habr.com/ru/articles/1095908/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095908</link>
-      <description>Привет, Хабр. Ранее я пару раз пытался рассуждать здесь о том, что могут представлять собой объекты, расположенные в центрах галактик и характеризуемые как сверхмассивные чёрные дыры . Поскольку мы не наблюдаем эти объекты непосредственно, а судим о них по воздействию на окружающее пространство, чёрные дыры в центрах галактик могут проявлять причудливые свойства, например, становиться основным двигателем звездообразования, если очень крупная чёрная дыра располагается в небольшой галактике. Именн</description>
-      <pubDate>Sun, 18 Oct 2026 16:02:34 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1095908/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095908</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Я потерял пароли всех пользователей, и это был не взлом. Как мой сайт пережил аварию Яндекс Облака</title>
-      <link>https://habr.com/ru/articles/1095766/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095766</link>
-      <description>Всем привет! Я делаю Workaem, агрегатор IT-вакансий. Здесь уже были две статьи про него: что видно, когда вакансии лежат в своей базе ), и откуда приходят пользователи . Третью я собирался писать совсем про другое. С 8 по 14 октября сайт не открывался вообще. Не тормозил и не падал с ошибкой, а просто не отвечал. Дата-центр, в котором жили сервер и база, остановился, и шесть дней я вытаскивал данные из облака в аварийном режиме и переносил все к другому провайдеру. Пишу по горячим следам, пока п</description>
-      <pubDate>Sun, 18 Oct 2026 16:00:36 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1095766/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095766</guid>
-      <category>Все публикации подряд на Хабре</category>
     </item>
   </channel>
 </rss>
