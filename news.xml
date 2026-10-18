@@ -5,9 +5,73 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Sun, 18 Oct 2026 20:10:59 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 22:48:40 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>67 логических ошибок</title>
+      <link>https://habr.com/ru/articles/1095982/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095982</link>
+      <description>Достаточно, часто при коммуникации Вам, мой читатель, встречались манипуляции из разряда "сегодня в школу не пошел, завтра в университет, потом на работу не устроишься и тебя аннигилируют на Солнце", ну или "мир существует потому что есть растения, растения существуют потому что есть мир" и прочие такие приколы. Нутро подсказывает, что что-то тут не так, и есть инструменты позволяющие разобраться в этом лучше. Причём стоит понимать, что логика она нужна и может быть везде: в речи, в программиров</description>
+      <pubDate>Sun, 18 Oct 2026 22:41:11 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1095982/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095982</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>A Savannah police officer gave her Flock login to her ICE agent husband</title>
+      <link>https://www.theverge.com/policy/1013573/spd-officer-fired-flock-ice-husband</link>
+      <description>Now, former Savannah police officer Amber Harpe was fired in August following a department investigation that found she had shared her Flock login information with her husband, Tyler Harpe, an ICE agent. SPD does not share its Flock data with ICE and said sharing access to the system violated the department's security protocols. While he […]</description>
+      <pubDate>Sun, 18 Oct 2026 22:20:53 +0000</pubDate>
+      <guid>https://www.theverge.com/policy/1013573/spd-officer-fired-flock-ice-husband</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>Мой агент получил высокий балл. Проверяю, что он сделал</title>
+      <link>https://habr.com/ru/articles/1091900/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1091900</link>
+      <description>Как проверить, что диалоговый агент выполнил задачу, если бенчмарк поставил высокий балл? В первой пробе мой агент получил награду 1 на всех пяти задачах. Потом заглушка без единого вызова инструмента набрала 34% на полном наборе. Я разрабатываю собственную экспериментальную систему и называю её ELM. В её диалоговом варианте код предлагает действия, нейросеть выбирает из них, а код исполняет вызов и собирает ответ. В проверяемом здесь режиме нейросеть не пишет текст ответа. Чтобы понять, что сто</description>
+      <pubDate>Sun, 18 Oct 2026 21:30:57 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1091900/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1091900</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Замена Lens, которую целиком написала модель: что получилось и где мы проигрываем</title>
+      <link>https://habr.com/ru/articles/1095984/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095984</link>
+      <description>Sextant — бесплатный open-source клиент Kubernetes на Rust и Tauri 2: всё, что вы делали в Lens, но без аккаунта, подписки и телеметрии. Его код целиком сгенерировал ИИ (Claude Code). Человек ставил задачи, принимал архитектурные решения и проверял каждое изменение, а тесты прогонялись многократно. В наших замерах Sextant запускается в 4–7 раз быстрее Freelens и Lens и занимает примерно вдвое меньше памяти. Есть встроенный MCP-сервер, через который AI-агента можно пустить в кластер только с выда</description>
+      <pubDate>Sun, 18 Oct 2026 21:28:00 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1095984/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095984</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>No agenda, no rush, no leaving San Francisco: Benchmark’s partners on investing in a frenzied market</title>
+      <link>https://techcrunch.com/2026/10/18/no-agenda-no-rush-no-leaving-san-francisco-benchmarks-partners-on-investing-in-a-frenzied-market/</link>
+      <description>Benchmark may have grown its funds and swapped out some partners, but onstage the five who are left sounded like friends who just happen to be running one of the Valley’s most storied firms</description>
+      <pubDate>Sun, 18 Oct 2026 21:00:00 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/18/no-agenda-no-rush-no-leaving-san-francisco-benchmarks-partners-on-investing-in-a-frenzied-market/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’</title>
+      <link>https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/</link>
+      <description>Anthropic said that it will commit 5% of its shares to the fund.</description>
+      <pubDate>Sun, 18 Oct 2026 20:37:40 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>Как превратить Cursor в долговременную память проекта: LLM Wiki, QMD и Cursor CLI</title>
+      <link>https://habr.com/ru/articles/1095974/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095974</link>
+      <description>Большой контекст в Cursor спасает ровно до тех пор, пока проект живёт дольше одного чата: требования, SQL-гипотезы и причины отброшенных решений быстро расползаются по сессиям. В статье разбираю практику внедрения концепции LLM Wiki Андрея Карпати в Cursor: как устроен локальный гибридный поиск через QMD, почему связка внешнего agent harness с локальной моделью оказалась избыточной, и как разделить ответственность между project skills и детерминированными bash-обёртками вокруг Cursor CLI. Внутри</description>
+      <pubDate>Sun, 18 Oct 2026 20:18:16 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1095974/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095974</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Builder ELT — open‑source инструмент для построения потоков данных</title>
+      <link>https://habr.com/ru/articles/1095970/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095970</link>
+      <description>Builder ELT — open-source ELT-приложение, которое позволяет визуально создавать потоки загрузки, объединять их в цепочки и запускать по расписанию. Преобразования выполняются средствами целевой базы данных на нативном SQL, а Python используется для работы с нестандартными источниками и API. Приложение не хранит в себе пользовательские данные. Основная цель создать стандартизированное решение, в котором можно было бы быстро создать ELT поток, не теряя гибкость SQL трансформаций. В итоге любой ана</description>
+      <pubDate>Sun, 18 Oct 2026 20:18:12 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1095970/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095970</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
     <item>
       <title>Mister Organ is one of the most unsettling documentaries I’ve ever seen</title>
       <link>https://www.theverge.com/entertainment/1013545/mister-organ-horror-documentary-review</link>
@@ -23,70 +87,6 @@
       <pubDate>Sun, 18 Oct 2026 19:03:38 +0000</pubDate>
       <guid>https://techcrunch.com/2026/10/18/everyones-watching-the-elizabeth-holmes-documentary-you-can-see-everything/</guid>
       <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>Приключения вайбкодера в Ворде, или Как две нейронки не осилили простенькую задачку</title>
-      <link>https://habr.com/ru/articles/1095958/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095958</link>
-      <description>Мой коллега, физик-теоретик, попросил меня помочь с оформлением своих научных отчетов и статей. Пишет он эти документы в обычном Ворде с использованием программы под названием MathType - это, по-простоиму, такой визуальный LaTeX для написания уравнений, штука достаточно удобная, а главное - она сама и номера уравнений вставляет и чертовски здорово оперирует с ними, даже если их переносишь из одного документа в другой. Проблема возникла, когда он начал использовать нейронку (Copilot) для “вычистк</description>
-      <pubDate>Sun, 18 Oct 2026 18:50:33 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1095958/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095958</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Коммиттер PostgreSQL: LLM-ревью нашло в версии 19 больше ошибок, чем успели исправить</title>
-      <link>https://habr.com/ru/articles/1095950/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095950</link>
-      <description>PostgreSQL 19 выйдет 19 ноября. Раньше релиз ждали в конце сентября или начале октября. До переноса из версии убрали 8–10 крупных функций. Один из ведущих коммиттеров проекта, Питер Эйзентраут из EDB, частично объясняет это проверкой кода с помощью языковых моделей. Читать далее</description>
-      <pubDate>Sun, 18 Oct 2026 18:36:06 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1095950/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095950</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>A woman was arrested in Philly for blocking a delivery robot</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot</link>
-      <description>Carolyn Marvin was arrested and charged with disorderly conduct after blocking the path of an Uber delivery robot and refusing to get out of the way. Marvin told Philadelphia's ABC13 "I know they're taking the jobs of human delivery workers and so, I have been protesting them whenever I saw them by standing in front […]</description>
-      <pubDate>Sun, 18 Oct 2026 18:28:10 +0000</pubDate>
-      <guid>https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>Заводам не нужны 3,5 миллиона человек?</title>
-      <link>https://habr.com/ru/articles/1095930/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095930</link>
-      <description>В этом материале попробую окунуться в данные Росстата, прогнозы Минэкономразвития и несколько собственных сценариев до 2034 года, чтобы разобраться в том, сколько может понадобится российским обрабатывающим заводам работников . Сами заводы жалуются на нехватку работников, но при этом в будущем им могут вообще не понадобиться 3,5 миллиона дополнительных человек. Если промышленность будет выпускать на треть больше продукции, то кажется логичным, что и людей им потребуется на треть больше, но за по</description>
-      <pubDate>Sun, 18 Oct 2026 17:32:19 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1095930/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095930</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Биткорд мессенджер: как запустить собственный музыкальный HLS — сервис?</title>
-      <link>https://habr.com/ru/articles/1095866/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095866</link>
-      <description>В этой статье речь пойдёт о том, как разработать и запустить собственный аудиосервис на площадке Bitcord Open Network . Напомню, что Bitcord по сути, это небольшая открытая социальная платформа, выполненная в виде приложения для смартфонов и работающая на базе клиент-серверной архитектуры. Здесь можно общаться с друзьями и коллегами, создавать публичные и частные каналы и даже запускать сторонние сервисы. Приложение Bitcord занимает очень мало места. Размер его установочного пакета составляет чу</description>
-      <pubDate>Sun, 18 Oct 2026 17:14:45 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1095866/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095866</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Насколько сильно Random State влияет на качество ML-модели? Проверяем на 100 экспериментах</title>
-      <link>https://habr.com/ru/articles/1095924/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095924</link>
-      <description>Представим ситуацию: мы обучили модель, получили Accuracy 77% и решили немного изменить параметры. Запустили обучение повторно — теперь получилось 72%. Читать далее</description>
-      <pubDate>Sun, 18 Oct 2026 16:37:37 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1095924/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095924</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Disney agrees to hire the majority of Character.AI’s workforce</title>
-      <link>https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/</link>
-      <description>The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer.</description>
-      <pubDate>Sun, 18 Oct 2026 16:30:00 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>Video game ownership bill introduced in Congress</title>
-      <link>https://www.theverge.com/policy/1013521/video-game-ownership-bill-congress-power-to-the-players-act</link>
-      <description>Rep. Ritchie Torres of New York's 15th congressional district in the Bronx introduced the Power To The Players Act this week. If passed, the bill would direct the Federal Trade Commission to establish regulations that guarantee consumers ownership of a game when they pay for it, rather than a licensing agreement. It's increasingly common for […]</description>
-      <pubDate>Sun, 18 Oct 2026 16:27:51 +0000</pubDate>
-      <guid>https://www.theverge.com/policy/1013521/video-game-ownership-bill-congress-power-to-the-players-act</guid>
-      <category>The Verge</category>
     </item>
   </channel>
 </rss>
