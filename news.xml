@@ -5,9 +5,17 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Sat, 17 Oct 2026 22:54:56 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 00:40:57 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Как индексация строк изменила систему типов HydraScript</title>
+      <link>https://habr.com/ru/articles/1095744/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095744</link>
+      <description>В HydraScript мне понадобились две привычные операции со строками: получить длину и обратиться по индексу. Массивы уже умели и то и другое. Чтобы научить этому строки, нужно было поправить несколько мест в семантическом анализаторе: каждое по-своему решало, что разрешено делать с типом. Заодно появился повод разобраться, почему эти правила оказались именно там. Тип строки в интерпретаторе был, а за списком доступных ему операций приходилось идти в обработчики разных выражений. Добавляешь возможн</description>
+      <pubDate>Sat, 17 Oct 2026 23:59:04 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1095744/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095744</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
     <item>
       <title>L×Box: от VPN‑клиента до экосистемы управления сетевым трафиком</title>
       <link>https://habr.com/ru/articles/1095724/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095724</link>
@@ -78,14 +86,6 @@
       <description>Статья посвящена системному программированию на русском языке с C-подобным синтаксисом. Компилятор для языков программирования РУСИ, РУСИ++ и объектный-РУСИ создан путём модификации и пересборки компилятора GCC 14й версии с превращением его в полноценный русско-английский билингвальный компилятор. Отдельно дана инструкция модификации русской раскладки клавиатуры для добавления в неё фигурных, угловых и квадратных скобок - дабы не переключаться и не терять поток. Читать::Далее();</description>
       <pubDate>Sat, 17 Oct 2026 18:18:11 +0000</pubDate>
       <guid>https://habr.com/ru/articles/1069968/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1069968</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Робот в тумане: лошадь оставить, туман удалить</title>
-      <link>https://habr.com/ru/articles/1095696/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095696</link>
-      <description>Утром SpeedyBot отказался ехать: вокруг препятствия, хотя перед ним свободно. Протёрли лидар — не помогло. За призрачным кольцом оказался туман. Мы записали 5,81 миллиона точек, отправили робота к скамейке и устроили ему «Матрицу» из виртуальных столбов и сеток. Почему подавить 97% шума мало и как убрать кольцо, сохранив тонкие препятствия. Читать далее</description>
-      <pubDate>Sat, 17 Oct 2026 17:28:07 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1095696/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095696</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
   </channel>
