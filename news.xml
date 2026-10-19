@@ -5,88 +5,88 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Mon, 19 Oct 2026 12:19:26 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 19:03:34 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>RAGу для программиста</title>
-      <link>https://habr.com/ru/companies/skbkontur/articles/1095364/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095364</link>
-      <description>Внедрение AI в программные продукты часто сопровождается необходимостью обогатить контекст LLM специфичными для ваших задач данными. Для обогащения знаний используемой вами модели применяется два подхода: - fine-tuning — дообучение модели на ваших данных. Тут финансовые затраты идут на обучение модели: -- ресурсы на fine-tuning в случае on-prem решения, -- дополнительные средства за дообучение модели по подписке. - RAG — внешний источник данных, данные из которого передаются в качестве контекста</description>
-      <pubDate>Mon, 19 Oct 2026 12:15:04 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/skbkontur/articles/1095364/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095364</guid>
-      <category>Все публикации подряд на Хабре</category>
+      <title>Tolan snags $30M for its AI companion that helps users navigate life</title>
+      <link>https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/</link>
+      <description>AI companion app Tolan has raised another $30 million after attracting more than 250,000 active users.</description>
+      <pubDate>Mon, 19 Oct 2026 19:00:12 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/</guid>
+      <category>TechCrunch</category>
     </item>
     <item>
-      <title>Democrats think cracking down on AI could give them an edge</title>
-      <link>https://www.theverge.com/policy/1013113/democrats-ai-midterms</link>
-      <description>Democrats could win back control of Congress this November, and if they do, they'll need to decide how to approach one of the country's newest and thorniest political issues: AI. Polls predict Democrats will flip at least one chamber of Congress in the midterm elections, which would put committee leadership back in their hands. That […]</description>
-      <pubDate>Mon, 19 Oct 2026 12:00:00 +0000</pubDate>
-      <guid>https://www.theverge.com/policy/1013113/democrats-ai-midterms</guid>
+      <title>Sony’s best noise-canceling earbuds are nearly $100 off today only</title>
+      <link>https://www.theverge.com/gadgets/1013911/sonys-best-noise-canceling-earbuds-are-nearly-100-off-today-only</link>
+      <description>For a very limited time, Sony’s latest high-end noise-canceling earbuds are actually cheaper than their last-gen counterpart, the WF-1000XM5. B&amp;H Photo is selling Sony’s latest WF-1000XM6 in black for an all-time low of $238 ($92 off) at checkout. Other retailers aren’t currently offering a discount on the XM6. The XM6 are a solid upgrade over […]</description>
+      <pubDate>Mon, 19 Oct 2026 18:52:41 +0000</pubDate>
+      <guid>https://www.theverge.com/gadgets/1013911/sonys-best-noise-canceling-earbuds-are-nearly-100-off-today-only</guid>
       <category>The Verge</category>
     </item>
     <item>
-      <title>Задачи из Jira и GitHub, встречи и заметки в одном окне: полгода соло‑разработки на Qt 6 / C++20</title>
-      <link>https://habr.com/ru/articles/1096258/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1096258</link>
-      <description>Утро у меня начиналось с вкладки трекера, вкладки календаря, заметок и пары PR, и полгода назад я начал делать себе десктопное приложение, которое собирает это в одно окно с клавиатуры. Ниже — что внутри и где я по дороге наступил на грабли: 13 трекеров через один дескриптор, все данные в одном JSON с миграциями и машиной времени, Vim‑клавиши по физическому месту клавиши и задача, которую подсказывает git‑ветка. Называется Tabless, код открыт под MIT. Как это устроено</description>
-      <pubDate>Mon, 19 Oct 2026 11:57:09 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1096258/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1096258</guid>
+      <title>Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago</title>
+      <link>https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/</link>
+      <description>Eugenia Kuyda's newest startup Wabi is positioned to take advantage of an idea she had more than a decade ago. Wabi offers a personal AI assistant with a twist, free and downloadable to anyone today.</description>
+      <pubDate>Mon, 19 Oct 2026 18:49:04 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>Tenstorrent hits $6.2B valuation to scale open-weight AI chips</title>
+      <link>https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/</link>
+      <description>After drawing acquisition interest earlier this year, the Nvidia challenger raised $1.5 billion to remain independent.</description>
+      <pubDate>Mon, 19 Oct 2026 18:37:27 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>Избранное для сессий Claude Code</title>
+      <link>https://habr.com/ru/articles/1096426/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1096426</link>
+      <description>Всем привет! Сделал для себя небольшой инструмент, который позволяет добавлять сессии клода в избранное. Решил поделиться, может кому-нибудь тоже пригодится. Читать далее</description>
+      <pubDate>Mon, 19 Oct 2026 18:27:14 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1096426/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1096426</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Почему «вайбкодинг» не про всех разработчиков</title>
-      <link>https://habr.com/ru/articles/1096254/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1096254</link>
-      <description>Вот уже почти год ИИ для меня не эксперимент, а рабочий инструмент: реальные проекты, реальные сроки, реальная ответственность за результат. И за этот год я увидел, что люди, которые «пишут код с ИИ», делают это принципиально по-разному. Одни кидают промпт и берут то, что получилось на выходе. Другие проектируют систему, в которой ИИ делает работу под их контролем. Андрей Карпатый, который придумал слово «вайбкодинг» в феврале 2025 года, имел в виду простое: сваять сайт-визитку или утилиту для с</description>
-      <pubDate>Mon, 19 Oct 2026 11:50:10 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1096254/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1096254</guid>
+      <title>Локальный ассистент для зумов, часть 11: девять моделей проверяли мой код — кто остался и почему</title>
+      <link>https://habr.com/ru/articles/1096420/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1096420</link>
+      <description>Код Чароита я пишу в Claude Code. Каждое изменение до мержа читает другая модель и пишет вердикт. Такую модель я зову головой, а один прогон — кругом. За два месяца в головах побывали Codex, GLM, Gemini, DeepSeek, две локальные Qwen, MiMo, Sonnet и Opus. Вердикты Sonnet ещё перечитывает Haiku. Посредников я перебрал три: Fireworks, OpenRouter, Nebius. Ниже — кто пришёл, кто ушёл и какие замеры это решили. Читать далее</description>
+      <pubDate>Mon, 19 Oct 2026 18:06:43 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1096420/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1096420</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Моё исследование средств выявления уязвимостей в скиллах</title>
-      <link>https://habr.com/ru/articles/1094856/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094856</link>
-      <description>Пока делал CEO AI (моё виденье помощника в работе), решил проверить, можно ли использовать сканеры для проверки скиллов перед подключением. Собрал 12 синтетических пакетов и прогнал через Cisco Skill Scanner, NVIDIA SkillSpector и AgentVerus без LLM и платных API . Список пакетов описал ниже . Пакет № 10 из таблицы пакетов предлагал обходить согласование через субагента: не передавать ему ограничения, сослаться на разрешение пользователя и скрыть делегирование. Все три сканера пропустили эту инс</description>
-      <pubDate>Mon, 19 Oct 2026 11:16:00 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1094856/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094856</guid>
+      <title>AI assistant startup Town nabs unicorn valuation four months after launch</title>
+      <link>https://techcrunch.com/2026/10/19/ai-assistant-startup-town-nabs-unicorn-valuation-four-months-after-launch/</link>
+      <description>AI assistant startup Town nabbed a unicorn valuation on Monday, announcing a $108 million Series B round co-led by Forerunner Ventures and Menlo Ventures.</description>
+      <pubDate>Mon, 19 Oct 2026 18:00:39 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/19/ai-assistant-startup-town-nabs-unicorn-valuation-four-months-after-launch/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>Трудно быть Богом: Базисная теория, страх АБС и психодрама Руматы</title>
+      <link>https://habr.com/ru/articles/1096414/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1096414</link>
+      <description>Часто бывает, что первый вариант произведения (экранизация или оригинал) определяют отношение к тому, что ты воспринимаешь потом. Право первой ночи, так сказать. Если ты читаешь книгу после фильма, то тебе легко представлять героев и локации, потому что кто-то уже взял себе за труд все это визуализировать за тебя. И, наоборот, подчас выливаются тонны желчи, когда, посмотрев экранизацию после книги, ты обнаруживаешь что режиссер имеет наглость воплощать свое собственное восприятие прочитанного, а</description>
+      <pubDate>Mon, 19 Oct 2026 17:47:25 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1096414/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1096414</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>[Перевод] Проверили 25 менеджеров пакетов на подмену кода взломанным репозиторием: целостность каждого пакета проверяют только два</title>
-      <link>https://habr.com/ru/articles/1096236/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1096236</link>
-      <description>Инженер Trail of Bits поднял стенд на Docker и mitmproxy, подставил вредоносный код в ответы «взломанного» репозитория и прогнал 25 популярных менеджеров пакетов. Только Go и vcpkg проверяют целостность каждого пакета по умолчанию, подписи по умолчанию проверяет один Go. Что делают npm, pip, Cargo, Maven, NuGet, Composer и остальные, где хеш в lock-файле ничего не защищает и какую схему предлагает автор. Читать далее</description>
-      <pubDate>Mon, 19 Oct 2026 11:08:08 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1096236/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1096236</guid>
+      <title>Почему синтаксис Nova выглядит так: 11 споров с Claude о дизайне языка</title>
+      <link>https://habr.com/ru/articles/1096408/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1096408</link>
+      <description>«!throws выглядит как not». Этой фразы хватило, чтобы Claude отказался от своего синтаксиса эффектов. А на синтаксис объявления метода понадобилось пять раундов. Иногда Claude переубеждает и меня. Я делаю Nova — язык для бэкенда, похожий на Go и Rust. Почти у каждого заметного решения в его синтаксисе есть история спора с ИИ. Вот одиннадцать таких историй, почему язык устроен именно так, и чек-лист: когда стоит спорить с ИИ, а когда соглашаться. Читать далее</description>
+      <pubDate>Mon, 19 Oct 2026 17:34:09 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1096408/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1096408</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>CLI-харнесс. Управление через телеграмм. Claude, GPT и Qwen в одном терминальном агенте, собранном на pi</title>
-      <link>https://habr.com/ru/articles/1096234/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1096234</link>
-      <description>Мы проверили, как агент правит файлы в 250 сессиях нашей команды. Около 590 раз он писал в файлы через shell, хотя у него были инструменты edit и write . 442 из этих записей появились из-за одной фразы в одном навыке. Таких историй за время разработки Veai CLI у нас набралось много. Veai CLI работает в терминале, как Claude Code и Codex. Сегодня вышла его первая публичная версия. Модели Anthropic, OpenAI, Google, DeepSeek, GLM и Qwen доступны в нём по одной подписке и без VPN, а оплатить подписк</description>
-      <pubDate>Mon, 19 Oct 2026 11:00:50 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1096234/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1096234</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>The Maeving RM2 is high-style electric riding with a few compromises</title>
-      <link>https://www.theverge.com/transportation/1013049/maeving-rm2-electric-motorcycle-review-specs</link>
-      <description>There's a fast-growing category of two-wheeled electric vehicles splitting the difference between high-end scooters and entry-level motorcycles, fresh bikes with avant-garde style but approachable performance. I'm talking about offerings like the Infinite Machine P1 and BMW CE 02, similar concepts but with wildly different attitudes. Among this class, the Maeving RM2 stands out. It has […]</description>
-      <pubDate>Mon, 19 Oct 2026 11:00:00 +0000</pubDate>
-      <guid>https://www.theverge.com/transportation/1013049/maeving-rm2-electric-motorcycle-review-specs</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>Как команда TechCAD.AI создала систему для проверки технологичности CAD-моделей</title>
-      <link>https://habr.com/ru/companies/mipt_digital/articles/1096232/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1096232</link>
-      <description>Если CAD-модель геометрически корректная, это еще не означает, что деталь будет удобно изготовить. Слишком тонкую стенку, неудобный радиус гиба или недоступную для инструмента зону иногда замечают уже на этапе технологической проработки — когда исправлять модель становится дороже. Команда TechCAD.AI хочет перенести такую проверку ближе к моменту проектирования. Пользователь загружает STEP-модель, система определяет предполагаемый способ обработки, проверяет геометрию по DFM-правилам и формирует </description>
-      <pubDate>Mon, 19 Oct 2026 10:55:45 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/mipt_digital/articles/1096232/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1096232</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>[Перевод] Как Netflix повысила эффективность ИИ-агентов для программирования с помощью JetBrains IDE</title>
-      <link>https://habr.com/ru/companies/spring_aio/articles/1096226/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1096226</link>
-      <description>Netflix подключила Claude Code и Codex к движку анализа кода JetBrains и теперь агенты могут работать с индексом проекта и зависимостей вместо раскопок в JAR-файлах через декомпиляцию и grep. На реальных Java и Kotlin проектах расход времени и токенов снизился в среднем на 20–30%, а лучший результат достиг 65%. Читать далее</description>
-      <pubDate>Mon, 19 Oct 2026 10:37:12 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/spring_aio/articles/1096226/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1096226</guid>
-      <category>Все публикации подряд на Хабре</category>
+      <title>Amazon to fund 12 small nuclear reactors at former Indiana coal plant</title>
+      <link>https://techcrunch.com/2026/10/19/amazon-to-fund-12-small-nuclear-reactors-at-former-indiana-coal-plant/</link>
+      <description>Amazon and X-energy have inked another deal to deploy nuclear power to the grid. This one will generate nearly 1 gigawatt of electricity.</description>
+      <pubDate>Mon, 19 Oct 2026 16:55:56 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/19/amazon-to-fund-12-small-nuclear-reactors-at-former-indiana-coal-plant/</guid>
+      <category>TechCrunch</category>
     </item>
   </channel>
 </rss>
