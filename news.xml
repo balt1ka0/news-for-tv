@@ -5,88 +5,88 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Mon, 19 Oct 2026 05:47:22 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 12:19:26 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Почему автобус никогда не приходит вовремя, или Теорема о том, что вам не повезло</title>
-      <link>https://habr.com/ru/articles/1093320/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093320</link>
-      <description>Скажу сразу: автобус приходит вовремя. Просто не для вас. Звучит как обида на мироздание, но это математика, и довольно простая. Ей лет сто, у неё есть название (inspection paradox, парадокс инспекции, или, если по-нашему, парадокс времени ожидания). При этом она почти никогда не всплывает в разговоре на остановке. А зря: она объясняет, почему табличка «интервал 10 минут» и ваши реальные пятнадцать минут на ветру — не взаимоисключающие вещи. Я полезла в это после одного утра в феврале. Стою на о</description>
-      <pubDate>Mon, 19 Oct 2026 05:36:07 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1093320/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093320</guid>
+      <title>RAGу для программиста</title>
+      <link>https://habr.com/ru/companies/skbkontur/articles/1095364/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095364</link>
+      <description>Внедрение AI в программные продукты часто сопровождается необходимостью обогатить контекст LLM специфичными для ваших задач данными. Для обогащения знаний используемой вами модели применяется два подхода: - fine-tuning — дообучение модели на ваших данных. Тут финансовые затраты идут на обучение модели: -- ресурсы на fine-tuning в случае on-prem решения, -- дополнительные средства за дообучение модели по подписке. - RAG — внешний источник данных, данные из которого передаются в качестве контекста</description>
+      <pubDate>Mon, 19 Oct 2026 12:15:04 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/skbkontur/articles/1095364/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095364</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>ESP32-P4 вместо Raspberry Pi для HMI: что можно сделать без Linux</title>
-      <link>https://habr.com/ru/articles/1096006/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1096006</link>
-      <description>Raspberry Pi и другие одноплатные компьютеры давно используются для разработки HMI, человеко-машинных интерфейсов. Но возникает вопрос: а всегда ли для операторской панели нужен полноценный компьютер? Во многих устройствах HMI выполняет довольно ограниченный набор функций: отображает состояние оборудования, показывает графики и аварии, позволяет менять настройки, отправляет команды контроллеру. При этом пользователь никогда не видит операционную систему, не запускает сторонние приложения и не ис</description>
-      <pubDate>Mon, 19 Oct 2026 04:54:58 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1096006/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1096006</guid>
+      <title>Democrats think cracking down on AI could give them an edge</title>
+      <link>https://www.theverge.com/policy/1013113/democrats-ai-midterms</link>
+      <description>Democrats could win back control of Congress this November, and if they do, they'll need to decide how to approach one of the country's newest and thorniest political issues: AI. Polls predict Democrats will flip at least one chamber of Congress in the midterm elections, which would put committee leadership back in their hands. That […]</description>
+      <pubDate>Mon, 19 Oct 2026 12:00:00 +0000</pubDate>
+      <guid>https://www.theverge.com/policy/1013113/democrats-ai-midterms</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>Задачи из Jira и GitHub, встречи и заметки в одном окне: полгода соло‑разработки на Qt 6 / C++20</title>
+      <link>https://habr.com/ru/articles/1096258/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1096258</link>
+      <description>Утро у меня начиналось с вкладки трекера, вкладки календаря, заметок и пары PR, и полгода назад я начал делать себе десктопное приложение, которое собирает это в одно окно с клавиатуры. Ниже — что внутри и где я по дороге наступил на грабли: 13 трекеров через один дескриптор, все данные в одном JSON с миграциями и машиной времени, Vim‑клавиши по физическому месту клавиши и задача, которую подсказывает git‑ветка. Называется Tabless, код открыт под MIT. Как это устроено</description>
+      <pubDate>Mon, 19 Oct 2026 11:57:09 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1096258/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1096258</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Structured Authority Injection: Persistent Human Control for LLM Agents via Typed MCP Overrides</title>
-      <link>https://arxiv.org/abs/2610.22373</link>
-      <description>arXiv:2610.22373v1 Announce Type: new Abstract: LLM-based agents are increasingly used as autonomous orchestrators in distributed and multi-agent systems, yet a control gap remains: no protocol-level mechanism allows human operators to inject binding directives that persist across planning cycles. Free-text overrides suffer from ambiguous interpretation due to lack of schema validation and from authority erosion as operator instructions lose influence within accumulating context. We propose Stru</description>
-      <pubDate>Mon, 19 Oct 2026 04:00:00 +0000</pubDate>
-      <guid>https://arxiv.org/abs/2610.22373</guid>
-      <category>cs.AI updates on arXiv.org</category>
+      <title>Почему «вайбкодинг» не про всех разработчиков</title>
+      <link>https://habr.com/ru/articles/1096254/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1096254</link>
+      <description>Вот уже почти год ИИ для меня не эксперимент, а рабочий инструмент: реальные проекты, реальные сроки, реальная ответственность за результат. И за этот год я увидел, что люди, которые «пишут код с ИИ», делают это принципиально по-разному. Одни кидают промпт и берут то, что получилось на выходе. Другие проектируют систему, в которой ИИ делает работу под их контролем. Андрей Карпатый, который придумал слово «вайбкодинг» в феврале 2025 года, имел в виду простое: сваять сайт-визитку или утилиту для с</description>
+      <pubDate>Mon, 19 Oct 2026 11:50:10 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1096254/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1096254</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Rethinking User Encoders: Routing Diffusion States for Scenario-Adaptive User Representation</title>
-      <link>https://arxiv.org/abs/2610.22400</link>
-      <description>arXiv:2610.22400v1 Announce Type: new Abstract: Existing large language model (LLM)-based user encoders serialize heterogeneous behavioral logs and compress them into static representations through autoregressive (AR) prediction. However, their unidirectional constraint limits bidirectional information flow, hindering cross-modal interactions and the joint preservation of multi-source signals. Consequently, the learned static representations struggle to accommodate the distinct evidence requirem</description>
-      <pubDate>Mon, 19 Oct 2026 04:00:00 +0000</pubDate>
-      <guid>https://arxiv.org/abs/2610.22400</guid>
-      <category>cs.AI updates on arXiv.org</category>
+      <title>Моё исследование средств выявления уязвимостей в скиллах</title>
+      <link>https://habr.com/ru/articles/1094856/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094856</link>
+      <description>Пока делал CEO AI (моё виденье помощника в работе), решил проверить, можно ли использовать сканеры для проверки скиллов перед подключением. Собрал 12 синтетических пакетов и прогнал через Cisco Skill Scanner, NVIDIA SkillSpector и AgentVerus без LLM и платных API . Список пакетов описал ниже . Пакет № 10 из таблицы пакетов предлагал обходить согласование через субагента: не передавать ему ограничения, сослаться на разрешение пользователя и скрыть делегирование. Все три сканера пропустили эту инс</description>
+      <pubDate>Mon, 19 Oct 2026 11:16:00 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1094856/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094856</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>From Events to Reasoning: Hierarchical Rule Composition over Explicit States</title>
-      <link>https://arxiv.org/abs/2610.22403</link>
-      <description>arXiv:2610.22403v1 Announce Type: new Abstract: What a reasoning system emits is a conclusion; what it owes is a justification. Producing one requires every operation to be admissible on the facts actually available, the dependencies of intermediate results to survive to the end of the path, and the path to be revised when a premise changes. We present the Event Reasoning System (ERS), in which the reasoning state is an explicit event graph. Semantic features nominate candidate objects and rule </description>
-      <pubDate>Mon, 19 Oct 2026 04:00:00 +0000</pubDate>
-      <guid>https://arxiv.org/abs/2610.22403</guid>
-      <category>cs.AI updates on arXiv.org</category>
+      <title>[Перевод] Проверили 25 менеджеров пакетов на подмену кода взломанным репозиторием: целостность каждого пакета проверяют только два</title>
+      <link>https://habr.com/ru/articles/1096236/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1096236</link>
+      <description>Инженер Trail of Bits поднял стенд на Docker и mitmproxy, подставил вредоносный код в ответы «взломанного» репозитория и прогнал 25 популярных менеджеров пакетов. Только Go и vcpkg проверяют целостность каждого пакета по умолчанию, подписи по умолчанию проверяет один Go. Что делают npm, pip, Cargo, Maven, NuGet, Composer и остальные, где хеш в lock-файле ничего не защищает и какую схему предлагает автор. Читать далее</description>
+      <pubDate>Mon, 19 Oct 2026 11:08:08 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1096236/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1096236</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>ECHOES: Seeing Beyond the Current Image via Recursive History Compression and Privileged On-Policy Distillation</title>
-      <link>https://arxiv.org/abs/2610.22408</link>
-      <description>arXiv:2610.22408v1 Announce Type: new Abstract: Long-horizon GUI agents rely on visual history to maintain task states, but retaining historical screenshots increases visual-token usage and inference costs, while textual summaries can discard critical state information, undermining long-horizon reliability. We propose ECHOES, which leverages training-time privileged information to guide textual history compression and strengthen long-horizon reasoning. Specifically, ECHOES adopts a Compression-T</description>
-      <pubDate>Mon, 19 Oct 2026 04:00:00 +0000</pubDate>
-      <guid>https://arxiv.org/abs/2610.22408</guid>
-      <category>cs.AI updates on arXiv.org</category>
+      <title>CLI-харнесс. Управление через телеграмм. Claude, GPT и Qwen в одном терминальном агенте, собранном на pi</title>
+      <link>https://habr.com/ru/articles/1096234/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1096234</link>
+      <description>Мы проверили, как агент правит файлы в 250 сессиях нашей команды. Около 590 раз он писал в файлы через shell, хотя у него были инструменты edit и write . 442 из этих записей появились из-за одной фразы в одном навыке. Таких историй за время разработки Veai CLI у нас набралось много. Veai CLI работает в терминале, как Claude Code и Codex. Сегодня вышла его первая публичная версия. Модели Anthropic, OpenAI, Google, DeepSeek, GLM и Qwen доступны в нём по одной подписке и без VPN, а оплатить подписк</description>
+      <pubDate>Mon, 19 Oct 2026 11:00:50 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1096234/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1096234</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Sensitivity Analysis of Decision Rules in an Agent-Based Agro-Ecological Model</title>
-      <link>https://arxiv.org/abs/2610.22420</link>
-      <description>arXiv:2610.22420v1 Announce Type: new Abstract: Agent-based models are well-suited for modelling agro-ecological systems for decision-making, yet turning their simulations into actionable insight requires identifying which decisions actually drive the behaviours. In such a context, sensitivity analysis stumbles upon a structural feature of many complex systems: the parameters are not a flat vector but a decision tree in which many parameters appear only when a higher-level choice activates them.</description>
-      <pubDate>Mon, 19 Oct 2026 04:00:00 +0000</pubDate>
-      <guid>https://arxiv.org/abs/2610.22420</guid>
-      <category>cs.AI updates on arXiv.org</category>
+      <title>The Maeving RM2 is high-style electric riding with a few compromises</title>
+      <link>https://www.theverge.com/transportation/1013049/maeving-rm2-electric-motorcycle-review-specs</link>
+      <description>There's a fast-growing category of two-wheeled electric vehicles splitting the difference between high-end scooters and entry-level motorcycles, fresh bikes with avant-garde style but approachable performance. I'm talking about offerings like the Infinite Machine P1 and BMW CE 02, similar concepts but with wildly different attitudes. Among this class, the Maeving RM2 stands out. It has […]</description>
+      <pubDate>Mon, 19 Oct 2026 11:00:00 +0000</pubDate>
+      <guid>https://www.theverge.com/transportation/1013049/maeving-rm2-electric-motorcycle-review-specs</guid>
+      <category>The Verge</category>
     </item>
     <item>
-      <title>PRIME: Towards Verifiable Evidence-Grounded Reasoning in LLM Agents</title>
-      <link>https://arxiv.org/abs/2610.22426</link>
-      <description>arXiv:2610.22426v1 Announce Type: new Abstract: LLM agents are used to check records against an organization's requirements, for example whether a vulnerability report is ready for investigation. Requirements often allow several ways to be met, such as a severity rating with a curator-reviewed advisory or a published advisory link. Agents fail by accepting a report after a required check has failed, or by settling for a weaker conclusion without trying another way that could still succeed. We in</description>
-      <pubDate>Mon, 19 Oct 2026 04:00:00 +0000</pubDate>
-      <guid>https://arxiv.org/abs/2610.22426</guid>
-      <category>cs.AI updates on arXiv.org</category>
+      <title>Как команда TechCAD.AI создала систему для проверки технологичности CAD-моделей</title>
+      <link>https://habr.com/ru/companies/mipt_digital/articles/1096232/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1096232</link>
+      <description>Если CAD-модель геометрически корректная, это еще не означает, что деталь будет удобно изготовить. Слишком тонкую стенку, неудобный радиус гиба или недоступную для инструмента зону иногда замечают уже на этапе технологической проработки — когда исправлять модель становится дороже. Команда TechCAD.AI хочет перенести такую проверку ближе к моменту проектирования. Пользователь загружает STEP-модель, система определяет предполагаемый способ обработки, проверяет геометрию по DFM-правилам и формирует </description>
+      <pubDate>Mon, 19 Oct 2026 10:55:45 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/mipt_digital/articles/1096232/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1096232</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>From Natural Language Intent to Executable Control: Hierarchical Feedback-Guided LLM Planning for Multi-component Cyber-Physical Systems</title>
-      <link>https://arxiv.org/abs/2610.22441</link>
-      <description>arXiv:2610.22441v1 Announce Type: new Abstract: Large language models (LLMs) provide a convenient interface for translating natural language commands into task plans for cyber-physical systems (CPSs). However, two gaps hinder their use for real execution: generated plans may misinterpret or omit the user's intent, and even a logically plausible plan may be infeasible under component dynamics, interactions, or safety constraints. Existing LLM-based planning approaches often lack informative feedb</description>
-      <pubDate>Mon, 19 Oct 2026 04:00:00 +0000</pubDate>
-      <guid>https://arxiv.org/abs/2610.22441</guid>
-      <category>cs.AI updates on arXiv.org</category>
-    </item>
-    <item>
-      <title>Null Controls Are Necessary but Not Sufficient: Evaluating Acceptance Guards for Scientific Discovery and Interpretability</title>
-      <link>https://arxiv.org/abs/2610.22445</link>
-      <description>arXiv:2610.22445v1 Announce Type: new Abstract: Automated discovery systems propose scientific explanations and test which to accept. Does passing a test establish the intended claim? We develop four executable operations for changing physical descriptions: identifying redundancies (L1), coarse-graining dynamics (L2), transferring structure (L3), and inferring missing quantities from conservation imbalances (L4). We evaluate these operations and three interpretability settings through null accep</description>
-      <pubDate>Mon, 19 Oct 2026 04:00:00 +0000</pubDate>
-      <guid>https://arxiv.org/abs/2610.22445</guid>
-      <category>cs.AI updates on arXiv.org</category>
+      <title>[Перевод] Как Netflix повысила эффективность ИИ-агентов для программирования с помощью JetBrains IDE</title>
+      <link>https://habr.com/ru/companies/spring_aio/articles/1096226/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1096226</link>
+      <description>Netflix подключила Claude Code и Codex к движку анализа кода JetBrains и теперь агенты могут работать с индексом проекта и зависимостей вместо раскопок в JAR-файлах через декомпиляцию и grep. На реальных Java и Kotlin проектах расход времени и токенов снизился в среднем на 20–30%, а лучший результат достиг 65%. Читать далее</description>
+      <pubDate>Mon, 19 Oct 2026 10:37:12 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/spring_aio/articles/1096226/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1096226</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
   </channel>
 </rss>
