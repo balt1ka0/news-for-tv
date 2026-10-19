@@ -5,88 +5,88 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Mon, 19 Oct 2026 00:51:54 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 05:47:22 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Apple Intelligence. Минус 30 гигабайт во имя будущего (которое мы не просили устанавливать)</title>
-      <link>https://habr.com/ru/articles/1095994/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095994</link>
-      <description>Два года назад Apple пообещала сделать наши устройства умнее. За это время искусственный интеллект научился многому, но ещё быстрее научился занимать место на накопителе. Зачем ему столько гигабайтов, что мы получили взамен и почему так трудно избавиться от «подарка». Помните, как летом 2024 года Apple представила Apple Intelligence? Всё было как мы любим: красивые презентации, впечатляющие демонстрации, восторженные обещания. Siri наконец‑то должна была научиться понимать человека, учитывать ли</description>
-      <pubDate>Mon, 19 Oct 2026 00:01:14 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1095994/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095994</guid>
+      <title>Почему автобус никогда не приходит вовремя, или Теорема о том, что вам не повезло</title>
+      <link>https://habr.com/ru/articles/1093320/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093320</link>
+      <description>Скажу сразу: автобус приходит вовремя. Просто не для вас. Звучит как обида на мироздание, но это математика, и довольно простая. Ей лет сто, у неё есть название (inspection paradox, парадокс инспекции, или, если по-нашему, парадокс времени ожидания). При этом она почти никогда не всплывает в разговоре на остановке. А зря: она объясняет, почему табличка «интервал 10 минут» и ваши реальные пятнадцать минут на ветру — не взаимоисключающие вещи. Я полезла в это после одного утра в феврале. Стою на о</description>
+      <pubDate>Mon, 19 Oct 2026 05:36:07 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1093320/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093320</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>A Savannah police officer gave her Flock login to her ICE agent husband</title>
-      <link>https://www.theverge.com/policy/1013573/spd-officer-fired-flock-ice-husband</link>
-      <description>Now, former Savannah police officer Amber Harpe was fired in August following a department investigation that found she had shared her Flock login information with her husband, Tyler Harpe, an ICE agent. SPD does not share its Flock data with ICE and said sharing access to the system violated the department's security protocols. While he […]</description>
-      <pubDate>Sun, 18 Oct 2026 22:20:53 +0000</pubDate>
-      <guid>https://www.theverge.com/policy/1013573/spd-officer-fired-flock-ice-husband</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>Мой агент получил высокий балл. Проверяю, что он сделал</title>
-      <link>https://habr.com/ru/articles/1091900/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1091900</link>
-      <description>Как проверить, что диалоговый агент выполнил задачу, если бенчмарк поставил высокий балл? В первой пробе мой агент получил награду 1 на всех пяти задачах. Потом заглушка без единого вызова инструмента набрала 34% на полном наборе. Я разрабатываю собственную экспериментальную систему и называю её ELM. В её диалоговом варианте код предлагает действия, нейросеть выбирает из них, а код исполняет вызов и собирает ответ. В проверяемом здесь режиме нейросеть не пишет текст ответа. Чтобы понять, что сто</description>
-      <pubDate>Sun, 18 Oct 2026 21:30:57 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1091900/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1091900</guid>
+      <title>ESP32-P4 вместо Raspberry Pi для HMI: что можно сделать без Linux</title>
+      <link>https://habr.com/ru/articles/1096006/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1096006</link>
+      <description>Raspberry Pi и другие одноплатные компьютеры давно используются для разработки HMI, человеко-машинных интерфейсов. Но возникает вопрос: а всегда ли для операторской панели нужен полноценный компьютер? Во многих устройствах HMI выполняет довольно ограниченный набор функций: отображает состояние оборудования, показывает графики и аварии, позволяет менять настройки, отправляет команды контроллеру. При этом пользователь никогда не видит операционную систему, не запускает сторонние приложения и не ис</description>
+      <pubDate>Mon, 19 Oct 2026 04:54:58 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1096006/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1096006</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Замена Lens, которую целиком написала модель: что получилось и где мы проигрываем</title>
-      <link>https://habr.com/ru/articles/1095984/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095984</link>
-      <description>Sextant — бесплатный open-source клиент Kubernetes на Rust и Tauri 2: всё, что вы делали в Lens, но без аккаунта, подписки и телеметрии. Его код целиком сгенерировал ИИ (Claude Code). Человек ставил задачи, принимал архитектурные решения и проверял каждое изменение, а тесты прогонялись многократно. В наших замерах Sextant запускается в 4–7 раз быстрее Freelens и Lens и занимает примерно вдвое меньше памяти. Есть встроенный MCP-сервер, через который AI-агента можно пустить в кластер только с выда</description>
-      <pubDate>Sun, 18 Oct 2026 21:28:00 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1095984/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095984</guid>
-      <category>Все публикации подряд на Хабре</category>
+      <title>Structured Authority Injection: Persistent Human Control for LLM Agents via Typed MCP Overrides</title>
+      <link>https://arxiv.org/abs/2610.22373</link>
+      <description>arXiv:2610.22373v1 Announce Type: new Abstract: LLM-based agents are increasingly used as autonomous orchestrators in distributed and multi-agent systems, yet a control gap remains: no protocol-level mechanism allows human operators to inject binding directives that persist across planning cycles. Free-text overrides suffer from ambiguous interpretation due to lack of schema validation and from authority erosion as operator instructions lose influence within accumulating context. We propose Stru</description>
+      <pubDate>Mon, 19 Oct 2026 04:00:00 +0000</pubDate>
+      <guid>https://arxiv.org/abs/2610.22373</guid>
+      <category>cs.AI updates on arXiv.org</category>
     </item>
     <item>
-      <title>No agenda, no rush, no leaving San Francisco: Benchmark’s partners on investing in a frenzied market</title>
-      <link>https://techcrunch.com/2026/10/18/no-agenda-no-rush-no-leaving-san-francisco-benchmarks-partners-on-investing-in-a-frenzied-market/</link>
-      <description>Benchmark may have grown its funds and swapped out some partners, but onstage the five who are left sounded like friends who just happen to be running one of the Valley’s most storied firms</description>
-      <pubDate>Sun, 18 Oct 2026 21:00:00 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/18/no-agenda-no-rush-no-leaving-san-francisco-benchmarks-partners-on-investing-in-a-frenzied-market/</guid>
-      <category>TechCrunch</category>
+      <title>Rethinking User Encoders: Routing Diffusion States for Scenario-Adaptive User Representation</title>
+      <link>https://arxiv.org/abs/2610.22400</link>
+      <description>arXiv:2610.22400v1 Announce Type: new Abstract: Existing large language model (LLM)-based user encoders serialize heterogeneous behavioral logs and compress them into static representations through autoregressive (AR) prediction. However, their unidirectional constraint limits bidirectional information flow, hindering cross-modal interactions and the joint preservation of multi-source signals. Consequently, the learned static representations struggle to accommodate the distinct evidence requirem</description>
+      <pubDate>Mon, 19 Oct 2026 04:00:00 +0000</pubDate>
+      <guid>https://arxiv.org/abs/2610.22400</guid>
+      <category>cs.AI updates on arXiv.org</category>
     </item>
     <item>
-      <title>Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’</title>
-      <link>https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/</link>
-      <description>Anthropic said that it will commit 5% of its shares to the fund.</description>
-      <pubDate>Sun, 18 Oct 2026 20:37:40 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/</guid>
-      <category>TechCrunch</category>
+      <title>From Events to Reasoning: Hierarchical Rule Composition over Explicit States</title>
+      <link>https://arxiv.org/abs/2610.22403</link>
+      <description>arXiv:2610.22403v1 Announce Type: new Abstract: What a reasoning system emits is a conclusion; what it owes is a justification. Producing one requires every operation to be admissible on the facts actually available, the dependencies of intermediate results to survive to the end of the path, and the path to be revised when a premise changes. We present the Event Reasoning System (ERS), in which the reasoning state is an explicit event graph. Semantic features nominate candidate objects and rule </description>
+      <pubDate>Mon, 19 Oct 2026 04:00:00 +0000</pubDate>
+      <guid>https://arxiv.org/abs/2610.22403</guid>
+      <category>cs.AI updates on arXiv.org</category>
     </item>
     <item>
-      <title>Как превратить Cursor в долговременную память проекта: LLM Wiki, QMD и Cursor CLI</title>
-      <link>https://habr.com/ru/articles/1095974/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095974</link>
-      <description>Большой контекст в Cursor спасает ровно до тех пор, пока проект живёт дольше одного чата: требования, SQL-гипотезы и причины отброшенных решений быстро расползаются по сессиям. В статье разбираю практику внедрения концепции LLM Wiki Андрея Карпати в Cursor: как устроен локальный гибридный поиск через QMD, почему связка внешнего agent harness с локальной моделью оказалась избыточной, и как разделить ответственность между project skills и детерминированными bash-обёртками вокруг Cursor CLI. Внутри</description>
-      <pubDate>Sun, 18 Oct 2026 20:18:16 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1095974/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095974</guid>
-      <category>Все публикации подряд на Хабре</category>
+      <title>ECHOES: Seeing Beyond the Current Image via Recursive History Compression and Privileged On-Policy Distillation</title>
+      <link>https://arxiv.org/abs/2610.22408</link>
+      <description>arXiv:2610.22408v1 Announce Type: new Abstract: Long-horizon GUI agents rely on visual history to maintain task states, but retaining historical screenshots increases visual-token usage and inference costs, while textual summaries can discard critical state information, undermining long-horizon reliability. We propose ECHOES, which leverages training-time privileged information to guide textual history compression and strengthen long-horizon reasoning. Specifically, ECHOES adopts a Compression-T</description>
+      <pubDate>Mon, 19 Oct 2026 04:00:00 +0000</pubDate>
+      <guid>https://arxiv.org/abs/2610.22408</guid>
+      <category>cs.AI updates on arXiv.org</category>
     </item>
     <item>
-      <title>Builder ELT — open‑source инструмент для построения потоков данных</title>
-      <link>https://habr.com/ru/articles/1095970/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095970</link>
-      <description>Builder ELT — open-source ELT-приложение, которое позволяет визуально создавать потоки загрузки, объединять их в цепочки и запускать по расписанию. Преобразования выполняются средствами целевой базы данных на нативном SQL, а Python используется для работы с нестандартными источниками и API. Приложение не хранит в себе пользовательские данные. Основная цель создать стандартизированное решение, в котором можно было бы быстро создать ELT поток, не теряя гибкость SQL трансформаций. В итоге любой ана</description>
-      <pubDate>Sun, 18 Oct 2026 20:18:12 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1095970/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095970</guid>
-      <category>Все публикации подряд на Хабре</category>
+      <title>Sensitivity Analysis of Decision Rules in an Agent-Based Agro-Ecological Model</title>
+      <link>https://arxiv.org/abs/2610.22420</link>
+      <description>arXiv:2610.22420v1 Announce Type: new Abstract: Agent-based models are well-suited for modelling agro-ecological systems for decision-making, yet turning their simulations into actionable insight requires identifying which decisions actually drive the behaviours. In such a context, sensitivity analysis stumbles upon a structural feature of many complex systems: the parameters are not a flat vector but a decision tree in which many parameters appear only when a higher-level choice activates them.</description>
+      <pubDate>Mon, 19 Oct 2026 04:00:00 +0000</pubDate>
+      <guid>https://arxiv.org/abs/2610.22420</guid>
+      <category>cs.AI updates on arXiv.org</category>
     </item>
     <item>
-      <title>Mister Organ is one of the most unsettling documentaries I’ve ever seen</title>
-      <link>https://www.theverge.com/entertainment/1013545/mister-organ-horror-documentary-review</link>
-      <description>Mister Organ doesn't reach the level of societal horror of The Act of Killing or the creepypasta-meets-true-crime gruesomeness of Beware the Slenderman, but there's something deeply unsettling about Michael Organ and his intimate campaign of terror against everyone who enters his life. Mister Organ is a documentary by David Farrier, an Auckland, New Zealand journalist. […]</description>
-      <pubDate>Sun, 18 Oct 2026 19:30:00 +0000</pubDate>
-      <guid>https://www.theverge.com/entertainment/1013545/mister-organ-horror-documentary-review</guid>
-      <category>The Verge</category>
+      <title>PRIME: Towards Verifiable Evidence-Grounded Reasoning in LLM Agents</title>
+      <link>https://arxiv.org/abs/2610.22426</link>
+      <description>arXiv:2610.22426v1 Announce Type: new Abstract: LLM agents are used to check records against an organization's requirements, for example whether a vulnerability report is ready for investigation. Requirements often allow several ways to be met, such as a severity rating with a curator-reviewed advisory or a published advisory link. Agents fail by accepting a report after a required check has failed, or by settling for a weaker conclusion without trying another way that could still succeed. We in</description>
+      <pubDate>Mon, 19 Oct 2026 04:00:00 +0000</pubDate>
+      <guid>https://arxiv.org/abs/2610.22426</guid>
+      <category>cs.AI updates on arXiv.org</category>
     </item>
     <item>
-      <title>Everyone’s watching the Elizabeth Holmes documentary ‘You Can See Everything’</title>
-      <link>https://techcrunch.com/2026/10/18/everyones-watching-the-elizabeth-holmes-documentary-you-can-see-everything/</link>
-      <description>"You Can See Everything" is having the second biggest opening weekend ever for a documentary film.</description>
-      <pubDate>Sun, 18 Oct 2026 19:03:38 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/18/everyones-watching-the-elizabeth-holmes-documentary-you-can-see-everything/</guid>
-      <category>TechCrunch</category>
+      <title>From Natural Language Intent to Executable Control: Hierarchical Feedback-Guided LLM Planning for Multi-component Cyber-Physical Systems</title>
+      <link>https://arxiv.org/abs/2610.22441</link>
+      <description>arXiv:2610.22441v1 Announce Type: new Abstract: Large language models (LLMs) provide a convenient interface for translating natural language commands into task plans for cyber-physical systems (CPSs). However, two gaps hinder their use for real execution: generated plans may misinterpret or omit the user's intent, and even a logically plausible plan may be infeasible under component dynamics, interactions, or safety constraints. Existing LLM-based planning approaches often lack informative feedb</description>
+      <pubDate>Mon, 19 Oct 2026 04:00:00 +0000</pubDate>
+      <guid>https://arxiv.org/abs/2610.22441</guid>
+      <category>cs.AI updates on arXiv.org</category>
+    </item>
+    <item>
+      <title>Null Controls Are Necessary but Not Sufficient: Evaluating Acceptance Guards for Scientific Discovery and Interpretability</title>
+      <link>https://arxiv.org/abs/2610.22445</link>
+      <description>arXiv:2610.22445v1 Announce Type: new Abstract: Automated discovery systems propose scientific explanations and test which to accept. Does passing a test establish the intended claim? We develop four executable operations for changing physical descriptions: identifying redundancies (L1), coarse-graining dynamics (L2), transferring structure (L3), and inferring missing quantities from conservation imbalances (L4). We evaluate these operations and three interpretability settings through null accep</description>
+      <pubDate>Mon, 19 Oct 2026 04:00:00 +0000</pubDate>
+      <guid>https://arxiv.org/abs/2610.22445</guid>
+      <category>cs.AI updates on arXiv.org</category>
     </item>
   </channel>
 </rss>
