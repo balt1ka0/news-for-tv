@@ -5,87 +5,87 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Tue, 20 Oct 2026 01:36:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 07:13:56 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Mamdani says feds have abdicated on AI, urges New Yorkers to push back</title>
-      <link>https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/</link>
-      <description>Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in their hands.</description>
-      <pubDate>Tue, 20 Oct 2026 01:27:03 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>Внутри Telegram Serverless: код, БД и Mini App из коробки</title>
-      <link>https://habr.com/ru/articles/1096488/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1096488</link>
-      <description>Недавно команда Telegram выкатила решение, которое закрывает все эти вопросы разом — нативную платформу Serverless (beta) прямо внутри @BotFather . Теперь запускать серверную логику бота на JavaScript, хранить данные в реляционной БД и раздавать фронтенд для Mini App можно непосредственно в облаке Telegram без собственного сервера. В этой статье разберём, как устроен tgcloud изнутри, почему его документация идеально заточена под разработку с помощью ИИ-агентов, и посмотрим на реальный кейс: как </description>
-      <pubDate>Tue, 20 Oct 2026 00:36:21 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1096488/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1096488</guid>
+      <title>Сколько символов в нике «Аня»? Шесть языков, три ответа, и ни одного правильного</title>
+      <link>https://habr.com/ru/companies/otus/articles/1092502/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092502</link>
+      <description>Пять видимых символов в нике могут превратиться в 10, 15 или 32 — смотря какой язык программирования их считает. Из‑за этой разницы пользователь получает ошибку валидации, теряет часть эмодзи или сталкивается с проблемой при сохранении данных. Разбираемся, почему JavaScript, Python, Go и другие языки по‑разному измеряют длину строк и как правильно задавать ограничения, чтобы данные не терялись. Узнать подробности</description>
+      <pubDate>Tue, 20 Oct 2026 07:12:44 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/otus/articles/1092502/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092502</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Nscale and Anthropic are reportedly in talks for yet another $45 billion compute deal</title>
-      <link>https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/</link>
-      <description>In August, Nscale and Anthropic announced a $45 billion compute deal. The two companies are reportedly discussing yet another deal of the same magnitude.</description>
-      <pubDate>Mon, 19 Oct 2026 23:39:38 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says</title>
-      <link>https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/</link>
-      <description>AI labs have staked their reputations on model benchmarking — the supposedly neutral and accurate system of evaluations that are designed to measure whether one AI product is better than another. However, the methods behind these evaluations are complicated and still maturing, said Irene Solaiman, Hugging Face’s chief policy officer, during a discussion at TechCrunch […]</description>
-      <pubDate>Mon, 19 Oct 2026 22:49:27 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>Elon Musk’s proposed SpaceX stock giveaway would go into ‘Trump Accounts’</title>
-      <link>https://www.theverge.com/tech/1014115/elon-musk-spacex-trump-account</link>
-      <description>President Donald Trump announced this afternoon that Elon Musk's SpaceX shares for children will be given through Trump Accounts. Musk said earlier today that he would give one of his SpaceX shares to "every kid in America" sometime next year. Musk had thanked Trump Account booster Brad Gerstner for "helping enable this," and Trump appeared […]</description>
-      <pubDate>Mon, 19 Oct 2026 22:30:42 +0000</pubDate>
-      <guid>https://www.theverge.com/tech/1014115/elon-musk-spacex-trump-account</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>Делаю светильники из картинок: локальная нейросеть вместо платных 3D-сервисов</title>
-      <link>https://habr.com/ru/articles/1096428/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1096428</link>
-      <description>Давно хотел печатать на 3D-принтере своё, а не скачанные модели. Получились два светильника: орочий череп, который светится изнутри, и планета на подставке из корней. 3D-модели по картинкам делал бесплатной нейросетью TRELLIS.2 прямо на домашней RTX 5060 Ti — без подписок на Tripo и Meshy. Внутри — как обработка чуть не стёрла черепу лицо, почему планету проще посчитать формулой, чем сгенерировать, и как посадить шар между корнями. Скрипты и STL — на GitHub. Как сделать такой же светильник</description>
-      <pubDate>Mon, 19 Oct 2026 22:09:32 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1096428/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1096428</guid>
+      <title>Радуем работодателя, коллег и себя: как заработать на том, что мы есть</title>
+      <link>https://habr.com/ru/articles/1096540/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1096540</link>
+      <description>Как автоматизация одного вечернего действия принесла компании +400 тыс. руб. в месяц, а нам — тренажёр в спортзал. Читать далее</description>
+      <pubDate>Tue, 20 Oct 2026 07:11:43 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1096540/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1096540</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’</title>
-      <link>https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/</link>
-      <description>Microsoft wants enterprises to closely watch the agents that employees use with systems not controlled by AI labs like OpenAI and Anthropic.</description>
-      <pubDate>Mon, 19 Oct 2026 22:04:28 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>CoreWeave’s debt is becoming the whole AI industry’s problem</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai</link>
-      <description>CoreWeave had a bad week last week. Its bonds slipped into distressed territory by a common definition - when investors demand 1,000 basis points more in yield than they'd get from government bonds. Last Tuesady Chamath "SPAC King" Palihapitiya noticed the distressed debt, and also asked whether the AI buildout was a private credit bubble. […]</description>
-      <pubDate>Mon, 19 Oct 2026 21:28:20 +0000</pubDate>
-      <guid>https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>Как я добился эффекта “полного погружения” при работе приложений Sunshine и Moonlight в условиях локальной сети</title>
-      <link>https://habr.com/ru/articles/1096454/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1096454</link>
-      <description>Недавно я уже публиковал на Хабре статью по одной нестандартно решенной мной проблеме в редком сценарии использования связки приложений удаленного доступа Sunshine и Moonlight в мультимониторной конфигурации. Так как я продолжаю активно использовать в работе эти уникальные приложения, позволяющие организовать один из самых приближенных к режиму реального времени удаленных доступов в мире, с трансляцией экрана удаленного устройства, у меня продолжаются “рождаться” необычные задачи и решения, связ</description>
-      <pubDate>Mon, 19 Oct 2026 21:21:52 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1096454/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1096454</guid>
+      <title>10 API-роутеров с долгосрочным бесплатным или сверхдешёвым доступом к DeepSeek, GLM, GPT и другим моделям</title>
+      <link>https://habr.com/ru/articles/1096538/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1096538</link>
+      <description>Собрал 10 API-роутеров, у которых есть бесплатные модели, ежедневные квоты или стартовые бонусы, и проверил каждый после регистрации: какие модели доступны бесплатно или почти бесплатно, какие действуют лимиты и работают ли вызовы через API. Отдельно смотрел, есть ли русский интерфейс, можно ли платить в рублях и открывается ли сайт из России без VPN. В подборке OrcaRouter, TeamoRouter, Srazu, RockAPI, OpenRouter, llmgw, VseGPT, Token Harbor, NaraRouter и FreeRouter. Внутри — две сводные таблицы</description>
+      <pubDate>Tue, 20 Oct 2026 07:08:13 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1096538/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1096538</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Его мы делаем все вместе</title>
-      <link>https://habr.com/ru/companies/gigapisar/articles/1096452/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1096452</link>
-      <description>Привет, Хабр! С первой статьи про Гига Писаря прошло чуть больше месяца, пора подвести итоги. За это время мне пришла масса сообщений: в комментариях, на почту, в issues на GitHub. Особенно приятно, что люди прямо включились. Кто-то присылал пулреквесты, кто-то свои идеи, очень многие находили баги, и мы всё это правили. Получается, что Писаря мы делаем все вместе, коллективно. И я вам за это очень благодарен. Это не только приятно: один я бы никогда столько не предусмотрел, у каждого свой компь</description>
-      <pubDate>Mon, 19 Oct 2026 21:06:50 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/gigapisar/articles/1096452/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1096452</guid>
+      <title>Питание пульта ДУ от нестандартных источников: индукционное и не только</title>
+      <link>https://habr.com/ru/companies/beget/articles/1095772/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095772</link>
+      <description>В прошлой статье мы рассматривали такую интересную тему как оснащение пульта дистанционного управления для бытовой техники, в частности, телевизора, как у меня — совершенно неожиданной вещью: системой встроенного электропитания, на базе генератора механического принципа действия — попросту говоря, генератора на основе широко распространённого мотор-редуктора типа N20 с металлическими шестернями. Как мы там убедились, это абсолютно реально и даже более того — весьма легко устроить! Также, ниже ст</description>
+      <pubDate>Tue, 20 Oct 2026 07:05:42 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/beget/articles/1095772/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095772</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Blackwall quadruples valuation to $2.2B as websites wrangle an increasingly crowded internet</title>
+      <link>https://techcrunch.com/2026/10/20/blackwall-quadruples-valuation-to-2-2b-as-websites-wrangle-an-increasingly-crowded-internet/</link>
+      <description>Blackwall has raised $100M at a $2.2B valuation to continue building security and filtering tools that help websites grapple with growing bot and AI traffic.</description>
+      <pubDate>Tue, 20 Oct 2026 07:01:00 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/20/blackwall-quadruples-valuation-to-2-2b-as-websites-wrangle-an-increasingly-crowded-internet/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>Два параметра PostgreSQL утонули в разбросе теста 1С</title>
+      <link>https://habr.com/ru/articles/1096280/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1096280</link>
+      <description>Два популярных совета по PostgreSQL для 1С, больше shared_buffers и выключенный synchronous_commit, мы проверили тестом Гилева. Но пять прогонов без изменений разошлись шире, чем любая из настроек. Рядом таблицы, команды смены параметров и шесть шагов для своего замера. Как отличить эффект настройки от разброса</description>
+      <pubDate>Tue, 20 Oct 2026 07:00:41 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1096280/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1096280</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>ИТ-шаманизм — когда айтишники старой волны замыкают на себя как можно больше процессов, чтобы их не уволили</title>
+      <link>https://habr.com/ru/companies/h3llo_cloud/articles/1092538/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092538</link>
+      <description>У меня немного подгорела жопа, простите. Это случилось давно, поэтому постараюсь быть объективным. Мы тут ворвались с ноги в банк и написали АБС. Это, если что, ядро банка. Я рассказывал, что мы были отвлечены от облака корпоративными проектами, так вот это один из них. Про то, что там под капотом, расскажу позже отдельно — сейчас система на стейджинге и будет там ещё где-то полгода минимум, но базовый функционал уже работает. Но сегодня не про это. Если вы делаете проект такого масштаба в корпо</description>
+      <pubDate>Tue, 20 Oct 2026 07:00:41 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/h3llo_cloud/articles/1092538/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1092538</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Как я делаю защищенное файловое хранилище — 4: Пришествие gocryptfs</title>
+      <link>https://habr.com/ru/articles/1089946/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089946</link>
+      <description>В четвертой части я расскажу, может ли выжить снеговик в Ереване, почему делать собственный слой шифрования в приложении оказалось плохой идеей и при каких обстоятельствах в проекте наконец-то появился gocryptfs. Читать далее</description>
+      <pubDate>Tue, 20 Oct 2026 07:00:40 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1089946/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1089946</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Китайский гигант в мире мобильных игр: история NetEase</title>
+      <link>https://habr.com/ru/companies/onlinepatent/articles/1096530/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1096530</link>
+      <description>NetEase была основана в июне 1997 года китайским предпринимателем Дин Лэем. Одно из основных направлений ее деятельности — разработка технологии поисковых систем и многопользовательских онлайн-игр. История одной из крупнейших компаний в мире, занимающихся видеоиграми, в нашем материале. Читать далее</description>
+      <pubDate>Tue, 20 Oct 2026 06:43:40 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/onlinepatent/articles/1096530/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1096530</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Что стало с «убийцами 1С»?</title>
+      <link>https://habr.com/ru/articles/1096528/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1096528</link>
+      <description>Ананас, ТУРБО, Jmix, Odoo, lsFusion и другие альтернативы: что предлагали, где обсуждались и что о них известно сейчас. В октябре 2026 года на Хабре появилась статья «Как умрет 1С» . Поводом стал эксперимент с переносом конфигураций на другую технологическую основу. На Мисте обсуждают реализацию : TypeScript, Bun, Vue и знакомые объекты метаданных. Причем такие обсуждения идут давно. За все время существования 1С появились открытые учетные платформы, альтернативные ERP и инструменты разработки б</description>
+      <pubDate>Tue, 20 Oct 2026 06:42:38 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1096528/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1096528</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
   </channel>
