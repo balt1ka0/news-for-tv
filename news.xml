@@ -5,88 +5,88 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Tue, 20 Oct 2026 13:22:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 18:22:30 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>NKT: Илон Маск, мы тоже научили контейнеры летать</title>
-      <link>https://habr.com/ru/companies/autocod/articles/1096752/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1096752</link>
-      <description>Всем привет, снова на связи Александр и коллеги. Мы не могли пройти мимо такого грандиозного события, как презентация Rdstr от Илона Маска. "А не челлендж ли это?" — подумали, и ответили делом, интегрировав в наш продукт NKT технологию Traffic Fly перенос любого стека с одного хоста на другой на лету. Теперь мы можем DevOps Fly Читать далее</description>
-      <pubDate>Tue, 20 Oct 2026 13:18:25 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/autocod/articles/1096752/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1096752</guid>
+      <title>Meta pauses Muse sharing after researchers find AI chats on the web</title>
+      <link>https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats</link>
+      <description>Meta says it paused a Muse feature that lets you share conversations with the AI assistant after researchers found the URLs publicly available on the web, as reported by Ars Technica. In a report published this week, researchers at the security firm Claroc say they found more than 6,800 Muse links through public DNS records. […]</description>
+      <pubDate>Tue, 20 Oct 2026 18:07:34 +0000</pubDate>
+      <guid>https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>Как мы запускали агента в CI по расписанию</title>
+      <link>https://habr.com/ru/articles/1096674/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1096674</link>
+      <description>В статье я расскажу, как мы запускаем ИИ‑агентов для простых повторяющихся задач в Gitlab‑CI с помощью opencode‑cli. Я всё таки родом из QA, так что в качестве примера буду использовать типичную для тестеров задачу — анализ прогона авто‑тестов. Но в целом подход сгодится и для других задач, не связанных с написанием кода напрямую. Упор постараюсь сделать на том, как исполнить это достаточно безопасно на обычной и всем привычной инфраструктуре: gitlab‑ci + раннеры в докере. Читать далее</description>
+      <pubDate>Tue, 20 Oct 2026 18:05:12 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1096674/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1096674</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>SpaceX alum’s aviation startup, Reliable Robotics, lands $115M, topping $1B valuation</title>
-      <link>https://techcrunch.com/2026/10/20/spacex-alums-aviation-startup-reliable-robotics-lands-115m-topping-1b-valuation/</link>
-      <description>Reliable Robotics extended its Series D round with $115 million in equity and $25 million in debt.</description>
-      <pubDate>Tue, 20 Oct 2026 13:17:36 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/20/spacex-alums-aviation-startup-reliable-robotics-lands-115m-topping-1b-valuation/</guid>
+      <title>Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei</title>
+      <link>https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/</link>
+      <description>The former Google CEO owns about 1% stake in the leading AI lab, Bloomberg reported.</description>
+      <pubDate>Tue, 20 Oct 2026 17:55:12 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/</guid>
       <category>TechCrunch</category>
     </item>
     <item>
-      <title>Ваш ИБП не знает, что его батарея мертва. А вы?</title>
-      <link>https://habr.com/ru/companies/se_blog/articles/1096784/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1096784</link>
-      <description>Разбираем восемь параметров, по которым VRLA-аккумулятор сообщает о своей близящейся смерти за месяцы до отказа, почему ни один из них не виден при замере напряжения раз в квартал, и как продлить срок жизни аккумуляторов с помощью системы мониторинга АКБ SystemeBMU . Ситуация: пятница, 23:47. В серверной моргает свет. ИБП переходит на батареи, все штатно… А через 40 секунд он рапортует «Low battery», и стойки начинают гаснуть одна за другой. Утром разбор полетов. В журнале: при последней проверк</description>
-      <pubDate>Tue, 20 Oct 2026 13:11:50 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/se_blog/articles/1096784/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1096784</guid>
+      <title>The $20,000 Voxel bot will help you find misplaced things around your home</title>
+      <link>https://www.theverge.com/tech/1014533/tuesday-labs-voxel-series-1-home-robot-reservation</link>
+      <description>Tuesday Labs, a New York City-based robotics lab and design studio, has opened reservations for Voxel, its new bi-pedal robot designed to learn and take over routine tasks throughout your home. Similar to other robots like Weave Robotics' Issac 1 that are designed for household chores beyond mopping or vacuuming floors, Voxel features a pair […]</description>
+      <pubDate>Tue, 20 Oct 2026 17:49:55 +0000</pubDate>
+      <guid>https://www.theverge.com/tech/1014533/tuesday-labs-voxel-series-1-home-robot-reservation</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>[Перевод] PyTorch MPS против Apple MLX: как дообучать LLM на Mac с 16 ГБ и что выбрать</title>
+      <link>https://habr.com/ru/companies/otus/articles/1090656/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090656</link>
+      <description>Apple MLX создавался для эффективной работы с моделями на Apple Silicon, но при дообучении он может оказаться в несколько раз медленнее PyTorch MPS. Зато там, где MPS упирается в ограничения памяти, MLX позволяет запустить модель вдвое крупнее. Откуда берётся такой разрыв, насколько виновато квантование и какой стек выбрать для локального SFT? Ответы дают 10 запусков Qwen 2.5 с разными размерами моделей и длиной контекста. Изучить бенчмарки</description>
+      <pubDate>Tue, 20 Oct 2026 17:46:10 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/otus/articles/1090656/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090656</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>TikTok employees said they knew about child safety issues, but execs failed to act</title>
-      <link>https://www.theverge.com/tech/1014250/tiktok-employees-internal-child-safety-warnings</link>
-      <description>TikTok was repeatedly warned by its own staffers about risks its platform posed to child safety, according to court records obtained by NPR. The publication reports that employees were frustrated over TikTok executives failing to appropriately act on concerns they raised, including minors bypassing age-restricted content, and appearing in "transactional sexual content" the company could […]</description>
-      <pubDate>Tue, 20 Oct 2026 13:11:23 +0000</pubDate>
-      <guid>https://www.theverge.com/tech/1014250/tiktok-employees-internal-child-safety-warnings</guid>
-      <category>The Verge</category>
+      <title>Я устал читать простыни текста от ИИ‑агентов. Поэтому заставил их рисовать</title>
+      <link>https://habr.com/ru/articles/1096958/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1096958</link>
+      <description>Всем привет! Скажу честно: я как программист очень устал читать горы текста, которые выдают ИИ-кодинг-агенты. Это прямо больно. В частности, когда ты просишь создать файл plan.md, в котором необходимо описать, что нужно сделать, чтобы написать код с нуля или добавить новую фичу в уже существующий проект, я получаю простыню текста в формате Markdown. Ни прототипов интерфейсов, ни диаграмм, которые визуально объясняют, как все работает и выглядит. Читать - тоска зеленая. Вот куда интереснее смотре</description>
+      <pubDate>Tue, 20 Oct 2026 17:38:35 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1096958/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1096958</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>US orders federal agencies to remove China’s DeepSeek AI from their systems</title>
-      <link>https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/</link>
-      <description>The US has ordered federal civilian agencies to remove DeepSeek products and third-party services built using its technology, citing national security concerns.</description>
-      <pubDate>Tue, 20 Oct 2026 13:07:24 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/</guid>
+      <title>[Перевод] Что нового в бета‑версии Vapor 5</title>
+      <link>https://habr.com/ru/articles/1096956/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1096956</link>
+      <description>Теперь, когда мы выпустили бета-версию Vapor 5, пришло время посмотреть, что на самом деле изменилось! В этом посте мы расскажем о том, как работает Vapor 5, какие изменения мы внесли и как будет выглядеть ваш новый код. Этот пост — часть серии публикаций, посвящённых Vapor Week. Подробнее читайте в основном посте блога. Читать далее</description>
+      <pubDate>Tue, 20 Oct 2026 17:36:48 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1096956/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1096956</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Как мы заставили Redis кэшировать POST‑запросы к OpenAI/DeepSeek и выжали 4 900 RPS на Java 21</title>
+      <link>https://habr.com/ru/articles/1096954/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1096954</link>
+      <description>В 2026 году интеграция LLM-моделей (OpenAI, DeepSeek) и тяжелой гео-инфраструктуры (Google Maps, Яндекс.Карты , DaData) есть практически в каждом Enterprise-продукте. И всё бы хорошо, но счета за токены и лимиты API растут нелинейно. Когда наш проект столкнулся с тем, что корпоративный чат-бот и аналитические модули начали «проедать» шестизначные суммы в месяц, мы сели анализировать логи. Выяснилась классическая вещь: до 40% запросов от пользователей или внутренних сервисов — это чистой воды дуб</description>
+      <pubDate>Tue, 20 Oct 2026 17:31:07 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1096954/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1096954</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>[Перевод] Бета — версия Vapor 5</title>
+      <link>https://habr.com/ru/articles/1096952/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1096952</link>
+      <description>Спустя шесть с половиной лет после выхода Vapor 4 и ровно через десять лет после релиза Vapor 1.0. Первый бета-релиз увидел свет ровно через 10 лет после того, как был помечен тегом Vapor 1.0, и после почти 6,5 лет и 306 релизов Vapor 4 я невероятно рад объявить о первом бета-релизе Vapor 5 ! Работа над Vapor 5 началась более двух лет назад, и с момента выхода первой альфа-версии в июне мы потихоньку работали над альфа-версиями. Теперь, после изменения 49 000 строк кода и завершения всех архитек</description>
+      <pubDate>Tue, 20 Oct 2026 17:29:56 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1096952/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1096952</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Meta’s Muse hits 10M U.S. downloads in 40 days, a milestone reached by only 11 other apps</title>
+      <link>https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/</link>
+      <description>Meta's AI companion Muse has surpassed 10 million U.S. downloads in its first 40 days, joining an exclusive group of apps that includes Threads. New data also shows Muse is retaining users at higher rates than its AI rivals.</description>
+      <pubDate>Tue, 20 Oct 2026 17:12:48 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/</guid>
       <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>Adobe Lightroom mobile can now open closed eyes in photos with a simple tap</title>
-      <link>https://www.theverge.com/tech/1014246/adobe-lightroom-mobile-ai-quick-action-open-eyes-closed-blink-repair</link>
-      <description>Adobe announced yesterday that the mobile version of Lightroom, available for iOS, iPadOS, and Android, can now open closed eyes in photos using generative AI with just a single tap. When the app detects a person, or a group of people, have their eyes closed in a photo it will automatically present users with a […]</description>
-      <pubDate>Tue, 20 Oct 2026 13:06:44 +0000</pubDate>
-      <guid>https://www.theverge.com/tech/1014246/adobe-lightroom-mobile-ai-quick-action-open-eyes-closed-blink-repair</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>Scientists finally uncover why statins can cause muscle pain</title>
-      <link>https://www.sciencedaily.com/releases/2026/10/261019093447.htm</link>
-      <description>Scientists have uncovered a surprising reason why statins, the widely prescribed cholesterol-lowering drugs that help prevent heart attacks and strokes, can sometimes cause muscle pain, weakness, and even severe muscle damage. Using advanced imaging technology, researchers discovered that statins can attach to a crucial protein in muscle cells and force open a channel that normally controls calcium flow. This causes calcium to leak continuously, potentially damaging muscle tissue.</description>
-      <pubDate>Tue, 20 Oct 2026 13:00:56 +0000</pubDate>
-      <guid>https://www.sciencedaily.com/releases/2026/10/261019093447.htm</guid>
-      <category>All Top News -- ScienceDaily</category>
-    </item>
-    <item>
-      <title>Wii Sports is back on the Switch 2, and it rules</title>
-      <link>https://www.theverge.com/entertainment/1013753/nintendo-switch-sports-resort-review-switch-2</link>
-      <description>Wii Sports holds an important place in Nintendo's history. It's the best-selling piece of software the company has ever made, one that permeated culture in surprising ways, and its success helped rejuvenate Nintendo after a period of steady decline. It also kicked off one of the company's most important and unassuming franchises. While subsequent sports […]</description>
-      <pubDate>Tue, 20 Oct 2026 13:00:00 +0000</pubDate>
-      <guid>https://www.theverge.com/entertainment/1013753/nintendo-switch-sports-resort-review-switch-2</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>Final Fantasy dips back into the SNES golden era with Resonance</title>
-      <link>https://www.theverge.com/games/1013958/final-fantasy-resonance-review</link>
-      <description>Final Fantasy is a lot different than it used to be. While many of the early Final Fantasy titles look and play similarly to each other, the series has since grown to encompass blockbuster games like Final Fantasy XVI and the gargantuan Final Fantasy VII Remake trilogy, which don't play much like the classics. But […]</description>
-      <pubDate>Tue, 20 Oct 2026 13:00:00 +0000</pubDate>
-      <guid>https://www.theverge.com/games/1013958/final-fantasy-resonance-review</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>Antigravity just halved the price of its drone — by swapping its headset for wristwatch control</title>
-      <link>https://www.theverge.com/tech/1014063/antigravity-a1-drone-follow-me-watch-ring-control</link>
-      <description>Last year's Antigravity A1 is the best beginner drone I've ever tried. I put a friend who'd never flown into its virtual cockpit and didn't worry one bit. The A1's also nice for people who'd prefer to think about flying rather than filming, because you can reframe its 360-degree footage after. But until today, that […]</description>
-      <pubDate>Tue, 20 Oct 2026 13:00:00 +0000</pubDate>
-      <guid>https://www.theverge.com/tech/1014063/antigravity-a1-drone-follow-me-watch-ring-control</guid>
-      <category>The Verge</category>
     </item>
   </channel>
 </rss>
