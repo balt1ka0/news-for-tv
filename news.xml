@@ -5,88 +5,88 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Tue, 20 Oct 2026 18:22:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 22:08:52 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Meta pauses Muse sharing after researchers find AI chats on the web</title>
-      <link>https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats</link>
-      <description>Meta says it paused a Muse feature that lets you share conversations with the AI assistant after researchers found the URLs publicly available on the web, as reported by Ars Technica. In a report published this week, researchers at the security firm Claroc say they found more than 6,800 Muse links through public DNS records. […]</description>
-      <pubDate>Tue, 20 Oct 2026 18:07:34 +0000</pubDate>
-      <guid>https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats</guid>
+      <title>Пять граней диагностики Data Lakehouse: концепция единого рабочего места</title>
+      <link>https://habr.com/ru/articles/1097000/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1097000</link>
+      <description>На проектах миграции данных есть промежуточный этап, когда новая платформа данных уже достаточно большая, чтобы начать создавать проблемы, но ещё недостаточно зрелая, чтобы вокруг неё успела появиться полноценная observability-инфраструктура. Появляются десятки и сотни DAG, Spark-приложений, таблиц Iceberg и цепочек зависимостей. Часть процессов уже переведена на новую платформу, часть всё ещё живёт в legacy, постоянно что-то догружается, пересчитывается и меняется. И довольно быстро простой воп</description>
+      <pubDate>Tue, 20 Oct 2026 21:59:10 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1097000/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1097000</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Tesla and SpaceX are discussing a possible merger, Musk says</title>
+      <link>https://www.theverge.com/science/1014984/spacex-tesla-merger-elon-musk-special-committees</link>
+      <description>Tesla and SpaceX have formed special committees to discuss a possible merger, Elon Musk said during the latter's third quarter earnings call Tuesday. Musk, who serves as CEO of both companies, said the special committees were formed at the request of shareholders and consist of independent directors (though he did not name them). He also […]</description>
+      <pubDate>Tue, 20 Oct 2026 21:30:24 +0000</pubDate>
+      <guid>https://www.theverge.com/science/1014984/spacex-tesla-merger-elon-musk-special-committees</guid>
       <category>The Verge</category>
     </item>
     <item>
-      <title>Как мы запускали агента в CI по расписанию</title>
-      <link>https://habr.com/ru/articles/1096674/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1096674</link>
-      <description>В статье я расскажу, как мы запускаем ИИ‑агентов для простых повторяющихся задач в Gitlab‑CI с помощью opencode‑cli. Я всё таки родом из QA, так что в качестве примера буду использовать типичную для тестеров задачу — анализ прогона авто‑тестов. Но в целом подход сгодится и для других задач, не связанных с написанием кода напрямую. Упор постараюсь сделать на том, как исполнить это достаточно безопасно на обычной и всем привычной инфраструктуре: gitlab‑ci + раннеры в докере. Читать далее</description>
-      <pubDate>Tue, 20 Oct 2026 18:05:12 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1096674/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1096674</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei</title>
-      <link>https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/</link>
-      <description>The former Google CEO owns about 1% stake in the leading AI lab, Bloomberg reported.</description>
-      <pubDate>Tue, 20 Oct 2026 17:55:12 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/</guid>
+      <title>Anthropic’s cloud partnerships are getting messy</title>
+      <link>https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/</link>
+      <description>Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO.</description>
+      <pubDate>Tue, 20 Oct 2026 21:25:22 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/</guid>
       <category>TechCrunch</category>
     </item>
     <item>
-      <title>The $20,000 Voxel bot will help you find misplaced things around your home</title>
-      <link>https://www.theverge.com/tech/1014533/tuesday-labs-voxel-series-1-home-robot-reservation</link>
-      <description>Tuesday Labs, a New York City-based robotics lab and design studio, has opened reservations for Voxel, its new bi-pedal robot designed to learn and take over routine tasks throughout your home. Similar to other robots like Weave Robotics' Issac 1 that are designed for household chores beyond mopping or vacuuming floors, Voxel features a pair […]</description>
-      <pubDate>Tue, 20 Oct 2026 17:49:55 +0000</pubDate>
-      <guid>https://www.theverge.com/tech/1014533/tuesday-labs-voxel-series-1-home-robot-reservation</guid>
+      <title>SpaceX will try catching Starship and its booster for first time, Musk says</title>
+      <link>https://www.theverge.com/science/1014913/spacex-will-try-catching-starship-and-its-booster-for-first-time-musk-says</link>
+      <description>SpaceX CEO Elon Musk said the company would attempt to catch Starship and its booster next month, with the goal of recovering the entire orbital launch system for the first time. If successful, Musk said, the attempt would mark the first time in history an orbital launch vehicle has been fully recovered. "This is a […]</description>
+      <pubDate>Tue, 20 Oct 2026 21:02:53 +0000</pubDate>
+      <guid>https://www.theverge.com/science/1014913/spacex-will-try-catching-starship-and-its-booster-for-first-time-musk-says</guid>
       <category>The Verge</category>
     </item>
     <item>
-      <title>[Перевод] PyTorch MPS против Apple MLX: как дообучать LLM на Mac с 16 ГБ и что выбрать</title>
-      <link>https://habr.com/ru/companies/otus/articles/1090656/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090656</link>
-      <description>Apple MLX создавался для эффективной работы с моделями на Apple Silicon, но при дообучении он может оказаться в несколько раз медленнее PyTorch MPS. Зато там, где MPS упирается в ограничения памяти, MLX позволяет запустить модель вдвое крупнее. Откуда берётся такой разрыв, насколько виновато квантование и какой стек выбрать для локального SFT? Ответы дают 10 запусков Qwen 2.5 с разными размерами моделей и длиной контекста. Изучить бенчмарки</description>
-      <pubDate>Tue, 20 Oct 2026 17:46:10 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/otus/articles/1090656/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090656</guid>
-      <category>Все публикации подряд на Хабре</category>
+      <title>Netflix is telling investors not to worry, even though you’re watching less and less</title>
+      <link>https://www.theverge.com/streaming/1014826/netflix-earnings-q3-2026-viewing-time</link>
+      <description>Netflix is making monetization a top priority amid reports of falling viewing time. As part of its third-quarter earnings report on Tuesday, Netflix lists improvements to monetization as one of its main focuses going forward, alongside efforts to boost entertainment value and leverage new technology. The streaming giant doesn't say exactly how it plans to […]</description>
+      <pubDate>Tue, 20 Oct 2026 20:52:07 +0000</pubDate>
+      <guid>https://www.theverge.com/streaming/1014826/netflix-earnings-q3-2026-viewing-time</guid>
+      <category>The Verge</category>
     </item>
     <item>
-      <title>Я устал читать простыни текста от ИИ‑агентов. Поэтому заставил их рисовать</title>
-      <link>https://habr.com/ru/articles/1096958/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1096958</link>
-      <description>Всем привет! Скажу честно: я как программист очень устал читать горы текста, которые выдают ИИ-кодинг-агенты. Это прямо больно. В частности, когда ты просишь создать файл plan.md, в котором необходимо описать, что нужно сделать, чтобы написать код с нуля или добавить новую фичу в уже существующий проект, я получаю простыню текста в формате Markdown. Ни прототипов интерфейсов, ни диаграмм, которые визуально объясняют, как все работает и выглядит. Читать - тоска зеленая. Вот куда интереснее смотре</description>
-      <pubDate>Tue, 20 Oct 2026 17:38:35 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1096958/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1096958</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>[Перевод] Что нового в бета‑версии Vapor 5</title>
-      <link>https://habr.com/ru/articles/1096956/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1096956</link>
-      <description>Теперь, когда мы выпустили бета-версию Vapor 5, пришло время посмотреть, что на самом деле изменилось! В этом посте мы расскажем о том, как работает Vapor 5, какие изменения мы внесли и как будет выглядеть ваш новый код. Этот пост — часть серии публикаций, посвящённых Vapor Week. Подробнее читайте в основном посте блога. Читать далее</description>
-      <pubDate>Tue, 20 Oct 2026 17:36:48 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1096956/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1096956</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Как мы заставили Redis кэшировать POST‑запросы к OpenAI/DeepSeek и выжали 4 900 RPS на Java 21</title>
-      <link>https://habr.com/ru/articles/1096954/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1096954</link>
-      <description>В 2026 году интеграция LLM-моделей (OpenAI, DeepSeek) и тяжелой гео-инфраструктуры (Google Maps, Яндекс.Карты , DaData) есть практически в каждом Enterprise-продукте. И всё бы хорошо, но счета за токены и лимиты API растут нелинейно. Когда наш проект столкнулся с тем, что корпоративный чат-бот и аналитические модули начали «проедать» шестизначные суммы в месяц, мы сели анализировать логи. Выяснилась классическая вещь: до 40% запросов от пользователей или внутренних сервисов — это чистой воды дуб</description>
-      <pubDate>Tue, 20 Oct 2026 17:31:07 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1096954/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1096954</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>[Перевод] Бета — версия Vapor 5</title>
-      <link>https://habr.com/ru/articles/1096952/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1096952</link>
-      <description>Спустя шесть с половиной лет после выхода Vapor 4 и ровно через десять лет после релиза Vapor 1.0. Первый бета-релиз увидел свет ровно через 10 лет после того, как был помечен тегом Vapor 1.0, и после почти 6,5 лет и 306 релизов Vapor 4 я невероятно рад объявить о первом бета-релизе Vapor 5 ! Работа над Vapor 5 началась более двух лет назад, и с момента выхода первой альфа-версии в июне мы потихоньку работали над альфа-версиями. Теперь, после изменения 49 000 строк кода и завершения всех архитек</description>
-      <pubDate>Tue, 20 Oct 2026 17:29:56 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1096952/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1096952</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Meta’s Muse hits 10M U.S. downloads in 40 days, a milestone reached by only 11 other apps</title>
-      <link>https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/</link>
-      <description>Meta's AI companion Muse has surpassed 10 million U.S. downloads in its first 40 days, joining an exclusive group of apps that includes Threads. New data also shows Muse is retaining users at higher rates than its AI rivals.</description>
-      <pubDate>Tue, 20 Oct 2026 17:12:48 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/</guid>
+      <title>SpaceX’s AI business is beating expectations</title>
+      <link>https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/</link>
+      <description>SpaceX hit profitably in the third-quarter, with net income of $4.4 billion. AI was the engine.</description>
+      <pubDate>Tue, 20 Oct 2026 20:40:41 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/</guid>
       <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business</title>
+      <link>https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/</link>
+      <description>OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researchers plan experiments and analyze results.</description>
+      <pubDate>Tue, 20 Oct 2026 20:35:10 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>Snap is paying Robert Downey Jr. to do the Iron Man thing</title>
+      <link>https://www.theverge.com/tech/1014869/snap-specs-robert-downey-jr</link>
+      <description>Snap has a new brand ambassador for its Specs AR glasses: Iron Man actor Robert Downey Jr. The company has brought on Downey as Specs' "Chief Customer Experience Officer" and has published several videos featuring Downey showcasing the capabilities of the new glasses, including as a tool to get help with a putt, practice art, […]</description>
+      <pubDate>Tue, 20 Oct 2026 20:32:09 +0000</pubDate>
+      <guid>https://www.theverge.com/tech/1014869/snap-specs-robert-downey-jr</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>Почему ИИ плохо писал на COBOL и что изменилось: разбираем новый бенчмарк OpenAI</title>
+      <link>https://habr.com/ru/articles/1096978/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1096978</link>
+      <description>OpenAI опубликовала пост о том, как ее модели справляются с “малоресурсными” языками программирования – COBOL, Fortran, Visual Basic, OCaml. Компания выложила новый бенчмарк MultiLangBench и привела результаты второго, закрытого теста на перенос старого кода. Цифры выглядят как опечатка: прошлое поколение моделей переписывало программы с COBOL на современные языки в 5,4% случаев, новая GPT-6.1 Sol при тех же настройках – в 86,6%, а если дать ей подумать подольше – в 97,9%. Читать далее</description>
+      <pubDate>Tue, 20 Oct 2026 20:29:57 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1096978/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1096978</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>SpaceX says big AI growth fueled revenue jump</title>
+      <link>https://www.theverge.com/science/1014150/spacex-q3-2026-earnings</link>
+      <description>SpaceX announced revenues of $14.6 billion in its Q3 earnings on Tuesday, which it says was a growth of 161 percent year-over-year "fueled by our Super Intelligence (SI) segment and accelerated growth in Connectivity." While its Space division posted a $7 million loss in income from operations, its Connectivity group posted income from operations $2.4 […]</description>
+      <pubDate>Tue, 20 Oct 2026 20:26:58 +0000</pubDate>
+      <guid>https://www.theverge.com/science/1014150/spacex-q3-2026-earnings</guid>
+      <category>The Verge</category>
     </item>
   </channel>
 </rss>
