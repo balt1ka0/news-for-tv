@@ -5,9 +5,33 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Mon, 19 Oct 2026 22:52:17 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 01:36:37 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mamdani says feds have abdicated on AI, urges New Yorkers to push back</title>
+      <link>https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/</link>
+      <description>Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in their hands.</description>
+      <pubDate>Tue, 20 Oct 2026 01:27:03 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>Внутри Telegram Serverless: код, БД и Mini App из коробки</title>
+      <link>https://habr.com/ru/articles/1096488/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1096488</link>
+      <description>Недавно команда Telegram выкатила решение, которое закрывает все эти вопросы разом — нативную платформу Serverless (beta) прямо внутри @BotFather . Теперь запускать серверную логику бота на JavaScript, хранить данные в реляционной БД и раздавать фронтенд для Mini App можно непосредственно в облаке Telegram без собственного сервера. В этой статье разберём, как устроен tgcloud изнутри, почему его документация идеально заточена под разработку с помощью ИИ-агентов, и посмотрим на реальный кейс: как </description>
+      <pubDate>Tue, 20 Oct 2026 00:36:21 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1096488/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1096488</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Nscale and Anthropic are reportedly in talks for yet another $45 billion compute deal</title>
+      <link>https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/</link>
+      <description>In August, Nscale and Anthropic announced a $45 billion compute deal. The two companies are reportedly discussing yet another deal of the same magnitude.</description>
+      <pubDate>Mon, 19 Oct 2026 23:39:38 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/</guid>
+      <category>TechCrunch</category>
+    </item>
     <item>
       <title>Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says</title>
       <link>https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/</link>
@@ -35,7 +59,7 @@
     <item>
       <title>Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’</title>
       <link>https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/</link>
-      <description>Microsoft wants enterprises to closely watch the agents employees use with systems not controlled by AI labs like OpenAI and Anthropic.</description>
+      <description>Microsoft wants enterprises to closely watch the agents that employees use with systems not controlled by AI labs like OpenAI and Anthropic.</description>
       <pubDate>Mon, 19 Oct 2026 22:04:28 +0000</pubDate>
       <guid>https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/</guid>
       <category>TechCrunch</category>
@@ -62,30 +86,6 @@
       <description>Привет, Хабр! С первой статьи про Гига Писаря прошло чуть больше месяца, пора подвести итоги. За это время мне пришла масса сообщений: в комментариях, на почту, в issues на GitHub. Особенно приятно, что люди прямо включились. Кто-то присылал пулреквесты, кто-то свои идеи, очень многие находили баги, и мы всё это правили. Получается, что Писаря мы делаем все вместе, коллективно. И я вам за это очень благодарен. Это не только приятно: один я бы никогда столько не предусмотрел, у каждого свой компь</description>
       <pubDate>Mon, 19 Oct 2026 21:06:50 +0000</pubDate>
       <guid>https://habr.com/ru/companies/gigapisar/articles/1096452/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1096452</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>I tried a $99 plug that promises to track your car and send help when needed — without selling your data</title>
-      <link>https://www.theverge.com/tech/1013918/miles-plug-vehicle-tracking-data-privacy-specs-price-launch-date</link>
-      <description>My 15-year-old daughter just got her learner's permit, so when I was pitched a new gadget tailored to teen drivers, I was intrigued. The Miles Plug is a small device that plugs into your car's OBD-II port and monitors location, driving habits, and vehicle health, along with emergency accident response and roadside assistance. The idea […]</description>
-      <pubDate>Mon, 19 Oct 2026 21:00:17 +0000</pubDate>
-      <guid>https://www.theverge.com/tech/1013918/miles-plug-vehicle-tracking-data-privacy-specs-price-launch-date</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>Нужно больше инстансов, Милорд</title>
-      <link>https://habr.com/ru/articles/1096238/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1096238</link>
-      <description>В те благословенные времена, когда королевство Юндексбург начало стремительно развиваться, государевы советники пришли к заключению, что прежних дорог для дальнейшего процветания уже недостаточно. Купцы жаловались на долгую доставку товаров, гонцы на необходимость объезжать половину континента ради одного письма, а казначейство утверждало, что без расширения международной торговли дальнейший рост экономики окажется под угрозой. Последний аргумент произвёл на государя наибольшее впечатление, поск</description>
-      <pubDate>Mon, 19 Oct 2026 20:55:01 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1096238/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1096238</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Инженерный штраф: как зарабатывать, оставаясь инженером</title>
-      <link>https://habr.com/ru/companies/ecopsy/articles/1096448/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1096448</link>
-      <description>Что такое инженерный штраф и как мы шли к нему 200 лет разобрали тут и тут . В этой статье разберёмся, как можно поменять систему оплаты, чтобы инженер мог больше зарабатывать, оставаясь инженером. Гипотеза такая: в большинстве производственных компаний вклад инженера в конечный финансовый результат не становится основой для оценки его роли и решений о карьерном росте и оплате труда. Положение и доход инженера определяются прежде всего должностью, квалификацией и кругом технических обязанностей.</description>
-      <pubDate>Mon, 19 Oct 2026 20:37:20 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/ecopsy/articles/1096448/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1096448</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
   </channel>
