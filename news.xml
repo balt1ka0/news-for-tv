@@ -5,88 +5,88 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Wed, 21 Oct 2026 18:25:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 22:08:25 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Will TP-Link really make routers in the US? Here’s what it told us</title>
-      <link>https://www.theverge.com/policy/1013807/tp-link-router-us-onshoring-manufacturing-assembly-interview</link>
-      <description>TP-Link, one of the world's leading manufacturers of consumer Wi-Fi routers, is in a precarious position in the US. The company just launched its first Wi-Fi 8 routers, but can't bring them here because of President Donald Trump's foreign router ban. Even though competitors Netgear and Asus make their routers in Asia, they've mysteriously obtained […]</description>
-      <pubDate>Wed, 21 Oct 2026 18:00:00 +0000</pubDate>
-      <guid>https://www.theverge.com/policy/1013807/tp-link-router-us-onshoring-manufacturing-assembly-interview</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>GM promises smarter cars, faster updates, and autonomous dry-cleaning runs</title>
-      <link>https://www.theverge.com/transportation/1014322/gm-onward-ai-ev-battery-compute-av</link>
-      <description>General Motors is still very much in the business of selling gas-guzzling trucks and massive SUVs. But if you listen to its leadership, the Detroit giant is rapidly transforming into a nimble, software-defined tech player with a tightened grip on AI. That was the pitch today, when GM hosted its tech-focused Onward event to unveil […]</description>
-      <pubDate>Wed, 21 Oct 2026 18:00:00 +0000</pubDate>
-      <guid>https://www.theverge.com/transportation/1014322/gm-onward-ai-ev-battery-compute-av</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>Xbox Cloud Gaming’s pay-as-you-go option starts at $3.99 for 10 hours</title>
-      <link>https://www.theverge.com/news/1015321/xbox-cloud-gaming-pay-as-you-go-cloud-hours-pricing</link>
-      <description>Microsoft announced last month that it will let anyone access Xbox Cloud Gaming in November, without the need to subscribe to Xbox Game Pass. The new pay-as-you-go model will require players to purchase bundles of cloud hours, and now Microsoft is revealing today that bundles will start at $3.99 for 10 hours of cloud playtime. […]</description>
-      <pubDate>Wed, 21 Oct 2026 18:00:00 +0000</pubDate>
-      <guid>https://www.theverge.com/news/1015321/xbox-cloud-gaming-pay-as-you-go-cloud-hours-pricing</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>GM is giving OnStar an AI makeover</title>
-      <link>https://techcrunch.com/2026/10/21/gm-is-giving-onstar-an-ai-makeover/</link>
-      <description>It's one of the biggest overhauls ever to the 30-year-old connected car product.</description>
-      <pubDate>Wed, 21 Oct 2026 18:00:00 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/21/gm-is-giving-onstar-an-ai-makeover/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>PHP armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet</title>
-      <link>https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/</link>
-      <description>This is the kind of security issue that was found and prevented by AI, but is also a high risk because of AI.</description>
-      <pubDate>Wed, 21 Oct 2026 17:59:12 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>Как устроена сеть фильтрации CURATOR: путь трафика, BGP, VRF и централизованное управление</title>
-      <link>https://habr.com/ru/articles/1097506/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1097506</link>
-      <description>Две недели назад в новости попал провайдер облака непрерывной доступности Curator, у которого впервые за десятилетие произошел сбой, приведший к полной недоступности всей сети фильтрации. Сегодня они у себя в блоге опубликовали подробный разбор этого инцидента, предварив его наглядным разбором архитектуры совей сети. Я законспектировал именно эту часть: как трафик проходит через узлы защиты, зачем нужны два контекста маршрутизации, какую роль играют BGP и watchdog. Читать далее</description>
-      <pubDate>Wed, 21 Oct 2026 17:40:54 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1097506/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1097506</guid>
+      <title>Почему число это плохой адрес для инструкции?</title>
+      <link>https://habr.com/ru/articles/1097574/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1097574</link>
+      <description>В какой-то момент HydraScript перестал справляться со своей основной задачей — выполнять программы. Статический анализ падал на корректном коде, и его пришлось отключить. Кодогенерация назначала инструкциям неверные адреса: виртуальная машина зацикливалась или падала с исключением. Логика анализа и генерации кода была размазана по иерархии узлов AST. Добавлять возможности языка становилось всё сложнее, а разобраться в очередном баге было отдельной задачей. Пришлось остановиться и подумать, как в</description>
+      <pubDate>Wed, 21 Oct 2026 21:32:46 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1097574/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1097574</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Samsung’s latest 55-inch Frame TV is down to its lowest price yet</title>
-      <link>https://www.theverge.com/gadgets/1015568/samsung-the-frame-tv-2026-deal-sale</link>
-      <description>If you want a TV but prefer something that won’t clash with your room’s decor, Samsung’s The Frame is a standout option that’s designed to look like a piece of framed art instead of a black, monolithic rectangle mounted to your wall. You can buy the latest version of the 55-inch Samsung Frame TV on […]</description>
-      <pubDate>Wed, 21 Oct 2026 17:35:40 +0000</pubDate>
-      <guid>https://www.theverge.com/gadgets/1015568/samsung-the-frame-tv-2026-deal-sale</guid>
+      <title>Meta to create a new class of shares to fund AI push</title>
+      <link>https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings</link>
+      <description>Meta says it's issuing a new class of shares to fund its AI initiatives. As part of its third-quarter earnings report released on Wednesday, the company says the non-voting stock will also go toward potential acquisitions and employee compensation, with trading beginning in 2027. "The scale of investment required to compete, sustain growth, expand infrastructure, […]</description>
+      <pubDate>Wed, 21 Oct 2026 21:30:02 +0000</pubDate>
+      <guid>https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings</guid>
       <category>The Verge</category>
     </item>
     <item>
-      <title>Зябра: как я поймал Карамбу на выходе в интернет и написал свой офлайн-переключатель раскладки</title>
-      <link>https://habr.com/ru/articles/1097500/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1097500</link>
-      <description>В прошлой статье про домашний сервер на Tesla V100 была одна грабля, которая здесь выросла в отдельный проект. Я проверял, что уходит наружу из повседневных инструментов, и разобрал переключатель раскладки Caramba Switcher. Внутри TLS заглянуть не вышло, программу снёс и написал свою. Зябра переворачивает слово, набранное не в той раскладке, ничего не хранит и не открывает сеть. С версии 0.1.5 та же библиотека работает на Windows и на Linux. Читать далее</description>
-      <pubDate>Wed, 21 Oct 2026 17:29:00 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1097500/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1097500</guid>
+      <title>TechCrunch Founder Summit 2026: Everything you need to know</title>
+      <link>https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/</link>
+      <description>TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and scaling their companies.</description>
+      <pubDate>Wed, 21 Oct 2026 21:16:20 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>Meta says Muse has over 10M users, with shopping a top activity</title>
+      <link>https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/</link>
+      <description>Meta Muse users are adopting the app for shopping and personal productivity, the company said during Q3 earnings. The AI app now has over 10M users.</description>
+      <pubDate>Wed, 21 Oct 2026 21:14:19 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>Headless‑браузер без браузера: 5 408 байт</title>
+      <link>https://habr.com/ru/articles/1097568/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1097568</link>
+      <description>Или история о том, как 5408 байт обфусцированного JavaScript, прилетающих в HTTP-заголовке, превращаются в свободный доступ к GPT, Claude, Mistral и генерации картинок если построить браузерный манекен на чистом JS. Читать далее</description>
+      <pubDate>Wed, 21 Oct 2026 21:11:26 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1097568/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1097568</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>EA is shutting down BioWare</title>
-      <link>https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware</link>
-      <description>BioWare, the legendary studio behind RPGs like Mass Effect, Dragon Age, and Star Wars: Knights of the Old Republic, is shutting down, the company confirmed in a statement. Alongside the closure, Electronic Arts has chosen not to continue development on the next Mass Effect game that was in the works, according to an announcement sent […]</description>
-      <pubDate>Wed, 21 Oct 2026 17:19:07 +0000</pubDate>
-      <guid>https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware</guid>
+      <title>Кольцевая РНК в липидных наночастицах помогла при сухости во рту после лучевой терапии</title>
+      <link>https://nplus1.ru/news/2026/10/22/first-in-human-circular-rna</link>
+      <description>Кольцевая РНК в липидных наночастицах помогла при сухости во рту после лучевой терапии</description>
+      <pubDate>Wed, 21 Oct 2026 21:00:00 +0000</pubDate>
+      <guid>https://nplus1.ru/news/2026/10/22/first-in-human-circular-rna</guid>
+      <category>N + 1 — главное издание о науке, технике и технологиях</category>
+    </item>
+    <item>
+      <title>Year-old AI lab Flapping Airplanes raises $1B at a $6B valuation</title>
+      <link>https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation/</link>
+      <description>Just 9 months after raising an $180 million seed round, Flapping Airplanes has landed $1 billion Series A for its mission to build AI models "without ingesting half the internet."</description>
+      <pubDate>Wed, 21 Oct 2026 20:57:40 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>New York’s first microdrama film festival searches for its audience</title>
+      <link>https://www.theverge.com/entertainment/1014494/alza-vertical-film-festival-bill-block-salvador-paskowitz-microdramas-verticals</link>
+      <description>It remains to be seen if people really want to watch vertical content on horizontal TV screens, but many filmmakers and creators were confident that their latest projects would play well at Alza - New York City's first microdrama film festival. Founded by former Tribeca Festival chief operating officer Pete Torres, Alza, which took place […]</description>
+      <pubDate>Wed, 21 Oct 2026 20:49:07 +0000</pubDate>
+      <guid>https://www.theverge.com/entertainment/1014494/alza-vertical-film-festival-bill-block-salvador-paskowitz-microdramas-verticals</guid>
       <category>The Verge</category>
     </item>
     <item>
-      <title>Blacksmith hits unicorn valuation after Sequoia leads Series C</title>
-      <link>https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/</link>
-      <description>Blacksmith, a platform that lets companies build and test AI code more effectively, just announced a $66 million Series C round led by Sequoia that values the company at $1 billion.</description>
-      <pubDate>Wed, 21 Oct 2026 17:18:27 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/</guid>
-      <category>TechCrunch</category>
+      <title>Meta says it would’ve made over $22 billion if it didn’t have to pay a child safety settlement</title>
+      <link>https://www.theverge.com/tech/1015877/meta-q3-2026-earnings-child-safety-settlement</link>
+      <description>Meta had to shell out $9.89 billion to pay for a chunk of the child safety settlement it reached with US attorneys general. That's according to the company's third-quarter earnings report released on Wednesday, which says Meta's income from operations would have been $22.89 billion without the settlement. In August, Meta agreed to pay $17.1 […]</description>
+      <pubDate>Wed, 21 Oct 2026 20:46:56 +0000</pubDate>
+      <guid>https://www.theverge.com/tech/1015877/meta-q3-2026-earnings-child-safety-settlement</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>[Перевод] Что нового в Swift: сентябрь 2 026</title>
+      <link>https://habr.com/ru/articles/1097554/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1097554</link>
+      <description>Добро пожаловать в «Что нового в Swift» — кураторский дайджест релизов, видео и обсуждений в проекте Swift и сообществе. Веб-фреймворк Vapor недавно отметил десятилетие и отпраздновал это Vapor Week! Мы пригласили одного из авторов Vapor стать гостевым автором этого выпуска: Привет, я Тим из основной команды Vapor! 10 лет назад, в сентябре, был выпущен Vapor 1.0, и за эти годы Vapor превратился в комплексный фреймворк для создания бэкендов и API на Swift. К годовщине мы выпустили первую бету Vap</description>
+      <pubDate>Wed, 21 Oct 2026 20:39:15 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1097554/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1097554</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
   </channel>
 </rss>
