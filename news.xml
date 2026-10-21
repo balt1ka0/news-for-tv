@@ -5,87 +5,87 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Wed, 21 Oct 2026 07:08:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 13:29:48 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Стартуем? 183 года истории факса</title>
-      <link>https://habr.com/ru/companies/beget/articles/1087736/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1087736</link>
-      <description>Принято считать, что факс изобрел шотландец Александр Бейн. В 1843 году он получил британский патент № 9745, и в любой истории факса начинают с этой даты, мол, офигеть! Факс появился раньше телефона! И поспорить трудно, да, на 33 года раньше телефона. Но если открыть описание патента, то мы узнаем, что Бейн изобрел нечто, лишь очень отдаленно напоминающее факс. Что, впрочем, не мешает ему быть родоначальником целого направления в связи. В этой статье предлагаю вспомнить историю передачи изображе</description>
-      <pubDate>Wed, 21 Oct 2026 07:05:08 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/beget/articles/1087736/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1087736</guid>
+      <title>ИИ может прыгать</title>
+      <link>https://habr.com/ru/articles/1097352/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1097352</link>
+      <description>В этом году, похоже, мы уже окончательно перешли на кодирование с ИИ, и назад дороги нет. Лично у меня ИИ отобрать будет сложно — крепко на него подсел. Но вот что я до недавнего времени никак не мог понять: почему одни разработчики утверждают, что теперь весь код за них пишет ИИ и им вообще не приходится ничего делать, в то время как другие настаивают на том, что ИИ — это лишь помощник и код за ним надо тщательно проверять. А есть и такие, кто в ИИ полностью разочаровался и, по их словам, испол</description>
+      <pubDate>Wed, 21 Oct 2026 13:21:44 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1097352/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1097352</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Рецензия на книгу «Практическое руководство для архитекторов решений»</title>
-      <link>https://habr.com/ru/companies/ssp-soft/articles/1093526/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093526</link>
-      <description>В этой рецензии продолжаем линию на обзор книг по бизнес-практикам в ИТ, которую задала недавняя статья издательства БХВ . Книгу «Практическое руководство для архитекторов решений» написал российский автор Дмитрий Бардин, архитектор решений из Кинопоиска. Автор старался показать, как объединить архитектуру отдельного приложения с корпоративной архитектурой. Книга адресована разработчикам, аналитикам и руководителям групп (тимлидам), которые хотят понять, чем на самом деле занимается архитектор р</description>
-      <pubDate>Wed, 21 Oct 2026 07:03:08 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/ssp-soft/articles/1093526/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093526</guid>
+      <title>Nvidia’s latest GPU driver brings a new way to speed up PC games</title>
+      <link>https://www.theverge.com/news/1015299/nvidia-driver-microsoft-advanced-shader-delivery-support</link>
+      <description>Nvidia is rolling out a new GPU driver today (621.01) that enables Microsoft's new Advanced Shader Delivery technology to speed up game launches. The technology also removes mid-game "just-in-time" shader compilation, reducing stuttering and CPU spikes. Microsoft's Advanced Shader Delivery works by offloading shader compilation for different hardware combinations to the cloud. "Using DirectX 12, […]</description>
+      <pubDate>Wed, 21 Oct 2026 13:09:26 +0000</pubDate>
+      <guid>https://www.theverge.com/news/1015299/nvidia-driver-microsoft-advanced-shader-delivery-support</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>[Перевод] Мы скормили Claude три года комментариев к PR. Теперь он ревьюит код как наша команда</title>
+      <link>https://habr.com/ru/companies/otus/articles/1096720/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1096720</link>
+      <description>Искусственный интеллект помог нашей команде писать код быстрее, но ревью по-прежнему тормозило разработку. Тогда мы взяли три года комментариев к PR и собрали на их основе ИИ-ревьюера, который знает, к чему обычно придирается каждый из коллег. Рассказываем, как устроен этот инструмент, почему первая мультиагентная версия оказалась слишком дорогой и как удалось снизить стоимость проверки почти в семь раз. Читать далее</description>
+      <pubDate>Wed, 21 Oct 2026 13:05:35 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/otus/articles/1096720/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1096720</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Cisco: значение лого и названия в раскрытии темы «сисек»</title>
-      <link>https://habr.com/ru/articles/1097068/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1097068</link>
-      <description>Раскрываем тему "сисек" в контексте связи назания и логотипов Cisco для транспортного простонародья. Почему то же так прижилось? Читать далее</description>
-      <pubDate>Wed, 21 Oct 2026 06:57:26 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1097068/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1097068</guid>
+      <title>Too much RNA can starve cells of energy, scientists discover</title>
+      <link>https://www.sciencedaily.com/releases/2026/10/261020085023.htm</link>
+      <description>Scientists have uncovered an unexpected danger lurking inside cells: too much RNA can damage the structures responsible for producing energy. A new study found that excess RNA, including the normally essential messenger RNA (mRNA), can directly disrupt mitochondria without relying on the immune system. The discovery could help explain how viral infections and certain aging-related diseases damage cells.</description>
+      <pubDate>Wed, 21 Oct 2026 13:02:34 +0000</pubDate>
+      <guid>https://www.sciencedaily.com/releases/2026/10/261020085023.htm</guid>
+      <category>All Top News -- ScienceDaily</category>
+    </item>
+    <item>
+      <title>Что за новая профессия такая — ИИ-репетитор?</title>
+      <link>https://habr.com/ru/companies/ruvds/articles/1097194/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1097194</link>
+      <description>Недавно я узнал, что в России появилась новая профессия — репетитор по искусственному интеллекту. Один из таких репетиторов любезно согласился дать мне интервью. Из него вы узнаете, кто эти люди, сколько они зарабатывают, кто их клиенты, какими инструментами пользуются сами, за какими ИИ-инфлюенсерами они следят и многое другое. Читать далее</description>
+      <pubDate>Wed, 21 Oct 2026 13:01:35 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/ruvds/articles/1097194/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1097194</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Телеграм-бот для удалённых сообщений: как устроен архив на Telegram Business API, aiogram 3 и FastAPI</title>
-      <link>https://habr.com/ru/articles/1097062/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1097062</link>
-      <description>В Telegram у сообщения нет истории правок и корзины: собеседник может удалить его или тихо поменять сумму. Разбираю, как устроен мой бот на Telegram Business API, aiogram 3 и FastAPI, который сохраняет такие события. Вебхук с записью в БД до ответа 200, шифрование на уровне приложения, сломанный JSON из-за LinkPreviewOptions, смещения в UTF-16, подсветка правок через difflib и приём платежей через Т-Банк и СБП. Отдельно о том, где заканчиваются возможности платформы и какие вопросы согласия при </description>
-      <pubDate>Wed, 21 Oct 2026 06:42:31 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1097062/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1097062</guid>
+      <title>Mach9 raises $34M after pivoting to AI CAD software</title>
+      <link>https://techcrunch.com/2026/10/21/mach9-raises-34m-after-pivoting-to-ai-cad-software/</link>
+      <description>The startup initially set out to build better, faster, and cheaper surveying hardware in 2021.</description>
+      <pubDate>Wed, 21 Oct 2026 13:00:00 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/21/mach9-raises-34m-after-pivoting-to-ai-cad-software/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>A train was delayed by a solar storm. But something didn't add up.</title>
+      <link>https://www.sciencedaily.com/releases/2026/10/261020085021.htm</link>
+      <description>Scientists have cracked a 178-year-old mystery surrounding a train delayed by a solar storm, revealing that the famous incident happened in 1848 rather than 1841. The discovery rewrites the early history of space weather and highlights a threat that still endangers modern power grids, satellites, and communication systems.</description>
+      <pubDate>Wed, 21 Oct 2026 12:35:57 +0000</pubDate>
+      <guid>https://www.sciencedaily.com/releases/2026/10/261020085021.htm</guid>
+      <category>All Top News -- ScienceDaily</category>
+    </item>
+    <item>
+      <title>Архитектура пространственного аудита недвижимости: как подружить FastAPI, НСПД, OSM и не словить 403 на госсайтах</title>
+      <link>https://habr.com/ru/articles/1097324/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1097324</link>
+      <description>Привет, Хабр! Последние полгода я в одиночку разрабатываю пет-проект НедвижСкан — сервис экспресс-проверки недвижимости перед сделкой. Идея казалась тривиальной: пользователь вводит адрес квартиры или кадастровый номер земельного участка, бэкенд на Python за 30 секунд опрашивает открытые пространственные и государственные реестры, рассчитывает матрицу рисков (охранные зоны ЗОУИТ, ЛЭП, затопления, водоохранку, придорожные полосы, промышленные СЗЗ, рельеф, экологию) и отдает клиенту структурирован</description>
+      <pubDate>Wed, 21 Oct 2026 12:33:56 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1097324/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1097324</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Алюминиевый король Поднебесной: Aluminum Corporation of China</title>
-      <link>https://habr.com/ru/companies/onlinepatent/articles/1097060/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1097060</link>
-      <description>Корпорация Aluminum Corporation of China (Chalco) разместила в разное время свои акции и расписки на биржах в Гонконге, Шанхае и Нью-Йорке. С последней, правда, пришлось провести делистинг из-за ухудшения американо-китайских отношений, но на операционных показателях предприятия это сказалось слабо. Ее управление находится на материковом Китае, а большая часть акций принадлежит государству. Это самый крупный добытчик алюминия в Китае и третий в мире, а также второй в мире производитель глинозема.</description>
-      <pubDate>Wed, 21 Oct 2026 06:36:50 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/onlinepatent/articles/1097060/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1097060</guid>
+      <title>Безопасность ИИ-агента: больше контроля или специальная среда?</title>
+      <link>https://habr.com/ru/articles/1097322/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1097322</link>
+      <description>TL;DR. 19 октября из Microsoft написали, что агентов внутри компании нужно считать инсайдерами без презумпции доверия. Предложение: агенты-надзиратели, которые смотрят каждое действие каждого агента до того, как оно совершится. Я согласен с диагнозом, но сомневаюсь в рецепте. В посте есть слово overprivileged, и, по-моему, вся беда в нём: агенту выдали права с запасом, потому что точнее выдать было нельзя — права разбросаны по системам и единой модели у них нет. Моя гипотеза: часть надзора можно</description>
+      <pubDate>Wed, 21 Oct 2026 12:29:56 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1097322/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1097322</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>136,3 млн опыта = 0 баллов: как Xmin меняет оценку в IT-тендере</title>
-      <link>https://habr.com/ru/articles/1096862/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1096862</link>
-      <description>Про другой наш тендерный опыт я уже рассказывал в статье «Работающий WebGL и 27 контрактов на 168 млн: как мы дважды получили ноль в IT-тендерах» . Там мы разбирались с формальностями и тем, как комиссия читает заявку. В этот раз самое интересное начинается в математике: документы на месте, опыт подтвержден, цена хорошая — а дальше расчет местами больше похож на игру. Потому что ваши баллы зависят не только от вашей заявки, но и от того, кто еще пришел в конкурс. В одном из конкурсов мы как раз </description>
-      <pubDate>Wed, 21 Oct 2026 06:35:26 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1096862/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1096862</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Слепой краш-тест 27 LLM осени 2026 (GPT-6, Opus, Алиса): кто сломал JSON, проглотил инъекцию и влетел на 152-ФЗ</title>
-      <link>https://habr.com/ru/articles/1096934/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1096934</link>
-      <description>В январе этого года я уже выкладывал на Хабре свой первый большой аудит 14 нейросетей на галлюцинации (тогда я пару недель гонял тесты в декабре сразу после выхода Gemini 3, а в январе упаковал результаты в статью). За прошедшие девять месяцев ландшафт изменился до неузнаваемости: вышли новые поколения флагманов, а требования бизнеса сместились от «поболтать в чате» к жёстким продакшен-пайплайнам. Этой осенью я специально держал паузу и не запускал новый прогон, пока на арену не выйдет последний</description>
-      <pubDate>Wed, 21 Oct 2026 06:23:03 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1096934/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1096934</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Мой PostgreSQL быстрее твоего и почти догнал ClickHouse</title>
-      <link>https://habr.com/ru/articles/1097022/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1097022</link>
-      <description>Мой знакомый - отличный архитектор, но полнейший сноб. У него в проде четыре разных базы данных. PostgreSQL для OLTP, в ClickHouse у него лежат данные OpenTelemetry и веб аналитики, Elasticsearch для полнотекстового поиска в приложении, а MongoDB - “так исторически сложилось”. Между всем этим ETL, CDC вместе с дежурствами разработчиков в поисках где именно результаты не сходятся. Для него это все продуманная архитектура, а для меня излишняя сложностью в поддержке и разработке. Недавно рассказал </description>
-      <pubDate>Wed, 21 Oct 2026 06:00:36 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1097022/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1097022</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Почему обычный сканер пасует в Kubernetes: VM для контейнеров и облаков</title>
-      <link>https://habr.com/ru/articles/1073180/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1073180</link>
-      <description>Контейнеры живут секунды - что здесь вообще считать активом? А в облаке половину работы делает провайдер, но какую именно? Разбираем специфику управления уязвимостями в Docker, Kubernetes и облаках, класс решений container security и CNAPP, и главную ошибку - наивную веру, что “мы в облаке, провайдер за все отвечает”. Читать далее</description>
-      <pubDate>Wed, 21 Oct 2026 05:30:55 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1073180/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1073180</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Сборщик вам не марафонец: мы связали 5 компонентов FBS-сборки, чтобы сократить путь между полками</title>
-      <link>https://habr.com/ru/companies/cleverence/articles/1095466/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095466</link>
-      <description>Когда сборка привязана к ПК и стационарному сканеру, сотрудник несёт найденный товар к рабочему месту, подтверждает его и снова идёт к полкам. Чем больше заказов, тем чаще повторяется этот маршрут. ТСД с приложением «Маркетплейс 15» переносит точку сканирования к товару: сотрудник за один обход подбирает позиции сразу для нескольких заказов, а у упаковочного стола распределяет их по заказам и печатает этикетки. Серверная часть продукта служит связующим слоем между Ozon, Wildberries, мобильным ра</description>
-      <pubDate>Wed, 21 Oct 2026 04:41:51 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/cleverence/articles/1095466/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095466</guid>
+      <title>InkPeek — переводчик для Android-читалок: работает офлайн, а с интернетом ещё и объясняет через AI</title>
+      <link>https://habr.com/ru/articles/1097304/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1097304</link>
+      <description>Привет. Это пост про небольшое приложение, которое я сделал для себя. Скажу сразу: писал я его в паре с нейронкой. Как Хабр сейчас относится к таким проектам, не знаю, но вдруг кому-то пригодится. Захотелось мне читать больше книг на иностранном языке - на электронной книге, разумеется. Но удобного словаря для читалки, который сразу переводил бы слово или фразу поверх страницы, а при наличии сети ещё и объяснял грамматику, я не нашёл: AI-плагины к KOReader перегружены, а словари для FBReader выг</description>
+      <pubDate>Wed, 21 Oct 2026 12:18:31 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1097304/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1097304</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
   </channel>
