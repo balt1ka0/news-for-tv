@@ -5,88 +5,88 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Wed, 21 Oct 2026 13:29:48 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 18:25:29 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>ИИ может прыгать</title>
-      <link>https://habr.com/ru/articles/1097352/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1097352</link>
-      <description>В этом году, похоже, мы уже окончательно перешли на кодирование с ИИ, и назад дороги нет. Лично у меня ИИ отобрать будет сложно — крепко на него подсел. Но вот что я до недавнего времени никак не мог понять: почему одни разработчики утверждают, что теперь весь код за них пишет ИИ и им вообще не приходится ничего делать, в то время как другие настаивают на том, что ИИ — это лишь помощник и код за ним надо тщательно проверять. А есть и такие, кто в ИИ полностью разочаровался и, по их словам, испол</description>
-      <pubDate>Wed, 21 Oct 2026 13:21:44 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1097352/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1097352</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Nvidia’s latest GPU driver brings a new way to speed up PC games</title>
-      <link>https://www.theverge.com/news/1015299/nvidia-driver-microsoft-advanced-shader-delivery-support</link>
-      <description>Nvidia is rolling out a new GPU driver today (621.01) that enables Microsoft's new Advanced Shader Delivery technology to speed up game launches. The technology also removes mid-game "just-in-time" shader compilation, reducing stuttering and CPU spikes. Microsoft's Advanced Shader Delivery works by offloading shader compilation for different hardware combinations to the cloud. "Using DirectX 12, […]</description>
-      <pubDate>Wed, 21 Oct 2026 13:09:26 +0000</pubDate>
-      <guid>https://www.theverge.com/news/1015299/nvidia-driver-microsoft-advanced-shader-delivery-support</guid>
+      <title>Will TP-Link really make routers in the US? Here’s what it told us</title>
+      <link>https://www.theverge.com/policy/1013807/tp-link-router-us-onshoring-manufacturing-assembly-interview</link>
+      <description>TP-Link, one of the world's leading manufacturers of consumer Wi-Fi routers, is in a precarious position in the US. The company just launched its first Wi-Fi 8 routers, but can't bring them here because of President Donald Trump's foreign router ban. Even though competitors Netgear and Asus make their routers in Asia, they've mysteriously obtained […]</description>
+      <pubDate>Wed, 21 Oct 2026 18:00:00 +0000</pubDate>
+      <guid>https://www.theverge.com/policy/1013807/tp-link-router-us-onshoring-manufacturing-assembly-interview</guid>
       <category>The Verge</category>
     </item>
     <item>
-      <title>[Перевод] Мы скормили Claude три года комментариев к PR. Теперь он ревьюит код как наша команда</title>
-      <link>https://habr.com/ru/companies/otus/articles/1096720/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1096720</link>
-      <description>Искусственный интеллект помог нашей команде писать код быстрее, но ревью по-прежнему тормозило разработку. Тогда мы взяли три года комментариев к PR и собрали на их основе ИИ-ревьюера, который знает, к чему обычно придирается каждый из коллег. Рассказываем, как устроен этот инструмент, почему первая мультиагентная версия оказалась слишком дорогой и как удалось снизить стоимость проверки почти в семь раз. Читать далее</description>
-      <pubDate>Wed, 21 Oct 2026 13:05:35 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/otus/articles/1096720/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1096720</guid>
-      <category>Все публикации подряд на Хабре</category>
+      <title>GM promises smarter cars, faster updates, and autonomous dry-cleaning runs</title>
+      <link>https://www.theverge.com/transportation/1014322/gm-onward-ai-ev-battery-compute-av</link>
+      <description>General Motors is still very much in the business of selling gas-guzzling trucks and massive SUVs. But if you listen to its leadership, the Detroit giant is rapidly transforming into a nimble, software-defined tech player with a tightened grip on AI. That was the pitch today, when GM hosted its tech-focused Onward event to unveil […]</description>
+      <pubDate>Wed, 21 Oct 2026 18:00:00 +0000</pubDate>
+      <guid>https://www.theverge.com/transportation/1014322/gm-onward-ai-ev-battery-compute-av</guid>
+      <category>The Verge</category>
     </item>
     <item>
-      <title>Too much RNA can starve cells of energy, scientists discover</title>
-      <link>https://www.sciencedaily.com/releases/2026/10/261020085023.htm</link>
-      <description>Scientists have uncovered an unexpected danger lurking inside cells: too much RNA can damage the structures responsible for producing energy. A new study found that excess RNA, including the normally essential messenger RNA (mRNA), can directly disrupt mitochondria without relying on the immune system. The discovery could help explain how viral infections and certain aging-related diseases damage cells.</description>
-      <pubDate>Wed, 21 Oct 2026 13:02:34 +0000</pubDate>
-      <guid>https://www.sciencedaily.com/releases/2026/10/261020085023.htm</guid>
-      <category>All Top News -- ScienceDaily</category>
+      <title>Xbox Cloud Gaming’s pay-as-you-go option starts at $3.99 for 10 hours</title>
+      <link>https://www.theverge.com/news/1015321/xbox-cloud-gaming-pay-as-you-go-cloud-hours-pricing</link>
+      <description>Microsoft announced last month that it will let anyone access Xbox Cloud Gaming in November, without the need to subscribe to Xbox Game Pass. The new pay-as-you-go model will require players to purchase bundles of cloud hours, and now Microsoft is revealing today that bundles will start at $3.99 for 10 hours of cloud playtime. […]</description>
+      <pubDate>Wed, 21 Oct 2026 18:00:00 +0000</pubDate>
+      <guid>https://www.theverge.com/news/1015321/xbox-cloud-gaming-pay-as-you-go-cloud-hours-pricing</guid>
+      <category>The Verge</category>
     </item>
     <item>
-      <title>Что за новая профессия такая — ИИ-репетитор?</title>
-      <link>https://habr.com/ru/companies/ruvds/articles/1097194/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1097194</link>
-      <description>Недавно я узнал, что в России появилась новая профессия — репетитор по искусственному интеллекту. Один из таких репетиторов любезно согласился дать мне интервью. Из него вы узнаете, кто эти люди, сколько они зарабатывают, кто их клиенты, какими инструментами пользуются сами, за какими ИИ-инфлюенсерами они следят и многое другое. Читать далее</description>
-      <pubDate>Wed, 21 Oct 2026 13:01:35 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/ruvds/articles/1097194/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1097194</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Mach9 raises $34M after pivoting to AI CAD software</title>
-      <link>https://techcrunch.com/2026/10/21/mach9-raises-34m-after-pivoting-to-ai-cad-software/</link>
-      <description>The startup initially set out to build better, faster, and cheaper surveying hardware in 2021.</description>
-      <pubDate>Wed, 21 Oct 2026 13:00:00 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/21/mach9-raises-34m-after-pivoting-to-ai-cad-software/</guid>
+      <title>GM is giving OnStar an AI makeover</title>
+      <link>https://techcrunch.com/2026/10/21/gm-is-giving-onstar-an-ai-makeover/</link>
+      <description>It's one of the biggest overhauls ever to the 30-year-old connected car product.</description>
+      <pubDate>Wed, 21 Oct 2026 18:00:00 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/21/gm-is-giving-onstar-an-ai-makeover/</guid>
       <category>TechCrunch</category>
     </item>
     <item>
-      <title>A train was delayed by a solar storm. But something didn't add up.</title>
-      <link>https://www.sciencedaily.com/releases/2026/10/261020085021.htm</link>
-      <description>Scientists have cracked a 178-year-old mystery surrounding a train delayed by a solar storm, revealing that the famous incident happened in 1848 rather than 1841. The discovery rewrites the early history of space weather and highlights a threat that still endangers modern power grids, satellites, and communication systems.</description>
-      <pubDate>Wed, 21 Oct 2026 12:35:57 +0000</pubDate>
-      <guid>https://www.sciencedaily.com/releases/2026/10/261020085021.htm</guid>
-      <category>All Top News -- ScienceDaily</category>
+      <title>PHP armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet</title>
+      <link>https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/</link>
+      <description>This is the kind of security issue that was found and prevented by AI, but is also a high risk because of AI.</description>
+      <pubDate>Wed, 21 Oct 2026 17:59:12 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/</guid>
+      <category>TechCrunch</category>
     </item>
     <item>
-      <title>Архитектура пространственного аудита недвижимости: как подружить FastAPI, НСПД, OSM и не словить 403 на госсайтах</title>
-      <link>https://habr.com/ru/articles/1097324/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1097324</link>
-      <description>Привет, Хабр! Последние полгода я в одиночку разрабатываю пет-проект НедвижСкан — сервис экспресс-проверки недвижимости перед сделкой. Идея казалась тривиальной: пользователь вводит адрес квартиры или кадастровый номер земельного участка, бэкенд на Python за 30 секунд опрашивает открытые пространственные и государственные реестры, рассчитывает матрицу рисков (охранные зоны ЗОУИТ, ЛЭП, затопления, водоохранку, придорожные полосы, промышленные СЗЗ, рельеф, экологию) и отдает клиенту структурирован</description>
-      <pubDate>Wed, 21 Oct 2026 12:33:56 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1097324/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1097324</guid>
+      <title>Как устроена сеть фильтрации CURATOR: путь трафика, BGP, VRF и централизованное управление</title>
+      <link>https://habr.com/ru/articles/1097506/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1097506</link>
+      <description>Две недели назад в новости попал провайдер облака непрерывной доступности Curator, у которого впервые за десятилетие произошел сбой, приведший к полной недоступности всей сети фильтрации. Сегодня они у себя в блоге опубликовали подробный разбор этого инцидента, предварив его наглядным разбором архитектуры совей сети. Я законспектировал именно эту часть: как трафик проходит через узлы защиты, зачем нужны два контекста маршрутизации, какую роль играют BGP и watchdog. Читать далее</description>
+      <pubDate>Wed, 21 Oct 2026 17:40:54 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1097506/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1097506</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Безопасность ИИ-агента: больше контроля или специальная среда?</title>
-      <link>https://habr.com/ru/articles/1097322/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1097322</link>
-      <description>TL;DR. 19 октября из Microsoft написали, что агентов внутри компании нужно считать инсайдерами без презумпции доверия. Предложение: агенты-надзиратели, которые смотрят каждое действие каждого агента до того, как оно совершится. Я согласен с диагнозом, но сомневаюсь в рецепте. В посте есть слово overprivileged, и, по-моему, вся беда в нём: агенту выдали права с запасом, потому что точнее выдать было нельзя — права разбросаны по системам и единой модели у них нет. Моя гипотеза: часть надзора можно</description>
-      <pubDate>Wed, 21 Oct 2026 12:29:56 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1097322/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1097322</guid>
+      <title>Samsung’s latest 55-inch Frame TV is down to its lowest price yet</title>
+      <link>https://www.theverge.com/gadgets/1015568/samsung-the-frame-tv-2026-deal-sale</link>
+      <description>If you want a TV but prefer something that won’t clash with your room’s decor, Samsung’s The Frame is a standout option that’s designed to look like a piece of framed art instead of a black, monolithic rectangle mounted to your wall. You can buy the latest version of the 55-inch Samsung Frame TV on […]</description>
+      <pubDate>Wed, 21 Oct 2026 17:35:40 +0000</pubDate>
+      <guid>https://www.theverge.com/gadgets/1015568/samsung-the-frame-tv-2026-deal-sale</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>Зябра: как я поймал Карамбу на выходе в интернет и написал свой офлайн-переключатель раскладки</title>
+      <link>https://habr.com/ru/articles/1097500/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1097500</link>
+      <description>В прошлой статье про домашний сервер на Tesla V100 была одна грабля, которая здесь выросла в отдельный проект. Я проверял, что уходит наружу из повседневных инструментов, и разобрал переключатель раскладки Caramba Switcher. Внутри TLS заглянуть не вышло, программу снёс и написал свою. Зябра переворачивает слово, набранное не в той раскладке, ничего не хранит и не открывает сеть. С версии 0.1.5 та же библиотека работает на Windows и на Linux. Читать далее</description>
+      <pubDate>Wed, 21 Oct 2026 17:29:00 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1097500/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1097500</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>InkPeek — переводчик для Android-читалок: работает офлайн, а с интернетом ещё и объясняет через AI</title>
-      <link>https://habr.com/ru/articles/1097304/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1097304</link>
-      <description>Привет. Это пост про небольшое приложение, которое я сделал для себя. Скажу сразу: писал я его в паре с нейронкой. Как Хабр сейчас относится к таким проектам, не знаю, но вдруг кому-то пригодится. Захотелось мне читать больше книг на иностранном языке - на электронной книге, разумеется. Но удобного словаря для читалки, который сразу переводил бы слово или фразу поверх страницы, а при наличии сети ещё и объяснял грамматику, я не нашёл: AI-плагины к KOReader перегружены, а словари для FBReader выг</description>
-      <pubDate>Wed, 21 Oct 2026 12:18:31 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1097304/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1097304</guid>
-      <category>Все публикации подряд на Хабре</category>
+      <title>EA is shutting down BioWare</title>
+      <link>https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware</link>
+      <description>BioWare, the legendary studio behind RPGs like Mass Effect, Dragon Age, and Star Wars: Knights of the Old Republic, is shutting down, the company confirmed in a statement. Alongside the closure, Electronic Arts has chosen not to continue development on the next Mass Effect game that was in the works, according to an announcement sent […]</description>
+      <pubDate>Wed, 21 Oct 2026 17:19:07 +0000</pubDate>
+      <guid>https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>Blacksmith hits unicorn valuation after Sequoia leads Series C</title>
+      <link>https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/</link>
+      <description>Blacksmith, a platform that lets companies build and test AI code more effectively, just announced a $66 million Series C round led by Sequoia that values the company at $1 billion.</description>
+      <pubDate>Wed, 21 Oct 2026 17:18:27 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/</guid>
+      <category>TechCrunch</category>
     </item>
   </channel>
 </rss>
