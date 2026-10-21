@@ -5,87 +5,87 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Wed, 21 Oct 2026 01:19:49 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 07:08:31 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>YouTube might be testing hiding the dislike button</title>
-      <link>https://www.theverge.com/streaming/1015099/youtube-dislike-button-hide-menu</link>
-      <description>YouTube appears to be testing hiding the dislike button on videos, as reported by 9to5Google. At least two users on X have recently shared screenshots of the dislike button now being placed in the three-dots submenu, and a user on Reddit also shared an image of the dislike button being absent for them. Right now, […]</description>
-      <pubDate>Wed, 21 Oct 2026 00:00:56 +0000</pubDate>
-      <guid>https://www.theverge.com/streaming/1015099/youtube-dislike-button-hide-menu</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>Два роадмапа за двое суток: что нового в Sextant 0.12–0.19</title>
-      <link>https://habr.com/ru/articles/1097014/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1097014</link>
-      <description>После прошлой статьи вышли 16 релизов Sextant — бесплатного open-source клиента Kubernetes на Rust и Tauri, замены Lens без аккаунта и подписки. Сначала за сутки вышел весь роадмап 0.12–0.15. Потом в комментариях нас сравнили с Radar; мы составили список того, чего у нас нет, и к ночи выпустили 0.16–0.19: граф живого трафика, проверки best practices, диагностику «почему Service не получает трафик», файлы образа прямо из registry и разделы для Argo Rollouts, Crossplane, Kyverno и других операторо</description>
-      <pubDate>Tue, 20 Oct 2026 23:49:47 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1097014/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1097014</guid>
+      <title>Стартуем? 183 года истории факса</title>
+      <link>https://habr.com/ru/companies/beget/articles/1087736/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1087736</link>
+      <description>Принято считать, что факс изобрел шотландец Александр Бейн. В 1843 году он получил британский патент № 9745, и в любой истории факса начинают с этой даты, мол, офигеть! Факс появился раньше телефона! И поспорить трудно, да, на 33 года раньше телефона. Но если открыть описание патента, то мы узнаем, что Бейн изобрел нечто, лишь очень отдаленно напоминающее факс. Что, впрочем, не мешает ему быть родоначальником целого направления в связи. В этой статье предлагаю вспомнить историю передачи изображе</description>
+      <pubDate>Wed, 21 Oct 2026 07:05:08 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/beget/articles/1087736/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1087736</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed</link>
-      <description>On Tuesday, US District Judge Zachary Bluestone dismissed the lawsuit Ann Altman filed last year alleging that her brother, OpenAI CEO Sam Altman, had sexually abused her throughout her childhood. As reported earlier by The Guardian, the judge wrote that over the past year, Ann had failed to appear for an independent medical examination or […]</description>
-      <pubDate>Tue, 20 Oct 2026 23:04:19 +0000</pubDate>
-      <guid>https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>Anthropic pitches AI safety bill that may block a model if 50+ people could be killed</title>
-      <link>https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/</link>
-      <description>The proposed policy seems to offer protections against AI run amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.</description>
-      <pubDate>Tue, 20 Oct 2026 23:01:23 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>SpaceX and Tesla boards form special committees to review merger</title>
-      <link>https://techcrunch.com/2026/10/20/spacex-and-tesla-boards-form-special-committees-to-review-merger/</link>
-      <description>Elon Musk likes the idea but says he is not on either committee, which is made up of independent directors.</description>
-      <pubDate>Tue, 20 Oct 2026 22:57:57 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/20/spacex-and-tesla-boards-form-special-committees-to-review-merger/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>Траблшутинг ИИ‑багхантинга: ошибки, которые убивают ваши репорты</title>
-      <link>https://habr.com/ru/articles/1097010/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1097010</link>
-      <description>ИИ в багхантинге перестал быть экзотикой. Сегодня агент помогает искать уязвимости почти у всех, и вопрос давно не в том, пользоваться им или нет, а в том, как пользоваться так, чтобы это приносило валидные находки, а не поток мусора. Последние полгода мы вдвоём плотно гоняем агентные связки на российских багбаунти-площадках. За это время набралась коллекция типовых граблей, на которые наступает почти каждый, кто сажает ИИ искать баги. Ниже семь таких стоп-факторов, от самого простого к самому б</description>
-      <pubDate>Tue, 20 Oct 2026 22:45:56 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1097010/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1097010</guid>
+      <title>Рецензия на книгу «Практическое руководство для архитекторов решений»</title>
+      <link>https://habr.com/ru/companies/ssp-soft/articles/1093526/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093526</link>
+      <description>В этой рецензии продолжаем линию на обзор книг по бизнес-практикам в ИТ, которую задала недавняя статья издательства БХВ . Книгу «Практическое руководство для архитекторов решений» написал российский автор Дмитрий Бардин, архитектор решений из Кинопоиска. Автор старался показать, как объединить архитектуру отдельного приложения с корпоративной архитектурой. Книга адресована разработчикам, аналитикам и руководителям групп (тимлидам), которые хотят понять, чем на самом деле занимается архитектор р</description>
+      <pubDate>Wed, 21 Oct 2026 07:03:08 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/ssp-soft/articles/1093526/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093526</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Отладочный режим, который стал игрой</title>
-      <link>https://habr.com/ru/articles/1090512/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090512</link>
-      <description>Эта игра получила две номинации IGF, выиграла призы Excellence in Design и Excellence in Audio, вышла на PS3 и PC и собрала хорошие отзывы критиков, а студия, которая её сделала, после успешного релиза фактически развалилась, а один из двух сооснователей выгорел и ушёл в найм. Ни провала, ни скандала, ни закрытого издателя, просто четыре года разработки человеческих жизней были потрачены. Что за игра, если не узнаете, напишу в конце. Историю постмортема я знаю из первых рук. В начале десятых мой</description>
-      <pubDate>Tue, 20 Oct 2026 22:27:43 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1090512/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1090512</guid>
+      <title>Cisco: значение лого и названия в раскрытии темы «сисек»</title>
+      <link>https://habr.com/ru/articles/1097068/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1097068</link>
+      <description>Раскрываем тему "сисек" в контексте связи назания и логотипов Cisco для транспортного простонародья. Почему то же так прижилось? Читать далее</description>
+      <pubDate>Wed, 21 Oct 2026 06:57:26 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1097068/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1097068</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate</title>
-      <link>https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/</link>
-      <description>Before you share the Netflix documentary "AI Gone Rogue" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went "full doomer mode" and isn't accurate.</description>
-      <pubDate>Tue, 20 Oct 2026 22:24:02 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/</guid>
-      <category>TechCrunch</category>
+      <title>Телеграм-бот для удалённых сообщений: как устроен архив на Telegram Business API, aiogram 3 и FastAPI</title>
+      <link>https://habr.com/ru/articles/1097062/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1097062</link>
+      <description>В Telegram у сообщения нет истории правок и корзины: собеседник может удалить его или тихо поменять сумму. Разбираю, как устроен мой бот на Telegram Business API, aiogram 3 и FastAPI, который сохраняет такие события. Вебхук с записью в БД до ответа 200, шифрование на уровне приложения, сломанный JSON из-за LinkPreviewOptions, смещения в UTF-16, подсветка правок через difflib и приём платежей через Т-Банк и СБП. Отдельно о том, где заканчиваются возможности платформы и какие вопросы согласия при </description>
+      <pubDate>Wed, 21 Oct 2026 06:42:31 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1097062/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1097062</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Trump is giving Nick Shirley $10,000 and launching a $25 million fraud bounty program</title>
-      <link>https://www.theverge.com/news/1014989/trump-fraud-tips-program-nick-shirley-influencers</link>
-      <description>Donald Trump and Vice President JD Vance said on Tuesday that the Trump administration was giving right-wing YouTuber Nick Shirley $10,000 and launching a $25 million bounty program for members of the public to report fraud. In December 2025, Shirley published a viral video alleging fraud at daycares in Minnesota that were operated by members […]</description>
-      <pubDate>Tue, 20 Oct 2026 22:20:11 +0000</pubDate>
-      <guid>https://www.theverge.com/news/1014989/trump-fraud-tips-program-nick-shirley-influencers</guid>
-      <category>The Verge</category>
+      <title>Алюминиевый король Поднебесной: Aluminum Corporation of China</title>
+      <link>https://habr.com/ru/companies/onlinepatent/articles/1097060/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1097060</link>
+      <description>Корпорация Aluminum Corporation of China (Chalco) разместила в разное время свои акции и расписки на биржах в Гонконге, Шанхае и Нью-Йорке. С последней, правда, пришлось провести делистинг из-за ухудшения американо-китайских отношений, но на операционных показателях предприятия это сказалось слабо. Ее управление находится на материковом Китае, а большая часть акций принадлежит государству. Это самый крупный добытчик алюминия в Китае и третий в мире, а также второй в мире производитель глинозема.</description>
+      <pubDate>Wed, 21 Oct 2026 06:36:50 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/onlinepatent/articles/1097060/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1097060</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Поселил ИИ‑агента в чёлку макбука: он слушает мой день и раздаёт задачи сессиям Claude Code</title>
-      <link>https://habr.com/ru/articles/1097006/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1097006</link>
-      <description>У меня есть ИИ-агент Андреич. Он берёт трубку на моей телефонной линии, отвечает в чате на сайте и сидит в Telegram. На днях он переехал ещё и в вырез экрана макбука, который в народе зовут чёлкой. Там он стал пушистым 3D-енотом. Слушает меня весь день, ведёт протокол, вытаскивает из болтовни задачи и по моему «ок» отправляет их в нужную сессию Claude Code. Заодно показывает, сколько недельного лимита подписки можно потратить сегодня. Приложение открытое, лицензия MIT. Внутри Swift без Xcode и t</description>
-      <pubDate>Tue, 20 Oct 2026 22:18:32 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1097006/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1097006</guid>
+      <title>136,3 млн опыта = 0 баллов: как Xmin меняет оценку в IT-тендере</title>
+      <link>https://habr.com/ru/articles/1096862/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1096862</link>
+      <description>Про другой наш тендерный опыт я уже рассказывал в статье «Работающий WebGL и 27 контрактов на 168 млн: как мы дважды получили ноль в IT-тендерах» . Там мы разбирались с формальностями и тем, как комиссия читает заявку. В этот раз самое интересное начинается в математике: документы на месте, опыт подтвержден, цена хорошая — а дальше расчет местами больше похож на игру. Потому что ваши баллы зависят не только от вашей заявки, но и от того, кто еще пришел в конкурс. В одном из конкурсов мы как раз </description>
+      <pubDate>Wed, 21 Oct 2026 06:35:26 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1096862/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1096862</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Слепой краш-тест 27 LLM осени 2026 (GPT-6, Opus, Алиса): кто сломал JSON, проглотил инъекцию и влетел на 152-ФЗ</title>
+      <link>https://habr.com/ru/articles/1096934/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1096934</link>
+      <description>В январе этого года я уже выкладывал на Хабре свой первый большой аудит 14 нейросетей на галлюцинации (тогда я пару недель гонял тесты в декабре сразу после выхода Gemini 3, а в январе упаковал результаты в статью). За прошедшие девять месяцев ландшафт изменился до неузнаваемости: вышли новые поколения флагманов, а требования бизнеса сместились от «поболтать в чате» к жёстким продакшен-пайплайнам. Этой осенью я специально держал паузу и не запускал новый прогон, пока на арену не выйдет последний</description>
+      <pubDate>Wed, 21 Oct 2026 06:23:03 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1096934/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1096934</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Мой PostgreSQL быстрее твоего и почти догнал ClickHouse</title>
+      <link>https://habr.com/ru/articles/1097022/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1097022</link>
+      <description>Мой знакомый - отличный архитектор, но полнейший сноб. У него в проде четыре разных базы данных. PostgreSQL для OLTP, в ClickHouse у него лежат данные OpenTelemetry и веб аналитики, Elasticsearch для полнотекстового поиска в приложении, а MongoDB - “так исторически сложилось”. Между всем этим ETL, CDC вместе с дежурствами разработчиков в поисках где именно результаты не сходятся. Для него это все продуманная архитектура, а для меня излишняя сложностью в поддержке и разработке. Недавно рассказал </description>
+      <pubDate>Wed, 21 Oct 2026 06:00:36 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1097022/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1097022</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Почему обычный сканер пасует в Kubernetes: VM для контейнеров и облаков</title>
+      <link>https://habr.com/ru/articles/1073180/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1073180</link>
+      <description>Контейнеры живут секунды - что здесь вообще считать активом? А в облаке половину работы делает провайдер, но какую именно? Разбираем специфику управления уязвимостями в Docker, Kubernetes и облаках, класс решений container security и CNAPP, и главную ошибку - наивную веру, что “мы в облаке, провайдер за все отвечает”. Читать далее</description>
+      <pubDate>Wed, 21 Oct 2026 05:30:55 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1073180/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1073180</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Сборщик вам не марафонец: мы связали 5 компонентов FBS-сборки, чтобы сократить путь между полками</title>
+      <link>https://habr.com/ru/companies/cleverence/articles/1095466/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095466</link>
+      <description>Когда сборка привязана к ПК и стационарному сканеру, сотрудник несёт найденный товар к рабочему месту, подтверждает его и снова идёт к полкам. Чем больше заказов, тем чаще повторяется этот маршрут. ТСД с приложением «Маркетплейс 15» переносит точку сканирования к товару: сотрудник за один обход подбирает позиции сразу для нескольких заказов, а у упаковочного стола распределяет их по заказам и печатает этикетки. Серверная часть продукта служит связующим слоем между Ozon, Wildberries, мобильным ра</description>
+      <pubDate>Wed, 21 Oct 2026 04:41:51 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/cleverence/articles/1095466/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095466</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
   </channel>
