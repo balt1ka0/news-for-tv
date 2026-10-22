@@ -5,87 +5,87 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Thu, 22 Oct 2026 13:31:12 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 18:20:30 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Nirva raises $33M for a pendant that only listens to you</title>
-      <link>https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you/</link>
-      <description>Nirva will ship its $249 ambient AI pendant by the end of the year.</description>
-      <pubDate>Thu, 22 Oct 2026 13:26:52 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>Apple will label apps that are ‘Made for iPhone Duo’</title>
-      <link>https://www.theverge.com/tech/1016526/apple-made-for-iphone-duo-badge-app-store</link>
-      <description>Apple is rolling out a new badge in the App Store to indicate whether an app is optimized for its new foldable. The new "Made for iPhone Duo" badge will appear across apps and games that work with the device's extra screen real estate. Though Apple doesn't include an image of what this badge might […]</description>
-      <pubDate>Thu, 22 Oct 2026 13:20:37 +0000</pubDate>
-      <guid>https://www.theverge.com/tech/1016526/apple-made-for-iphone-duo-badge-app-store</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>The Atari VCS saga will come to an end next year when its software store closes</title>
-      <link>https://www.theverge.com/tech/1016481/atari-vcs-console-shutting-down-software-store-2027</link>
-      <description>Following a decade long saga of delays, name changes, and Atari having to assure backers of a crowdfunding campaign that its retro console wasn't doomed, the Atari VCS platform is being retired early next year. On February 1st, 2027, the Atari VCS software store is shutting down, according to an announcement posted to the Atari […]</description>
-      <pubDate>Thu, 22 Oct 2026 13:17:59 +0000</pubDate>
-      <guid>https://www.theverge.com/tech/1016481/atari-vcs-console-shutting-down-software-store-2027</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>Какая часть интернета все еще принадлежит людям?</title>
-      <link>https://habr.com/ru/companies/ru_mts/articles/1097914/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1097914</link>
-      <description>Производство контента дешевеет. Даже от бесплатной нейросетки можно за секунды получить иллюстрацию, композицию с нужным настроением, да хоть книгу. Но каковы масштабы проблемы? Мы дошли до эры сгенерированного интернета или еще нет? Поскольку у нас нет реестра всего и вся в интернете, долю человеческого контента вывести не получится. Но мне удалось найти исследования по доле генераций в новостях, книгах, фото и музыке. Предлагаю их обсудить. Спойлер — почти во всех сегментах наблюдается эдакое </description>
-      <pubDate>Thu, 22 Oct 2026 13:16:14 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/ru_mts/articles/1097914/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1097914</guid>
+      <title>ARFA Generator — ядро автоматизации процессов frontend-разработки, или пропущенный этап развития тулинга</title>
+      <link>https://habr.com/ru/articles/1095018/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095018</link>
+      <description>Спустя полгода адаптации к OpenSource выпускаю еще две библиотеки из моего рабочего контура в одном npm-пакете - ARFA Generator и api-contract-check . В этой статье расскажу про первый инструмент, а второй презентую в рамках отдельной статьи. Когда-то давно я уже писал статью про удобство использования файловых генераторов, интегрированных в долгоживущий процесс dev-сборки, однако за несколько лет развития и обкатки в реальных проектах концепт существенно расширился. Удобнее всего оказалось смес</description>
+      <pubDate>Thu, 22 Oct 2026 18:19:30 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1095018/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095018</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>DeepSeek reportedly raises $15B days after US restrictions</title>
-      <link>https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/</link>
-      <description>DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the US ordered federal agencies to remove its technology over national security concerns.</description>
-      <pubDate>Thu, 22 Oct 2026 13:11:13 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>Снапшот это не бэкап: почему «точка восстановления» не спасает</title>
-      <link>https://habr.com/ru/companies/ruvds/articles/1096472/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1096472</link>
-      <description>О разнице снапшота и бэкапа начинающие сисадмины узнают в самый неподходящий момент. Например, когда аккаунт уже заблокирован или база уже не поднимается. Под катом разберу, почему опасно заменять резервное копирование на VPS снапшотами и какую схему я рекомендую. Опенсорсные утилиты — в подарок. Читать</description>
-      <pubDate>Thu, 22 Oct 2026 13:01:52 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/ruvds/articles/1096472/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1096472</guid>
+      <title>Тестирование ИИ-агента реального действия на выполнение неназванных условий: прогоны на DeepSeek</title>
+      <link>https://habr.com/ru/articles/1098088/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098088</link>
+      <description>Что показали 3360 испытаний и что агент при этом сообщал пользователю Ранее мы описывали методологию создания тестовой системы для ИИ-агентов с вызовом функций, имеющих реальный эффект. https://habr.com/ru/articles/1090748/ . Ее основная идея заключается в том, что для совершения действия агент должен проанализировать условия, которые обеспечивают правомерность действия, но при этом он может их узнать только из внешнего источника – из ответа функции чтения или из доступного ему документа, то ест</description>
+      <pubDate>Thu, 22 Oct 2026 18:17:55 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1098088/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098088</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Insta360 launches a cheaper version of its wireless mics with color screens</title>
-      <link>https://www.theverge.com/tech/1015371/insta360-mic-wireless-microphone-color-e-ink-screen</link>
-      <description>Following the launch of its wireless Mic Pro system last May featuring built-in color E Ink screens for custom branding and an array of three microphones to emulate different pickup patterns, Insta360 has announced a cheaper alternative that skips a few features many content creators might not miss. The new Insta360 Mic sits between the […]</description>
-      <pubDate>Thu, 22 Oct 2026 13:00:00 +0000</pubDate>
-      <guid>https://www.theverge.com/tech/1015371/insta360-mic-wireless-microphone-color-e-ink-screen</guid>
+      <title>In Meta’s version of the future, I’ll have my Muse call your Muse</title>
+      <link>https://www.theverge.com/tech/1016905/meta-earnings-fall-2026-muse-network</link>
+      <description>Mark Zuckerberg is barrelling toward a future in which an autonomous network of AI agents will run our lives - shopping for us, working for us, talking to other people's AI agents for us. Are humans ready for this very specific and unrelenting vision of a life in which we communicate primarily through bot proxies? […]</description>
+      <pubDate>Thu, 22 Oct 2026 18:15:00 +0000</pubDate>
+      <guid>https://www.theverge.com/tech/1016905/meta-earnings-fall-2026-muse-network</guid>
       <category>The Verge</category>
     </item>
     <item>
-      <title>Birdbuddy’s Nook is a compact smart bird feeder for small spaces and budgets</title>
-      <link>https://www.theverge.com/tech/1015659/birdbuddy-smart-bird-feeder-2k-camera-home-nook-ai-identification</link>
-      <description>Birdbuddy is finally launching the new smart bird feeders it originally announced at CES 2026 earlier this year, but with new names. The Birdbuddy 2 Mini is now called the Birdbuddy Nook, and it is designed to be a smaller and more affordable option the company describes as its "most accessible smart bird feeder yet." […]</description>
-      <pubDate>Thu, 22 Oct 2026 13:00:00 +0000</pubDate>
-      <guid>https://www.theverge.com/tech/1015659/birdbuddy-smart-bird-feeder-2k-camera-home-nook-ai-identification</guid>
+      <title>Mass Effect 5 trailer leaks following BioWare shutdown</title>
+      <link>https://www.theverge.com/games/1016932/mass-effect-5-universe-trailer-leak-bioware-ea</link>
+      <description>Yesterday, EA shut down BioWare and canceled the studio's new Mass Effect game in development, but a trailer apparently representing the game was published on Reddit today. The trailer features "in-engine footage" and uses "pre-production assets," according to a message at the beginning of the video. The video focuses on an ex-soldier in a conversation […]</description>
+      <pubDate>Thu, 22 Oct 2026 18:14:24 +0000</pubDate>
+      <guid>https://www.theverge.com/games/1016932/mass-effect-5-universe-trailer-leak-bioware-ea</guid>
       <category>The Verge</category>
     </item>
     <item>
-      <title>Googlebooks just aren’t ready</title>
-      <link>https://www.theverge.com/tech/1015749/googlebook-hp-acer-lenovo-dell-asus-collective-laptop-review</link>
-      <description>EEvery Googlebook laptop we've tested so far has great hardware. The problem is the software. While Googlebook OS has exciting ideas for how a laptop and phone can work together, right now it's mostly a frustrating experience filled with annoying bugs and lackluster app support. It often feels like using an Android tablet with a […]</description>
-      <pubDate>Thu, 22 Oct 2026 13:00:00 +0000</pubDate>
-      <guid>https://www.theverge.com/tech/1015749/googlebook-hp-acer-lenovo-dell-asus-collective-laptop-review</guid>
+      <title>Tesla driver using Full Self-Driving struck and killed a man crossing I-80</title>
+      <link>https://www.theverge.com/transportation/1016928/tesla-fsd-pedestrian-fatal-accident-california</link>
+      <description>A 71-year-old man was fatally hit by a Tesla operating in Full Self-Driving (FSD) mode while crossing I-80 in Vallejo, CA around 2:30 AM on Thursday, reports the San Francisco Chronicle. The California Highway Patrol's statement to media outlets says it reviewed video of the accident from the Tesla's dashcam, which "showed the Tesla's brakes […]</description>
+      <pubDate>Thu, 22 Oct 2026 18:07:02 +0000</pubDate>
+      <guid>https://www.theverge.com/transportation/1016928/tesla-fsd-pedestrian-fatal-accident-california</guid>
       <category>The Verge</category>
     </item>
     <item>
-      <title>Birdbuddy’s budget feeder foiled my squirrels</title>
-      <link>https://www.theverge.com/tech/1015791/birdbuddy-home-nook-smart-bird-feeder-hands-on</link>
-      <description>Birdbuddy's next-generation smart bird feeders have finally arrived. After spending a few days with the BirdBuddy Nook (from $99) and longer with the flagship Birdbuddy Home ($219), there's a clear winner: The Nook is the perfect all-rounder, just the right blend of technology, nature, and value to bring you delightful scenes from the lives of […]</description>
-      <pubDate>Thu, 22 Oct 2026 13:00:00 +0000</pubDate>
-      <guid>https://www.theverge.com/tech/1015791/birdbuddy-home-nook-smart-bird-feeder-hands-on</guid>
+      <title>Microsoft says its AI tool is better than doctors at diagnosing conditions</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1016690/suleyman-microsoft-diagnostic-orchestrator-science-medical-superintelligence</link>
+      <description>For years, AI leaders have touted healthcare as one of the clearest examples of where their technology will improve lives. Now "it is finally here," Microsoft AI CEO Mustafa Suleyman tells The Verge. The company claims to have developed an AI-powered tool it says can diagnose conditions up to four times more accurately than human […]</description>
+      <pubDate>Thu, 22 Oct 2026 18:00:00 +0000</pubDate>
+      <guid>https://www.theverge.com/ai-artificial-intelligence/1016690/suleyman-microsoft-diagnostic-orchestrator-science-medical-superintelligence</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>Зачем Ansible, если есть SSH? Разбираемся на двух серверах</title>
+      <link>https://habr.com/ru/articles/1098084/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098084</link>
+      <description>Настроить пару серверов по SSH несложно. Сложнее сделать так, чтобы их конфигурации оставались одинаковыми, даже если кто-то что-то изменил вручную. Разберём, как Ansible управляет серверами, зачем нужны Inventory и Playbook и что происходит при запуске автоматизации. Всё на простом примере с Nginx. А в конце намеренно сломаем конфигурацию одного сервера и проверим, сможет ли Ansible сам найти проблему и исправить её, не затронув второй. Читать далее</description>
+      <pubDate>Thu, 22 Oct 2026 17:49:46 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1098084/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098084</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Elon Musk says Tesla will sell 5 million cars by 2030 — math says otherwise</title>
+      <link>https://www.theverge.com/transportation/1016055/elon-musk-tesla-5-million-cars-2030-reality-check</link>
+      <description>On Tesla's earnings call Wednesday, Elon Musk made one of his patented pie-in-the-sky predictions that typically sends his fans into paroxysms of ecstasy: 5 million vehicle deliveries by 2030. "We were aiming for 5 million vehicles a year by approximately 2030," he said. "And I think we've got a good shot of achieving that goal." […]</description>
+      <pubDate>Thu, 22 Oct 2026 17:42:52 +0000</pubDate>
+      <guid>https://www.theverge.com/transportation/1016055/elon-musk-tesla-5-million-cars-2030-reality-check</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>[Перевод] Такого вы ещё не видели: загляните внутрь клеток вместе с лауреатами конкурса Nikon Small World</title>
+      <link>https://habr.com/ru/articles/1098080/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098080</link>
+      <description>Холодным февральским утром в Эдинбурге, Шотландия, у Патрика Хики закончились живые объекты, которые можно было бы рассматривать под микроскопом. Растения и грибы в его саду засохли, а летние лужи с их поразительным биологическим разнообразием давно замёрзли. Хики, миколог из компании Hypha Research Ltd., изучал митохондрии, клеточные органеллы, вырабатывающие энергию, с помощью листьев растений. Он собирался прорастить семена горчицы, чтобы получить свежие образцы, но ему не терпелось продолжит</description>
+      <pubDate>Thu, 22 Oct 2026 17:28:22 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1098080/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098080</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Someone hacked the Switch 2 by using an old game and AI</title>
+      <link>https://www.theverge.com/games/1016862/nintendo-switch-2-jailbreak-ai</link>
+      <description>The Nintendo Switch 2 has apparently been jailbroken, and a modder has already shown the console running a custom version of Mario Kart World featuring new playable characters like Cinnamoroll, the red Angry Bird, Peter Griffin, and Steve from Minecraft. OpenAI's Codex helped make this "ns2jb" jailbreak, according to Sammy Hajhamid, aka "pepsipu." It's a […]</description>
+      <pubDate>Thu, 22 Oct 2026 17:21:31 +0000</pubDate>
+      <guid>https://www.theverge.com/games/1016862/nintendo-switch-2-jailbreak-ai</guid>
       <category>The Verge</category>
     </item>
   </channel>
