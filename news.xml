@@ -5,87 +5,87 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Wed, 21 Oct 2026 22:08:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 01:17:27 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Render Graph на Rust и Vulkan</title>
+      <link>https://habr.com/ru/articles/1097618/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1097618</link>
+      <description>Небольшой разбор одного из самых приятных подходов к организации графического кода на Vulkan и Rust. Это одна из самых малоописанных тем, а на практике она сильно упрощает жизнь. Читать далее</description>
+      <pubDate>Thu, 22 Oct 2026 01:01:16 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1097618/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1097618</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Tesla says it will start selling Cybercabs by end of year</title>
+      <link>https://techcrunch.com/2026/10/21/tesla-says-it-will-start-selling-cybercabs-by-end-of-year/</link>
+      <description>Tesla said Wednesday it will start selling its Cybercab to customers by the end of the year, even as federal regulators investigate whether the vehicle meets vehicle safety standards. The gold-hued, autonomous two-seater lacks a steering wheel and other traditional controls. During the company’s third-quarter earnings call, Lars Moravy, vice president of engineering at Tesla, […]</description>
+      <pubDate>Thu, 22 Oct 2026 00:17:54 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/21/tesla-says-it-will-start-selling-cybercabs-by-end-of-year/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>YouTube says it isn’t testing hiding the dislike button</title>
+      <link>https://www.theverge.com/streaming/1016206/youtube-dislike-button-videos</link>
+      <description>On Tuesday, I published a story about how YouTube appeared to be testing hiding the dislike button on videos, with at least two users on X sharing screenshots of the dislike button moved into the three-dot menu. But a YouTube spokesperson, in a Wednesday statement to The Verge, confirmed that YouTube is "not testing hiding […]</description>
+      <pubDate>Wed, 21 Oct 2026 23:46:45 +0000</pubDate>
+      <guid>https://www.theverge.com/streaming/1016206/youtube-dislike-button-videos</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>Tesla says customers can add their own vehicles to the robotaxi fleet next year — will it happen?</title>
+      <link>https://www.theverge.com/transportation/1016118/tesla-robotaxi-customer-owned-vehicle-fleet-network-q3-2026-earnings</link>
+      <description>For years, Elon Musk has been making big promises to Tesla owners about unsupervised autonomous driving and the ability to add their own vehicles to the company's robotaxi fleet. During today's third-quarter earnings call, the company finally gave itself a deadline. According to Tesla VP for Autonomous Driving Ashok Elluswamy, Tesla owners will be able […]</description>
+      <pubDate>Wed, 21 Oct 2026 23:36:31 +0000</pubDate>
+      <guid>https://www.theverge.com/transportation/1016118/tesla-robotaxi-customer-owned-vehicle-fleet-network-q3-2026-earnings</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>[Перевод] Эрик Топол о том, как меняются медицина и наше представление о старении (интервью)</title>
+      <link>https://habr.com/ru/articles/1097592/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1097592</link>
+      <description>Медицинская наука развивается с поразительной скоростью. Сегодня мы беседуем с одним из ведущих специалистов, Эриком Тополом, о двух сторонах этого процесса. Первая - применение искусственного интеллекта в медицине, особенно в диагностике. Здесь важная задача настолько хорошо соответствует возможностям машинного обучения, что ИИ способен превосходить врачей. Вторая - наше понимание старения и того, что с ним можно сделать. Эрик даже дает конкретные советы о том, как сохранить здоровье в пожилом </description>
+      <pubDate>Wed, 21 Oct 2026 22:59:12 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1097592/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1097592</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown</title>
+      <link>https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/</link>
+      <description>Blackstone’s AI head on why the PE giant isn't panicked by market jitters.</description>
+      <pubDate>Wed, 21 Oct 2026 22:51:22 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>Meta wants to pay for its broad AI buildout with a newly created class of stock</title>
+      <link>https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/</link>
+      <description>The social media giant is planning a new stock strategy to help power its broad investments in AI models and services.</description>
+      <pubDate>Wed, 21 Oct 2026 22:45:34 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>Data centers could erase decades of air quality gains</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report</link>
+      <description>A rush of new data centers could bring air pollution roaring back to levels not seen since the 2000s in Texas, which has become ground zero for the physical infrastructure behind generative AI. New and proposed data centers are demanding a tremendous amount of electricity. How developers and utilities meet that demand - with gas […]</description>
+      <pubDate>Wed, 21 Oct 2026 22:33:44 +0000</pubDate>
+      <guid>https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>Airbnb limits chores for guests, sparking backlash from hosts</title>
+      <link>https://techcrunch.com/2026/10/21/airbnb-limits-chores-for-guests-sparking-backlash-from-hosts/</link>
+      <description>Hosts are threatening to leave the platform after Airbnb says that they can no longer require guests to strip beds or do other time-consuming cleaning chores.</description>
+      <pubDate>Wed, 21 Oct 2026 22:16:05 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/21/airbnb-limits-chores-for-guests-sparking-backlash-from-hosts/</guid>
+      <category>TechCrunch</category>
+    </item>
     <item>
       <title>Почему число это плохой адрес для инструкции?</title>
       <link>https://habr.com/ru/articles/1097574/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1097574</link>
       <description>В какой-то момент HydraScript перестал справляться со своей основной задачей — выполнять программы. Статический анализ падал на корректном коде, и его пришлось отключить. Кодогенерация назначала инструкциям неверные адреса: виртуальная машина зацикливалась или падала с исключением. Логика анализа и генерации кода была размазана по иерархии узлов AST. Добавлять возможности языка становилось всё сложнее, а разобраться в очередном баге было отдельной задачей. Пришлось остановиться и подумать, как в</description>
       <pubDate>Wed, 21 Oct 2026 21:32:46 +0000</pubDate>
       <guid>https://habr.com/ru/articles/1097574/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1097574</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Meta to create a new class of shares to fund AI push</title>
-      <link>https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings</link>
-      <description>Meta says it's issuing a new class of shares to fund its AI initiatives. As part of its third-quarter earnings report released on Wednesday, the company says the non-voting stock will also go toward potential acquisitions and employee compensation, with trading beginning in 2027. "The scale of investment required to compete, sustain growth, expand infrastructure, […]</description>
-      <pubDate>Wed, 21 Oct 2026 21:30:02 +0000</pubDate>
-      <guid>https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>TechCrunch Founder Summit 2026: Everything you need to know</title>
-      <link>https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/</link>
-      <description>TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and scaling their companies.</description>
-      <pubDate>Wed, 21 Oct 2026 21:16:20 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>Meta says Muse has over 10M users, with shopping a top activity</title>
-      <link>https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/</link>
-      <description>Meta Muse users are adopting the app for shopping and personal productivity, the company said during Q3 earnings. The AI app now has over 10M users.</description>
-      <pubDate>Wed, 21 Oct 2026 21:14:19 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>Headless‑браузер без браузера: 5 408 байт</title>
-      <link>https://habr.com/ru/articles/1097568/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1097568</link>
-      <description>Или история о том, как 5408 байт обфусцированного JavaScript, прилетающих в HTTP-заголовке, превращаются в свободный доступ к GPT, Claude, Mistral и генерации картинок если построить браузерный манекен на чистом JS. Читать далее</description>
-      <pubDate>Wed, 21 Oct 2026 21:11:26 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1097568/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1097568</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Кольцевая РНК в липидных наночастицах помогла при сухости во рту после лучевой терапии</title>
-      <link>https://nplus1.ru/news/2026/10/22/first-in-human-circular-rna</link>
-      <description>Кольцевая РНК в липидных наночастицах помогла при сухости во рту после лучевой терапии</description>
-      <pubDate>Wed, 21 Oct 2026 21:00:00 +0000</pubDate>
-      <guid>https://nplus1.ru/news/2026/10/22/first-in-human-circular-rna</guid>
-      <category>N + 1 — главное издание о науке, технике и технологиях</category>
-    </item>
-    <item>
-      <title>Year-old AI lab Flapping Airplanes raises $1B at a $6B valuation</title>
-      <link>https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation/</link>
-      <description>Just 9 months after raising an $180 million seed round, Flapping Airplanes has landed $1 billion Series A for its mission to build AI models "without ingesting half the internet."</description>
-      <pubDate>Wed, 21 Oct 2026 20:57:40 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>New York’s first microdrama film festival searches for its audience</title>
-      <link>https://www.theverge.com/entertainment/1014494/alza-vertical-film-festival-bill-block-salvador-paskowitz-microdramas-verticals</link>
-      <description>It remains to be seen if people really want to watch vertical content on horizontal TV screens, but many filmmakers and creators were confident that their latest projects would play well at Alza - New York City's first microdrama film festival. Founded by former Tribeca Festival chief operating officer Pete Torres, Alza, which took place […]</description>
-      <pubDate>Wed, 21 Oct 2026 20:49:07 +0000</pubDate>
-      <guid>https://www.theverge.com/entertainment/1014494/alza-vertical-film-festival-bill-block-salvador-paskowitz-microdramas-verticals</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>Meta says it would’ve made over $22 billion if it didn’t have to pay a child safety settlement</title>
-      <link>https://www.theverge.com/tech/1015877/meta-q3-2026-earnings-child-safety-settlement</link>
-      <description>Meta had to shell out $9.89 billion to pay for a chunk of the child safety settlement it reached with US attorneys general. That's according to the company's third-quarter earnings report released on Wednesday, which says Meta's income from operations would have been $22.89 billion without the settlement. In August, Meta agreed to pay $17.1 […]</description>
-      <pubDate>Wed, 21 Oct 2026 20:46:56 +0000</pubDate>
-      <guid>https://www.theverge.com/tech/1015877/meta-q3-2026-earnings-child-safety-settlement</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>[Перевод] Что нового в Swift: сентябрь 2 026</title>
-      <link>https://habr.com/ru/articles/1097554/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1097554</link>
-      <description>Добро пожаловать в «Что нового в Swift» — кураторский дайджест релизов, видео и обсуждений в проекте Swift и сообществе. Веб-фреймворк Vapor недавно отметил десятилетие и отпраздновал это Vapor Week! Мы пригласили одного из авторов Vapor стать гостевым автором этого выпуска: Привет, я Тим из основной команды Vapor! 10 лет назад, в сентябре, был выпущен Vapor 1.0, и за эти годы Vapor превратился в комплексный фреймворк для создания бэкендов и API на Swift. К годовщине мы выпустили первую бету Vap</description>
-      <pubDate>Wed, 21 Oct 2026 20:39:15 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1097554/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1097554</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
   </channel>
