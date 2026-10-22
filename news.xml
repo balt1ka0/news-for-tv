@@ -5,88 +5,88 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Thu, 22 Oct 2026 07:10:53 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 13:31:12 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Умный храм: технологии плюс традиции</title>
-      <link>https://habr.com/ru/companies/wirenboard/articles/1097682/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1097682</link>
-      <description>Умный дом уже никого не удивляет. А умный храм? Зачем православному храму понадобились контроллер, реле и скрипты — и что здесь можно поручить автоматике? Читать далее</description>
-      <pubDate>Thu, 22 Oct 2026 07:10:05 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/wirenboard/articles/1097682/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1097682</guid>
+      <title>Nirva raises $33M for a pendant that only listens to you</title>
+      <link>https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you/</link>
+      <description>Nirva will ship its $249 ambient AI pendant by the end of the year.</description>
+      <pubDate>Thu, 22 Oct 2026 13:26:52 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>Apple will label apps that are ‘Made for iPhone Duo’</title>
+      <link>https://www.theverge.com/tech/1016526/apple-made-for-iphone-duo-badge-app-store</link>
+      <description>Apple is rolling out a new badge in the App Store to indicate whether an app is optimized for its new foldable. The new "Made for iPhone Duo" badge will appear across apps and games that work with the device's extra screen real estate. Though Apple doesn't include an image of what this badge might […]</description>
+      <pubDate>Thu, 22 Oct 2026 13:20:37 +0000</pubDate>
+      <guid>https://www.theverge.com/tech/1016526/apple-made-for-iphone-duo-badge-app-store</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>The Atari VCS saga will come to an end next year when its software store closes</title>
+      <link>https://www.theverge.com/tech/1016481/atari-vcs-console-shutting-down-software-store-2027</link>
+      <description>Following a decade long saga of delays, name changes, and Atari having to assure backers of a crowdfunding campaign that its retro console wasn't doomed, the Atari VCS platform is being retired early next year. On February 1st, 2027, the Atari VCS software store is shutting down, according to an announcement posted to the Atari […]</description>
+      <pubDate>Thu, 22 Oct 2026 13:17:59 +0000</pubDate>
+      <guid>https://www.theverge.com/tech/1016481/atari-vcs-console-shutting-down-software-store-2027</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>Какая часть интернета все еще принадлежит людям?</title>
+      <link>https://habr.com/ru/companies/ru_mts/articles/1097914/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1097914</link>
+      <description>Производство контента дешевеет. Даже от бесплатной нейросетки можно за секунды получить иллюстрацию, композицию с нужным настроением, да хоть книгу. Но каковы масштабы проблемы? Мы дошли до эры сгенерированного интернета или еще нет? Поскольку у нас нет реестра всего и вся в интернете, долю человеческого контента вывести не получится. Но мне удалось найти исследования по доле генераций в новостях, книгах, фото и музыке. Предлагаю их обсудить. Спойлер — почти во всех сегментах наблюдается эдакое </description>
+      <pubDate>Thu, 22 Oct 2026 13:16:14 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/ru_mts/articles/1097914/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1097914</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Нейросеть пишет спецификацию интеграции и молча решает за аналитика</title>
-      <link>https://habr.com/ru/companies/otus/articles/1088892/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1088892</link>
-      <description>Нейросеть за пару минут превращает два абзаца расплывчатого ТЗ в подробную спецификацию интеграции. Документ выглядит убедительно, но часть требований модель формулирует самостоятельно, без согласования с заказчиком. На примере 12 прогонов ChatGPT и Claude разберём, какие решения LLM принимают за системного аналитика, почему это опасно для проекта и как выявлять скрытые допущения до начала разработки. Посмотреть результаты</description>
-      <pubDate>Thu, 22 Oct 2026 07:06:50 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/otus/articles/1088892/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1088892</guid>
+      <title>DeepSeek reportedly raises $15B days after US restrictions</title>
+      <link>https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/</link>
+      <description>DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the US ordered federal agencies to remove its technology over national security concerns.</description>
+      <pubDate>Thu, 22 Oct 2026 13:11:13 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>Снапшот это не бэкап: почему «точка восстановления» не спасает</title>
+      <link>https://habr.com/ru/companies/ruvds/articles/1096472/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1096472</link>
+      <description>О разнице снапшота и бэкапа начинающие сисадмины узнают в самый неподходящий момент. Например, когда аккаунт уже заблокирован или база уже не поднимается. Под катом разберу, почему опасно заменять резервное копирование на VPS снапшотами и какую схему я рекомендую. Опенсорсные утилиты — в подарок. Читать</description>
+      <pubDate>Thu, 22 Oct 2026 13:01:52 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/ruvds/articles/1096472/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1096472</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>RFM на 52 донорах: стоила ли игра свеч?</title>
-      <link>https://habr.com/ru/companies/lansoft_career/articles/1097368/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1097368</link>
-      <description>Как вы знаете, мы в LANSOFT активно поддерживаем фонд «Хранители детства», а они, в свою очередь, поддерживают все (ну почти) наши идеи по развитию и автоматизации коммуникаций. Фонд небольшой: за 2025 год к ребятам пришли с поддержкой всего 52 активных донора и принесли чуть больше 300 000 рублей пожертвований. Все письма благотворителям сотрудники составляли и отправляли сами: спасибо за перевод, ваши деньги были потрачены на то или это, история подопечного или аккуратное напоминание тем, кто </description>
-      <pubDate>Thu, 22 Oct 2026 07:01:49 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/lansoft_career/articles/1097368/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1097368</guid>
-      <category>Все публикации подряд на Хабре</category>
+      <title>Insta360 launches a cheaper version of its wireless mics with color screens</title>
+      <link>https://www.theverge.com/tech/1015371/insta360-mic-wireless-microphone-color-e-ink-screen</link>
+      <description>Following the launch of its wireless Mic Pro system last May featuring built-in color E Ink screens for custom branding and an array of three microphones to emulate different pickup patterns, Insta360 has announced a cheaper alternative that skips a few features many content creators might not miss. The new Insta360 Mic sits between the […]</description>
+      <pubDate>Thu, 22 Oct 2026 13:00:00 +0000</pubDate>
+      <guid>https://www.theverge.com/tech/1015371/insta360-mic-wireless-microphone-color-e-ink-screen</guid>
+      <category>The Verge</category>
     </item>
     <item>
-      <title>Изготавливаем печатные платы на дому необычным способом: продолжаем эксперименты со слабо вращающимся скрайбером</title>
-      <link>https://habr.com/ru/companies/ruvds/articles/1095900/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095900</link>
-      <description>Продолжаем экспериментировать! Те, кто читал прошлые статьи, знают, что в определённый момент мне пришла в голову идея , как можно полностью устранить сильный шум при ЧПУ-фрезеровании дорожек печатных плат на моём домашнем ЧПУ-станке типа 3018 — но не собственно фрезеровать их (это шумно и пыльно), а вместо этого выцарапывать их с помощью ЧПУ-станка и твердосплавного резца (дефолтного, трёхгранного, идущего в комплекте со станком). Выполняя это, помимо всего прочего, под водой с мылом, в специал</description>
-      <pubDate>Thu, 22 Oct 2026 07:01:49 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/ruvds/articles/1095900/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095900</guid>
-      <category>Все публикации подряд на Хабре</category>
+      <title>Birdbuddy’s Nook is a compact smart bird feeder for small spaces and budgets</title>
+      <link>https://www.theverge.com/tech/1015659/birdbuddy-smart-bird-feeder-2k-camera-home-nook-ai-identification</link>
+      <description>Birdbuddy is finally launching the new smart bird feeders it originally announced at CES 2026 earlier this year, but with new names. The Birdbuddy 2 Mini is now called the Birdbuddy Nook, and it is designed to be a smaller and more affordable option the company describes as its "most accessible smart bird feeder yet." […]</description>
+      <pubDate>Thu, 22 Oct 2026 13:00:00 +0000</pubDate>
+      <guid>https://www.theverge.com/tech/1015659/birdbuddy-smart-bird-feeder-2k-camera-home-nook-ai-identification</guid>
+      <category>The Verge</category>
     </item>
     <item>
-      <title>От чата до агентов: 6 курсов по ИИ от Google, Anthropic и OpenAI</title>
-      <link>https://habr.com/ru/companies/svoi_ru/articles/1096464/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1096464</link>
-      <description>Привет, Хабр! Меня зовут Александр, я тимлид в СВОЙ Тех. ИИ работает со мной каждый день: пишет код, помогает с ревью, разбирает документацию. Друзья и родные тоже пользуются им всё чаще. Но многие обращаются с нейросетями так, будто купили феррари, чтобы слушать в ней радио. Мотор мощный, а машина так и не выезжает из гаража: спросить, перевести, уточнить термин — и закрыть вкладку. Я и сам поначалу ездил ненамного дальше: просил написать регулярку или накидать типы для ответа API, а остальное </description>
-      <pubDate>Thu, 22 Oct 2026 07:00:48 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/svoi_ru/articles/1096464/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1096464</guid>
-      <category>Все публикации подряд на Хабре</category>
+      <title>Googlebooks just aren’t ready</title>
+      <link>https://www.theverge.com/tech/1015749/googlebook-hp-acer-lenovo-dell-asus-collective-laptop-review</link>
+      <description>EEvery Googlebook laptop we've tested so far has great hardware. The problem is the software. While Googlebook OS has exciting ideas for how a laptop and phone can work together, right now it's mostly a frustrating experience filled with annoying bugs and lackluster app support. It often feels like using an Android tablet with a […]</description>
+      <pubDate>Thu, 22 Oct 2026 13:00:00 +0000</pubDate>
+      <guid>https://www.theverge.com/tech/1015749/googlebook-hp-acer-lenovo-dell-asus-collective-laptop-review</guid>
+      <category>The Verge</category>
     </item>
     <item>
-      <title>Сопли — это биоинженерный шедевр</title>
-      <link>https://habr.com/ru/companies/geltek/articles/1096738/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1096738</link>
-      <description>Сварить сопли в лаборатории для интимного геля — это давняя мечта. Они нам всем очень нужны, ведь сопли — умный гидрогель, который сам себя чинит, фильтрует бактерии и одновременно служит смазкой. Но задача по синтезу там с двумя звёздочками. Природа решила её сотни миллионов лет назад, и с тех пор примерно одинаковая слизь используется с самыми разными задачами. Человечество научилось делать бетон, композиты, наноматериалы и умные полимеры. Искусственные аналоги слизи тоже осилило, но воспроизв</description>
-      <pubDate>Thu, 22 Oct 2026 07:00:48 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/geltek/articles/1096738/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1096738</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Переобулись на ходу: как мы перевезли 25 микросервисов с MS SQL Server на PostgreSQL</title>
-      <link>https://habr.com/ru/companies/mindbox/articles/1095418/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095418</link>
-      <description>Инженер платформы Mindbox Андрей Васильев рассказывает, как он и двое его коллег за три месяца перенесли 90 баз данных с MS SQL Server на PostgreSQL. Внутри — как организовали миграцию с минимальным простоем, с какими проблемами столкнулись при переносе и синхронизации данных и почему пришлось дорабатывать готовые инструменты. Бонус в конце статьи — чек-лист для тех, кто тоже планирует миграцию через CDC. Читать далее</description>
-      <pubDate>Thu, 22 Oct 2026 07:00:48 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/mindbox/articles/1095418/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095418</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Древних брата и сестру из германской элиты похоронили в 700 километрах друг от друга</title>
-      <link>https://nplus1.ru/news/2026/10/22/demography-of-iberia</link>
-      <description>Палеогенетики секвенировали ДНК почти 250 человек, которых похоронили на территории современной Испании во II — VIII веках нашей эры. Помимо того, что ученые выяснили, как менялся генетический ландшафт на Пиренейском полуострове во времена римского господства и в эпоху Великого переселения народов, они обнаружили родных брата и сестру, которые принадлежали к древней германской элите и были похоронены примерно в 700 километрах друг от друга, что равняется приблизительно 22 дням пешего пути. Об эт</description>
-      <pubDate>Thu, 22 Oct 2026 06:36:00 +0000</pubDate>
-      <guid>https://nplus1.ru/news/2026/10/22/demography-of-iberia</guid>
-      <category>N + 1 — главное издание о науке, технике и технологиях</category>
-    </item>
-    <item>
-      <title>Как мы написали для себя агента, а теперь отдаём его всем</title>
-      <link>https://habr.com/ru/companies/domate/articles/1097476/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1097476</link>
-      <description>4 сентября 2026 года Cursor отменил мою подписку Pro. Подписку отменили почти всем в нашей компании. Вот что было в письме: We detected recent activity associated with your Cursor account from a region where Cursor prevents access to our services. As a result, we canceled your Cursor Pro subscription effective September 4, 2026 and have issued a prorated refund of $24.00 based on the remaining included usage on your current plan. You will not be charged again. Best, Cursor Team Никакого права ап</description>
-      <pubDate>Thu, 22 Oct 2026 06:24:44 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/domate/articles/1097476/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1097476</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>В брекчии из Сварткранса обнаружили две ключицы древних гоминин</title>
-      <link>https://nplus1.ru/news/2026/10/22/clavicles-from-swartkrans</link>
-      <description>Палеоантропологи описали две ключицы древних гоминин, которые они обнаружили в брекчии из местонахождения Сварткранс. Исследователи определили, что кости принадлежали особям, которые вполне могли проводить много времени, лазая по деревьям. Хотя останки нашли неподалеку от недавно обнаруженных бедренной и большеберцовой костей очень низкого парантропа, жившего около 2,3–1,7 миллиона лет назад, отнести окаменелости к конкретному виду или даже роду у ученых не получилось. Об этом они пишут в статье</description>
-      <pubDate>Thu, 22 Oct 2026 06:18:00 +0000</pubDate>
-      <guid>https://nplus1.ru/news/2026/10/22/clavicles-from-swartkrans</guid>
-      <category>N + 1 — главное издание о науке, технике и технологиях</category>
+      <title>Birdbuddy’s budget feeder foiled my squirrels</title>
+      <link>https://www.theverge.com/tech/1015791/birdbuddy-home-nook-smart-bird-feeder-hands-on</link>
+      <description>Birdbuddy's next-generation smart bird feeders have finally arrived. After spending a few days with the BirdBuddy Nook (from $99) and longer with the flagship Birdbuddy Home ($219), there's a clear winner: The Nook is the perfect all-rounder, just the right blend of technology, nature, and value to bring you delightful scenes from the lives of […]</description>
+      <pubDate>Thu, 22 Oct 2026 13:00:00 +0000</pubDate>
+      <guid>https://www.theverge.com/tech/1015791/birdbuddy-home-nook-smart-bird-feeder-hands-on</guid>
+      <category>The Verge</category>
     </item>
   </channel>
 </rss>
