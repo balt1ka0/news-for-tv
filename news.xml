@@ -5,88 +5,88 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Thu, 22 Oct 2026 01:17:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 07:10:53 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Render Graph на Rust и Vulkan</title>
-      <link>https://habr.com/ru/articles/1097618/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1097618</link>
-      <description>Небольшой разбор одного из самых приятных подходов к организации графического кода на Vulkan и Rust. Это одна из самых малоописанных тем, а на практике она сильно упрощает жизнь. Читать далее</description>
-      <pubDate>Thu, 22 Oct 2026 01:01:16 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1097618/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1097618</guid>
+      <title>Умный храм: технологии плюс традиции</title>
+      <link>https://habr.com/ru/companies/wirenboard/articles/1097682/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1097682</link>
+      <description>Умный дом уже никого не удивляет. А умный храм? Зачем православному храму понадобились контроллер, реле и скрипты — и что здесь можно поручить автоматике? Читать далее</description>
+      <pubDate>Thu, 22 Oct 2026 07:10:05 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/wirenboard/articles/1097682/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1097682</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Tesla says it will start selling Cybercabs by end of year</title>
-      <link>https://techcrunch.com/2026/10/21/tesla-says-it-will-start-selling-cybercabs-by-end-of-year/</link>
-      <description>Tesla said Wednesday it will start selling its Cybercab to customers by the end of the year, even as federal regulators investigate whether the vehicle meets vehicle safety standards. The gold-hued, autonomous two-seater lacks a steering wheel and other traditional controls. During the company’s third-quarter earnings call, Lars Moravy, vice president of engineering at Tesla, […]</description>
-      <pubDate>Thu, 22 Oct 2026 00:17:54 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/21/tesla-says-it-will-start-selling-cybercabs-by-end-of-year/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>YouTube says it isn’t testing hiding the dislike button</title>
-      <link>https://www.theverge.com/streaming/1016206/youtube-dislike-button-videos</link>
-      <description>On Tuesday, I published a story about how YouTube appeared to be testing hiding the dislike button on videos, with at least two users on X sharing screenshots of the dislike button moved into the three-dot menu. But a YouTube spokesperson, in a Wednesday statement to The Verge, confirmed that YouTube is "not testing hiding […]</description>
-      <pubDate>Wed, 21 Oct 2026 23:46:45 +0000</pubDate>
-      <guid>https://www.theverge.com/streaming/1016206/youtube-dislike-button-videos</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>Tesla says customers can add their own vehicles to the robotaxi fleet next year — will it happen?</title>
-      <link>https://www.theverge.com/transportation/1016118/tesla-robotaxi-customer-owned-vehicle-fleet-network-q3-2026-earnings</link>
-      <description>For years, Elon Musk has been making big promises to Tesla owners about unsupervised autonomous driving and the ability to add their own vehicles to the company's robotaxi fleet. During today's third-quarter earnings call, the company finally gave itself a deadline. According to Tesla VP for Autonomous Driving Ashok Elluswamy, Tesla owners will be able […]</description>
-      <pubDate>Wed, 21 Oct 2026 23:36:31 +0000</pubDate>
-      <guid>https://www.theverge.com/transportation/1016118/tesla-robotaxi-customer-owned-vehicle-fleet-network-q3-2026-earnings</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>[Перевод] Эрик Топол о том, как меняются медицина и наше представление о старении (интервью)</title>
-      <link>https://habr.com/ru/articles/1097592/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1097592</link>
-      <description>Медицинская наука развивается с поразительной скоростью. Сегодня мы беседуем с одним из ведущих специалистов, Эриком Тополом, о двух сторонах этого процесса. Первая - применение искусственного интеллекта в медицине, особенно в диагностике. Здесь важная задача настолько хорошо соответствует возможностям машинного обучения, что ИИ способен превосходить врачей. Вторая - наше понимание старения и того, что с ним можно сделать. Эрик даже дает конкретные советы о том, как сохранить здоровье в пожилом </description>
-      <pubDate>Wed, 21 Oct 2026 22:59:12 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1097592/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1097592</guid>
+      <title>Нейросеть пишет спецификацию интеграции и молча решает за аналитика</title>
+      <link>https://habr.com/ru/companies/otus/articles/1088892/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1088892</link>
+      <description>Нейросеть за пару минут превращает два абзаца расплывчатого ТЗ в подробную спецификацию интеграции. Документ выглядит убедительно, но часть требований модель формулирует самостоятельно, без согласования с заказчиком. На примере 12 прогонов ChatGPT и Claude разберём, какие решения LLM принимают за системного аналитика, почему это опасно для проекта и как выявлять скрытые допущения до начала разработки. Посмотреть результаты</description>
+      <pubDate>Thu, 22 Oct 2026 07:06:50 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/otus/articles/1088892/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1088892</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown</title>
-      <link>https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/</link>
-      <description>Blackstone’s AI head on why the PE giant isn't panicked by market jitters.</description>
-      <pubDate>Wed, 21 Oct 2026 22:51:22 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>Meta wants to pay for its broad AI buildout with a newly created class of stock</title>
-      <link>https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/</link>
-      <description>The social media giant is planning a new stock strategy to help power its broad investments in AI models and services.</description>
-      <pubDate>Wed, 21 Oct 2026 22:45:34 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>Data centers could erase decades of air quality gains</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report</link>
-      <description>A rush of new data centers could bring air pollution roaring back to levels not seen since the 2000s in Texas, which has become ground zero for the physical infrastructure behind generative AI. New and proposed data centers are demanding a tremendous amount of electricity. How developers and utilities meet that demand - with gas […]</description>
-      <pubDate>Wed, 21 Oct 2026 22:33:44 +0000</pubDate>
-      <guid>https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>Airbnb limits chores for guests, sparking backlash from hosts</title>
-      <link>https://techcrunch.com/2026/10/21/airbnb-limits-chores-for-guests-sparking-backlash-from-hosts/</link>
-      <description>Hosts are threatening to leave the platform after Airbnb says that they can no longer require guests to strip beds or do other time-consuming cleaning chores.</description>
-      <pubDate>Wed, 21 Oct 2026 22:16:05 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/21/airbnb-limits-chores-for-guests-sparking-backlash-from-hosts/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>Почему число это плохой адрес для инструкции?</title>
-      <link>https://habr.com/ru/articles/1097574/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1097574</link>
-      <description>В какой-то момент HydraScript перестал справляться со своей основной задачей — выполнять программы. Статический анализ падал на корректном коде, и его пришлось отключить. Кодогенерация назначала инструкциям неверные адреса: виртуальная машина зацикливалась или падала с исключением. Логика анализа и генерации кода была размазана по иерархии узлов AST. Добавлять возможности языка становилось всё сложнее, а разобраться в очередном баге было отдельной задачей. Пришлось остановиться и подумать, как в</description>
-      <pubDate>Wed, 21 Oct 2026 21:32:46 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1097574/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1097574</guid>
+      <title>RFM на 52 донорах: стоила ли игра свеч?</title>
+      <link>https://habr.com/ru/companies/lansoft_career/articles/1097368/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1097368</link>
+      <description>Как вы знаете, мы в LANSOFT активно поддерживаем фонд «Хранители детства», а они, в свою очередь, поддерживают все (ну почти) наши идеи по развитию и автоматизации коммуникаций. Фонд небольшой: за 2025 год к ребятам пришли с поддержкой всего 52 активных донора и принесли чуть больше 300 000 рублей пожертвований. Все письма благотворителям сотрудники составляли и отправляли сами: спасибо за перевод, ваши деньги были потрачены на то или это, история подопечного или аккуратное напоминание тем, кто </description>
+      <pubDate>Thu, 22 Oct 2026 07:01:49 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/lansoft_career/articles/1097368/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1097368</guid>
       <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Изготавливаем печатные платы на дому необычным способом: продолжаем эксперименты со слабо вращающимся скрайбером</title>
+      <link>https://habr.com/ru/companies/ruvds/articles/1095900/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095900</link>
+      <description>Продолжаем экспериментировать! Те, кто читал прошлые статьи, знают, что в определённый момент мне пришла в голову идея , как можно полностью устранить сильный шум при ЧПУ-фрезеровании дорожек печатных плат на моём домашнем ЧПУ-станке типа 3018 — но не собственно фрезеровать их (это шумно и пыльно), а вместо этого выцарапывать их с помощью ЧПУ-станка и твердосплавного резца (дефолтного, трёхгранного, идущего в комплекте со станком). Выполняя это, помимо всего прочего, под водой с мылом, в специал</description>
+      <pubDate>Thu, 22 Oct 2026 07:01:49 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/ruvds/articles/1095900/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095900</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>От чата до агентов: 6 курсов по ИИ от Google, Anthropic и OpenAI</title>
+      <link>https://habr.com/ru/companies/svoi_ru/articles/1096464/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1096464</link>
+      <description>Привет, Хабр! Меня зовут Александр, я тимлид в СВОЙ Тех. ИИ работает со мной каждый день: пишет код, помогает с ревью, разбирает документацию. Друзья и родные тоже пользуются им всё чаще. Но многие обращаются с нейросетями так, будто купили феррари, чтобы слушать в ней радио. Мотор мощный, а машина так и не выезжает из гаража: спросить, перевести, уточнить термин — и закрыть вкладку. Я и сам поначалу ездил ненамного дальше: просил написать регулярку или накидать типы для ответа API, а остальное </description>
+      <pubDate>Thu, 22 Oct 2026 07:00:48 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/svoi_ru/articles/1096464/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1096464</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Сопли — это биоинженерный шедевр</title>
+      <link>https://habr.com/ru/companies/geltek/articles/1096738/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1096738</link>
+      <description>Сварить сопли в лаборатории для интимного геля — это давняя мечта. Они нам всем очень нужны, ведь сопли — умный гидрогель, который сам себя чинит, фильтрует бактерии и одновременно служит смазкой. Но задача по синтезу там с двумя звёздочками. Природа решила её сотни миллионов лет назад, и с тех пор примерно одинаковая слизь используется с самыми разными задачами. Человечество научилось делать бетон, композиты, наноматериалы и умные полимеры. Искусственные аналоги слизи тоже осилило, но воспроизв</description>
+      <pubDate>Thu, 22 Oct 2026 07:00:48 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/geltek/articles/1096738/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1096738</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Переобулись на ходу: как мы перевезли 25 микросервисов с MS SQL Server на PostgreSQL</title>
+      <link>https://habr.com/ru/companies/mindbox/articles/1095418/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095418</link>
+      <description>Инженер платформы Mindbox Андрей Васильев рассказывает, как он и двое его коллег за три месяца перенесли 90 баз данных с MS SQL Server на PostgreSQL. Внутри — как организовали миграцию с минимальным простоем, с какими проблемами столкнулись при переносе и синхронизации данных и почему пришлось дорабатывать готовые инструменты. Бонус в конце статьи — чек-лист для тех, кто тоже планирует миграцию через CDC. Читать далее</description>
+      <pubDate>Thu, 22 Oct 2026 07:00:48 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/mindbox/articles/1095418/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095418</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Древних брата и сестру из германской элиты похоронили в 700 километрах друг от друга</title>
+      <link>https://nplus1.ru/news/2026/10/22/demography-of-iberia</link>
+      <description>Палеогенетики секвенировали ДНК почти 250 человек, которых похоронили на территории современной Испании во II — VIII веках нашей эры. Помимо того, что ученые выяснили, как менялся генетический ландшафт на Пиренейском полуострове во времена римского господства и в эпоху Великого переселения народов, они обнаружили родных брата и сестру, которые принадлежали к древней германской элите и были похоронены примерно в 700 километрах друг от друга, что равняется приблизительно 22 дням пешего пути. Об эт</description>
+      <pubDate>Thu, 22 Oct 2026 06:36:00 +0000</pubDate>
+      <guid>https://nplus1.ru/news/2026/10/22/demography-of-iberia</guid>
+      <category>N + 1 — главное издание о науке, технике и технологиях</category>
+    </item>
+    <item>
+      <title>Как мы написали для себя агента, а теперь отдаём его всем</title>
+      <link>https://habr.com/ru/companies/domate/articles/1097476/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1097476</link>
+      <description>4 сентября 2026 года Cursor отменил мою подписку Pro. Подписку отменили почти всем в нашей компании. Вот что было в письме: We detected recent activity associated with your Cursor account from a region where Cursor prevents access to our services. As a result, we canceled your Cursor Pro subscription effective September 4, 2026 and have issued a prorated refund of $24.00 based on the remaining included usage on your current plan. You will not be charged again. Best, Cursor Team Никакого права ап</description>
+      <pubDate>Thu, 22 Oct 2026 06:24:44 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/domate/articles/1097476/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1097476</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>В брекчии из Сварткранса обнаружили две ключицы древних гоминин</title>
+      <link>https://nplus1.ru/news/2026/10/22/clavicles-from-swartkrans</link>
+      <description>Палеоантропологи описали две ключицы древних гоминин, которые они обнаружили в брекчии из местонахождения Сварткранс. Исследователи определили, что кости принадлежали особям, которые вполне могли проводить много времени, лазая по деревьям. Хотя останки нашли неподалеку от недавно обнаруженных бедренной и большеберцовой костей очень низкого парантропа, жившего около 2,3–1,7 миллиона лет назад, отнести окаменелости к конкретному виду или даже роду у ученых не получилось. Об этом они пишут в статье</description>
+      <pubDate>Thu, 22 Oct 2026 06:18:00 +0000</pubDate>
+      <guid>https://nplus1.ru/news/2026/10/22/clavicles-from-swartkrans</guid>
+      <category>N + 1 — главное издание о науке, технике и технологиях</category>
     </item>
   </channel>
 </rss>
