@@ -5,88 +5,88 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Fri, 23 Oct 2026 01:15:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 07:02:45 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Left alone with nothing to do, AI agents started playing</title>
-      <link>https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/</link>
-      <description>MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.</description>
-      <pubDate>Fri, 23 Oct 2026 00:45:37 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>Depth Spectrum: Tool Operation &lt;-&gt; Whitebox Engineering</title>
-      <link>https://habr.com/ru/articles/1095990/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095990</link>
-      <description>Все тесты пройдены, заказчик доволен. Но какое-то странное чувство всё равно не покидает. Зачем читать код, если ИИ может его самостоятельно отревьюить? А когда найдёт проблему - и исправить. Зачем вообще мне документация в эпоху chatGPT? Но что, если за разумное время не получится найти решения? Если ошибочна сама постановка промпта? Как заглянуть в кроличью нору? И надо ли вообще? Заглянуть</description>
-      <pubDate>Fri, 23 Oct 2026 00:19:00 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1095990/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095990</guid>
+      <title>Может ли недостающая материя Вселенной скрываться в чёрных дырах?</title>
+      <link>https://habr.com/ru/companies/ruvds/articles/1096994/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1096994</link>
+      <description>Уже почти столетие астрономы сталкиваются с неудобным фактом: большая часть материи, из которой состоит Вселенная, невидима. Галактики ведут себя так, будто окружены огромными облаками невидимой материи. Скопления галактик, по-видимому, содержат гораздо больше массы, чем могут обеспечить их светящиеся обитатели. Излучение, оставшееся после Большого взрыва, указывает на то же самое. Мы называем этот недостающий компонент тёмной материей. К сожалению, дать чему-то название — не то же самое, что по</description>
+      <pubDate>Fri, 23 Oct 2026 07:01:21 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/ruvds/articles/1096994/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1096994</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Etsy is cracking down on AI slop listings</title>
-      <link>https://www.theverge.com/tech/1017261/etsy-ai-rules-policies-restrictions-listing</link>
-      <description>Etsy is announcing stricter rules about how AI can be used in listings to reduce the volume of AI slop on the platform. In a post, the company says that "many active buyers say they can't tell which items involve AI-generated content" and that sellers are "concerned about your work appearing alongside items that use […]</description>
-      <pubDate>Fri, 23 Oct 2026 00:09:58 +0000</pubDate>
-      <guid>https://www.theverge.com/tech/1017261/etsy-ai-rules-policies-restrictions-listing</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>Mark Zuckerberg’s creative plan to pay California’s proposed billionaire tax without losing control of Meta</title>
-      <link>https://techcrunch.com/2026/10/22/mark-zuckerbergs-creative-plan-to-pay-californias-proposed-billionaire-tax-without-losing-control-of-meta/</link>
-      <description>A newly launched stock class being offered was partially engineered to help Meta founder and CEO Mark Zuckerberg pay the "billionaire's tax," should the measure be voted into law.</description>
-      <pubDate>Thu, 22 Oct 2026 23:50:41 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/22/mark-zuckerbergs-creative-plan-to-pay-californias-proposed-billionaire-tax-without-losing-control-of-meta/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>Warhound raises $200M to engineer war dogs and arm them with Anduril gear</title>
-      <link>https://techcrunch.com/2026/10/22/ben-lamm-raises-200m-for-warhound-to-engineer-war-dogs-and-arm-them-with-anduril-gear/</link>
-      <description>Warhound, the brainchild of Ben Lamm and Palmer Luckey, emerges from stealth to genetically engineer dogs for military and law enforcement.</description>
-      <pubDate>Thu, 22 Oct 2026 23:15:00 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/22/ben-lamm-raises-200m-for-warhound-to-engineer-war-dogs-and-arm-them-with-anduril-gear/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>Spotify says yes, it is busting people for using Family Plan sharing too widely</title>
-      <link>https://www.theverge.com/entertainment/1017214/spotify-family-plan-sharing-qr-codes</link>
-      <description>Spotify co-CEO Alex Norström confirmed on this week's earnings call that the company is trying to catch Spotify Family plan users who don't actually live together with a new QR code verification method that requires scanning the plan manager's phone. TechCrunch reports that in response to a question about the "crackdown," he called it a […]</description>
-      <pubDate>Thu, 22 Oct 2026 23:02:43 +0000</pubDate>
-      <guid>https://www.theverge.com/entertainment/1017214/spotify-family-plan-sharing-qr-codes</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>The next-gen Xbox won’t cost you $1,800. It can’t. Can it?</title>
-      <link>https://www.theverge.com/games/1016134/xbox-helix-price-1800-isnt-affordable-editorial</link>
-      <description>Fortune dropped a bombshell report on the future of gaming this week. According to the publication's Microsoft insiders, the next Xbox is projected to cost between $1,200 and $1,800 when it arrives in 2028. My first reaction: The next Xbox is dead on arrival. It's DOA. My second thought: Microsoft knows people won't pay that […]</description>
-      <pubDate>Thu, 22 Oct 2026 23:00:00 +0000</pubDate>
-      <guid>https://www.theverge.com/games/1016134/xbox-helix-price-1800-isnt-affordable-editorial</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>As blockchain investing falls out of vogue, a16z Crypto rebrands as a16z Frontier</title>
-      <link>https://techcrunch.com/2026/10/22/as-blockchain-investing-falls-out-of-vogue-a16z-crypto-rebrands-as-a16z-frontier/</link>
-      <description>The digital asset unit, helmed by Chris Dixon, broadens its scope.</description>
-      <pubDate>Thu, 22 Oct 2026 22:34:54 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/22/as-blockchain-investing-falls-out-of-vogue-a16z-crypto-rebrands-as-a16z-frontier/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>OpenAI working on new $30B raise at $1.25T valuation ahead of IPO</title>
-      <link>https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/</link>
-      <description>Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.</description>
-      <pubDate>Thu, 22 Oct 2026 22:08:24 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>OpsDeck за три недели: ИИ‑агент, который сам ходит на хосты, и ещё восемь релизов</title>
-      <link>https://habr.com/ru/articles/1098148/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098148</link>
-      <description>OpsDeck за три недели: ИИ-агент, который сам ходит на хосты, и ещё восемь релизов Три недели назад я писал здесь про OpsDeck — бесплатное открытое приложение, в котором DevOps-инженер держит в одном окне терминал, Kubernetes, SSH, базы, заметки и прочее, по чему обычно разложены пять вкладок и три консоли. С тех пор вышло девять релизов, в репозитории появились внешние контрибьюторы, а приложение заметно изменилось — настолько, что отдельный рассказ назрел. Коротко о главном: локальный ИИ перест</description>
-      <pubDate>Thu, 22 Oct 2026 22:01:46 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1098148/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098148</guid>
+      <title>Стадии компании до биржи: что значат раунды и как читать новости о них</title>
+      <link>https://habr.com/ru/companies/trinfico_private/articles/1098206/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098206</link>
+      <description>В новостях о технологических компаниях каждую неделю встречается одна и та же формула: «компания привлекла столько-то в раунде X при оценке во столько-то». По такой фразе сложно понять, на каком этапе находится бизнес, кто вложил деньги и далеко ли ему до выхода на биржу. В статье проходим путь компании от первых денег до IPO по классификации венчурных раундов. Для каждой стадии объясняем, кто инвестирует, сколько обычно привлекают и что есть у компании к этому моменту. Примеры берём из ИИ-рынка</description>
+      <pubDate>Fri, 23 Oct 2026 07:00:21 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/trinfico_private/articles/1098206/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098206</guid>
       <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Ошибки нейросетей – не повод для шуток, а список правил, которые мы не записали</title>
+      <link>https://habr.com/ru/companies/diasoft_company/articles/1097972/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1097972</link>
+      <description>Привет, Хабр! Меня зовут Дмитрий Старов, я руковожу департаментом «Инструменты и технологии разработки» в компании «Диасофт». В профессии я уже 28 лет, и все эти годы честно работал в том, что про себя называю «цехом». Цех – это мы с вами: разработчики, аналитики, тестировщики, архитекторы. За десятилетия мы выстроили для себя очень удобный мир. В этом мире – свой язык, свои ритуалы и своя сложность, в которой со стороны никто не разбирается. Человек из бизнеса смотрит на схему наших микросервис</description>
+      <pubDate>Fri, 23 Oct 2026 07:00:20 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/diasoft_company/articles/1097972/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1097972</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>ClickHouse в Zabbix 8: как устроено хранение истории и что происходит с трендами</title>
+      <link>https://habr.com/ru/articles/1098120/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098120</link>
+      <description>В Zabbix 8 появилась штатная возможность хранить историю элементов данных в ClickHouse. Это позволяет вынести поток измерений в отдельное хранилище, сохранив привычные механизмы сбора данных, обработки значений и проверки триггеров. При проектировании такой системы нужно учитывать важную особенность: для числовых данных, история которых направлена в ClickHouse, Zabbix не рассчитывает новые штатные тренды . Пока что так. Меня зовут Антон Касимов, я работаю в Gals Software, веду телеграм‑канал Zab</description>
+      <pubDate>Fri, 23 Oct 2026 06:11:16 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1098120/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098120</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Secure Boot в Arch Linux: включаем для UKI без замены заводских ключей</title>
+      <link>https://habr.com/ru/articles/1093566/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093566</link>
+      <description>Эта статья описывает по шагам, как включить Secure Boot в Arch Linux с загрузкой через UKI, не заменяя и не задевая другие ключи в UEFI. Если вы новичок в Arch, которому руководство по Secure Boot на Arch Wiki кажется страшным и непонятным, и вы боитесь задевать зашитые заводские ключи, или имеете другие причины их не менять, то, возможно, этот способ вам подойдет. Читать далее</description>
+      <pubDate>Fri, 23 Oct 2026 06:00:15 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1093566/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093566</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Искусственный интеллект в управлении проектами: магия, помощник или генератор новых проблем?</title>
+      <link>https://habr.com/ru/companies/directum/articles/1098174/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098174</link>
+      <description>На сцене — руководитель проекта. В отчете, который он через несколько часов предоставит топам, все хорошо: задачи выполняются, бюджет под контролем, критических рисков нет. Только вот за кулисами скрывается одна большая проблема — ключевой разработчик ждет доступы от заказчика уже неделю. Из-за этого тестирование не началось, а команда продолжает планировать работы так, будто ничего не произошло. Добро пожаловать на голодные игры в мир управления проектами, где между статусом в системе и реальны</description>
+      <pubDate>Fri, 23 Oct 2026 05:25:02 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/directum/articles/1098174/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098174</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>«Нет в наличии»: как магазины заменяют закончившиеся товары в корзине</title>
+      <link>https://habr.com/ru/articles/1093334/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093334</link>
+      <description>Товар закончился прямо в корзине. Удалить его, предложить похожий, другой размер или предложить подождать? Разобрал десятки интерфейсов магазинов — и нашёл проблему глубже: корзина помнит, что юзер выбрал, но забывает, почему. А ведь именно там может скрываться ключ к действительно хорошим заменам и рекомендациям. Читать далее</description>
+      <pubDate>Fri, 23 Oct 2026 04:55:10 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1093334/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093334</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Oura sues rival Ultrahuman again, threatening its U.S. smart ring comeback</title>
+      <link>https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/</link>
+      <description>Oura alleges in its newest lawsuit that Ultrahuman's Ring Pro infringes two of its patents.</description>
+      <pubDate>Fri, 23 Oct 2026 04:22:57 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>[Перевод] IPv6 у миллиона абонентов: как домашние роутеры устроили провайдеру шторм DHCPv6</title>
+      <link>https://habr.com/ru/articles/1098170/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098170</link>
+      <description>Непальский провайдер WorldLink семь лет назад включил IPv6 и довёл его до 100% из более чем миллиона абонентов, а 70% трафика теперь идёт мимо CGNAT. Главный инженер сети рассказывает, что сломалось по дороге. После обрыва волокна домашние роутеры, которые пользовались разрешённой в RFC 8415 возможностью вести отдельный автомат на адрес и на префикс, слали по 116 SOLICIT в минуту, а функция DBOR на BNG сносила абонентам сессии по кругу. Плюс мультикастовые фильтры второго уровня, снупинг на OLT,</description>
+      <pubDate>Fri, 23 Oct 2026 04:11:56 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1098170/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098170</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia</title>
+      <link>https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/</link>
+      <description>inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.</description>
+      <pubDate>Fri, 23 Oct 2026 04:00:00 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/</guid>
+      <category>TechCrunch</category>
     </item>
   </channel>
 </rss>
