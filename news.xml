@@ -5,88 +5,88 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Fri, 23 Oct 2026 07:02:45 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 12:32:17 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Может ли недостающая материя Вселенной скрываться в чёрных дырах?</title>
-      <link>https://habr.com/ru/companies/ruvds/articles/1096994/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1096994</link>
-      <description>Уже почти столетие астрономы сталкиваются с неудобным фактом: большая часть материи, из которой состоит Вселенная, невидима. Галактики ведут себя так, будто окружены огромными облаками невидимой материи. Скопления галактик, по-видимому, содержат гораздо больше массы, чем могут обеспечить их светящиеся обитатели. Излучение, оставшееся после Большого взрыва, указывает на то же самое. Мы называем этот недостающий компонент тёмной материей. К сожалению, дать чему-то название — не то же самое, что по</description>
-      <pubDate>Fri, 23 Oct 2026 07:01:21 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/ruvds/articles/1096994/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1096994</guid>
+      <title>Асимметрия как свойство жизни и решение 'Cat-Belling problems' искусственного суперинтеллекта</title>
+      <link>https://habr.com/ru/articles/1097468/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1097468</link>
+      <description>Данный текст является конкретным техническим решением и ответом на вопросы, поставленные Элиэзером Юдковски в статье « Cat-Belling Problems », опубликованной 4 сентября по итогу его дебатов с Джеффри Ирвингом, прошедших 3-7 августа на международной конференции ILIAD-2026 , посвященной теоретическим и математическим проблемам безопасности и контроля искусственного интеллекта. Чтобы лучше было понятно, о каких проблемах и вопросах идет речь, я опубликовал на Хабре свой перевод . Читать далее</description>
+      <pubDate>Fri, 23 Oct 2026 12:30:00 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1097468/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1097468</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Стадии компании до биржи: что значат раунды и как читать новости о них</title>
-      <link>https://habr.com/ru/companies/trinfico_private/articles/1098206/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098206</link>
-      <description>В новостях о технологических компаниях каждую неделю встречается одна и та же формула: «компания привлекла столько-то в раунде X при оценке во столько-то». По такой фразе сложно понять, на каком этапе находится бизнес, кто вложил деньги и далеко ли ему до выхода на биржу. В статье проходим путь компании от первых денег до IPO по классификации венчурных раундов. Для каждой стадии объясняем, кто инвестирует, сколько обычно привлекают и что есть у компании к этому моменту. Примеры берём из ИИ-рынка</description>
-      <pubDate>Fri, 23 Oct 2026 07:00:21 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/trinfico_private/articles/1098206/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098206</guid>
+      <title>Как подружить React с 100 000 live-обновлений: WebSocket, Web Workers и кастомный стор</title>
+      <link>https://habr.com/ru/articles/1098484/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098484</link>
+      <description>Введение Представьте, что вам нужно отрендерить в React-приложении таблицу с 100 000 объектов, которые непрерывно обновляются в реальном времени через WebSocket. Каждые 50 мс прилетает батч из 5000 дельт (изменений). Стандартный подход с useState или классическим Redux (с Immer) убивает браузер за несколько секунд: Читать далее</description>
+      <pubDate>Fri, 23 Oct 2026 12:29:08 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1098484/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098484</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Ошибки нейросетей – не повод для шуток, а список правил, которые мы не записали</title>
-      <link>https://habr.com/ru/companies/diasoft_company/articles/1097972/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1097972</link>
-      <description>Привет, Хабр! Меня зовут Дмитрий Старов, я руковожу департаментом «Инструменты и технологии разработки» в компании «Диасофт». В профессии я уже 28 лет, и все эти годы честно работал в том, что про себя называю «цехом». Цех – это мы с вами: разработчики, аналитики, тестировщики, архитекторы. За десятилетия мы выстроили для себя очень удобный мир. В этом мире – свой язык, свои ритуалы и своя сложность, в которой со стороны никто не разбирается. Человек из бизнеса смотрит на схему наших микросервис</description>
-      <pubDate>Fri, 23 Oct 2026 07:00:20 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/diasoft_company/articles/1097972/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1097972</guid>
+      <title>Итоги лабораторного теста Kaspersky NGFW v.1.3</title>
+      <link>https://habr.com/ru/companies/k2tech/articles/1098478/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098478</link>
+      <description>Привет, Хабр! Делюсь ниже статьей моих коллег в К2 Кибербезопасность системного инженера Захара Пенчева и ведущего эксперта технического блока Влада Мусатова. Тестирование новых версий продуктов — одна из самых интересных задач для инженера системного интегратора. Ведь это возможность не только познакомиться с новой функциональностью, но и проверить ее на практике, разобраться в особенностях реализации и оценить поведение решения в различных сценариях. В этот раз в центре нашего внимания оказалс</description>
+      <pubDate>Fri, 23 Oct 2026 12:23:47 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/k2tech/articles/1098478/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098478</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>ClickHouse в Zabbix 8: как устроено хранение истории и что происходит с трендами</title>
-      <link>https://habr.com/ru/articles/1098120/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098120</link>
-      <description>В Zabbix 8 появилась штатная возможность хранить историю элементов данных в ClickHouse. Это позволяет вынести поток измерений в отдельное хранилище, сохранив привычные механизмы сбора данных, обработки значений и проверки триггеров. При проектировании такой системы нужно учитывать важную особенность: для числовых данных, история которых направлена в ClickHouse, Zabbix не рассчитывает новые штатные тренды . Пока что так. Меня зовут Антон Касимов, я работаю в Gals Software, веду телеграм‑канал Zab</description>
-      <pubDate>Fri, 23 Oct 2026 06:11:16 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1098120/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098120</guid>
+      <title>«Античная наука в социальном и культурном измерении»</title>
+      <link>https://nplus1.ru/blog/2026/10/23/antique-science</link>
+      <description>Почему дисциплинарные границы античной науки принято расширять? Как греческие и римские ученые понимали собственные дисциплины и что считали научным, а что нет? Как вышло, что нам известно так мало выдающих ученых того времени? В книге «Античная наука в социальном и культурном измерении» («НЛО») историк Леонид Жмудь рассказывает о зарождении, расцвете и стагнации античной науки, ее действующих лицах, а также влиянии на образование и государство. Предлагаем вам ознакомиться с фрагментом о том, по</description>
+      <pubDate>Fri, 23 Oct 2026 12:15:00 +0000</pubDate>
+      <guid>https://nplus1.ru/blog/2026/10/23/antique-science</guid>
+      <category>N + 1 — главное издание о науке, технике и технологиях</category>
+    </item>
+    <item>
+      <title>Зачем заменять BIOS и UEFI свободной прошивкой GNU Boot</title>
+      <link>https://habr.com/ru/companies/ru_mts/articles/1098248/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098248</link>
+      <description>Люди редко задумываются, что творится в первые секунды после нажатия кнопки питания ПК или ноутбука. А происходит вот что: прошивка материнской платы запускает память, процессор, контроллеры и видеоадаптер, а затем передает управление дальше. Код этого слоя почти всегда закрыт. Хватит это терпеть! В сентябре 2026 года Фонд свободного программного обеспечения объявил , что берет под свое крыло проект GNU Boot. Это попытка сделать полностью свободную замену BIOS и UEFI. Давайте разберемся, зачем о</description>
+      <pubDate>Fri, 23 Oct 2026 12:00:05 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/ru_mts/articles/1098248/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098248</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Secure Boot в Arch Linux: включаем для UKI без замены заводских ключей</title>
-      <link>https://habr.com/ru/articles/1093566/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093566</link>
-      <description>Эта статья описывает по шагам, как включить Secure Boot в Arch Linux с загрузкой через UKI, не заменяя и не задевая другие ключи в UEFI. Если вы новичок в Arch, которому руководство по Secure Boot на Arch Wiki кажется страшным и непонятным, и вы боитесь задевать зашитые заводские ключи, или имеете другие причины их не менять, то, возможно, этот способ вам подойдет. Читать далее</description>
-      <pubDate>Fri, 23 Oct 2026 06:00:15 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1093566/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093566</guid>
+      <title>Retro gaming is being overrun with AI</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port</link>
+      <description>Retro video games are everywhere lately - especially in places where they aren't supposed to be. Halo in a web browser, Wind Waker on the iPhone, Super Smash Bros. in mixed reality. Over the past month or so, these kinds of unexpected projects have gone viral with incredible frequency thanks to new AI tools, as […]</description>
+      <pubDate>Fri, 23 Oct 2026 12:00:00 +0000</pubDate>
+      <guid>https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>Как помочь AI не терять контекст при длительной работе над проектом</title>
+      <link>https://habr.com/ru/articles/1098458/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098458</link>
+      <description>При длительной работе с AI над одним проектом постепенно накапливаются решения, требования и договорённости. Со временем модель может перестать учитывать часть этой информации, опираться на устаревшие решения или противоречить ранее согласованным требованиям. Разберём, как организовать проектный контекст с помощью ChatGPT Projects, инструкций, документов и памяти, а главное - как поддерживать его в актуальном состоянии. Читать далее</description>
+      <pubDate>Fri, 23 Oct 2026 11:41:53 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1098458/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098458</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Искусственный интеллект в управлении проектами: магия, помощник или генератор новых проблем?</title>
-      <link>https://habr.com/ru/companies/directum/articles/1098174/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098174</link>
-      <description>На сцене — руководитель проекта. В отчете, который он через несколько часов предоставит топам, все хорошо: задачи выполняются, бюджет под контролем, критических рисков нет. Только вот за кулисами скрывается одна большая проблема — ключевой разработчик ждет доступы от заказчика уже неделю. Из-за этого тестирование не началось, а команда продолжает планировать работы так, будто ничего не произошло. Добро пожаловать на голодные игры в мир управления проектами, где между статусом в системе и реальны</description>
-      <pubDate>Fri, 23 Oct 2026 05:25:02 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/directum/articles/1098174/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098174</guid>
+      <title>Защита ЦОДов от кинетических и кибератак. Что пока предлагают регуляторы разных стран</title>
+      <link>https://habr.com/ru/companies/infowatch/articles/1098442/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098442</link>
+      <description>Привет, Хабр! В конце апреля наш экспертно-аналитический центр подготовил доклад о защите ЦОДов и о последствиях, которые наступают при аварии или целенаправленной атаке. Мы немного освежили данные и предлагаем вам почитать, что сейчас предпринимают для защиты от киберугроз (и не только) в мире. Как сейчас вообще бизнес и государство смотрят на ЦОДы Обеспечение безопасности ЦОДов сейчас — это де-факто фундамент выживания бизнеса и государства. Вспомните, сколько сервисов легло разом после атак н</description>
+      <pubDate>Fri, 23 Oct 2026 11:30:27 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/infowatch/articles/1098442/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098442</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>«Нет в наличии»: как магазины заменяют закончившиеся товары в корзине</title>
-      <link>https://habr.com/ru/articles/1093334/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093334</link>
-      <description>Товар закончился прямо в корзине. Удалить его, предложить похожий, другой размер или предложить подождать? Разобрал десятки интерфейсов магазинов — и нашёл проблему глубже: корзина помнит, что юзер выбрал, но забывает, почему. А ведь именно там может скрываться ключ к действительно хорошим заменам и рекомендациям. Читать далее</description>
-      <pubDate>Fri, 23 Oct 2026 04:55:10 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1093334/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093334</guid>
+      <title>One of Earth’s most powerful supervolcanoes is refilling with fresh magma</title>
+      <link>https://www.sciencedaily.com/releases/2026/10/261023003214.htm</link>
+      <description>Deep beneath Japan’s Kikai caldera, a massive magma reservoir is refilling 7,300 years after one of the most powerful volcanic eruptions in Earth's recent geological history. Scientists used underwater seismic surveys to reveal a vast store of magma that appears to have accumulated since the ancient catastrophe. The discovery could help explain how supervolcanoes like Yellowstone and Toba rebuild their magma supplies.</description>
+      <pubDate>Fri, 23 Oct 2026 11:23:19 +0000</pubDate>
+      <guid>https://www.sciencedaily.com/releases/2026/10/261023003214.htm</guid>
+      <category>All Top News -- ScienceDaily</category>
+    </item>
+    <item>
+      <title>Сайт запущен. Как следить за сбоями и изменениями без ежедневного обхода</title>
+      <link>https://habr.com/ru/articles/1098428/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098428</link>
+      <description>Допустим, интернет-магазин прошёл приёмку: каталог открывается, тестовый заказ появился в системе, HTTPS работает. Что проверять дальше? Ежедневно повторять весь путь покупателя вручную неудобно, а одна открывающаяся главная мало говорит о состоянии остального сайта. Читать далее</description>
+      <pubDate>Fri, 23 Oct 2026 11:14:23 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1098428/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098428</guid>
       <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Oura sues rival Ultrahuman again, threatening its U.S. smart ring comeback</title>
-      <link>https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/</link>
-      <description>Oura alleges in its newest lawsuit that Ultrahuman's Ring Pro infringes two of its patents.</description>
-      <pubDate>Fri, 23 Oct 2026 04:22:57 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>[Перевод] IPv6 у миллиона абонентов: как домашние роутеры устроили провайдеру шторм DHCPv6</title>
-      <link>https://habr.com/ru/articles/1098170/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098170</link>
-      <description>Непальский провайдер WorldLink семь лет назад включил IPv6 и довёл его до 100% из более чем миллиона абонентов, а 70% трафика теперь идёт мимо CGNAT. Главный инженер сети рассказывает, что сломалось по дороге. После обрыва волокна домашние роутеры, которые пользовались разрешённой в RFC 8415 возможностью вести отдельный автомат на адрес и на префикс, слали по 116 SOLICIT в минуту, а функция DBOR на BNG сносила абонентам сессии по кругу. Плюс мультикастовые фильтры второго уровня, снупинг на OLT,</description>
-      <pubDate>Fri, 23 Oct 2026 04:11:56 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1098170/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098170</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia</title>
-      <link>https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/</link>
-      <description>inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.</description>
-      <pubDate>Fri, 23 Oct 2026 04:00:00 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/</guid>
-      <category>TechCrunch</category>
     </item>
   </channel>
 </rss>
