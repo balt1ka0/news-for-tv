@@ -5,88 +5,88 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Fri, 23 Oct 2026 12:32:17 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 17:44:45 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Асимметрия как свойство жизни и решение 'Cat-Belling problems' искусственного суперинтеллекта</title>
-      <link>https://habr.com/ru/articles/1097468/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1097468</link>
-      <description>Данный текст является конкретным техническим решением и ответом на вопросы, поставленные Элиэзером Юдковски в статье « Cat-Belling Problems », опубликованной 4 сентября по итогу его дебатов с Джеффри Ирвингом, прошедших 3-7 августа на международной конференции ILIAD-2026 , посвященной теоретическим и математическим проблемам безопасности и контроля искусственного интеллекта. Чтобы лучше было понятно, о каких проблемах и вопросах идет речь, я опубликовал на Хабре свой перевод . Читать далее</description>
-      <pubDate>Fri, 23 Oct 2026 12:30:00 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1097468/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1097468</guid>
+      <title>[Перевод] Оценка джоб-бордов в Грузии: LinkedIn против jobs.ge и hr.ge</title>
+      <link>https://habr.com/ru/articles/1098734/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098734</link>
+      <description>Объективное сравнение платформ, где инженеры-программисты и технологические компании находят друг друга на локальном и международном удаленном рынках. Читать далее</description>
+      <pubDate>Fri, 23 Oct 2026 17:41:06 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1098734/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098734</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Как подружить React с 100 000 live-обновлений: WebSocket, Web Workers и кастомный стор</title>
-      <link>https://habr.com/ru/articles/1098484/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098484</link>
-      <description>Введение Представьте, что вам нужно отрендерить в React-приложении таблицу с 100 000 объектов, которые непрерывно обновляются в реальном времени через WebSocket. Каждые 50 мс прилетает батч из 5000 дельт (изменений). Стандартный подход с useState или классическим Redux (с Immer) убивает браузер за несколько секунд: Читать далее</description>
-      <pubDate>Fri, 23 Oct 2026 12:29:08 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1098484/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098484</guid>
+      <title>Вам умное или красивое? Почему нам нужно и то, и то</title>
+      <link>https://habr.com/ru/articles/1098728/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098728</link>
+      <description>В школе я часто слышала фразу: «Ну, вам нужно выбрать: шашечки или едем?». А еще: «Определись: ты к умным или к красивым?». Когда выросла, оказалось, что профессиональный мир тоже как-будто стремится разделиться на два лагеря: тех, кто про мозг и технологии, и тех, кто про красоту и коммуникации. Читать далее</description>
+      <pubDate>Fri, 23 Oct 2026 17:29:22 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1098728/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098728</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Итоги лабораторного теста Kaspersky NGFW v.1.3</title>
-      <link>https://habr.com/ru/companies/k2tech/articles/1098478/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098478</link>
-      <description>Привет, Хабр! Делюсь ниже статьей моих коллег в К2 Кибербезопасность системного инженера Захара Пенчева и ведущего эксперта технического блока Влада Мусатова. Тестирование новых версий продуктов — одна из самых интересных задач для инженера системного интегратора. Ведь это возможность не только познакомиться с новой функциональностью, но и проверить ее на практике, разобраться в особенностях реализации и оценить поведение решения в различных сценариях. В этот раз в центре нашего внимания оказалс</description>
-      <pubDate>Fri, 23 Oct 2026 12:23:47 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/k2tech/articles/1098478/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098478</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>«Античная наука в социальном и культурном измерении»</title>
-      <link>https://nplus1.ru/blog/2026/10/23/antique-science</link>
-      <description>Почему дисциплинарные границы античной науки принято расширять? Как греческие и римские ученые понимали собственные дисциплины и что считали научным, а что нет? Как вышло, что нам известно так мало выдающих ученых того времени? В книге «Античная наука в социальном и культурном измерении» («НЛО») историк Леонид Жмудь рассказывает о зарождении, расцвете и стагнации античной науки, ее действующих лицах, а также влиянии на образование и государство. Предлагаем вам ознакомиться с фрагментом о том, по</description>
-      <pubDate>Fri, 23 Oct 2026 12:15:00 +0000</pubDate>
-      <guid>https://nplus1.ru/blog/2026/10/23/antique-science</guid>
-      <category>N + 1 — главное издание о науке, технике и технологиях</category>
-    </item>
-    <item>
-      <title>Зачем заменять BIOS и UEFI свободной прошивкой GNU Boot</title>
-      <link>https://habr.com/ru/companies/ru_mts/articles/1098248/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098248</link>
-      <description>Люди редко задумываются, что творится в первые секунды после нажатия кнопки питания ПК или ноутбука. А происходит вот что: прошивка материнской платы запускает память, процессор, контроллеры и видеоадаптер, а затем передает управление дальше. Код этого слоя почти всегда закрыт. Хватит это терпеть! В сентябре 2026 года Фонд свободного программного обеспечения объявил , что берет под свое крыло проект GNU Boot. Это попытка сделать полностью свободную замену BIOS и UEFI. Давайте разберемся, зачем о</description>
-      <pubDate>Fri, 23 Oct 2026 12:00:05 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/ru_mts/articles/1098248/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098248</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Retro gaming is being overrun with AI</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port</link>
-      <description>Retro video games are everywhere lately - especially in places where they aren't supposed to be. Halo in a web browser, Wind Waker on the iPhone, Super Smash Bros. in mixed reality. Over the past month or so, these kinds of unexpected projects have gone viral with incredible frequency thanks to new AI tools, as […]</description>
-      <pubDate>Fri, 23 Oct 2026 12:00:00 +0000</pubDate>
-      <guid>https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port</guid>
+      <title>The iPhone Duo should have been an iPad</title>
+      <link>https://www.theverge.com/podcast/1017447/iphone-duo-ipad-review-score-vergecast</link>
+      <description>We gave the iPhone Duo a 7 /10. But that wasn't always the score we planned, and it might not be the right score forever. Such are the challenges of reviewing - and assessing - a big, new idea about the most popular smartphone in history. On this episode of The Vergecast, David and Nilay […]</description>
+      <pubDate>Fri, 23 Oct 2026 17:00:18 +0000</pubDate>
+      <guid>https://www.theverge.com/podcast/1017447/iphone-duo-ipad-review-score-vergecast</guid>
       <category>The Verge</category>
     </item>
     <item>
-      <title>Как помочь AI не терять контекст при длительной работе над проектом</title>
-      <link>https://habr.com/ru/articles/1098458/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098458</link>
-      <description>При длительной работе с AI над одним проектом постепенно накапливаются решения, требования и договорённости. Со временем модель может перестать учитывать часть этой информации, опираться на устаревшие решения или противоречить ранее согласованным требованиям. Разберём, как организовать проектный контекст с помощью ChatGPT Projects, инструкций, документов и памяти, а главное - как поддерживать его в актуальном состоянии. Читать далее</description>
-      <pubDate>Fri, 23 Oct 2026 11:41:53 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1098458/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098458</guid>
+      <title>Now Google says it might use your Gmail and Google Photos data to target ads</title>
+      <link>https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update</link>
+      <description>Google has updated its privacy policy in a way that could mean you'll start seeing targeted ads based on your personal data if you're using personalized AI features. The update, spotted by Android Authority, adds an exception to its promise about not using your Drive, Gmail, or Google Photos for personalized ads. While the previous […]</description>
+      <pubDate>Fri, 23 Oct 2026 16:52:55 +0000</pubDate>
+      <guid>https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>Что будет, если в графический редактор добавить физику?</title>
+      <link>https://habr.com/ru/articles/1098710/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098710</link>
+      <description>Tymora - я сделал графический редактор 2D и 3D, в котором у объектов можно включить физику. Рисуете как в Фигме: кадры, фигуры, текст, группы. Потом нажимаете "Запустить", и нарисованное начинает падать, катиться, сталкиваться и отскакивать по законам физики. Читать далее</description>
+      <pubDate>Fri, 23 Oct 2026 16:42:54 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1098710/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098710</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Защита ЦОДов от кинетических и кибератак. Что пока предлагают регуляторы разных стран</title>
-      <link>https://habr.com/ru/companies/infowatch/articles/1098442/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098442</link>
-      <description>Привет, Хабр! В конце апреля наш экспертно-аналитический центр подготовил доклад о защите ЦОДов и о последствиях, которые наступают при аварии или целенаправленной атаке. Мы немного освежили данные и предлагаем вам почитать, что сейчас предпринимают для защиты от киберугроз (и не только) в мире. Как сейчас вообще бизнес и государство смотрят на ЦОДы Обеспечение безопасности ЦОДов сейчас — это де-факто фундамент выживания бизнеса и государства. Вспомните, сколько сервисов легло разом после атак н</description>
-      <pubDate>Fri, 23 Oct 2026 11:30:27 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/infowatch/articles/1098442/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098442</guid>
+      <title>The first broken iPhone Duos are here</title>
+      <link>https://www.theverge.com/tech/1017623/iphone-duo-broken-cracked-screen</link>
+      <description>The iPhone Duo officially goes on sale today, but a few units already have broken screens. According to posts on Reddit about the affected units, the issue appears to be happening at a similar spot on all of them: Some kind of problem shows up on the inner screen along the hinge and a strange […]</description>
+      <pubDate>Fri, 23 Oct 2026 16:37:03 +0000</pubDate>
+      <guid>https://www.theverge.com/tech/1017623/iphone-duo-broken-cracked-screen</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>[Перевод] Двенадцать факторов приложения. Новый взгляд</title>
+      <link>https://habr.com/ru/companies/hexlet/articles/1098714/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098714</link>
+      <description>Методология Twelve-Factor App, разработанная Адамом Виггинсом, описывает подход к созданию приложений в формате «программного обеспечения как услуги» (software as a service, SaaS). Разберём все двенадцать факторов: как они менялись, что из них актуально сегодня и как они повлияли на практику разработки. Нередко приходится слышать, как расхваливают подходы к разработке и развёртыванию софта в старые добрые времена. Сегодня так говорят о Heroku. Не поймите меня неправильно: это и в самом деле был </description>
+      <pubDate>Fri, 23 Oct 2026 16:32:09 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/hexlet/articles/1098714/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098714</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>One of Earth’s most powerful supervolcanoes is refilling with fresh magma</title>
-      <link>https://www.sciencedaily.com/releases/2026/10/261023003214.htm</link>
-      <description>Deep beneath Japan’s Kikai caldera, a massive magma reservoir is refilling 7,300 years after one of the most powerful volcanic eruptions in Earth's recent geological history. Scientists used underwater seismic surveys to reveal a vast store of magma that appears to have accumulated since the ancient catastrophe. The discovery could help explain how supervolcanoes like Yellowstone and Toba rebuild their magma supplies.</description>
-      <pubDate>Fri, 23 Oct 2026 11:23:19 +0000</pubDate>
-      <guid>https://www.sciencedaily.com/releases/2026/10/261023003214.htm</guid>
-      <category>All Top News -- ScienceDaily</category>
+      <title>Agent cloud startup Daytona hits $1B valuation backed by FirstMark and a who’s who of angels</title>
+      <link>https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/</link>
+      <description>Daytona is building a cloud for agents that's like giving every agent its own computer. It has attracted founders of Stripe, Perplextity, Datadog, Mercor, and others as angels, it says.</description>
+      <pubDate>Fri, 23 Oct 2026 16:26:29 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/</guid>
+      <category>TechCrunch</category>
     </item>
     <item>
-      <title>Сайт запущен. Как следить за сбоями и изменениями без ежедневного обхода</title>
-      <link>https://habr.com/ru/articles/1098428/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098428</link>
-      <description>Допустим, интернет-магазин прошёл приёмку: каталог открывается, тестовый заказ появился в системе, HTTPS работает. Что проверять дальше? Ежедневно повторять весь путь покупателя вручную неудобно, а одна открывающаяся главная мало говорит о состоянии остального сайта. Читать далее</description>
-      <pubDate>Fri, 23 Oct 2026 11:14:23 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1098428/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098428</guid>
+      <title>Две критические уязвимости в PHP (CVE-2026-109618 и CVE-2026-109619): что известно и как защититься</title>
+      <link>https://habr.com/ru/companies/pt/articles/1098704/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098704</link>
+      <description>21 октября были раскрыты две критические уязвимости PHP — CVE-2026-109618 и CVE-2026-109619 , обе с CVSS 9.2. Их эксплуатация позволяет выполнять код без аутентификации с правами веб-сервера. Уязвимым можно считать PHP с версии 5.4. Что интересно, уязвимости были найдены с помощью нейросетей (Gemini 4 Argon + GPT-5.6 Sol), а размер патча составляет больше 10 тысяч строк кода. Читать далее</description>
+      <pubDate>Fri, 23 Oct 2026 16:21:41 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/pt/articles/1098704/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098704</guid>
       <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Commonwealth Fusion Systems gets $85M to build better fusion-ready semiconductors</title>
+      <link>https://techcrunch.com/2026/10/23/commonwealth-fusion-systems-gets-85m-to-build-better-fusion-ready-semiconductors/</link>
+      <description>Top-funded fusion startup Commonwealth Fusion Systems received an $85 million award from the federal government to advance conductors for fusion power plants.</description>
+      <pubDate>Fri, 23 Oct 2026 16:20:28 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/23/commonwealth-fusion-systems-gets-85m-to-build-better-fusion-ready-semiconductors/</guid>
+      <category>TechCrunch</category>
     </item>
   </channel>
 </rss>
