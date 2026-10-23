@@ -5,88 +5,88 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Thu, 22 Oct 2026 22:08:51 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 01:15:41 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Left alone with nothing to do, AI agents started playing</title>
+      <link>https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/</link>
+      <description>MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.</description>
+      <pubDate>Fri, 23 Oct 2026 00:45:37 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>Depth Spectrum: Tool Operation &lt;-&gt; Whitebox Engineering</title>
+      <link>https://habr.com/ru/articles/1095990/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095990</link>
+      <description>Все тесты пройдены, заказчик доволен. Но какое-то странное чувство всё равно не покидает. Зачем читать код, если ИИ может его самостоятельно отревьюить? А когда найдёт проблему - и исправить. Зачем вообще мне документация в эпоху chatGPT? Но что, если за разумное время не получится найти решения? Если ошибочна сама постановка промпта? Как заглянуть в кроличью нору? И надо ли вообще? Заглянуть</description>
+      <pubDate>Fri, 23 Oct 2026 00:19:00 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1095990/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095990</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Etsy is cracking down on AI slop listings</title>
+      <link>https://www.theverge.com/tech/1017261/etsy-ai-rules-policies-restrictions-listing</link>
+      <description>Etsy is announcing stricter rules about how AI can be used in listings to reduce the volume of AI slop on the platform. In a post, the company says that "many active buyers say they can't tell which items involve AI-generated content" and that sellers are "concerned about your work appearing alongside items that use […]</description>
+      <pubDate>Fri, 23 Oct 2026 00:09:58 +0000</pubDate>
+      <guid>https://www.theverge.com/tech/1017261/etsy-ai-rules-policies-restrictions-listing</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>Mark Zuckerberg’s creative plan to pay California’s proposed billionaire tax without losing control of Meta</title>
+      <link>https://techcrunch.com/2026/10/22/mark-zuckerbergs-creative-plan-to-pay-californias-proposed-billionaire-tax-without-losing-control-of-meta/</link>
+      <description>A newly launched stock class being offered was partially engineered to help Meta founder and CEO Mark Zuckerberg pay the "billionaire's tax," should the measure be voted into law.</description>
+      <pubDate>Thu, 22 Oct 2026 23:50:41 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/22/mark-zuckerbergs-creative-plan-to-pay-californias-proposed-billionaire-tax-without-losing-control-of-meta/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>Warhound raises $200M to engineer war dogs and arm them with Anduril gear</title>
+      <link>https://techcrunch.com/2026/10/22/ben-lamm-raises-200m-for-warhound-to-engineer-war-dogs-and-arm-them-with-anduril-gear/</link>
+      <description>Warhound, the brainchild of Ben Lamm and Palmer Luckey, emerges from stealth to genetically engineer dogs for military and law enforcement.</description>
+      <pubDate>Thu, 22 Oct 2026 23:15:00 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/22/ben-lamm-raises-200m-for-warhound-to-engineer-war-dogs-and-arm-them-with-anduril-gear/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>Spotify says yes, it is busting people for using Family Plan sharing too widely</title>
+      <link>https://www.theverge.com/entertainment/1017214/spotify-family-plan-sharing-qr-codes</link>
+      <description>Spotify co-CEO Alex Norström confirmed on this week's earnings call that the company is trying to catch Spotify Family plan users who don't actually live together with a new QR code verification method that requires scanning the plan manager's phone. TechCrunch reports that in response to a question about the "crackdown," he called it a […]</description>
+      <pubDate>Thu, 22 Oct 2026 23:02:43 +0000</pubDate>
+      <guid>https://www.theverge.com/entertainment/1017214/spotify-family-plan-sharing-qr-codes</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>The next-gen Xbox won’t cost you $1,800. It can’t. Can it?</title>
+      <link>https://www.theverge.com/games/1016134/xbox-helix-price-1800-isnt-affordable-editorial</link>
+      <description>Fortune dropped a bombshell report on the future of gaming this week. According to the publication's Microsoft insiders, the next Xbox is projected to cost between $1,200 and $1,800 when it arrives in 2028. My first reaction: The next Xbox is dead on arrival. It's DOA. My second thought: Microsoft knows people won't pay that […]</description>
+      <pubDate>Thu, 22 Oct 2026 23:00:00 +0000</pubDate>
+      <guid>https://www.theverge.com/games/1016134/xbox-helix-price-1800-isnt-affordable-editorial</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>As blockchain investing falls out of vogue, a16z Crypto rebrands as a16z Frontier</title>
+      <link>https://techcrunch.com/2026/10/22/as-blockchain-investing-falls-out-of-vogue-a16z-crypto-rebrands-as-a16z-frontier/</link>
+      <description>The digital asset unit, helmed by Chris Dixon, broadens its scope.</description>
+      <pubDate>Thu, 22 Oct 2026 22:34:54 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/22/as-blockchain-investing-falls-out-of-vogue-a16z-crypto-rebrands-as-a16z-frontier/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
       <title>OpenAI working on new $30B raise at $1.25T valuation ahead of IPO</title>
       <link>https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/</link>
-      <description>Should OpenAI command an over $1 trillion valuation with this round, it would break records as the mostly highly valued private company ever.</description>
+      <description>Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.</description>
       <pubDate>Thu, 22 Oct 2026 22:08:24 +0000</pubDate>
       <guid>https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/</guid>
       <category>TechCrunch</category>
     </item>
     <item>
-      <title>Поисковик с «Теорией Связей» на FastAPI и Manticore Search</title>
-      <link>https://habr.com/ru/articles/1098150/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098150</link>
-      <description>Изначально я планировал написать классический лонгрид про своё участие в чемпионате ROADEF 2026 . Там я занял "почётное" 48-е место из 78 валидных участников , так что и кодом есть чем делиться, и историями с полей. Но тут на глаза мне попалось объявление на Кворке: какой-то суровый заказчик предлагал за 500 рублей разработать с нуля связку «Браузер + Поисковик». Я сидел, смотрел на это и думал: кого же мне порадовать? Дорогого читателя или этого щедрого продюсера с биржи фриланса? Решение пришл</description>
-      <pubDate>Thu, 22 Oct 2026 22:06:45 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1098150/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098150</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>OpsDeck за три недели: ИИ-агент, который сам ходит на хосты, и ещё восемь релизов</title>
+      <title>OpsDeck за три недели: ИИ‑агент, который сам ходит на хосты, и ещё восемь релизов</title>
       <link>https://habr.com/ru/articles/1098148/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098148</link>
       <description>OpsDeck за три недели: ИИ-агент, который сам ходит на хосты, и ещё восемь релизов Три недели назад я писал здесь про OpsDeck — бесплатное открытое приложение, в котором DevOps-инженер держит в одном окне терминал, Kubernetes, SSH, базы, заметки и прочее, по чему обычно разложены пять вкладок и три консоли. С тех пор вышло девять релизов, в репозитории появились внешние контрибьюторы, а приложение заметно изменилось — настолько, что отдельный рассказ назрел. Коротко о главном: локальный ИИ перест</description>
       <pubDate>Thu, 22 Oct 2026 22:01:46 +0000</pubDate>
       <guid>https://habr.com/ru/articles/1098148/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098148</guid>
       <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Canva’s first AI image model plans designs before generating them</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model</link>
-      <description>Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from OpenAI, Microsoft, and Google. The model, called Canva Craft, uses a two-stage architecture that allows it to plan a design before generating an image, allowing for "greater precision, consistency and control," according to an […]</description>
-      <pubDate>Thu, 22 Oct 2026 21:51:25 +0000</pubDate>
-      <guid>https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>PC shipments dropped over 20 percent in Q3 due to RAM price hikes</title>
-      <link>https://www.theverge.com/gadgets/1017144/global-pc-shipments-dropped-q3-2026-ram</link>
-      <description>Demand for new PCs took a hit after months of price hikes, with Counterpoint Research reporting global PC shipments fell 21 percent year-over-year in Q3 2026. That's in line with earlier reports from IDC and Omdia. It's not just PCs, either - that same quarter, smartphone shipments also hit a 14-year low. Counterpoint linked the […]</description>
-      <pubDate>Thu, 22 Oct 2026 21:30:39 +0000</pubDate>
-      <guid>https://www.theverge.com/gadgets/1017144/global-pc-shipments-dropped-q3-2026-ram</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>Fall 2026 earnings watch</title>
-      <link>https://www.theverge.com/tech/1016506/fall-2026-earnings-watch</link>
-      <description>Every company is suddenly an AI company. Compute is an asset. Cars are flying. We’ve been promised robots — again. It’s time again to dig through earnings reports, listen to investor calls, and call out the latest wins and losses from around the tech sector and what it means for where the companies go next.</description>
-      <pubDate>Thu, 22 Oct 2026 21:15:16 +0000</pubDate>
-      <guid>https://www.theverge.com/tech/1016506/fall-2026-earnings-watch</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>Rivian buys world model startup to accelerate self-driving ambitions</title>
-      <link>https://techcrunch.com/2026/10/22/rivian-buys-world-model-startup-to-accelerate-self-driving-ambitions/</link>
-      <description>Third Dimension's technology uses AI to match the physical world, which when combined with Rivian's reams of data could turn into a valuable simulator.</description>
-      <pubDate>Thu, 22 Oct 2026 21:05:05 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/22/rivian-buys-world-model-startup-to-accelerate-self-driving-ambitions/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>Meta’s AI could still scrape news sites, legal experts say</title>
-      <link>https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns</link>
-      <description>Meta has tweaked its business terms to remove language suggesting that it could freely train its AI models on news sites, like The Verge - but legal experts say these changes aren't enough to address their concerns. "This does nothing to restrict the 'associated with your products or services' [language] that would let Meta scrape […]</description>
-      <pubDate>Thu, 22 Oct 2026 20:32:05 +0000</pubDate>
-      <guid>https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>Meta turns Muse sharing back on</title>
-      <link>https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts</link>
-      <description>Meta has re-enabled Muse sharing after security researchers had reported that public conversation links could be easy to find. The researchers said they had been able to find Muse pages like a marketing company's internal revenue review and a small business owner's loan application. Researchers at Claroc reported earlier this week that Muse the web […]</description>
-      <pubDate>Thu, 22 Oct 2026 20:24:04 +0000</pubDate>
-      <guid>https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>The FCC is beginning to block gadgets with ‘foreign surveillance chips’</title>
-      <link>https://www.theverge.com/policy/1017016/fcc-block-foreign-surveillance-chips-hivision-huawei-loophole</link>
-      <description>On October 13th, Brendan Carr's FCC gave itself a new power - it can block gadgets for containing any computer chip made by any company on its list of potential threats to national security. Today, it's exercising that power for the first time, blocking two gadgets because they contain "foreign surveillance chips," the FCC claims. […]</description>
-      <pubDate>Thu, 22 Oct 2026 20:23:48 +0000</pubDate>
-      <guid>https://www.theverge.com/policy/1017016/fcc-block-foreign-surveillance-chips-hivision-huawei-loophole</guid>
-      <category>The Verge</category>
     </item>
   </channel>
 </rss>
