@@ -5,9 +5,25 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Fri, 23 Oct 2026 23:49:25 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 03:32:20 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Эволюция личных ИИ‑агентов: от суммаризации до автономной организации</title>
+      <link>https://habr.com/ru/articles/1098802/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098802</link>
+      <description>Как четыре бытовых кейса превратились в инвестиционный офис из агентов — и почему человек из контура так и не выпал. Когда говорят о SDD, AI PDLC или HG PDLC, обычные люди считают эти аббревиатуры очень далёкими от реальной жизни и принадлежащими жёсткой корпоративной ИТ‑сфере. Расскажу на примере ряда своих опытов (от простого к сложному), как эти абстрактные понятия реализуются для личных идей и проектов. Читать далее</description>
+      <pubDate>Sat, 24 Oct 2026 03:18:31 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1098802/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098802</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Мир под чёрным солнцем: консультируем ужастик. Часть 1</title>
+      <link>https://habr.com/ru/articles/1098794/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098794</link>
+      <description>В прошлой статье я рассказал про найденные недавно коричневые карлики в окрестностях Солнца. Это небольшие, размерами с Юпитер, горячие и почти не светящиеся в видимом диапазоне тела. В комментариях развернулась интересная дискуссия, какой могла бы быть жизнь на экзопланете, вращающейся вокруг такой недозвезды. Там есть тепло, есть приливы, вулканы, наверное, тоже есть. Только света почти нет. Я эти недели думал, читал первоисточники, считал, копил идеи, и хотел поделиться этим материалом в виде</description>
+      <pubDate>Sat, 24 Oct 2026 00:52:49 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1098794/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098794</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
     <item>
       <title>Startups don’t need to go viral to win customers</title>
       <link>https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/</link>
@@ -71,22 +87,6 @@
       <pubDate>Fri, 23 Oct 2026 20:57:13 +0000</pubDate>
       <guid>https://techcrunch.com/2026/10/23/vcs-superhuman-mail-founder-share-red-flags-about-product-market-fit/</guid>
       <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>[Перевод] Логика вероятности: почему частоты не объясняют всё — Брендет Фителсон (интервью)</title>
-      <link>https://habr.com/ru/articles/1098762/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098762</link>
-      <description>Каждый раз, когда вы видите, как яблоко само отрывается от ветки, оно падает вниз. Поэтому вы утверждаете, что существует закон физики: яблоки падают с деревьев вниз. Но откуда вы можете это знать ? Ведь завтра вам может встретиться яблоко, которое упадёт вверх. Как вообще возможна наука? Как нетрудно догадаться, философы немало размышляли над этим вопросом. Бренден Фителсон объясняет, как более глубокое понимание вероятности помогает определить, действительно ли новые данные подтверждают наши у</description>
-      <pubDate>Fri, 23 Oct 2026 20:40:35 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1098762/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098762</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>[Перевод] 7 поразительных примеров сходства между Вселенной и человеческим телом</title>
-      <link>https://habr.com/ru/articles/1098754/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098754</link>
-      <description>Итан Сигел (американский астрофизик‑теоретик и научный журналист, автор рубрики «Спросите Итана», один из пропагандистов современных научных знаний), сравнил человеческое тело и... Вселенную. Получилось занятно, и с множеством интересных картинок при минимуме слов (статья вышла в рубрике «Почти безмолвный понедельник» (Mostly Mute Monday): астрономические истории в картинках и не более чем 200 словах. ) @avshkol сделал перевод этих 200 слов, и бережно скопировал и вставил все 20 интересных карти</description>
-      <pubDate>Fri, 23 Oct 2026 20:37:12 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1098754/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098754</guid>
-      <category>Все публикации подряд на Хабре</category>
     </item>
   </channel>
 </rss>
