@@ -5,88 +5,88 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Sat, 24 Oct 2026 17:14:06 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 20:19:57 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Instacart reportedly discussed selling itself with DoorDash and Uber</title>
-      <link>https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber/</link>
-      <description>Instacart might sell itself to a larger competitor.</description>
-      <pubDate>Sat, 24 Oct 2026 16:30:00 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber/</guid>
+      <title>Will AI expose the rickety infrastructure of the internet?</title>
+      <link>https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/</link>
+      <description>The moment you realize the internet is "held together by glue and dreams."</description>
+      <pubDate>Sat, 24 Oct 2026 20:15:33 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/</guid>
       <category>TechCrunch</category>
     </item>
     <item>
-      <title>Block’s new voice model sounds eerily human</title>
-      <link>https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/</link>
-      <description>Block said that the voice model can run locally on a MacBook M4 Max</description>
-      <pubDate>Sat, 24 Oct 2026 16:00:00 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/</guid>
+      <title>Безопасность Apple Mobile Devices. Часть III. Что происходит после нажатия Power</title>
+      <link>https://habr.com/ru/articles/1098952/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098952</link>
+      <description>Итак, в прошлой части мы остановились на мысли, что современный iPhone имеет смысл рассматривать уже не как устройство, в котором где-то лежит некий суперсекретный ключ, а как довольно сложную машину состояний, которая на каждом этапе проверяет, имеет ли следующий кусок системы право вообще существовать. Попробуем теперь пройти всю эту цепочку руками, от момента нажатия кнопки Power до запуска какого-нибудь Signal или Telegram, и посмотреть, в какой именно момент какие куски железа и софта начин</description>
+      <pubDate>Sat, 24 Oct 2026 20:02:09 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1098952/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098952</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Почти разминулись. Какую роль могла сыграть встреча Земли и Тейи</title>
+      <link>https://habr.com/ru/articles/1098950/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098950</link>
+      <description>Привет, Хабр. В недавней статье « Облачный атлас: проекты для венерианского воздухоплавания » я приводил некоторые доводы в пользу того, что терраформирование поверхности скалистых планет Солнечной системы — задача, решение которой можно представить лишь в отдаленной исторической перспективе. Путь к терраформированию лежит через глобальную экологическую катастрофу на преобразуемой планете. Но эти скептические соображения возвращают меня к вопросам о том, а как же Земля не повторила судьбу Венеры</description>
+      <pubDate>Sat, 24 Oct 2026 19:59:41 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1098950/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098950</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>The AI graveyard: a running list of projects and startups that didn’t make it</title>
+      <link>https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/</link>
+      <description>From Apple's repeatedly delayed Siri AI to OpenAI's messy "super app" launch, here's a look at the AI projects that shut down or missed expectations.</description>
+      <pubDate>Sat, 24 Oct 2026 19:00:00 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/</guid>
       <category>TechCrunch</category>
     </item>
     <item>
-      <title>Интервью с совладельцем клуба «Луноход» Виктором Чередниченко</title>
-      <link>https://habr.com/ru/articles/1098916/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098916</link>
-      <description>Привет, Хабр! Давно не было интервью от меня. И вот решил исправиться. Хотел даже запустить серию обзоров киберклубов, но от этой идеи быстро отказался. Однако один клуб всё-таки привлёк моё внимание, и мне стало интересно узнать о нём. Во-первых, это клуб в ретро-тематике. То есть есть некий налёт ностальгии по ламповым клубам начала 00-х. Во-вторых, это ещё и музей. В клубе есть разные интересные железки, которых нет в других похожих заведениях. Ну и в-третьих, я заинтересовался ретро-играми и</description>
-      <pubDate>Sat, 24 Oct 2026 15:40:35 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1098916/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098916</guid>
+      <title>Aroshka Cloud, часть четвёртая: «SOC 24/7», видеокарты H200 и поддержка по шаблонам</title>
+      <link>https://habr.com/ru/articles/1098944/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098944</link>
+      <description>Через несколько часов после третьей части облачное хранилище Aroshka Cloud выпустило пять постов о нас и объявило, что мы устроили на него DDoS-атаку. Мы разобрали эти посты по фразам, положили рядом всё, что сервис за семь месяцев рассказывал о себе сам, и отправили ему досудебную претензию. Каждое утверждение ниже можно открыть по ссылке на архив. Читать далее</description>
+      <pubDate>Sat, 24 Oct 2026 18:55:01 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1098944/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098944</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>PHP-ocalypse: How two critical web bugs almost broke the internet</title>
-      <link>https://techcrunch.com/2026/10/24/php-ocalypse-how-two-critical-web-bugs-almost-broke-the-internet/</link>
-      <description>Two critical bugs in the PHP web programming language, used by the majority of the internet, threatened to upend the internet — and it's unlikely to be the last major software scare.</description>
-      <pubDate>Sat, 24 Oct 2026 15:30:00 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/24/php-ocalypse-how-two-critical-web-bugs-almost-broke-the-internet/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>AI: скальпель у каждого в руках</title>
-      <link>https://habr.com/ru/articles/1098924/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098924</link>
-      <description>ИИ похож на скальпель, который за $20 в месяц оказался в руках у каждого. В руках хирурга он позволяет делать то, что раньше казалось невозможным. В руках человека без подготовки и знаний он тоже оставляет след — вот только результат может быть непредсказуемым. Читать далее</description>
-      <pubDate>Sat, 24 Oct 2026 15:27:31 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1098924/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098924</guid>
+      <title>Криптохеш: почему нельзя обратить функцию, если все операции обратимы</title>
+      <link>https://habr.com/ru/articles/1098918/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098918</link>
+      <description>У вас не возникало желания понять, почему майнеры тратят уйму электричества на перебор хешей, вместо того чтобы вычислить нужное значение алгебраически? Ведь все элементарные операции обратимы – в какой момент из обратимых операций появляется функция, для которой уже нельзя написать обратную? Где именно сокрыта магия? Это попытка объяснить на пальцах, как из простых и обратимых операций, таких как сложение (+) и умножение (*), а также остатка от деления (условно обратимой операции) собрать однос</description>
+      <pubDate>Sat, 24 Oct 2026 18:38:34 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1098918/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098918</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Патч-антенна на 2,4 ГГц: расчёт, моделирование и согласование в ADS</title>
-      <link>https://habr.com/ru/articles/1093916/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093916</link>
-      <description>Как я рассчитывал и моделировал патч антенну для производства её на FR4 на диапазон 2.4ГГц. От расчёта геометрии на FR4 до анализа S11, входного сопротивления и способов согласования. В конце статьи бонус - сравнение результатов моделирований для разных толщин диэлектрика. Посмотреть что там с антеннами</description>
-      <pubDate>Sat, 24 Oct 2026 15:00:28 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1093916/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093916</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Fielded is obsessed with scammers and unhinged Japanese cyberpunk</title>
-      <link>https://www.theverge.com/entertainment/1017460/fielded-some-kind-of-animal-interview</link>
-      <description>Lindsay Powell, who releases records under the name Fielded, has spent most of her career subverting expectations and genre conventions. According to their Bandcamp page, Fielded started as an experimental noise project before growing into something closer to R&amp;B. But from moment one, her take on the genre was restless, relentlessly playing with what R&amp;B […]</description>
-      <pubDate>Sat, 24 Oct 2026 15:00:00 +0000</pubDate>
-      <guid>https://www.theverge.com/entertainment/1017460/fielded-some-kind-of-animal-interview</guid>
+      <title>Pennsylvania will require labels on AI-generated ads</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act</link>
+      <description>On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads. The law requires any ad - whether it's a still image, video, audio, or text - that "has been significantly modified or generated by artificial intelligence" to include a label in the same format as […]</description>
+      <pubDate>Sat, 24 Oct 2026 18:32:21 +0000</pubDate>
+      <guid>https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act</guid>
       <category>The Verge</category>
     </item>
     <item>
-      <title>LG’s brilliant C6 OLED TV is already $400 off ahead of Black Friday</title>
-      <link>https://www.theverge.com/gadgets/1017768/lg-c6-oled-tv-early-black-friday-2026-deal-sale</link>
-      <description>Black Friday is still over a month away, but if you’re hoping to upgrade your TV, you don’t need to wait until November. LG has already kicked off its early Black Friday sale, letting you save on the LG C6 and various soundbars through November 1st. Right now, for instance, you can snag a 55-inch […]</description>
-      <pubDate>Sat, 24 Oct 2026 15:00:00 +0000</pubDate>
-      <guid>https://www.theverge.com/gadgets/1017768/lg-c6-oled-tv-early-black-friday-2026-deal-sale</guid>
-      <category>The Verge</category>
+      <title>CRISPR для ARM: чиним ДНК робота</title>
+      <link>https://habr.com/ru/articles/1098180/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098180</link>
+      <description>У SpeedyBot облако точек выходило раньше нужного TF. Чиним закрытую ARM64-библиотеку: разбираем ELF с Capstone и pyelftools, переносим готовый PointCloud2, учитываем small string optimization и исключения C++. Внутри — настоящий C-код, кодирование B/BL, флаги сборки Zig и проверка в Unicorn/QEMU. Читать далее</description>
+      <pubDate>Sat, 24 Oct 2026 18:25:33 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1098180/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098180</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>These clever apps show off the iPhone Duo’s potential</title>
-      <link>https://techcrunch.com/2026/10/24/these-clever-apps-show-off-the-iphone-duos-potential/</link>
-      <description>From retro cassette players and virtual notebooks to flight trackers and even a digital toaster, developers are finding creative ways to take advantage of Apple's first foldable iPhone.</description>
-      <pubDate>Sat, 24 Oct 2026 15:00:00 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/24/these-clever-apps-show-off-the-iphone-duos-potential/</guid>
-      <category>TechCrunch</category>
+      <title>Мы — та самая точка в.com</title>
+      <link>https://habr.com/ru/articles/1071422/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1071422</link>
+      <description>В конце 1990-х Sun Microsystems была одной из главных компаний технологического мира. Сегодня трудно подобрать точный аналог, но по своему месту в инфраструктуре новой технологической эпохи она напоминала нынешнюю Nvidia. У компании даже был идеально подходящий эпохе слоган: «Мы — точка в dot‑com». И это не казалось преувеличением. История Sun — это история, которую сегодня особенно полезно вспомнить... Читать далее</description>
+      <pubDate>Sat, 24 Oct 2026 17:55:40 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1071422/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1071422</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.</title>
-      <link>https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/</link>
-      <description>A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.</description>
-      <pubDate>Sat, 24 Oct 2026 15:00:00 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/</guid>
-      <category>TechCrunch</category>
+      <title>Найти похожие заметки в Obsidian оказалось проще, чем безопасно их изменить</title>
+      <link>https://habr.com/ru/articles/1098922/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098922</link>
+      <description>Две заметки могут быть похожи по смыслу, но это ещё не повод объединять их или удалять одну из них. Я хотел научить Veynrel не просто находить такие пары, а предлагать действия с ними. И довольно быстро выяснилось, что получить рекомендацию от LLM гораздо проще, чем безопасно применить её к Markdown. В статье разбираю, как устроил проверку цитат модели, подготовку изменений, защиту от устаревших файлов и Undo. Покажу реальный TypeScript-код, результаты тестов и небольшой эксперимент с DeepSeek: </description>
+      <pubDate>Sat, 24 Oct 2026 17:30:39 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1098922/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098922</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
   </channel>
 </rss>
