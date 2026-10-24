@@ -5,87 +5,87 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Sat, 24 Oct 2026 08:41:41 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 13:08:08 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Как распознать нейрослоп в домашних условиях (и не только)</title>
-      <link>https://habr.com/ru/articles/1098036/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098036</link>
-      <description>Несколько дней назад я опубликовал на хабре статью под названием "Есть 1С, хочется ИИ, с чего начать". Статья повисела пару дней, а потом ее убрали, посчитав, что она была сгенерирована. Тут сразу оговорюсь, мне не обидно. Статьи я пишу давно. Выходит по-разному. Что-то за 200 тысяч просмотров перебирается. Что-то остается практически незаметным. По просмотрам было понятно, что эта моя статья не самая лучшая. Просто прочтите, что я вам расскажу, и поймете, что мною движет. Читать далее</description>
-      <pubDate>Sat, 24 Oct 2026 08:38:10 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1098036/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098036</guid>
+      <title>Сможет ли ИИ решить физику?</title>
+      <link>https://habr.com/ru/articles/1098906/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098906</link>
+      <description>Физика написана плохо Вы когда-нибудь смотрели на формулу и пытались понять, что там написано? Для меня, как для программиста, физическая формула - это полный набор антипаттернов. Читать далее</description>
+      <pubDate>Sat, 24 Oct 2026 12:23:17 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1098906/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098906</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Данные: сказка названии</title>
-      <link>https://habr.com/ru/articles/1098842/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098842</link>
-      <description>Пришел Иванушка к камню, а на камне написано: data ocean, data lake, шлюз, канал, flood, pipeline/pipe, утечка, bridge и многие другие. И подумал Иванушка: «Это кто ж налил столько воды...» Предлагаю вместе поговорить про воду в названиях круговорота данных. Я начну, а вас всех приглашаю помочь продолжить , так как это незавершенная работа, а приглашение к совместному исследованию прошлого, которое нашло отражение в будущем. Читать далее</description>
-      <pubDate>Sat, 24 Oct 2026 08:36:05 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1098842/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098842</guid>
+      <title>PayPhone 2077: как я превратил скучный PDF в карту таксофонов России</title>
+      <link>https://habr.com/ru/articles/1098904/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098904</link>
+      <description>Недавно я с удивлением обнаружил, что таксофоны до сих пор существуют и используются по назначению. Казалось бы, эпоха этих аппаратов давно закончилась: последние карточные таксофоны демонтировали, отключили от сети или оставили ржаветь где-нибудь на улице в качестве арт-объектов. Теперь они разве что пугают зумеров и вызывают приступы ностальгии у бумеров, которым достаточно увидеть телефонную будку, чтобы вспомнить «Плачет девушка в автомате». Читать далее</description>
+      <pubDate>Sat, 24 Oct 2026 12:12:16 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1098904/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098904</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Космическая игра в одном HTML-файле: процедурная галактика, планеты из шума и звук без единого семпла</title>
-      <link>https://habr.com/ru/articles/1098838/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098838</link>
-      <description>Привет. Я делаю одиночную космическую игру VoidVibe: полёт, бой, торговля, станции, морпехи, абордаж. Работает в браузере (WebGL2) и на Android, оффлайн. Вся игра это один index.html. Внутри нет ни одной картинки, ни одного звукового файла, ни одной библиотеки. Для себя я поставил лимит 512 КБ по gzip на весь файл. Сейчас release-сборка весит 193 КБ из 512, а dev-сборка с панелью разработчика 264 КБ. Здесь без воды: как устроен генератор, как лежат модели, что делают шейдеры, как синтезируется з</description>
-      <pubDate>Sat, 24 Oct 2026 08:19:57 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1098838/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098838</guid>
+      <title>В России провели первую в мире трансплантацию участка спинного мозга</title>
+      <link>https://nplus1.ru/news/2026/10/24/spinal-transplant</link>
+      <description>В России провели первую в мире трансплантацию участка спинного мозга</description>
+      <pubDate>Sat, 24 Oct 2026 12:11:00 +0000</pubDate>
+      <guid>https://nplus1.ru/news/2026/10/24/spinal-transplant</guid>
+      <category>N + 1 — главное издание о науке, технике и технологиях</category>
+    </item>
+    <item>
+      <title>Laika has spent 20 years building up to Wildwood</title>
+      <link>https://www.theverge.com/entertainment/1017740/wildwood-stop-motion-interview-laika</link>
+      <description>Across several decades in Hollywood, Caleb Deschanel has seen a lot. He served as cinematographer on films like The Passion of the Christ and The Patriot, worked on sequences in The Godfather and Titanic, and directed a few episodes of Twin Peaks. Even still, nothing could quite prepare him for his first stop-motion project: working […]</description>
+      <pubDate>Sat, 24 Oct 2026 12:00:00 +0000</pubDate>
+      <guid>https://www.theverge.com/entertainment/1017740/wildwood-stop-motion-interview-laika</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>Моделирование подзарядки аккумуляторной батареи посредством рекуперации</title>
+      <link>https://habr.com/ru/articles/1098896/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098896</link>
+      <description>Рекуперативное торможение асинхронного двигателя — это режим, при котором двигатель работает как генератор, преобразуя кинетическую энергию вращающегося ротора в электрическую. Данный режим характерен для лифтов, ленточных погрузчиков, подъёмных кранов и других устройств где предполагается подъём и спуск груза. Такой режим работы позволяет расходовать энергию при подъёме груза и генерировать при спуске (когда двигатель вращается по инерции). В общем случае энергия возвращается обратно в сеть, в </description>
+      <pubDate>Sat, 24 Oct 2026 11:51:45 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1098896/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098896</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Как цензура в закрытых ИИ-моделях меняет науку и разработку: кейс ДНК-модели Carbon-X и спор о «поверхностных фильтрах»</title>
-      <link>https://habr.com/ru/articles/1098796/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098796</link>
-      <description>22 октября 2026 года сооснователь и CEO Hugging Face Клеман Деланг ( @ClemDelangue ) анонсировал релиз Carbon-X — открытой языковой модели на 14,8 млрд параметров для чтения, анализа и генерации последовательностей ДНК. В том же посте он рассказал показательную деталь: когда он попросил коммерческую закрытую модель просто вычитать черновик своего твита перед публикацией, сработал фильтр безопасности и запрос заблокировало. Сам твит Деланга звучал так: Читать далее</description>
-      <pubDate>Sat, 24 Oct 2026 08:06:56 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1098796/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098796</guid>
+      <title>Разблокировали тензорные ядра RTX 3060: +83 % и почему на квантованной модели это почти ноль</title>
+      <link>https://habr.com/ru/articles/1098836/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098836</link>
+      <description>Репозиторий gpu-unlock снимает коммерческое ограничение NVIDIA на скорость FP16/BF16-тензорных ядер в картах 3000 серии. Мы прогнали его на своей RTX 3060 (GA106-302, LHR) в live Ubuntu: FP16 GEMM вырос с 27,1 до 49,5 TFLOPS (×1,83), при этом контрольная линия FP32 не сдвинулась ни на десятую. В статье о том, что именно урезано и на каком уровне, почему чтение регистров идёт до загрузки драйвера, чем наш замер отличается от уже влитого в апстрим PR, и почему для квантованного инференса llama.cpp</description>
+      <pubDate>Sat, 24 Oct 2026 11:45:21 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1098836/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098836</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Как добавить свою LLM в aish</title>
-      <link>https://habr.com/ru/companies/selectel/articles/1095406/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095406</link>
-      <description>Привет, меня зовут Наташа, я менеджер проектов в Selectel. Недавно я рассказывала, как и зачем мы создавали aish — ИИ-агента в терминале серверной ОС. Предлагаю перейти к практике и подключить к нему стороннюю LLM. В этой статье покажу, как выбрать подходящую модель, правильно ее настроить и избежать типичных ошибок при интеграции. Читать далее</description>
-      <pubDate>Sat, 24 Oct 2026 08:00:55 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/selectel/articles/1095406/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095406</guid>
+      <title>Дебаггинг детского мышления: как обойти когнитивные тупики на уроках математики</title>
+      <link>https://habr.com/ru/articles/1098890/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098890</link>
+      <description>За моей спиной более 6 000 часов индивидуальных занятий математикой с детьми. Этот опыт — не про методички, а про непрерывное наблюдение за тем, как именно человеческий мозг на ранних этапах спотыкается об абстрактные правила. Когда все кажется простым и понятным со стороны взрослого, легко впасть в иллюзию, что ребенок просто «не хочет» или «ленится». Ниже я делюсь инструментами, которые могут показаться элементарными. Но все описанное — это те самые 20% методических усилий, которые дают 80% пр</description>
+      <pubDate>Sat, 24 Oct 2026 11:14:12 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1098890/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098890</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Борьба с ИИ-спагетти: C4 + Structurizr</title>
-      <link>https://habr.com/ru/articles/1097224/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1097224</link>
-      <description>ИИ пишет код быстро, но превращает архитектуру в лапшу за недели. Мы (инженерная лаборатория «Микрофабрика») попробовали решить это через C4 Model и Structurizr DSL - и получили рабочий инструмент, который помогает и людям, и ИИ-агентам держать общую картину проекта. В статье - что такое C4, почему Structurizr - не просто «ещё один рендерер диаграмм», и как всё это работает в реальном проекте. Для кого: для разработчиков, которые используют ИИ в коде и замечают, что проект постепенно превращаетс</description>
-      <pubDate>Sat, 24 Oct 2026 07:44:25 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1097224/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1097224</guid>
+      <title>Что там вообще с квартирами и ипотекой? Большой разбор</title>
+      <link>https://habr.com/ru/articles/1098886/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098886</link>
+      <description>В далеком 2011 году квадратный метр в российской новостройке стоил в среднем 43,7 тыс. рублей, а к 2026 году стал стоить уже 215,3 тыс. рублей - это почти пятикратный рост за 15 лет. И казалось бы, вывод очевиден: квартиры стали значительно менее доступными, а зарплаты отстали от цен, и примерно с этой мысли я и начинал исследование, но решил копнуть глубже и посмотреть, как за это время изменились зарплаты, сравнил средние цены с официальными индексами Росстата, разложил изменение доступности н</description>
+      <pubDate>Sat, 24 Oct 2026 10:45:26 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1098886/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098886</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Harness engineering: где на самом деле ломается агентная разработка</title>
-      <link>https://habr.com/ru/articles/1098832/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098832</link>
-      <description>Ещё недавно спор про coding-агентов сводился к тому, какая модель лучше пишет код. Сейчас интереснее другой вопрос: почему команда, у которой агент генерирует в разы больше diff’ов, не получает пропорционального роста поставленной ценности? Ответ всё чаще звучит не про модель, а про среду вокруг неё: контекст, права, тесты, аудит, наблюдаемость и точки остановки. Это и есть harness engineering — проектирование инженерной обвязки, в которой агент работает. Не «промпт получше», а исполняемая среда</description>
-      <pubDate>Sat, 24 Oct 2026 07:42:54 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1098832/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098832</guid>
+      <title>В каких областях нейросетевой текст уместен, а в каких мгновенно отпугнет читателя?</title>
+      <link>https://habr.com/ru/articles/1098876/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098876</link>
+      <description>Чем дальше, тем больше в интернете ИИшного контента, и эта тенденция никуда не денется. Мне лень подтягивать статистику, но я смутно помню, что количество нейрослопа превысило количество человеческого текста уже год назад. Распознавать, где ИИ-шный текст, а где человеческий мы всё еще неплохо умеем, но вот эмоциональная реакция на нейросетевое творчество отличается от области к области. Читать далее</description>
+      <pubDate>Sat, 24 Oct 2026 10:01:25 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1098876/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098876</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Я не умею программировать и рисовать, но сделал гео-игру про славянских духов. Как ИИ построил Mifozov за неделю</title>
-      <link>https://habr.com/ru/articles/1098830/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098830</link>
-      <description>Несколько лет я играл в Pokémon GO. Дело было не столько в покемонах, сколько в прогулках: выходишь вечером «на пять минут», а возвращаешься через два часа, пройдя десять километров. Во дворах собирались люди, ходили на рейды, знакомились, обсуждали, где что появилось. Потом игра ушла из России, и всё это пропало. Местные чаты затихли, а привычка гулять осталась без повода. Я всё думал: как снова собрать людей и выходить вместе на улицу так, чтобы это было не «надо пройтись», а «пойдём, там Жар-</description>
-      <pubDate>Sat, 24 Oct 2026 07:26:52 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1098830/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098830</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>«Счастье для всех, даром, и пусть никто не уйдёт обиженный»</title>
-      <link>https://habr.com/ru/articles/1098158/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098158</link>
-      <description>Наверняка вы узнали цитату, которую я использовал для заголовка. Это фраза принадлежат Артуру Барбриджу, молодому идеалисту, который погиб по дороге к Золотому Шару в произведении братьев Стругацких "Пикник на обочине". Не обещаю, что смогу выполнить роль Золотого Шара, но вывод к которому я пришел в результате многих лет размышлений, как мне кажется, может привести к такому результату. Как достичь всеобщего счастья...</description>
-      <pubDate>Sat, 24 Oct 2026 07:04:19 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1098158/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098158</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Пять видеомоделей вместо HeyGen: проверяю, как сделать аватар из фото</title>
-      <link>https://habr.com/ru/companies/bothub/articles/1098772/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098772</link>
-      <description>Создать своего цифрового клона! Какого хочешь: от супергероя до бомжа. И чтобы он говорил на видео то, что ему напишешь. Когда-то в детстве (у меня оно пришлось на нулевые) такое было возможно только в фантастических фильмах. А теперь... Но и теперь, на самом деле, не все так просто. Друг посоветовал HeyGen для создания ИИ-аватаров. Спасибо ему. Но есть нюанс: бесплатно там доступно только три видео в месяц, да и то с водяными знаками. А с оплатой из России — проблемы. Читать далее</description>
-      <pubDate>Sat, 24 Oct 2026 06:32:11 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/bothub/articles/1098772/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098772</guid>
+      <title>Делаем анкету персонажа с помощью Nano Banana, Krea 2 и Grok</title>
+      <link>https://habr.com/ru/companies/studyai/articles/1098540/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098540</link>
+      <description>Анкета персонажа нужна для того, чтобы лучше понимать что из себя представляет наш герой или героиня. Он служит референсом для игродельческой команды и это помогает держать character improvement более-менее в условном “унисоне”. Сегодня попробуем сделать качественные анкеты для персонажей фэнтези-игры с помощью трех моделей: Grok Image 2.0, Krea 2 и Nano Banana Pro . Читать далее</description>
+      <pubDate>Sat, 24 Oct 2026 10:01:06 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/studyai/articles/1098540/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098540</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
   </channel>
