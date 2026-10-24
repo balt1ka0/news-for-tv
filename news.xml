@@ -5,88 +5,88 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Sat, 24 Oct 2026 13:08:08 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 17:14:06 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Сможет ли ИИ решить физику?</title>
-      <link>https://habr.com/ru/articles/1098906/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098906</link>
-      <description>Физика написана плохо Вы когда-нибудь смотрели на формулу и пытались понять, что там написано? Для меня, как для программиста, физическая формула - это полный набор антипаттернов. Читать далее</description>
-      <pubDate>Sat, 24 Oct 2026 12:23:17 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1098906/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098906</guid>
+      <title>Instacart reportedly discussed selling itself with DoorDash and Uber</title>
+      <link>https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber/</link>
+      <description>Instacart might sell itself to a larger competitor.</description>
+      <pubDate>Sat, 24 Oct 2026 16:30:00 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>Block’s new voice model sounds eerily human</title>
+      <link>https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/</link>
+      <description>Block said that the voice model can run locally on a MacBook M4 Max</description>
+      <pubDate>Sat, 24 Oct 2026 16:00:00 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>Интервью с совладельцем клуба «Луноход» Виктором Чередниченко</title>
+      <link>https://habr.com/ru/articles/1098916/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098916</link>
+      <description>Привет, Хабр! Давно не было интервью от меня. И вот решил исправиться. Хотел даже запустить серию обзоров киберклубов, но от этой идеи быстро отказался. Однако один клуб всё-таки привлёк моё внимание, и мне стало интересно узнать о нём. Во-первых, это клуб в ретро-тематике. То есть есть некий налёт ностальгии по ламповым клубам начала 00-х. Во-вторых, это ещё и музей. В клубе есть разные интересные железки, которых нет в других похожих заведениях. Ну и в-третьих, я заинтересовался ретро-играми и</description>
+      <pubDate>Sat, 24 Oct 2026 15:40:35 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1098916/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098916</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>PayPhone 2077: как я превратил скучный PDF в карту таксофонов России</title>
-      <link>https://habr.com/ru/articles/1098904/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098904</link>
-      <description>Недавно я с удивлением обнаружил, что таксофоны до сих пор существуют и используются по назначению. Казалось бы, эпоха этих аппаратов давно закончилась: последние карточные таксофоны демонтировали, отключили от сети или оставили ржаветь где-нибудь на улице в качестве арт-объектов. Теперь они разве что пугают зумеров и вызывают приступы ностальгии у бумеров, которым достаточно увидеть телефонную будку, чтобы вспомнить «Плачет девушка в автомате». Читать далее</description>
-      <pubDate>Sat, 24 Oct 2026 12:12:16 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1098904/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098904</guid>
+      <title>PHP-ocalypse: How two critical web bugs almost broke the internet</title>
+      <link>https://techcrunch.com/2026/10/24/php-ocalypse-how-two-critical-web-bugs-almost-broke-the-internet/</link>
+      <description>Two critical bugs in the PHP web programming language, used by the majority of the internet, threatened to upend the internet — and it's unlikely to be the last major software scare.</description>
+      <pubDate>Sat, 24 Oct 2026 15:30:00 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/24/php-ocalypse-how-two-critical-web-bugs-almost-broke-the-internet/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>AI: скальпель у каждого в руках</title>
+      <link>https://habr.com/ru/articles/1098924/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098924</link>
+      <description>ИИ похож на скальпель, который за $20 в месяц оказался в руках у каждого. В руках хирурга он позволяет делать то, что раньше казалось невозможным. В руках человека без подготовки и знаний он тоже оставляет след — вот только результат может быть непредсказуемым. Читать далее</description>
+      <pubDate>Sat, 24 Oct 2026 15:27:31 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1098924/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098924</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>В России провели первую в мире трансплантацию участка спинного мозга</title>
-      <link>https://nplus1.ru/news/2026/10/24/spinal-transplant</link>
-      <description>В России провели первую в мире трансплантацию участка спинного мозга</description>
-      <pubDate>Sat, 24 Oct 2026 12:11:00 +0000</pubDate>
-      <guid>https://nplus1.ru/news/2026/10/24/spinal-transplant</guid>
-      <category>N + 1 — главное издание о науке, технике и технологиях</category>
+      <title>Патч-антенна на 2,4 ГГц: расчёт, моделирование и согласование в ADS</title>
+      <link>https://habr.com/ru/articles/1093916/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093916</link>
+      <description>Как я рассчитывал и моделировал патч антенну для производства её на FR4 на диапазон 2.4ГГц. От расчёта геометрии на FR4 до анализа S11, входного сопротивления и способов согласования. В конце статьи бонус - сравнение результатов моделирований для разных толщин диэлектрика. Посмотреть что там с антеннами</description>
+      <pubDate>Sat, 24 Oct 2026 15:00:28 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1093916/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093916</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Laika has spent 20 years building up to Wildwood</title>
-      <link>https://www.theverge.com/entertainment/1017740/wildwood-stop-motion-interview-laika</link>
-      <description>Across several decades in Hollywood, Caleb Deschanel has seen a lot. He served as cinematographer on films like The Passion of the Christ and The Patriot, worked on sequences in The Godfather and Titanic, and directed a few episodes of Twin Peaks. Even still, nothing could quite prepare him for his first stop-motion project: working […]</description>
-      <pubDate>Sat, 24 Oct 2026 12:00:00 +0000</pubDate>
-      <guid>https://www.theverge.com/entertainment/1017740/wildwood-stop-motion-interview-laika</guid>
+      <title>Fielded is obsessed with scammers and unhinged Japanese cyberpunk</title>
+      <link>https://www.theverge.com/entertainment/1017460/fielded-some-kind-of-animal-interview</link>
+      <description>Lindsay Powell, who releases records under the name Fielded, has spent most of her career subverting expectations and genre conventions. According to their Bandcamp page, Fielded started as an experimental noise project before growing into something closer to R&amp;B. But from moment one, her take on the genre was restless, relentlessly playing with what R&amp;B […]</description>
+      <pubDate>Sat, 24 Oct 2026 15:00:00 +0000</pubDate>
+      <guid>https://www.theverge.com/entertainment/1017460/fielded-some-kind-of-animal-interview</guid>
       <category>The Verge</category>
     </item>
     <item>
-      <title>Моделирование подзарядки аккумуляторной батареи посредством рекуперации</title>
-      <link>https://habr.com/ru/articles/1098896/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098896</link>
-      <description>Рекуперативное торможение асинхронного двигателя — это режим, при котором двигатель работает как генератор, преобразуя кинетическую энергию вращающегося ротора в электрическую. Данный режим характерен для лифтов, ленточных погрузчиков, подъёмных кранов и других устройств где предполагается подъём и спуск груза. Такой режим работы позволяет расходовать энергию при подъёме груза и генерировать при спуске (когда двигатель вращается по инерции). В общем случае энергия возвращается обратно в сеть, в </description>
-      <pubDate>Sat, 24 Oct 2026 11:51:45 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1098896/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098896</guid>
-      <category>Все публикации подряд на Хабре</category>
+      <title>LG’s brilliant C6 OLED TV is already $400 off ahead of Black Friday</title>
+      <link>https://www.theverge.com/gadgets/1017768/lg-c6-oled-tv-early-black-friday-2026-deal-sale</link>
+      <description>Black Friday is still over a month away, but if you’re hoping to upgrade your TV, you don’t need to wait until November. LG has already kicked off its early Black Friday sale, letting you save on the LG C6 and various soundbars through November 1st. Right now, for instance, you can snag a 55-inch […]</description>
+      <pubDate>Sat, 24 Oct 2026 15:00:00 +0000</pubDate>
+      <guid>https://www.theverge.com/gadgets/1017768/lg-c6-oled-tv-early-black-friday-2026-deal-sale</guid>
+      <category>The Verge</category>
     </item>
     <item>
-      <title>Разблокировали тензорные ядра RTX 3060: +83 % и почему на квантованной модели это почти ноль</title>
-      <link>https://habr.com/ru/articles/1098836/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098836</link>
-      <description>Репозиторий gpu-unlock снимает коммерческое ограничение NVIDIA на скорость FP16/BF16-тензорных ядер в картах 3000 серии. Мы прогнали его на своей RTX 3060 (GA106-302, LHR) в live Ubuntu: FP16 GEMM вырос с 27,1 до 49,5 TFLOPS (×1,83), при этом контрольная линия FP32 не сдвинулась ни на десятую. В статье о том, что именно урезано и на каком уровне, почему чтение регистров идёт до загрузки драйвера, чем наш замер отличается от уже влитого в апстрим PR, и почему для квантованного инференса llama.cpp</description>
-      <pubDate>Sat, 24 Oct 2026 11:45:21 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1098836/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098836</guid>
-      <category>Все публикации подряд на Хабре</category>
+      <title>These clever apps show off the iPhone Duo’s potential</title>
+      <link>https://techcrunch.com/2026/10/24/these-clever-apps-show-off-the-iphone-duos-potential/</link>
+      <description>From retro cassette players and virtual notebooks to flight trackers and even a digital toaster, developers are finding creative ways to take advantage of Apple's first foldable iPhone.</description>
+      <pubDate>Sat, 24 Oct 2026 15:00:00 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/24/these-clever-apps-show-off-the-iphone-duos-potential/</guid>
+      <category>TechCrunch</category>
     </item>
     <item>
-      <title>Дебаггинг детского мышления: как обойти когнитивные тупики на уроках математики</title>
-      <link>https://habr.com/ru/articles/1098890/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098890</link>
-      <description>За моей спиной более 6 000 часов индивидуальных занятий математикой с детьми. Этот опыт — не про методички, а про непрерывное наблюдение за тем, как именно человеческий мозг на ранних этапах спотыкается об абстрактные правила. Когда все кажется простым и понятным со стороны взрослого, легко впасть в иллюзию, что ребенок просто «не хочет» или «ленится». Ниже я делюсь инструментами, которые могут показаться элементарными. Но все описанное — это те самые 20% методических усилий, которые дают 80% пр</description>
-      <pubDate>Sat, 24 Oct 2026 11:14:12 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1098890/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098890</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Что там вообще с квартирами и ипотекой? Большой разбор</title>
-      <link>https://habr.com/ru/articles/1098886/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098886</link>
-      <description>В далеком 2011 году квадратный метр в российской новостройке стоил в среднем 43,7 тыс. рублей, а к 2026 году стал стоить уже 215,3 тыс. рублей - это почти пятикратный рост за 15 лет. И казалось бы, вывод очевиден: квартиры стали значительно менее доступными, а зарплаты отстали от цен, и примерно с этой мысли я и начинал исследование, но решил копнуть глубже и посмотреть, как за это время изменились зарплаты, сравнил средние цены с официальными индексами Росстата, разложил изменение доступности н</description>
-      <pubDate>Sat, 24 Oct 2026 10:45:26 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1098886/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098886</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>В каких областях нейросетевой текст уместен, а в каких мгновенно отпугнет читателя?</title>
-      <link>https://habr.com/ru/articles/1098876/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098876</link>
-      <description>Чем дальше, тем больше в интернете ИИшного контента, и эта тенденция никуда не денется. Мне лень подтягивать статистику, но я смутно помню, что количество нейрослопа превысило количество человеческого текста уже год назад. Распознавать, где ИИ-шный текст, а где человеческий мы всё еще неплохо умеем, но вот эмоциональная реакция на нейросетевое творчество отличается от области к области. Читать далее</description>
-      <pubDate>Sat, 24 Oct 2026 10:01:25 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1098876/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098876</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Делаем анкету персонажа с помощью Nano Banana, Krea 2 и Grok</title>
-      <link>https://habr.com/ru/companies/studyai/articles/1098540/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098540</link>
-      <description>Анкета персонажа нужна для того, чтобы лучше понимать что из себя представляет наш герой или героиня. Он служит референсом для игродельческой команды и это помогает держать character improvement более-менее в условном “унисоне”. Сегодня попробуем сделать качественные анкеты для персонажей фэнтези-игры с помощью трех моделей: Grok Image 2.0, Krea 2 и Nano Banana Pro . Читать далее</description>
-      <pubDate>Sat, 24 Oct 2026 10:01:06 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/studyai/articles/1098540/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098540</guid>
-      <category>Все публикации подряд на Хабре</category>
+      <title>Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.</title>
+      <link>https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/</link>
+      <description>A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.</description>
+      <pubDate>Sat, 24 Oct 2026 15:00:00 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/</guid>
+      <category>TechCrunch</category>
     </item>
   </channel>
 </rss>
