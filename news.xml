@@ -5,9 +5,41 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Sat, 24 Oct 2026 20:19:57 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 22:55:36 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blue Planet III is keeping the rough edges in the age of AI</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai</link>
+      <description>BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage that seemed almost too good to be real. But one dead giveaway of AI is when things look too polished and seamless. To counter that, Blue […]</description>
+      <pubDate>Sat, 24 Oct 2026 21:29:12 +0000</pubDate>
+      <guid>https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>Starlink seems to be working normally again in Ukraine</title>
+      <link>https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/</link>
+      <description>Elon Musk reportedly ordered SpaceX to throttle Ukraine's Starlink access.</description>
+      <pubDate>Sat, 24 Oct 2026 20:46:34 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>[Перевод] Спросите Итана: Может ли кевларовый трос создать в космосе искусственную гравитацию?</title>
+      <link>https://habr.com/ru/articles/1098958/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098958</link>
+      <description>Итан Сигел (американский астрофизик‑теоретик и научный журналист, автор рубрики «Спросите Итана», один из пропагандистов современных научных знаний), рассматривает вопрос создания искусственной гравитации в космосе самым простым способом: раскрутить связанные тросом 2 корабля... @avshkol сделал перевод этой статьи на стыке инженерии и космической медицины, поскольку всё, что связано с выживанием в космосе и на космических телах, скоро станет новой быстроразвивающейся отраслью. Читать далее</description>
+      <pubDate>Sat, 24 Oct 2026 20:37:39 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1098958/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098958</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>LTE был. Связи не было. Как один бит в прошивке модема вернул робота в российскую сеть</title>
+      <link>https://habr.com/ru/articles/1098956/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098956</link>
+      <description>Вставляешь рабочую SIM-карту в китайского робота-официанта. Модем видит SIM. Видит российских операторов. Видит даже LTE. Но зарегистрироваться в сети не может. Проверяешь активацию, меняешь APN, пробуешь другого оператора, перезапускаешь радио. Всё выглядит так, будто до связи осталось одно правильное поле в настройках. В нашем случае это поле оказалось сравнением внутри закрытой радиопрошивки. Расскажу, как мы прошли от «наверное, китайский APN» до разбора кода Qualcomm Hexagon, почему полезна</description>
+      <pubDate>Sat, 24 Oct 2026 20:33:41 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1098956/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098956</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
     <item>
       <title>Will AI expose the rickety infrastructure of the internet?</title>
       <link>https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/</link>
@@ -54,38 +86,6 @@
       <description>У вас не возникало желания понять, почему майнеры тратят уйму электричества на перебор хешей, вместо того чтобы вычислить нужное значение алгебраически? Ведь все элементарные операции обратимы – в какой момент из обратимых операций появляется функция, для которой уже нельзя написать обратную? Где именно сокрыта магия? Это попытка объяснить на пальцах, как из простых и обратимых операций, таких как сложение (+) и умножение (*), а также остатка от деления (условно обратимой операции) собрать однос</description>
       <pubDate>Sat, 24 Oct 2026 18:38:34 +0000</pubDate>
       <guid>https://habr.com/ru/articles/1098918/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098918</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Pennsylvania will require labels on AI-generated ads</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act</link>
-      <description>On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads. The law requires any ad - whether it's a still image, video, audio, or text - that "has been significantly modified or generated by artificial intelligence" to include a label in the same format as […]</description>
-      <pubDate>Sat, 24 Oct 2026 18:32:21 +0000</pubDate>
-      <guid>https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>CRISPR для ARM: чиним ДНК робота</title>
-      <link>https://habr.com/ru/articles/1098180/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098180</link>
-      <description>У SpeedyBot облако точек выходило раньше нужного TF. Чиним закрытую ARM64-библиотеку: разбираем ELF с Capstone и pyelftools, переносим готовый PointCloud2, учитываем small string optimization и исключения C++. Внутри — настоящий C-код, кодирование B/BL, флаги сборки Zig и проверка в Unicorn/QEMU. Читать далее</description>
-      <pubDate>Sat, 24 Oct 2026 18:25:33 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1098180/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098180</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Мы — та самая точка в.com</title>
-      <link>https://habr.com/ru/articles/1071422/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1071422</link>
-      <description>В конце 1990-х Sun Microsystems была одной из главных компаний технологического мира. Сегодня трудно подобрать точный аналог, но по своему месту в инфраструктуре новой технологической эпохи она напоминала нынешнюю Nvidia. У компании даже был идеально подходящий эпохе слоган: «Мы — точка в dot‑com». И это не казалось преувеличением. История Sun — это история, которую сегодня особенно полезно вспомнить... Читать далее</description>
-      <pubDate>Sat, 24 Oct 2026 17:55:40 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1071422/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1071422</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Найти похожие заметки в Obsidian оказалось проще, чем безопасно их изменить</title>
-      <link>https://habr.com/ru/articles/1098922/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098922</link>
-      <description>Две заметки могут быть похожи по смыслу, но это ещё не повод объединять их или удалять одну из них. Я хотел научить Veynrel не просто находить такие пары, а предлагать действия с ними. И довольно быстро выяснилось, что получить рекомендацию от LLM гораздо проще, чем безопасно применить её к Markdown. В статье разбираю, как устроил проверку цитат модели, подготовку изменений, защиту от устаревших файлов и Undo. Покажу реальный TypeScript-код, результаты тестов и небольшой эксперимент с DeepSeek: </description>
-      <pubDate>Sat, 24 Oct 2026 17:30:39 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1098922/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098922</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
   </channel>
