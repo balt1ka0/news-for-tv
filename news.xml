@@ -5,9 +5,33 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Sun, 25 Oct 2026 21:28:46 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 23:51:29 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Он создал хакерский форум Ramp4u и передал силовикам 1,5 миллиарда рублей</title>
+      <link>https://habr.com/ru/articles/1099288/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099288</link>
+      <description>Приветствую всех, мои ночные читатели! На связи, как всегда, exkgb. Я исследую даркнет-площадки и делюсь с вами самой интересной информацией. В прошлой статье мы затронули администрацию Exploit, и, судя по статистике (всего 6% отказов), вам было очень интересно. На этот раз делаю обзор ransomware-форума Ramp4u[.]io. Сразу скажу: это не реклама, ресурс уже ликвидирован, поэтому я могу смело о нём писать. Читать далее</description>
+      <pubDate>Sun, 25 Oct 2026 23:33:08 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1099288/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099288</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>iFixit’s look inside the iPhone Duo may explain those broken screens and hinges</title>
+      <link>https://www.theverge.com/tech/1018233/ifixit-iphone-duo-teardown-repairability-hinge</link>
+      <description>As is tradition, iFixit has torn open the latest iPhone and laid its parts bare on a table. It found some interesting details about how Apple might be hiding the crease on the Duo's folding screen and gave it a 5/10 repairability score. That might not seem particularly high, but it's the best score the […]</description>
+      <pubDate>Sun, 25 Oct 2026 21:40:27 +0000</pubDate>
+      <guid>https://www.theverge.com/tech/1018233/ifixit-iphone-duo-teardown-repairability-hinge</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>Grok releases the first seven minutes of its AI-generated ‘Odyssey’</title>
+      <link>https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/</link>
+      <description>The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.</description>
+      <pubDate>Sun, 25 Oct 2026 21:31:16 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/</guid>
+      <category>TechCrunch</category>
+    </item>
     <item>
       <title>Новый интерфейс для ВК Видео</title>
       <link>https://habr.com/ru/articles/1099276/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099276</link>
@@ -57,36 +81,12 @@
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>‘Cyberselfish’ author takes aim at Silicon Valley libertarians as her book returns from the dead</title>
+      <title>‘Cyberselfish’ author takes aim at techno-libertarianism as her book returns from the dead</title>
       <link>https://techcrunch.com/2026/10/25/cyberselfish-author-takes-aim-at-techno-libertarianism-as-her-book-returns-from-the-dead/</link>
       <description>"That's a 12-year-old view of the world."</description>
       <pubDate>Sun, 25 Oct 2026 20:20:08 +0000</pubDate>
       <guid>https://techcrunch.com/2026/10/25/cyberselfish-author-takes-aim-at-techno-libertarianism-as-her-book-returns-from-the-dead/</guid>
       <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>A YouTuber dissected an iPhone Duo and thinks he found the cause of crackgate</title>
-      <link>https://www.theverge.com/tech/1018290/dissected-iphone-duo-crackgate-hinge-screen</link>
-      <description>Social media and the iPhone Duo subreddit are filled with reports of Apple's foldable failing quickly and in spectacular fashion. Some users report having the phone for only a few hours before the hinge seems to catch on something, then audibly crack and break the screen. Tellingly, the cracks all seem to happen in the […]</description>
-      <pubDate>Sun, 25 Oct 2026 20:16:19 +0000</pubDate>
-      <guid>https://www.theverge.com/tech/1018290/dissected-iphone-duo-crackgate-hinge-screen</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>Ping, traceroute и Path MTU на Android без root и NDK</title>
-      <link>https://habr.com/ru/articles/1099252/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099252</link>
-      <description>Когда я садился портировать своё iOS-приложение на Android, я был уверен, что ping, traceroute и Path MTU там не сделать: ICMP — это raw-сокет, а raw-сокет — это root. Одна команда adb показала, что я ошибался: любое приложение может открыть непривилегированный ICMP-сокет — без root и без единой строчки на C. Рассказываю, как на чистом Kotlin устроены ping, traceroute через очередь ошибок сокета и Path MTU через бит DF, и на чём я споткнулся по дороге. Читать далее</description>
-      <pubDate>Sun, 25 Oct 2026 20:16:15 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1099252/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099252</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Визуальная и лидарная одометрия для уличного мобильного робота: ORB-SLAM 3, RtabMap, OpenVins, Fast-LIO 2 и DLIO</title>
-      <link>https://habr.com/ru/articles/1099240/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099240</link>
-      <description>Прогнал девять пакетов визуальной одометрии и два лидарных на одном уличном ровере: визуалка на улице не тянет, лидар с дефолтными настройками — тянет. Видео всех тестов с таймкодами и разбор причин отказов — в статье. Читать далее</description>
-      <pubDate>Sun, 25 Oct 2026 19:58:46 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1099240/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099240</guid>
-      <category>Все публикации подряд на Хабре</category>
     </item>
   </channel>
 </rss>
