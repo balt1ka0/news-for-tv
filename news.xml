@@ -5,87 +5,87 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Sun, 25 Oct 2026 10:51:35 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 14:51:44 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Как мы создавали игры для редкого советского ПК «Юниор ФВ-6506»: воспоминания разработчика (MOROZ / Free Masters)</title>
-      <link>https://habr.com/ru/articles/1099046/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099046</link>
-      <description>В конце 1980-х и начале 1990-х советская компьютерная индустрия переживала удивительный, но хаотичный бум. Рождались уникальные машины, о которых сегодня помнят лишь единицы энтузиастов. Одним из таких раритетов был «Юниор ФВ-6506» — глубокая и очень мощная модернизация «Радио 86РК», выпускавшаяся Киевским заводом УВМ. Меня зовут Артур, в ретро-сообществе и титрах тех лет я известен под ником MOROZ . Я был одним из программистов творческой группы «Free Masters» (FM©) . Нам было по 17–18 лет, и м</description>
-      <pubDate>Sun, 25 Oct 2026 10:39:51 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1099046/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099046</guid>
+      <title>Исследовательский вопрос, с которым я поехал в Гонконг</title>
+      <link>https://habr.com/ru/articles/1099088/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099088</link>
+      <description>Делюсь опытом участия и заметками с полей одной из наиболее авторитетных научных конференций в области менеджмента, организованной исследовательским сообществом «Strategic Management Society» (SMS). Специальная конференция состоялась в Гонконге летом этого года и была посвящена управлению взаимоотношениями со стейкхолдерами: клиентами, поставщиками, партнерами и другими участниками создания ценности. Для меня это была возможность апробировать свои научные наработки по теме open source-подхода дл</description>
+      <pubDate>Sun, 25 Oct 2026 14:34:50 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1099088/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099088</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Как я дал незнакомцам root-консоль на своём сервере: тренажёр инцидентов на gVisor</title>
-      <link>https://habr.com/ru/articles/1099036/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099036</link>
-      <description>Я сделал бесплатный тренажёр, где дежурство можно прожить до того, как оно случится на проде: приходит алерт, у вас настоящая консоль Linux со сломанным сервисом, и нужно найти причину и починить. Называется он Prod is Down . Я 4 года работаю системным администратором. Самое запомнившееся дежурство случилось в первый же месяц: в три часа ночи лёг один из наших сервисов, алерты сыпались один за другим, а я смотрел в консоль и не понимал, с чего начать. Логи? top ? Перезапустить всё подряд? Сервис</description>
-      <pubDate>Sun, 25 Oct 2026 10:14:48 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1099036/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099036</guid>
+      <title>Кости из металла, фасад святости и истинный схизис: докажи моей игре, что ты (не) гений социальной инженерии</title>
+      <link>https://habr.com/ru/articles/1099138/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099138</link>
+      <description>Большинство проигрывает в мой симулятор психиатрической экспертизы с первого раза. Причём не потому что игроки не знают ответов, а потому что не понимают, как именно я их ловлю. Ниже будет разбор реальной механики детекции симуляции в MMPI-2, которую я перенесла в движок. Читать далее</description>
+      <pubDate>Sun, 25 Oct 2026 14:29:12 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1099138/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099138</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Windows 98 на Windows 11 в 2026 году: пошаговый гайд по 86Box (и как отдать установку ИИ‑агенту)</title>
-      <link>https://habr.com/ru/articles/1099030/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099030</link>
-      <description>Старые программы конца 90-х на Windows 11 то зависают до нажатия клавиши, то молчат, то не запускаются вовсе. Песочница Windows тут не помогает, VirtualBox с Windows 98 дружит плохо. Рабочим вариантом оказался эмулятор 86Box: за полтора‑два часа он даёт настоящую Windows 98 SE в окне, со звуком, мышью и CD‑приводом. Руками из этого времени — минут 20, остальное ожидание. Ниже — пошаговый гайд, который я проверил на живой установке 21.10.2026 (Windows 11 Pro, 86Box 6.0 build 9001, Windows 98 SE E</description>
-      <pubDate>Sun, 25 Oct 2026 09:26:45 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1099030/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099030</guid>
+      <title>librats: Выпуск версии 3.0.x (библиотека для распределённых P2P-приложений и стриминга). И 3 приложения на ней</title>
+      <link>https://habr.com/ru/articles/1099136/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099136</link>
+      <description>Всем привет! Я продолжаю развивать свою библиотеку для создания распределённых приложений. Она уже легла в основу новой версии rats-search (распределённый торрент-поисковик) и rasync (синхронизация папок, файлов и исходников между устройствами) и ratcast (распределенный видео-аудио стриминг и приложение наподобие Discord для совместного просмотра фильмов и видео-конференций с более высоким качеством и большим количеством участников и сложной p2p+MCU топологией), а также librats, судя по всему, и</description>
+      <pubDate>Sun, 25 Oct 2026 14:26:18 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1099136/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099136</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Язык без слов. Что Генри Дрейфус знал об интерфейсах, которые рисует ИИ</title>
-      <link>https://habr.com/ru/companies/ru_mts/articles/1097818/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1097818</link>
-      <description>Трактор John Deere, уехавший в Аргентину, обязан предупредить фермера, что совать руки в этот вал не стоит. Тот же трактор в Индии должен сказать то же самое на хинди или тамильском, во Франции — на французском. И для каждой страны печатается своя наклейка, а переводчик всякий раз рискует перепутать «затянуть» с «отпустить». Генри Дрейфус, проектировавший эти тракторы, предложил нарисовать одну картинку для всех. Со временем экономия на наклейках разрослась до картотеки в двадцать тысяч знаков, </description>
-      <pubDate>Sun, 25 Oct 2026 09:12:43 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/ru_mts/articles/1097818/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1097818</guid>
+      <title>О роли глупости в науке</title>
+      <link>https://habr.com/ru/articles/1099134/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099134</link>
+      <description>С глупостями, в научной работе и не только, мы все встречаемся довольно часто, и, увы, порой сами их говорим или совершаем. В отношении себя могу сказать это совершенно точно - в том числе, каюсь, и здесь, на Хабре. В этой статье я попытался обобщить некоторый опыт - как свой, так и чужой, включая опыт общения с ИИ, - и тем самым понять, откуда у глупости, вообще говоря, "ноги растут". И, в частности, почему в научных публикациях глупости встречаются, скажем так, несколько чаще, чем хотелось бы,</description>
+      <pubDate>Sun, 25 Oct 2026 14:26:12 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1099134/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099134</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Как я искал боровики и дошёл до спутниковой классификации леса</title>
-      <link>https://habr.com/ru/articles/1098962/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098962</link>
-      <description>Хотели просто набрать грибов на выходных, а в итоге натравили машинное обучение на тайгу, сожгли 15 часов облачных серверов, уперлись в трехметровые заборы непростых объектов и собрали карту боровиковых мест всей Ленобласти. История о том, как пет-проект зашел слишком далеко. Читать далее</description>
-      <pubDate>Sun, 25 Oct 2026 09:00:42 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1098962/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098962</guid>
+      <title>Почему геймификация убьет разум в ИИ: скрытые риски коммерческого сбора данных и тупик Alignment</title>
+      <link>https://habr.com/ru/articles/1099128/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099128</link>
+      <description>Современная гонка искусственного интеллекта полностью сфокусирована на терафлопсах, объемах контекстных окон и бенчмарках. Однако за рамками обсуждения остается критическая проблема: качество и чистота данных, на которых обучаются будущие сверхразумные системы. Пытаясь ускорить процесс сбора обратной связи от пользователей (RLHF), ИТ-гиганты совершают фундаментальную ошибку. Они внедряют коммерческую мотивацию и элементы геймификации там, где требуется предельная искренность . Этот подход ведет </description>
+      <pubDate>Sun, 25 Oct 2026 14:18:58 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1099128/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099128</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Фильтр Калмана в цикле правок ИИ: что он меняет и как это проверить</title>
-      <link>https://habr.com/ru/articles/1098756/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098756</link>
-      <description>Помогает ли способ оценки шумных измерений принимать полезные изменения кода при одинаковых ролях, задачах и лимитах? Разбираю фильтр Калмана на простой учебной модели: как он соединяет прогноз и отзыв критика, чем отличается от регулятора и что происходит при коррелированных ошибках, выбросах и задержках. Затем проверяю четыре правила принятия правок в реальном цикле «автор — критик». Пилот завершён: 720 ответов модели, из них 144 для калибровки и 576 для оценки на шести задачах оптимизации Pyt</description>
-      <pubDate>Sun, 25 Oct 2026 08:56:34 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1098756/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098756</guid>
+      <title>The hottest AI wearables and gadgets you should know about</title>
+      <link>https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/</link>
+      <description>We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.</description>
+      <pubDate>Sun, 25 Oct 2026 14:10:00 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>Пишем высокопроизводительный rate-limiter на golang</title>
+      <link>https://habr.com/ru/articles/1099122/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099122</link>
+      <description>Недавно я познакомился с Golang и в качестве практики решил реализовать алгоритмы rate limiting'а из статьи с arxiv. Сегодня мы рассмотрим написание rate-limiter'а в виде отдельно-стоящего сервиса и в виде middleware, используя in-memory кэш или Redis, добавим поддержку REST и gRPC, подключим Prometheus и поймём как добиться атомарности операций с минимальными задержками. Читать далее</description>
+      <pubDate>Sun, 25 Oct 2026 14:09:51 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1099122/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099122</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Мой дом ‑ мои правила. А кто дежурит, когда он ломается?</title>
-      <link>https://habr.com/ru/articles/1099028/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099028</link>
-      <description>Лет семь назад я собирал домашнюю автоматику примерно на 20 тысяч рублей: датчики влажности, CO₂, движения, розетки, реле. С ESP и Tuya простые команды по локальной сети получались, а вот таймеры и согласование нескольких устройств иногда жили своей жизнью. Хотелось меньше возиться с бытом, а не поменять класс проблем. С тех пор Home Assistant, Zigbee2MQTT, ESPHome и локальный голос стали куда привычнее. Когда я принёс в IT‑чат первую статью о независимом умном доме, мне об этом напомнили. Дошло</description>
-      <pubDate>Sun, 25 Oct 2026 08:53:40 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1099028/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099028</guid>
+      <title>Как не нарушить 152-ФЗ при проверке договора с помощью ИИ или обезличивание персональных данных c Docx Anonymizer</title>
+      <link>https://habr.com/ru/articles/1099118/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099118</link>
+      <description>Вопрос в последнее время становится крайне актуальным, так как чаты с искусственным интеллектом стали обыденностью не только в обычной жизни, но и в работе. Частая картина: договор на сто страниц, дедлайн сгорел еще вчера и договор сам собой улетает в окно ChatGPT с просьбой «найди подвох в разделе об ответственности». И так делают далеко не единицы. В зарубежных опросах от 38 до 57% сотрудников признаются, что вводили в публичные нейросети конфиденциальные данные, причём многие — с личных аккау</description>
+      <pubDate>Sun, 25 Oct 2026 14:09:05 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1099118/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099118</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>[Перевод] ИИ доказал квазигипотезу Римана. Что дальше?</title>
-      <link>https://habr.com/ru/articles/1098970/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098970</link>
-      <description>Среди 377 результатов , о которых OpenAI объявила 6 октября 2026 года, один особенно выделялся. Компания заявила, что ей удалось доказать «квазигипотезу Римана», более слабую версию гипотезы Римана, которую можно назвать важнейшей нерешённой проблемой математики. Новое доказательство, по словам Джареда Дьюкера Лихтмана из Стэнфордского университета, стало «самым значительным на сегодняшний день достижением ИИ в математике, причём с большим отрывом». Гипотеза Римана остаётся нерешённой уже более </description>
-      <pubDate>Sun, 25 Oct 2026 08:52:40 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1098970/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098970</guid>
+      <title>Кружок из любого видео — и без «подпишитесь на 4 канала»</title>
+      <link>https://habr.com/ru/articles/1099112/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099112</link>
+      <description>После Качалки и «Чисто» — мелочь попроще: отправить в Telegram кружок не с камеры, а из готового видео. Ботов для этого полно, и почти все устроены одинаково: прежде чем что-то сделать, просят подписаться на четыре канала, потом показывают рекламу, а кружок отдают с водяным знаком. Задача на вечер, но раз уж все делают её с подписками — сделал без. Бот @chisto_krugi_bot : присылаешь видео — получаешь кружок. Ни подписок, ни рекламы, ни регистрации. Код открыт. Рассказывать тут особо не о чем, по</description>
+      <pubDate>Sun, 25 Oct 2026 13:56:11 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1099112/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099112</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Мы умнее шимпанзе потому, что не подхватили ретровирус?</title>
-      <link>https://habr.com/ru/articles/1099026/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099026</link>
-      <description>Сегодня мы, Homo Sapiens Sapiens успешно держим лидерство эволюционной гонки. Конкуренты остались в истории. Ближайшие генетические «братья», шимпанзе и карликовые шимпанзе. Но если они самые близкие наши генетические родственники, то почему их интеллект так отстает от нашего? И какую роль в этом играет ретровирусная инфекция? Читать далее</description>
-      <pubDate>Sun, 25 Oct 2026 08:47:16 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1099026/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099026</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Декларативный подход к текстовым протоколам в Embedded на Си. Фреймворк TACT</title>
-      <link>https://habr.com/ru/articles/1099024/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099024</link>
-      <description>Я занимаюсь разработкой встраиваемых систем уже несколько лет и не раз сталкивался с проблемой, когда было необходимо написать UART драйвер или систему для работы с каким-либо внешним модулем, используя текстовый протокол, будь то протокол AT-команд или что-то подобное. Чаще всего это модули GNSS, модуль GSM, ESP или т.п. Набор управляющих команд для таких модулей бесконечно огромен, и каждая из них часто требует отдельной обработки. Итогом получается нужно писать свой обработчик и парсер под ка</description>
-      <pubDate>Sun, 25 Oct 2026 08:45:39 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1099024/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099024</guid>
+      <title>Android-клиент для DeepSeek Harness: как работать с агентом на ПК с телефона без облака и FCM</title>
+      <link>https://habr.com/ru/articles/1099110/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099110</link>
+      <description>Как я сделал Android-клиент для DeepSeek Harness, который работает с агентом на компьютере без облачного сервера и FCM. Внутри — плагин в процессе DSH вместо WebView, привязка по QR-коду с пином сертификата и журнал квитанций, из-за которого телефон никогда не повторяет команды вслепую. Читать далее</description>
+      <pubDate>Sun, 25 Oct 2026 13:48:06 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1099110/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099110</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
   </channel>
