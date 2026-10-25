@@ -5,9 +5,25 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Sun, 25 Oct 2026 00:52:39 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 05:45:00 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>UI-паттерн — делаем меню компактным</title>
+      <link>https://habr.com/ru/articles/1098984/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098984</link>
+      <description>Статья описывает UI-паттерн компактного отображения множества кнопок действий. Используется принцип постепенного раскрытия информации (Progressive Disclosure). Читать далее</description>
+      <pubDate>Sun, 25 Oct 2026 04:22:29 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1098984/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098984</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Как теперь устроена наша PIM-система и что необратимо изменилось</title>
+      <link>https://habr.com/ru/articles/1098978/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098978</link>
+      <description>Для начала немного контекста: мы с командой делаем сервис для бизнеса, и я иногда пишу тут, на Хабре, о каких-то успехах, провалах или просто своем опыте. Несколько лет назад писал про то, как наша PIM устроена внутри. Она всё ещё устроена так же, но что-то необратимо изменилось. Мы активно развивали продукт, а он устаревал быстрее, чем мы его развивали. Это по моим ощущениям. Что с этим делать, я не понимал. А потом как понял. За несколько месяцев мы поменяли способ работы пользователей с систе</description>
+      <pubDate>Sun, 25 Oct 2026 02:15:28 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1098978/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098978</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
     <item>
       <title>Эволюция менеджмента в семи категориях через призму проектного управления</title>
       <link>https://habr.com/ru/articles/1098778/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098778</link>
@@ -70,22 +86,6 @@
       <description>Привет, Хабр. В недавней статье « Облачный атлас: проекты для венерианского воздухоплавания » я приводил некоторые доводы в пользу того, что терраформирование поверхности скалистых планет Солнечной системы — задача, решение которой можно представить лишь в отдаленной исторической перспективе. Путь к терраформированию лежит через глобальную экологическую катастрофу на преобразуемой планете. Но эти скептические соображения возвращают меня к вопросам о том, а как же Земля не повторила судьбу Венеры</description>
       <pubDate>Sat, 24 Oct 2026 19:59:41 +0000</pubDate>
       <guid>https://habr.com/ru/articles/1098950/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098950</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>The AI graveyard: a running list of projects and startups that didn’t make it</title>
-      <link>https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/</link>
-      <description>From Apple's repeatedly delayed Siri AI to OpenAI's messy "super app" launch, here's a look at the AI projects that shut down or missed expectations.</description>
-      <pubDate>Sat, 24 Oct 2026 19:00:00 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>Aroshka Cloud, часть четвёртая: «SOC 24/7», видеокарты H200 и поддержка по шаблонам</title>
-      <link>https://habr.com/ru/articles/1098944/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098944</link>
-      <description>Через несколько часов после третьей части облачное хранилище Aroshka Cloud выпустило пять постов о нас и объявило, что мы устроили на него DDoS-атаку. Мы разобрали эти посты по фразам, положили рядом всё, что сервис за семь месяцев рассказывал о себе сам, и отправили ему досудебную претензию. Каждое утверждение ниже можно открыть по ссылке на архив. Читать далее</description>
-      <pubDate>Sat, 24 Oct 2026 18:55:01 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1098944/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098944</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
   </channel>
