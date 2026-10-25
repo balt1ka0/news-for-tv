@@ -5,9 +5,17 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Sat, 24 Oct 2026 22:55:36 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 00:52:39 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Эволюция менеджмента в семи категориях через призму проектного управления</title>
+      <link>https://habr.com/ru/articles/1098778/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098778</link>
+      <description>Представим обычный городской двор, в котором решили построить детскую площадку. Подрядчик всё сделал в срок и уложился в бюджет. Оборудование проверили, работы приняли, дети уже осваивают горки и качели. Родители довольны: наконец-то есть где погулять с ребёнком рядом с домом. Автомобилисты недоумевают, куда теперь ставить машины, а жители первого этажа жалуются на шум под окнами. На собрании звучит вопрос: «А кто вообще решил, что нам нужна именно такая площадка?» Руководитель проекта показывае</description>
+      <pubDate>Sun, 25 Oct 2026 00:06:21 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1098778/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098778</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
     <item>
       <title>Blue Planet III is keeping the rough edges in the age of AI</title>
       <link>https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai</link>
@@ -78,14 +86,6 @@
       <description>Через несколько часов после третьей части облачное хранилище Aroshka Cloud выпустило пять постов о нас и объявило, что мы устроили на него DDoS-атаку. Мы разобрали эти посты по фразам, положили рядом всё, что сервис за семь месяцев рассказывал о себе сам, и отправили ему досудебную претензию. Каждое утверждение ниже можно открыть по ссылке на архив. Читать далее</description>
       <pubDate>Sat, 24 Oct 2026 18:55:01 +0000</pubDate>
       <guid>https://habr.com/ru/articles/1098944/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098944</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Криптохеш: почему нельзя обратить функцию, если все операции обратимы</title>
-      <link>https://habr.com/ru/articles/1098918/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098918</link>
-      <description>У вас не возникало желания понять, почему майнеры тратят уйму электричества на перебор хешей, вместо того чтобы вычислить нужное значение алгебраически? Ведь все элементарные операции обратимы – в какой момент из обратимых операций появляется функция, для которой уже нельзя написать обратную? Где именно сокрыта магия? Это попытка объяснить на пальцах, как из простых и обратимых операций, таких как сложение (+) и умножение (*), а также остатка от деления (условно обратимой операции) собрать однос</description>
-      <pubDate>Sat, 24 Oct 2026 18:38:34 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1098918/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098918</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
   </channel>
