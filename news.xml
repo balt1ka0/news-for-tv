@@ -5,87 +5,87 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Sun, 25 Oct 2026 05:45:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 10:51:35 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>UI-паттерн — делаем меню компактным</title>
-      <link>https://habr.com/ru/articles/1098984/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098984</link>
-      <description>Статья описывает UI-паттерн компактного отображения множества кнопок действий. Используется принцип постепенного раскрытия информации (Progressive Disclosure). Читать далее</description>
-      <pubDate>Sun, 25 Oct 2026 04:22:29 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1098984/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098984</guid>
+      <title>Как мы создавали игры для редкого советского ПК «Юниор ФВ-6506»: воспоминания разработчика (MOROZ / Free Masters)</title>
+      <link>https://habr.com/ru/articles/1099046/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099046</link>
+      <description>В конце 1980-х и начале 1990-х советская компьютерная индустрия переживала удивительный, но хаотичный бум. Рождались уникальные машины, о которых сегодня помнят лишь единицы энтузиастов. Одним из таких раритетов был «Юниор ФВ-6506» — глубокая и очень мощная модернизация «Радио 86РК», выпускавшаяся Киевским заводом УВМ. Меня зовут Артур, в ретро-сообществе и титрах тех лет я известен под ником MOROZ . Я был одним из программистов творческой группы «Free Masters» (FM©) . Нам было по 17–18 лет, и м</description>
+      <pubDate>Sun, 25 Oct 2026 10:39:51 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1099046/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099046</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Как теперь устроена наша PIM-система и что необратимо изменилось</title>
-      <link>https://habr.com/ru/articles/1098978/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098978</link>
-      <description>Для начала немного контекста: мы с командой делаем сервис для бизнеса, и я иногда пишу тут, на Хабре, о каких-то успехах, провалах или просто своем опыте. Несколько лет назад писал про то, как наша PIM устроена внутри. Она всё ещё устроена так же, но что-то необратимо изменилось. Мы активно развивали продукт, а он устаревал быстрее, чем мы его развивали. Это по моим ощущениям. Что с этим делать, я не понимал. А потом как понял. За несколько месяцев мы поменяли способ работы пользователей с систе</description>
-      <pubDate>Sun, 25 Oct 2026 02:15:28 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1098978/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098978</guid>
+      <title>Как я дал незнакомцам root-консоль на своём сервере: тренажёр инцидентов на gVisor</title>
+      <link>https://habr.com/ru/articles/1099036/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099036</link>
+      <description>Я сделал бесплатный тренажёр, где дежурство можно прожить до того, как оно случится на проде: приходит алерт, у вас настоящая консоль Linux со сломанным сервисом, и нужно найти причину и починить. Называется он Prod is Down . Я 4 года работаю системным администратором. Самое запомнившееся дежурство случилось в первый же месяц: в три часа ночи лёг один из наших сервисов, алерты сыпались один за другим, а я смотрел в консоль и не понимал, с чего начать. Логи? top ? Перезапустить всё подряд? Сервис</description>
+      <pubDate>Sun, 25 Oct 2026 10:14:48 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1099036/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099036</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Эволюция менеджмента в семи категориях через призму проектного управления</title>
-      <link>https://habr.com/ru/articles/1098778/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098778</link>
-      <description>Представим обычный городской двор, в котором решили построить детскую площадку. Подрядчик всё сделал в срок и уложился в бюджет. Оборудование проверили, работы приняли, дети уже осваивают горки и качели. Родители довольны: наконец-то есть где погулять с ребёнком рядом с домом. Автомобилисты недоумевают, куда теперь ставить машины, а жители первого этажа жалуются на шум под окнами. На собрании звучит вопрос: «А кто вообще решил, что нам нужна именно такая площадка?» Руководитель проекта показывае</description>
-      <pubDate>Sun, 25 Oct 2026 00:06:21 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1098778/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098778</guid>
+      <title>Windows 98 на Windows 11 в 2026 году: пошаговый гайд по 86Box (и как отдать установку ИИ‑агенту)</title>
+      <link>https://habr.com/ru/articles/1099030/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099030</link>
+      <description>Старые программы конца 90-х на Windows 11 то зависают до нажатия клавиши, то молчат, то не запускаются вовсе. Песочница Windows тут не помогает, VirtualBox с Windows 98 дружит плохо. Рабочим вариантом оказался эмулятор 86Box: за полтора‑два часа он даёт настоящую Windows 98 SE в окне, со звуком, мышью и CD‑приводом. Руками из этого времени — минут 20, остальное ожидание. Ниже — пошаговый гайд, который я проверил на живой установке 21.10.2026 (Windows 11 Pro, 86Box 6.0 build 9001, Windows 98 SE E</description>
+      <pubDate>Sun, 25 Oct 2026 09:26:45 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1099030/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099030</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Blue Planet III is keeping the rough edges in the age of AI</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai</link>
-      <description>BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage that seemed almost too good to be real. But one dead giveaway of AI is when things look too polished and seamless. To counter that, Blue […]</description>
-      <pubDate>Sat, 24 Oct 2026 21:29:12 +0000</pubDate>
-      <guid>https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>Starlink seems to be working normally again in Ukraine</title>
-      <link>https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/</link>
-      <description>Elon Musk reportedly ordered SpaceX to throttle Ukraine's Starlink access.</description>
-      <pubDate>Sat, 24 Oct 2026 20:46:34 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>[Перевод] Спросите Итана: Может ли кевларовый трос создать в космосе искусственную гравитацию?</title>
-      <link>https://habr.com/ru/articles/1098958/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098958</link>
-      <description>Итан Сигел (американский астрофизик‑теоретик и научный журналист, автор рубрики «Спросите Итана», один из пропагандистов современных научных знаний), рассматривает вопрос создания искусственной гравитации в космосе самым простым способом: раскрутить связанные тросом 2 корабля... @avshkol сделал перевод этой статьи на стыке инженерии и космической медицины, поскольку всё, что связано с выживанием в космосе и на космических телах, скоро станет новой быстроразвивающейся отраслью. Читать далее</description>
-      <pubDate>Sat, 24 Oct 2026 20:37:39 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1098958/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098958</guid>
+      <title>Язык без слов. Что Генри Дрейфус знал об интерфейсах, которые рисует ИИ</title>
+      <link>https://habr.com/ru/companies/ru_mts/articles/1097818/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1097818</link>
+      <description>Трактор John Deere, уехавший в Аргентину, обязан предупредить фермера, что совать руки в этот вал не стоит. Тот же трактор в Индии должен сказать то же самое на хинди или тамильском, во Франции — на французском. И для каждой страны печатается своя наклейка, а переводчик всякий раз рискует перепутать «затянуть» с «отпустить». Генри Дрейфус, проектировавший эти тракторы, предложил нарисовать одну картинку для всех. Со временем экономия на наклейках разрослась до картотеки в двадцать тысяч знаков, </description>
+      <pubDate>Sun, 25 Oct 2026 09:12:43 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/ru_mts/articles/1097818/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1097818</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>LTE был. Связи не было. Как один бит в прошивке модема вернул робота в российскую сеть</title>
-      <link>https://habr.com/ru/articles/1098956/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098956</link>
-      <description>Вставляешь рабочую SIM-карту в китайского робота-официанта. Модем видит SIM. Видит российских операторов. Видит даже LTE. Но зарегистрироваться в сети не может. Проверяешь активацию, меняешь APN, пробуешь другого оператора, перезапускаешь радио. Всё выглядит так, будто до связи осталось одно правильное поле в настройках. В нашем случае это поле оказалось сравнением внутри закрытой радиопрошивки. Расскажу, как мы прошли от «наверное, китайский APN» до разбора кода Qualcomm Hexagon, почему полезна</description>
-      <pubDate>Sat, 24 Oct 2026 20:33:41 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1098956/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098956</guid>
+      <title>Как я искал боровики и дошёл до спутниковой классификации леса</title>
+      <link>https://habr.com/ru/articles/1098962/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098962</link>
+      <description>Хотели просто набрать грибов на выходных, а в итоге натравили машинное обучение на тайгу, сожгли 15 часов облачных серверов, уперлись в трехметровые заборы непростых объектов и собрали карту боровиковых мест всей Ленобласти. История о том, как пет-проект зашел слишком далеко. Читать далее</description>
+      <pubDate>Sun, 25 Oct 2026 09:00:42 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1098962/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098962</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Will AI expose the rickety infrastructure of the internet?</title>
-      <link>https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/</link>
-      <description>The moment you realize the internet is "held together by glue and dreams."</description>
-      <pubDate>Sat, 24 Oct 2026 20:15:33 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>Безопасность Apple Mobile Devices. Часть III. Что происходит после нажатия Power</title>
-      <link>https://habr.com/ru/articles/1098952/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098952</link>
-      <description>Итак, в прошлой части мы остановились на мысли, что современный iPhone имеет смысл рассматривать уже не как устройство, в котором где-то лежит некий суперсекретный ключ, а как довольно сложную машину состояний, которая на каждом этапе проверяет, имеет ли следующий кусок системы право вообще существовать. Попробуем теперь пройти всю эту цепочку руками, от момента нажатия кнопки Power до запуска какого-нибудь Signal или Telegram, и посмотреть, в какой именно момент какие куски железа и софта начин</description>
-      <pubDate>Sat, 24 Oct 2026 20:02:09 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1098952/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098952</guid>
+      <title>Фильтр Калмана в цикле правок ИИ: что он меняет и как это проверить</title>
+      <link>https://habr.com/ru/articles/1098756/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098756</link>
+      <description>Помогает ли способ оценки шумных измерений принимать полезные изменения кода при одинаковых ролях, задачах и лимитах? Разбираю фильтр Калмана на простой учебной модели: как он соединяет прогноз и отзыв критика, чем отличается от регулятора и что происходит при коррелированных ошибках, выбросах и задержках. Затем проверяю четыре правила принятия правок в реальном цикле «автор — критик». Пилот завершён: 720 ответов модели, из них 144 для калибровки и 576 для оценки на шести задачах оптимизации Pyt</description>
+      <pubDate>Sun, 25 Oct 2026 08:56:34 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1098756/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098756</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Почти разминулись. Какую роль могла сыграть встреча Земли и Тейи</title>
-      <link>https://habr.com/ru/articles/1098950/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098950</link>
-      <description>Привет, Хабр. В недавней статье « Облачный атлас: проекты для венерианского воздухоплавания » я приводил некоторые доводы в пользу того, что терраформирование поверхности скалистых планет Солнечной системы — задача, решение которой можно представить лишь в отдаленной исторической перспективе. Путь к терраформированию лежит через глобальную экологическую катастрофу на преобразуемой планете. Но эти скептические соображения возвращают меня к вопросам о том, а как же Земля не повторила судьбу Венеры</description>
-      <pubDate>Sat, 24 Oct 2026 19:59:41 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1098950/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098950</guid>
+      <title>Мой дом ‑ мои правила. А кто дежурит, когда он ломается?</title>
+      <link>https://habr.com/ru/articles/1099028/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099028</link>
+      <description>Лет семь назад я собирал домашнюю автоматику примерно на 20 тысяч рублей: датчики влажности, CO₂, движения, розетки, реле. С ESP и Tuya простые команды по локальной сети получались, а вот таймеры и согласование нескольких устройств иногда жили своей жизнью. Хотелось меньше возиться с бытом, а не поменять класс проблем. С тех пор Home Assistant, Zigbee2MQTT, ESPHome и локальный голос стали куда привычнее. Когда я принёс в IT‑чат первую статью о независимом умном доме, мне об этом напомнили. Дошло</description>
+      <pubDate>Sun, 25 Oct 2026 08:53:40 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1099028/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099028</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>[Перевод] ИИ доказал квазигипотезу Римана. Что дальше?</title>
+      <link>https://habr.com/ru/articles/1098970/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098970</link>
+      <description>Среди 377 результатов , о которых OpenAI объявила 6 октября 2026 года, один особенно выделялся. Компания заявила, что ей удалось доказать «квазигипотезу Римана», более слабую версию гипотезы Римана, которую можно назвать важнейшей нерешённой проблемой математики. Новое доказательство, по словам Джареда Дьюкера Лихтмана из Стэнфордского университета, стало «самым значительным на сегодняшний день достижением ИИ в математике, причём с большим отрывом». Гипотеза Римана остаётся нерешённой уже более </description>
+      <pubDate>Sun, 25 Oct 2026 08:52:40 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1098970/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098970</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Мы умнее шимпанзе потому, что не подхватили ретровирус?</title>
+      <link>https://habr.com/ru/articles/1099026/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099026</link>
+      <description>Сегодня мы, Homo Sapiens Sapiens успешно держим лидерство эволюционной гонки. Конкуренты остались в истории. Ближайшие генетические «братья», шимпанзе и карликовые шимпанзе. Но если они самые близкие наши генетические родственники, то почему их интеллект так отстает от нашего? И какую роль в этом играет ретровирусная инфекция? Читать далее</description>
+      <pubDate>Sun, 25 Oct 2026 08:47:16 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1099026/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099026</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Декларативный подход к текстовым протоколам в Embedded на Си. Фреймворк TACT</title>
+      <link>https://habr.com/ru/articles/1099024/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099024</link>
+      <description>Я занимаюсь разработкой встраиваемых систем уже несколько лет и не раз сталкивался с проблемой, когда было необходимо написать UART драйвер или систему для работы с каким-либо внешним модулем, используя текстовый протокол, будь то протокол AT-команд или что-то подобное. Чаще всего это модули GNSS, модуль GSM, ESP или т.п. Набор управляющих команд для таких модулей бесконечно огромен, и каждая из них часто требует отдельной обработки. Итогом получается нужно писать свой обработчик и парсер под ка</description>
+      <pubDate>Sun, 25 Oct 2026 08:45:39 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1099024/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099024</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
   </channel>
