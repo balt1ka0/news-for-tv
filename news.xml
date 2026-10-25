@@ -5,87 +5,87 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Sun, 25 Oct 2026 14:51:44 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 18:11:09 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Исследовательский вопрос, с которым я поехал в Гонконг</title>
-      <link>https://habr.com/ru/articles/1099088/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099088</link>
-      <description>Делюсь опытом участия и заметками с полей одной из наиболее авторитетных научных конференций в области менеджмента, организованной исследовательским сообществом «Strategic Management Society» (SMS). Специальная конференция состоялась в Гонконге летом этого года и была посвящена управлению взаимоотношениями со стейкхолдерами: клиентами, поставщиками, партнерами и другими участниками создания ценности. Для меня это была возможность апробировать свои научные наработки по теме open source-подхода дл</description>
-      <pubDate>Sun, 25 Oct 2026 14:34:50 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1099088/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099088</guid>
+      <title>Гибридная постквантовая печать сообщений: X25519 + ML-KEM-1024 и тесты, которые запускает каждый</title>
+      <link>https://habr.com/ru/articles/1099180/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099180</link>
+      <description>Почти каждый мессенджер пишет «мы не можем прочитать ваши сообщения», но проверить это обычно нельзя. В мессенджере, который я разрабатываю (Umbera), я пошёл от обратного: опубликовал криптографическое ядро — ту часть кода, которая определяет, что может узнать сервер, — и написал тесты, которые воспроизводят схему и проверяют её свойства одной командой. Ниже — гибридная постквантовая печать сообщения (X25519 + ML-KEM-1024), почему взлом одного из алгоритмов ничего не даёт, какие метаданные серве</description>
+      <pubDate>Sun, 25 Oct 2026 17:33:22 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1099180/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099180</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Кости из металла, фасад святости и истинный схизис: докажи моей игре, что ты (не) гений социальной инженерии</title>
-      <link>https://habr.com/ru/articles/1099138/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099138</link>
-      <description>Большинство проигрывает в мой симулятор психиатрической экспертизы с первого раза. Причём не потому что игроки не знают ответов, а потому что не понимают, как именно я их ловлю. Ниже будет разбор реальной механики детекции симуляции в MMPI-2, которую я перенесла в движок. Читать далее</description>
-      <pubDate>Sun, 25 Oct 2026 14:29:12 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1099138/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099138</guid>
+      <title>DBML Diagram 2.1: цветные группы и свободный канвас для схем БД в JetBrains IDE</title>
+      <link>https://habr.com/ru/articles/1099178/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099178</link>
+      <description>Привет, Хабр! Продолжаем развивать DBML Diagram в Boost for Java. В предыдущем обзоре мы показывали интеграцию с dbdiagram.io, экспорт SQL и проверку отношений между таблицами. В следующем обновлении сосредоточились на работе с самой диаграммой: как ориентироваться в схеме, отделять одну предметную область от другой и перемещать связанные таблицы вместе. В версии 2.0.0 появилась визуализация TableGroup — цветные рамки с названиями групп. В 2.1.0 мы перешли на свободный SVG-канвас: убрали огранич</description>
+      <pubDate>Sun, 25 Oct 2026 17:00:28 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1099178/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099178</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>librats: Выпуск версии 3.0.x (библиотека для распределённых P2P-приложений и стриминга). И 3 приложения на ней</title>
-      <link>https://habr.com/ru/articles/1099136/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099136</link>
-      <description>Всем привет! Я продолжаю развивать свою библиотеку для создания распределённых приложений. Она уже легла в основу новой версии rats-search (распределённый торрент-поисковик) и rasync (синхронизация папок, файлов и исходников между устройствами) и ratcast (распределенный видео-аудио стриминг и приложение наподобие Discord для совместного просмотра фильмов и видео-конференций с более высоким качеством и большим количеством участников и сложной p2p+MCU топологией), а также librats, судя по всему, и</description>
-      <pubDate>Sun, 25 Oct 2026 14:26:18 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1099136/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099136</guid>
-      <category>Все публикации подряд на Хабре</category>
+      <title>This Switch 2 sequel accessory was a few millimeters away from being good</title>
+      <link>https://www.theverge.com/tech/1017508/crkd-nitro-deck-2-nintendo-switch-2-controller-case-hands-on</link>
+      <description>The Crkd Nitro Deck was a saving grace for the original Nintendo Switch. The slide-on $59.99 accessory brought Hall effect sticks to drift-plagued consoles - no need to open up your Joy-Con for a complicated repair. The Nitro Deck 2, made for both the original Switch and the larger Switch 2, continues the tradition of […]</description>
+      <pubDate>Sun, 25 Oct 2026 17:00:00 +0000</pubDate>
+      <guid>https://www.theverge.com/tech/1017508/crkd-nitro-deck-2-nintendo-switch-2-controller-case-hands-on</guid>
+      <category>The Verge</category>
     </item>
     <item>
-      <title>О роли глупости в науке</title>
-      <link>https://habr.com/ru/articles/1099134/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099134</link>
-      <description>С глупостями, в научной работе и не только, мы все встречаемся довольно часто, и, увы, порой сами их говорим или совершаем. В отношении себя могу сказать это совершенно точно - в том числе, каюсь, и здесь, на Хабре. В этой статье я попытался обобщить некоторый опыт - как свой, так и чужой, включая опыт общения с ИИ, - и тем самым понять, откуда у глупости, вообще говоря, "ноги растут". И, в частности, почему в научных публикациях глупости встречаются, скажем так, несколько чаще, чем хотелось бы,</description>
-      <pubDate>Sun, 25 Oct 2026 14:26:12 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1099134/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099134</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Почему геймификация убьет разум в ИИ: скрытые риски коммерческого сбора данных и тупик Alignment</title>
-      <link>https://habr.com/ru/articles/1099128/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099128</link>
-      <description>Современная гонка искусственного интеллекта полностью сфокусирована на терафлопсах, объемах контекстных окон и бенчмарках. Однако за рамками обсуждения остается критическая проблема: качество и чистота данных, на которых обучаются будущие сверхразумные системы. Пытаясь ускорить процесс сбора обратной связи от пользователей (RLHF), ИТ-гиганты совершают фундаментальную ошибку. Они внедряют коммерческую мотивацию и элементы геймификации там, где требуется предельная искренность . Этот подход ведет </description>
-      <pubDate>Sun, 25 Oct 2026 14:18:58 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1099128/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099128</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>The hottest AI wearables and gadgets you should know about</title>
-      <link>https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/</link>
-      <description>We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.</description>
-      <pubDate>Sun, 25 Oct 2026 14:10:00 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/</guid>
+      <title>AI delivers ‘zero financial payoff’ to most companies, Apollo economist says</title>
+      <link>https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/</link>
+      <description>"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech."</description>
+      <pubDate>Sun, 25 Oct 2026 16:57:32 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/</guid>
       <category>TechCrunch</category>
     </item>
     <item>
-      <title>Пишем высокопроизводительный rate-limiter на golang</title>
-      <link>https://habr.com/ru/articles/1099122/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099122</link>
-      <description>Недавно я познакомился с Golang и в качестве практики решил реализовать алгоритмы rate limiting'а из статьи с arxiv. Сегодня мы рассмотрим написание rate-limiter'а в виде отдельно-стоящего сервиса и в виде middleware, используя in-memory кэш или Redis, добавим поддержку REST и gRPC, подключим Prometheus и поймём как добиться атомарности операций с минимальными задержками. Читать далее</description>
-      <pubDate>Sun, 25 Oct 2026 14:09:51 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1099122/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099122</guid>
+      <title>Я боюсь работать без ИИ</title>
+      <link>https://habr.com/ru/articles/1099172/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099172</link>
+      <description>К агентам быстро привыкаешь. Я уже смотрю, какого болванчика дадут на новой работе, а за часть своих проектов без ИИ вообще бы не взялся. Опасения из прошлых статей остались, но возвращаться к работе без агентов уже не хочется. Читать далее</description>
+      <pubDate>Sun, 25 Oct 2026 16:44:39 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1099172/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099172</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Как не нарушить 152-ФЗ при проверке договора с помощью ИИ или обезличивание персональных данных c Docx Anonymizer</title>
-      <link>https://habr.com/ru/articles/1099118/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099118</link>
-      <description>Вопрос в последнее время становится крайне актуальным, так как чаты с искусственным интеллектом стали обыденностью не только в обычной жизни, но и в работе. Частая картина: договор на сто страниц, дедлайн сгорел еще вчера и договор сам собой улетает в окно ChatGPT с просьбой «найди подвох в разделе об ответственности». И так делают далеко не единицы. В зарубежных опросах от 38 до 57% сотрудников признаются, что вводили в публичные нейросети конфиденциальные данные, причём многие — с личных аккау</description>
-      <pubDate>Sun, 25 Oct 2026 14:09:05 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1099118/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099118</guid>
+      <title>Новый робот — та же блокировка: как мы разлочили Quectel RG255C-GL</title>
+      <link>https://habr.com/ru/articles/1099170/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099170</link>
+      <description>В Agibot X2 Ultra с Quectel RG255C-GL рабочая российская SIM читалась, но модем не регистрировался. Разобрали LOW-диапазон CLADE, нашли проверку MCC 250 и изменили один бит. Затем пересчитали MBNv7 и проверили LTE, HTTP и HTTPS. Продолжение кейса с EG25-GC — на новой платформе. Читать далее</description>
+      <pubDate>Sun, 25 Oct 2026 16:43:15 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1099170/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099170</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Кружок из любого видео — и без «подпишитесь на 4 канала»</title>
-      <link>https://habr.com/ru/articles/1099112/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099112</link>
-      <description>После Качалки и «Чисто» — мелочь попроще: отправить в Telegram кружок не с камеры, а из готового видео. Ботов для этого полно, и почти все устроены одинаково: прежде чем что-то сделать, просят подписаться на четыре канала, потом показывают рекламу, а кружок отдают с водяным знаком. Задача на вечер, но раз уж все делают её с подписками — сделал без. Бот @chisto_krugi_bot : присылаешь видео — получаешь кружок. Ни подписок, ни рекламы, ни регистрации. Код открыт. Рассказывать тут особо не о чем, по</description>
-      <pubDate>Sun, 25 Oct 2026 13:56:11 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1099112/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099112</guid>
+      <title>Осталось только всё улучшить: почему с ИИ так трудно закончить работу</title>
+      <link>https://habr.com/ru/articles/1099146/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099146</link>
+      <description>Бывало ли такое с Вами? ИИ исправно работает, токены расходуются, а момент завершения отодвигается, потому что очередное тестирование проекта от ИИ находит новые проблемы. Но попытка все эти проблемы исправить приводит внезапно не к идеальному состоянию, а к ухудшению результата. Вместо разумно построенного проекта вырастает машина Голдберга. Почему с ИИ стало легче писать код, но порой труднее закончить работу? И как понять, что ИИ уже создает больше новых проблем, чем решает старых? Здесь вы у</description>
+      <pubDate>Sun, 25 Oct 2026 16:22:53 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1099146/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099146</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Android-клиент для DeepSeek Harness: как работать с агентом на ПК с телефона без облака и FCM</title>
-      <link>https://habr.com/ru/articles/1099110/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099110</link>
-      <description>Как я сделал Android-клиент для DeepSeek Harness, который работает с агентом на компьютере без облачного сервера и FCM. Внутри — плагин в процессе DSH вместо WebView, привязка по QR-коду с пином сертификата и журнал квитанций, из-за которого телефон никогда не повторяет команды вслепую. Читать далее</description>
-      <pubDate>Sun, 25 Oct 2026 13:48:06 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1099110/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099110</guid>
+      <title>Now you can watch Instagram Reels on your Apple TV</title>
+      <link>https://www.theverge.com/tech/1018253/now-you-can-watch-instagram-reels-on-your-apple-tv</link>
+      <description>Instagram is continuing its expansion into living rooms with Instagram for TV, for Apple TV. The company first started testing a version of the platform focused on Reels, live streams, and other video content, blown up for a bigger screen in December of last year. Then, in June, it launched a slew of new features […]</description>
+      <pubDate>Sun, 25 Oct 2026 16:20:17 +0000</pubDate>
+      <guid>https://www.theverge.com/tech/1018253/now-you-can-watch-instagram-reels-on-your-apple-tv</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>TechCrunch Mobility: Blue-green is the color of autonomy</title>
+      <link>https://techcrunch.com/2026/10/25/techcrunch-mobility-blue-green-is-the-color-of-autonomy/</link>
+      <description>Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.</description>
+      <pubDate>Sun, 25 Oct 2026 16:05:00 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/25/techcrunch-mobility-blue-green-is-the-color-of-autonomy/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>Камера на лоб, газировка в подарок: как человечество снимает самоучитель для роботов</title>
+      <link>https://habr.com/ru/companies/ru_mts/articles/1095284/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095284</link>
+      <description>Вы наверняка видели ролики, где индийские швеи работают за станками с экшен-камерами на лбах или парикмахер стрижет с GoPro, закрепленной на груди. За такой, как может показаться, фрик-контент платят зарплату, ведь каждое видео уходит в обучающую выборку робота, который однажды сделает то же самое без человека. Под катом расскажу, кто собирает данные для гуманоидов, сколько за это платят и при чем тут «Яндекс» и «Сбер». Читать</description>
+      <pubDate>Sun, 25 Oct 2026 16:03:15 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/ru_mts/articles/1095284/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095284</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
   </channel>
