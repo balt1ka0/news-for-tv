@@ -5,87 +5,87 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Sun, 25 Oct 2026 18:11:09 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 21:28:46 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Гибридная постквантовая печать сообщений: X25519 + ML-KEM-1024 и тесты, которые запускает каждый</title>
-      <link>https://habr.com/ru/articles/1099180/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099180</link>
-      <description>Почти каждый мессенджер пишет «мы не можем прочитать ваши сообщения», но проверить это обычно нельзя. В мессенджере, который я разрабатываю (Umbera), я пошёл от обратного: опубликовал криптографическое ядро — ту часть кода, которая определяет, что может узнать сервер, — и написал тесты, которые воспроизводят схему и проверяют её свойства одной командой. Ниже — гибридная постквантовая печать сообщения (X25519 + ML-KEM-1024), почему взлом одного из алгоритмов ничего не даёт, какие метаданные серве</description>
-      <pubDate>Sun, 25 Oct 2026 17:33:22 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1099180/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099180</guid>
+      <title>Новый интерфейс для ВК Видео</title>
+      <link>https://habr.com/ru/articles/1099276/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099276</link>
+      <description>Да — это свершилось. В 2026 перед командой разработки ВК Видео стояла амбициозная задача — реализовать ряд инновационных функций, которые скопируют ведущие цифровые платформы. И эта задача на конец октября полностью выполнена. Читать далее</description>
+      <pubDate>Sun, 25 Oct 2026 21:23:56 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1099276/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099276</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>DBML Diagram 2.1: цветные группы и свободный канвас для схем БД в JetBrains IDE</title>
-      <link>https://habr.com/ru/articles/1099178/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099178</link>
-      <description>Привет, Хабр! Продолжаем развивать DBML Diagram в Boost for Java. В предыдущем обзоре мы показывали интеграцию с dbdiagram.io, экспорт SQL и проверку отношений между таблицами. В следующем обновлении сосредоточились на работе с самой диаграммой: как ориентироваться в схеме, отделять одну предметную область от другой и перемещать связанные таблицы вместе. В версии 2.0.0 появилась визуализация TableGroup — цветные рамки с названиями групп. В 2.1.0 мы перешли на свободный SVG-канвас: убрали огранич</description>
-      <pubDate>Sun, 25 Oct 2026 17:00:28 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1099178/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099178</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>This Switch 2 sequel accessory was a few millimeters away from being good</title>
-      <link>https://www.theverge.com/tech/1017508/crkd-nitro-deck-2-nintendo-switch-2-controller-case-hands-on</link>
-      <description>The Crkd Nitro Deck was a saving grace for the original Nintendo Switch. The slide-on $59.99 accessory brought Hall effect sticks to drift-plagued consoles - no need to open up your Joy-Con for a complicated repair. The Nitro Deck 2, made for both the original Switch and the larger Switch 2, continues the tradition of […]</description>
-      <pubDate>Sun, 25 Oct 2026 17:00:00 +0000</pubDate>
-      <guid>https://www.theverge.com/tech/1017508/crkd-nitro-deck-2-nintendo-switch-2-controller-case-hands-on</guid>
+      <title>Scott Walker’s The Drift will get under your skin</title>
+      <link>https://www.theverge.com/entertainment/1018300/scott-walker-the-drift-music-album-review</link>
+      <description>In my mind, Spooky Season music comes in two distinct flavors. There are the fun, occasionally goofy songs like "The Monster Mash" and John Carpenter's "Halloween Theme." Then there is the genuinely terrifying: Throbbing Gristle, The Body, or Scott Walker's The Drift. This 2006 album from the singer-songwriter is truly upsetting. On it, Walker explores […]</description>
+      <pubDate>Sun, 25 Oct 2026 21:08:09 +0000</pubDate>
+      <guid>https://www.theverge.com/entertainment/1018300/scott-walker-the-drift-music-album-review</guid>
       <category>The Verge</category>
     </item>
     <item>
-      <title>AI delivers ‘zero financial payoff’ to most companies, Apollo economist says</title>
-      <link>https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/</link>
-      <description>"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech."</description>
-      <pubDate>Sun, 25 Oct 2026 16:57:32 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/</guid>
+      <title>Токеномика для самых маленьких</title>
+      <link>https://habr.com/ru/articles/1099264/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099264</link>
+      <description>Кажется, мы довольно быстро привыкли к тому, что с нейросетью можно разговаривать почти как с человеком. Попросить написать код, пересказать статью, разобраться в документах. Потом уточнить. Потом ещё раз уточнить, потому что она опять сделала что-то не то. А где-то между «почти готово» и «ты зачем вообще это переписал?» заканчивается лимит. А иногда - ещё до первого ответа. Отправляешь запрос в Claude, он долго думает. Потом ещё думает. Ты уже начинаешь подозревать, что там решают что-то на уро</description>
+      <pubDate>Sun, 25 Oct 2026 20:51:38 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1099264/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099264</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Детский футбол без чатов: что болит у тренеров и родителей и как мы закрываем это кодом</title>
+      <link>https://habr.com/ru/articles/1099268/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099268</link>
+      <description>Мы делаем «Сбор - спортивные школы» — платформу для детских футбольных школ: расписание, посещаемость, взносы и матч-день в одном приложении для тренера, родителя и директора. На сервере Laravel 12, Livewire 3 и PostgreSQL, мобильное приложение написано на Flutter. Предметная область выглядит простой — календарь и список детей, — но почти каждая задача упирается в людей: родителей у ребёнка двое, детей у родителя трое, а тренер стоит на поле с телефоном в одной руке и мячом в другой. Ниже — пять</description>
+      <pubDate>Sun, 25 Oct 2026 20:40:53 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1099268/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099268</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Как один UI‑баг заставил меня разбираться с графом зависимостей целого приложения</title>
+      <link>https://habr.com/ru/articles/1099266/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099266</link>
+      <description>Есть такая категория задач, которые поначалу выглядят настолько безобидно, что ты даже не закладываешь на них много времени. Ну не обновился какой-то элемент интерфейса после авторизации, бывает. Скорее всего, где-нибудь потерялось событие, не обновилось состояние или кто-то забыл вызвать нужный метод. Открываешь проект, ставишь пару брейкпоинтов и рассчитываешь довольно быстро во всём разобраться. Примерно с таким настроением я и взялся за очередной UI-баг, а спустя какое-то время обнаружил себ</description>
+      <pubDate>Sun, 25 Oct 2026 20:40:36 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1099266/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099266</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>ProColpo: машинное обучение в анализе кольпоскопических изображений</title>
+      <link>https://habr.com/ru/articles/1099262/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099262</link>
+      <description>ри кольпоскопии врачу необходимо определить расположение изменений и выбрать участки для прицельной биопсии. ProColpo использует машинное обучение для проверки качества снимков и выделения кольпоскопических признаков. Программа создана на основе ML-модели, разработанной совместно с А. А. Безменко и его командой. В ходе проекта обработано более 15 000 изображений, более 12 000 аннотировано; создана собственная платформа разметки. Сейчас проводятся пилотные интеграции с российскими производителями</description>
+      <pubDate>Sun, 25 Oct 2026 20:36:09 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1099262/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099262</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>‘Cyberselfish’ author takes aim at Silicon Valley libertarians as her book returns from the dead</title>
+      <link>https://techcrunch.com/2026/10/25/cyberselfish-author-takes-aim-at-techno-libertarianism-as-her-book-returns-from-the-dead/</link>
+      <description>"That's a 12-year-old view of the world."</description>
+      <pubDate>Sun, 25 Oct 2026 20:20:08 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/25/cyberselfish-author-takes-aim-at-techno-libertarianism-as-her-book-returns-from-the-dead/</guid>
       <category>TechCrunch</category>
     </item>
     <item>
-      <title>Я боюсь работать без ИИ</title>
-      <link>https://habr.com/ru/articles/1099172/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099172</link>
-      <description>К агентам быстро привыкаешь. Я уже смотрю, какого болванчика дадут на новой работе, а за часть своих проектов без ИИ вообще бы не взялся. Опасения из прошлых статей остались, но возвращаться к работе без агентов уже не хочется. Читать далее</description>
-      <pubDate>Sun, 25 Oct 2026 16:44:39 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1099172/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099172</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Новый робот — та же блокировка: как мы разлочили Quectel RG255C-GL</title>
-      <link>https://habr.com/ru/articles/1099170/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099170</link>
-      <description>В Agibot X2 Ultra с Quectel RG255C-GL рабочая российская SIM читалась, но модем не регистрировался. Разобрали LOW-диапазон CLADE, нашли проверку MCC 250 и изменили один бит. Затем пересчитали MBNv7 и проверили LTE, HTTP и HTTPS. Продолжение кейса с EG25-GC — на новой платформе. Читать далее</description>
-      <pubDate>Sun, 25 Oct 2026 16:43:15 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1099170/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099170</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Осталось только всё улучшить: почему с ИИ так трудно закончить работу</title>
-      <link>https://habr.com/ru/articles/1099146/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099146</link>
-      <description>Бывало ли такое с Вами? ИИ исправно работает, токены расходуются, а момент завершения отодвигается, потому что очередное тестирование проекта от ИИ находит новые проблемы. Но попытка все эти проблемы исправить приводит внезапно не к идеальному состоянию, а к ухудшению результата. Вместо разумно построенного проекта вырастает машина Голдберга. Почему с ИИ стало легче писать код, но порой труднее закончить работу? И как понять, что ИИ уже создает больше новых проблем, чем решает старых? Здесь вы у</description>
-      <pubDate>Sun, 25 Oct 2026 16:22:53 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1099146/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099146</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Now you can watch Instagram Reels on your Apple TV</title>
-      <link>https://www.theverge.com/tech/1018253/now-you-can-watch-instagram-reels-on-your-apple-tv</link>
-      <description>Instagram is continuing its expansion into living rooms with Instagram for TV, for Apple TV. The company first started testing a version of the platform focused on Reels, live streams, and other video content, blown up for a bigger screen in December of last year. Then, in June, it launched a slew of new features […]</description>
-      <pubDate>Sun, 25 Oct 2026 16:20:17 +0000</pubDate>
-      <guid>https://www.theverge.com/tech/1018253/now-you-can-watch-instagram-reels-on-your-apple-tv</guid>
+      <title>A YouTuber dissected an iPhone Duo and thinks he found the cause of crackgate</title>
+      <link>https://www.theverge.com/tech/1018290/dissected-iphone-duo-crackgate-hinge-screen</link>
+      <description>Social media and the iPhone Duo subreddit are filled with reports of Apple's foldable failing quickly and in spectacular fashion. Some users report having the phone for only a few hours before the hinge seems to catch on something, then audibly crack and break the screen. Tellingly, the cracks all seem to happen in the […]</description>
+      <pubDate>Sun, 25 Oct 2026 20:16:19 +0000</pubDate>
+      <guid>https://www.theverge.com/tech/1018290/dissected-iphone-duo-crackgate-hinge-screen</guid>
       <category>The Verge</category>
     </item>
     <item>
-      <title>TechCrunch Mobility: Blue-green is the color of autonomy</title>
-      <link>https://techcrunch.com/2026/10/25/techcrunch-mobility-blue-green-is-the-color-of-autonomy/</link>
-      <description>Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.</description>
-      <pubDate>Sun, 25 Oct 2026 16:05:00 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/25/techcrunch-mobility-blue-green-is-the-color-of-autonomy/</guid>
-      <category>TechCrunch</category>
+      <title>Ping, traceroute и Path MTU на Android без root и NDK</title>
+      <link>https://habr.com/ru/articles/1099252/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099252</link>
+      <description>Когда я садился портировать своё iOS-приложение на Android, я был уверен, что ping, traceroute и Path MTU там не сделать: ICMP — это raw-сокет, а raw-сокет — это root. Одна команда adb показала, что я ошибался: любое приложение может открыть непривилегированный ICMP-сокет — без root и без единой строчки на C. Рассказываю, как на чистом Kotlin устроены ping, traceroute через очередь ошибок сокета и Path MTU через бит DF, и на чём я споткнулся по дороге. Читать далее</description>
+      <pubDate>Sun, 25 Oct 2026 20:16:15 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1099252/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099252</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Камера на лоб, газировка в подарок: как человечество снимает самоучитель для роботов</title>
-      <link>https://habr.com/ru/companies/ru_mts/articles/1095284/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095284</link>
-      <description>Вы наверняка видели ролики, где индийские швеи работают за станками с экшен-камерами на лбах или парикмахер стрижет с GoPro, закрепленной на груди. За такой, как может показаться, фрик-контент платят зарплату, ведь каждое видео уходит в обучающую выборку робота, который однажды сделает то же самое без человека. Под катом расскажу, кто собирает данные для гуманоидов, сколько за это платят и при чем тут «Яндекс» и «Сбер». Читать</description>
-      <pubDate>Sun, 25 Oct 2026 16:03:15 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/ru_mts/articles/1095284/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095284</guid>
+      <title>Визуальная и лидарная одометрия для уличного мобильного робота: ORB-SLAM 3, RtabMap, OpenVins, Fast-LIO 2 и DLIO</title>
+      <link>https://habr.com/ru/articles/1099240/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099240</link>
+      <description>Прогнал девять пакетов визуальной одометрии и два лидарных на одном уличном ровере: визуалка на улице не тянет, лидар с дефолтными настройками — тянет. Видео всех тестов с таймкодами и разбор причин отказов — в статье. Читать далее</description>
+      <pubDate>Sun, 25 Oct 2026 19:58:46 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1099240/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099240</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
   </channel>
