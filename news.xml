@@ -5,88 +5,88 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Mon, 26 Oct 2026 16:33:14 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 21:24:09 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Сказ от Anthropic о том, как рой ИИ-агентов может превратиться в сборище бюрократов</title>
-      <link>https://habr.com/ru/articles/1099290/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099290</link>
-      <description>В статье Building agents: When to fold subagents into your main agent loop , опубликованной 22 октября 2026 года, Diane Sarkis из Anthropic описала случаи, в которых замера множества ИИ-агентов на одного агента с навыками и инструментами приводила к значительному повышению качества работы, снижению стоимости и времени выполнения запросов. Это выглядит так, как будто создать множество узкоспециализированных ИИ-агентов — во многих случаях не очень хорошая идея. Читать далее</description>
-      <pubDate>Mon, 26 Oct 2026 16:30:53 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1099290/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099290</guid>
+      <title>Просто сделать игру недостаточно</title>
+      <link>https://habr.com/ru/articles/1093014/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093014</link>
+      <description>В мае 2017 года я преисполнился успехом своей карточной настолки (настоящей из бумаги, про стартап) на локальных питерских тусовках и решил перенести её на ПК. Знаете как бывает, что идея сверлит мозг, потом эти вибрации передаются в руки, они сами вечерами что-то пишут, и в какой-то момент вы оказываетесь обладателем работающего концепта и, обычно, так начинается большинство независимых игровых проектов, которые потом никто никогда не увидит. Замахиваться на вершины геймдева было страшно, поско</description>
+      <pubDate>Mon, 26 Oct 2026 21:15:17 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1093014/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093014</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>PHP взломан, всё потеряно!?</title>
-      <link>https://habr.com/ru/articles/1099712/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099712</link>
-      <description>Внимание! Обнаружены две критические уязвимости удаленного выполнения кода (RCE) в PHP, отслеживаемых как CVE-2026-109618 и CVE-2026-109619 , публично раскрытых 21 октября 2026 года . Эти уязвимости позволяют злоумышленнику выполнять произвольный код на серверах, работающих под управлением PHP, что потенциально может привести к полной компрометации затронутой системы. Поскольку PHP используется в значительной части веб-технологий, включая WordPress, Drupal, Laravel и пользовательские приложения.</description>
-      <pubDate>Mon, 26 Oct 2026 16:18:19 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1099712/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099712</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Овеществление маркетинга: инструмент, а не панацея</title>
-      <link>https://habr.com/ru/articles/1099674/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099674</link>
-      <description>Недавно посмотрел выступление Павла Анненкова , владельца издательства «Редколлегия», на тему "Маркетинг будущего - маркетинг из прошлого". Его тезис: в эпоху ИИ, когда контент почти ничего не стоит, физические объекты (книги, журналы, мерч) становятся премиальным медиа, позволяют быстро пройти путь от внимания к памяти и обходятся дешевле цифры. Доклад живой и во многом точный, но ... с главным выводом я не согласен. Важен ещё и контекст: корпоративные книги и журналы — это бизнес самого Павла.</description>
-      <pubDate>Mon, 26 Oct 2026 16:14:50 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1099674/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099674</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Ищем нишу для продукта с нейросетями на примере Excalidraw</title>
-      <link>https://habr.com/ru/articles/1099710/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099710</link>
-      <description>Компания NEOMSA представила практический подход к управлению доступом ИИ-агентов к внутренним API через протокол MCP. В центре внимания — выдача и отзыв полномочий, ограничение операций и данных, а также восстановление цепочки действий при расследовании инцидентов. Сценарии с ИИ-агентами переводят вопросы управления API из плоскости обычной аутентификации в область контроля конкретных действий. Действительный токен не означает, что агент должен иметь право выполнять любую доступную операцию: нео</description>
-      <pubDate>Mon, 26 Oct 2026 16:12:58 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1099710/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099710</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Instagram chases YouTube with a push for longer, widescreen videos</title>
-      <link>https://www.theverge.com/tech/1018688/instagram-longform-widescreen-video-features-youtube</link>
-      <description>Instagram is announcing a big push into longform horizontal video, which the platform is calling "Features." Instagram boss Adam Mosseri has been against doing longform video on the platform "for a long time," he says in a six-and-a-half-minute video (here's the widescreen version) with VP of product Tessa Lyons, saying that "one of my concerns […]</description>
-      <pubDate>Mon, 26 Oct 2026 16:05:44 +0000</pubDate>
-      <guid>https://www.theverge.com/tech/1018688/instagram-longform-widescreen-video-features-youtube</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>Microsoft offers buyouts to 60,000 employees</title>
-      <link>https://www.theverge.com/tech/1018666/microsoft-expands-buyouts-60000-employees-eligible</link>
-      <description>Microsoft is offering voluntary buyouts to up to 60,000 employees across the US, UK, Canada, and India. In a message to employees, Microsoft chief people officer Amy Coleman writes that this gives staff members "the opportunity to leave Microsoft with financial support and career planning resources" as the company looks to trim staff without another […]</description>
-      <pubDate>Mon, 26 Oct 2026 15:58:27 +0000</pubDate>
-      <guid>https://www.theverge.com/tech/1018666/microsoft-expands-buyouts-60000-employees-eligible</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>Microsoft offers buyouts to around 60,000 employees, reports say</title>
-      <link>https://techcrunch.com/2026/10/26/microsoft-offers-buyouts-to-around-60000-employees-reports-say/</link>
-      <description>The buyout offers mark Microsoft's latest efforts to cut costs and rework its workforce.</description>
-      <pubDate>Mon, 26 Oct 2026 15:58:25 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/26/microsoft-offers-buyouts-to-around-60000-employees-reports-say/</guid>
+      <title>Watch out, YouTube; Instagram goes from short-form to 90-minute videos</title>
+      <link>https://techcrunch.com/2026/10/26/watch-out-youtube-instagram-goes-from-short-form-to-90-minute-videos/</link>
+      <description>As Instagram rolls out long form videos of up to 90 minutes, the platform has an opportunity to challenge YouTube if it plays its cards right.</description>
+      <pubDate>Mon, 26 Oct 2026 21:05:11 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/26/watch-out-youtube-instagram-goes-from-short-form-to-90-minute-videos/</guid>
       <category>TechCrunch</category>
     </item>
     <item>
-      <title>Nano Banana 2.1 или ChatGPT Image 2.5: сравниваем нейросети для генерации изображений на 5 одинаковых промптах</title>
-      <link>https://habr.com/ru/companies/speshu_ai/articles/1099696/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099696</link>
-      <description>Nano Banana 2.1 и ChatGPT Image 2.5 решают похожую задачу: создают изображения по текстовому промпту и редактируют готовые картинки. Но после нескольких генераций становится понятно, что модели ошибаются по-разному. Одна точнее следует техническому заданию, другая лучше сохраняет лицо или делает визуал более «собранным». Сравнивать такие нейросети по одному красивому примеру бессмысленно. Для продуктового изображения важнее точность расположения объектов, для афиши — текст, для рекламного кадра </description>
-      <pubDate>Mon, 26 Oct 2026 15:40:07 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/speshu_ai/articles/1099696/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099696</guid>
+      <title>Как я писал эмуляцию звука для Nintendo Gameboy на C++ целый год</title>
+      <link>https://habr.com/ru/articles/1099784/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099784</link>
+      <description>В этой статье я расскажу, как устроена звуковая подсистема Nintendo Gameboy, с какими проблемами я столкнулся, пытаясь в реальном времени генерировать звук и синхронизировать с ним картинку. Статья является продолжением моей прошлой публикации ( https://habr.com/ru/articles/908752/ ). Читать далее</description>
+      <pubDate>Mon, 26 Oct 2026 20:58:04 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1099784/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099784</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>T-Mobile’s new plans include swappable subscription perks</title>
-      <link>https://www.theverge.com/tech/1018624/t-mobile-mix-plans-streaming-picks</link>
-      <description>T-Mobile is launching new "T-Mix" plans that bundle wireless service with subscriptions to services like Netflix, Apple TV, YouTube Premium, Xbox Game Pass Ultimate, device promotions, and more, as reported earlier by Fierce Network. The Standard plan starts at $55 / month (with autopay) for one line and one "Pick," which you can change up […]</description>
-      <pubDate>Mon, 26 Oct 2026 15:39:54 +0000</pubDate>
-      <guid>https://www.theverge.com/tech/1018624/t-mobile-mix-plans-streaming-picks</guid>
+      <title>Security Week 2644: активная эксплуатация уязвимостей PHP2Shell</title>
+      <link>https://habr.com/ru/companies/kaspersky/articles/1099774/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099774</link>
+      <description>Уязвимости в ядре PHP (CVE-2026-109618 и CVE-2026-109619, коллективно именуемые PHP2Shell) — это, безусловно, самая важная новость прошлой недели. Во вторник, 20 октября, разработчики PHP анонсировали патчи, в среду выпустили обновления для поддерживаемых веток PHP 8.2–8.5 и неподдерживаемых PHP 7.4, 8.0, 8.1, а также предложили частично работающие меры противодействия атакам для тех, кто по какой-то причине прямо сейчас обновиться не сможет. Обе уязвимости в теории обеспечивают возможность выпо</description>
+      <pubDate>Mon, 26 Oct 2026 20:01:58 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/kaspersky/articles/1099774/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099774</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Компьютер начал подвисать, когда на нём заработали ИИ-агенты. Нашлись две причины</title>
+      <link>https://habr.com/ru/articles/1099768/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099768</link>
+      <description>Мой домашний компьютер начал подвисать, когда на нём почти круглосуточно заработали ИИ-агенты. Я спросил в чате одной строкой, почему он тормозит, и получил две причины, которые сам искал бы долго: встроенный Defender проверял каждый из десятков тысяч файлов, которые пишут агенты, а сами агенты, вопреки инструкции, складывали гигабайты на диск C. Рассказываю, как это проверить руками, что мы исправили и чем за это пришлось заплатить. Загрузка процессора упала с 67% до 12%. Читать далее</description>
+      <pubDate>Mon, 26 Oct 2026 19:40:17 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1099768/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099768</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Uh-oh, it sounds like the iPhone Duo keeps cracking and users aren’t happy about it</title>
+      <link>https://techcrunch.com/2026/10/26/uh-oh-it-sounds-like-the-iphone-duo-keeps-cracking-and-users-arent-happy-about-it/</link>
+      <description>A small number of early adopters of the much-hyped new foldable phone from Apple have complained of screens cracking.</description>
+      <pubDate>Mon, 26 Oct 2026 19:22:40 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/26/uh-oh-it-sounds-like-the-iphone-duo-keeps-cracking-and-users-arent-happy-about-it/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>[Перевод] У парадокса голосования нашлась форма: это бутылка Клейна</title>
+      <link>https://habr.com/ru/articles/1099764/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099764</link>
+      <description>Три равные группы избирателей, три кандидата, у каждой группы вполне связный рейтинг, а при попарном сравнении Алиса обыгрывает Боба, Боб обыгрывает Кэрол, Кэрол обыгрывает Алису. Этот цикл описал Кондорсе в 1785 году, а в 1951-м Кеннет Эрроу доказал, что ни одна система голосования не выполняет сразу несколько простых демократических требований. Теперь трое математиков из Сиднея и Ченнаи показали, что у парадокса есть форма. Если изобразить каждый из шести возможных бюллетеней треугольником и с</description>
+      <pubDate>Mon, 26 Oct 2026 19:08:42 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1099764/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099764</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Fusion startups are giving the government shares in exchange for awards. Is it worth it?</title>
+      <link>https://techcrunch.com/2026/10/26/fusion-startups-are-giving-the-government-shares-in-exchange-for-awards-is-it-worth-it/</link>
+      <description>Fusion startups face a new challenge, one unrelated to plasma physics: Give the government shares in exchange for funding awards or go it alone?</description>
+      <pubDate>Mon, 26 Oct 2026 18:59:52 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/26/fusion-startups-are-giving-the-government-shares-in-exchange-for-awards-is-it-worth-it/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>iPhone Duo now supports Apple Pencil with iOS 27.2</title>
+      <link>https://www.theverge.com/tech/1018827/ios-27-2-iphone-duo-apple-pencil</link>
+      <description>Apple has just released iOS 27.2, bringing Apple Pencil support to the iPhone Duo. The software update also includes an "Edge Light" feature for the iPhone Duo that's intended to illuminate your face during video calls. Apple previously said the iPhone Duo would add support for the Apple Pencil "later this year." The company's first […]</description>
+      <pubDate>Mon, 26 Oct 2026 18:51:06 +0000</pubDate>
+      <guid>https://www.theverge.com/tech/1018827/ios-27-2-iphone-duo-apple-pencil</guid>
       <category>The Verge</category>
     </item>
     <item>
-      <title>Как реализовать трехмерную сервисную модель для обслуживания корпоративных заказчиков: опыт компании «Мобиус»</title>
-      <link>https://habr.com/ru/companies/okdesk/articles/1099694/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099694</link>
-      <description>Привет, Хабр! Это команда интернет‑газеты о сервисном бизнесе «Заявка закрыта» – проекта Okdesk , платформы для управления заявками, выездным обслуживанием и ТОиР. Мы регулярно делимся практическими материалами, которые помогают сервисным компаниям работать эффективнее и зарабатывать больше – без лишней теории и воды. Сегодня расскажем, как компания «Мобиус» перестроила техническую поддержку корпоративных заказчиков и реализовала в Okdesk трехмерную сервисную модель с несколькими линиями поддерж</description>
-      <pubDate>Mon, 26 Oct 2026 15:38:39 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/okdesk/articles/1099694/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099694</guid>
-      <category>Все публикации подряд на Хабре</category>
+      <title>The NBA’s response to gambling scandals is to add more gambling partnerships</title>
+      <link>https://www.theverge.com/entertainment/1018818/nba-kalshi-polymarket</link>
+      <description>From the bright minds that brought you FTX Arena and NBA Top Shot NFT maketplace (where sales last month dropped to $762,781, which is a 99.66 percent decrease compared to the February 2021 peak of $226,350,843), the NBA announced Monday that it has new "preferred" prediction market deals for Kalshi and Polymarket, as well as […]</description>
+      <pubDate>Mon, 26 Oct 2026 18:22:06 +0000</pubDate>
+      <guid>https://www.theverge.com/entertainment/1018818/nba-kalshi-polymarket</guid>
+      <category>The Verge</category>
     </item>
   </channel>
 </rss>
