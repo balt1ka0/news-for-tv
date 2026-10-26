@@ -5,9 +5,33 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Sun, 25 Oct 2026 23:51:29 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 03:31:20 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Проверка подлинности GPT-6 Astra у пяти зарубежных API-роутеров: пеликан на велосипеде и фламинго на моноцикле</title>
+      <link>https://habr.com/ru/articles/1099304/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099304</link>
+      <description>В первой статье я сравнил ответы пяти API-роутеров с официальным API OpenAI на 30 задачах. Здесь продолжаю проверку GPT-6 Astra на двух SVG-заданиях: пеликан на велосипеде и фламинго на моноцикле. Показываю все изображения, сравниваю детали и свожу результаты вместе с ценами. Читать далее</description>
+      <pubDate>Mon, 26 Oct 2026 03:26:26 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1099304/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099304</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Конец прекрасной эпохи — ИИ в руках хакеров</title>
+      <link>https://habr.com/ru/articles/1099292/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099292</link>
+      <description>Увы и ах. Осень 2026-го для российского сегмента ИТ выдалась напряжная. Изначально я хотел высказаться на тему другого яркого события октября — атак на Яндекс. И я обязательно сделаю это чуть позже, но сегодня поговорим о другом. Зато по горячим следам. Буквально на днях произошел довольно масштабный по меркам нашего ИТ взлом: атака на провайдеров через VMmanager. Подробности атаки расписывать смысла я не вижу — их полно как на Хабре, так и на других профильных ресурсах. Так зачем я пишу эту ста</description>
+      <pubDate>Mon, 26 Oct 2026 01:11:15 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1099292/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099292</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>The best apps for tracking your reading and discovering new books</title>
+      <link>https://techcrunch.com/2026/10/25/5-best-apps-track-reading-discover-new-books/</link>
+      <description>There are numerous apps on the market that promise to do just that, so we’ve compiled a list of some of the best ones to help you pick the right one for you.</description>
+      <pubDate>Mon, 26 Oct 2026 01:10:00 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/25/5-best-apps-track-reading-discover-new-books/</guid>
+      <category>TechCrunch</category>
+    </item>
     <item>
       <title>Он создал хакерский форум Ramp4u и передал силовикам 1,5 миллиарда рублей</title>
       <link>https://habr.com/ru/articles/1099288/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099288</link>
@@ -63,30 +87,6 @@
       <pubDate>Sun, 25 Oct 2026 20:40:53 +0000</pubDate>
       <guid>https://habr.com/ru/articles/1099268/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099268</guid>
       <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Как один UI‑баг заставил меня разбираться с графом зависимостей целого приложения</title>
-      <link>https://habr.com/ru/articles/1099266/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099266</link>
-      <description>Есть такая категория задач, которые поначалу выглядят настолько безобидно, что ты даже не закладываешь на них много времени. Ну не обновился какой-то элемент интерфейса после авторизации, бывает. Скорее всего, где-нибудь потерялось событие, не обновилось состояние или кто-то забыл вызвать нужный метод. Открываешь проект, ставишь пару брейкпоинтов и рассчитываешь довольно быстро во всём разобраться. Примерно с таким настроением я и взялся за очередной UI-баг, а спустя какое-то время обнаружил себ</description>
-      <pubDate>Sun, 25 Oct 2026 20:40:36 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1099266/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099266</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>ProColpo: машинное обучение в анализе кольпоскопических изображений</title>
-      <link>https://habr.com/ru/articles/1099262/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099262</link>
-      <description>ри кольпоскопии врачу необходимо определить расположение изменений и выбрать участки для прицельной биопсии. ProColpo использует машинное обучение для проверки качества снимков и выделения кольпоскопических признаков. Программа создана на основе ML-модели, разработанной совместно с А. А. Безменко и его командой. В ходе проекта обработано более 15 000 изображений, более 12 000 аннотировано; создана собственная платформа разметки. Сейчас проводятся пилотные интеграции с российскими производителями</description>
-      <pubDate>Sun, 25 Oct 2026 20:36:09 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1099262/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099262</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>‘Cyberselfish’ author takes aim at techno-libertarianism as her book returns from the dead</title>
-      <link>https://techcrunch.com/2026/10/25/cyberselfish-author-takes-aim-at-techno-libertarianism-as-her-book-returns-from-the-dead/</link>
-      <description>"That's a 12-year-old view of the world."</description>
-      <pubDate>Sun, 25 Oct 2026 20:20:08 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/25/cyberselfish-author-takes-aim-at-techno-libertarianism-as-her-book-returns-from-the-dead/</guid>
-      <category>TechCrunch</category>
     </item>
   </channel>
 </rss>
