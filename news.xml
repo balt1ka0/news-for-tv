@@ -5,87 +5,87 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Mon, 26 Oct 2026 03:31:20 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 09:47:45 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Проверка подлинности GPT-6 Astra у пяти зарубежных API-роутеров: пеликан на велосипеде и фламинго на моноцикле</title>
-      <link>https://habr.com/ru/articles/1099304/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099304</link>
-      <description>В первой статье я сравнил ответы пяти API-роутеров с официальным API OpenAI на 30 задачах. Здесь продолжаю проверку GPT-6 Astra на двух SVG-заданиях: пеликан на велосипеде и фламинго на моноцикле. Показываю все изображения, сравниваю детали и свожу результаты вместе с ценами. Читать далее</description>
-      <pubDate>Mon, 26 Oct 2026 03:26:26 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1099304/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099304</guid>
+      <title>Загрузка образов в Kubernetes без паролей с Artifact Keeper</title>
+      <link>https://habr.com/ru/companies/beeline_tech/articles/1099316/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099316</link>
+      <description>С каждым новым кластером начинается одна и та же рутина: пароль от реестра нужно скопировать в каждый namespace, где будут загружать приватные образы, и повторить это при ротации. Кластеры создаются динамически, так что рутина не кончается, а в каждой копии пароль может протухнуть или утечь. В Kubernetes 1.34+ есть выход: kubelet может передать плагину токен ServiceAccount пода, для которого загружают образ, а плагин обменяет его в реестре на короткоживущие учётные данные только на чтение. Токен</description>
+      <pubDate>Mon, 26 Oct 2026 09:38:42 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/beeline_tech/articles/1099316/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099316</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Конец прекрасной эпохи — ИИ в руках хакеров</title>
-      <link>https://habr.com/ru/articles/1099292/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099292</link>
-      <description>Увы и ах. Осень 2026-го для российского сегмента ИТ выдалась напряжная. Изначально я хотел высказаться на тему другого яркого события октября — атак на Яндекс. И я обязательно сделаю это чуть позже, но сегодня поговорим о другом. Зато по горячим следам. Буквально на днях произошел довольно масштабный по меркам нашего ИТ взлом: атака на провайдеров через VMmanager. Подробности атаки расписывать смысла я не вижу — их полно как на Хабре, так и на других профильных ресурсах. Так зачем я пишу эту ста</description>
-      <pubDate>Mon, 26 Oct 2026 01:11:15 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1099292/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099292</guid>
+      <title>Smart Forms Pro: 10 преимуществ нового инструмента для подготовки отчетности</title>
+      <link>https://habr.com/ru/companies/visiology/articles/1098698/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098698</link>
+      <description>Проблемы подготовки отчетности на основе данных, собранных от разных сотрудников, хорошо известны: длительные сроки, ошибки, высокая стоимость процессов и влияние человеческого фактора. Однако переход на новую систему часто вызывает сопротивление персонала: сложившиеся за годы схемы работы никто не хочет менять. А что, если сохранить привычный формат работы, но отказаться от ручной обработки файлов, сверок и бесконечных согласований? Именно такой подход мы реализовали в Smart Forms Pro. В этой с</description>
+      <pubDate>Mon, 26 Oct 2026 09:24:20 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/visiology/articles/1098698/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098698</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>The best apps for tracking your reading and discovering new books</title>
-      <link>https://techcrunch.com/2026/10/25/5-best-apps-track-reading-discover-new-books/</link>
-      <description>There are numerous apps on the market that promise to do just that, so we’ve compiled a list of some of the best ones to help you pick the right one for you.</description>
-      <pubDate>Mon, 26 Oct 2026 01:10:00 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/25/5-best-apps-track-reading-discover-new-books/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>Он создал хакерский форум Ramp4u и передал силовикам 1,5 миллиарда рублей</title>
-      <link>https://habr.com/ru/articles/1099288/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099288</link>
-      <description>Приветствую всех, мои ночные читатели! На связи, как всегда, exkgb. Я исследую даркнет-площадки и делюсь с вами самой интересной информацией. В прошлой статье мы затронули администрацию Exploit, и, судя по статистике (всего 6% отказов), вам было очень интересно. На этот раз делаю обзор ransomware-форума Ramp4u[.]io. Сразу скажу: это не реклама, ресурс уже ликвидирован, поэтому я могу смело о нём писать. Читать далее</description>
-      <pubDate>Sun, 25 Oct 2026 23:33:08 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1099288/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099288</guid>
+      <title>Иерархия контекстов в Spring. High CVE в Axelix</title>
+      <link>https://habr.com/ru/companies/spring_aio/articles/1099408/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099408</link>
+      <description>Вступление Привет, Хабр! Меня зовут Михаил Поливаха, я Tech Lead проекта Axelix . Если Вы раньше про нас не слышали, то Axelix это платформа для управления и диагностики Spring Boot приложений. Ядро проекта доступно в Open Source, поэтому исходный код, история изменений и, как выяснилось, наши ошибки тоже открыты всем желающим 😁. Новости проекта, релизы и вот такие разборы мы публикуем в нашем Telegram-канале , заглядывайте. Недавно внешний security researcher Андрей Котов ( greatkaa ) нашёл в A</description>
+      <pubDate>Mon, 26 Oct 2026 09:13:23 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/spring_aio/articles/1099408/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099408</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>iFixit’s look inside the iPhone Duo may explain those broken screens and hinges</title>
-      <link>https://www.theverge.com/tech/1018233/ifixit-iphone-duo-teardown-repairability-hinge</link>
-      <description>As is tradition, iFixit has torn open the latest iPhone and laid its parts bare on a table. It found some interesting details about how Apple might be hiding the crease on the Duo's folding screen and gave it a 5/10 repairability score. That might not seem particularly high, but it's the best score the […]</description>
-      <pubDate>Sun, 25 Oct 2026 21:40:27 +0000</pubDate>
-      <guid>https://www.theverge.com/tech/1018233/ifixit-iphone-duo-teardown-repairability-hinge</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>Grok releases the first seven minutes of its AI-generated ‘Odyssey’</title>
-      <link>https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/</link>
-      <description>The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.</description>
-      <pubDate>Sun, 25 Oct 2026 21:31:16 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>Новый интерфейс для ВК Видео</title>
-      <link>https://habr.com/ru/articles/1099276/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099276</link>
-      <description>Да — это свершилось. В 2026 перед командой разработки ВК Видео стояла амбициозная задача — реализовать ряд инновационных функций, которые скопируют ведущие цифровые платформы. И эта задача на конец октября полностью выполнена. Читать далее</description>
-      <pubDate>Sun, 25 Oct 2026 21:23:56 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1099276/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099276</guid>
+      <title>Коэффициент виральности. Что это за метрика и зачем считать?</title>
+      <link>https://habr.com/ru/articles/1098694/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098694</link>
+      <description>В BigData МТС я занималась направлением сеть - а это базовые станции (БС, вышки) и всё, что с ними связано. Моя задача была увеличивать прибыль применяя ML. Я сама определяла на какие метрики и как она раскладывается. И вот, пришла идея посчитать сколько абонентов приводит с собой новый абонент в зависимости от разных факторов. Привет! Меня зовут Маша, я Senior Product Manager и разбираю только те продукты, над которыми сама хотела бы поработать, так как ими пользуюсь, люблю и вижу, где есть пот</description>
+      <pubDate>Mon, 26 Oct 2026 09:06:49 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1098694/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098694</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Scott Walker’s The Drift will get under your skin</title>
-      <link>https://www.theverge.com/entertainment/1018300/scott-walker-the-drift-music-album-review</link>
-      <description>In my mind, Spooky Season music comes in two distinct flavors. There are the fun, occasionally goofy songs like "The Monster Mash" and John Carpenter's "Halloween Theme." Then there is the genuinely terrifying: Throbbing Gristle, The Body, or Scott Walker's The Drift. This 2006 album from the singer-songwriter is truly upsetting. On it, Walker explores […]</description>
-      <pubDate>Sun, 25 Oct 2026 21:08:09 +0000</pubDate>
-      <guid>https://www.theverge.com/entertainment/1018300/scott-walker-the-drift-music-album-review</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>Токеномика для самых маленьких</title>
-      <link>https://habr.com/ru/articles/1099264/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099264</link>
-      <description>Кажется, мы довольно быстро привыкли к тому, что с нейросетью можно разговаривать почти как с человеком. Попросить написать код, пересказать статью, разобраться в документах. Потом уточнить. Потом ещё раз уточнить, потому что она опять сделала что-то не то. А где-то между «почти готово» и «ты зачем вообще это переписал?» заканчивается лимит. А иногда - ещё до первого ответа. Отправляешь запрос в Claude, он долго думает. Потом ещё думает. Ты уже начинаешь подозревать, что там решают что-то на уро</description>
-      <pubDate>Sun, 25 Oct 2026 20:51:38 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1099264/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099264</guid>
+      <title>Nikon D200, магия CCD</title>
+      <link>https://habr.com/ru/companies/ruvds/articles/1097788/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1097788</link>
+      <description>Эта камера появилась у меня почти случайно. Сидел на известной всем онлайн-барахолке и увидел лот за невысокую цену от продавца с хорошей репутацией. Я начинал свой путь в серьёзные камеры с Nikon и люблю его, поэтому ни секунды не колебался и написал продавцу. Оказалось, что он живёт в соседнем доме. Сделка состоялась молниеносно. Камера была в очень хорошем состоянии и, с его слов, почти всё время с момента покупки лежала на полке как резервная. Это происходило довольно давно, ещё до ренессанс</description>
+      <pubDate>Mon, 26 Oct 2026 09:01:28 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/ruvds/articles/1097788/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1097788</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Детский футбол без чатов: что болит у тренеров и родителей и как мы закрываем это кодом</title>
-      <link>https://habr.com/ru/articles/1099268/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099268</link>
-      <description>Мы делаем «Сбор - спортивные школы» — платформу для детских футбольных школ: расписание, посещаемость, взносы и матч-день в одном приложении для тренера, родителя и директора. На сервере Laravel 12, Livewire 3 и PostgreSQL, мобильное приложение написано на Flutter. Предметная область выглядит простой — календарь и список детей, — но почти каждая задача упирается в людей: родителей у ребёнка двое, детей у родителя трое, а тренер стоит на поле с телефоном в одной руке и мячом в другой. Ниже — пять</description>
-      <pubDate>Sun, 25 Oct 2026 20:40:53 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1099268/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099268</guid>
+      <title>Память в GoOS, часть 2. Нативные потоки, горутины и GC на SMP</title>
+      <link>https://habr.com/ru/articles/1099166/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099166</link>
+      <description>Как я рассказывал в первой части, реализация работы с памятью - довольно непростое занятие, и в первой части я рассказывал про сравнительно лёгкую область этой работы. Пока процесс однопоточный, сборщик мусора имеет дело с одним стеком, одним набором регистров и одной точкой выполнения. Как только появляется второй поток, он уже может одновременно менять кучу на другом процессорном ядре. А после появления горутин выполнение Go-кода вообще перестаёт быть жёстко связано с одним стеком нативного по</description>
+      <pubDate>Mon, 26 Oct 2026 09:01:28 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1099166/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099166</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Разбор инцидента LiteLLM 1.107.0: как увели релизный конвейер и почему подпись не помогла</title>
+      <link>https://habr.com/ru/articles/1099402/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099402</link>
+      <description>21 октября 2026 года на PyPI вышел litellm==1.107.0 со стилером учётных данных, а образы Docker с тем же тегом оказались заражены. LiteLLM — один из самых популярных open-source LLM-шлюзов: он хранит ключи ко всем вендорам моделей, которыми пользуется команда. Для LiteLLM это второй такой случай за год: в марте 2026 были скомпрометированы версии 1.82.7 и 1.82.8. Читать далее</description>
+      <pubDate>Mon, 26 Oct 2026 08:51:24 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1099402/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099402</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Как ИИ меняет разработку на 1С: практические эксперименты, ошибки и неожиданные результаты</title>
+      <link>https://habr.com/ru/companies/infostart/articles/1099398/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099398</link>
+      <description>Можно ли обучить нейросеть прямо на сервере 1С, настроить ИИ-агента без многочасовой отладки, ускорить сервер на 123% или доверить Claude Code разработку реальной конфигурации? Авторы публикаций на Инфостарте проверили это на практике - с конкретными цифрами, рабочими инструментами и ошибками, которые пришлось исправлять. В нашей свежей подборке - эксперименты с обучением нейросетей на встроенном языке 1С, оптимизация производительности под Proxmox KVM, использование ИИ для разработки и внедрени</description>
+      <pubDate>Mon, 26 Oct 2026 08:47:54 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/infostart/articles/1099398/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099398</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>UICC HOTP: генерируем одноразовые пароли на SIM-карте</title>
+      <link>https://habr.com/ru/articles/1098678/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098678</link>
+      <description>Всем привет! В прошлых статьях речь шла о возможностях смарт-карты, которые не получают должного освещения в публикациях, а именно: работа с ISD , создание своего SSD , сторонние библиотеки и криптография . Эти темы лишь часть огромного массива, который можно исследовать до самой китайской пасхи, а ведь хочется идти дальше, посмотреть, что еще интересного таит "Вселенная Java Card". По этой причине я решил долго здесь не задерживаться и идти к новым горизонтам. Итак, встречайте - UICC HOTP ! Чит</description>
+      <pubDate>Mon, 26 Oct 2026 08:44:12 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1098678/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098678</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Требования к паролям в 2026 году: что изменилось и как теперь защищать свои аккаунты</title>
+      <link>https://habr.com/ru/companies/abp2b/articles/1099394/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099394</link>
+      <description>Придумать пароль из восьми символов, обязательно добавить заглавную букву, цифру и специальный знак, а через три месяца повторить процедуру. Еще недавно подобные требования считались нормой корпоративной безопасности. Сегодня от многих из них рекомендуют отказаться. Пока пользователи придумывали все более сложные комбинации, злоумышленники научились использовать украденные пароли, перехватывать активные сессии и создавать убедительные фишинговые страницы. К привычным инструментам атак добавились</description>
+      <pubDate>Mon, 26 Oct 2026 08:42:47 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/abp2b/articles/1099394/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099394</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
   </channel>
