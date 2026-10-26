@@ -5,87 +5,87 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Mon, 26 Oct 2026 09:47:45 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 16:33:14 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Загрузка образов в Kubernetes без паролей с Artifact Keeper</title>
-      <link>https://habr.com/ru/companies/beeline_tech/articles/1099316/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099316</link>
-      <description>С каждым новым кластером начинается одна и та же рутина: пароль от реестра нужно скопировать в каждый namespace, где будут загружать приватные образы, и повторить это при ротации. Кластеры создаются динамически, так что рутина не кончается, а в каждой копии пароль может протухнуть или утечь. В Kubernetes 1.34+ есть выход: kubelet может передать плагину токен ServiceAccount пода, для которого загружают образ, а плагин обменяет его в реестре на короткоживущие учётные данные только на чтение. Токен</description>
-      <pubDate>Mon, 26 Oct 2026 09:38:42 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/beeline_tech/articles/1099316/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099316</guid>
+      <title>Сказ от Anthropic о том, как рой ИИ-агентов может превратиться в сборище бюрократов</title>
+      <link>https://habr.com/ru/articles/1099290/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099290</link>
+      <description>В статье Building agents: When to fold subagents into your main agent loop , опубликованной 22 октября 2026 года, Diane Sarkis из Anthropic описала случаи, в которых замера множества ИИ-агентов на одного агента с навыками и инструментами приводила к значительному повышению качества работы, снижению стоимости и времени выполнения запросов. Это выглядит так, как будто создать множество узкоспециализированных ИИ-агентов — во многих случаях не очень хорошая идея. Читать далее</description>
+      <pubDate>Mon, 26 Oct 2026 16:30:53 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1099290/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099290</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Smart Forms Pro: 10 преимуществ нового инструмента для подготовки отчетности</title>
-      <link>https://habr.com/ru/companies/visiology/articles/1098698/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098698</link>
-      <description>Проблемы подготовки отчетности на основе данных, собранных от разных сотрудников, хорошо известны: длительные сроки, ошибки, высокая стоимость процессов и влияние человеческого фактора. Однако переход на новую систему часто вызывает сопротивление персонала: сложившиеся за годы схемы работы никто не хочет менять. А что, если сохранить привычный формат работы, но отказаться от ручной обработки файлов, сверок и бесконечных согласований? Именно такой подход мы реализовали в Smart Forms Pro. В этой с</description>
-      <pubDate>Mon, 26 Oct 2026 09:24:20 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/visiology/articles/1098698/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098698</guid>
+      <title>PHP взломан, всё потеряно!?</title>
+      <link>https://habr.com/ru/articles/1099712/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099712</link>
+      <description>Внимание! Обнаружены две критические уязвимости удаленного выполнения кода (RCE) в PHP, отслеживаемых как CVE-2026-109618 и CVE-2026-109619 , публично раскрытых 21 октября 2026 года . Эти уязвимости позволяют злоумышленнику выполнять произвольный код на серверах, работающих под управлением PHP, что потенциально может привести к полной компрометации затронутой системы. Поскольку PHP используется в значительной части веб-технологий, включая WordPress, Drupal, Laravel и пользовательские приложения.</description>
+      <pubDate>Mon, 26 Oct 2026 16:18:19 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1099712/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099712</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Иерархия контекстов в Spring. High CVE в Axelix</title>
-      <link>https://habr.com/ru/companies/spring_aio/articles/1099408/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099408</link>
-      <description>Вступление Привет, Хабр! Меня зовут Михаил Поливаха, я Tech Lead проекта Axelix . Если Вы раньше про нас не слышали, то Axelix это платформа для управления и диагностики Spring Boot приложений. Ядро проекта доступно в Open Source, поэтому исходный код, история изменений и, как выяснилось, наши ошибки тоже открыты всем желающим 😁. Новости проекта, релизы и вот такие разборы мы публикуем в нашем Telegram-канале , заглядывайте. Недавно внешний security researcher Андрей Котов ( greatkaa ) нашёл в A</description>
-      <pubDate>Mon, 26 Oct 2026 09:13:23 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/spring_aio/articles/1099408/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099408</guid>
+      <title>Овеществление маркетинга: инструмент, а не панацея</title>
+      <link>https://habr.com/ru/articles/1099674/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099674</link>
+      <description>Недавно посмотрел выступление Павла Анненкова , владельца издательства «Редколлегия», на тему "Маркетинг будущего - маркетинг из прошлого". Его тезис: в эпоху ИИ, когда контент почти ничего не стоит, физические объекты (книги, журналы, мерч) становятся премиальным медиа, позволяют быстро пройти путь от внимания к памяти и обходятся дешевле цифры. Доклад живой и во многом точный, но ... с главным выводом я не согласен. Важен ещё и контекст: корпоративные книги и журналы — это бизнес самого Павла.</description>
+      <pubDate>Mon, 26 Oct 2026 16:14:50 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1099674/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099674</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Коэффициент виральности. Что это за метрика и зачем считать?</title>
-      <link>https://habr.com/ru/articles/1098694/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098694</link>
-      <description>В BigData МТС я занималась направлением сеть - а это базовые станции (БС, вышки) и всё, что с ними связано. Моя задача была увеличивать прибыль применяя ML. Я сама определяла на какие метрики и как она раскладывается. И вот, пришла идея посчитать сколько абонентов приводит с собой новый абонент в зависимости от разных факторов. Привет! Меня зовут Маша, я Senior Product Manager и разбираю только те продукты, над которыми сама хотела бы поработать, так как ими пользуюсь, люблю и вижу, где есть пот</description>
-      <pubDate>Mon, 26 Oct 2026 09:06:49 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1098694/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098694</guid>
+      <title>Ищем нишу для продукта с нейросетями на примере Excalidraw</title>
+      <link>https://habr.com/ru/articles/1099710/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099710</link>
+      <description>Компания NEOMSA представила практический подход к управлению доступом ИИ-агентов к внутренним API через протокол MCP. В центре внимания — выдача и отзыв полномочий, ограничение операций и данных, а также восстановление цепочки действий при расследовании инцидентов. Сценарии с ИИ-агентами переводят вопросы управления API из плоскости обычной аутентификации в область контроля конкретных действий. Действительный токен не означает, что агент должен иметь право выполнять любую доступную операцию: нео</description>
+      <pubDate>Mon, 26 Oct 2026 16:12:58 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1099710/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099710</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Nikon D200, магия CCD</title>
-      <link>https://habr.com/ru/companies/ruvds/articles/1097788/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1097788</link>
-      <description>Эта камера появилась у меня почти случайно. Сидел на известной всем онлайн-барахолке и увидел лот за невысокую цену от продавца с хорошей репутацией. Я начинал свой путь в серьёзные камеры с Nikon и люблю его, поэтому ни секунды не колебался и написал продавцу. Оказалось, что он живёт в соседнем доме. Сделка состоялась молниеносно. Камера была в очень хорошем состоянии и, с его слов, почти всё время с момента покупки лежала на полке как резервная. Это происходило довольно давно, ещё до ренессанс</description>
-      <pubDate>Mon, 26 Oct 2026 09:01:28 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/ruvds/articles/1097788/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1097788</guid>
+      <title>Instagram chases YouTube with a push for longer, widescreen videos</title>
+      <link>https://www.theverge.com/tech/1018688/instagram-longform-widescreen-video-features-youtube</link>
+      <description>Instagram is announcing a big push into longform horizontal video, which the platform is calling "Features." Instagram boss Adam Mosseri has been against doing longform video on the platform "for a long time," he says in a six-and-a-half-minute video (here's the widescreen version) with VP of product Tessa Lyons, saying that "one of my concerns […]</description>
+      <pubDate>Mon, 26 Oct 2026 16:05:44 +0000</pubDate>
+      <guid>https://www.theverge.com/tech/1018688/instagram-longform-widescreen-video-features-youtube</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>Microsoft offers buyouts to 60,000 employees</title>
+      <link>https://www.theverge.com/tech/1018666/microsoft-expands-buyouts-60000-employees-eligible</link>
+      <description>Microsoft is offering voluntary buyouts to up to 60,000 employees across the US, UK, Canada, and India. In a message to employees, Microsoft chief people officer Amy Coleman writes that this gives staff members "the opportunity to leave Microsoft with financial support and career planning resources" as the company looks to trim staff without another […]</description>
+      <pubDate>Mon, 26 Oct 2026 15:58:27 +0000</pubDate>
+      <guid>https://www.theverge.com/tech/1018666/microsoft-expands-buyouts-60000-employees-eligible</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>Microsoft offers buyouts to around 60,000 employees, reports say</title>
+      <link>https://techcrunch.com/2026/10/26/microsoft-offers-buyouts-to-around-60000-employees-reports-say/</link>
+      <description>The buyout offers mark Microsoft's latest efforts to cut costs and rework its workforce.</description>
+      <pubDate>Mon, 26 Oct 2026 15:58:25 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/26/microsoft-offers-buyouts-to-around-60000-employees-reports-say/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>Nano Banana 2.1 или ChatGPT Image 2.5: сравниваем нейросети для генерации изображений на 5 одинаковых промптах</title>
+      <link>https://habr.com/ru/companies/speshu_ai/articles/1099696/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099696</link>
+      <description>Nano Banana 2.1 и ChatGPT Image 2.5 решают похожую задачу: создают изображения по текстовому промпту и редактируют готовые картинки. Но после нескольких генераций становится понятно, что модели ошибаются по-разному. Одна точнее следует техническому заданию, другая лучше сохраняет лицо или делает визуал более «собранным». Сравнивать такие нейросети по одному красивому примеру бессмысленно. Для продуктового изображения важнее точность расположения объектов, для афиши — текст, для рекламного кадра </description>
+      <pubDate>Mon, 26 Oct 2026 15:40:07 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/speshu_ai/articles/1099696/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099696</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Память в GoOS, часть 2. Нативные потоки, горутины и GC на SMP</title>
-      <link>https://habr.com/ru/articles/1099166/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099166</link>
-      <description>Как я рассказывал в первой части, реализация работы с памятью - довольно непростое занятие, и в первой части я рассказывал про сравнительно лёгкую область этой работы. Пока процесс однопоточный, сборщик мусора имеет дело с одним стеком, одним набором регистров и одной точкой выполнения. Как только появляется второй поток, он уже может одновременно менять кучу на другом процессорном ядре. А после появления горутин выполнение Go-кода вообще перестаёт быть жёстко связано с одним стеком нативного по</description>
-      <pubDate>Mon, 26 Oct 2026 09:01:28 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1099166/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099166</guid>
-      <category>Все публикации подряд на Хабре</category>
+      <title>T-Mobile’s new plans include swappable subscription perks</title>
+      <link>https://www.theverge.com/tech/1018624/t-mobile-mix-plans-streaming-picks</link>
+      <description>T-Mobile is launching new "T-Mix" plans that bundle wireless service with subscriptions to services like Netflix, Apple TV, YouTube Premium, Xbox Game Pass Ultimate, device promotions, and more, as reported earlier by Fierce Network. The Standard plan starts at $55 / month (with autopay) for one line and one "Pick," which you can change up […]</description>
+      <pubDate>Mon, 26 Oct 2026 15:39:54 +0000</pubDate>
+      <guid>https://www.theverge.com/tech/1018624/t-mobile-mix-plans-streaming-picks</guid>
+      <category>The Verge</category>
     </item>
     <item>
-      <title>Разбор инцидента LiteLLM 1.107.0: как увели релизный конвейер и почему подпись не помогла</title>
-      <link>https://habr.com/ru/articles/1099402/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099402</link>
-      <description>21 октября 2026 года на PyPI вышел litellm==1.107.0 со стилером учётных данных, а образы Docker с тем же тегом оказались заражены. LiteLLM — один из самых популярных open-source LLM-шлюзов: он хранит ключи ко всем вендорам моделей, которыми пользуется команда. Для LiteLLM это второй такой случай за год: в марте 2026 были скомпрометированы версии 1.82.7 и 1.82.8. Читать далее</description>
-      <pubDate>Mon, 26 Oct 2026 08:51:24 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1099402/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099402</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Как ИИ меняет разработку на 1С: практические эксперименты, ошибки и неожиданные результаты</title>
-      <link>https://habr.com/ru/companies/infostart/articles/1099398/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099398</link>
-      <description>Можно ли обучить нейросеть прямо на сервере 1С, настроить ИИ-агента без многочасовой отладки, ускорить сервер на 123% или доверить Claude Code разработку реальной конфигурации? Авторы публикаций на Инфостарте проверили это на практике - с конкретными цифрами, рабочими инструментами и ошибками, которые пришлось исправлять. В нашей свежей подборке - эксперименты с обучением нейросетей на встроенном языке 1С, оптимизация производительности под Proxmox KVM, использование ИИ для разработки и внедрени</description>
-      <pubDate>Mon, 26 Oct 2026 08:47:54 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/infostart/articles/1099398/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099398</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>UICC HOTP: генерируем одноразовые пароли на SIM-карте</title>
-      <link>https://habr.com/ru/articles/1098678/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098678</link>
-      <description>Всем привет! В прошлых статьях речь шла о возможностях смарт-карты, которые не получают должного освещения в публикациях, а именно: работа с ISD , создание своего SSD , сторонние библиотеки и криптография . Эти темы лишь часть огромного массива, который можно исследовать до самой китайской пасхи, а ведь хочется идти дальше, посмотреть, что еще интересного таит "Вселенная Java Card". По этой причине я решил долго здесь не задерживаться и идти к новым горизонтам. Итак, встречайте - UICC HOTP ! Чит</description>
-      <pubDate>Mon, 26 Oct 2026 08:44:12 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1098678/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098678</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Требования к паролям в 2026 году: что изменилось и как теперь защищать свои аккаунты</title>
-      <link>https://habr.com/ru/companies/abp2b/articles/1099394/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099394</link>
-      <description>Придумать пароль из восьми символов, обязательно добавить заглавную букву, цифру и специальный знак, а через три месяца повторить процедуру. Еще недавно подобные требования считались нормой корпоративной безопасности. Сегодня от многих из них рекомендуют отказаться. Пока пользователи придумывали все более сложные комбинации, злоумышленники научились использовать украденные пароли, перехватывать активные сессии и создавать убедительные фишинговые страницы. К привычным инструментам атак добавились</description>
-      <pubDate>Mon, 26 Oct 2026 08:42:47 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/abp2b/articles/1099394/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099394</guid>
+      <title>Как реализовать трехмерную сервисную модель для обслуживания корпоративных заказчиков: опыт компании «Мобиус»</title>
+      <link>https://habr.com/ru/companies/okdesk/articles/1099694/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099694</link>
+      <description>Привет, Хабр! Это команда интернет‑газеты о сервисном бизнесе «Заявка закрыта» – проекта Okdesk , платформы для управления заявками, выездным обслуживанием и ТОиР. Мы регулярно делимся практическими материалами, которые помогают сервисным компаниям работать эффективнее и зарабатывать больше – без лишней теории и воды. Сегодня расскажем, как компания «Мобиус» перестроила техническую поддержку корпоративных заказчиков и реализовала в Okdesk трехмерную сервисную модель с несколькими линиями поддерж</description>
+      <pubDate>Mon, 26 Oct 2026 15:38:39 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/okdesk/articles/1099694/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099694</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
   </channel>
