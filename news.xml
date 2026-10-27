@@ -5,88 +5,88 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Tue, 27 Oct 2026 19:17:59 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 23:32:43 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[Перевод] Фаззер против ИИ-агента на V8: 37 и 45 уязвимостей за полгода, общих — четверть</title>
-      <link>https://habr.com/ru/articles/1100292/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100292</link>
-      <description>В Project Zero сравнили два конвейера, которые постоянно ищут уязвимости в V8, JavaScript-движке Chrome: фаззер Fuzzilli работает непрерывно, LLM-агент BigSleep раз в сутки просматривает новые коммиты. За апрель–сентябрь 2026 года после очистки от дубликатов и «нерабочих» репортов у BigSleep 45 исправленных уязвимостей, у Fuzzilli 37. Пересечение считали отдельно, с дополнительным поиском дубликатов через коммиты-исправления и базу Clusterfuzz: общими оказались 20 из 81 репорта, около четверти. </description>
-      <pubDate>Tue, 27 Oct 2026 19:13:24 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1100292/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100292</guid>
+      <title>Переводчик в каждый дом</title>
+      <link>https://habr.com/ru/articles/1096680/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1096680</link>
+      <description>Одно время я очень боялся проходить собеседования на английском. При том, что знаю его неплохо и даже 2 года жил в США. Тем не менее, долгий перерыв в голосовом общении дает о себе знать. Особенно меня беспокоит то, что я могу не понять что именно мне говорят во время созвона. Но оказалось, что это не очень страшно...</description>
+      <pubDate>Tue, 27 Oct 2026 23:14:10 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1096680/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1096680</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Disruptive raises $10B fund to make big bets on at least 10 companies</title>
-      <link>https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/</link>
-      <description>Disruptive has made headlines in recent years for pouring money into companies like chip startup Groq and the AI voice-generation startup ElevenLabs.</description>
-      <pubDate>Tue, 27 Oct 2026 18:55:35 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/</guid>
+      <title>The data center boom has an upside: innovation for the US grid</title>
+      <link>https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/</link>
+      <description>As the AI boom stresses the existing power grid, all sorts of new opportunities for grid modernization are also emerging as a result, industry insiders say.</description>
+      <pubDate>Tue, 27 Oct 2026 22:55:41 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/</guid>
       <category>TechCrunch</category>
     </item>
     <item>
-      <title>Trump is making it easier for fossil fuel companies to leak methane</title>
-      <link>https://www.theverge.com/policy/1019691/gas-leak-methane-rule-rollback-trump</link>
-      <description>In its latest gift to oil and gas companies, the Trump administration is expected to announce plans today to weaken rules that guard against methane leaks. Methane is a smog-forming pollutant and a powerful greenhouse gas that's up to 80 times as potent as carbon dioxide on a 20-year horizon. It's the primary component of […]</description>
-      <pubDate>Tue, 27 Oct 2026 18:25:13 +0000</pubDate>
-      <guid>https://www.theverge.com/policy/1019691/gas-leak-methane-rule-rollback-trump</guid>
+      <title>Here’s why the iPhone Duo’s hinge could be cracking the screen</title>
+      <link>https://www.theverge.com/tech/1020145/iphone-duo-crackgate-broken-screen-hinge</link>
+      <description>Within hours of the iPhone Duo launch last Friday, people reported that the inner screen on some brand new foldable phones was already broken. The issue was similar across many photos shared on social media: some kind of issue or crack would appear in the middle of the screen above the hinge, with lines appearing […]</description>
+      <pubDate>Tue, 27 Oct 2026 22:55:05 +0000</pubDate>
+      <guid>https://www.theverge.com/tech/1020145/iphone-duo-crackgate-broken-screen-hinge</guid>
       <category>The Verge</category>
     </item>
     <item>
-      <title>Синтетические данные для тестирования: пошаговый гайд</title>
-      <link>https://habr.com/ru/articles/1100276/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100276</link>
-      <description>Как построить конвейер обезличенных синтетических данных и убедиться, что они не врут? Собрал полезную статью для руководителей разработки и QA, продакт-менеджеров и всех, кто работает с тестовым контуром. Я уже более 10 лет работаю с тестовыми средами, и раньше делал ошибку: выгружал из прода 200 000 строк, менял фамилии на обезличенные шаблоны, и считал, что все окей. А затем как-то заметил, что в выгрузке остались номера договоров. Мне повезло, что именно я нашел их первым, особенно учитывая </description>
-      <pubDate>Tue, 27 Oct 2026 18:03:36 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1100276/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100276</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>VisionQuest is what happens when AI really goes rogue</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai</link>
-      <description>In Marvel's VisionQuest, a superpowered robot tries to better understand humanity by getting lost in elaborate, digital daydreams in which he and other artificial intelligence-powered beings live together in a home. The series is deeply fantastical, yet it plays with some of the ideas that have come to dominate the conversation about real-world generative artificial […]</description>
-      <pubDate>Tue, 27 Oct 2026 17:30:00 +0000</pubDate>
-      <guid>https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>Языковые страны Европы</title>
-      <link>https://habr.com/ru/articles/1100192/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100192</link>
-      <description>Как известно, язык — одна из главных основ национального самоопределения. Языковая карта мира медленно, но меняется. Наречия дробятся на диалекты, а диалекты со временем становятся самостоятельными. Вступая в контакт, языки сближаются — или, наоборот, вытесняют друг друга. А иные исчезают полностью, когда говорить на них становится некому. Сейчас сложные операции с данными доступны даже ребёнку. Возникает вопрос: можно ли, используя знания о языках, в разное время наполнявших Землю, об их родств</description>
-      <pubDate>Tue, 27 Oct 2026 17:22:08 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1100192/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100192</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Как я поселил Claude в Яндекс.Станцию Мини</title>
-      <link>https://habr.com/ru/articles/1100268/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100268</link>
-      <description>Отдельная линия этой истории: я делал всё это в паре с Claude Code . И где-то к середине проекта поймал себя на забавной мысли — Claude Code, по сути, собирал своего же младшего брата : маленького Claude, который теперь живёт внутри колонки и откликается на «Клод». Старший пишет код, отлаживает, диагностирует — чтобы младший поселился в железке и заговорил. Дальше эта мысль меня уже не отпускала. Читать далее</description>
-      <pubDate>Tue, 27 Oct 2026 17:14:03 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1100268/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100268</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?</title>
-      <link>https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/</link>
-      <description>TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery.</description>
-      <pubDate>Tue, 27 Oct 2026 17:08:08 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/</guid>
+      <title>Guidewire buys Hyperexponential for $1.7B in cash</title>
+      <link>https://techcrunch.com/2026/10/27/guidewire-buys-hyperexponential-for-1-7b-in-cash/</link>
+      <description>The deal, expected to close sometime next year, is to help bring AI agents to work alongside humans to underwrite, analyze, and price decisions.</description>
+      <pubDate>Tue, 27 Oct 2026 22:26:03 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/27/guidewire-buys-hyperexponential-for-1-7b-in-cash/</guid>
       <category>TechCrunch</category>
     </item>
     <item>
-      <title>The Super Mouse puts a touchscreen macro pad under your hand</title>
-      <link>https://www.theverge.com/tech/1019484/super-mouse-touchscreen-shortcuts-macros-kickstarter</link>
-      <description>A company called Arctic Fox Technologies has announced a new multifunction mouse that forgoes a myriad of customizable shortcut buttons peppered across its surface for a compact touchscreen sitting beneath your hand. The Super Mouse may not prioritize ergonomics with its boxy design, but it can replace other peripherals on your desk, like a trackpad, […]</description>
-      <pubDate>Tue, 27 Oct 2026 17:00:00 +0000</pubDate>
-      <guid>https://www.theverge.com/tech/1019484/super-mouse-touchscreen-shortcuts-macros-kickstarter</guid>
-      <category>The Verge</category>
+      <title>From 8VC to Benchmark, here’s what’s hiding in October SEC filings</title>
+      <link>https://techcrunch.com/2026/10/27/from-8vc-to-benchmark-heres-whats-hiding-in-october-sec-filings/</link>
+      <description>A whole crop of venture capital firms are raising significant new funds.</description>
+      <pubDate>Tue, 27 Oct 2026 22:17:18 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/27/from-8vc-to-benchmark-heres-whats-hiding-in-october-sec-filings/</guid>
+      <category>TechCrunch</category>
     </item>
     <item>
-      <title>Anthropic’s elaborate plan to keep Wall Street at bay</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety</link>
-      <description>Anthropic wants to have it both ways. With its impending IPO, it wants to tap the vast riches of the public markets and insists it doesn't want to compromise its core mission of developing AI safely and for the benefit of humanity. But greater model capabilities bring greater risks, and shareholders eager for returns may […]</description>
-      <pubDate>Tue, 27 Oct 2026 16:51:22 +0000</pubDate>
-      <guid>https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety</guid>
-      <category>The Verge</category>
+      <title>GM is embracing hybrids now</title>
+      <link>https://techcrunch.com/2026/10/27/gm-is-embracing-hybrids-now/</link>
+      <description>GM eschewed hybrids in favor of battery-electric vehicles. Now it's gearing up to offer hybrid versions of its SUVs.</description>
+      <pubDate>Tue, 27 Oct 2026 21:47:02 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/27/gm-is-embracing-hybrids-now/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>Bank of America kindly asks that you don’t share your banking password with your AI assistant</title>
+      <link>https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/</link>
+      <description>The banking giant reminds customers that "you're responsible for activity" resulting from your AI agents' access.</description>
+      <pubDate>Tue, 27 Oct 2026 21:44:34 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>Who’s really in charge at Anthropic after the IPO?</title>
+      <link>https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/</link>
+      <description>Here's a clear explanation of Anthropic's incredibly complex governance structure.</description>
+      <pubDate>Tue, 27 Oct 2026 21:38:28 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>Атака на VMmanager 6 — хронология инцидента, разбор использовавшихся уязвимостей и ситуация сейчас</title>
+      <link>https://habr.com/ru/companies/ispsystem/articles/1100330/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100330</link>
+      <description>Привет, Хабр. Наверняка многие из вас уже слышали о недавнем инциденте безопасности, затронувшем платформу управления виртуализацией VMmanager 6. Ситуация вызвала активные обсуждения в профессиональном сообществе, и мы считаем важным открыто поделиться техническими деталями произошедшего. В этой статье мы расскажем, что именно произошло с VMmanager, обсудим всю цепочку инцидента, сами уязвимости и в каком состоянии платформа находится сейчас. Читать далее</description>
+      <pubDate>Tue, 27 Oct 2026 21:27:08 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/ispsystem/articles/1100330/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100330</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Discord is making its public communities more searchable, and people have concerns</title>
+      <link>https://techcrunch.com/2026/10/27/discord-is-making-its-public-communities-more-searchable-and-people-have-concerns/</link>
+      <description>In December, messages from Discord's public discoverable servers will begin appearing in search engine results.</description>
+      <pubDate>Tue, 27 Oct 2026 21:22:35 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/27/discord-is-making-its-public-communities-more-searchable-and-people-have-concerns/</guid>
+      <category>TechCrunch</category>
     </item>
   </channel>
 </rss>
