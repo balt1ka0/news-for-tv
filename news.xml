@@ -5,9 +5,57 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Mon, 26 Oct 2026 21:24:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 01:12:37 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cohere says Alibaba’s Qwen model tried to send a file to Beijing</title>
+      <link>https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/</link>
+      <description>An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a training quirk and not espionage, the whole thing has people asking how much to trust free Chinese AI.</description>
+      <pubDate>Tue, 27 Oct 2026 01:12:21 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>Автотюн по кусочкам: как Auto-Tune и Nectar пересобирают голос</title>
+      <link>https://habr.com/ru/articles/1099804/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099804</link>
+      <description>Певец держит одну ноту, а обработанный голос на мгновение перескакивает на октаву. Такое случается, когда плагин принимает сильную гармонику за основной тон. Чем быстрее коррекция, тем заметнее может стать этот промах. Разберу, как Auto-Tune Artist 9.x и модуль Pitch из Nectar 4 определяют высоту и что делают с волной после выбора ноты. Здесь есть интересные различия: как удержать оценку на ровном звуке, прочитать запись между сэмплами, перенести фрагмент без щелчка. На этих деталях и остановлюс</description>
+      <pubDate>Tue, 27 Oct 2026 00:15:13 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1099804/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099804</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>OpenAI announces three big science discoveries and a new way to work with academics</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics</link>
+      <description>Less than a month after its mass release of hundreds of manuscripts that it said contained solutions to long-standing mathematics questions, OpenAI is back with three more "major" discoveries in math, computer science, and physics. What's different this time is the choice to have external experts that OpenAI describes as "shepherds" guiding the results in […]</description>
+      <pubDate>Mon, 26 Oct 2026 23:34:58 +0000</pubDate>
+      <guid>https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>Databricks co-founder shares his secrets for winning big enterprise customers</title>
+      <link>https://techcrunch.com/2026/10/26/databricks-co-founder-shares-his-secrets-for-winning-big-enterprises-customers/</link>
+      <description>Turns out selling to big companies isn’t about having the shiniest tech: It’s about hitching a ride on a giant’s sales team.</description>
+      <pubDate>Mon, 26 Oct 2026 22:00:00 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/26/databricks-co-founder-shares-his-secrets-for-winning-big-enterprises-customers/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>Samsung’s Switch 2-ready MicroSD Express card is on sale for less than $50</title>
+      <link>https://www.theverge.com/gadgets/1018962/samsung-p9-256gb-microsd-express-card-switch-2-deal-sale</link>
+      <description>Running out of space on your Nintendo Switch 2? Thankfully, Samsung’s P9 MicroSD Express card is discounted at multiple retailers, with the 256GB version going for $47.99 (Amazon, B&amp;H Photo) and the 512GB version $99 (Amazon, B&amp;H Photo). The smaller card typically sells for around $80, and the larger option usually sells between $150 and […]</description>
+      <pubDate>Mon, 26 Oct 2026 21:56:36 +0000</pubDate>
+      <guid>https://www.theverge.com/gadgets/1018962/samsung-p9-256gb-microsd-express-card-switch-2-deal-sale</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>Anthropic is burning gas to feed the AI boom</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk</link>
+      <description>As it prepares to go public, Anthropic's S-1 filing makes generative AI's methane dependency glaringly obvious. "Competition for access to electrical supply and data center locations with adequate power availability is intense." In documents filed with the US Securities and Exchange Commission Monday, Anthropic acknowledges that data centers are becoming increasingly reliant on "natural gas" […]</description>
+      <pubDate>Mon, 26 Oct 2026 21:45:31 +0000</pubDate>
+      <guid>https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk</guid>
+      <category>The Verge</category>
+    </item>
     <item>
       <title>Просто сделать игру недостаточно</title>
       <link>https://habr.com/ru/articles/1093014/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093014</link>
@@ -17,9 +65,9 @@
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Watch out, YouTube; Instagram goes from short-form to 90-minute videos</title>
+      <title>Watch out, YouTube — Instagram goes from short-form to 90-minute videos</title>
       <link>https://techcrunch.com/2026/10/26/watch-out-youtube-instagram-goes-from-short-form-to-90-minute-videos/</link>
-      <description>As Instagram rolls out long form videos of up to 90 minutes, the platform has an opportunity to challenge YouTube if it plays its cards right.</description>
+      <description>After years in which every social platform (even LinkedIn!) aggressively pursued short-form video, this is a notable shift in strategy for Instagram.</description>
       <pubDate>Mon, 26 Oct 2026 21:05:11 +0000</pubDate>
       <guid>https://techcrunch.com/2026/10/26/watch-out-youtube-instagram-goes-from-short-form-to-90-minute-videos/</guid>
       <category>TechCrunch</category>
@@ -27,7 +75,7 @@
     <item>
       <title>Как я писал эмуляцию звука для Nintendo Gameboy на C++ целый год</title>
       <link>https://habr.com/ru/articles/1099784/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099784</link>
-      <description>В этой статье я расскажу, как устроена звуковая подсистема Nintendo Gameboy, с какими проблемами я столкнулся, пытаясь в реальном времени генерировать звук и синхронизировать с ним картинку. Статья является продолжением моей прошлой публикации ( https://habr.com/ru/articles/908752/ ). Читать далее</description>
+      <description>В этой статье я расскажу, как устроена звуковая подсистема Nintendo Gameboy, с какими проблемами я столкнулся, пытаясь в реальном времени генерировать звук и синхронизировать с ним картинку. Статья является продолжением моей прошлой публикации . Читать далее</description>
       <pubDate>Mon, 26 Oct 2026 20:58:04 +0000</pubDate>
       <guid>https://habr.com/ru/articles/1099784/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099784</guid>
       <category>Все публикации подряд на Хабре</category>
@@ -39,54 +87,6 @@
       <pubDate>Mon, 26 Oct 2026 20:01:58 +0000</pubDate>
       <guid>https://habr.com/ru/companies/kaspersky/articles/1099774/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099774</guid>
       <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Компьютер начал подвисать, когда на нём заработали ИИ-агенты. Нашлись две причины</title>
-      <link>https://habr.com/ru/articles/1099768/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099768</link>
-      <description>Мой домашний компьютер начал подвисать, когда на нём почти круглосуточно заработали ИИ-агенты. Я спросил в чате одной строкой, почему он тормозит, и получил две причины, которые сам искал бы долго: встроенный Defender проверял каждый из десятков тысяч файлов, которые пишут агенты, а сами агенты, вопреки инструкции, складывали гигабайты на диск C. Рассказываю, как это проверить руками, что мы исправили и чем за это пришлось заплатить. Загрузка процессора упала с 67% до 12%. Читать далее</description>
-      <pubDate>Mon, 26 Oct 2026 19:40:17 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1099768/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099768</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Uh-oh, it sounds like the iPhone Duo keeps cracking and users aren’t happy about it</title>
-      <link>https://techcrunch.com/2026/10/26/uh-oh-it-sounds-like-the-iphone-duo-keeps-cracking-and-users-arent-happy-about-it/</link>
-      <description>A small number of early adopters of the much-hyped new foldable phone from Apple have complained of screens cracking.</description>
-      <pubDate>Mon, 26 Oct 2026 19:22:40 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/26/uh-oh-it-sounds-like-the-iphone-duo-keeps-cracking-and-users-arent-happy-about-it/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>[Перевод] У парадокса голосования нашлась форма: это бутылка Клейна</title>
-      <link>https://habr.com/ru/articles/1099764/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099764</link>
-      <description>Три равные группы избирателей, три кандидата, у каждой группы вполне связный рейтинг, а при попарном сравнении Алиса обыгрывает Боба, Боб обыгрывает Кэрол, Кэрол обыгрывает Алису. Этот цикл описал Кондорсе в 1785 году, а в 1951-м Кеннет Эрроу доказал, что ни одна система голосования не выполняет сразу несколько простых демократических требований. Теперь трое математиков из Сиднея и Ченнаи показали, что у парадокса есть форма. Если изобразить каждый из шести возможных бюллетеней треугольником и с</description>
-      <pubDate>Mon, 26 Oct 2026 19:08:42 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1099764/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099764</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Fusion startups are giving the government shares in exchange for awards. Is it worth it?</title>
-      <link>https://techcrunch.com/2026/10/26/fusion-startups-are-giving-the-government-shares-in-exchange-for-awards-is-it-worth-it/</link>
-      <description>Fusion startups face a new challenge, one unrelated to plasma physics: Give the government shares in exchange for funding awards or go it alone?</description>
-      <pubDate>Mon, 26 Oct 2026 18:59:52 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/26/fusion-startups-are-giving-the-government-shares-in-exchange-for-awards-is-it-worth-it/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>iPhone Duo now supports Apple Pencil with iOS 27.2</title>
-      <link>https://www.theverge.com/tech/1018827/ios-27-2-iphone-duo-apple-pencil</link>
-      <description>Apple has just released iOS 27.2, bringing Apple Pencil support to the iPhone Duo. The software update also includes an "Edge Light" feature for the iPhone Duo that's intended to illuminate your face during video calls. Apple previously said the iPhone Duo would add support for the Apple Pencil "later this year." The company's first […]</description>
-      <pubDate>Mon, 26 Oct 2026 18:51:06 +0000</pubDate>
-      <guid>https://www.theverge.com/tech/1018827/ios-27-2-iphone-duo-apple-pencil</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>The NBA’s response to gambling scandals is to add more gambling partnerships</title>
-      <link>https://www.theverge.com/entertainment/1018818/nba-kalshi-polymarket</link>
-      <description>From the bright minds that brought you FTX Arena and NBA Top Shot NFT maketplace (where sales last month dropped to $762,781, which is a 99.66 percent decrease compared to the February 2021 peak of $226,350,843), the NBA announced Monday that it has new "preferred" prediction market deals for Kalshi and Polymarket, as well as […]</description>
-      <pubDate>Mon, 26 Oct 2026 18:22:06 +0000</pubDate>
-      <guid>https://www.theverge.com/entertainment/1018818/nba-kalshi-polymarket</guid>
-      <category>The Verge</category>
     </item>
   </channel>
 </rss>
