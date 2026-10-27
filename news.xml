@@ -5,87 +5,87 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Tue, 27 Oct 2026 01:12:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 07:22:55 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Cohere says Alibaba’s Qwen model tried to send a file to Beijing</title>
-      <link>https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/</link>
-      <description>An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a training quirk and not espionage, the whole thing has people asking how much to trust free Chinese AI.</description>
-      <pubDate>Tue, 27 Oct 2026 01:12:21 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>Автотюн по кусочкам: как Auto-Tune и Nectar пересобирают голос</title>
-      <link>https://habr.com/ru/articles/1099804/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099804</link>
-      <description>Певец держит одну ноту, а обработанный голос на мгновение перескакивает на октаву. Такое случается, когда плагин принимает сильную гармонику за основной тон. Чем быстрее коррекция, тем заметнее может стать этот промах. Разберу, как Auto-Tune Artist 9.x и модуль Pitch из Nectar 4 определяют высоту и что делают с волной после выбора ноты. Здесь есть интересные различия: как удержать оценку на ровном звуке, прочитать запись между сэмплами, перенести фрагмент без щелчка. На этих деталях и остановлюс</description>
-      <pubDate>Tue, 27 Oct 2026 00:15:13 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1099804/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099804</guid>
+      <title>Как нейросети оживляют фото: большой разбор. Часть 2</title>
+      <link>https://habr.com/ru/companies/speshu_ai/articles/1099862/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099862</link>
+      <description>В первой части мы поговорили о техничке, теперь поговорим о практике. Узнайте, как генерируются видео в разных нейросетях, какие ограничения нужно учитывать, и получите 12 трендовых промптов. Читать далее</description>
+      <pubDate>Tue, 27 Oct 2026 07:17:58 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/speshu_ai/articles/1099862/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099862</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>OpenAI announces three big science discoveries and a new way to work with academics</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics</link>
-      <description>Less than a month after its mass release of hundreds of manuscripts that it said contained solutions to long-standing mathematics questions, OpenAI is back with three more "major" discoveries in math, computer science, and physics. What's different this time is the choice to have external experts that OpenAI describes as "shepherds" guiding the results in […]</description>
-      <pubDate>Mon, 26 Oct 2026 23:34:58 +0000</pubDate>
-      <guid>https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>Databricks co-founder shares his secrets for winning big enterprise customers</title>
-      <link>https://techcrunch.com/2026/10/26/databricks-co-founder-shares-his-secrets-for-winning-big-enterprises-customers/</link>
-      <description>Turns out selling to big companies isn’t about having the shiniest tech: It’s about hitching a ride on a giant’s sales team.</description>
-      <pubDate>Mon, 26 Oct 2026 22:00:00 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/26/databricks-co-founder-shares-his-secrets-for-winning-big-enterprises-customers/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>Samsung’s Switch 2-ready MicroSD Express card is on sale for less than $50</title>
-      <link>https://www.theverge.com/gadgets/1018962/samsung-p9-256gb-microsd-express-card-switch-2-deal-sale</link>
-      <description>Running out of space on your Nintendo Switch 2? Thankfully, Samsung’s P9 MicroSD Express card is discounted at multiple retailers, with the 256GB version going for $47.99 (Amazon, B&amp;H Photo) and the 512GB version $99 (Amazon, B&amp;H Photo). The smaller card typically sells for around $80, and the larger option usually sells between $150 and […]</description>
-      <pubDate>Mon, 26 Oct 2026 21:56:36 +0000</pubDate>
-      <guid>https://www.theverge.com/gadgets/1018962/samsung-p9-256gb-microsd-express-card-switch-2-deal-sale</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>Anthropic is burning gas to feed the AI boom</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk</link>
-      <description>As it prepares to go public, Anthropic's S-1 filing makes generative AI's methane dependency glaringly obvious. "Competition for access to electrical supply and data center locations with adequate power availability is intense." In documents filed with the US Securities and Exchange Commission Monday, Anthropic acknowledges that data centers are becoming increasingly reliant on "natural gas" […]</description>
-      <pubDate>Mon, 26 Oct 2026 21:45:31 +0000</pubDate>
-      <guid>https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>Просто сделать игру недостаточно</title>
-      <link>https://habr.com/ru/articles/1093014/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093014</link>
-      <description>В мае 2017 года я преисполнился успехом своей карточной настолки (настоящей из бумаги, про стартап) на локальных питерских тусовках и решил перенести её на ПК. Знаете как бывает, что идея сверлит мозг, потом эти вибрации передаются в руки, они сами вечерами что-то пишут, и в какой-то момент вы оказываетесь обладателем работающего концепта и, обычно, так начинается большинство независимых игровых проектов, которые потом никто никогда не увидит. Замахиваться на вершины геймдева было страшно, поско</description>
-      <pubDate>Mon, 26 Oct 2026 21:15:17 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1093014/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1093014</guid>
+      <title>Автоматизация тестирования: возьми от IT всё</title>
+      <link>https://habr.com/ru/companies/2gis/articles/1097934/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1097934</link>
+      <description>Привет! Меня зовут Антон, я специалист по автоматизации тестирования (AQA) в 2ГИС. В автоматизацию я пришёл из Python backend-разработки. Так вышло, что среди обычных задач мне захотелось попробовать написать e2e-тесты. В итоге тестирование стало моей основной работой. Обычно про карьерный путь рассказывают в обратном направлении: начал с тестирования, а потом перешёл в разработку. У меня получилось иначе. Поэтому я хочу ответить себе и вам на вопрос: «Почему я продолжаю работать в тестировании,</description>
+      <pubDate>Tue, 27 Oct 2026 07:12:15 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/2gis/articles/1097934/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1097934</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Watch out, YouTube — Instagram goes from short-form to 90-minute videos</title>
-      <link>https://techcrunch.com/2026/10/26/watch-out-youtube-instagram-goes-from-short-form-to-90-minute-videos/</link>
-      <description>After years in which every social platform (even LinkedIn!) aggressively pursued short-form video, this is a notable shift in strategy for Instagram.</description>
-      <pubDate>Mon, 26 Oct 2026 21:05:11 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/26/watch-out-youtube-instagram-goes-from-short-form-to-90-minute-videos/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>Как я писал эмуляцию звука для Nintendo Gameboy на C++ целый год</title>
-      <link>https://habr.com/ru/articles/1099784/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099784</link>
-      <description>В этой статье я расскажу, как устроена звуковая подсистема Nintendo Gameboy, с какими проблемами я столкнулся, пытаясь в реальном времени генерировать звук и синхронизировать с ним картинку. Статья является продолжением моей прошлой публикации . Читать далее</description>
-      <pubDate>Mon, 26 Oct 2026 20:58:04 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1099784/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099784</guid>
+      <title>AI-менеджер для WB, Ozon и Маркета: почему мы начали с регулярок, а не с агента</title>
+      <link>https://habr.com/ru/articles/1099778/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099778</link>
+      <description>Мы делаем AI-менеджера для селлеров на Wildberries, Ozon и Яндекс Маркете — сотрудника, у которого в руках цены, остатки и рекламные бюджеты. И сознательно не дали нейросети свободы: что можно сделать, решает закрытый список операций и регулярки, модель только выбирает из разрешённого, а любые деньги уходят в кабинет площадки только по кнопке владельца. Рассказываем, как устроен первый прототип, почему мы начали именно так и что проверяем на живых кабинетах. Читать далее</description>
+      <pubDate>Tue, 27 Oct 2026 07:11:53 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1099778/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099778</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Security Week 2644: активная эксплуатация уязвимостей PHP2Shell</title>
-      <link>https://habr.com/ru/companies/kaspersky/articles/1099774/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099774</link>
-      <description>Уязвимости в ядре PHP (CVE-2026-109618 и CVE-2026-109619, коллективно именуемые PHP2Shell) — это, безусловно, самая важная новость прошлой недели. Во вторник, 20 октября, разработчики PHP анонсировали патчи, в среду выпустили обновления для поддерживаемых веток PHP 8.2–8.5 и неподдерживаемых PHP 7.4, 8.0, 8.1, а также предложили частично работающие меры противодействия атакам для тех, кто по какой-то причине прямо сейчас обновиться не сможет. Обе уязвимости в теории обеспечивают возможность выпо</description>
-      <pubDate>Mon, 26 Oct 2026 20:01:58 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/kaspersky/articles/1099774/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099774</guid>
+      <title>Как мы перешли на 1С и превратили внутреннюю ERP в рыночный продукт</title>
+      <link>https://habr.com/ru/companies/digital_solutions/articles/1099856/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099856</link>
+      <description>Мы начали переход раньше, чем он стал неизбежным. Ещё в 2021 году собрали на 1С прототип для учета закупки, транспортировки и реализации нефти и проверили, справится ли платформа со сложным отраслевым контуром. Типовая 1С:ERP для этого не подходила. Чтобы сохранить привычные для пользователей процессы, её пришлось бы почти полностью переписать. Поэтому новую систему начали строить с нуля на БСП, а функциональность переносили из существующей ERP по частям. Ядро команды досконально знало первонача</description>
+      <pubDate>Tue, 27 Oct 2026 07:08:30 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/digital_solutions/articles/1099856/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099856</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>database is locked. Что на самом деле блокирует SQLite в Telegram-боте и как я это чиню</title>
+      <link>https://habr.com/ru/articles/1099860/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099860</link>
+      <description>SQLite в небольшом боте выбирают за то, что не нужен отдельный сервер. А потом в логах раз в пару дней появляется sqlite3.OperationalError: database is locked, и непонятно, кто и что держит. Показываю на воспроизводимых примерах три причины, которые я встречал в заказах: забытый commit из-за неявных транзакций модуля sqlite3, транзакцию «прочитал, потом записал», которая падает мгновенно даже с timeout, и синхронный драйвер внутри asyncio. В конце обёртка на aiosqlite с WAL, busy_timeout и BEGIN</description>
+      <pubDate>Tue, 27 Oct 2026 07:08:29 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1099860/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099860</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>SEO умер? Нет, изменился до неузнаваемости</title>
+      <link>https://habr.com/ru/companies/bhv_publishing/articles/1099858/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099858</link>
+      <description>Если вы работаете в SEO хотя бы несколько лет, имя Эрика Энжа вам наверняка знакомо. Его книга « SEO — искусство раскрутки сайтов » (The Art of SEO), написанная в соавторстве со Стефаном Спенсером и Джесси Стрикчиолой, выдержала четыре издания, стала настольной для нескольких поколений оптимизаторов и до сих пор остаётся одним из самых востребованных руководств по поисковой оптимизации. Именно поэтому выход новой книги Эрика Энжа (теперь в соавторстве с Адрианом Риднером) вызвал закономерный воп</description>
+      <pubDate>Tue, 27 Oct 2026 07:06:27 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/bhv_publishing/articles/1099858/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099858</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Про ещё один потенциально интересный вариант реализации ночного видения</title>
+      <link>https://habr.com/ru/companies/beget/articles/1099274/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099274</link>
+      <description>Человек всегда стремился выйти за пределы своих, довольно ограниченных, возможностей физического тела, расширяя их за счёт разнообразных технических приспособлений — не исключением являются в этом длинном ряду решений и способы организации видения, в тех условиях, в которых обычно зрение человека его подводит — например, в полной темноте. За XX век было выработан целый ряд решений подобного рода, и, в последнее время, появляются новые, весьма любопытные области, над которыми (по идее) можно было</description>
+      <pubDate>Tue, 27 Oct 2026 07:05:53 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/beget/articles/1099274/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099274</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Зоологи запечатлели шестиметровую медузу в компании 19 центролофовых рыб</title>
+      <link>https://nplus1.ru/news/2026/10/27/centrolophus-niger-stygiomedusa-gigantea</link>
+      <description>Зоологи запечатлели шестиметровую медузу в компании 19 центролофовых рыб</description>
+      <pubDate>Tue, 27 Oct 2026 07:02:00 +0000</pubDate>
+      <guid>https://nplus1.ru/news/2026/10/27/centrolophus-niger-stygiomedusa-gigantea</guid>
+      <category>N + 1 — главное издание о науке, технике и технологиях</category>
+    </item>
+    <item>
+      <title>Я пришёл автоматизировать маркетплейсы из кровавого энтерпрайза, и вот что меня сильно удивило</title>
+      <link>https://habr.com/ru/articles/1099548/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099548</link>
+      <description>Привет, Хабр! Я делаю ИИ-агентов для больших компаний. Раньше делал для кровавого энтерпрайза — крупных страховых, банков и телекома, потом пришёл в e-commerce. И оказалось, у них тут происходят такие поразительные вещи, что я просто не могу не поделиться. Работают наши агенты так: в начале каждой системы стоит маршрутизатор, который определяет, кому отдать работу: человеку или модели. Модели достаются 50% самых простых и понятных случаев, остальное — людям. Экономия обычно 10–12%. Про e-commerc</description>
+      <pubDate>Tue, 27 Oct 2026 07:00:52 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1099548/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099548</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>iPhone 18 Pro Max vs iPhone 17 Pro Max: менять нельзя оставить</title>
+      <link>https://habr.com/ru/companies/technopark/articles/1099590/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099590</link>
+      <description>После каждой презентации Apple у владельцев iPhone возникает один и тот же вопрос: покупать новую модель или еще походить со старым смартфоном? В этом году в соцсетях, как обычно, не обошлось без обсуждений и шуток про минимальные изменения. Но если отбросить иронию, компания серьезно поработала над «железом» и предложила несколько заметных обновлений — от переменной диафрагмы до еще более мощного процессора. Вместе с экспертом Технопарка разбираемся, что реально изменилось в iPhone 18 Pro Max, </description>
+      <pubDate>Tue, 27 Oct 2026 07:00:51 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/technopark/articles/1099590/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099590</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
   </channel>
