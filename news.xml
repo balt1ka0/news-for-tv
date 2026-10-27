@@ -5,88 +5,88 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Tue, 27 Oct 2026 14:02:07 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 19:17:59 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Как голосовой робот принимает заявки на ремонт и передаёт их мастеру в Битрикс24</title>
-      <link>https://habr.com/ru/companies/exolve/articles/1100156/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100156</link>
-      <description>Привет, Хабр! В этом материале сделаем сервис, который разгрузит диспетчера сервисного центра по ремонту бытовой техники. Голосовой робот будет принимать входящий звонок и собирать детали обращения. На каждое обращение в Битрикс24 будет создаваться карточка с назначенным мастером. Стек проекта: Python 3.10+, FastAPI, Pydantic, SQLite, HTTPX, Битрикс24, Яндекс Геокодер, голосовой робот и SMS API от МТС Exolve. Читать далее</description>
-      <pubDate>Tue, 27 Oct 2026 14:01:43 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/exolve/articles/1100156/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100156</guid>
+      <title>[Перевод] Фаззер против ИИ-агента на V8: 37 и 45 уязвимостей за полгода, общих — четверть</title>
+      <link>https://habr.com/ru/articles/1100292/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100292</link>
+      <description>В Project Zero сравнили два конвейера, которые постоянно ищут уязвимости в V8, JavaScript-движке Chrome: фаззер Fuzzilli работает непрерывно, LLM-агент BigSleep раз в сутки просматривает новые коммиты. За апрель–сентябрь 2026 года после очистки от дубликатов и «нерабочих» репортов у BigSleep 45 исправленных уязвимостей, у Fuzzilli 37. Пересечение считали отдельно, с дополнительным поиском дубликатов через коммиты-исправления и базу Clusterfuzz: общими оказались 20 из 81 репорта, около четверти. </description>
+      <pubDate>Tue, 27 Oct 2026 19:13:24 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1100292/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100292</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>We’ve had touchscreen laptops for years. Can Apple make them better?</title>
-      <link>https://www.theverge.com/tech/1019288/apple-event-la-macbook-pro-touchscreen-questions</link>
-      <description>A fridge is about to be merged with a toaster. Dogs and cats are soon to be living together. But it's not mass hysteria; Apple is expected to finally announce a touchscreen MacBook tomorrow at its "Pro and Tell" event. A laptop with a touchscreen should be no big deal - we've had them for […]</description>
-      <pubDate>Tue, 27 Oct 2026 14:00:00 +0000</pubDate>
-      <guid>https://www.theverge.com/tech/1019288/apple-event-la-macbook-pro-touchscreen-questions</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>RGSTR: Экономим ресурсы кластера и время SRE: зачем нам нужен декларативный OCI-реестр с нативными бэкапами в S3</title>
-      <link>https://habr.com/ru/companies/autocod/articles/1100150/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100150</link>
-      <description>Каждый SRE хотя бы раз просыпался в три часа ночи от алерта о том, что Harbor опять упал, PostgreSQL реестра съел весь диск, а миграция после обновления сломала половину образов. Мы строим Kubernetes, чтобы забыть про серверы — а потом ставим реестр, который заставляет вспомнить про них снова. Только теперь их не один, а восемь, и у каждого свои логи, свои секреты и свои причины не запускаться. Эта статья — про то, как перестать содержать реестр как отдельный продукт и начать использовать его ка</description>
-      <pubDate>Tue, 27 Oct 2026 13:57:19 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/autocod/articles/1100150/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100150</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Модели OpenAI и Anthropic одновременно опровергли гипотезу экспоненциального времени</title>
-      <link>https://nplus1.ru/news/2026/10/27/ai-eth</link>
-      <description>Модели OpenAI и Anthropic одновременно опровергли гипотезу экспоненциального времени</description>
-      <pubDate>Tue, 27 Oct 2026 13:56:00 +0000</pubDate>
-      <guid>https://nplus1.ru/news/2026/10/27/ai-eth</guid>
-      <category>N + 1 — главное издание о науке, технике и технологиях</category>
-    </item>
-    <item>
-      <title>Apple rolls out iOS 27.2 with new Siri AI languages and security fixes</title>
-      <link>https://techcrunch.com/2026/10/27/apple-rolls-out-ios-27-2-with-new-siri-ai-languages-and-security-fixes/</link>
-      <description>The latest Apple software update for iPhones and iPads includes new features and important security updates.</description>
-      <pubDate>Tue, 27 Oct 2026 13:54:51 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/27/apple-rolls-out-ios-27-2-with-new-siri-ai-languages-and-security-fixes/</guid>
+      <title>Disruptive raises $10B fund to make big bets on at least 10 companies</title>
+      <link>https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/</link>
+      <description>Disruptive has made headlines in recent years for pouring money into companies like chip startup Groq and the AI voice-generation startup ElevenLabs.</description>
+      <pubDate>Tue, 27 Oct 2026 18:55:35 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/</guid>
       <category>TechCrunch</category>
     </item>
     <item>
-      <title>Можно ли сделать игру в 3D, если ничего не умеешь?</title>
-      <link>https://habr.com/ru/articles/1100094/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100094</link>
-      <description>Можно ли создать игру в 3д если ничего не умеешь, но очень хочешь? Мой эксперимент по созданию браузерного 3д-шутера вместе с AI. Читать далее</description>
-      <pubDate>Tue, 27 Oct 2026 13:52:58 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1100094/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100094</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Apple is adding an AI chatbot to Pages, Keynote, and Numbers</title>
-      <link>https://www.theverge.com/tech/1019373/apple-pages-keynote-numbers-ai-chatbot-update</link>
-      <description>Apple is bringing an AI assistant to its suite of productivity apps, including Keynote, Pages, and Numbers. The assistant, which is built on AI models from Apple and OpenAI, can understand a document's context to perform tasks like designing, animating, and refining slides in Keynote. In Pages, Apple says the AI assistant can draft, restructure, […]</description>
-      <pubDate>Tue, 27 Oct 2026 13:50:51 +0000</pubDate>
-      <guid>https://www.theverge.com/tech/1019373/apple-pages-keynote-numbers-ai-chatbot-update</guid>
+      <title>Trump is making it easier for fossil fuel companies to leak methane</title>
+      <link>https://www.theverge.com/policy/1019691/gas-leak-methane-rule-rollback-trump</link>
+      <description>In its latest gift to oil and gas companies, the Trump administration is expected to announce plans today to weaken rules that guard against methane leaks. Methane is a smog-forming pollutant and a powerful greenhouse gas that's up to 80 times as potent as carbon dioxide on a 20-year horizon. It's the primary component of […]</description>
+      <pubDate>Tue, 27 Oct 2026 18:25:13 +0000</pubDate>
+      <guid>https://www.theverge.com/policy/1019691/gas-leak-methane-rule-rollback-trump</guid>
       <category>The Verge</category>
     </item>
     <item>
-      <title>Код считает, модель описывает: как мы встроили LLM в отчетность и не дали ей трогать цифры</title>
-      <link>https://habr.com/ru/companies/yadro/articles/1099914/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099914</link>
-      <description>Привет, Хабр! Меня зовут Егор Шлюпиков, и я работаю старшим бизнес-аналитиком в YADRO в большой команде, которая менеджерит IT-оборудование. Мы следим за парком готовой техники и комплектующих, нужных для работы сотрудников. Сколько нужно купить, что залежалось, что в ремонте и утилизации и так далее — плюс финансовая аналитика. В статье расскажу, как мы собрали сервис, который снял с нас немалую часть рутины: каждое утро он без участия человека выпускает более десятка отчетов с выводами от нейр</description>
-      <pubDate>Tue, 27 Oct 2026 13:36:56 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/yadro/articles/1099914/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099914</guid>
+      <title>Синтетические данные для тестирования: пошаговый гайд</title>
+      <link>https://habr.com/ru/articles/1100276/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100276</link>
+      <description>Как построить конвейер обезличенных синтетических данных и убедиться, что они не врут? Собрал полезную статью для руководителей разработки и QA, продакт-менеджеров и всех, кто работает с тестовым контуром. Я уже более 10 лет работаю с тестовыми средами, и раньше делал ошибку: выгружал из прода 200 000 строк, менял фамилии на обезличенные шаблоны, и считал, что все окей. А затем как-то заметил, что в выгрузке остались номера договоров. Мне повезло, что именно я нашел их первым, особенно учитывая </description>
+      <pubDate>Tue, 27 Oct 2026 18:03:36 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1100276/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100276</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Как я подключил рабочие чаты Telegram к ИИ-ассистенту через MCP</title>
-      <link>https://habr.com/ru/articles/1100144/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100144</link>
-      <description>В рабочих чатах Telegram рядом живут сообщения о релизах, вопросы подрядчиков, согласования и короткие «посмотри, пожалуйста». Чтобы понять, что требует внимания, приходится открывать несколько чатов и восстанавливать контекст из отдельных реплик. Я сделал TelegramMCP — открытый сервер, который подключает личный аккаунт Telegram к ИИ-приложению с поддержкой MCP. Ассистент получает инструменты для чтения папок и чатов, поиска бесед и отправки текстовых сообщений. Уже поверх этих инструментов его </description>
-      <pubDate>Tue, 27 Oct 2026 13:34:58 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1100144/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100144</guid>
+      <title>VisionQuest is what happens when AI really goes rogue</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai</link>
+      <description>In Marvel's VisionQuest, a superpowered robot tries to better understand humanity by getting lost in elaborate, digital daydreams in which he and other artificial intelligence-powered beings live together in a home. The series is deeply fantastical, yet it plays with some of the ideas that have come to dominate the conversation about real-world generative artificial […]</description>
+      <pubDate>Tue, 27 Oct 2026 17:30:00 +0000</pubDate>
+      <guid>https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>Языковые страны Европы</title>
+      <link>https://habr.com/ru/articles/1100192/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100192</link>
+      <description>Как известно, язык — одна из главных основ национального самоопределения. Языковая карта мира медленно, но меняется. Наречия дробятся на диалекты, а диалекты со временем становятся самостоятельными. Вступая в контакт, языки сближаются — или, наоборот, вытесняют друг друга. А иные исчезают полностью, когда говорить на них становится некому. Сейчас сложные операции с данными доступны даже ребёнку. Возникает вопрос: можно ли, используя знания о языках, в разное время наполнявших Землю, об их родств</description>
+      <pubDate>Tue, 27 Oct 2026 17:22:08 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1100192/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100192</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Обновляем приложение на Wear OS-часах без adb по Wi-Fi: мост через телефон</title>
-      <link>https://habr.com/ru/articles/1100140/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100140</link>
-      <description>Oct 25, 2026 · @Andrei Я научил телефон ставить свежую сборку на часы TicWatch Pro 5 Enduro по Bluetooth, без adb на самих часах. Одна команда на ПК собирает оба приложения и доставляет APK на часы примерно за 2,5 минуты. Ниже — архитектуру моста и пять граблей Android 12–14, каждая из которых стоила мне вечера. Откуда задача. Wear OS-часы отлаживаются через «Wireless debugging» по Wi-Fi. TicWatch выключает Wi-Fi вместе с adb, как только его снимают с руки. Типичная картина: adb devices показыва</description>
-      <pubDate>Tue, 27 Oct 2026 13:31:20 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1100140/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100140</guid>
+      <title>Как я поселил Claude в Яндекс.Станцию Мини</title>
+      <link>https://habr.com/ru/articles/1100268/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100268</link>
+      <description>Отдельная линия этой истории: я делал всё это в паре с Claude Code . И где-то к середине проекта поймал себя на забавной мысли — Claude Code, по сути, собирал своего же младшего брата : маленького Claude, который теперь живёт внутри колонки и откликается на «Клод». Старший пишет код, отлаживает, диагностирует — чтобы младший поселился в железке и заговорил. Дальше эта мысль меня уже не отпускала. Читать далее</description>
+      <pubDate>Tue, 27 Oct 2026 17:14:03 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1100268/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100268</guid>
       <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?</title>
+      <link>https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/</link>
+      <description>TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery.</description>
+      <pubDate>Tue, 27 Oct 2026 17:08:08 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>The Super Mouse puts a touchscreen macro pad under your hand</title>
+      <link>https://www.theverge.com/tech/1019484/super-mouse-touchscreen-shortcuts-macros-kickstarter</link>
+      <description>A company called Arctic Fox Technologies has announced a new multifunction mouse that forgoes a myriad of customizable shortcut buttons peppered across its surface for a compact touchscreen sitting beneath your hand. The Super Mouse may not prioritize ergonomics with its boxy design, but it can replace other peripherals on your desk, like a trackpad, […]</description>
+      <pubDate>Tue, 27 Oct 2026 17:00:00 +0000</pubDate>
+      <guid>https://www.theverge.com/tech/1019484/super-mouse-touchscreen-shortcuts-macros-kickstarter</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>Anthropic’s elaborate plan to keep Wall Street at bay</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety</link>
+      <description>Anthropic wants to have it both ways. With its impending IPO, it wants to tap the vast riches of the public markets and insists it doesn't want to compromise its core mission of developing AI safely and for the benefit of humanity. But greater model capabilities bring greater risks, and shareholders eager for returns may […]</description>
+      <pubDate>Tue, 27 Oct 2026 16:51:22 +0000</pubDate>
+      <guid>https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety</guid>
+      <category>The Verge</category>
     </item>
   </channel>
 </rss>
