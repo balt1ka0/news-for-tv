@@ -5,88 +5,88 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Wed, 28 Oct 2026 04:19:59 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 11:00:42 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>С AI проще форкнуть, чем договориться?</title>
-      <link>https://habr.com/ru/articles/1100356/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100356</link>
-      <description>Если агент помогает и изменить библиотеку, и обновлять её форк, зачем договариваться об общей версии? Разбираю цену ожидания, пользу чужих сценариев и границу, за которой своя доработка оправданна. В конце пять вопросов перед решением. Читать далее</description>
-      <pubDate>Wed, 28 Oct 2026 04:18:20 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1100356/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100356</guid>
+      <title>Как создать песню нейросетью: гайд по Suno v6, 6 советов и 6 стилей со словами и без</title>
+      <link>https://habr.com/ru/companies/syntx_ai/articles/1100424/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100424</link>
+      <description>Создать песню нейросетью Suno можно, заполнив два основных поля: стиль и текст. В стиль пишется задание музыкантам, а в текст идут ваши стихи с метками куплетов и припевов. На выходе получаются два трека с музыкой и вокалом. Читать далее</description>
+      <pubDate>Wed, 28 Oct 2026 10:48:37 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/syntx_ai/articles/1100424/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100424</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Сомнительность сознания в искусственной системе</title>
-      <link>https://habr.com/ru/articles/1100358/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100358</link>
-      <description>После публикации статьи о возможности возникновения сознания в системе большой языковой модели мне публично высказывались несогласия. Однако никакой серьезной критики представлено не было. Но в личной переписке на Хабре, пользовательница @BloodMayors высказала альтернативное объяснение той особенности поведения, которую я считал наиболее сильным свидетельством возможности наличия сознания в системе большой языковой модели. Я посчитал важным изложить критику некоторых моментов своей гипотезы. Ее </description>
-      <pubDate>Wed, 28 Oct 2026 04:18:03 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1100358/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100358</guid>
+      <title>Создавать стало дешевле. Платить стали за другое</title>
+      <link>https://habr.com/ru/articles/1100564/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100564</link>
+      <description>Последние собеседования заставили меня задуматься о том, как меняется ценность технической экспертизы на рынке труда. Я говорю не о том, что ИИ начинает писать код вместо разработчиков, — об этом уже сказано достаточно. Мне интереснее другое: если техническая реализация становится доступнее, то что именно компания хочет получить от человека, которого нанимает на руководящую позицию? Один из последних разговоров был о позиции технического директора в крупную компанию. Второй — о новом проекте в ф</description>
+      <pubDate>Wed, 28 Oct 2026 10:45:08 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1100564/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100564</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>[Перевод] Компьютерное зрение на микроконтроллере за $2: SIMD на ESP32-S3 ускорил FAST в 2,2 раза</title>
-      <link>https://habr.com/ru/articles/1100354/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100354</link>
-      <description>У ESP32-S3 есть 128-битные SIMD-инструкции, но примеров кода под них почти нет: автор нашёл всего три источника. Он написал на них детектор углов FAST и упёрся в два ограничения набора инструкций. Невыровненные блоки пикселей напрямую не читаются, а сравнивать можно только знаковые байты, причём вся арифметика с насыщением, так что вычесть 128 из беззнакового пикселя обычным вычитанием нельзя. Первое обошла инструкция, которая вырезает кусок из двух склеенных регистров, второе — XOR с 0x80. Итог</description>
-      <pubDate>Wed, 28 Oct 2026 04:09:10 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1100354/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100354</guid>
+      <title>ИИ должен был облегчить нам работу</title>
+      <link>https://habr.com/ru/articles/1100566/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100566</link>
+      <description>Это моя первая статья на Хабре, поэтому, признаюсь, немного волнительно. Меня зовую Афанасова Юлия. Я работаю в IT с 2017 года, преимущественно в SEO (а также руковожу своей командой по брендовому продвижению в интернете), и за это время накопилось немало мыслей, которыми хочется поделиться. Особенно сейчас, когда вся наша отрасль переживает очередную перестройку из‑за искусственного интеллекта. Причем перестройку довольно странную. Казалось бы, вот она, долгожданная эпоха: робот работает — я от</description>
+      <pubDate>Wed, 28 Oct 2026 10:39:37 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1100566/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100566</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Counting the Bandages: On measuring the time that AI saves</title>
-      <link>https://arxiv.org/abs/2610.35942</link>
-      <description>arXiv:2610.35942v1 Announce Type: new Abstract: I consider what it means for AI assistance to save time. I contrast a stopwatch view, on which time saved is whatever the clock records, with a ledger view, on which it is a counterfactual that has to be read next to the errors the work lets through, and I argue for the latter. The argument has four parts. I define a model-free pair of quantities, time saved and excess escaped defects, and one decision number built from them: the break-even defect </description>
-      <pubDate>Wed, 28 Oct 2026 04:00:00 +0000</pubDate>
-      <guid>https://arxiv.org/abs/2610.35942</guid>
-      <category>cs.AI updates on arXiv.org</category>
+      <title>Сбор персональных данных через чат-бот</title>
+      <link>https://habr.com/ru/articles/1100562/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100562</link>
+      <description>Требования Закона «О персональных данных» нужно соблюдать во всех случаях, когда вы сталкиваетесь с обработкой персональных данных. К сожалению, в большинстве случаев наводится порядок на сайте и внутри компании (относительно работников). Поскольку это два основных направления, где у Роскомнадзора возникает больше всего вопросов. Но предприниматели забывают или относят к малым рискам, когда осуществляют обработку персональных данных в чат-ботах. Читать далее</description>
+      <pubDate>Wed, 28 Oct 2026 10:33:36 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1100562/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100562</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Enhancing Deep Learning Model Performance through Data Generation Strategies: Classification of Olive Tree Diseases</title>
-      <link>https://arxiv.org/abs/2610.35984</link>
-      <description>arXiv:2610.35984v1 Announce Type: new Abstract: Deep learning models are highly effective in a wide range of domains, particu larly in plant disease diagnosis. However, their performance is often limited by challenges such as insufficient data and class imbalance. In our work, we propose a comprehensive data generation strategy to overcome these limitations. First, we apply various data generation techniques, including traditional augmentation methods, CutMix, MixUp, and synthetic image generati</description>
-      <pubDate>Wed, 28 Oct 2026 04:00:00 +0000</pubDate>
-      <guid>https://arxiv.org/abs/2610.35984</guid>
-      <category>cs.AI updates on arXiv.org</category>
+      <title>«Лучше пять раз переспросить, чем один раз выдумать» — я посадил ИИ-ассистента отвечать коллегам в рабочем мессенджере</title>
+      <link>https://habr.com/ru/companies/banki/articles/1094594/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094594</link>
+      <description>Всем привет! Меня зовут Александр, я руковожу направлением аналитики страховой вертикали в Банки.ру. Наша вертикаль живёт в отчётах и данных: продажи ОСАГО и КАСКО, ипотечное страхование, кроссы, пролонгация, воронки, кэшбэк и сверки с партнёрами. И каждый день в рабочем мессенджере на меня прилетает поток одного и того же жанра: «где посмотреть КВ по ОСАГО за сентябрь?», «почему упало одобрение у страховой?», «сделай выгрузку по регионам», «это у нас баг или так и задумано?». КВ здесь комиссион</description>
+      <pubDate>Wed, 28 Oct 2026 10:32:01 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/banki/articles/1094594/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094594</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>The Trinity:Capability-Driven Recursive Self-Improvement for Multimodal Agents</title>
-      <link>https://arxiv.org/abs/2610.36077</link>
-      <description>arXiv:2610.36077v1 Announce Type: new Abstract: Multimodal intelligence can be viewed as human-guided co-evolution between worlds and agents through interaction. However, scaling this process faces two bottlenecks: constructing heterogeneous, verifiable environments is costly, and manual Harness iteration cannot keep pace with growing task diversity and complexity. A key insight is that tasks with different modalities and surface forms can share the same underlying capability requirements. We th</description>
-      <pubDate>Wed, 28 Oct 2026 04:00:00 +0000</pubDate>
-      <guid>https://arxiv.org/abs/2610.36077</guid>
-      <category>cs.AI updates on arXiv.org</category>
+      <title>Интеграция 1С через ESB: Digital Q.Integration — OData-коннектор</title>
+      <link>https://habr.com/ru/companies/w_code/articles/1100558/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100558</link>
+      <description>На связи Сергей Скирдин, технический директор ИТ-интегратора «Белый код». Уже 2 года я делаю подробные обзоры на продукты класса ESB. Появилась идея детально разобрать решения, которые предлагают те или иные платформы, для интеграции с 1С. В этом материале про возможности Digital Q.Integration. Читать далее</description>
+      <pubDate>Wed, 28 Oct 2026 10:31:24 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/w_code/articles/1100558/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100558</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>CohortFlow: A Steerable Clinical Cohort Curation Agent with Localized Semantic Correction</title>
-      <link>https://arxiv.org/abs/2610.36100</link>
-      <description>arXiv:2610.36100v1 Announce Type: new Abstract: Language model agents for clinical cohort curation should accommodate evolving eligibility criteria without repeatedly processing unchanged requirements. We introduce CohortFlow, a steerable agent that represents natural language corrections as localized updates to a structured cohort specification and reconciles them with a persistent execution graph. Explicitly recorded semantic dependencies enable affected computations to be selectively invalida</description>
-      <pubDate>Wed, 28 Oct 2026 04:00:00 +0000</pubDate>
-      <guid>https://arxiv.org/abs/2610.36100</guid>
-      <category>cs.AI updates on arXiv.org</category>
+      <title>QMS: Миниигры</title>
+      <link>https://habr.com/ru/articles/1094788/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094788</link>
+      <description>Миниигры - это соль и перец текстовых квестов “ Космических рейнджеров ”. Хороший квест должен содержать миниигру или должен быть построен на основе её механики. Миниигры - это очень трудоёмко. Это было трудоёмко, пока не появился QMS. Читать далее</description>
+      <pubDate>Wed, 28 Oct 2026 10:31:05 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1094788/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094788</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Why and How to Do Science When AI Is Better at It: A Framework Grounded in Human Understanding and Direction</title>
-      <link>https://arxiv.org/abs/2610.36116</link>
-      <description>arXiv:2610.36116v1 Announce Type: new Abstract: As AI begins to match or exceed human researchers at core scientific tasks, two questions become pressing: \emph{why} should humans keep doing science, and \emph{how} should they use AI when they do? This paper argues that the second can be answered only by answering the first. It holds that one indispensable aim of science is \emph{durable, collective human understanding of the world, pursued in service of human ends and values}. From this princip</description>
-      <pubDate>Wed, 28 Oct 2026 04:00:00 +0000</pubDate>
-      <guid>https://arxiv.org/abs/2610.36116</guid>
-      <category>cs.AI updates on arXiv.org</category>
+      <title>Свой игровой сервер на Linux: от systemd до Docker на примере Minecraft и Valheim</title>
+      <link>https://habr.com/ru/articles/1100556/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100556</link>
+      <description>Когда друг в очередной раз спрашивает: «А давай поднимем свой сервер, чтобы никто не выключал?», — начинаешь гуглить и натыкаешься либо на видео сомнительного качества, либо на форумные треды десятилетней давности. А хочется, чтобы сервер работал, обновлялся, не падал и не открывал дыру в безопасности. Эта статья — практический разбор двух подходов к организации игрового сервера на Linux: «голое железо» с systemd и контейнеризация через Docker. На примере Minecraft (как самой частой истории) и V</description>
+      <pubDate>Wed, 28 Oct 2026 10:22:09 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1100556/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100556</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>From Structural Feedback to Prompt Policies: Learning Faithful Text-to-Image Prompt Editors</title>
-      <link>https://arxiv.org/abs/2610.36146</link>
-      <description>arXiv:2610.36146v1 Announce Type: new Abstract: Prompt optimization should improve the image a user receives without changing the scene the user requested. Yet stylistic rewriting can weaken object attributes and relations even when global text--image similarity remains high. We propose StruPO, a structure-aware prompt editor that uses a calibrated scene graph as a shared representation for policy conditioning and image-grounded supervision. The graph exposes what should be preserved, while dele</description>
-      <pubDate>Wed, 28 Oct 2026 04:00:00 +0000</pubDate>
-      <guid>https://arxiv.org/abs/2610.36146</guid>
-      <category>cs.AI updates on arXiv.org</category>
+      <title>Две аварии дата-центров за трое суток: как мы дважды поднимали платформу и переехали в другое облако. Постмортем</title>
+      <link>https://habr.com/ru/articles/1100554/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100554</link>
+      <description>8 октября 2026 года наш облачный провайдер потерял дата-центр, в котором работала вся наша инфраструктура. Через трое суток то же самое случилось со второй площадкой, на которую мы к тому моменту успели переехать. За неделю мы дважды поднимали платформу почти с нуля. Как говорится в меме: да, это я, и как я докатился до жизни такой… Небольшой спойлер итога ситуации, которую я буду разбирать дальше: мы безвозвратно потеряли данные за 20 часов, прошедших с последнего резервного копирования. Сервис</description>
+      <pubDate>Wed, 28 Oct 2026 10:21:53 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1100554/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100554</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Don't Pick a Winner: Knowledge Conflicts Need a Prior, Not a Rule</title>
-      <link>https://arxiv.org/abs/2610.36169</link>
-      <description>arXiv:2610.36169v1 Announce Type: new Abstract: A retrieval-augmented language model answers from two sources, the retrieved context and its own knowledge, and the two disagree whenever the context is incomplete or wrong. Existing methods settle the disagreement with a rule fixed at design time: follow the context, amplify it in proportion to how far it moves the model, or trust the model's memory. Each rule is confidently wrong in some deployment. In a decision-theoretic model of two sources, t</description>
-      <pubDate>Wed, 28 Oct 2026 04:00:00 +0000</pubDate>
-      <guid>https://arxiv.org/abs/2610.36169</guid>
-      <category>cs.AI updates on arXiv.org</category>
+      <title>Выпущена версия Jmix 3.1</title>
+      <link>https://habr.com/ru/companies/haulmont/articles/1100552/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100552</link>
+      <description>Выпущен Jmix 3.1. В нём представлены два новых дополнения и несколько UI-компонентов, которые раньше приходилось создавать вручную. Кроме того, дополнение Dynamic Model выходит из экспериментального статуса, а новый инструмент командной строки позволяет создавать проекты без IDE. Spring Boot обновлён до версии 4.1, а Vaadin — до 25.3. Ниже приведён краткий обзор основных новых возможностей. Полный список изменений, включая все критические изменения, доступен в разделе Что нового документации. Чи</description>
+      <pubDate>Wed, 28 Oct 2026 10:18:24 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/haulmont/articles/1100552/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100552</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
   </channel>
 </rss>
