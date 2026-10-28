@@ -5,87 +5,87 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Wed, 28 Oct 2026 11:00:42 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 17:01:29 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Как создать песню нейросетью: гайд по Suno v6, 6 советов и 6 стилей со словами и без</title>
-      <link>https://habr.com/ru/companies/syntx_ai/articles/1100424/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100424</link>
-      <description>Создать песню нейросетью Suno можно, заполнив два основных поля: стиль и текст. В стиль пишется задание музыкантам, а в текст идут ваши стихи с метками куплетов и припевов. На выходе получаются два трека с музыкой и вокалом. Читать далее</description>
-      <pubDate>Wed, 28 Oct 2026 10:48:37 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/syntx_ai/articles/1100424/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100424</guid>
+      <title>Xreal Aura is a new wired headset powered by Android XR</title>
+      <link>https://techcrunch.com/2026/10/28/xreal-aura-is-a-new-wired-headset-powered-by-android-xr/</link>
+      <description>Xreal Aura will start at $1,279 and will have multiple XR specific launch apps at launch</description>
+      <pubDate>Wed, 28 Oct 2026 17:00:00 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/28/xreal-aura-is-a-new-wired-headset-powered-by-android-xr/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>As AI agents reshape the web, Google opens Gemini and Search to more apps</title>
+      <link>https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/</link>
+      <description>A new developer platform will let businesses bring their services to Google's AI experiences, potentially changing how consumers discover and use apps.</description>
+      <pubDate>Wed, 28 Oct 2026 17:00:00 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>Chrome’s AI-powered Autofill can now dig through your Gmail to fill out forms</title>
+      <link>https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/</link>
+      <description>The autofill update lets Chrome pull flight confirmations, tracking info, order details, and other information from your inbox, with your permission.</description>
+      <pubDate>Wed, 28 Oct 2026 17:00:00 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>KassiOS: слой в стиле Kaspresso поверх XCUITest, проверенный на сломанном банке</title>
+      <link>https://habr.com/ru/articles/1100796/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100796</link>
+      <description>Я пришёл в нативное iOS-тестирование из Appium, и простой логин на XCUITest раз за разом обрастал waitForExistence, ретраями и самописными хелперами. Так появился KassiOS — слой в стиле Kaspresso поверх XCUITest: тап с общим бюджетом ожидания, который не повторяется после отправки, перечитывание поля после ввода, понятные сообщения о падениях, параметризованные тесты. Чтобы проверить, ловят ли тесты баги, я прогнал их против ChaosBank — приложения с включаемыми дефектами — и написал утилиту, кот</description>
+      <pubDate>Wed, 28 Oct 2026 16:55:25 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1100796/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100796</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Создавать стало дешевле. Платить стали за другое</title>
-      <link>https://habr.com/ru/articles/1100564/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100564</link>
-      <description>Последние собеседования заставили меня задуматься о том, как меняется ценность технической экспертизы на рынке труда. Я говорю не о том, что ИИ начинает писать код вместо разработчиков, — об этом уже сказано достаточно. Мне интереснее другое: если техническая реализация становится доступнее, то что именно компания хочет получить от человека, которого нанимает на руководящую позицию? Один из последних разговоров был о позиции технического директора в крупную компанию. Второй — о новом проекте в ф</description>
-      <pubDate>Wed, 28 Oct 2026 10:45:08 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1100564/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100564</guid>
+      <title>Периодические функции как функции активации в нейросетях</title>
+      <link>https://habr.com/ru/articles/1100598/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100598</link>
+      <description>В данной статье мы рассмотрим применение периодических функций в качестве функций активации в нейросетях. Мы проведём сравнительные эксперименты на простых сетях и посмотрим, как периодические активации (например, sin ) ведут себя по сравнению с классическими непериодическими — tanh , sigmoid и ReLU . Читать далее</description>
+      <pubDate>Wed, 28 Oct 2026 16:38:45 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1100598/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100598</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>ИИ должен был облегчить нам работу</title>
-      <link>https://habr.com/ru/articles/1100566/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100566</link>
-      <description>Это моя первая статья на Хабре, поэтому, признаюсь, немного волнительно. Меня зовую Афанасова Юлия. Я работаю в IT с 2017 года, преимущественно в SEO (а также руковожу своей командой по брендовому продвижению в интернете), и за это время накопилось немало мыслей, которыми хочется поделиться. Особенно сейчас, когда вся наша отрасль переживает очередную перестройку из‑за искусственного интеллекта. Причем перестройку довольно странную. Казалось бы, вот она, долгожданная эпоха: робот работает — я от</description>
-      <pubDate>Wed, 28 Oct 2026 10:39:37 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1100566/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100566</guid>
+      <title>Touchscreen MacBook live blog: On the ground at Apple’s launch event</title>
+      <link>https://www.theverge.com/tech/1019809/apple-touchscreen-macbook-pro-la-keynote-event-live-blog</link>
+      <description>Apple has already had a busy week. On Monday, it announced a new iPad Mini with an upgraded OLED display, and on Tuesday, we got M6 chip upgrades for the MacBook Pro and iMac. The Macs are the definition of iterative updates - they're quiet refreshes that look just like their direct predecessors. But today […]</description>
+      <pubDate>Wed, 28 Oct 2026 16:33:32 +0000</pubDate>
+      <guid>https://www.theverge.com/tech/1019809/apple-touchscreen-macbook-pro-la-keynote-event-live-blog</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>«6 − 2 = 3»: как мы проверяем кодом задания, которые пишет языковая модель</title>
+      <link>https://habr.com/ru/articles/1100788/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100788</link>
+      <description>Мы делаем учебную игру: человек пишет цель своими словами («таблица умножения», «дроби за 5 класс», «английский для поездки»), а игра строит под неё путь из локаций. В каждой локации — порция из пяти заданий. Готовых курсов нет: тема может быть любой, поэтому задания пишет языковая модель (Claude от Anthropic) — под цель, уровень и последние ответы игрока. Придумывает задания модель хорошо, а считает плохо. В октябре мы разобрали 68 жалоб «Задание с ошибкой?» — игроки отправляют их кнопкой прямо</description>
+      <pubDate>Wed, 28 Oct 2026 16:33:06 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1100788/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100788</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Сбор персональных данных через чат-бот</title>
-      <link>https://habr.com/ru/articles/1100562/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100562</link>
-      <description>Требования Закона «О персональных данных» нужно соблюдать во всех случаях, когда вы сталкиваетесь с обработкой персональных данных. К сожалению, в большинстве случаев наводится порядок на сайте и внутри компании (относительно работников). Поскольку это два основных направления, где у Роскомнадзора возникает больше всего вопросов. Но предприниматели забывают или относят к малым рискам, когда осуществляют обработку персональных данных в чат-ботах. Читать далее</description>
-      <pubDate>Wed, 28 Oct 2026 10:33:36 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1100562/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100562</guid>
+      <title>All the news from Apple’s ‘Pro and tell’ event</title>
+      <link>https://www.theverge.com/tech/1018096/apple-pro-and-tell-launch-event-news-announcements</link>
+      <description>Apple’s “Pro and tell” event kicks off at 1PM ET / 10AM PT on October 28th. The event comes just a couple of weeks after Apple debuted the HomeView, its first smart display, and a little over a month after it announced the iPhone Duo, its first foldable. Its next event could feature yet another […]</description>
+      <pubDate>Wed, 28 Oct 2026 16:30:00 +0000</pubDate>
+      <guid>https://www.theverge.com/tech/1018096/apple-pro-and-tell-launch-event-news-announcements</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>О мышах и людях: проверяем нейросеть на ложных предпосылках</title>
+      <link>https://habr.com/ru/companies/bothub/articles/1100786/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100786</link>
+      <description>Попросила нейросеть объяснить слепоту летучих мышей и отказ Мережковского от Нобелевской премии. Модель начала сомневаться, даже если в начале уверенно спорила со мной. Разбираю, как мы закладываем ошибки в вопросы и какие подробности стоит проверять, даже когда нейросеть нас правильно поправила. Читать далее</description>
+      <pubDate>Wed, 28 Oct 2026 16:27:23 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/bothub/articles/1100786/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100786</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>«Лучше пять раз переспросить, чем один раз выдумать» — я посадил ИИ-ассистента отвечать коллегам в рабочем мессенджере</title>
-      <link>https://habr.com/ru/companies/banki/articles/1094594/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094594</link>
-      <description>Всем привет! Меня зовут Александр, я руковожу направлением аналитики страховой вертикали в Банки.ру. Наша вертикаль живёт в отчётах и данных: продажи ОСАГО и КАСКО, ипотечное страхование, кроссы, пролонгация, воронки, кэшбэк и сверки с партнёрами. И каждый день в рабочем мессенджере на меня прилетает поток одного и того же жанра: «где посмотреть КВ по ОСАГО за сентябрь?», «почему упало одобрение у страховой?», «сделай выгрузку по регионам», «это у нас баг или так и задумано?». КВ здесь комиссион</description>
-      <pubDate>Wed, 28 Oct 2026 10:32:01 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/banki/articles/1094594/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094594</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Интеграция 1С через ESB: Digital Q.Integration — OData-коннектор</title>
-      <link>https://habr.com/ru/companies/w_code/articles/1100558/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100558</link>
-      <description>На связи Сергей Скирдин, технический директор ИТ-интегратора «Белый код». Уже 2 года я делаю подробные обзоры на продукты класса ESB. Появилась идея детально разобрать решения, которые предлагают те или иные платформы, для интеграции с 1С. В этом материале про возможности Digital Q.Integration. Читать далее</description>
-      <pubDate>Wed, 28 Oct 2026 10:31:24 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/w_code/articles/1100558/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100558</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>QMS: Миниигры</title>
-      <link>https://habr.com/ru/articles/1094788/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094788</link>
-      <description>Миниигры - это соль и перец текстовых квестов “ Космических рейнджеров ”. Хороший квест должен содержать миниигру или должен быть построен на основе её механики. Миниигры - это очень трудоёмко. Это было трудоёмко, пока не появился QMS. Читать далее</description>
-      <pubDate>Wed, 28 Oct 2026 10:31:05 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1094788/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094788</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Свой игровой сервер на Linux: от systemd до Docker на примере Minecraft и Valheim</title>
-      <link>https://habr.com/ru/articles/1100556/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100556</link>
-      <description>Когда друг в очередной раз спрашивает: «А давай поднимем свой сервер, чтобы никто не выключал?», — начинаешь гуглить и натыкаешься либо на видео сомнительного качества, либо на форумные треды десятилетней давности. А хочется, чтобы сервер работал, обновлялся, не падал и не открывал дыру в безопасности. Эта статья — практический разбор двух подходов к организации игрового сервера на Linux: «голое железо» с systemd и контейнеризация через Docker. На примере Minecraft (как самой частой истории) и V</description>
-      <pubDate>Wed, 28 Oct 2026 10:22:09 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1100556/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100556</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Две аварии дата-центров за трое суток: как мы дважды поднимали платформу и переехали в другое облако. Постмортем</title>
-      <link>https://habr.com/ru/articles/1100554/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100554</link>
-      <description>8 октября 2026 года наш облачный провайдер потерял дата-центр, в котором работала вся наша инфраструктура. Через трое суток то же самое случилось со второй площадкой, на которую мы к тому моменту успели переехать. За неделю мы дважды поднимали платформу почти с нуля. Как говорится в меме: да, это я, и как я докатился до жизни такой… Небольшой спойлер итога ситуации, которую я буду разбирать дальше: мы безвозвратно потеряли данные за 20 часов, прошедших с последнего резервного копирования. Сервис</description>
-      <pubDate>Wed, 28 Oct 2026 10:21:53 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1100554/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100554</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Выпущена версия Jmix 3.1</title>
-      <link>https://habr.com/ru/companies/haulmont/articles/1100552/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100552</link>
-      <description>Выпущен Jmix 3.1. В нём представлены два новых дополнения и несколько UI-компонентов, которые раньше приходилось создавать вручную. Кроме того, дополнение Dynamic Model выходит из экспериментального статуса, а новый инструмент командной строки позволяет создавать проекты без IDE. Spring Boot обновлён до версии 4.1, а Vaadin — до 25.3. Ниже приведён краткий обзор основных новых возможностей. Полный список изменений, включая все критические изменения, доступен в разделе Что нового документации. Чи</description>
-      <pubDate>Wed, 28 Oct 2026 10:18:24 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/haulmont/articles/1100552/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100552</guid>
+      <title>13 релизов за неделю: OpenShift, алерты, фильтры и первые внешние контрибьюторы Sextant</title>
+      <link>https://habr.com/ru/articles/1100782/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100782</link>
+      <description>В прошлой статье про Sextant в конце стоял роадмап на четыре версии. Все четыре вышли к 23 октября, а за ними — ещё восемь релизов: алерты из Prometheus и Alertmanager, логи удалённых подов из Loki, OpenShift, OLM, k3s/RKE2, vcluster и фильтры в таблицах. Всего за неделю — 13 релизов, от 0.20.0 до 0.25.5. Но главное в этой неделе — сообщество. Первые внешние pull request’ы вошли в релизы, идея из внешнего PR сократила память на отслеживаемый объект в пять раз, а целая версия 0.25.5 выросла из од</description>
+      <pubDate>Wed, 28 Oct 2026 16:21:41 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1100782/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100782</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
   </channel>
