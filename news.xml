@@ -5,88 +5,88 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Tue, 27 Oct 2026 23:32:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 04:19:59 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Переводчик в каждый дом</title>
-      <link>https://habr.com/ru/articles/1096680/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1096680</link>
-      <description>Одно время я очень боялся проходить собеседования на английском. При том, что знаю его неплохо и даже 2 года жил в США. Тем не менее, долгий перерыв в голосовом общении дает о себе знать. Особенно меня беспокоит то, что я могу не понять что именно мне говорят во время созвона. Но оказалось, что это не очень страшно...</description>
-      <pubDate>Tue, 27 Oct 2026 23:14:10 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1096680/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1096680</guid>
+      <title>С AI проще форкнуть, чем договориться?</title>
+      <link>https://habr.com/ru/articles/1100356/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100356</link>
+      <description>Если агент помогает и изменить библиотеку, и обновлять её форк, зачем договариваться об общей версии? Разбираю цену ожидания, пользу чужих сценариев и границу, за которой своя доработка оправданна. В конце пять вопросов перед решением. Читать далее</description>
+      <pubDate>Wed, 28 Oct 2026 04:18:20 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1100356/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100356</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>The data center boom has an upside: innovation for the US grid</title>
-      <link>https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/</link>
-      <description>As the AI boom stresses the existing power grid, all sorts of new opportunities for grid modernization are also emerging as a result, industry insiders say.</description>
-      <pubDate>Tue, 27 Oct 2026 22:55:41 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>Here’s why the iPhone Duo’s hinge could be cracking the screen</title>
-      <link>https://www.theverge.com/tech/1020145/iphone-duo-crackgate-broken-screen-hinge</link>
-      <description>Within hours of the iPhone Duo launch last Friday, people reported that the inner screen on some brand new foldable phones was already broken. The issue was similar across many photos shared on social media: some kind of issue or crack would appear in the middle of the screen above the hinge, with lines appearing […]</description>
-      <pubDate>Tue, 27 Oct 2026 22:55:05 +0000</pubDate>
-      <guid>https://www.theverge.com/tech/1020145/iphone-duo-crackgate-broken-screen-hinge</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>Guidewire buys Hyperexponential for $1.7B in cash</title>
-      <link>https://techcrunch.com/2026/10/27/guidewire-buys-hyperexponential-for-1-7b-in-cash/</link>
-      <description>The deal, expected to close sometime next year, is to help bring AI agents to work alongside humans to underwrite, analyze, and price decisions.</description>
-      <pubDate>Tue, 27 Oct 2026 22:26:03 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/27/guidewire-buys-hyperexponential-for-1-7b-in-cash/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>From 8VC to Benchmark, here’s what’s hiding in October SEC filings</title>
-      <link>https://techcrunch.com/2026/10/27/from-8vc-to-benchmark-heres-whats-hiding-in-october-sec-filings/</link>
-      <description>A whole crop of venture capital firms are raising significant new funds.</description>
-      <pubDate>Tue, 27 Oct 2026 22:17:18 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/27/from-8vc-to-benchmark-heres-whats-hiding-in-october-sec-filings/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>GM is embracing hybrids now</title>
-      <link>https://techcrunch.com/2026/10/27/gm-is-embracing-hybrids-now/</link>
-      <description>GM eschewed hybrids in favor of battery-electric vehicles. Now it's gearing up to offer hybrid versions of its SUVs.</description>
-      <pubDate>Tue, 27 Oct 2026 21:47:02 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/27/gm-is-embracing-hybrids-now/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>Bank of America kindly asks that you don’t share your banking password with your AI assistant</title>
-      <link>https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/</link>
-      <description>The banking giant reminds customers that "you're responsible for activity" resulting from your AI agents' access.</description>
-      <pubDate>Tue, 27 Oct 2026 21:44:34 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>Who’s really in charge at Anthropic after the IPO?</title>
-      <link>https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/</link>
-      <description>Here's a clear explanation of Anthropic's incredibly complex governance structure.</description>
-      <pubDate>Tue, 27 Oct 2026 21:38:28 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>Атака на VMmanager 6 — хронология инцидента, разбор использовавшихся уязвимостей и ситуация сейчас</title>
-      <link>https://habr.com/ru/companies/ispsystem/articles/1100330/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100330</link>
-      <description>Привет, Хабр. Наверняка многие из вас уже слышали о недавнем инциденте безопасности, затронувшем платформу управления виртуализацией VMmanager 6. Ситуация вызвала активные обсуждения в профессиональном сообществе, и мы считаем важным открыто поделиться техническими деталями произошедшего. В этой статье мы расскажем, что именно произошло с VMmanager, обсудим всю цепочку инцидента, сами уязвимости и в каком состоянии платформа находится сейчас. Читать далее</description>
-      <pubDate>Tue, 27 Oct 2026 21:27:08 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/ispsystem/articles/1100330/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100330</guid>
+      <title>Сомнительность сознания в искусственной системе</title>
+      <link>https://habr.com/ru/articles/1100358/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100358</link>
+      <description>После публикации статьи о возможности возникновения сознания в системе большой языковой модели мне публично высказывались несогласия. Однако никакой серьезной критики представлено не было. Но в личной переписке на Хабре, пользовательница @BloodMayors высказала альтернативное объяснение той особенности поведения, которую я считал наиболее сильным свидетельством возможности наличия сознания в системе большой языковой модели. Я посчитал важным изложить критику некоторых моментов своей гипотезы. Ее </description>
+      <pubDate>Wed, 28 Oct 2026 04:18:03 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1100358/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100358</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Discord is making its public communities more searchable, and people have concerns</title>
-      <link>https://techcrunch.com/2026/10/27/discord-is-making-its-public-communities-more-searchable-and-people-have-concerns/</link>
-      <description>In December, messages from Discord's public discoverable servers will begin appearing in search engine results.</description>
-      <pubDate>Tue, 27 Oct 2026 21:22:35 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/27/discord-is-making-its-public-communities-more-searchable-and-people-have-concerns/</guid>
-      <category>TechCrunch</category>
+      <title>[Перевод] Компьютерное зрение на микроконтроллере за $2: SIMD на ESP32-S3 ускорил FAST в 2,2 раза</title>
+      <link>https://habr.com/ru/articles/1100354/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100354</link>
+      <description>У ESP32-S3 есть 128-битные SIMD-инструкции, но примеров кода под них почти нет: автор нашёл всего три источника. Он написал на них детектор углов FAST и упёрся в два ограничения набора инструкций. Невыровненные блоки пикселей напрямую не читаются, а сравнивать можно только знаковые байты, причём вся арифметика с насыщением, так что вычесть 128 из беззнакового пикселя обычным вычитанием нельзя. Первое обошла инструкция, которая вырезает кусок из двух склеенных регистров, второе — XOR с 0x80. Итог</description>
+      <pubDate>Wed, 28 Oct 2026 04:09:10 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1100354/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100354</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Counting the Bandages: On measuring the time that AI saves</title>
+      <link>https://arxiv.org/abs/2610.35942</link>
+      <description>arXiv:2610.35942v1 Announce Type: new Abstract: I consider what it means for AI assistance to save time. I contrast a stopwatch view, on which time saved is whatever the clock records, with a ledger view, on which it is a counterfactual that has to be read next to the errors the work lets through, and I argue for the latter. The argument has four parts. I define a model-free pair of quantities, time saved and excess escaped defects, and one decision number built from them: the break-even defect </description>
+      <pubDate>Wed, 28 Oct 2026 04:00:00 +0000</pubDate>
+      <guid>https://arxiv.org/abs/2610.35942</guid>
+      <category>cs.AI updates on arXiv.org</category>
+    </item>
+    <item>
+      <title>Enhancing Deep Learning Model Performance through Data Generation Strategies: Classification of Olive Tree Diseases</title>
+      <link>https://arxiv.org/abs/2610.35984</link>
+      <description>arXiv:2610.35984v1 Announce Type: new Abstract: Deep learning models are highly effective in a wide range of domains, particu larly in plant disease diagnosis. However, their performance is often limited by challenges such as insufficient data and class imbalance. In our work, we propose a comprehensive data generation strategy to overcome these limitations. First, we apply various data generation techniques, including traditional augmentation methods, CutMix, MixUp, and synthetic image generati</description>
+      <pubDate>Wed, 28 Oct 2026 04:00:00 +0000</pubDate>
+      <guid>https://arxiv.org/abs/2610.35984</guid>
+      <category>cs.AI updates on arXiv.org</category>
+    </item>
+    <item>
+      <title>The Trinity:Capability-Driven Recursive Self-Improvement for Multimodal Agents</title>
+      <link>https://arxiv.org/abs/2610.36077</link>
+      <description>arXiv:2610.36077v1 Announce Type: new Abstract: Multimodal intelligence can be viewed as human-guided co-evolution between worlds and agents through interaction. However, scaling this process faces two bottlenecks: constructing heterogeneous, verifiable environments is costly, and manual Harness iteration cannot keep pace with growing task diversity and complexity. A key insight is that tasks with different modalities and surface forms can share the same underlying capability requirements. We th</description>
+      <pubDate>Wed, 28 Oct 2026 04:00:00 +0000</pubDate>
+      <guid>https://arxiv.org/abs/2610.36077</guid>
+      <category>cs.AI updates on arXiv.org</category>
+    </item>
+    <item>
+      <title>CohortFlow: A Steerable Clinical Cohort Curation Agent with Localized Semantic Correction</title>
+      <link>https://arxiv.org/abs/2610.36100</link>
+      <description>arXiv:2610.36100v1 Announce Type: new Abstract: Language model agents for clinical cohort curation should accommodate evolving eligibility criteria without repeatedly processing unchanged requirements. We introduce CohortFlow, a steerable agent that represents natural language corrections as localized updates to a structured cohort specification and reconciles them with a persistent execution graph. Explicitly recorded semantic dependencies enable affected computations to be selectively invalida</description>
+      <pubDate>Wed, 28 Oct 2026 04:00:00 +0000</pubDate>
+      <guid>https://arxiv.org/abs/2610.36100</guid>
+      <category>cs.AI updates on arXiv.org</category>
+    </item>
+    <item>
+      <title>Why and How to Do Science When AI Is Better at It: A Framework Grounded in Human Understanding and Direction</title>
+      <link>https://arxiv.org/abs/2610.36116</link>
+      <description>arXiv:2610.36116v1 Announce Type: new Abstract: As AI begins to match or exceed human researchers at core scientific tasks, two questions become pressing: \emph{why} should humans keep doing science, and \emph{how} should they use AI when they do? This paper argues that the second can be answered only by answering the first. It holds that one indispensable aim of science is \emph{durable, collective human understanding of the world, pursued in service of human ends and values}. From this princip</description>
+      <pubDate>Wed, 28 Oct 2026 04:00:00 +0000</pubDate>
+      <guid>https://arxiv.org/abs/2610.36116</guid>
+      <category>cs.AI updates on arXiv.org</category>
+    </item>
+    <item>
+      <title>From Structural Feedback to Prompt Policies: Learning Faithful Text-to-Image Prompt Editors</title>
+      <link>https://arxiv.org/abs/2610.36146</link>
+      <description>arXiv:2610.36146v1 Announce Type: new Abstract: Prompt optimization should improve the image a user receives without changing the scene the user requested. Yet stylistic rewriting can weaken object attributes and relations even when global text--image similarity remains high. We propose StruPO, a structure-aware prompt editor that uses a calibrated scene graph as a shared representation for policy conditioning and image-grounded supervision. The graph exposes what should be preserved, while dele</description>
+      <pubDate>Wed, 28 Oct 2026 04:00:00 +0000</pubDate>
+      <guid>https://arxiv.org/abs/2610.36146</guid>
+      <category>cs.AI updates on arXiv.org</category>
+    </item>
+    <item>
+      <title>Don't Pick a Winner: Knowledge Conflicts Need a Prior, Not a Rule</title>
+      <link>https://arxiv.org/abs/2610.36169</link>
+      <description>arXiv:2610.36169v1 Announce Type: new Abstract: A retrieval-augmented language model answers from two sources, the retrieved context and its own knowledge, and the two disagree whenever the context is incomplete or wrong. Existing methods settle the disagreement with a rule fixed at design time: follow the context, amplify it in proportion to how far it moves the model, or trust the model's memory. Each rule is confidently wrong in some deployment. In a decision-theoretic model of two sources, t</description>
+      <pubDate>Wed, 28 Oct 2026 04:00:00 +0000</pubDate>
+      <guid>https://arxiv.org/abs/2610.36169</guid>
+      <category>cs.AI updates on arXiv.org</category>
     </item>
   </channel>
 </rss>
