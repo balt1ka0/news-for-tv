@@ -5,88 +5,88 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Wed, 28 Oct 2026 17:01:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 21:33:09 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Xreal Aura is a new wired headset powered by Android XR</title>
-      <link>https://techcrunch.com/2026/10/28/xreal-aura-is-a-new-wired-headset-powered-by-android-xr/</link>
-      <description>Xreal Aura will start at $1,279 and will have multiple XR specific launch apps at launch</description>
-      <pubDate>Wed, 28 Oct 2026 17:00:00 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/28/xreal-aura-is-a-new-wired-headset-powered-by-android-xr/</guid>
+      <title>Microsoft hits 10 quarters of record- breaking revenue in a row</title>
+      <link>https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/</link>
+      <description>Whatever the future of AI might be, the current situation is still very good for Microsoft. The tech giant reported yet another record for quarterly revenue on Wednesday: $92.3 billion, a 19% increase over the year-ago quarter.</description>
+      <pubDate>Wed, 28 Oct 2026 21:25:30 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/</guid>
       <category>TechCrunch</category>
     </item>
     <item>
-      <title>As AI agents reshape the web, Google opens Gemini and Search to more apps</title>
-      <link>https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/</link>
-      <description>A new developer platform will let businesses bring their services to Google's AI experiences, potentially changing how consumers discover and use apps.</description>
-      <pubDate>Wed, 28 Oct 2026 17:00:00 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>Chrome’s AI-powered Autofill can now dig through your Gmail to fill out forms</title>
-      <link>https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/</link>
-      <description>The autofill update lets Chrome pull flight confirmations, tracking info, order details, and other information from your inbox, with your permission.</description>
-      <pubDate>Wed, 28 Oct 2026 17:00:00 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>KassiOS: слой в стиле Kaspresso поверх XCUITest, проверенный на сломанном банке</title>
-      <link>https://habr.com/ru/articles/1100796/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100796</link>
-      <description>Я пришёл в нативное iOS-тестирование из Appium, и простой логин на XCUITest раз за разом обрастал waitForExistence, ретраями и самописными хелперами. Так появился KassiOS — слой в стиле Kaspresso поверх XCUITest: тап с общим бюджетом ожидания, который не повторяется после отправки, перечитывание поля после ввода, понятные сообщения о падениях, параметризованные тесты. Чтобы проверить, ловят ли тесты баги, я прогнал их против ChaosBank — приложения с включаемыми дефектами — и написал утилиту, кот</description>
-      <pubDate>Wed, 28 Oct 2026 16:55:25 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1100796/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100796</guid>
+      <title>Бесплатное ПО, пять лет разработки и немного наглости. Как я пытаюсь попасть в реестр российского ПО</title>
+      <link>https://habr.com/ru/articles/1100860/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100860</link>
+      <description>Привет, Хабр! Я Артур Валиев. Разработчик, предприниматель из небольшого села в Ставропольском крае и человек, который однажды решил, что написать собственный удалённый рабочий стол — хорошая идея. Спойлер: идея оказалась хорошей. А вот количество работы я немного недооценил. Примерно на пять лет. Но начать хочу совсем с другого. Читать далее</description>
+      <pubDate>Wed, 28 Oct 2026 21:17:11 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1100860/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100860</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Периодические функции как функции активации в нейросетях</title>
-      <link>https://habr.com/ru/articles/1100598/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100598</link>
-      <description>В данной статье мы рассмотрим применение периодических функций в качестве функций активации в нейросетях. Мы проведём сравнительные эксперименты на простых сетях и посмотрим, как периодические активации (например, sin ) ведут себя по сравнению с классическими непериодическими — tanh , sigmoid и ReLU . Читать далее</description>
-      <pubDate>Wed, 28 Oct 2026 16:38:45 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1100598/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100598</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Touchscreen MacBook live blog: On the ground at Apple’s launch event</title>
-      <link>https://www.theverge.com/tech/1019809/apple-touchscreen-macbook-pro-la-keynote-event-live-blog</link>
-      <description>Apple has already had a busy week. On Monday, it announced a new iPad Mini with an upgraded OLED display, and on Tuesday, we got M6 chip upgrades for the MacBook Pro and iMac. The Macs are the definition of iterative updates - they're quiet refreshes that look just like their direct predecessors. But today […]</description>
-      <pubDate>Wed, 28 Oct 2026 16:33:32 +0000</pubDate>
-      <guid>https://www.theverge.com/tech/1019809/apple-touchscreen-macbook-pro-la-keynote-event-live-blog</guid>
+      <title>Readwise is taking on Kindle and Kobo for ebook supremacy</title>
+      <link>https://www.theverge.com/tech/1020264/readwise-books-launch-ebook-store</link>
+      <description>For the last several years, Readwise has been building tools for power readers. There's the eponymous product, Readwise, which stores and categorizes your Kindle highlights to help you remember what you've read. There's Readwise Reader, an app for reading newsletters, PDFs, and web articles you've saved for later. And now there's Readwise Books, a full-fledged […]</description>
+      <pubDate>Wed, 28 Oct 2026 21:16:18 +0000</pubDate>
+      <guid>https://www.theverge.com/tech/1020264/readwise-books-launch-ebook-store</guid>
       <category>The Verge</category>
     </item>
     <item>
-      <title>«6 − 2 = 3»: как мы проверяем кодом задания, которые пишет языковая модель</title>
-      <link>https://habr.com/ru/articles/1100788/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100788</link>
-      <description>Мы делаем учебную игру: человек пишет цель своими словами («таблица умножения», «дроби за 5 класс», «английский для поездки»), а игра строит под неё путь из локаций. В каждой локации — порция из пяти заданий. Готовых курсов нет: тема может быть любой, поэтому задания пишет языковая модель (Claude от Anthropic) — под цель, уровень и последние ответы игрока. Придумывает задания модель хорошо, а считает плохо. В октябре мы разобрали 68 жалоб «Задание с ошибкой?» — игроки отправляют их кнопкой прямо</description>
-      <pubDate>Wed, 28 Oct 2026 16:33:06 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1100788/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100788</guid>
+      <title>Каждый таксист теперь может попробовать поуправлять крупной корпорацией</title>
+      <link>https://habr.com/ru/articles/1100858/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100858</link>
+      <description>Каждый таксист знает, как управлять страной, а заодно и “Роснефтью”: кого снять в правлении и что делать с ценой на нефть, он объяснит за одну поездку от аэропорта до центра. Проверить эти знания на деле ему было негде. Теперь и государство, и крупную корпорацию можно собрать из ИИ-агентов, и мы это сделали! Нет, не перешли работать в такси, а собрали Корпорацию Всевластия. А я таки сел за руль :) Читать далее</description>
+      <pubDate>Wed, 28 Oct 2026 21:15:40 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1100858/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100858</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>All the news from Apple’s ‘Pro and tell’ event</title>
-      <link>https://www.theverge.com/tech/1018096/apple-pro-and-tell-launch-event-news-announcements</link>
-      <description>Apple’s “Pro and tell” event kicks off at 1PM ET / 10AM PT on October 28th. The event comes just a couple of weeks after Apple debuted the HomeView, its first smart display, and a little over a month after it announced the iPhone Duo, its first foldable. Its next event could feature yet another […]</description>
-      <pubDate>Wed, 28 Oct 2026 16:30:00 +0000</pubDate>
-      <guid>https://www.theverge.com/tech/1018096/apple-pro-and-tell-launch-event-news-announcements</guid>
+      <title>Google says its investments in AI are driving more searches</title>
+      <link>https://www.theverge.com/tech/1020811/alphabet-google-earnings-q3-2026</link>
+      <description>Google parent company Alphabet says that its AI investments are leading to a big growth in searches year-over-year, as noted in its Q3 2026 earnings today. "Our AI investments are driving overall Search query growth, including commercial queries," CEO Sundar Pichai says in a statement. "In fact, our year-over-year query growth rate is the highest […]</description>
+      <pubDate>Wed, 28 Oct 2026 20:22:26 +0000</pubDate>
+      <guid>https://www.theverge.com/tech/1020811/alphabet-google-earnings-q3-2026</guid>
       <category>The Verge</category>
     </item>
     <item>
-      <title>О мышах и людях: проверяем нейросеть на ложных предпосылках</title>
-      <link>https://habr.com/ru/companies/bothub/articles/1100786/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100786</link>
-      <description>Попросила нейросеть объяснить слепоту летучих мышей и отказ Мережковского от Нобелевской премии. Модель начала сомневаться, даже если в начале уверенно спорила со мной. Разбираю, как мы закладываем ошибки в вопросы и какие подробности стоит проверять, даже когда нейросеть нас правильно поправила. Читать далее</description>
-      <pubDate>Wed, 28 Oct 2026 16:27:23 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/bothub/articles/1100786/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100786</guid>
+      <title>Microsoft reveals strong cloud growth amid financial reporting overhaul</title>
+      <link>https://www.theverge.com/tech/1020785/microsoft-earnings-revenue-q1-2027</link>
+      <description>Microsoft just posted the first quarter of its 2027 fiscal financial results. The software maker made $92.3 billion in revenue and a net income of $33.6 billion during Q1. Revenue is up 19 percent, and net income has increased by 32 percent. It's a new financial year for Microsoft, so the company is changing up […]</description>
+      <pubDate>Wed, 28 Oct 2026 20:20:00 +0000</pubDate>
+      <guid>https://www.theverge.com/tech/1020785/microsoft-earnings-revenue-q1-2027</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>ymcp, или как подружить агентов с YouTrack, если ты не админ</title>
+      <link>https://habr.com/ru/articles/1100844/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100844</link>
+      <description>Всё началось с того, что я в очередной раз копировал описание задачи из YouTrack в Claude Code. Потом комментарии к ней. Потом ещё один комментарий, который кто‑то оставил, пока я копировал первые. Потом ждал, пока агент напишет код, открывал PR, возвращался в задачу, вставлял ссылку, менял статус на Fixed — и шёл за следующей. В какой‑то момент я понял, что из всей этой цепочки самая бесполезная её часть — это я. Агент умеет писать код, YouTrack умеет хранить задачи, а я работаю буфером обмена </description>
+      <pubDate>Wed, 28 Oct 2026 20:16:24 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1100844/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100844</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>13 релизов за неделю: OpenShift, алерты, фильтры и первые внешние контрибьюторы Sextant</title>
-      <link>https://habr.com/ru/articles/1100782/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100782</link>
-      <description>В прошлой статье про Sextant в конце стоял роадмап на четыре версии. Все четыре вышли к 23 октября, а за ними — ещё восемь релизов: алерты из Prometheus и Alertmanager, логи удалённых подов из Loki, OpenShift, OLM, k3s/RKE2, vcluster и фильтры в таблицах. Всего за неделю — 13 релизов, от 0.20.0 до 0.25.5. Но главное в этой неделе — сообщество. Первые внешние pull request’ы вошли в релизы, идея из внешнего PR сократила память на отслеживаемый объект в пять раз, а целая версия 0.25.5 выросла из од</description>
-      <pubDate>Wed, 28 Oct 2026 16:21:41 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1100782/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100782</guid>
-      <category>Все публикации подряд на Хабре</category>
+      <title>Apple charges $14,549 for a fully specced touchscreen MacBook Pro</title>
+      <link>https://www.theverge.com/tech/1021308/apple-touchscreen-macbook-pro-proled-xdr-fully-specced</link>
+      <description>With an OLED display and touchscreen capabilities, it's no surprise that the new MacBook Pro Apple announced today is more expensive than the MBP announced earlier this year. But upgrading the base models that start at $2,899 for the 14-inch, and $3,399 for the 16-inch, with every premium hardware option that Apple offers pushes those […]</description>
+      <pubDate>Wed, 28 Oct 2026 20:12:44 +0000</pubDate>
+      <guid>https://www.theverge.com/tech/1021308/apple-touchscreen-macbook-pro-proled-xdr-fully-specced</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity</title>
+      <link>https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier</link>
+      <description>Google has released its latest frontier model, Gemini 4 Carbon, offering "significant gains" in coding, agentic tasks, and cybersecurity. In an announcement on Wednesday, Google highlights Carbon's top spot on the Artificial Analysis Intelligence Index (v5.0) benchmark, with Claude Opus 5.5 and GPT-6 Astra trailing behind. The new Gemini 4 Carbon model offers improvements over […]</description>
+      <pubDate>Wed, 28 Oct 2026 20:03:00 +0000</pubDate>
+      <guid>https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>Hacker stole personnel data about thousands of Homeland Security employees, including CBP and ICE agents</title>
+      <link>https://techcrunch.com/2026/10/28/hacker-stole-personnel-data-about-thousands-of-homeland-security-employees-including-cbp-and-ice-agents/</link>
+      <description>A hacker obtained personally identifiable information about more than 40,000 Homeland Security staffers, which has since been published online.</description>
+      <pubDate>Wed, 28 Oct 2026 20:01:00 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/28/hacker-stole-personnel-data-about-thousands-of-homeland-security-employees-including-cbp-and-ice-agents/</guid>
+      <category>TechCrunch</category>
     </item>
   </channel>
 </rss>
