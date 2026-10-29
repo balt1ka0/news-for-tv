@@ -5,87 +5,87 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Thu, 29 Oct 2026 08:06:08 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 15:54:02 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Под капотом современных ИИ-сервисов: KV-кэш, батчинг, квантизация и серверное железо</title>
-      <link>https://habr.com/ru/companies/selectel/articles/1099322/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099322</link>
-      <description>Итак, вы отправляете запрос через сайт или приложение. В этот момент начинается его путь к подробному и, возможно, корректному ответу. По дороге запрос проходит через несколько систем, причем каждая выполняет свою задачу. Давайте разберем этот процесс. Всем привет! С вами Сергей Ковалёв, менеджер продукта Выделенные серверы в Selectel . Сегодня расскажу, как устроена серверная инфраструктура ИИ-сервисов, с которыми каждый день работают менеджеры, поддержка, продавцы и специалисты сотен других пр</description>
-      <pubDate>Thu, 29 Oct 2026 08:00:43 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/selectel/articles/1099322/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099322</guid>
+      <title>Автомонтаж в Claude — скам или реальная революция? Генерация видео ИИ в Клоде в России</title>
+      <link>https://habr.com/ru/companies/speshu_ai/articles/1101338/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101338</link>
+      <description>Знали ли вы, что Claude теперь монтирует видео? Не просто пишет сценарий или подсказывает, а делает все сам. Вы кладете в папку исходник и пишете: «Убери паузы, оговорки и слова-паразиты, оставь лучшие дубли, добавь субтитры». Через пару минут в той же папке лежит готовый ролик. Проект, который это умеет, за полгода собрал на GitHub больше 30 000 звёзд, а в соцсетях пишут, что Claude монтирует лучше специализированных нейросетей для видео. Мы проверили, так ли это. Оказалось, что Клод вообще не </description>
+      <pubDate>Thu, 29 Oct 2026 15:23:29 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/speshu_ai/articles/1101338/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101338</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Windows IR: системный подход. Часть 4 — артефакты, таймлайн, IOC, восстановление</title>
-      <link>https://habr.com/ru/companies/first/articles/1098096/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098096</link>
-      <description>Это четвёртая, заключительная часть материала, посвящённого Windows IR. Третья часть была посвящена задачам планировщика, автозапуску, учётным записям и восстановлению хронологии по журналам событий. В этой части — готовим коллекцию для офлайн-анализа, разбираем артефакты пользовательской активности, включая историю браузера, собираем итоговый таймлайн, превращаем находки в IOC и проходим по шагам восстановления системы после инцидента. Читать далее</description>
-      <pubDate>Thu, 29 Oct 2026 08:00:43 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/first/articles/1098096/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098096</guid>
+      <title>Перенос Moodle на Ubuntu 24.04 LTS: восстановление из бэкапов, PHP 8.3 и диагностика ошибок</title>
+      <link>https://habr.com/ru/articles/1101336/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101336</link>
+      <description>Перенос учебного портала на новый сервер выглядит довольно просто: развернуть веб-сервер, восстановить базу данных, распаковать файлы и поправить конфигурацию. На практике всё оказалось интереснее. При восстановлении Moodle 4.1.11 на Ubuntu 24.04.5 LTS мы столкнулись с несколькими проблемами: в конфигурации оказалось неправильное имя базы данных, на сервере обнаружились два каталога с кодом Moodle, MySQL отказывался запускаться, а после восстановления возникли ошибки кэширования и invalidparamet</description>
+      <pubDate>Thu, 29 Oct 2026 15:13:35 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1101336/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101336</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Дедупликация фото без нейросетей. Часть 1: измеряем перцептивные хеши</title>
-      <link>https://habr.com/ru/companies/domclick/articles/1091246/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1091246</link>
-      <description>Недавно у нашей команды появилась необходимость отвечать на вопрос: А такое фото у нас уже есть?». Не «такой же файл» — его можно было бы легко проверить по SHA-256, — а именно такое же фото: пережатое, уменьшенное, с чужим логотипом поперёк кадра, подрезанное по краям. Про перцептивные хеши на Хабре написано много, почти везде разбирают устройство алгоритма. Мне же хотелось понять, что он выдерживает. Поэтому я взял двадцать фотографий, изменил каждую двадцатью шестью способами из тех, что реал</description>
-      <pubDate>Thu, 29 Oct 2026 08:00:05 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/domclick/articles/1091246/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1091246</guid>
+      <title>От учителя к студенту: путь к изотропным эмбеддингам в 29M модели. Часть 1/10</title>
+      <link>https://habr.com/ru/articles/1100874/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100874</link>
+      <description>Просмотр слоев моделей, первые "пристрелочные" тесты для определения общего направления работы и выбор базовой модели для дистилляции. Эта часть довольно простая и короткая, но содержит некоторые важные наблюдения. Читать далее</description>
+      <pubDate>Thu, 29 Oct 2026 15:00:50 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1100874/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100874</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>После комментариев на Хабре я ограничил чтение SQLite и перевёл Docker-модуль в WASI</title>
-      <link>https://habr.com/ru/articles/1101028/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101028</link>
-      <description>После прошлой статьи о Pulse читатели Хабра обратили внимание на вещи, которые я не учёл: долгий запрос истории может мешать очистке SQLite WAL, успешное выполнение команды ещё не означает, что контейнер поднялся, а разрешения модуля сами по себе не изолируют его от файлов сервера. Я пошёл проверять эти замечания и разбирать реализацию. В статье — что получилось: тест чтения истории одновременно с записью отчётов, ограничение времени запросов и наблюдение за WAL, проверка состояния Docker-контей</description>
-      <pubDate>Thu, 29 Oct 2026 07:59:52 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1101028/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101028</guid>
+      <title>Agent identity startup Mintive lands Cowboy Ventures, Coatue, angels Jeff Dean, Andrej Karpathy</title>
+      <link>https://techcrunch.com/2026/10/29/agent-identity-startup-mintive-lands-cowboy-ventures-coatue-angels-jeff-dean-andrej-karpathy/</link>
+      <description>Mintive was founded by two engineers who have been working on AI for decades through Google Brain and Coursera. It's platform promises to help IT easily control enterprise agents.</description>
+      <pubDate>Thu, 29 Oct 2026 15:00:00 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/29/agent-identity-startup-mintive-lands-cowboy-ventures-coatue-angels-jeff-dean-andrej-karpathy/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>The NYT Cooking app is testing AI recipe modifications</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool</link>
+      <description>The New York Times is testing a new AI feature for its Cooking app that helps users to modify recipes, and it's sparked some drama among users. NYT Cooking senior editor Genevieve Ko announced the feature last Friday, which can be used to recommend substitutions for ingredients and cooking equipment, scale recipes to any number […]</description>
+      <pubDate>Thu, 29 Oct 2026 14:39:37 +0000</pubDate>
+      <guid>https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round</title>
+      <link>https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/</link>
+      <description>On Thursday, AI app, Wabi, now describing itself as a "personal agent," said it has raised $55 million at a $1.25 billion valuation.</description>
+      <pubDate>Thu, 29 Oct 2026 14:35:26 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>vue-llm: AI SDK для Vue и Nuxt — стриминговый чат, Generative UI и модели прямо в браузере</title>
+      <link>https://habr.com/ru/articles/1101308/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101308</link>
+      <description>Если вы делали AI-фичу на Vue, то, скорее всего, сталкивались с одним и тем же: большинство готовых инструментов для LLM-интерфейсов написаны с прицелом на React, а во Vue их приходится адаптировать или писать стриминг, tool calling и состояние чата вручную. Я сделал vue-llm — open-source библиотеку, которая закрывает это для Vue 3, Nuxt и даже Vue 2.7. Сразу ссылки, чтобы можно было пощупать: • Песочница без API-ключа (модель скачивается и работает прямо в браузере на WebGPU): https://vue-llm.j</description>
+      <pubDate>Thu, 29 Oct 2026 14:35:14 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1101308/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101308</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Claude Fable 5.1 или GPT-6 Astra для базы знаний: считаем стоимость 20 обращений и границу экономии</title>
-      <link>https://habr.com/ru/companies/raketa_pay/articles/1101024/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101024</link>
-      <description>Расчет стоимости 20 обращений к базе знаний: почему четырехкратная разница в цене чтения кэша дает лишь 16,7% экономии, когда преимущество исчезает и как пересчитать сценарий с помощью Python. Читать далее</description>
-      <pubDate>Thu, 29 Oct 2026 07:59:23 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/raketa_pay/articles/1101024/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101024</guid>
+      <title>Чистый контур — агентская прачечная для вашего грязного легаси</title>
+      <link>https://habr.com/ru/articles/1101314/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101314</link>
+      <description>Два из трех API-вызовов возвращали HTTP 500. Агенты поколениями лепили заплатки поверх заплаток, пока код не превратился в клубок нейросоплей. Вместо очередного исправления я перенес систему в чистый контур, где агент пишет новую реализацию, не видя старой. В статье механизм переноса, 15 правил защиты от новых костылей и эксперимент на 36 запусках DeepSeek: насколько поведение агента зависит от того, какой код и какие правила ему показывают. Войти в чистый контур</description>
+      <pubDate>Thu, 29 Oct 2026 14:32:05 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1101314/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101314</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Бинауральный звук с фронтальной АС</title>
-      <link>https://habr.com/ru/articles/1101020/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101020</link>
-      <description>Принято считать, что воспроизведение бинаурального звука через фронтальные колонки требует сложных алгоритмов взаимного подавления каналов (Crosstalk Cancellation). В этой заметке я хочу уйти от привычных догм «равностороннего треугольника» в 60° и предложить альтернативный дифференциальный метод. Вместо математического подавления сигналов мы можем рассмотреть физику волнового фронта относительно природной 180-градусной базы слуха человека и просто компенсировать возникающее фронтальное маскиров</description>
-      <pubDate>Thu, 29 Oct 2026 07:50:42 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1101020/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101020</guid>
-      <category>Все публикации подряд на Хабре</category>
+      <title>There’s one week left to preorder the Ocarina of Time remake for $10 off</title>
+      <link>https://www.theverge.com/gadgets/1022103/ocarina-of-time-remake-apple-mac-mini-ssd-hdmi-dock-deal-sale</link>
+      <description>The long-awaited remake of The Legend of Zelda: Ocarina of Time for Nintendo Switch 2 launches next Thursday, November 5th. In other words, you have a week remaining to secure your physical edition with a $10 discount at Amazon and Walmart. Once the game launches, the physical version will almost certainly go from $59.99 to […]</description>
+      <pubDate>Thu, 29 Oct 2026 14:24:45 +0000</pubDate>
+      <guid>https://www.theverge.com/gadgets/1022103/ocarina-of-time-remake-apple-mac-mini-ssd-hdmi-dock-deal-sale</guid>
+      <category>The Verge</category>
     </item>
     <item>
-      <title>А можно просто интернет? Без очередной инициативы</title>
-      <link>https://habr.com/ru/articles/1101006/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101006</link>
-      <description>Как менялось регулирование VPN и интернет-инфраструктуры в России с 2022 по 2026 год: от ограничений публикаций и рекламы до обсуждения лимитов зарубежного трафика. Собрали хронологию решений и инициатив, которые затронули пользователей, операторов связи, интернет-платформы и хостинг-провайдеров. Разбираем, какие меры уже действуют, какие предложения пересматривались и что пока остается на стадии обсуждения. Читать далее</description>
-      <pubDate>Thu, 29 Oct 2026 07:39:20 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1101006/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101006</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Как я сделал SlideCraft: от одного промпта до презентации для топ-менеджеров</title>
-      <link>https://habr.com/ru/articles/1101004/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101004</link>
-      <description>Один и тот же заголовок помещался в HTML, а в PowerPoint переносился на другую строку. Я рассчитывал, что для генератора презентаций хватит размеров текстового блока и метрик шрифта. Пришлось измерять поведение самого PowerPoint: как он округляет ширину символов, рисует глифы и выбирает место переноса. Это оказалось одной из самых сложных частей SlideCraft — инструмента, который я сделал для подготовки управленческих презентаций с помощью ИИ. Пользователь описывает задачу агенту, согласует струк</description>
-      <pubDate>Thu, 29 Oct 2026 07:35:40 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1101004/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101004</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Вычисления, хранение, масштабируемость: погружение в архитектуру гиперконвергентной дата-платформы</title>
-      <link>https://habr.com/ru/companies/vktech/articles/1100642/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100642</link>
-      <description>Привет, Хабр. Меня зовут Павел Кутаков. Я главный архитектор VK Data Platform , VK Tech. Более 10 лет подход с разделением compute- и storage-слоев де-факто считается стандартом, следование которому позволяет максимально эффективно использовать доступные ресурсы. Но на практике подобный подход применим не всегда — например, по нашему мнению, он не всегда оптимален для построения платформ данных. Именно поэтому при разработке VK Data Platform мы реализовали единую гиперконвергентную архитектуру. </description>
-      <pubDate>Thu, 29 Oct 2026 07:33:12 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/vktech/articles/1100642/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100642</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Claude в Houdini на Windows: как подключить агента и что по дороге сломалось</title>
-      <link>https://habr.com/ru/articles/1100998/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100998</link>
-      <description>Весь Houdini знать невозможно — поэтому я периодически тестирую AI-агентов. Тему MCP изучаю давно: агент без доступа к софту мало полезен. Как это работает</description>
-      <pubDate>Thu, 29 Oct 2026 07:26:39 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1100998/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100998</guid>
+      <title>Я сделал экран для мониторинга моих квот LLM провайдеров</title>
+      <link>https://habr.com/ru/articles/1101302/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101302</link>
+      <description>Начну с того, что еще недавно мои познания в схемотехнике балансировали на уровне непонимания различия между транзистором и резистором. Из всего арсенала, хоть как-то применимого к embedded, за душой был только Rust. Но когда на радаре замаячил так называемый встриваемый AI (машинное обучение и компьютерное зрение прямо на копеечных микроконтроллерах), - спортивный интерес взял верх. Не тратя недели на теорию, я просто доехал до радиорынка и вернулся с джентльменским набором первопроходца: ESP32</description>
+      <pubDate>Thu, 29 Oct 2026 14:15:38 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1101302/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101302</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
   </channel>
