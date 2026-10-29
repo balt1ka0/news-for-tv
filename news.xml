@@ -5,88 +5,88 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Wed, 28 Oct 2026 21:33:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 01:35:19 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Microsoft hits 10 quarters of record- breaking revenue in a row</title>
-      <link>https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/</link>
-      <description>Whatever the future of AI might be, the current situation is still very good for Microsoft. The tech giant reported yet another record for quarterly revenue on Wednesday: $92.3 billion, a 19% increase over the year-ago quarter.</description>
-      <pubDate>Wed, 28 Oct 2026 21:25:30 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/</guid>
+      <title>Upwind raises $400M after walking away from Datadog acquisition offer</title>
+      <link>https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/</link>
+      <description>The cloud security startup raised a Series C at a $3.8B valuation, instead of selling itself for the same price.</description>
+      <pubDate>Wed, 28 Oct 2026 23:15:00 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/</guid>
       <category>TechCrunch</category>
     </item>
     <item>
-      <title>Бесплатное ПО, пять лет разработки и немного наглости. Как я пытаюсь попасть в реестр российского ПО</title>
-      <link>https://habr.com/ru/articles/1100860/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100860</link>
-      <description>Привет, Хабр! Я Артур Валиев. Разработчик, предприниматель из небольшого села в Ставропольском крае и человек, который однажды решил, что написать собственный удалённый рабочий стол — хорошая идея. Спойлер: идея оказалась хорошей. А вот количество работы я немного недооценил. Примерно на пять лет. Но начать хочу совсем с другого. Читать далее</description>
-      <pubDate>Wed, 28 Oct 2026 21:17:11 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1100860/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100860</guid>
+      <title>Как генератор трёх слов на баннере вырос в веб-сервис: Ghostscript, CMYK и производственные грабли</title>
+      <link>https://habr.com/ru/articles/1100872/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100872</link>
+      <description>На фрилансе регулярно просят сверстать простой баннер «АРЕНДА + телефон». Брать за три слова 2 000 рублей неловко, а запускать CorelDRAW, выставлять миллиметры и переводить шрифты в кривые всё равно приходится. Рассказываю, как внутренний скрипт для генерации валидного CMYK PDF вырос в производственный сервис с динамическим разрешением Ghostscript, инспектором структуры PDF, пакетной сборкой из CSV и партнёрским режимом для типографий. Читать далее</description>
+      <pubDate>Wed, 28 Oct 2026 23:14:24 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1100872/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100872</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Readwise is taking on Kindle and Kobo for ebook supremacy</title>
-      <link>https://www.theverge.com/tech/1020264/readwise-books-launch-ebook-store</link>
-      <description>For the last several years, Readwise has been building tools for power readers. There's the eponymous product, Readwise, which stores and categorizes your Kindle highlights to help you remember what you've read. There's Readwise Reader, an app for reading newsletters, PDFs, and web articles you've saved for later. And now there's Readwise Books, a full-fledged […]</description>
-      <pubDate>Wed, 28 Oct 2026 21:16:18 +0000</pubDate>
-      <guid>https://www.theverge.com/tech/1020264/readwise-books-launch-ebook-store</guid>
+      <title>Adam Mosseri says negativity around AI is ‘going to get worse’</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity</link>
+      <description>Asked about AI and the trend of college students booing tech CEOs at graduation ceremonies, Instagram head Adam Mosseri acknowledged in an interview that a lot of people really don't like AI, and it's not just young people and creatives. Appearing on the Colin and Samir podcast to talk about the launch of widescreen and […]</description>
+      <pubDate>Wed, 28 Oct 2026 23:05:39 +0000</pubDate>
+      <guid>https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity</guid>
       <category>The Verge</category>
     </item>
     <item>
-      <title>Каждый таксист теперь может попробовать поуправлять крупной корпорацией</title>
-      <link>https://habr.com/ru/articles/1100858/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100858</link>
-      <description>Каждый таксист знает, как управлять страной, а заодно и “Роснефтью”: кого снять в правлении и что делать с ценой на нефть, он объяснит за одну поездку от аэропорта до центра. Проверить эти знания на деле ему было негде. Теперь и государство, и крупную корпорацию можно собрать из ИИ-агентов, и мы это сделали! Нет, не перешли работать в такси, а собрали Корпорацию Всевластия. А я таки сел за руль :) Читать далее</description>
-      <pubDate>Wed, 28 Oct 2026 21:15:40 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1100858/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100858</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Google says its investments in AI are driving more searches</title>
-      <link>https://www.theverge.com/tech/1020811/alphabet-google-earnings-q3-2026</link>
-      <description>Google parent company Alphabet says that its AI investments are leading to a big growth in searches year-over-year, as noted in its Q3 2026 earnings today. "Our AI investments are driving overall Search query growth, including commercial queries," CEO Sundar Pichai says in a statement. "In fact, our year-over-year query growth rate is the highest […]</description>
-      <pubDate>Wed, 28 Oct 2026 20:22:26 +0000</pubDate>
-      <guid>https://www.theverge.com/tech/1020811/alphabet-google-earnings-q3-2026</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>Microsoft reveals strong cloud growth amid financial reporting overhaul</title>
-      <link>https://www.theverge.com/tech/1020785/microsoft-earnings-revenue-q1-2027</link>
-      <description>Microsoft just posted the first quarter of its 2027 fiscal financial results. The software maker made $92.3 billion in revenue and a net income of $33.6 billion during Q1. Revenue is up 19 percent, and net income has increased by 32 percent. It's a new financial year for Microsoft, so the company is changing up […]</description>
-      <pubDate>Wed, 28 Oct 2026 20:20:00 +0000</pubDate>
-      <guid>https://www.theverge.com/tech/1020785/microsoft-earnings-revenue-q1-2027</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>ymcp, или как подружить агентов с YouTrack, если ты не админ</title>
-      <link>https://habr.com/ru/articles/1100844/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100844</link>
-      <description>Всё началось с того, что я в очередной раз копировал описание задачи из YouTrack в Claude Code. Потом комментарии к ней. Потом ещё один комментарий, который кто‑то оставил, пока я копировал первые. Потом ждал, пока агент напишет код, открывал PR, возвращался в задачу, вставлял ссылку, менял статус на Fixed — и шёл за следующей. В какой‑то момент я понял, что из всей этой цепочки самая бесполезная её часть — это я. Агент умеет писать код, YouTrack умеет хранить задачи, а я работаю буфером обмена </description>
-      <pubDate>Wed, 28 Oct 2026 20:16:24 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1100844/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100844</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Apple charges $14,549 for a fully specced touchscreen MacBook Pro</title>
-      <link>https://www.theverge.com/tech/1021308/apple-touchscreen-macbook-pro-proled-xdr-fully-specced</link>
-      <description>With an OLED display and touchscreen capabilities, it's no surprise that the new MacBook Pro Apple announced today is more expensive than the MBP announced earlier this year. But upgrading the base models that start at $2,899 for the 14-inch, and $3,399 for the 16-inch, with every premium hardware option that Apple offers pushes those […]</description>
-      <pubDate>Wed, 28 Oct 2026 20:12:44 +0000</pubDate>
-      <guid>https://www.theverge.com/tech/1021308/apple-touchscreen-macbook-pro-proled-xdr-fully-specced</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity</title>
-      <link>https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier</link>
-      <description>Google has released its latest frontier model, Gemini 4 Carbon, offering "significant gains" in coding, agentic tasks, and cybersecurity. In an announcement on Wednesday, Google highlights Carbon's top spot on the Artificial Analysis Intelligence Index (v5.0) benchmark, with Claude Opus 5.5 and GPT-6 Astra trailing behind. The new Gemini 4 Carbon model offers improvements over […]</description>
-      <pubDate>Wed, 28 Oct 2026 20:03:00 +0000</pubDate>
-      <guid>https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>Hacker stole personnel data about thousands of Homeland Security employees, including CBP and ICE agents</title>
-      <link>https://techcrunch.com/2026/10/28/hacker-stole-personnel-data-about-thousands-of-homeland-security-employees-including-cbp-and-ice-agents/</link>
-      <description>A hacker obtained personally identifiable information about more than 40,000 Homeland Security staffers, which has since been published online.</description>
-      <pubDate>Wed, 28 Oct 2026 20:01:00 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/28/hacker-stole-personnel-data-about-thousands-of-homeland-security-employees-including-cbp-and-ice-agents/</guid>
+      <title>Apple’s touchscreen MacBook Pro pushes laptop pricing to a new extreme</title>
+      <link>https://techcrunch.com/2026/10/28/apples-touchscreen-macbook-pro-pushes-laptop-pricing-to-a-new-extreme/</link>
+      <description>Prepare to cough up around $14,549 if you want the new touchscreen MacBook Pro to have every upgrade.</description>
+      <pubDate>Wed, 28 Oct 2026 22:47:50 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/28/apples-touchscreen-macbook-pro-pushes-laptop-pricing-to-a-new-extreme/</guid>
       <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion</title>
+      <link>https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/</link>
+      <description>Microsoft has never disclosed Azure's quarterly revenue in dollars. But for the first time, we can see just how close it is getting to besting the biggest competitor in the market, AWS.</description>
+      <pubDate>Wed, 28 Oct 2026 21:58:32 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>A hacker stole more than 40,000 DHS employee records</title>
+      <link>https://www.theverge.com/tech/1021528/ice-cbp-data-leak</link>
+      <description>A hacker stole a trove of personal information from the Department of Homeland Security (DHS). The breach exposes the names, job titles, phone numbers, email addresses, and office locations of more than 41,000 employees, including those in US Immigration and Customs Enforcement (ICE) and Customs and Border Protection (CBP), according to TechCrunch and Wired. The […]</description>
+      <pubDate>Wed, 28 Oct 2026 21:57:45 +0000</pubDate>
+      <guid>https://www.theverge.com/tech/1021528/ice-cbp-data-leak</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>Google expands AI Search ads globally as core ad growth slows</title>
+      <link>https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/</link>
+      <description>The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion.</description>
+      <pubDate>Wed, 28 Oct 2026 21:48:37 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>Как я улучшил управление окнами в macOS</title>
+      <link>https://habr.com/ru/articles/1100864/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100864</link>
+      <description>Написал приложение, которое добавляет в macOS две функции: 1. Открытие приложений сочетанием клавиш, например ⌥-1 для Chrome, ⌥-2 для Slack; 2. Открытие проектов сочетанием клавиш, например ⌥-3 откроет Option1.xcodeproj в Xcode. Работает с любым приложением. В статье покажу принцип работы и возможности macOS о которых вы могли не знать. Текст и код подготовлены без использования технологий искусственного интеллекта. Читать далее</description>
+      <pubDate>Wed, 28 Oct 2026 21:38:43 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1100864/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100864</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Microsoft recorded $10 billion in revenue from OpenAI</title>
+      <link>https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/</link>
+      <description>Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financial dependency of the partnership.</description>
+      <pubDate>Wed, 28 Oct 2026 21:34:30 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>Akai is embracing vibe-coded mods with an open-source MPC</title>
+      <link>https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key</link>
+      <description>The MPC Sample Key isn't even formally announced yet, but Akai is already showing off what the modding community is cooking up through vibe coding. Akai has decided to embrace the explosion of hackers and custom firmware developers by giving them early access to the device, which will have open-source firmware. It will likely run […]</description>
+      <pubDate>Wed, 28 Oct 2026 21:34:04 +0000</pubDate>
+      <guid>https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key</guid>
+      <category>The Verge</category>
     </item>
   </channel>
 </rss>
