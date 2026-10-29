@@ -5,88 +5,88 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Thu, 29 Oct 2026 01:35:19 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 08:06:08 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Upwind raises $400M after walking away from Datadog acquisition offer</title>
-      <link>https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/</link>
-      <description>The cloud security startup raised a Series C at a $3.8B valuation, instead of selling itself for the same price.</description>
-      <pubDate>Wed, 28 Oct 2026 23:15:00 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>Как генератор трёх слов на баннере вырос в веб-сервис: Ghostscript, CMYK и производственные грабли</title>
-      <link>https://habr.com/ru/articles/1100872/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100872</link>
-      <description>На фрилансе регулярно просят сверстать простой баннер «АРЕНДА + телефон». Брать за три слова 2 000 рублей неловко, а запускать CorelDRAW, выставлять миллиметры и переводить шрифты в кривые всё равно приходится. Рассказываю, как внутренний скрипт для генерации валидного CMYK PDF вырос в производственный сервис с динамическим разрешением Ghostscript, инспектором структуры PDF, пакетной сборкой из CSV и партнёрским режимом для типографий. Читать далее</description>
-      <pubDate>Wed, 28 Oct 2026 23:14:24 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1100872/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100872</guid>
+      <title>Под капотом современных ИИ-сервисов: KV-кэш, батчинг, квантизация и серверное железо</title>
+      <link>https://habr.com/ru/companies/selectel/articles/1099322/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099322</link>
+      <description>Итак, вы отправляете запрос через сайт или приложение. В этот момент начинается его путь к подробному и, возможно, корректному ответу. По дороге запрос проходит через несколько систем, причем каждая выполняет свою задачу. Давайте разберем этот процесс. Всем привет! С вами Сергей Ковалёв, менеджер продукта Выделенные серверы в Selectel . Сегодня расскажу, как устроена серверная инфраструктура ИИ-сервисов, с которыми каждый день работают менеджеры, поддержка, продавцы и специалисты сотен других пр</description>
+      <pubDate>Thu, 29 Oct 2026 08:00:43 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/selectel/articles/1099322/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099322</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Adam Mosseri says negativity around AI is ‘going to get worse’</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity</link>
-      <description>Asked about AI and the trend of college students booing tech CEOs at graduation ceremonies, Instagram head Adam Mosseri acknowledged in an interview that a lot of people really don't like AI, and it's not just young people and creatives. Appearing on the Colin and Samir podcast to talk about the launch of widescreen and […]</description>
-      <pubDate>Wed, 28 Oct 2026 23:05:39 +0000</pubDate>
-      <guid>https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>Apple’s touchscreen MacBook Pro pushes laptop pricing to a new extreme</title>
-      <link>https://techcrunch.com/2026/10/28/apples-touchscreen-macbook-pro-pushes-laptop-pricing-to-a-new-extreme/</link>
-      <description>Prepare to cough up around $14,549 if you want the new touchscreen MacBook Pro to have every upgrade.</description>
-      <pubDate>Wed, 28 Oct 2026 22:47:50 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/28/apples-touchscreen-macbook-pro-pushes-laptop-pricing-to-a-new-extreme/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion</title>
-      <link>https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/</link>
-      <description>Microsoft has never disclosed Azure's quarterly revenue in dollars. But for the first time, we can see just how close it is getting to besting the biggest competitor in the market, AWS.</description>
-      <pubDate>Wed, 28 Oct 2026 21:58:32 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>A hacker stole more than 40,000 DHS employee records</title>
-      <link>https://www.theverge.com/tech/1021528/ice-cbp-data-leak</link>
-      <description>A hacker stole a trove of personal information from the Department of Homeland Security (DHS). The breach exposes the names, job titles, phone numbers, email addresses, and office locations of more than 41,000 employees, including those in US Immigration and Customs Enforcement (ICE) and Customs and Border Protection (CBP), according to TechCrunch and Wired. The […]</description>
-      <pubDate>Wed, 28 Oct 2026 21:57:45 +0000</pubDate>
-      <guid>https://www.theverge.com/tech/1021528/ice-cbp-data-leak</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>Google expands AI Search ads globally as core ad growth slows</title>
-      <link>https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/</link>
-      <description>The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion.</description>
-      <pubDate>Wed, 28 Oct 2026 21:48:37 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>Как я улучшил управление окнами в macOS</title>
-      <link>https://habr.com/ru/articles/1100864/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100864</link>
-      <description>Написал приложение, которое добавляет в macOS две функции: 1. Открытие приложений сочетанием клавиш, например ⌥-1 для Chrome, ⌥-2 для Slack; 2. Открытие проектов сочетанием клавиш, например ⌥-3 откроет Option1.xcodeproj в Xcode. Работает с любым приложением. В статье покажу принцип работы и возможности macOS о которых вы могли не знать. Текст и код подготовлены без использования технологий искусственного интеллекта. Читать далее</description>
-      <pubDate>Wed, 28 Oct 2026 21:38:43 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1100864/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100864</guid>
+      <title>Windows IR: системный подход. Часть 4 — артефакты, таймлайн, IOC, восстановление</title>
+      <link>https://habr.com/ru/companies/first/articles/1098096/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098096</link>
+      <description>Это четвёртая, заключительная часть материала, посвящённого Windows IR. Третья часть была посвящена задачам планировщика, автозапуску, учётным записям и восстановлению хронологии по журналам событий. В этой части — готовим коллекцию для офлайн-анализа, разбираем артефакты пользовательской активности, включая историю браузера, собираем итоговый таймлайн, превращаем находки в IOC и проходим по шагам восстановления системы после инцидента. Читать далее</description>
+      <pubDate>Thu, 29 Oct 2026 08:00:43 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/first/articles/1098096/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098096</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Microsoft recorded $10 billion in revenue from OpenAI</title>
-      <link>https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/</link>
-      <description>Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financial dependency of the partnership.</description>
-      <pubDate>Wed, 28 Oct 2026 21:34:30 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/</guid>
-      <category>TechCrunch</category>
+      <title>Дедупликация фото без нейросетей. Часть 1: измеряем перцептивные хеши</title>
+      <link>https://habr.com/ru/companies/domclick/articles/1091246/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1091246</link>
+      <description>Недавно у нашей команды появилась необходимость отвечать на вопрос: А такое фото у нас уже есть?». Не «такой же файл» — его можно было бы легко проверить по SHA-256, — а именно такое же фото: пережатое, уменьшенное, с чужим логотипом поперёк кадра, подрезанное по краям. Про перцептивные хеши на Хабре написано много, почти везде разбирают устройство алгоритма. Мне же хотелось понять, что он выдерживает. Поэтому я взял двадцать фотографий, изменил каждую двадцатью шестью способами из тех, что реал</description>
+      <pubDate>Thu, 29 Oct 2026 08:00:05 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/domclick/articles/1091246/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1091246</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Akai is embracing vibe-coded mods with an open-source MPC</title>
-      <link>https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key</link>
-      <description>The MPC Sample Key isn't even formally announced yet, but Akai is already showing off what the modding community is cooking up through vibe coding. Akai has decided to embrace the explosion of hackers and custom firmware developers by giving them early access to the device, which will have open-source firmware. It will likely run […]</description>
-      <pubDate>Wed, 28 Oct 2026 21:34:04 +0000</pubDate>
-      <guid>https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key</guid>
-      <category>The Verge</category>
+      <title>После комментариев на Хабре я ограничил чтение SQLite и перевёл Docker-модуль в WASI</title>
+      <link>https://habr.com/ru/articles/1101028/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101028</link>
+      <description>После прошлой статьи о Pulse читатели Хабра обратили внимание на вещи, которые я не учёл: долгий запрос истории может мешать очистке SQLite WAL, успешное выполнение команды ещё не означает, что контейнер поднялся, а разрешения модуля сами по себе не изолируют его от файлов сервера. Я пошёл проверять эти замечания и разбирать реализацию. В статье — что получилось: тест чтения истории одновременно с записью отчётов, ограничение времени запросов и наблюдение за WAL, проверка состояния Docker-контей</description>
+      <pubDate>Thu, 29 Oct 2026 07:59:52 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1101028/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101028</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Claude Fable 5.1 или GPT-6 Astra для базы знаний: считаем стоимость 20 обращений и границу экономии</title>
+      <link>https://habr.com/ru/companies/raketa_pay/articles/1101024/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101024</link>
+      <description>Расчет стоимости 20 обращений к базе знаний: почему четырехкратная разница в цене чтения кэша дает лишь 16,7% экономии, когда преимущество исчезает и как пересчитать сценарий с помощью Python. Читать далее</description>
+      <pubDate>Thu, 29 Oct 2026 07:59:23 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/raketa_pay/articles/1101024/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101024</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Бинауральный звук с фронтальной АС</title>
+      <link>https://habr.com/ru/articles/1101020/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101020</link>
+      <description>Принято считать, что воспроизведение бинаурального звука через фронтальные колонки требует сложных алгоритмов взаимного подавления каналов (Crosstalk Cancellation). В этой заметке я хочу уйти от привычных догм «равностороннего треугольника» в 60° и предложить альтернативный дифференциальный метод. Вместо математического подавления сигналов мы можем рассмотреть физику волнового фронта относительно природной 180-градусной базы слуха человека и просто компенсировать возникающее фронтальное маскиров</description>
+      <pubDate>Thu, 29 Oct 2026 07:50:42 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1101020/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101020</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>А можно просто интернет? Без очередной инициативы</title>
+      <link>https://habr.com/ru/articles/1101006/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101006</link>
+      <description>Как менялось регулирование VPN и интернет-инфраструктуры в России с 2022 по 2026 год: от ограничений публикаций и рекламы до обсуждения лимитов зарубежного трафика. Собрали хронологию решений и инициатив, которые затронули пользователей, операторов связи, интернет-платформы и хостинг-провайдеров. Разбираем, какие меры уже действуют, какие предложения пересматривались и что пока остается на стадии обсуждения. Читать далее</description>
+      <pubDate>Thu, 29 Oct 2026 07:39:20 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1101006/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101006</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Как я сделал SlideCraft: от одного промпта до презентации для топ-менеджеров</title>
+      <link>https://habr.com/ru/articles/1101004/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101004</link>
+      <description>Один и тот же заголовок помещался в HTML, а в PowerPoint переносился на другую строку. Я рассчитывал, что для генератора презентаций хватит размеров текстового блока и метрик шрифта. Пришлось измерять поведение самого PowerPoint: как он округляет ширину символов, рисует глифы и выбирает место переноса. Это оказалось одной из самых сложных частей SlideCraft — инструмента, который я сделал для подготовки управленческих презентаций с помощью ИИ. Пользователь описывает задачу агенту, согласует струк</description>
+      <pubDate>Thu, 29 Oct 2026 07:35:40 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1101004/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101004</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Вычисления, хранение, масштабируемость: погружение в архитектуру гиперконвергентной дата-платформы</title>
+      <link>https://habr.com/ru/companies/vktech/articles/1100642/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100642</link>
+      <description>Привет, Хабр. Меня зовут Павел Кутаков. Я главный архитектор VK Data Platform , VK Tech. Более 10 лет подход с разделением compute- и storage-слоев де-факто считается стандартом, следование которому позволяет максимально эффективно использовать доступные ресурсы. Но на практике подобный подход применим не всегда — например, по нашему мнению, он не всегда оптимален для построения платформ данных. Именно поэтому при разработке VK Data Platform мы реализовали единую гиперконвергентную архитектуру. </description>
+      <pubDate>Thu, 29 Oct 2026 07:33:12 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/vktech/articles/1100642/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100642</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Claude в Houdini на Windows: как подключить агента и что по дороге сломалось</title>
+      <link>https://habr.com/ru/articles/1100998/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100998</link>
+      <description>Весь Houdini знать невозможно — поэтому я периодически тестирую AI-агентов. Тему MCP изучаю давно: агент без доступа к софту мало полезен. Как это работает</description>
+      <pubDate>Thu, 29 Oct 2026 07:26:39 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1100998/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100998</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
   </channel>
 </rss>
