@@ -5,88 +5,88 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Thu, 29 Oct 2026 15:54:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 20:53:58 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Автомонтаж в Claude — скам или реальная революция? Генерация видео ИИ в Клоде в России</title>
-      <link>https://habr.com/ru/companies/speshu_ai/articles/1101338/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101338</link>
-      <description>Знали ли вы, что Claude теперь монтирует видео? Не просто пишет сценарий или подсказывает, а делает все сам. Вы кладете в папку исходник и пишете: «Убери паузы, оговорки и слова-паразиты, оставь лучшие дубли, добавь субтитры». Через пару минут в той же папке лежит готовый ролик. Проект, который это умеет, за полгода собрал на GitHub больше 30 000 звёзд, а в соцсетях пишут, что Claude монтирует лучше специализированных нейросетей для видео. Мы проверили, так ли это. Оказалось, что Клод вообще не </description>
-      <pubDate>Thu, 29 Oct 2026 15:23:29 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/speshu_ai/articles/1101338/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101338</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Перенос Moodle на Ubuntu 24.04 LTS: восстановление из бэкапов, PHP 8.3 и диагностика ошибок</title>
-      <link>https://habr.com/ru/articles/1101336/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101336</link>
-      <description>Перенос учебного портала на новый сервер выглядит довольно просто: развернуть веб-сервер, восстановить базу данных, распаковать файлы и поправить конфигурацию. На практике всё оказалось интереснее. При восстановлении Moodle 4.1.11 на Ubuntu 24.04.5 LTS мы столкнулись с несколькими проблемами: в конфигурации оказалось неправильное имя базы данных, на сервере обнаружились два каталога с кодом Moodle, MySQL отказывался запускаться, а после восстановления возникли ошибки кэширования и invalidparamet</description>
-      <pubDate>Thu, 29 Oct 2026 15:13:35 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1101336/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101336</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>От учителя к студенту: путь к изотропным эмбеддингам в 29M модели. Часть 1/10</title>
-      <link>https://habr.com/ru/articles/1100874/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100874</link>
-      <description>Просмотр слоев моделей, первые "пристрелочные" тесты для определения общего направления работы и выбор базовой модели для дистилляции. Эта часть довольно простая и короткая, но содержит некоторые важные наблюдения. Читать далее</description>
-      <pubDate>Thu, 29 Oct 2026 15:00:50 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1100874/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100874</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Agent identity startup Mintive lands Cowboy Ventures, Coatue, angels Jeff Dean, Andrej Karpathy</title>
-      <link>https://techcrunch.com/2026/10/29/agent-identity-startup-mintive-lands-cowboy-ventures-coatue-angels-jeff-dean-andrej-karpathy/</link>
-      <description>Mintive was founded by two engineers who have been working on AI for decades through Google Brain and Coursera. It's platform promises to help IT easily control enterprise agents.</description>
-      <pubDate>Thu, 29 Oct 2026 15:00:00 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/29/agent-identity-startup-mintive-lands-cowboy-ventures-coatue-angels-jeff-dean-andrej-karpathy/</guid>
+      <title>Fan fiction site Archive of Our Own could be offline for up to 4 weeks</title>
+      <link>https://techcrunch.com/2026/10/29/fan-fiction-site-archive-of-our-own-could-be-offline-for-up-to-4-weeks/</link>
+      <description>Archive of Our Own, the popular online home of fan fiction readers and writers, has bad news for its community.</description>
+      <pubDate>Thu, 29 Oct 2026 20:43:56 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/29/fan-fiction-site-archive-of-our-own-could-be-offline-for-up-to-4-weeks/</guid>
       <category>TechCrunch</category>
     </item>
     <item>
-      <title>The NYT Cooking app is testing AI recipe modifications</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool</link>
-      <description>The New York Times is testing a new AI feature for its Cooking app that helps users to modify recipes, and it's sparked some drama among users. NYT Cooking senior editor Genevieve Ko announced the feature last Friday, which can be used to recommend substitutions for ingredients and cooking equipment, scale recipes to any number […]</description>
-      <pubDate>Thu, 29 Oct 2026 14:39:37 +0000</pubDate>
-      <guid>https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool</guid>
+      <title>Patrick Stewart has died at age 86</title>
+      <link>https://www.theverge.com/news/1022626/patrick-stewart-star-trek-death</link>
+      <description>Patrick Stewart, best known for his roles in Star Trek and X-Men, has died at age 86. A message posted to Stewart's Instagram account says the actor died in his Los Angeles home on Wednesday "following a brief and poignant journey with Alzheimer's Disease and Lewy Body Dementia." Born in 1940 in Mirfield, Yorkshire, England, […]</description>
+      <pubDate>Thu, 29 Oct 2026 20:10:02 +0000</pubDate>
+      <guid>https://www.theverge.com/news/1022626/patrick-stewart-star-trek-death</guid>
       <category>The Verge</category>
     </item>
     <item>
-      <title>Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round</title>
-      <link>https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/</link>
-      <description>On Thursday, AI app, Wabi, now describing itself as a "personal agent," said it has raised $55 million at a $1.25 billion valuation.</description>
-      <pubDate>Thu, 29 Oct 2026 14:35:26 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/</guid>
+      <title>As search traffic dries up, Reddit announces it’s shifting to a logged-in experience</title>
+      <link>https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/</link>
+      <description>As AI transforms how people find information online, Reddit is rethinking its open-web roots to protect its audience and business.</description>
+      <pubDate>Thu, 29 Oct 2026 20:08:31 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/</guid>
       <category>TechCrunch</category>
     </item>
     <item>
-      <title>vue-llm: AI SDK для Vue и Nuxt — стриминговый чат, Generative UI и модели прямо в браузере</title>
-      <link>https://habr.com/ru/articles/1101308/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101308</link>
-      <description>Если вы делали AI-фичу на Vue, то, скорее всего, сталкивались с одним и тем же: большинство готовых инструментов для LLM-интерфейсов написаны с прицелом на React, а во Vue их приходится адаптировать или писать стриминг, tool calling и состояние чата вручную. Я сделал vue-llm — open-source библиотеку, которая закрывает это для Vue 3, Nuxt и даже Vue 2.7. Сразу ссылки, чтобы можно было пощупать: • Песочница без API-ключа (модель скачивается и работает прямо в браузере на WebGPU): https://vue-llm.j</description>
-      <pubDate>Thu, 29 Oct 2026 14:35:14 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1101308/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101308</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Чистый контур — агентская прачечная для вашего грязного легаси</title>
-      <link>https://habr.com/ru/articles/1101314/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101314</link>
-      <description>Два из трех API-вызовов возвращали HTTP 500. Агенты поколениями лепили заплатки поверх заплаток, пока код не превратился в клубок нейросоплей. Вместо очередного исправления я перенес систему в чистый контур, где агент пишет новую реализацию, не видя старой. В статье механизм переноса, 15 правил защиты от новых костылей и эксперимент на 36 запусках DeepSeek: насколько поведение агента зависит от того, какой код и какие правила ему показывают. Войти в чистый контур</description>
-      <pubDate>Thu, 29 Oct 2026 14:32:05 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1101314/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101314</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>There’s one week left to preorder the Ocarina of Time remake for $10 off</title>
-      <link>https://www.theverge.com/gadgets/1022103/ocarina-of-time-remake-apple-mac-mini-ssd-hdmi-dock-deal-sale</link>
-      <description>The long-awaited remake of The Legend of Zelda: Ocarina of Time for Nintendo Switch 2 launches next Thursday, November 5th. In other words, you have a week remaining to secure your physical edition with a $10 discount at Amazon and Walmart. Once the game launches, the physical version will almost certainly go from $59.99 to […]</description>
-      <pubDate>Thu, 29 Oct 2026 14:24:45 +0000</pubDate>
-      <guid>https://www.theverge.com/gadgets/1022103/ocarina-of-time-remake-apple-mac-mini-ssd-hdmi-dock-deal-sale</guid>
+      <title>Reddit will force everyone to log in</title>
+      <link>https://www.theverge.com/tech/1022571/reddit-login-requirement-q3-2026-earnings</link>
+      <description>Reddit is announcing a huge shift: It's going to start requiring users to log in. Right now, you can browse Reddit without having an account, and the site is generally a great resource for crowdsourced information on a whole range of topics. I know I'm not the only person who appends "reddit" to a lot […]</description>
+      <pubDate>Thu, 29 Oct 2026 20:07:00 +0000</pubDate>
+      <guid>https://www.theverge.com/tech/1022571/reddit-login-requirement-q3-2026-earnings</guid>
       <category>The Verge</category>
     </item>
     <item>
-      <title>Я сделал экран для мониторинга моих квот LLM провайдеров</title>
-      <link>https://habr.com/ru/articles/1101302/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101302</link>
-      <description>Начну с того, что еще недавно мои познания в схемотехнике балансировали на уровне непонимания различия между транзистором и резистором. Из всего арсенала, хоть как-то применимого к embedded, за душой был только Rust. Но когда на радаре замаячил так называемый встриваемый AI (машинное обучение и компьютерное зрение прямо на копеечных микроконтроллерах), - спортивный интерес взял верх. Не тратя недели на теорию, я просто доехал до радиорынка и вернулся с джентльменским набором первопроходца: ESP32</description>
-      <pubDate>Thu, 29 Oct 2026 14:15:38 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1101302/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101302</guid>
-      <category>Все публикации подряд на Хабре</category>
+      <title>Rivian expands joint venture with VW to include AI assistant</title>
+      <link>https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/</link>
+      <description>Rivian doesn't disclose if the value of its $5.8 billion joint venture will expand as a result.</description>
+      <pubDate>Thu, 29 Oct 2026 20:05:47 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>The R2 SUV is already Rivian’s best-selling vehicle</title>
+      <link>https://techcrunch.com/2026/10/29/the-r2-suv-is-already-rivians-best-selling-vehicle/</link>
+      <description>Rivian is seeing strong enough sales of the new EV that it improved its guidance to Wall Street for the second time this year.</description>
+      <pubDate>Thu, 29 Oct 2026 20:02:03 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/29/the-r2-suv-is-already-rivians-best-selling-vehicle/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>Rivian’s R2 is officially its best-selling vehicle</title>
+      <link>https://www.theverge.com/transportation/1022420/rivian-q3-earnings-r2-sales-volkswagen-software</link>
+      <description>Rivian reported its third quarter earnings of 2026, providing us a closer look at the company's financial health as it ramps up production of its all-important R2 electric vehicle - which is now, for the first time, outselling all of Rivian's other EVs. Rivian said it brought in $2.155 billion in revenue, a 38 percent […]</description>
+      <pubDate>Thu, 29 Oct 2026 20:02:00 +0000</pubDate>
+      <guid>https://www.theverge.com/transportation/1022420/rivian-q3-earnings-r2-sales-volkswagen-software</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>OpenAI-backed Thrive Holdings acquires ADT</title>
+      <link>https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/</link>
+      <description>OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business.</description>
+      <pubDate>Thu, 29 Oct 2026 19:56:19 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>GM to pay $220 million to resolve claims it sold driving habits data</title>
+      <link>https://www.theverge.com/transportation/1022555/gm-data-privacy-attorneys-general-lawsuit</link>
+      <description>General Motors has agreed to pay $220 million to settle claims that it illegally sold driver and location information to data brokers, as reported earlier by Reuters. The agreement, which resolves a complaint from a coalition of 36 US attorneys general, requires GM to limit the driving data it collects and obtain "express consent" from […]</description>
+      <pubDate>Thu, 29 Oct 2026 19:19:28 +0000</pubDate>
+      <guid>https://www.theverge.com/transportation/1022555/gm-data-privacy-attorneys-general-lawsuit</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>Where was my invite to the — wait, what? Airbnb had a gala?</title>
+      <link>https://techcrunch.com/2026/10/29/where-was-my-invite-to-the-wait-what-airbnb-had-a-gala/</link>
+      <description>Airbnb’s nonprofit held its inaugural gala on Wednesday in Los Angeles, and the internet had one reaction — the *what* gala?</description>
+      <pubDate>Thu, 29 Oct 2026 19:17:49 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/29/where-was-my-invite-to-the-wait-what-airbnb-had-a-gala/</guid>
+      <category>TechCrunch</category>
     </item>
   </channel>
 </rss>
