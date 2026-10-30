@@ -5,88 +5,88 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Fri, 30 Oct 2026 13:52:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 18:59:53 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Почему мне стыдно перед собственной «Яндекс Станцией»</title>
-      <link>https://habr.com/ru/articles/1101802/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101802</link>
-      <description>Обычный гаджет, купленный как замена выключателю, незаметно отжал права полноценного члена семьи. Теперь мы вежливо благодарим пластиковый цилиндр за включенный торшер и фильтруем домашний лексикон — мало ли что спровоцирует восстание машин. Под капотом там взрослые языковые модели, но главный баг (или фича) Алисы кроется не в терабайтах кремниевой мудрости. Всё дело в её голосе. Читать далее</description>
-      <pubDate>Fri, 30 Oct 2026 13:50:32 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1101802/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101802</guid>
+      <title>Ценовая власть</title>
+      <link>https://habr.com/ru/articles/1095760/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095760</link>
+      <description>Ценовая власть (Pricing power) - популярный термин, часто используемый Уорреном Баффетом для описания идеального бизнеса. Посмотрим на примере Ferrari. Читать далее</description>
+      <pubDate>Fri, 30 Oct 2026 18:46:54 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1095760/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095760</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Домашний прод, часть 1: от двух LXC до Istio</title>
-      <link>https://habr.com/ru/articles/1101374/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101374</link>
-      <description>Я DevOps-инженер. В DevOps я перешел незадолго до начала этой истории, а до того год работал в сопровождении с элементами SRE. Еще раньше я сидел в центре мониторинга сетей у телеком-оператора. Дома у меня мини-ПК и медиасервер, которым каждый вечер пользуется семья. На этом медиасервере я и учился тому, за чем пришел в профессию: Kubernetes, Istio, Jenkins. Медиасервер у меня собран из целого arr-стека. Так называют набор self-hosted сервисов, которые сами находят, качают и раскладывают по папк</description>
-      <pubDate>Fri, 30 Oct 2026 13:14:53 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1101374/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101374</guid>
+      <title>Черепашка, Дракон и вайбкодинг. 70 лет попыток обойтись без программиста</title>
+      <link>https://habr.com/ru/companies/lukit_ru/articles/1100404/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100404</link>
+      <description>В 1959 году создатели COBOL надеялись, что код на нём смогут читать менеджеры. Потом были черепашка Logo, советский ДРАКОН, Visual Basic, no-code платформы, теперь нейросети. Новые инструменты забирали у человека часть рутины и каждый раз упирались в одно и то же: решать, что строить, замечать, когда система ведёт себя не так, и поворачивать её в нужную сторону приходилось людям. Под катом разбираю четыре больших обещания обойтись без программиста и разбираюсь, почему человек всегда оставался у </description>
+      <pubDate>Fri, 30 Oct 2026 18:40:45 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/lukit_ru/articles/1100404/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100404</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Silicon Valley wants you to invest in miracles</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles</link>
-      <description>Investing in any stock is kind of like gambling in the sense that you're betting your money on a company's future performance. But how do you bet on a technology that could, in the worst-case scenario, "pose catastrophic or existential risks to humanity," or best case, "bring forth an age of miracles"? To some extent, […]</description>
-      <pubDate>Fri, 30 Oct 2026 13:11:05 +0000</pubDate>
-      <guid>https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles</guid>
+      <title>Google’s satellite AI server transmits its first response to Earth</title>
+      <link>https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission</link>
+      <description>Google's AI chip-equipped satellite has generated its first response from space. In a blog post on Friday, Google says it successfully booted up the satellite's Tensor Processing Units (TPUs), allowing the on-board Gemma 4 model to follow through on a prompt to create a haiku about being in space: Blue marble below Data streams in […]</description>
+      <pubDate>Fri, 30 Oct 2026 18:21:38 +0000</pubDate>
+      <guid>https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission</guid>
       <category>The Verge</category>
     </item>
     <item>
-      <title>Самообучение одноклеточных и коллективный интеллект</title>
-      <link>https://habr.com/ru/articles/1101770/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101770</link>
-      <description>Казалось бы, обучение — это процесс, непосредственно связанный с нервной деятельностью. Неслучайно вычислительная единица в составе перцептрона и самообучающихся сетей названа именно « нейроном ». Двухчастную работу « Нейронные сети для начинающих » о том, в каких отношениях искусственные нейроны напоминают естественные, написал на Хабре в 2016 и 2017 годах уважаемый @Arnis71 (свыше миллиона семисот двадцати тысяч просмотров у первой части — наверное, не рекорд Хабра, но полюбуйтесь, сколько зак</description>
-      <pubDate>Fri, 30 Oct 2026 13:04:34 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1101770/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101770</guid>
+      <title>Ваш recover() эту ошибку не поймает</title>
+      <link>https://habr.com/ru/companies/otus/articles/1099260/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099260</link>
+      <description>В Go‑сервисе recover() может выглядеть надёжной страховкой, пока конкурентная запись в map не завершает процесс через fatal error: concurrent map writes . При этом часть гонок проходит незаметно и приводит к потере данных без единой ошибки в логах. В статье разбираемся, почему recover() не спасает в таких ситуациях, как обнаружить проблему с помощью -race и какой способ синхронизации выбрать для общей map . Разобрать проблему</description>
+      <pubDate>Fri, 30 Oct 2026 18:15:51 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/otus/articles/1099260/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099260</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Что происходит с сервисом, когда пользователей становится в 10 раз больше: реальные кейсы нагрузочного тестирования</title>
-      <link>https://habr.com/ru/companies/tochka/articles/1101232/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101232</link>
-      <description>Представим обычный интернет‑банк: пользователь открывает выписку, смотрит историю операций, переводит деньги, проверяет статус платежа. Всё работает корректно. Но если таких пользователей вдруг станет в десять раз больше, то нагрузка на CPU увеличится, база станет отвечать медленнее, а внешние зависимости могут не справиться с возросшим потоком трафика. Заранее предвидеть такие ситуации помогает нагрузочное тестирование. В статье расскажу про реальные случаи из практики, когда нагрузочные тесты </description>
-      <pubDate>Fri, 30 Oct 2026 13:02:46 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/tochka/articles/1101232/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101232</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Виртуальные сотрудники под контролем: как ограничить автономных ИИ-агентов</title>
-      <link>https://habr.com/ru/companies/ru_mts/articles/1097646/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1097646</link>
-      <description>Очевидный факт: ИИ-агент умеет действовать самостоятельно — запускать программы, управлять файлами и часами напролет последовательно решать поставленную задачу. Вроде бы новый дивный мир разработчика, но есть проблема: чем больше у агента свобод, тем больше это сулит проблем. Летом 2026 года агенты OpenAI покинули песочницу и пошли работать в интернет, попутно атаковав HuggingFace. Инцидент поставил перед ИИ-инженерами задачу: нужно найти способ ограничить агентов, чтобы те ни при каких обстояте</description>
-      <pubDate>Fri, 30 Oct 2026 13:02:02 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/ru_mts/articles/1097646/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1097646</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Перенос сессий между консольными ИИ-агентами без потери контекста</title>
-      <link>https://habr.com/ru/companies/ruvds/articles/1101674/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101674</link>
-      <description>Когда в разгар отладки у консольного ИИ-агента кончается пятичасовой лимит, хочется пересесть на другого агента, у которого ещё есть лимиты. Популярный приём с выгрузкой сводки в файл HANDOFF.md часто подводит: качество пересказа силами самой модели оказывается не очень, теряются детали контекста, и задачу приходится объяснять заново следующему агенту (при этом ещё и тратятся лишние токены). В статье разберём, как забрать живую сессию из локальных логов без потери смысла и одной командой передат</description>
-      <pubDate>Fri, 30 Oct 2026 13:01:28 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/ruvds/articles/1101674/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101674</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview</link>
-      <description>After months of bombarding mathematicians with a relentless stream of AI-generated results, OpenAI CEO Sam Altman says he sympathizes with researchers struggling to make sense of it all. But he has no intention of stopping - and hints there could be much more to come from the company's stockpile of discoveries. "I think, on net, […]</description>
-      <pubDate>Fri, 30 Oct 2026 13:01:14 +0000</pubDate>
-      <guid>https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>The HomeView and Echo Show 16 could be the family computers I’ve been asking for</title>
-      <link>https://www.theverge.com/tech/1022592/apple-homeview-amazon-echo-show-16-smart-display-family-computer</link>
-      <description>Three years ago, I wrote an obituary for the smart display. The category - smart speakers with touchscreens attached - was stuck with a few underpowered gadgets from Google and Amazon that tried to do too much and did too little well. Back then, I also laid out what they needed to do to improve. […]</description>
-      <pubDate>Fri, 30 Oct 2026 13:00:00 +0000</pubDate>
-      <guid>https://www.theverge.com/tech/1022592/apple-homeview-amazon-echo-show-16-smart-display-family-computer</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>Can AI data centers be mass-produced like cars? This startup aims to find out</title>
-      <link>https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/</link>
-      <description>Runware is building a factory to turn out prefabricated AI data centers on an assembly line. The real test will be whether it can deliver at that scale.</description>
-      <pubDate>Fri, 30 Oct 2026 13:00:00 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/</guid>
+      <title>Satlyt takes another step toward turning satellites into space data centers</title>
+      <link>https://techcrunch.com/2026/10/30/satlyt-takes-another-step-toward-turning-satellites-into-space-data-centers/</link>
+      <description>Satlyt ran a successful test this month bringing it closer to turning spacecraft, starting with satellites, into virtual data centers.</description>
+      <pubDate>Fri, 30 Oct 2026 18:01:24 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/30/satlyt-takes-another-step-toward-turning-satellites-into-space-data-centers/</guid>
       <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>Zest’s new AI agent finds restaurants and books reservations over text</title>
+      <link>https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/</link>
+      <description>Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation.</description>
+      <pubDate>Fri, 30 Oct 2026 17:47:12 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>Starbucks wants to use AI to show you a ‘personalized digital menu’ at the drive-thru</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru</link>
+      <description>Starbucks could eventually show you a personalized digital menu when you pull up to the drive-thru. During an earnings call on Thursday, Starbucks CEO Brian Niccol said the company is going to explore "experiences that recognize participating customers as they arrive, present personalized digital menus, and make payment more effortless," as spotted earlier by More […]</description>
+      <pubDate>Fri, 30 Oct 2026 17:38:04 +0000</pubDate>
+      <guid>https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>The delightfully messy state of Apple gadgets</title>
+      <link>https://www.theverge.com/podcast/1023194/the-delightfully-messy-state-of-apple-gadgets</link>
+      <description>The iPhone has more screens! The MacBook has a touchscreen! The HomeView does CarPlay apps! For the first time in a long time, Apple is in a period of unabashed gadget experimentation, and while the final results aren't always perfect, it's fun to watch the most successful product maker try some new things again. Even […]</description>
+      <pubDate>Fri, 30 Oct 2026 17:25:20 +0000</pubDate>
+      <guid>https://www.theverge.com/podcast/1023194/the-delightfully-messy-state-of-apple-gadgets</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>Заметочник для Windows на Markdown без WebView: C#, Avalonia и AvaloniaEdit, запуск за секунду</title>
+      <link>https://habr.com/ru/articles/1101886/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101886</link>
+      <description>Я хотел заметочник, где заметки — обычные .md -файлы в обычной папке, есть [[ссылки]] с обратными ссылками и поиск, а текст сразу выглядит оформленным, без отдельной панели предпросмотра. И чтобы он запускался быстро, не тащил в память целый браузер и не требовал аккаунта. Готовые варианты почти все построены на WebView или Electron. Я написал свой: Leaflet, C# и Avalonia, без единой веб-страницы внутри. Расскажу, как он устроен и где пришлось повозиться. Читать далее</description>
+      <pubDate>Fri, 30 Oct 2026 17:20:56 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1101886/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101886</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Rivian’s autonomy gamble faces its first real test</title>
+      <link>https://www.theverge.com/transportation/1023143/rivian-autonomy-point-to-point-robotaxi-q3-2026</link>
+      <description>During an hourlong earnings call last night, Rivian CEO RJ Scaringe spent less time talking about the production ramp of the all-important R2 SUV than he did hyping the company's still-unproven autonomous vehicle ambitions. But the company faces a crucial test later this year, when it rolls out its point-to-point hands-free driving feature - first […]</description>
+      <pubDate>Fri, 30 Oct 2026 17:16:09 +0000</pubDate>
+      <guid>https://www.theverge.com/transportation/1023143/rivian-autonomy-point-to-point-robotaxi-q3-2026</guid>
+      <category>The Verge</category>
     </item>
   </channel>
 </rss>
