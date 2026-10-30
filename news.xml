@@ -5,9 +5,57 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Fri, 30 Oct 2026 00:38:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 06:50:17 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>«client prematurely closed connection», хотя пользователь никуда не уходил</title>
+      <link>https://habr.com/ru/companies/otus/articles/1099258/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099258</link>
+      <description>В логах nginx появляется 499, и кажется, что клиент просто закрыл соединение. Но за таким обрывом может скрываться таймаут балансировщика, медленный бэкенд и запросы, которые продолжают выполняться впустую. На примерах с Go, aiohttp и Angie разбираемся, откуда берутся 499, как они влияют на инфраструктуру и по каким признакам отличить обычную отмену запроса от проблемы на стороне сервера. Разобраться с 499</description>
+      <pubDate>Fri, 30 Oct 2026 06:10:04 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/otus/articles/1099258/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099258</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Transactional Outbox template простыми словами</title>
+      <link>https://habr.com/ru/companies/nspk/articles/1101368/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101368</link>
+      <description>Друзья, многие любят микросервисы, особенно когда их много. И мало кто хочет признаться, что в 2026 году он сидит на монолите с Java 8 в бэке. Но есть в этих ваших микросервисах (как и в любой распределённой системе) одна неприятная штука — согласованность данных. Вернее, их несогласованность . Нет-нет да и разъедутся наборы каких-нибудь транзакций в двух смежных системах. Знакомо? Наверняка. Вот об этом сегодня и поговорим. Точнее, поговорим об одном из популярнейших решений проблем распределён</description>
+      <pubDate>Fri, 30 Oct 2026 05:03:43 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/nspk/articles/1101368/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101368</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Claude и Codex составили рейтинги вузов б.СССР по 49 критериям из мира Verilog, FPGA и ASIC</title>
+      <link>https://habr.com/ru/articles/1101470/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101470</link>
+      <description>Два дня Клод Opus 5.5 и Кодекс Astra 6 булькали и чавкали, а на третий выдали рейтинг сотни университетов по 49 пунктам критерия, который им задал. Начал с того, что попросил их найти все университеты Калифорнии и стран бывшего СССР, в которых есть курс, аналогичный курсу 6.111 из MIT: лабы по Verilog+FPGA+cобственный проект студента. Затем решил размахнуться пошире и дал ИИшам проработать тему “не все курсы по верилогу одинаковые”. Читать далее</description>
+      <pubDate>Fri, 30 Oct 2026 04:09:11 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1101470/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101470</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Smart Plant OS: что обнаружилось между HTML-макетом и первой прошивкой</title>
+      <link>https://habr.com/ru/articles/1101460/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101460</link>
+      <description>В прошлой статье я рассказывал про идею открытой локальной системы ухода за растениями. На тот момент у проекта были документация, спецификации и большой HTML-макет. Можно было открыть страницу, посмотреть на растения, походить по настройкам и представить, как всё будет работать. Теперь этот интерфейс открывается с настоящей ESP32 в домашней сети. Между этими двумя состояниями пришлось решить несколько инженерных вопросов, которых на красивой странице не видно. После публикации я услышал много к</description>
+      <pubDate>Fri, 30 Oct 2026 03:30:19 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1101460/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101460</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>chunk(), lazy() и cursor() в Laravel: замеры памяти и почему chunk() теряет половину строк при обновлении</title>
+      <link>https://habr.com/ru/articles/1101458/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101458</link>
+      <description>Когда в Laravel нужно обработать большую таблицу, обычно советуют «не делать all(), использовать chunk()». Совет верный, но неполный: у chunk() есть ловушка, из-за которой фоновая задача тихо обрабатывает только часть строк. Ниже замеры пяти способов обхода таблицы на 100 000 строк, разбор потери строк и правила выбора метода. Читать далее</description>
+      <pubDate>Fri, 30 Oct 2026 03:00:07 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1101458/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101458</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>You don’t need to believe in a god to get a religious exemption from using AI at work</title>
+      <link>https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/</link>
+      <description>David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace.</description>
+      <pubDate>Fri, 30 Oct 2026 01:20:48 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/</guid>
+      <category>TechCrunch</category>
+    </item>
     <item>
       <title>The director of Obsession put a new horror short on YouTube</title>
       <link>https://www.theverge.com/streaming/1022934/curry-barker-obsession-horror-short-youtube-mama-bear</link>
@@ -19,13 +67,13 @@
     <item>
       <title>Andy Jassy says Prime Video is on track to earn ‘tens of billions of dollars’</title>
       <link>https://techcrunch.com/2026/10/29/andy-jassy-says-prime-video-is-on-track-to-earn-tens-of-billions-of-dollars/</link>
-      <description>The success of blockbuster hits like Project Hail Mary and Verity is only part of the story, Amazon's CEO says.</description>
+      <description>The success of blockbuster hits like "Project Hail Mary" and "Verity" is only part of the story, Amazon's CEO says.</description>
       <pubDate>Thu, 29 Oct 2026 23:44:56 +0000</pubDate>
       <guid>https://techcrunch.com/2026/10/29/andy-jassy-says-prime-video-is-on-track-to-earn-tens-of-billions-of-dollars/</guid>
       <category>TechCrunch</category>
     </item>
     <item>
-      <title>AWS will be a $1T business, Jassy says. But first, it will spend big.</title>
+      <title>AWS will be a $1T business, Jassy says — but first, it will spend big</title>
       <link>https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/</link>
       <description>Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday.</description>
       <pubDate>Thu, 29 Oct 2026 23:42:22 +0000</pubDate>
@@ -39,54 +87,6 @@
       <pubDate>Thu, 29 Oct 2026 23:42:21 +0000</pubDate>
       <guid>https://www.theverge.com/tech/1022911/intel-wildcat-lake-sold-out-ram-shortage</guid>
       <category>The Verge</category>
-    </item>
-    <item>
-      <title>Взлом Binance 29 октября: 18 часов подготовки на виду у блокчейна</title>
-      <link>https://habr.com/ru/articles/1101450/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101450</link>
-      <description>Вечером 29 октября с горячих кошельков Binance в сети Ethereum за 40 минут ушло от $2,5 до $3,5 млрд. По подсчёту Decrypt , с учётом Bitcoin и Tron набирается не меньше $5,57 млрд. Атакующий не крал ключи от монет напрямую: через EIP-7702 он подменил код кошелька Binance 14 и вывел содержимое одним вызовом. Tether и Circle в первый час заморозили около $971 млн USDT и $823 млн USDC. К 01:09 по Москве Tether довёл заморозку примерно до $1,67 млрд, и вместе с Circle заблокировано около $2,5 млрд. </description>
-      <pubDate>Thu, 29 Oct 2026 22:57:27 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1101450/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101450</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Unbihex 0.2.3: разбор узких мест TCP, 938 подключений/с в REALITY и консольный клиент для роутеров и NAS</title>
-      <link>https://habr.com/ru/articles/1101448/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101448</link>
-      <description>Недавно я выложил первую статью про Unbihex - легковесный VPN-клиент и сетевое ядро на Rust, которое потребляет 12-18 МБ оперативной памяти. Ожидал дежурной критики и пары десятков просмотров, но публикация собрала больше 2000 прочтений, репозиторий перевалил за сотню звёзд, а в комментарии и Issues пришли практикующие сетевики и системные инженеры. За прошедший день проект дорос до версии 0.2.3 . Мы закрыли основные запросы сообщества (роутеры, NAS, JSON-конфиги, TUI в стиле btop ), добавили по</description>
-      <pubDate>Thu, 29 Oct 2026 22:52:35 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1101448/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101448</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Binance pauses withdrawals as hackers suspected of stealing billions in crypto</title>
-      <link>https://techcrunch.com/2026/10/29/binance-pauses-withdrawals-as-hackers-suspected-of-stealing-billions-in-crypto/</link>
-      <description>Some estimates say hackers stole billions in crypto from Binance, the world's largest cryptocurrency exchange, during a cyberattack on Thursday.</description>
-      <pubDate>Thu, 29 Oct 2026 22:27:23 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/29/binance-pauses-withdrawals-as-hackers-suspected-of-stealing-billions-in-crypto/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>Reddit’s CEO says Google’s AI Mode ‘does not drive traffic’</title>
-      <link>https://www.theverge.com/tech/1022848/reddit-ceo-google-ai-mode-traffic</link>
-      <description>Reddit CEO Steve Huffman said in an earnings call today that Google's AI-powered search modes do not help with traffic to the platform, echoing problems facing other websites and publishers. As part of its Q3 2026 earnings, Reddit revealed that search traffic in October has "dropped by more than 1 million referrals on average per […]</description>
-      <pubDate>Thu, 29 Oct 2026 22:19:32 +0000</pubDate>
-      <guid>https://www.theverge.com/tech/1022848/reddit-ceo-google-ai-mode-traffic</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>Elon Musk is ‘truly a genius,’ says Vladimir Putin</title>
-      <link>https://techcrunch.com/2026/10/29/elon-musk-is-truly-a-genius-says-vladimir-putin/</link>
-      <description>Putin said that he and Musk are in "close contact" about Rassvet, Russia's Starlink-like satellite connectivity project.</description>
-      <pubDate>Thu, 29 Oct 2026 21:51:29 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/29/elon-musk-is-truly-a-genius-says-vladimir-putin/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>GM reaches $220M settlement over selling drivers’ private data</title>
-      <link>https://techcrunch.com/2026/10/29/gm-reaches-220m-settlement-over-selling-drivers-private-data/</link>
-      <description>As part of the settlement, GM must get drivers’ express consent before it collects or shares their driving and location data.</description>
-      <pubDate>Thu, 29 Oct 2026 21:01:04 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/29/gm-reaches-220m-settlement-over-selling-drivers-private-data/</guid>
-      <category>TechCrunch</category>
     </item>
   </channel>
 </rss>
