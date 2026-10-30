@@ -5,87 +5,87 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Fri, 30 Oct 2026 18:59:53 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 22:48:58 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Ценовая власть</title>
-      <link>https://habr.com/ru/articles/1095760/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095760</link>
-      <description>Ценовая власть (Pricing power) - популярный термин, часто используемый Уорреном Баффетом для описания идеального бизнеса. Посмотрим на примере Ferrari. Читать далее</description>
-      <pubDate>Fri, 30 Oct 2026 18:46:54 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1095760/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095760</guid>
+      <title>Разбор инцидента: несколько часов деградации PostgreSQL в проде</title>
+      <link>https://habr.com/ru/articles/1098064/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098064</link>
+      <description>Всем привет. Я с коллегами пишу сервис, который использует внутренний инстанс публичного приложения Arize Phoenix (система LLM-observability — наблюдаемости за LLM-приложениями). Arize Phoenix использует в качестве БД PostgreSQL. СУБД обычно жила спокойно: AAS (Average Active Sessions — среднее число одновременно активных сессий: выполняющих запрос или ожидающих ресурса) держался около 1.0 на инстансе с 2 vCPU (виртуальными ядрами процессора). Однажды случилась аномалия: AAS взлетел до 25. Как я</description>
+      <pubDate>Fri, 30 Oct 2026 22:22:20 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1098064/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098064</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Черепашка, Дракон и вайбкодинг. 70 лет попыток обойтись без программиста</title>
-      <link>https://habr.com/ru/companies/lukit_ru/articles/1100404/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100404</link>
-      <description>В 1959 году создатели COBOL надеялись, что код на нём смогут читать менеджеры. Потом были черепашка Logo, советский ДРАКОН, Visual Basic, no-code платформы, теперь нейросети. Новые инструменты забирали у человека часть рутины и каждый раз упирались в одно и то же: решать, что строить, замечать, когда система ведёт себя не так, и поворачивать её в нужную сторону приходилось людям. Под катом разбираю четыре больших обещания обойтись без программиста и разбираюсь, почему человек всегда оставался у </description>
-      <pubDate>Fri, 30 Oct 2026 18:40:45 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/lukit_ru/articles/1100404/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100404</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Google’s satellite AI server transmits its first response to Earth</title>
-      <link>https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission</link>
-      <description>Google's AI chip-equipped satellite has generated its first response from space. In a blog post on Friday, Google says it successfully booted up the satellite's Tensor Processing Units (TPUs), allowing the on-board Gemma 4 model to follow through on a prompt to create a haiku about being in space: Blue marble below Data streams in […]</description>
-      <pubDate>Fri, 30 Oct 2026 18:21:38 +0000</pubDate>
-      <guid>https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>Ваш recover() эту ошибку не поймает</title>
-      <link>https://habr.com/ru/companies/otus/articles/1099260/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099260</link>
-      <description>В Go‑сервисе recover() может выглядеть надёжной страховкой, пока конкурентная запись в map не завершает процесс через fatal error: concurrent map writes . При этом часть гонок проходит незаметно и приводит к потере данных без единой ошибки в логах. В статье разбираемся, почему recover() не спасает в таких ситуациях, как обнаружить проблему с помощью -race и какой способ синхронизации выбрать для общей map . Разобрать проблему</description>
-      <pubDate>Fri, 30 Oct 2026 18:15:51 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/otus/articles/1099260/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099260</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Satlyt takes another step toward turning satellites into space data centers</title>
-      <link>https://techcrunch.com/2026/10/30/satlyt-takes-another-step-toward-turning-satellites-into-space-data-centers/</link>
-      <description>Satlyt ran a successful test this month bringing it closer to turning spacecraft, starting with satellites, into virtual data centers.</description>
-      <pubDate>Fri, 30 Oct 2026 18:01:24 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/30/satlyt-takes-another-step-toward-turning-satellites-into-space-data-centers/</guid>
+      <title>Intel’s stock crashes, knocking $12B from government’s stake</title>
+      <link>https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/</link>
+      <description>Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise.</description>
+      <pubDate>Fri, 30 Oct 2026 21:54:34 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/</guid>
       <category>TechCrunch</category>
     </item>
     <item>
-      <title>Zest’s new AI agent finds restaurants and books reservations over text</title>
-      <link>https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/</link>
-      <description>Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation.</description>
-      <pubDate>Fri, 30 Oct 2026 17:47:12 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/</guid>
+      <title>Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says</title>
+      <link>https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/</link>
+      <description>Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep funding its massive spending that has undergirded its business.</description>
+      <pubDate>Fri, 30 Oct 2026 21:52:03 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/</guid>
       <category>TechCrunch</category>
     </item>
     <item>
-      <title>Starbucks wants to use AI to show you a ‘personalized digital menu’ at the drive-thru</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru</link>
-      <description>Starbucks could eventually show you a personalized digital menu when you pull up to the drive-thru. During an earnings call on Thursday, Starbucks CEO Brian Niccol said the company is going to explore "experiences that recognize participating customers as they arrive, present personalized digital menus, and make payment more effortless," as spotted earlier by More […]</description>
-      <pubDate>Fri, 30 Oct 2026 17:38:04 +0000</pubDate>
-      <guid>https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru</guid>
+      <title>Applebee’s exposed customers’ personal data after leaving database password in app</title>
+      <link>https://techcrunch.com/2026/10/30/applebees-exposed-customers-personal-data-after-leaving-database-password-in-app/</link>
+      <description>EXCLUSIVE: A security researcher discovered the hardcoded credential in Applebee's app, allowing unrestricted access to customers' personal data.</description>
+      <pubDate>Fri, 30 Oct 2026 21:48:53 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/30/applebees-exposed-customers-personal-data-after-leaving-database-password-in-app/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>Last-minute Halloween costumes for tech nerds</title>
+      <link>https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/</link>
+      <description>No Halloween costume? Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson.</description>
+      <pubDate>Fri, 30 Oct 2026 21:26:59 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>Cracks are emerging in the AI spending boom</title>
+      <link>https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/</link>
+      <description>Big Tech is pouring billions into AI infrastructure, but mounting debt, negative cash flow, and growing investor skepticism are raising questions about the sustainability of the AI spending boom.</description>
+      <pubDate>Fri, 30 Oct 2026 21:17:40 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>Exclusive details about Akai’s MPC Sample Key</title>
+      <link>https://www.theverge.com/gadgets/1023649/akai-mpc-sample-key-exclusive</link>
+      <description>Akai teased its new MPC Sample Key on Instagram earlier this week, and said it plans to open-source its software so the modding community can hack it to their hearts' delight. While there's no word yet on when the device will launch or how much it will cost, The Verge has received exclusive images of […]</description>
+      <pubDate>Fri, 30 Oct 2026 21:01:32 +0000</pubDate>
+      <guid>https://www.theverge.com/gadgets/1023649/akai-mpc-sample-key-exclusive</guid>
       <category>The Verge</category>
     </item>
     <item>
-      <title>The delightfully messy state of Apple gadgets</title>
-      <link>https://www.theverge.com/podcast/1023194/the-delightfully-messy-state-of-apple-gadgets</link>
-      <description>The iPhone has more screens! The MacBook has a touchscreen! The HomeView does CarPlay apps! For the first time in a long time, Apple is in a period of unabashed gadget experimentation, and while the final results aren't always perfect, it's fun to watch the most successful product maker try some new things again. Even […]</description>
-      <pubDate>Fri, 30 Oct 2026 17:25:20 +0000</pubDate>
-      <guid>https://www.theverge.com/podcast/1023194/the-delightfully-messy-state-of-apple-gadgets</guid>
+      <title>Sam Altman says it’s better for RAM to be in a data center than on your desk</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers</link>
+      <description>Asked about supply chain shortages, like the ongoing RAM shortage, OpenAI CEO Sam Altman said in an interview that it's "terrible" to have RAM in personal PCs instead of data centers. During his appearance on the Cheeky Pint podcast, where he also commented on AI's impact on math, Altman said: "A lot of people want […]</description>
+      <pubDate>Fri, 30 Oct 2026 20:48:43 +0000</pubDate>
+      <guid>https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers</guid>
       <category>The Verge</category>
     </item>
     <item>
-      <title>Заметочник для Windows на Markdown без WebView: C#, Avalonia и AvaloniaEdit, запуск за секунду</title>
-      <link>https://habr.com/ru/articles/1101886/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101886</link>
-      <description>Я хотел заметочник, где заметки — обычные .md -файлы в обычной папке, есть [[ссылки]] с обратными ссылками и поиск, а текст сразу выглядит оформленным, без отдельной панели предпросмотра. И чтобы он запускался быстро, не тащил в память целый браузер и не требовал аккаунта. Готовые варианты почти все построены на WebView или Electron. Я написал свой: Leaflet, C# и Avalonia, без единой веб-страницы внутри. Расскажу, как он устроен и где пришлось повозиться. Читать далее</description>
-      <pubDate>Fri, 30 Oct 2026 17:20:56 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1101886/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101886</guid>
+      <title>[Перевод] Квантовые поля переносят энергию. Доказывает ли это, что они реальны?</title>
+      <link>https://habr.com/ru/articles/1100694/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100694</link>
+      <description>Итан Сигел (американский астрофизик‑теоретик и научный журналист, автор рубрики «Спросите Итана», один из пропагандистов современных научных знаний), утверждает, что квантовые поля реальны, а не вспомогательная математическая конструкция, поскольку они переносят энергию и оказывают наблюдаемое влияние на материю. @avshkol перевел эту статью для всех, кто хочет углубить свои знания в квантовой физике и квантовой теории поля (и понять, откуда появилась последняя), не погружаясь в сложные формулы. </description>
+      <pubDate>Fri, 30 Oct 2026 20:44:53 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1100694/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100694</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Rivian’s autonomy gamble faces its first real test</title>
-      <link>https://www.theverge.com/transportation/1023143/rivian-autonomy-point-to-point-robotaxi-q3-2026</link>
-      <description>During an hourlong earnings call last night, Rivian CEO RJ Scaringe spent less time talking about the production ramp of the all-important R2 SUV than he did hyping the company's still-unproven autonomous vehicle ambitions. But the company faces a crucial test later this year, when it rolls out its point-to-point hands-free driving feature - first […]</description>
-      <pubDate>Fri, 30 Oct 2026 17:16:09 +0000</pubDate>
-      <guid>https://www.theverge.com/transportation/1023143/rivian-autonomy-point-to-point-robotaxi-q3-2026</guid>
+      <title>The biggest names in AI are backing a new way to opt out of scraping</title>
+      <link>https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out</link>
+      <description>OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Search Engine Roundtable. With this control, publishers can apply their AI training preferences across multiple AI companies, instead of setting them individually. The shared "policy token" signal […]</description>
+      <pubDate>Fri, 30 Oct 2026 20:26:10 +0000</pubDate>
+      <guid>https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out</guid>
       <category>The Verge</category>
     </item>
   </channel>
