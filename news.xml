@@ -5,88 +5,88 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Fri, 30 Oct 2026 06:50:17 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 13:52:13 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>«client prematurely closed connection», хотя пользователь никуда не уходил</title>
-      <link>https://habr.com/ru/companies/otus/articles/1099258/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099258</link>
-      <description>В логах nginx появляется 499, и кажется, что клиент просто закрыл соединение. Но за таким обрывом может скрываться таймаут балансировщика, медленный бэкенд и запросы, которые продолжают выполняться впустую. На примерах с Go, aiohttp и Angie разбираемся, откуда берутся 499, как они влияют на инфраструктуру и по каким признакам отличить обычную отмену запроса от проблемы на стороне сервера. Разобраться с 499</description>
-      <pubDate>Fri, 30 Oct 2026 06:10:04 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/otus/articles/1099258/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1099258</guid>
+      <title>Почему мне стыдно перед собственной «Яндекс Станцией»</title>
+      <link>https://habr.com/ru/articles/1101802/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101802</link>
+      <description>Обычный гаджет, купленный как замена выключателю, незаметно отжал права полноценного члена семьи. Теперь мы вежливо благодарим пластиковый цилиндр за включенный торшер и фильтруем домашний лексикон — мало ли что спровоцирует восстание машин. Под капотом там взрослые языковые модели, но главный баг (или фича) Алисы кроется не в терабайтах кремниевой мудрости. Всё дело в её голосе. Читать далее</description>
+      <pubDate>Fri, 30 Oct 2026 13:50:32 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1101802/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101802</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Transactional Outbox template простыми словами</title>
-      <link>https://habr.com/ru/companies/nspk/articles/1101368/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101368</link>
-      <description>Друзья, многие любят микросервисы, особенно когда их много. И мало кто хочет признаться, что в 2026 году он сидит на монолите с Java 8 в бэке. Но есть в этих ваших микросервисах (как и в любой распределённой системе) одна неприятная штука — согласованность данных. Вернее, их несогласованность . Нет-нет да и разъедутся наборы каких-нибудь транзакций в двух смежных системах. Знакомо? Наверняка. Вот об этом сегодня и поговорим. Точнее, поговорим об одном из популярнейших решений проблем распределён</description>
-      <pubDate>Fri, 30 Oct 2026 05:03:43 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/nspk/articles/1101368/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101368</guid>
+      <title>Домашний прод, часть 1: от двух LXC до Istio</title>
+      <link>https://habr.com/ru/articles/1101374/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101374</link>
+      <description>Я DevOps-инженер. В DevOps я перешел незадолго до начала этой истории, а до того год работал в сопровождении с элементами SRE. Еще раньше я сидел в центре мониторинга сетей у телеком-оператора. Дома у меня мини-ПК и медиасервер, которым каждый вечер пользуется семья. На этом медиасервере я и учился тому, за чем пришел в профессию: Kubernetes, Istio, Jenkins. Медиасервер у меня собран из целого arr-стека. Так называют набор self-hosted сервисов, которые сами находят, качают и раскладывают по папк</description>
+      <pubDate>Fri, 30 Oct 2026 13:14:53 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1101374/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101374</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Claude и Codex составили рейтинги вузов б.СССР по 49 критериям из мира Verilog, FPGA и ASIC</title>
-      <link>https://habr.com/ru/articles/1101470/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101470</link>
-      <description>Два дня Клод Opus 5.5 и Кодекс Astra 6 булькали и чавкали, а на третий выдали рейтинг сотни университетов по 49 пунктам критерия, который им задал. Начал с того, что попросил их найти все университеты Калифорнии и стран бывшего СССР, в которых есть курс, аналогичный курсу 6.111 из MIT: лабы по Verilog+FPGA+cобственный проект студента. Затем решил размахнуться пошире и дал ИИшам проработать тему “не все курсы по верилогу одинаковые”. Читать далее</description>
-      <pubDate>Fri, 30 Oct 2026 04:09:11 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1101470/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101470</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Smart Plant OS: что обнаружилось между HTML-макетом и первой прошивкой</title>
-      <link>https://habr.com/ru/articles/1101460/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101460</link>
-      <description>В прошлой статье я рассказывал про идею открытой локальной системы ухода за растениями. На тот момент у проекта были документация, спецификации и большой HTML-макет. Можно было открыть страницу, посмотреть на растения, походить по настройкам и представить, как всё будет работать. Теперь этот интерфейс открывается с настоящей ESP32 в домашней сети. Между этими двумя состояниями пришлось решить несколько инженерных вопросов, которых на красивой странице не видно. После публикации я услышал много к</description>
-      <pubDate>Fri, 30 Oct 2026 03:30:19 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1101460/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101460</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>chunk(), lazy() и cursor() в Laravel: замеры памяти и почему chunk() теряет половину строк при обновлении</title>
-      <link>https://habr.com/ru/articles/1101458/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101458</link>
-      <description>Когда в Laravel нужно обработать большую таблицу, обычно советуют «не делать all(), использовать chunk()». Совет верный, но неполный: у chunk() есть ловушка, из-за которой фоновая задача тихо обрабатывает только часть строк. Ниже замеры пяти способов обхода таблицы на 100 000 строк, разбор потери строк и правила выбора метода. Читать далее</description>
-      <pubDate>Fri, 30 Oct 2026 03:00:07 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1101458/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101458</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>You don’t need to believe in a god to get a religious exemption from using AI at work</title>
-      <link>https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/</link>
-      <description>David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace.</description>
-      <pubDate>Fri, 30 Oct 2026 01:20:48 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>The director of Obsession put a new horror short on YouTube</title>
-      <link>https://www.theverge.com/streaming/1022934/curry-barker-obsession-horror-short-youtube-mama-bear</link>
-      <description>Curry Barker, the director behind the hit horror film Obsession, just published a new horror short on YouTube. The short, titled "Mama Bear," is nearly five minutes long. The video is pretty unnerving, and fair warning that it gets a little graphic, but it's a fun one to watch if you're looking for something scary […]</description>
-      <pubDate>Thu, 29 Oct 2026 23:57:18 +0000</pubDate>
-      <guid>https://www.theverge.com/streaming/1022934/curry-barker-obsession-horror-short-youtube-mama-bear</guid>
+      <title>Silicon Valley wants you to invest in miracles</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles</link>
+      <description>Investing in any stock is kind of like gambling in the sense that you're betting your money on a company's future performance. But how do you bet on a technology that could, in the worst-case scenario, "pose catastrophic or existential risks to humanity," or best case, "bring forth an age of miracles"? To some extent, […]</description>
+      <pubDate>Fri, 30 Oct 2026 13:11:05 +0000</pubDate>
+      <guid>https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles</guid>
       <category>The Verge</category>
     </item>
     <item>
-      <title>Andy Jassy says Prime Video is on track to earn ‘tens of billions of dollars’</title>
-      <link>https://techcrunch.com/2026/10/29/andy-jassy-says-prime-video-is-on-track-to-earn-tens-of-billions-of-dollars/</link>
-      <description>The success of blockbuster hits like "Project Hail Mary" and "Verity" is only part of the story, Amazon's CEO says.</description>
-      <pubDate>Thu, 29 Oct 2026 23:44:56 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/29/andy-jassy-says-prime-video-is-on-track-to-earn-tens-of-billions-of-dollars/</guid>
-      <category>TechCrunch</category>
+      <title>Самообучение одноклеточных и коллективный интеллект</title>
+      <link>https://habr.com/ru/articles/1101770/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101770</link>
+      <description>Казалось бы, обучение — это процесс, непосредственно связанный с нервной деятельностью. Неслучайно вычислительная единица в составе перцептрона и самообучающихся сетей названа именно « нейроном ». Двухчастную работу « Нейронные сети для начинающих » о том, в каких отношениях искусственные нейроны напоминают естественные, написал на Хабре в 2016 и 2017 годах уважаемый @Arnis71 (свыше миллиона семисот двадцати тысяч просмотров у первой части — наверное, не рекорд Хабра, но полюбуйтесь, сколько зак</description>
+      <pubDate>Fri, 30 Oct 2026 13:04:34 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1101770/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101770</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>AWS will be a $1T business, Jassy says — but first, it will spend big</title>
-      <link>https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/</link>
-      <description>Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday.</description>
-      <pubDate>Thu, 29 Oct 2026 23:42:22 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/</guid>
-      <category>TechCrunch</category>
+      <title>Что происходит с сервисом, когда пользователей становится в 10 раз больше: реальные кейсы нагрузочного тестирования</title>
+      <link>https://habr.com/ru/companies/tochka/articles/1101232/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101232</link>
+      <description>Представим обычный интернет‑банк: пользователь открывает выписку, смотрит историю операций, переводит деньги, проверяет статус платежа. Всё работает корректно. Но если таких пользователей вдруг станет в десять раз больше, то нагрузка на CPU увеличится, база станет отвечать медленнее, а внешние зависимости могут не справиться с возросшим потоком трафика. Заранее предвидеть такие ситуации помогает нагрузочное тестирование. В статье расскажу про реальные случаи из практики, когда нагрузочные тесты </description>
+      <pubDate>Fri, 30 Oct 2026 13:02:46 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/tochka/articles/1101232/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101232</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Intel says it’s selling every affordable laptop chip it can make</title>
-      <link>https://www.theverge.com/tech/1022911/intel-wildcat-lake-sold-out-ram-shortage</link>
-      <description>During Intel's latest earnings call, CEO Lip-Bu Tan said that demand for its budget-focused Wildcat Lake chips "is outstripping supply." According to CFO David Zinsner, the chips are now sold out. Zinsner said Intel has "seen significant growth in Wildcat Lake. It's coming exactly at the right time because it's cost-optimized and we're seeing a […]</description>
-      <pubDate>Thu, 29 Oct 2026 23:42:21 +0000</pubDate>
-      <guid>https://www.theverge.com/tech/1022911/intel-wildcat-lake-sold-out-ram-shortage</guid>
+      <title>Виртуальные сотрудники под контролем: как ограничить автономных ИИ-агентов</title>
+      <link>https://habr.com/ru/companies/ru_mts/articles/1097646/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1097646</link>
+      <description>Очевидный факт: ИИ-агент умеет действовать самостоятельно — запускать программы, управлять файлами и часами напролет последовательно решать поставленную задачу. Вроде бы новый дивный мир разработчика, но есть проблема: чем больше у агента свобод, тем больше это сулит проблем. Летом 2026 года агенты OpenAI покинули песочницу и пошли работать в интернет, попутно атаковав HuggingFace. Инцидент поставил перед ИИ-инженерами задачу: нужно найти способ ограничить агентов, чтобы те ни при каких обстояте</description>
+      <pubDate>Fri, 30 Oct 2026 13:02:02 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/ru_mts/articles/1097646/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1097646</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Перенос сессий между консольными ИИ-агентами без потери контекста</title>
+      <link>https://habr.com/ru/companies/ruvds/articles/1101674/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101674</link>
+      <description>Когда в разгар отладки у консольного ИИ-агента кончается пятичасовой лимит, хочется пересесть на другого агента, у которого ещё есть лимиты. Популярный приём с выгрузкой сводки в файл HANDOFF.md часто подводит: качество пересказа силами самой модели оказывается не очень, теряются детали контекста, и задачу приходится объяснять заново следующему агенту (при этом ещё и тратятся лишние токены). В статье разберём, как забрать живую сессию из локальных логов без потери смысла и одной командой передат</description>
+      <pubDate>Fri, 30 Oct 2026 13:01:28 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/ruvds/articles/1101674/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101674</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview</link>
+      <description>After months of bombarding mathematicians with a relentless stream of AI-generated results, OpenAI CEO Sam Altman says he sympathizes with researchers struggling to make sense of it all. But he has no intention of stopping - and hints there could be much more to come from the company's stockpile of discoveries. "I think, on net, […]</description>
+      <pubDate>Fri, 30 Oct 2026 13:01:14 +0000</pubDate>
+      <guid>https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview</guid>
       <category>The Verge</category>
+    </item>
+    <item>
+      <title>The HomeView and Echo Show 16 could be the family computers I’ve been asking for</title>
+      <link>https://www.theverge.com/tech/1022592/apple-homeview-amazon-echo-show-16-smart-display-family-computer</link>
+      <description>Three years ago, I wrote an obituary for the smart display. The category - smart speakers with touchscreens attached - was stuck with a few underpowered gadgets from Google and Amazon that tried to do too much and did too little well. Back then, I also laid out what they needed to do to improve. […]</description>
+      <pubDate>Fri, 30 Oct 2026 13:00:00 +0000</pubDate>
+      <guid>https://www.theverge.com/tech/1022592/apple-homeview-amazon-echo-show-16-smart-display-family-computer</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>Can AI data centers be mass-produced like cars? This startup aims to find out</title>
+      <link>https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/</link>
+      <description>Runware is building a factory to turn out prefabricated AI data centers on an assembly line. The real test will be whether it can deliver at that scale.</description>
+      <pubDate>Fri, 30 Oct 2026 13:00:00 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/</guid>
+      <category>TechCrunch</category>
     </item>
   </channel>
 </rss>
