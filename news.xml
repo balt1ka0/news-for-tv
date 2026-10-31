@@ -5,9 +5,41 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Sat, 31 Oct 2026 19:44:32 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 23:07:41 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’</title>
+      <link>https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/</link>
+      <description>Apple's new CEO defended the company's current position in the AI landscape.</description>
+      <pubDate>Sat, 31 Oct 2026 21:41:00 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale</title>
+      <link>https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/</link>
+      <description>On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your idea and startup. Register before all prices go up at the door.</description>
+      <pubDate>Sat, 31 Oct 2026 21:36:07 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>Judge allows NAACP lawsuit over xAI data center pollution to move forward</title>
+      <link>https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/</link>
+      <description>An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.</description>
+      <pubDate>Sat, 31 Oct 2026 21:17:03 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>Get in the spirit with these horrors from YouTube</title>
+      <link>https://www.theverge.com/entertainment/1024096/halloween-spirit-youtube-horror</link>
+      <description>Rather than recommend a single horror film or an unsettling album for our final installment of spooky season recs, I present you with a small selection of creepy, disturbing, and just plain weird videos from YouTube. There's a little something for everyone here. Whether you're a fan of surreal art house shorts, cosmic horror, or […]</description>
+      <pubDate>Sat, 31 Oct 2026 21:06:58 +0000</pubDate>
+      <guid>https://www.theverge.com/entertainment/1024096/halloween-spirit-youtube-horror</guid>
+      <category>The Verge</category>
+    </item>
     <item>
       <title>Keyboards of The Verge</title>
       <link>https://www.theverge.com/gadgets/1017979/keyboards-of-the-verge-staff-picks</link>
@@ -54,38 +86,6 @@
       <description>В филиальной сети перестала открываться страница, которая до этого работала неделями. На роутере всё зелёное: :resolve отдаёт валидный адрес, DoH отвечает Status:0, монитор пишет «здоров». А у людей страница не открывается. Оказалось, что ответ Cloudflare (8.6.112.0 / 8.47.69.0) валиден, но до него из этой сети нет маршрута. Проверка «получил IP или нет» такого не ловит. Рассказ о том, как я делал отказоустойчивый DoH на MikroTik и где упёрся в ограничения RouterOS. Читать историю</description>
       <pubDate>Sat, 31 Oct 2026 16:35:47 +0000</pubDate>
       <guid>https://habr.com/ru/articles/1102130/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102130</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Палеокомпьютинг, часть 3. Две Ады: создаём никогда не существовавшие языки по спекам с тендера Пентагона</title>
-      <link>https://habr.com/ru/companies/aenix/articles/1102128/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102128</link>
-      <description>Второго мая 1979 года небольшая рабочая группа Министерства обороны США проголосовала за язык, который в тот же вечер получил имя Ада. Сам тендер длился четыре года, заявок на него пришло полтора десятка, но до финала добрались лишь две, и до самого объявления победителя они проходили под кодовыми названиями Green и Red. Победил зелёный, спецификацию которого предложила франко-американская команда Жана Ишбиа, именно GREEN и стал известен под именем Ада. Красный, язык бостонской компании Intermet</description>
-      <pubDate>Sat, 31 Oct 2026 16:35:42 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/aenix/articles/1102128/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102128</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Speech Analytics: почему сервис речевой аналитики может правильно распознать разговор и неправильно его оценить</title>
-      <link>https://habr.com/ru/articles/1102126/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102126</link>
-      <description>Одна из самых распространенных ошибок при выборе системы речевой аналитики — оценивать ее по качеству расшифровки аудио. Загрузили запись. Получили текст. Несколько терминов распознаны неправильно, но в целом разговор читается. Кажется, что основная техническая задача решена. На практике самое интересное начинается после транскрибации. Допустим, клиент спрашивает менеджера: — А есть возможность интеграции с нашей CRM? — Да, такая возможность предусмотрена. — А сколько времени это займет? — Обычн</description>
-      <pubDate>Sat, 31 Oct 2026 16:32:37 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1102126/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102126</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Эволюция кровососания</title>
-      <link>https://nplus1.ru/material/2026/10/31/how-we-evolve-in-the-shadows</link>
-      <description>Массовая культура учит, что укус вампира неминуемо превратит вас самого в вампира (хотя иногда описывается более сложный ритуал). А вампиры из европейского фольклора получаются совсем иначе: из неупокоенных мертвецов, таких как колдуны. Какие же способы превращения в вампира действительно работают? Неожиданно, но ответ на этот вопрос могут дать зоологи. Им удалось реконструировать эволюцию многих (хотя и далеко не всех) групп животных, освоивших питание кровью. Например, известно, что разнообраз</description>
-      <pubDate>Sat, 31 Oct 2026 16:21:00 +0000</pubDate>
-      <guid>https://nplus1.ru/material/2026/10/31/how-we-evolve-in-the-shadows</guid>
-      <category>N + 1 — главное издание о науке, технике и технологиях</category>
-    </item>
-    <item>
-      <title>[Перевод] Маленький марсианский ровер, который остался дома</title>
-      <link>https://habr.com/ru/articles/915596/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=915596</link>
-      <description>Помню как я, простая смертная, восхищённо смотрела на фотографии, отправляемые «Соджорнером» с поверхности Марса летом 1997 года. Серверы Лаборатории реактивного движения (JPL) НАСА начали тормозить, когда количество обращений для скачивания первых снимков красной планеты превысило 47 миллионов (рекордное число!). Проблема была ещё и в том, что в конце 1990-х Интернет всё ещё был молод, и большинство людей пользовалось аналоговыми модемами. Концу своей 83-дневной миссии «Соджорнер» отправил боль</description>
-      <pubDate>Sat, 31 Oct 2026 16:17:36 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/915596/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=915596</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
   </channel>
