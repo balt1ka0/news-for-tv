@@ -5,88 +5,88 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Sat, 31 Oct 2026 15:06:15 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 19:44:32 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Best Buy is bundling a $100 gift card with touchscreen MacBook Pro preorders</title>
-      <link>https://www.theverge.com/gadgets/1023302/best-buy-gift-card-macbook-pro-proled-xdr-preorder-deal-sale</link>
-      <description>While the new touch-enabled MacBook Pro with the PROLED XDR screen is available for preorder across a few major retailers, Best Buy is sweetening the deal by including a $100 gift card. The gift card will be automatically added to your cart when you preorder one of Apple’s highest-end laptops available in 14- or 16-inch […]</description>
-      <pubDate>Sat, 31 Oct 2026 15:00:00 +0000</pubDate>
-      <guid>https://www.theverge.com/gadgets/1023302/best-buy-gift-card-macbook-pro-proled-xdr-preorder-deal-sale</guid>
+      <title>Keyboards of The Verge</title>
+      <link>https://www.theverge.com/gadgets/1017979/keyboards-of-the-verge-staff-picks</link>
+      <description>What is a keyboard if not the original brain-computer interface? You can tap on a touchscreen or talk to the computer, but if your work involves getting information out of your head and into the computer, you're probably spending a lot of time using a keyboard. We've written about many keyboards over the years, from […]</description>
+      <pubDate>Sat, 31 Oct 2026 19:30:00 +0000</pubDate>
+      <guid>https://www.theverge.com/gadgets/1017979/keyboards-of-the-verge-staff-picks</guid>
       <category>The Verge</category>
     </item>
     <item>
-      <title>Vic Mensa can’t live without the Voice Memos app</title>
-      <link>https://www.theverge.com/entertainment/1023477/vic-mensa-voice-memos-app-interview</link>
-      <description>Vic Mensa is one of those people who has done so many things that it's hard to remember where you were first introduced to him. Was it his debut mixtape Innanetape, which finally hit the major streaming services for the first time in September? Or maybe his house-influenced single "Down On My Luck"? Maybe you […]</description>
-      <pubDate>Sat, 31 Oct 2026 15:00:00 +0000</pubDate>
-      <guid>https://www.theverge.com/entertainment/1023477/vic-mensa-voice-memos-app-interview</guid>
+      <title>Binance CEO says 90 percent of stolen assets have been ‘replenished’</title>
+      <link>https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto</link>
+      <description>After hackers stole a shocking $6.3 billion from Binance customers in a record-breaking crypto heist, the company's CEO says that 90 percent of the funds have been replaced, and the company plans to cover the remaining 10 percent as well. Binance is covering the stolen funds directly, and the remaining 10 percent consists of "less […]</description>
+      <pubDate>Sat, 31 Oct 2026 18:40:32 +0000</pubDate>
+      <guid>https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto</guid>
       <category>The Verge</category>
     </item>
     <item>
-      <title>Конвейер ИИ-мультсериала: сценарий по секундам, опоры, Kling и автоматическая проверка серии</title>
-      <link>https://habr.com/ru/articles/1102098/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102098</link>
-      <description>Слева Seedance поставил двух Зин; в центре опорный лист; справа выбранный кадр Kling с одной Зиной. Мы собираем вертикальный мультсериал «Лесная улица» из облачных моделей: в этой пробе серия на 24 секунды, постоянные герои, русская речь. За 29–31 октября 2026 года одну серию пересобрали примерно десятью способами на Wan, Kling, Veo, Seedance, GPT Image и Nano Banana Pro. Ниже — порядок шагов, который сложился после испытаний, таблица расходов, пары «брак / исправление» и список того, что мы так</description>
-      <pubDate>Sat, 31 Oct 2026 14:55:39 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1102098/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102098</guid>
+      <title>Программируем без IDE или применение qwen и qwen coder для написания софта</title>
+      <link>https://habr.com/ru/articles/1102144/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102144</link>
+      <description>Сейчас мы попробуем быстро написать сканер ntfs alternate data streams потоков, на не совсем тривиальном стеке и архитектуре. Сделал я это в первую очередь для тестирования возможностей моделей семейства qwen. Краткое пояснение для тех, кто не работал в это сфере. NTFS (аббревиатура от англ. new technology file system — «файловая система новой технологии») — стандартная файловая система для семейства операционных систем Windows NT. Одним из ее малоизвестных свойств является наличие альтернативны</description>
+      <pubDate>Sat, 31 Oct 2026 18:18:48 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1102144/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102144</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Жизнь после блокировки: нейронки изменили мою профессию и я не хочу снова работать по‑старому</title>
-      <link>https://habr.com/ru/articles/1102092/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102092</link>
-      <description>Недавние истории с блокировками от Anthropic заставили меня всерьез задуматься, как я буду работать, если и мой аккаунт отлетит в бан. В мгновение я поймал себя на мысли, насколько сильно изменилась моя инженерная профессия. Прошло всего около года, но я уже вспоминаю прежний уклад своей деятельности, как что‑то очень далекое из прошлой жизни. Но самое главное в другом: я осознал, что меня пугает возврат назад... и вот почему</description>
-      <pubDate>Sat, 31 Oct 2026 14:21:22 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1102092/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102092</guid>
+      <title>[Перевод] Насколько стар Хэллоуин?</title>
+      <link>https://habr.com/ru/articles/1102142/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102142</link>
+      <description>Сегодня по всему миру – и не только в западных странах – люди зажгут фонари в тыквах и нарядятся в страшные костюмы, празднуя Хэллоуин. Праздник, когда злые силы, по легенде, на одну ночь посещают наш мир – и когда нужно изо всех сил рядиться пострашнее, чтобы отпугнуть их. И снова начнутся дискуссии: что праздник этот новый, нетрадиционный, наносной... А они, в свою очередь, породят интересный вопрос: а когда, собственно, его начали отмечать, как и у кого он появился? Читать далее</description>
+      <pubDate>Sat, 31 Oct 2026 17:56:49 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1102142/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102142</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Как набор грязных хаков добавил мультиплеер в легендарную игру: разбираем архитектуру SAMP</title>
-      <link>https://habr.com/ru/companies/timeweb/articles/1101956/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101956</link>
-      <description>Осторожно: Эта статья - не просто очередная ретроспектива с воспоминаниями, а конкретный разбор сетевой архитектуры и хаков, благодаря которым стал возможен мультиплеер в GTA аж на 1.000 человек одновременно. Если вам интересен геймдев и то, как работают игры под капотом - статья обязательна к прочтению! GTA: San Andreas запомнилась нам как легендарная игра с немыслимым, по меркам 2004 года, масштабом. В ней был и огромный бесшовный мир, состоящий из трех городов, и массивный автопарк аж из 213 </description>
-      <pubDate>Sat, 31 Oct 2026 14:05:22 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/timeweb/articles/1101956/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101956</guid>
+      <title>Happy Pikmin Day Eve</title>
+      <link>https://www.theverge.com/games/1024085/happy-pikmin-day-eve</link>
+      <description>This morning, Nintendo announced that tomorrow, November 1st, would be the first annual Pikmin Day. As part of the short Pikmin Day Direct, Shigeru Miyamoto shared new info about Pikmin 4 for the Switch 2, as well as an update for the mobile app Pikmin Bloom, and announced the Hello! Pikmin series of shorts. Players […]</description>
+      <pubDate>Sat, 31 Oct 2026 17:50:12 +0000</pubDate>
+      <guid>https://www.theverge.com/games/1024085/happy-pikmin-day-eve</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>Резолвер здоров, а страницы не открываются: как я сделал отказоустойчивый DoH на MikroTik</title>
+      <link>https://habr.com/ru/articles/1102130/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102130</link>
+      <description>В филиальной сети перестала открываться страница, которая до этого работала неделями. На роутере всё зелёное: :resolve отдаёт валидный адрес, DoH отвечает Status:0, монитор пишет «здоров». А у людей страница не открывается. Оказалось, что ответ Cloudflare (8.6.112.0 / 8.47.69.0) валиден, но до него из этой сети нет маршрута. Проверка «получил IP или нет» такого не ловит. Рассказ о том, как я делал отказоустойчивый DoH на MikroTik и где упёрся в ограничения RouterOS. Читать историю</description>
+      <pubDate>Sat, 31 Oct 2026 16:35:47 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1102130/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102130</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Как я написал линтер для Model Context Protocol (MCP) и нашел баги в официальных серверах Anthropic</title>
-      <link>https://habr.com/ru/articles/1102086/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102086</link>
-      <description>Если вы пишете MCP-серверы для Claude Desktop или Cursor, то знаете, как легко поймать неочевидный баг: • Случайный console.log() в stdout ломает JSON-RPC протокол и наглухо вешает клиент. • Если у опасного инструмента (удаление БД/файлов) нет аннотации destructiveHint, агент выполнит его без подтверждения пользователя. • В описания инструментов можно зашить Prompt Injection, который заставит модель слить контекст. Написал mcp-linter (без единой сторонней зависимости, чистый Node.js/TS): — 34 пр</description>
-      <pubDate>Sat, 31 Oct 2026 13:55:04 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1102086/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102086</guid>
+      <title>Палеокомпьютинг, часть 3. Две Ады: создаём никогда не существовавшие языки по спекам с тендера Пентагона</title>
+      <link>https://habr.com/ru/companies/aenix/articles/1102128/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102128</link>
+      <description>Второго мая 1979 года небольшая рабочая группа Министерства обороны США проголосовала за язык, который в тот же вечер получил имя Ада. Сам тендер длился четыре года, заявок на него пришло полтора десятка, но до финала добрались лишь две, и до самого объявления победителя они проходили под кодовыми названиями Green и Red. Победил зелёный, спецификацию которого предложила франко-американская команда Жана Ишбиа, именно GREEN и стал известен под именем Ада. Красный, язык бостонской компании Intermet</description>
+      <pubDate>Sat, 31 Oct 2026 16:35:42 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/aenix/articles/1102128/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102128</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Self-Service Data Platform на StarRocks: 3 инженера, 25 аналитиков и 0 тестовых стендов</title>
-      <link>https://habr.com/ru/articles/1102082/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102082</link>
-      <description>Привет, Хабр! Меня зовут Виталий, я руководитель команды инженеров данных в группе компаний, которая занимается разработкой и поддержкой В2В финтех-платформы. Два года назад мы получили в свое распоряжение Oracle — с часами ожидания запросов и legacy процедурами на тысячи строк кода. Сейчас у нас StarRocks, Airflow, dbt и 25 аналитиков, которые самостоятельно собирают витрины через Git. Основные витрины, которые раньше строились десятки минут, теперь отдаются за секунды: по статистике за последн</description>
-      <pubDate>Sat, 31 Oct 2026 13:44:40 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1102082/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102082</guid>
+      <title>Speech Analytics: почему сервис речевой аналитики может правильно распознать разговор и неправильно его оценить</title>
+      <link>https://habr.com/ru/articles/1102126/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102126</link>
+      <description>Одна из самых распространенных ошибок при выборе системы речевой аналитики — оценивать ее по качеству расшифровки аудио. Загрузили запись. Получили текст. Несколько терминов распознаны неправильно, но в целом разговор читается. Кажется, что основная техническая задача решена. На практике самое интересное начинается после транскрибации. Допустим, клиент спрашивает менеджера: — А есть возможность интеграции с нашей CRM? — Да, такая возможность предусмотрена. — А сколько времени это займет? — Обычн</description>
+      <pubDate>Sat, 31 Oct 2026 16:32:37 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1102126/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102126</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Не начинайте реверс-инжиниринг с CAD. Как я восстанавливал чертежи роторов винтового компрессора</title>
-      <link>https://habr.com/ru/articles/1102080/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102080</link>
-      <description>Самая опасная фраза в реверс-инжиниринге звучит вполне разумно: «У нас же есть деталь. Давайте её обмерим и сделаем такую же». В 2022 году мне досталась именно такая на первый взгляд понятная задача. Нужно было разработать производственные чертежи ведущего и ведомого роторов промышленного винтового компрессора. Оригинальной конструкторской документации и технологии изготовления у заказчика не было. В качестве исходных данных имелся объект для обмера, габаритная информация и отдельные технические</description>
-      <pubDate>Sat, 31 Oct 2026 13:38:35 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1102080/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102080</guid>
-      <category>Все публикации подряд на Хабре</category>
+      <title>Эволюция кровососания</title>
+      <link>https://nplus1.ru/material/2026/10/31/how-we-evolve-in-the-shadows</link>
+      <description>Массовая культура учит, что укус вампира неминуемо превратит вас самого в вампира (хотя иногда описывается более сложный ритуал). А вампиры из европейского фольклора получаются совсем иначе: из неупокоенных мертвецов, таких как колдуны. Какие же способы превращения в вампира действительно работают? Неожиданно, но ответ на этот вопрос могут дать зоологи. Им удалось реконструировать эволюцию многих (хотя и далеко не всех) групп животных, освоивших питание кровью. Например, известно, что разнообраз</description>
+      <pubDate>Sat, 31 Oct 2026 16:21:00 +0000</pubDate>
+      <guid>https://nplus1.ru/material/2026/10/31/how-we-evolve-in-the-shadows</guid>
+      <category>N + 1 — главное издание о науке, технике и технологиях</category>
     </item>
     <item>
-      <title>[Перевод] Выжимаем максимум из BERT: токенизация в 50 раз быстрее</title>
-      <link>https://habr.com/ru/companies/otus/articles/1100722/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100722</link>
-      <description>Даже проверка обычных символов может стать узким местом в обработке текста для языковых моделей. При профилировании bert-base-uncased выяснилось, что на нормализацию уходило 88% времени токенизации. В статье разбираемся, как SIMD‑инструкции, кеширование Unicode и пропуск лишних операций помогли ускорить обработку примерно в 50 раз, почему на разных языках результаты отличаются и где у такого подхода есть ограничения. Разобрать оптимизацию</description>
-      <pubDate>Sat, 31 Oct 2026 13:13:12 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/otus/articles/1100722/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100722</guid>
+      <title>[Перевод] Маленький марсианский ровер, который остался дома</title>
+      <link>https://habr.com/ru/articles/915596/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=915596</link>
+      <description>Помню как я, простая смертная, восхищённо смотрела на фотографии, отправляемые «Соджорнером» с поверхности Марса летом 1997 года. Серверы Лаборатории реактивного движения (JPL) НАСА начали тормозить, когда количество обращений для скачивания первых снимков красной планеты превысило 47 миллионов (рекордное число!). Проблема была ещё и в том, что в конце 1990-х Интернет всё ещё был молод, и большинство людей пользовалось аналоговыми модемами. Концу своей 83-дневной миссии «Соджорнер» отправил боль</description>
+      <pubDate>Sat, 31 Oct 2026 16:17:36 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/915596/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=915596</guid>
       <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>A mysterious 4,000-year-old wall is rewriting North Africa’s history</title>
-      <link>https://www.sciencedaily.com/releases/2026/10/261030003022.htm</link>
-      <description>A remarkable 4,000-year-old defensive structure discovered in Morocco is rewriting what scientists thought they knew about ancient North African civilizations. The massive fortifications reveal unexpectedly sophisticated prehistoric societies and suggest that the region played a much greater role in Mediterranean history than previously recognized.</description>
-      <pubDate>Sat, 31 Oct 2026 13:09:49 +0000</pubDate>
-      <guid>https://www.sciencedaily.com/releases/2026/10/261030003022.htm</guid>
-      <category>All Top News -- ScienceDaily</category>
     </item>
   </channel>
 </rss>
