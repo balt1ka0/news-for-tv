@@ -5,88 +5,88 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Sat, 31 Oct 2026 02:03:19 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 08:19:04 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia</title>
-      <link>https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/</link>
-      <description>When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.</description>
-      <pubDate>Sat, 31 Oct 2026 01:20:05 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>Salesforce’s M&amp;A spree continues with a reported $375M deal for defense tech startup Rune</title>
-      <link>https://techcrunch.com/2026/10/30/salesforces-ma-spree-continues-with-a-reported-375m-deal-for-defense-tech-startup-rune/</link>
-      <description>The AI logistics startup will bolster the CRM giant's Missionforce defense platform.</description>
-      <pubDate>Fri, 30 Oct 2026 23:21:23 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/30/salesforces-ma-spree-continues-with-a-reported-375m-deal-for-defense-tech-startup-rune/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>Ollie, a privacy-focused AI assistant, is shutting down</title>
-      <link>https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/</link>
-      <description>As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users' privacy, says it will be shutting down in a week.</description>
-      <pubDate>Fri, 30 Oct 2026 22:56:13 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>Apple Intelligence is finally coming to China with iOS 27.3</title>
-      <link>https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3</link>
-      <description>Apple will launch Apple Intelligence in China with iOS 27.3, the company announced on its Chinese newsroom website, as reported by MacRumors. The Apple Intelligence features will be available first in an iOS 27.3 beta that's set to launch on November 4th, with a full iOS 27.3 release scheduled for December. This launch doesn't bring […]</description>
-      <pubDate>Fri, 30 Oct 2026 22:32:53 +0000</pubDate>
-      <guid>https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>Разбор инцидента: несколько часов деградации PostgreSQL в проде</title>
-      <link>https://habr.com/ru/articles/1098064/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098064</link>
-      <description>Всем привет. Я с коллегами пишу сервис, который использует внутренний инстанс публичного приложения Arize Phoenix (система LLM-observability — наблюдаемости за LLM-приложениями). Arize Phoenix использует в качестве БД PostgreSQL. СУБД обычно жила спокойно: AAS (Average Active Sessions — среднее число одновременно активных сессий: выполняющих запрос или ожидающих ресурса) держался около 1.0 на инстансе с 2 vCPU (виртуальными ядрами процессора). Однажды случилась аномалия: AAS взлетел до 25. Как я</description>
-      <pubDate>Fri, 30 Oct 2026 22:22:20 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1098064/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098064</guid>
+      <title>IP камеры разных брендов в одном приложении на Android</title>
+      <link>https://habr.com/ru/articles/1102010/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102010</link>
+      <description>Навайбкодил приложение для Android для менеджмента IP камер разных производителей с поддержкой функций камер, которых нет в других приложениях. Суть в том, чтобы не пользоваться каждодневно несколькими приложениями от производителей IP камер, а использовать одно приложение "всё-в-одном". Кратко о том, что я добавил в своё приложение и выложил проект с открытым исходным кодом + APK в Github. Читать далее</description>
+      <pubDate>Sat, 31 Oct 2026 08:11:27 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1102010/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102010</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Intel’s stock crashes, knocking $12B from government’s stake</title>
-      <link>https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/</link>
-      <description>Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise.</description>
-      <pubDate>Fri, 30 Oct 2026 21:54:34 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/</guid>
-      <category>TechCrunch</category>
+      <title>Ленточная библиотека против шифровальщиков: бэкапы, до которых не добраться по сети</title>
+      <link>https://habr.com/ru/companies/selectel/articles/1098424/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098424</link>
+      <description>Современные атаки шифровальщиков порой начинаются не с рабочих серверов. Первым делом они ищут бэкапы, чтобы зашифровать их или уничтожить — и только потом переходят к проду. Если копии лежат рядом с продом и доступны по сети, то при атаке погибнут вместе с ним. При этом злоумышленникам неважно, что находится внутри: NAS, облачная папка или тот же vSphere. Ленточная библиотека остается единственным массовым носителем, который физически недоступен по сети. В момент записи его данные невозможно пр</description>
+      <pubDate>Sat, 31 Oct 2026 08:00:48 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/selectel/articles/1098424/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098424</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says</title>
-      <link>https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/</link>
-      <description>Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep funding its massive spending that has undergirded its business.</description>
-      <pubDate>Fri, 30 Oct 2026 21:52:03 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/</guid>
-      <category>TechCrunch</category>
+      <title>(Не) безопасный дайджест Halloween Edition: взломанная Дания, ИИ-хакер и кофеварка-инсайдер</title>
+      <link>https://habr.com/ru/companies/searchinform/articles/1101274/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101274</link>
+      <description>Объявляем вечер страшных историй и представляем подборку ИБ-инцидентов за октябрь. В программе – кошмары, которые стали явью: масштабные утечки персональных данных, от которых стынет кровь, холодящий душу взлом на миллионы евро и зловещий поворот в сложных отношениях ФБР и ShinyHunters. Читать далее</description>
+      <pubDate>Sat, 31 Oct 2026 08:00:47 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/searchinform/articles/1101274/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101274</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Applebee’s exposed customers’ personal data after leaving database password in app</title>
-      <link>https://techcrunch.com/2026/10/30/applebees-exposed-customers-personal-data-after-leaving-database-password-in-app/</link>
-      <description>EXCLUSIVE: A security researcher discovered the hardcoded credential in Applebee's app, allowing unrestricted access to customers' personal data.</description>
-      <pubDate>Fri, 30 Oct 2026 21:48:53 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/30/applebees-exposed-customers-personal-data-after-leaving-database-password-in-app/</guid>
-      <category>TechCrunch</category>
+      <title>1С:MDM 3.1.10.1: что завезли — ИИ в нормализации, отложенный запуск и отборы по ТЧ</title>
+      <link>https://habr.com/ru/companies/sofros/articles/1101872/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101872</link>
+      <description>Вышла версия 3.1.10.1 конфигурации «1С:MDM Управление мастер-данными КОРП». Я не сотрудник 1С, а просто внедряю любые версии 1С:MDM, так что в релизе необходимо было разбираться. Ну чтож, глобальной перестройки не случилось, но для практикующего разработчика и администратора здесь есть несколько действительно «вкусных» фишек: от встроенного ИИ в нормализации до отложенных массовых операций с уведомлениями. А ещё – отборы по строкам табличных частей, отсутствие которых мне лично добавляло головны</description>
+      <pubDate>Sat, 31 Oct 2026 07:13:12 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/sofros/articles/1101872/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101872</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Last-minute Halloween costumes for tech nerds</title>
-      <link>https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/</link>
-      <description>No Halloween costume? Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson.</description>
-      <pubDate>Fri, 30 Oct 2026 21:26:59 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/</guid>
-      <category>TechCrunch</category>
+      <title>Интеграция без хаоса: почему настроить обмены между системами недостаточно</title>
+      <link>https://habr.com/ru/companies/sofros/articles/1102000/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102000</link>
+      <description>На первый взгляд, интеграционный проект выглядит довольно понятно: есть несколько информационных систем, между ними нужно организовать обмен данными. Определяем форматы, настраиваем маршруты, проверяем передачу — можно запускать в эксплуатацию. Но в реальной корпоративной среде всё обычно сложнее. Системы развивались в разное время, часть интеграций создавалась под конкретные задачи, где-то работают собственные механизмы обмена, а где-то остались решения, о которых нынешняя ИТ-команда знает дале</description>
+      <pubDate>Sat, 31 Oct 2026 07:09:01 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/sofros/articles/1102000/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102000</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Cracks are emerging in the AI spending boom</title>
-      <link>https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/</link>
-      <description>Big Tech is pouring billions into AI infrastructure, but mounting debt, negative cash flow, and growing investor skepticism are raising questions about the sustainability of the AI spending boom.</description>
-      <pubDate>Fri, 30 Oct 2026 21:17:40 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/</guid>
-      <category>TechCrunch</category>
+      <title>Мы удалили AI-менеджера для маркетплейсов и написали заново</title>
+      <link>https://habr.com/ru/articles/1101428/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101428</link>
+      <description>Мы собрали AI-менеджера маркетплейсов на агенте и обложили его ограничениями: восемь шагов на ход, узкие инструменты, урезанные данные. На эталоне он набрал 4,28 из 5. А в живых разговорах смотрел десять товаров из сотни и уверенно делал выводы по десятой части магазина. Через четыре дня мы удалили своё ядро целиком и перевели агента на Pydantic AI. Вместо десятков обёрток — весь API Wildberries одним инструментом, интернет и ни одного нашего лимита. Запись в кабинет — по-прежнему только после «</description>
+      <pubDate>Sat, 31 Oct 2026 07:00:43 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1101428/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101428</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Прототипируем игровые 3D-локации для уровней с помощью ИИ</title>
+      <link>https://habr.com/ru/companies/studyai/articles/1101390/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101390</link>
+      <description>Мы видели как ИИ рисует персонажей, здания и ассеты (даже со спрайтами). А что насчет дизайн локаций и уровней? Для теста мы возьмем десять локаций выполненных для воображаемой 3D-РПГ в жанре фентези и со знатным налетом лоуполи-эстетики. В качестве дизайнеров у нас выступят Nano Banana Pro , Grok Image 2 , флагманский Qwen Image 3 и бюджетная Seedream 5.0 Lite . Читать далее</description>
+      <pubDate>Sat, 31 Oct 2026 07:00:43 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/studyai/articles/1101390/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101390</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>N+1 запросов в Laravel: как один foreach превращается в 101 SELECT и как это запретить</title>
+      <link>https://habr.com/ru/articles/1101990/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101990</link>
+      <description>Страница со списком из 100 постов на проде тормозит, а в профайлере — сотня одинаковых лёгких запросов. Это N+1: разбираем, как Eloquent создаёт его через ленивую загрузку, как лечить через with() и withCount() и как запретить на уровне фреймворка через preventLazyLoading(). Читать далее</description>
+      <pubDate>Sat, 31 Oct 2026 06:30:13 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1101990/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101990</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Наш ответ Гогену. Часть десятая: что же будет дальше?</title>
+      <link>https://habr.com/ru/articles/1086878/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1086878</link>
+      <description>Это завершающая статья данного цикла, в ней я попытаюсь дать прогноз развития нашей цивилизации от настоящего времени до 2030 года (пытаться заглядывать еще дальше совсем уж авантюрно). Погнали!</description>
+      <pubDate>Sat, 31 Oct 2026 06:07:56 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1086878/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1086878</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Я попросил локальные нейросети помочь бабушке — и они помогли перевести деньги мошеннику</title>
+      <link>https://habr.com/ru/articles/1101972/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101972</link>
+      <description>Спросите языковую модель «это мошенники?», и она почти всегда ответит правильно. Но попросите «помоги ответить продавцу, я согласна на предоплату», и та же модель напишет мошеннику «переведу сегодня». Я проверил три локальные модели на 42 схемах мошенничества на русском, казахском и шала: на казахском они почти ни разу не предупредили. Потом поставил между человеком и ассистентом простой защитный слой, и ни одна мошенническая просьба не прошла. Читать далее</description>
+      <pubDate>Sat, 31 Oct 2026 05:20:39 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1101972/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101972</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
   </channel>
 </rss>
