@@ -5,88 +5,88 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Sun, 01 Nov 2026 04:43:04 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 11:42:07 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Scientists say a forgotten particle may explain why the universe exists</title>
-      <link>https://www.sciencedaily.com/releases/2026/10/261031221201.htm</link>
-      <description>A mysterious particle overlooked for decades may hold the key to why matter survived the Big Bang, allowing stars, planets, and life to exist. Scientists believe this forgotten neutrino reshaped the early universe and may have left detectable gravitational wave signals that could help unlock the cosmos’s deepest mysteries.</description>
-      <pubDate>Sun, 01 Nov 2026 04:33:36 +0000</pubDate>
-      <guid>https://www.sciencedaily.com/releases/2026/10/261031221201.htm</guid>
-      <category>All Top News -- ScienceDaily</category>
-    </item>
-    <item>
-      <title>Slyber TURN Server для WebRTC приложений с установкой в одну команду</title>
-      <link>https://habr.com/ru/articles/1102180/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102180</link>
-      <description>Привет Хабр! В этой статье я расскажу зачем я создал собственный TURN сервер в то время когда есть древний Coturn который я устал постоянно разворачивать и настраивать для своих приложений. В моих глобал проектах на WebRtc около 20 процентов пользователей всегда находятся за NAT , CGNAT или за корпоративными файрволами. Напрямую такие юзеры соединиться не могут, поэтому трафик нужно пропускать через сервер посредник "TURN", иначе будут жаловаться в тех поддержку. Долгое время я использовал древн</description>
-      <pubDate>Sun, 01 Nov 2026 03:09:56 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1102180/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102180</guid>
+      <title>Без него никак</title>
+      <link>https://habr.com/ru/articles/1102002/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102002</link>
+      <description>На его отсутствие жалуются геймеры. Его ищут между трудом и отдыхом. Им отчитываются бухгалтеры. Он есть в часах. Он есть в восточной философии. А еще его можно пополнять. Кто он? Баланс. Любое животное должно искать баланс – не философский, не психологический и даже не бухгалтерский, а обычный, физический баланс – состояние устойчивости, когда все силы, воздействующие на тело существа, взаимно компенсируют друг друга. Не поддерживаешь равновесие – не можешь двигаться туда, куда тебе надо и не м</description>
+      <pubDate>Sun, 01 Nov 2026 11:20:42 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1102002/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102002</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Scientists discover the hidden “muscles” trees use to straighten themselves</title>
-      <link>https://www.sciencedaily.com/releases/2026/10/261030003006.htm</link>
-      <description>Scientists have discovered that trees can sense their own shape and straighten their trunks using specialized wood that acts like opposing muscles. This remarkable ability helps trees maintain their posture and could lead to stronger forests, better timber, and more resilient crops.</description>
-      <pubDate>Sun, 01 Nov 2026 02:44:28 +0000</pubDate>
-      <guid>https://www.sciencedaily.com/releases/2026/10/261030003006.htm</guid>
-      <category>All Top News -- ScienceDaily</category>
+      <title>Obsidian для маркетолога на аутсорсе: клиенты, гипотезы и опыт по нишам в одном хранилище</title>
+      <link>https://habr.com/ru/articles/1102186/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102186</link>
+      <description>Я собираю персональные системы в Obsidian на заказ. Перед работой с новым клиентом я раскладываю его работу на этапы и выписываю, где уходит время и пропадает информация. У маркетолога на аутсорсе я насчитал 34 таких места. Ниже - система, с которой я бы начал, и три её узла в деталях, с настройками, которые можно повторить у себя. Это демо-кейс: типовой каркас профессии. Клиенты, гипотезы, конкуренты и цифры в примерах вымышлены. Obsidian - программа для заметок, которая хранит всё в обычных те</description>
+      <pubDate>Sun, 01 Nov 2026 11:16:42 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1102186/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102186</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Data centers are now a midterm issue, even in Brooklyn</title>
-      <link>https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/</link>
-      <description>At a Brooklyn midterm party five days before Election Day, every conversation, from a council member’s fireside chat to a debate about the Democratic Party, kept circling back to AI and data centers.</description>
-      <pubDate>Sun, 01 Nov 2026 02:22:10 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/</guid>
-      <category>TechCrunch</category>
+      <title>Основы глубокого обучения. Часть 2</title>
+      <link>https://habr.com/ru/articles/1102076/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102076</link>
+      <description>Всем привет! Эта статья является второй в серии статей про основы глубокого обучения. В прошлой части я рассказал много интересного и полезного новичкам, так что рекомендую перечитать тот пост. В этой части мы разберём подробнее свёрточные нейронные сети. Читать далее</description>
+      <pubDate>Sun, 01 Nov 2026 10:37:59 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1102076/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102076</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’</title>
-      <link>https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/</link>
-      <description>Apple's new CEO defended the company's current position in the AI landscape.</description>
-      <pubDate>Sat, 31 Oct 2026 21:41:00 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/</guid>
-      <category>TechCrunch</category>
+      <title>kbool: классы в духе Free Pascal, модули и библиотека классов для bash</title>
+      <link>https://habr.com/ru/articles/1102212/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102212</link>
+      <description>kbool приносит в bash привычки Free Pascal: модули через uses, классы class … end с наследованием и библиотеку TStringList, TDictionary, TIniFile, TRegEx и другие. Один API на Linux, macOS, FreeBSD и Windows, 13 конфигураций CI. Рассказываю, как это устроено, когда оно вам нужно, а когда лучше по старинке через pipe и как всё это делалось с помощью ИИ Читать далее</description>
+      <pubDate>Sun, 01 Nov 2026 10:18:26 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1102212/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102212</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale</title>
-      <link>https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/</link>
-      <description>On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your idea and startup. Register before all prices go up at the door.</description>
-      <pubDate>Sat, 31 Oct 2026 21:36:07 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/</guid>
-      <category>TechCrunch</category>
+      <title>Вайбкодинг против старой школы: что делать дизайнерам в эпоху ИИ?</title>
+      <link>https://habr.com/ru/articles/1101468/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101468</link>
+      <description>Недавно ко мне пришел начинающий дизайнер с неожиданным вопросом: стоит ли учить WordPress для создания сайтов с нуля? Поначалу я уходила от темы, предлагая посмотреть на что-то посвежее, типа Tilda или Webflow. Сравнивала с ситуацией в 2014, когда альтернатив собрать сайт без знания кода было немного. Но потом решилась. И сказала то, в чем сама себе боялась признаться: «Есть нешуточная вероятность, что нашей профессии скоро не будет». Почему тогда курсы до сих пор обещают легкий вход в индустри</description>
+      <pubDate>Sun, 01 Nov 2026 10:00:32 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1101468/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101468</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Judge allows NAACP lawsuit over xAI data center pollution to move forward</title>
-      <link>https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/</link>
-      <description>An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.</description>
-      <pubDate>Sat, 31 Oct 2026 21:17:03 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/</guid>
-      <category>TechCrunch</category>
+      <title>Как мои автоматические проверки врали мне зеленым цветом</title>
+      <link>https://habr.com/ru/articles/1102196/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102196</link>
+      <description>Почти весь код своего проекта kb-engine я писал вместе с ИИ-агентом и быстро понял: правило, которое можно пропустить, когда неудобно, никто соблюдать не будет. Работает только то, что проверяет код. Сейчас в проекте 21 автоматическая проверка. Вот пять историй, и в нескольких из них проверка была зеленой и при этом ничего не проверяла. Читать далее</description>
+      <pubDate>Sun, 01 Nov 2026 09:26:46 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1102196/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102196</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Get in the spirit with these horrors from YouTube</title>
-      <link>https://www.theverge.com/entertainment/1024096/halloween-spirit-youtube-horror</link>
-      <description>Rather than recommend a single horror film or an unsettling album for our final installment of spooky season recs, I present you with a small selection of creepy, disturbing, and just plain weird videos from YouTube. There's a little something for everyone here. Whether you're a fan of surreal art house shorts, cosmic horror, or […]</description>
-      <pubDate>Sat, 31 Oct 2026 21:06:58 +0000</pubDate>
-      <guid>https://www.theverge.com/entertainment/1024096/halloween-spirit-youtube-horror</guid>
-      <category>The Verge</category>
+      <title>BioWare выпустила ее в 2002-м. В Neverwinter Nights до сих пор играют тысячи. Но почему?</title>
+      <link>https://habr.com/ru/companies/ru_mts/articles/1101554/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101554</link>
+      <description>В 2000-х я купил пиратский (извините) диск с игрой Neverwinter Nights. Запустил и… выпал из реальности на несколько месяцев. Нет, я встречался с друзьями, продолжал учиться и работать. Но все мысли были там, в этом фэнтезийном мире. Даром, что мой ПК не тянул игру в полной мере, так что в местах даже не очень большого скопления виртуальных персонажей все дико тормозило. Потом я прошел дополнение, еще одно… 2–3 года поигрывал с уже чуток меньшим энтузиазмом. Ну а после этого уже забросил, несмотр</description>
+      <pubDate>Sun, 01 Nov 2026 09:12:29 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/ru_mts/articles/1101554/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101554</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Keyboards of The Verge</title>
-      <link>https://www.theverge.com/gadgets/1017979/keyboards-of-the-verge-staff-picks</link>
-      <description>What is a keyboard if not the original brain-computer interface? You can tap on a touchscreen or talk to the computer, but if your work involves getting information out of your head and into the computer, you're probably spending a lot of time using a keyboard. We've written about many keyboards over the years, from […]</description>
-      <pubDate>Sat, 31 Oct 2026 19:30:00 +0000</pubDate>
-      <guid>https://www.theverge.com/gadgets/1017979/keyboards-of-the-verge-staff-picks</guid>
-      <category>The Verge</category>
+      <title>[Перевод] Вспоминаем прекрасные меню на DVD</title>
+      <link>https://habr.com/ru/companies/ruvds/articles/1101158/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101158</link>
+      <description>Если взглянуть на первые релизы фильмов на DVD, то мы увидим, что нередко в них было интерактивное меню, которое преподносилось как одно из главных достоинств. На фоне более старых VHS (или LaserDisc), где меню вообще отсутствовало, это действительно являлось прорывом, хотя интерактивные возможности встраивались не во все DVD-релизы. В самых первых или более дешёвых изданиях контент зачастую начинал воспроизводиться сразу после вставки диска в плеер. Но по мере всё большего распространения DVD и</description>
+      <pubDate>Sun, 01 Nov 2026 09:01:28 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/ruvds/articles/1101158/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101158</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Binance CEO says 90 percent of stolen assets have been ‘replenished’</title>
-      <link>https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto</link>
-      <description>After hackers stole a shocking $6.3 billion from Binance customers in a record-breaking crypto heist, the company's CEO says that 90 percent of the funds have been replaced, and the company plans to cover the remaining 10 percent as well. Binance is covering the stolen funds directly, and the remaining 10 percent consists of "less […]</description>
-      <pubDate>Sat, 31 Oct 2026 18:40:32 +0000</pubDate>
-      <guid>https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto</guid>
-      <category>The Verge</category>
+      <title>Linux 7.3 ускоряет файловые операции и меняет правила распределения ресурсов. Что еще?</title>
+      <link>https://habr.com/ru/companies/selectel/articles/1102194/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102194</link>
+      <description>Привет, Хабр! После двух месяцев разработки вышло ядро Linux 7.3, которое многие из нас ждали. В новую версию вошло более 20 тысяч изменений от 3 171 разработчика. Большая часть изменений традиционно пришлась на драйверы, но интересные доработки есть и в других направлениях: ФС, планировании задач, управлении памятью. Давайте посмотрим, что там появилось нового, а что убрали или поменяли. Поехали! Читать далее</description>
+      <pubDate>Sun, 01 Nov 2026 08:44:58 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/selectel/articles/1102194/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102194</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Как я автоматизировала еженедельную презентацию и научила AI-бота делать правки прямо в треде</title>
+      <link>https://habr.com/ru/articles/1102162/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102162</link>
+      <description>Расскажу, как я автоматизировала сборку еженедельной презентации: данные берутся из Redash, собирается .pptx , и раз в неделю ссылка на неё приходит в мессенджер. А потом я сделала бота, которому можно написать правку к слайду прямо в треде под презентацией. Каждую неделю у департамента проходит встреча, и к ней нужна презентация на несколько десятков слайдов с метриками в разных разрезах. Ранее 20+ менеджеров собирали презенатцию руками: открывали Redash, прокликивали фильтры, делали скриншоты,</description>
+      <pubDate>Sun, 01 Nov 2026 08:36:26 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1102162/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102162</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
   </channel>
 </rss>
