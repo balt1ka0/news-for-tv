@@ -5,87 +5,87 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Sun, 01 Nov 2026 17:41:28 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 21:45:45 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Apple’s HomeView could add security camera features</title>
-      <link>https://www.theverge.com/tech/1024219/apples-homeview-could-add-security-camera-features</link>
-      <description>Reddit user pdfu found hints hidden in the HomeView 27.2 code that Apple could be adding security camera features to its smart home hub. The strings describe a security camera mode with motion detection, live streaming, and recording options, as well as privacy functions. According to pdfu, there is a setup page that even explicitly […]</description>
-      <pubDate>Sun, 01 Nov 2026 17:16:07 +0000</pubDate>
-      <guid>https://www.theverge.com/tech/1024219/apples-homeview-could-add-security-camera-features</guid>
+      <title>NASA hopes the commercial space industry can help save Hubble</title>
+      <link>https://www.theverge.com/science/1024239/nasa-commercial-space-save-hubble</link>
+      <description>Gravity is a cruel mistress, slowly dragging the famed telescope ever closer to its ultimate demise with every day. Hubble is in no immediate danger of burning up in the Earth's atmosphere, but its time will run out in the early to mid 2030s unless its orbit is boosted. So NASA is taking proposals from […]</description>
+      <pubDate>Sun, 01 Nov 2026 21:09:21 +0000</pubDate>
+      <guid>https://www.theverge.com/science/1024239/nasa-commercial-space-save-hubble</guid>
       <category>The Verge</category>
     </item>
     <item>
-      <title>Личные AI-ассистенты и угроза приватности. Детальные профили на друзей и семью</title>
-      <link>https://habr.com/ru/companies/globalsign/articles/1102364/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102364</link>
-      <description>Новейший тренд в технологиях машинного обучения — так называемые «персональные ассистенты», AI-агенты вроде Muse от Meta* и Dots от OpenAI. Это вторая волна подобных программ, после первой волны ассистентов, включая OpenClaw , Instinct и проч. Агенты нового поколения приходят на смену чатботам прошлого, не имеющим продвинутой памяти и доступа к персональным данным пользователя. К сожалению, сбор данных со стороны крупных IT-корпораций увеличивает риски для приватности пользователей. И первый мон</description>
-      <pubDate>Sun, 01 Nov 2026 17:05:05 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/globalsign/articles/1102364/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102364</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>TechCrunch Mobility: A new, bigger AV boom is here</title>
-      <link>https://techcrunch.com/2026/11/01/techcrunch-mobility-a-new-bigger-av-boom-is-here/</link>
-      <description>Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.</description>
-      <pubDate>Sun, 01 Nov 2026 17:04:00 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/11/01/techcrunch-mobility-a-new-bigger-av-boom-is-here/</guid>
+      <title>AI can make tech CEOs’ lives easier. What about everyone else?</title>
+      <link>https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/</link>
+      <description>On Equity, we discuss why tech CEO statements can seem so tone deaf.</description>
+      <pubDate>Sun, 01 Nov 2026 20:57:58 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/</guid>
       <category>TechCrunch</category>
     </item>
     <item>
-      <title>Я нанял ИИ искать мне работу. Дневник эксперимента, неделя первая</title>
-      <link>https://habr.com/ru/articles/1102362/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102362</link>
-      <description>Я тимлид, который умеет нанимать, но не умеет искать работу. Поэтому я нанял для этого ИИ-агента: он живёт в моём браузере, мониторит вакансии, пишет сопроводительные письма и пинает меня по расписанию. Дневник первой недели эксперимента — что получилось, где агент сел в лужу и почему финальное «отправить» всё равно остаётся за человеком. Читать далее</description>
-      <pubDate>Sun, 01 Nov 2026 16:41:12 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1102362/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102362</guid>
+      <title>Новую подписку купить легко. Заново объяснить нейронке всю свою жизнь — сложнее</title>
+      <link>https://habr.com/ru/companies/raketa_pay/articles/1102398/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102398</link>
+      <description>Представьте: вы несколько недель обсуждали с нейросетью поездку. Выбрали даты, отказались от аренды автомобиля, нашли жильё рядом с вокзалом. Заодно объяснили, что длинные списки достопримечательностей вам не нужны, а к каждому предложению хочется видеть время в пути. Потом решили попробовать другой сервис. Открыли новый чат — и снова получили маршрут с машиной и двадцатью музеями. Читать далее</description>
+      <pubDate>Sun, 01 Nov 2026 20:09:01 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/raketa_pay/articles/1102398/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102398</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Binance resumes withdrawals following $6.3 billion breach</title>
-      <link>https://techcrunch.com/2026/11/01/binance-resumes-withdrawals-following-6-3-billion-breach/</link>
-      <description>The cryptocurrency exchange said it's now covered 95% of the stolen assets.</description>
-      <pubDate>Sun, 01 Nov 2026 16:20:10 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/11/01/binance-resumes-withdrawals-following-6-3-billion-breach/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>A fully playable version of Portal prequel F-Stop leaked</title>
-      <link>https://www.theverge.com/games/1024206/playable-portal-prequel-f-stop-leak</link>
-      <description>Leakers have pieced together a playable version of the canceled Portal prequel F-Stop. Most of the assets came from the massive 12-terabyte leak that dropped this August. That didn't include the game's source code or map data, but those final pieces apparently hit the Valve Cut Content Discord this week, allowing a nearly complete version […]</description>
-      <pubDate>Sun, 01 Nov 2026 16:19:21 +0000</pubDate>
-      <guid>https://www.theverge.com/games/1024206/playable-portal-prequel-f-stop-leak</guid>
+      <title>Flock keeps ignoring requests to cancel its contracts</title>
+      <link>https://www.theverge.com/tech/1024232/flock-ignoring-cancel-contracts</link>
+      <description>While more cities are canceling their contracts with Flock Safety, just as many are discovering how difficult that can be in some instances. Plymouth, Minnesota's city council voted to terminate its contract with Flock in September, but failed to respond to the city's request. For over a month, the cameras remained up, and the city […]</description>
+      <pubDate>Sun, 01 Nov 2026 19:58:02 +0000</pubDate>
+      <guid>https://www.theverge.com/tech/1024232/flock-ignoring-cancel-contracts</guid>
       <category>The Verge</category>
     </item>
     <item>
-      <title>От промпта до продакшна за два часа: всё, что нужно знать о Claude Code</title>
-      <link>https://habr.com/ru/companies/bothub/articles/1102356/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102356</link>
-      <description>К концу 2026 года Claude Code перестал быть экзотикой: CLI-агент от Anthropic генерирует всё на свете — видео, сайты, приложения, скрипты, статьи — и закрывает заметную часть инженерной рутины. Одни называют его лучшим, что случилось с разработкой за последние годы; другие указывают на лимиты, которые заканчиваются быстрее, чем ожидалось, жалуются на решения, которые агент принимает без спроса, и на очередную волну блокировок аккаунтов. Статья для тех, кто не сразу нырнул в ИИ-сферу и до сих пор</description>
-      <pubDate>Sun, 01 Nov 2026 15:48:49 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/bothub/articles/1102356/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102356</guid>
+      <title>Ваш AI‑стартап похож на все остальные</title>
+      <link>https://habr.com/ru/articles/1102402/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102402</link>
+      <description>«Ревью с полным контекстом кодовой базы». «Меньше шума». «Находите ошибки до выпуска». После нескольких страниц AI-инструментов для code review эти обещания начинают сливаться. Я разобрала лендинги CodeRabbit, Qodo, Greptile и cubic, чтобы проверить, можно ли по публичной странице понять, чем продукты отличаются и в какой ситуации о них стоит вспомнить. Это разбор текстов публичных страниц, доступных на момент подготовки статьи в октябре 2026 года. Я смотрела, какую проблему описывает компания, </description>
+      <pubDate>Sun, 01 Nov 2026 19:57:11 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1102402/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102402</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Эволюция литературного баклажана</title>
-      <link>https://habr.com/ru/articles/1102124/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102124</link>
-      <description>(Сборник старых и новых литературных анекдотов) Вначале писатель писал свои книги сам. Потом обнаружилось, что это долго, нудно и мешает личной жизни. Так появился "литературный призрак" – человек, который пишет книги, чтобы писателем считался другой. В старину называли их литературными неграми, но в век толерантности теперь называем их по другому, как, например, в нашем заголовке или в начале этого абзаца. Первый получал деньги, второй славу. Со временем слава стала обходиться дороже, а труд де</description>
-      <pubDate>Sun, 01 Nov 2026 15:43:52 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1102124/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102124</guid>
+      <title>Замена Claude: Kimi набрала 96% в моем тесте работы с 1С</title>
+      <link>https://habr.com/ru/articles/1102396/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102396</link>
+      <description>Блокировка Клауд Меня зовут Новиков Александр. Я занимаюсь программированием на 1С. Задачи типовые- разработка нового функционала. Также довольно часто просят вытащить аналитику из 1С, если штатный отчет не справляется. Много задач по интеграции всего и со всем. ИИ я освоил, как и многие из коллег. Но использую его не вслепую, а стараюсь использовать его точечно и под контролем. Из нейросетей это GPT, Клауд. На днях прилетело НЛО от Клауд в виде блокировки. Пытался возражать, но внеземной разум </description>
+      <pubDate>Sun, 01 Nov 2026 19:42:25 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1102396/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102396</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Климат-контроль esp32c3-webUI</title>
-      <link>https://habr.com/ru/articles/1102350/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102350</link>
-      <description>Мини проект климат контроля температуры, влажности. Проект представляет собой автономный модуль климат‑контроля на ESP32‑C3, который считывает данные с AHT10 по I2C и передает их в браузер через WebSocket, работая как собственная точка доступа. Читать далее</description>
-      <pubDate>Sun, 01 Nov 2026 15:43:39 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1102350/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102350</guid>
+      <title>Продолжение полёта</title>
+      <link>https://habr.com/ru/articles/1102388/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102388</link>
+      <description>В прошлых статьях я рассказывал о портировании AM32 на отечественный микроконтроллер К1946ВК035 и о том, как принимать DShot, когда нужный нам модуль захвата сигнала не соединён с DMA. С шестишаговой коммутацией тогда разобрались, мотор закрутился. Но на этом, как вы уже понимаете, останавливаться было бы неинтересно. На этот раз попробуем векторное управление, оно же FOC. Микроконтроллер оставим тот же, а за математикой отправимся в открытый проект https://github.com/vedderb/bldc Бенджамина Вед</description>
+      <pubDate>Sun, 01 Nov 2026 19:00:38 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1102388/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102388</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>От аптек до облака: что показал год атак шифровальщиков и вайперов на российский бизнес</title>
-      <link>https://habr.com/ru/companies/pt/articles/1102348/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102348</link>
-      <description>В апреле 2026 года хактивисты атаковали ИТ-компанию, которая предоставляет услуги коммерческого облака. Десятки серверов виртуализации с сотнями виртуальных машин вышли из строя, а корпоративный репозиторий с проектами компании был уничтожен. Такое воздействие может привести к тому, что компания не сможет дальше оказывать услуги, и даже к уничтожению продуктовых серверов ее клиентов. Это один из случаев, которые мы разобрали в исследовании атак с применением шифровальщиков и вайперов на российск</description>
-      <pubDate>Sun, 01 Nov 2026 15:31:29 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/pt/articles/1102348/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102348</guid>
+      <title>Если ИИ может сделать то же самое, зачем клиенту ваш SaaS?</title>
+      <link>https://habr.com/ru/articles/1102382/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102382</link>
+      <description>ИИ уже умеет писать код, работать с данными и выполнять задачи, для которых раньше требовался отдельный SaaS. За что теперь платить клиенту, если нужную функцию можно собрать с помощью ИИ? И как SaaS-компаниям сохранить конкурентоспособность, когда привычные преимущества перестают работать? Читать далее</description>
+      <pubDate>Sun, 01 Nov 2026 18:34:31 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1102382/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102382</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>[Перевод] Сколько времени займет путешествие по Вселенной с ускорением 1 g?</title>
+      <link>https://habr.com/ru/articles/1102358/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102358</link>
+      <description>Итан Сигел (американский астрофизик‑теоретик и научный журналист, автор рубрики «Спросите Итана», один из пропагандистов современных научных знаний), сделал статью с минимальным количеством слов и множеством картинок на тему: как далеко можно долететь с ускорением 1g (ускорение свободного падения на Земле: 9,8 м/с 2 )? @avshkol перевел эту статью, чтобы обсудить возможность добраться до ближайших звезд за какие-то там... n лет. Заодно и гравитация земная. Отличная тема для понедельника! Читать д</description>
+      <pubDate>Sun, 01 Nov 2026 18:24:03 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1102358/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102358</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Энтропия индустрии</title>
+      <link>https://habr.com/ru/articles/1097262/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1097262</link>
+      <description>Энтропия в физике - это мера того, насколько естественно система переходит от более упорядоченного состояния к менее упорядоченному и более вероятному. Проще говоря, без внешних усилий порядок обычно не сохраняется сам собой. Колода карт, брошенная на ветер, разлетается, а не собирается обратно. Яйцо, упав на пол, разбивается, а не восстанавливается. Именно поэтому многие процессы в мире идут только в одну сторону: из прошлого в будущее. В этом смысле рост энтропии связан со стрелой времени. Час</description>
+      <pubDate>Sun, 01 Nov 2026 18:05:08 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1097262/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1097262</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
   </channel>
