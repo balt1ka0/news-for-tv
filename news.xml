@@ -5,9 +5,41 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Sat, 31 Oct 2026 23:07:41 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 04:43:04 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Scientists say a forgotten particle may explain why the universe exists</title>
+      <link>https://www.sciencedaily.com/releases/2026/10/261031221201.htm</link>
+      <description>A mysterious particle overlooked for decades may hold the key to why matter survived the Big Bang, allowing stars, planets, and life to exist. Scientists believe this forgotten neutrino reshaped the early universe and may have left detectable gravitational wave signals that could help unlock the cosmos’s deepest mysteries.</description>
+      <pubDate>Sun, 01 Nov 2026 04:33:36 +0000</pubDate>
+      <guid>https://www.sciencedaily.com/releases/2026/10/261031221201.htm</guid>
+      <category>All Top News -- ScienceDaily</category>
+    </item>
+    <item>
+      <title>Slyber TURN Server для WebRTC приложений с установкой в одну команду</title>
+      <link>https://habr.com/ru/articles/1102180/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102180</link>
+      <description>Привет Хабр! В этой статье я расскажу зачем я создал собственный TURN сервер в то время когда есть древний Coturn который я устал постоянно разворачивать и настраивать для своих приложений. В моих глобал проектах на WebRtc около 20 процентов пользователей всегда находятся за NAT , CGNAT или за корпоративными файрволами. Напрямую такие юзеры соединиться не могут, поэтому трафик нужно пропускать через сервер посредник "TURN", иначе будут жаловаться в тех поддержку. Долгое время я использовал древн</description>
+      <pubDate>Sun, 01 Nov 2026 03:09:56 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1102180/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102180</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Scientists discover the hidden “muscles” trees use to straighten themselves</title>
+      <link>https://www.sciencedaily.com/releases/2026/10/261030003006.htm</link>
+      <description>Scientists have discovered that trees can sense their own shape and straighten their trunks using specialized wood that acts like opposing muscles. This remarkable ability helps trees maintain their posture and could lead to stronger forests, better timber, and more resilient crops.</description>
+      <pubDate>Sun, 01 Nov 2026 02:44:28 +0000</pubDate>
+      <guid>https://www.sciencedaily.com/releases/2026/10/261030003006.htm</guid>
+      <category>All Top News -- ScienceDaily</category>
+    </item>
+    <item>
+      <title>Data centers are now a midterm issue, even in Brooklyn</title>
+      <link>https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/</link>
+      <description>At a Brooklyn midterm party five days before Election Day, every conversation, from a council member’s fireside chat to a debate about the Democratic Party, kept circling back to AI and data centers.</description>
+      <pubDate>Sun, 01 Nov 2026 02:22:10 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/</guid>
+      <category>TechCrunch</category>
+    </item>
     <item>
       <title>Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’</title>
       <link>https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/</link>
@@ -55,38 +87,6 @@
       <pubDate>Sat, 31 Oct 2026 18:40:32 +0000</pubDate>
       <guid>https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto</guid>
       <category>The Verge</category>
-    </item>
-    <item>
-      <title>Программируем без IDE или применение qwen и qwen coder для написания софта</title>
-      <link>https://habr.com/ru/articles/1102144/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102144</link>
-      <description>Сейчас мы попробуем быстро написать сканер ntfs alternate data streams потоков, на не совсем тривиальном стеке и архитектуре. Сделал я это в первую очередь для тестирования возможностей моделей семейства qwen. Краткое пояснение для тех, кто не работал в это сфере. NTFS (аббревиатура от англ. new technology file system — «файловая система новой технологии») — стандартная файловая система для семейства операционных систем Windows NT. Одним из ее малоизвестных свойств является наличие альтернативны</description>
-      <pubDate>Sat, 31 Oct 2026 18:18:48 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1102144/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102144</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>[Перевод] Насколько стар Хэллоуин?</title>
-      <link>https://habr.com/ru/articles/1102142/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102142</link>
-      <description>Сегодня по всему миру – и не только в западных странах – люди зажгут фонари в тыквах и нарядятся в страшные костюмы, празднуя Хэллоуин. Праздник, когда злые силы, по легенде, на одну ночь посещают наш мир – и когда нужно изо всех сил рядиться пострашнее, чтобы отпугнуть их. И снова начнутся дискуссии: что праздник этот новый, нетрадиционный, наносной... А они, в свою очередь, породят интересный вопрос: а когда, собственно, его начали отмечать, как и у кого он появился? Читать далее</description>
-      <pubDate>Sat, 31 Oct 2026 17:56:49 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1102142/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102142</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Happy Pikmin Day Eve</title>
-      <link>https://www.theverge.com/games/1024085/happy-pikmin-day-eve</link>
-      <description>This morning, Nintendo announced that tomorrow, November 1st, would be the first annual Pikmin Day. As part of the short Pikmin Day Direct, Shigeru Miyamoto shared new info about Pikmin 4 for the Switch 2, as well as an update for the mobile app Pikmin Bloom, and announced the Hello! Pikmin series of shorts. Players […]</description>
-      <pubDate>Sat, 31 Oct 2026 17:50:12 +0000</pubDate>
-      <guid>https://www.theverge.com/games/1024085/happy-pikmin-day-eve</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>Резолвер здоров, а страницы не открываются: как я сделал отказоустойчивый DoH на MikroTik</title>
-      <link>https://habr.com/ru/articles/1102130/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102130</link>
-      <description>В филиальной сети перестала открываться страница, которая до этого работала неделями. На роутере всё зелёное: :resolve отдаёт валидный адрес, DoH отвечает Status:0, монитор пишет «здоров». А у людей страница не открывается. Оказалось, что ответ Cloudflare (8.6.112.0 / 8.47.69.0) валиден, но до него из этой сети нет маршрута. Проверка «получил IP или нет» такого не ловит. Рассказ о том, как я делал отказоустойчивый DoH на MikroTik и где упёрся в ограничения RouterOS. Читать историю</description>
-      <pubDate>Sat, 31 Oct 2026 16:35:47 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1102130/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102130</guid>
-      <category>Все публикации подряд на Хабре</category>
     </item>
   </channel>
 </rss>
