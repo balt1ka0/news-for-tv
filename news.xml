@@ -5,9 +5,25 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Sun, 01 Nov 2026 21:45:45 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 01:18:06 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Как айтишникам живётся с информационной безопасностью на производстве ЕВРАЗа</title>
+      <link>https://habr.com/ru/companies/evraz/articles/1101644/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101644</link>
+      <description>Обычно на крупных производствах за информационную безопасность отвечает огромный департамент. Мы — одна из самых маленьких команд в отрасли. При этом у нас хорошие показатели. По результатам внешнего аудита прошлого года мы получили больше 92% соответствия требованиям, и по отраслевым бенчмаркам держим высокий уровень зрелости ИБ. Меня зовут Андрей Нуйкин, я руковожу отделом информационной безопасности ЕВРАЗа. Зона ответственности моей команды — это больше тысячи разработчиков, десятки тысяч пол</description>
+      <pubDate>Mon, 02 Nov 2026 00:31:33 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/evraz/articles/1101644/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101644</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>OpenAI might rebrand its data centers as ‘AI compute campuses’</title>
+      <link>https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/</link>
+      <description>Data centers are deeply unpopular. But what if we called them something else?</description>
+      <pubDate>Sun, 01 Nov 2026 21:55:23 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/</guid>
+      <category>TechCrunch</category>
+    </item>
     <item>
       <title>NASA hopes the commercial space industry can help save Hubble</title>
       <link>https://www.theverge.com/science/1024239/nasa-commercial-space-save-hubble</link>
@@ -70,22 +86,6 @@
       <description>ИИ уже умеет писать код, работать с данными и выполнять задачи, для которых раньше требовался отдельный SaaS. За что теперь платить клиенту, если нужную функцию можно собрать с помощью ИИ? И как SaaS-компаниям сохранить конкурентоспособность, когда привычные преимущества перестают работать? Читать далее</description>
       <pubDate>Sun, 01 Nov 2026 18:34:31 +0000</pubDate>
       <guid>https://habr.com/ru/articles/1102382/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102382</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>[Перевод] Сколько времени займет путешествие по Вселенной с ускорением 1 g?</title>
-      <link>https://habr.com/ru/articles/1102358/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102358</link>
-      <description>Итан Сигел (американский астрофизик‑теоретик и научный журналист, автор рубрики «Спросите Итана», один из пропагандистов современных научных знаний), сделал статью с минимальным количеством слов и множеством картинок на тему: как далеко можно долететь с ускорением 1g (ускорение свободного падения на Земле: 9,8 м/с 2 )? @avshkol перевел эту статью, чтобы обсудить возможность добраться до ближайших звезд за какие-то там... n лет. Заодно и гравитация земная. Отличная тема для понедельника! Читать д</description>
-      <pubDate>Sun, 01 Nov 2026 18:24:03 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1102358/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102358</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Энтропия индустрии</title>
-      <link>https://habr.com/ru/articles/1097262/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1097262</link>
-      <description>Энтропия в физике - это мера того, насколько естественно система переходит от более упорядоченного состояния к менее упорядоченному и более вероятному. Проще говоря, без внешних усилий порядок обычно не сохраняется сам собой. Колода карт, брошенная на ветер, разлетается, а не собирается обратно. Яйцо, упав на пол, разбивается, а не восстанавливается. Именно поэтому многие процессы в мире идут только в одну сторону: из прошлого в будущее. В этом смысле рост энтропии связан со стрелой времени. Час</description>
-      <pubDate>Sun, 01 Nov 2026 18:05:08 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1097262/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1097262</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
   </channel>
