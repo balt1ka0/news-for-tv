@@ -5,87 +5,87 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Mon, 02 Nov 2026 01:18:06 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 08:56:26 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Как айтишникам живётся с информационной безопасностью на производстве ЕВРАЗа</title>
-      <link>https://habr.com/ru/companies/evraz/articles/1101644/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101644</link>
-      <description>Обычно на крупных производствах за информационную безопасность отвечает огромный департамент. Мы — одна из самых маленьких команд в отрасли. При этом у нас хорошие показатели. По результатам внешнего аудита прошлого года мы получили больше 92% соответствия требованиям, и по отраслевым бенчмаркам держим высокий уровень зрелости ИБ. Меня зовут Андрей Нуйкин, я руковожу отделом информационной безопасности ЕВРАЗа. Зона ответственности моей команды — это больше тысячи разработчиков, десятки тысяч пол</description>
-      <pubDate>Mon, 02 Nov 2026 00:31:33 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/evraz/articles/1101644/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101644</guid>
+      <title>Последний язык программирования уже написан. С чем останутся те, кто продолжит писать код?</title>
+      <link>https://habr.com/ru/articles/1102558/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102558</link>
+      <description>Порассуждаем о том, на чём мы будем писать код в ближайшие годы. Появятся ли ещё новые языки, если нейронка умеет хорошо писать только на тех, что видела при обучении? Кто платит за Rust, Python и Zig? Переживут ли PHP и 1С эпоху агентов? И чем будут заниматься те, кто продолжит программировать? Читать далее</description>
+      <pubDate>Mon, 02 Nov 2026 08:33:35 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1102558/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102558</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>OpenAI might rebrand its data centers as ‘AI compute campuses’</title>
-      <link>https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/</link>
-      <description>Data centers are deeply unpopular. But what if we called them something else?</description>
-      <pubDate>Sun, 01 Nov 2026 21:55:23 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>NASA hopes the commercial space industry can help save Hubble</title>
-      <link>https://www.theverge.com/science/1024239/nasa-commercial-space-save-hubble</link>
-      <description>Gravity is a cruel mistress, slowly dragging the famed telescope ever closer to its ultimate demise with every day. Hubble is in no immediate danger of burning up in the Earth's atmosphere, but its time will run out in the early to mid 2030s unless its orbit is boosted. So NASA is taking proposals from […]</description>
-      <pubDate>Sun, 01 Nov 2026 21:09:21 +0000</pubDate>
-      <guid>https://www.theverge.com/science/1024239/nasa-commercial-space-save-hubble</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>AI can make tech CEOs’ lives easier. What about everyone else?</title>
-      <link>https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/</link>
-      <description>On Equity, we discuss why tech CEO statements can seem so tone deaf.</description>
-      <pubDate>Sun, 01 Nov 2026 20:57:58 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>Новую подписку купить легко. Заново объяснить нейронке всю свою жизнь — сложнее</title>
-      <link>https://habr.com/ru/companies/raketa_pay/articles/1102398/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102398</link>
-      <description>Представьте: вы несколько недель обсуждали с нейросетью поездку. Выбрали даты, отказались от аренды автомобиля, нашли жильё рядом с вокзалом. Заодно объяснили, что длинные списки достопримечательностей вам не нужны, а к каждому предложению хочется видеть время в пути. Потом решили попробовать другой сервис. Открыли новый чат — и снова получили маршрут с машиной и двадцатью музеями. Читать далее</description>
-      <pubDate>Sun, 01 Nov 2026 20:09:01 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/raketa_pay/articles/1102398/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102398</guid>
+      <title>SQAdays: ИИ-трансформация и ценность качества</title>
+      <link>https://habr.com/ru/articles/1102546/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102546</link>
+      <description>Прошла очередная конференция SQAdays . Половина выступлений была посвящена использованию ИИ, и они носят вполне прагматичный характер освоения нового инструмента, который вошел в арсенал наряду с другими технологиями. Но были и обзорные выступления и круглые столы для осмысления изменений в целом. Мне лично в ходе обсуждений удалось получить картину будущего, когда нынешняя разработка схлопнется между discovery с вайбкодингом прототипов tiny team из бизнеса и технаря с одной стороны, и расширенн</description>
+      <pubDate>Mon, 02 Nov 2026 08:08:30 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1102546/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102546</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Flock keeps ignoring requests to cancel its contracts</title>
-      <link>https://www.theverge.com/tech/1024232/flock-ignoring-cancel-contracts</link>
-      <description>While more cities are canceling their contracts with Flock Safety, just as many are discovering how difficult that can be in some instances. Plymouth, Minnesota's city council voted to terminate its contract with Flock in September, but failed to respond to the city's request. For over a month, the cameras remained up, and the city […]</description>
-      <pubDate>Sun, 01 Nov 2026 19:58:02 +0000</pubDate>
-      <guid>https://www.theverge.com/tech/1024232/flock-ignoring-cancel-contracts</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>Ваш AI‑стартап похож на все остальные</title>
-      <link>https://habr.com/ru/articles/1102402/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102402</link>
-      <description>«Ревью с полным контекстом кодовой базы». «Меньше шума». «Находите ошибки до выпуска». После нескольких страниц AI-инструментов для code review эти обещания начинают сливаться. Я разобрала лендинги CodeRabbit, Qodo, Greptile и cubic, чтобы проверить, можно ли по публичной странице понять, чем продукты отличаются и в какой ситуации о них стоит вспомнить. Это разбор текстов публичных страниц, доступных на момент подготовки статьи в октябре 2026 года. Я смотрела, какую проблему описывает компания, </description>
-      <pubDate>Sun, 01 Nov 2026 19:57:11 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1102402/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102402</guid>
+      <title>Аутентичный ML для самых маленьких: структура МL-проекта</title>
+      <link>https://habr.com/ru/companies/selectel/articles/1102420/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102420</link>
+      <description>Это вводная статья для серии материалов по классическому машинному обучению. Мы поговорим о том, как оно устроено, какие задачи решаются с помощью ML, какие инструменты используют для этого и, конечно, напишем код. Статьи будут раскрывать основополагающие идеи ML. Я предпочитаю интуитивное объяснение алгоритмов и методов формальной постановке задач и их решению, не умаляя важности последних. Но начнем с главного — со скелета. Разберем, как работает машинное обучение, из каких этапов состоит любо</description>
+      <pubDate>Mon, 02 Nov 2026 08:07:45 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/selectel/articles/1102420/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102420</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Замена Claude: Kimi набрала 96% в моем тесте работы с 1С</title>
-      <link>https://habr.com/ru/articles/1102396/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102396</link>
-      <description>Блокировка Клауд Меня зовут Новиков Александр. Я занимаюсь программированием на 1С. Задачи типовые- разработка нового функционала. Также довольно часто просят вытащить аналитику из 1С, если штатный отчет не справляется. Много задач по интеграции всего и со всем. ИИ я освоил, как и многие из коллег. Но использую его не вслепую, а стараюсь использовать его точечно и под контролем. Из нейросетей это GPT, Клауд. На днях прилетело НЛО от Клауд в виде блокировки. Пытался возражать, но внеземной разум </description>
-      <pubDate>Sun, 01 Nov 2026 19:42:25 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1102396/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102396</guid>
+      <title>ИИ-хакеры против ИИ-безопасников: гонка вооружений и скорости в 2026</title>
+      <link>https://habr.com/ru/companies/bitrix/articles/1101856/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101856</link>
+      <description>Меня зовут Роман Стрельников, я руководитель направления информационной безопасности в 1С-Битрикс. Сегодня разберем, как ИИ изменил кибератаки и способы защиты от них, и какие интересные инциденты раскрыли компании Читать далее</description>
+      <pubDate>Mon, 02 Nov 2026 08:00:12 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/bitrix/articles/1101856/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101856</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Продолжение полёта</title>
-      <link>https://habr.com/ru/articles/1102388/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102388</link>
-      <description>В прошлых статьях я рассказывал о портировании AM32 на отечественный микроконтроллер К1946ВК035 и о том, как принимать DShot, когда нужный нам модуль захвата сигнала не соединён с DMA. С шестишаговой коммутацией тогда разобрались, мотор закрутился. Но на этом, как вы уже понимаете, останавливаться было бы неинтересно. На этот раз попробуем векторное управление, оно же FOC. Микроконтроллер оставим тот же, а за математикой отправимся в открытый проект https://github.com/vedderb/bldc Бенджамина Вед</description>
-      <pubDate>Sun, 01 Nov 2026 19:00:38 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1102388/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102388</guid>
+      <title>Кот Шрёдингера в продакшене. Почему ИИ не знает, почему он это сделал</title>
+      <link>https://habr.com/ru/articles/1102532/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102532</link>
+      <description>То, что вы сейчас прочитаете, — полный бред, во всяком случае с точки зрения физики. Но меня это не особенно беспокоит. Теория не обязана быть абсолютной истиной. Важно, чтобы она согласовывалась с наблюдениями, позволяла делать предсказания и выдерживала проверку экспериментом. Моя теория никаких научных проверок пока не проходила, зато удивительно хорошо объясняет то, что я регулярно наблюдаю при работе с искусственным интеллектом. А началось всё с обычного сайта, нескольких заголовков и моего</description>
+      <pubDate>Mon, 02 Nov 2026 07:50:45 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1102532/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102532</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Если ИИ может сделать то же самое, зачем клиенту ваш SaaS?</title>
-      <link>https://habr.com/ru/articles/1102382/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102382</link>
-      <description>ИИ уже умеет писать код, работать с данными и выполнять задачи, для которых раньше требовался отдельный SaaS. За что теперь платить клиенту, если нужную функцию можно собрать с помощью ИИ? И как SaaS-компаниям сохранить конкурентоспособность, когда привычные преимущества перестают работать? Читать далее</description>
-      <pubDate>Sun, 01 Nov 2026 18:34:31 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1102382/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102382</guid>
+      <title>Две критические CVE в PHP и GitLab: уязвимости выходят быстрее, чем их успевают закрыть</title>
+      <link>https://habr.com/ru/companies/ussc/articles/1102528/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102528</link>
+      <description>Во второй половине октября две критические уязвимости в PHP и GitLab заставили компании по всему миру срочно обновлять серверы, а часть государственных и коммерческих сайтов на время ушла в офлайн. Обе позволяют выполнить код на сервере без авторизации, и обе затрагивают версии, выпущенные больше десяти лет назад. Почему так произошло и что делать прямо сейчас — рассказываем в статье. Читать далее</description>
+      <pubDate>Mon, 02 Nov 2026 07:46:09 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/ussc/articles/1102528/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102528</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Машина вращения: британская механика, советская метрология и искусственный интеллект</title>
+      <link>https://habr.com/ru/articles/1102412/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102412</link>
+      <description>Я собирал измерительный стенд для Musical Fidelity M1, а проверять пришлось Michell Gyro SE. После перевозки и установки новой головки обычная проверка настройки превратилась в исследование медленных колебаний скорости — с советскими пластинками, смартфоном, автомобильной шумоизоляцией и искусственным интеллектом. Читать далее</description>
+      <pubDate>Mon, 02 Nov 2026 07:45:32 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1102412/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102412</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Из серой глины в кошмар: как мы сделали монстров для AR-хоррора по «Вию» (Tripo AI, авториг, Quaternius, Blender)</title>
+      <link>https://habr.com/ru/articles/1102524/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102524</link>
+      <description>Я делаю прототип AR-хоррора для iPhone по «Вию» Гоголя: Home Haunt. Игра ставит историю в вашу комнату: стены кровоточат, из гроба на вашем полу встаёт мёртвая панночка. Делаю на Unity с октября: журнал проекта начинается 2 октября, к 30 октября в нём больше 50 номеров сборок. В статье про монстров: чем они сделаны, что пришлось урезать, чтобы тянул телефон, и что пока не готово. Читать далее</description>
+      <pubDate>Mon, 02 Nov 2026 07:39:33 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1102524/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102524</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Маскирование без дублей: перестановка вместо проверок на уникальность</title>
+      <link>https://habr.com/ru/articles/1102510/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102510</link>
+      <description>Когда-то я работал DBA, и одной из самых нелюбимых задач было «сделать копию прода для тестов, только без персональных данных». Заменить значения несложно. Сложности начинаются на колонках с уникальным индексом. Сейчас мы с небольшой командой разрабатываем сервис для маскирования персональных данных в PostgreSQL и SQL Server. Одной из первых серьёзных задач, с которой мы столкнулись, стала проблема уникальности данных. Ниже расскажу, к каким выводам мы пришли: почему случайная замена может приво</description>
+      <pubDate>Mon, 02 Nov 2026 07:27:47 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1102510/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102510</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Не знаю, кому написать: как организовать внутреннюю поддержку сотрудников в крупной компании</title>
+      <link>https://habr.com/ru/companies/teamly/articles/1101620/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101620</link>
+      <description>В понедельник сотруднику понадобился доступ к корпоративной системе. Он написал руководителю, тот отправил его в IT. Там попросили согласование службы безопасности. Безопасность уточнила, какие права нужны, на какую систему и кто её владелец. К среде участники переписки разобрались, кто должен согласовать заявку. Доступа пока нет, работа стоит, зато сотрудник уже многое узнал об устройстве компании. Читать далее</description>
+      <pubDate>Mon, 02 Nov 2026 07:22:01 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/teamly/articles/1101620/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101620</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
   </channel>
