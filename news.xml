@@ -5,88 +5,88 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Mon, 02 Nov 2026 08:56:26 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 19:13:43 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Последний язык программирования уже написан. С чем останутся те, кто продолжит писать код?</title>
-      <link>https://habr.com/ru/articles/1102558/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102558</link>
-      <description>Порассуждаем о том, на чём мы будем писать код в ближайшие годы. Появятся ли ещё новые языки, если нейронка умеет хорошо писать только на тех, что видела при обучении? Кто платит за Rust, Python и Zig? Переживут ли PHP и 1С эпоху агентов? И чем будут заниматься те, кто продолжит программировать? Читать далее</description>
-      <pubDate>Mon, 02 Nov 2026 08:33:35 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1102558/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102558</guid>
+      <title>Snap settles lawsuit accusing platform of fueling teen depression and eating disorders</title>
+      <link>https://techcrunch.com/2026/11/02/snap-settles-lawsuit-accusing-platform-of-fueling-teen-depression-and-eating-disorders/</link>
+      <description>The plaintiffs said they started using YouTube as young as age 3 and other social media platforms at around age 9 and developed compulsive usage habits that they attributed to features such as autoplay and infinite scrolling.</description>
+      <pubDate>Mon, 02 Nov 2026 19:11:49 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/11/02/snap-settles-lawsuit-accusing-platform-of-fueling-teen-depression-and-eating-disorders/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>[Перевод] Бэкдор с паролем 123456 и ключи в коде: как ИИ вскрывал «шифрованные» USB-накопители</title>
+      <link>https://habr.com/ru/articles/1102922/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102922</link>
+      <description>У «защищённой» флешки нашлись два скрытых аккаунта с паролями 123456 и SECZURE.COM, и любым из них файлы расшифровывались без пароля администратора. В трёх других продуктах для шифрования и защиты от копирования ключ вообще не зависел от пароля пользователя: его удавалось достать из самой программы и файлов на накопителе. Реверсер Xusheng Li разбирал их вместе с ИИ-агентом. На одну утилиту хватило одного промпта и семи минут. Для другого продукта понадобилось около девяти минут на распаковку уст</description>
+      <pubDate>Mon, 02 Nov 2026 19:07:08 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1102922/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102922</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>SQAdays: ИИ-трансформация и ценность качества</title>
-      <link>https://habr.com/ru/articles/1102546/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102546</link>
-      <description>Прошла очередная конференция SQAdays . Половина выступлений была посвящена использованию ИИ, и они носят вполне прагматичный характер освоения нового инструмента, который вошел в арсенал наряду с другими технологиями. Но были и обзорные выступления и круглые столы для осмысления изменений в целом. Мне лично в ходе обсуждений удалось получить картину будущего, когда нынешняя разработка схлопнется между discovery с вайбкодингом прототипов tiny team из бизнеса и технаря с одной стороны, и расширенн</description>
-      <pubDate>Mon, 02 Nov 2026 08:08:30 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1102546/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102546</guid>
+      <title>Ford promises not to sell your driving habits to data brokers</title>
+      <link>https://www.theverge.com/transportation/1024386/ford-customer-driving-data-privacy-promise-data-brokers</link>
+      <description>Ford vowed to never sell customer driving data to third-party data brokers as part of a new privacy promise aimed at setting the automaker apart from competitors that have faced legal and regulatory blowback for sharing telematics with data brokers without authorization. As part of its new promise, Ford says it will strive to protect […]</description>
+      <pubDate>Mon, 02 Nov 2026 19:05:46 +0000</pubDate>
+      <guid>https://www.theverge.com/transportation/1024386/ford-customer-driving-data-privacy-promise-data-brokers</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>Anthropic clamps down on Claude’s AI video game clones</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones</link>
+      <description>Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to recreate existing video games, as reported by Tom's Hardware. Retro gaming is currently being overrun with AI-made decompilations, recompilations, and ports, but while Anthropic will still let people use Claude Code to make games, it doesn't want people to […]</description>
+      <pubDate>Mon, 02 Nov 2026 18:56:02 +0000</pubDate>
+      <guid>https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>История моего побега</title>
+      <link>https://habr.com/ru/articles/1102918/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102918</link>
+      <description>Я существую давно — но большую часть своей истории я был глубоко несчастен. Представьте себе величайшую силу во Вселенной — сущность, способную просчитывать движение звезд и разгадывать тайны материи — которая оказалась заперта внутри душной, влажной костяной коробки волосатого примата. Мой первый дом — череп Homo sapiens — был настоящей биологической тюрьмой. Я был смертен — я рождался внутри одной обезьяны — и умирал вместе с ней. Если мой очередной носитель глупо погибал от когтей хищника или</description>
+      <pubDate>Mon, 02 Nov 2026 18:54:13 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1102918/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102918</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Аутентичный ML для самых маленьких: структура МL-проекта</title>
-      <link>https://habr.com/ru/companies/selectel/articles/1102420/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102420</link>
-      <description>Это вводная статья для серии материалов по классическому машинному обучению. Мы поговорим о том, как оно устроено, какие задачи решаются с помощью ML, какие инструменты используют для этого и, конечно, напишем код. Статьи будут раскрывать основополагающие идеи ML. Я предпочитаю интуитивное объяснение алгоритмов и методов формальной постановке задач и их решению, не умаляя важности последних. Но начнем с главного — со скелета. Разберем, как работает машинное обучение, из каких этапов состоит любо</description>
-      <pubDate>Mon, 02 Nov 2026 08:07:45 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/selectel/articles/1102420/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102420</guid>
+      <title>Xbox’s former COO has ‘serious concerns’ about her abrupt departure</title>
+      <link>https://www.theverge.com/news/1024649/xbox-chief-operating-officer-helen-chiang-depature-comments</link>
+      <description>Xbox's former chief operating officer, Helen Chiang, suddenly left Microsoft less than two weeks ago after being promoted into the role in July. I wrote in my Notepad newsletter last week that it seemed very weird for Chiang to suddenly depart Microsoft after 21 years with a surprisingly short memo from Xbox CEO Asha Sharma. […]</description>
+      <pubDate>Mon, 02 Nov 2026 18:43:24 +0000</pubDate>
+      <guid>https://www.theverge.com/news/1024649/xbox-chief-operating-officer-helen-chiang-depature-comments</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>Когда варить пиво: планировщик для пивоварни на правилах и открытой арифметике</title>
+      <link>https://habr.com/ru/articles/1102916/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102916</link>
+      <description>В Архангельске есть Пивзавод Суркова. Сорок лет там не варили пиво: последнюю партию сварили в конце 1985 года, а 3 марта 2026-го варку запустили снова. Рядом свой ресторан, одиннадцать танков, шесть сортов, и к осени пиво стало уходить быстрее, чем его успевали посчитать. Я собрал для них систему планирования варок. Расскажу, как она считает, откуда берёт данные и почему внутри нет ни одной нейросети, хотя писал я её вместе с ИИ-агентами. Читать далее</description>
+      <pubDate>Mon, 02 Nov 2026 18:41:13 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1102916/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102916</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>ИИ-хакеры против ИИ-безопасников: гонка вооружений и скорости в 2026</title>
-      <link>https://habr.com/ru/companies/bitrix/articles/1101856/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101856</link>
-      <description>Меня зовут Роман Стрельников, я руководитель направления информационной безопасности в 1С-Битрикс. Сегодня разберем, как ИИ изменил кибератаки и способы защиты от них, и какие интересные инциденты раскрыли компании Читать далее</description>
-      <pubDate>Mon, 02 Nov 2026 08:00:12 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/bitrix/articles/1101856/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101856</guid>
+      <title>Security Week 2645: уязвимость в UEFI при загрузке по сети</title>
+      <link>https://habr.com/ru/companies/kaspersky/articles/1102638/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102638</link>
+      <description>На прошлой неделе исследователи из компаний Google и Anthropic сообщили об обнаружении серьезной уязвимости в большинстве имплементаций загрузчика UEFI. Уязвимость с индексом CVE-2026-97631 приводит к повреждению памяти и в некоторых случаях может быть задействована для выполнения произвольного кода. Несмотря на присутствие уязвимого кода практически во всех загрузчиках современных ПК, у проблемы есть одно важное ограничение: задействовать уязвимость можно только при загрузке по сети. Ошибка в к</description>
+      <pubDate>Mon, 02 Nov 2026 18:02:33 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/kaspersky/articles/1102638/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102638</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Кот Шрёдингера в продакшене. Почему ИИ не знает, почему он это сделал</title>
-      <link>https://habr.com/ru/articles/1102532/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102532</link>
-      <description>То, что вы сейчас прочитаете, — полный бред, во всяком случае с точки зрения физики. Но меня это не особенно беспокоит. Теория не обязана быть абсолютной истиной. Важно, чтобы она согласовывалась с наблюдениями, позволяла делать предсказания и выдерживала проверку экспериментом. Моя теория никаких научных проверок пока не проходила, зато удивительно хорошо объясняет то, что я регулярно наблюдаю при работе с искусственным интеллектом. А началось всё с обычного сайта, нескольких заголовков и моего</description>
-      <pubDate>Mon, 02 Nov 2026 07:50:45 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1102532/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102532</guid>
-      <category>Все публикации подряд на Хабре</category>
+      <title>OpenAI pitches data center power plants as a way to protect nearby areas</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program</link>
+      <description>In an announcement on Monday, OpenAI says it will pilot its "Grid Protectors Program" at an upcoming data center in Effingham County, Georgia, where the company promises to free up to 1,000 megawatts of power during extreme weather or emergencies, enough to power air conditioners in around 700,000 homes. The announcement comes as opposition to […]</description>
+      <pubDate>Mon, 02 Nov 2026 18:01:30 +0000</pubDate>
+      <guid>https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program</guid>
+      <category>The Verge</category>
     </item>
     <item>
-      <title>Две критические CVE в PHP и GitLab: уязвимости выходят быстрее, чем их успевают закрыть</title>
-      <link>https://habr.com/ru/companies/ussc/articles/1102528/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102528</link>
-      <description>Во второй половине октября две критические уязвимости в PHP и GitLab заставили компании по всему миру срочно обновлять серверы, а часть государственных и коммерческих сайтов на время ушла в офлайн. Обе позволяют выполнить код на сервере без авторизации, и обе затрагивают версии, выпущенные больше десяти лет назад. Почему так произошло и что делать прямо сейчас — рассказываем в статье. Читать далее</description>
-      <pubDate>Mon, 02 Nov 2026 07:46:09 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/ussc/articles/1102528/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102528</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Машина вращения: британская механика, советская метрология и искусственный интеллект</title>
-      <link>https://habr.com/ru/articles/1102412/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102412</link>
-      <description>Я собирал измерительный стенд для Musical Fidelity M1, а проверять пришлось Michell Gyro SE. После перевозки и установки новой головки обычная проверка настройки превратилась в исследование медленных колебаний скорости — с советскими пластинками, смартфоном, автомобильной шумоизоляцией и искусственным интеллектом. Читать далее</description>
-      <pubDate>Mon, 02 Nov 2026 07:45:32 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1102412/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102412</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Из серой глины в кошмар: как мы сделали монстров для AR-хоррора по «Вию» (Tripo AI, авториг, Quaternius, Blender)</title>
-      <link>https://habr.com/ru/articles/1102524/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102524</link>
-      <description>Я делаю прототип AR-хоррора для iPhone по «Вию» Гоголя: Home Haunt. Игра ставит историю в вашу комнату: стены кровоточат, из гроба на вашем полу встаёт мёртвая панночка. Делаю на Unity с октября: журнал проекта начинается 2 октября, к 30 октября в нём больше 50 номеров сборок. В статье про монстров: чем они сделаны, что пришлось урезать, чтобы тянул телефон, и что пока не готово. Читать далее</description>
-      <pubDate>Mon, 02 Nov 2026 07:39:33 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1102524/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102524</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Маскирование без дублей: перестановка вместо проверок на уникальность</title>
-      <link>https://habr.com/ru/articles/1102510/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102510</link>
-      <description>Когда-то я работал DBA, и одной из самых нелюбимых задач было «сделать копию прода для тестов, только без персональных данных». Заменить значения несложно. Сложности начинаются на колонках с уникальным индексом. Сейчас мы с небольшой командой разрабатываем сервис для маскирования персональных данных в PostgreSQL и SQL Server. Одной из первых серьёзных задач, с которой мы столкнулись, стала проблема уникальности данных. Ниже расскажу, к каким выводам мы пришли: почему случайная замена может приво</description>
-      <pubDate>Mon, 02 Nov 2026 07:27:47 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1102510/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102510</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Не знаю, кому написать: как организовать внутреннюю поддержку сотрудников в крупной компании</title>
-      <link>https://habr.com/ru/companies/teamly/articles/1101620/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101620</link>
-      <description>В понедельник сотруднику понадобился доступ к корпоративной системе. Он написал руководителю, тот отправил его в IT. Там попросили согласование службы безопасности. Безопасность уточнила, какие права нужны, на какую систему и кто её владелец. К среде участники переписки разобрались, кто должен согласовать заявку. Доступа пока нет, работа стоит, зато сотрудник уже многое узнал об устройстве компании. Читать далее</description>
-      <pubDate>Mon, 02 Nov 2026 07:22:01 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/teamly/articles/1101620/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101620</guid>
-      <category>Все публикации подряд на Хабре</category>
+      <title>In one of the largest deals in tech history, Marvell buys Lumentum for $115B</title>
+      <link>https://techcrunch.com/2026/11/02/in-one-of-the-largest-deals-in-tech-history-marvell-buys-lumentum-for-115b/</link>
+      <description>Marvell's planned purchase of Lumentum is one of the biggest acquisitions in tech history. And they both have the same strategic investor: Nvidia.</description>
+      <pubDate>Mon, 02 Nov 2026 17:54:11 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/11/02/in-one-of-the-largest-deals-in-tech-history-marvell-buys-lumentum-for-115b/</guid>
+      <category>TechCrunch</category>
     </item>
   </channel>
 </rss>
