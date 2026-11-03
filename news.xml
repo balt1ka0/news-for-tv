@@ -5,87 +5,87 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Tue, 03 Nov 2026 09:13:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 17:35:23 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>На игле вайбкодинга: почему с ИИ-агентами стало сложнее отдыхать</title>
-      <link>https://habr.com/ru/articles/1102872/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102872</link>
-      <description>Заметил, что у многих ИИ-энтузиастов и специалистов, которые много работают с агентами, если в текущий момент времени не запущен ни один агент, начинаются нервы и синдром упущенной выгоды. Читать далее</description>
-      <pubDate>Tue, 03 Nov 2026 09:01:13 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1102872/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102872</guid>
+      <title>Moft’s new origami case adds a kickstand and grip to the iPhone Duo</title>
+      <link>https://www.theverge.com/tech/1025364/moft-dynamic-folio-case-stand-grip-apple-iphone-duo</link>
+      <description>Originally released in early 2025 as an accessory for the iPad, Moft has redesigned its Dynamic Folio as a case for the iPhone Duo that does more than just protect Apple's folding phone. You can use it to prop the Duo up at several different angles for hands-free use, or reconfigure the Dynamic Folio's origami-like […]</description>
+      <pubDate>Tue, 03 Nov 2026 17:27:52 +0000</pubDate>
+      <guid>https://www.theverge.com/tech/1025364/moft-dynamic-folio-case-stand-grip-apple-iphone-duo</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>Собрал полностью локального голосового ассистента без облаков и подписок. Выкладываю в open source</title>
+      <link>https://habr.com/ru/articles/1101954/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101954</link>
+      <description>Привет, Хабр! Пока весь мир заворачивает платные API в красивые обёртки, мне захотелось сделать что-то полностью автономное, конфиденциальное и бесплатное. Результат — App AI Assistant , локальный компаньон, с которым можно поговорить + голосовой ассистент («Джарвис» на минималках), который работает на 100% оффлайн на вашем компьютере. Проект полностью открытый, исходный код опубликован под лицензией MIT. Мне интересно было не просто «поиграться», а подружить нейросети в реальном времени. Что ум</description>
+      <pubDate>Tue, 03 Nov 2026 17:17:26 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1101954/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101954</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>AI Assisted Development или как не убить кучу времени на код-ревью агентов</title>
-      <link>https://habr.com/ru/companies/haulmont/articles/1101452/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101452</link>
-      <description>Новый поиск и индекс для нашего ИИ-ассистента мы написали за три дня вместе с Claude Code. А чтобы кто-то в команде смог за этот код отвечать, понадобилось ещё три недели. Разбираемся, куда ушло это время, чем ревью отличается от принятия кода на сопровождение и как теперь принимаем большие агентные задачи по частям. Читать далее</description>
-      <pubDate>Tue, 03 Nov 2026 09:00:13 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/haulmont/articles/1101452/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101452</guid>
+      <title>The Xbox Nano has a hidden cloud secret</title>
+      <link>https://www.theverge.com/games/1025430/xbox-nano-controller-direct-cloud-wifi-connectivity</link>
+      <description>Microsoft is about to launch its new Xbox Nano controller tomorrow, and the tiny device has a little secret. The Nano can connect directly to Xbox Cloud Gaming over Wi-Fi to improve latency. It's a feature Microsoft hasn't officially announced yet, but one I've been anticipating since the Xbox Nano leaked earlier this year. The […]</description>
+      <pubDate>Tue, 03 Nov 2026 17:16:04 +0000</pubDate>
+      <guid>https://www.theverge.com/games/1025430/xbox-nano-controller-direct-cloud-wifi-connectivity</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>Anthropic is still grappling with the economics of compute</title>
+      <link>https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/</link>
+      <description>At a moment when Anthropic's compute margins should be getting better, they’re getting worse.</description>
+      <pubDate>Tue, 03 Nov 2026 17:07:01 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>Google is entirely disabling Search in schools that don’t want AI</title>
+      <link>https://www.theverge.com/tech/1025411/google-turn-off-search-ai-features</link>
+      <description>Google is completely turning off Search in schools that reject its AI features, the company told The New York Times. The decision was also shared in a broader education-related update from Google on Tuesday, saying that access to Gemini, Gemini Notebook, Gemini in Classroom, and Google Search "will be entirely off" for K-12 student accounts […]</description>
+      <pubDate>Tue, 03 Nov 2026 17:00:04 +0000</pubDate>
+      <guid>https://www.theverge.com/tech/1025411/google-turn-off-search-ai-features</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>Windows 11 is now ‘up to 40 percent faster’ on PCs with 8GB of RAM</title>
+      <link>https://www.theverge.com/news/1025142/windows-11-8gb-ram-memory-improvements-speed-performance</link>
+      <description>Microsoft has been doing a lot of work to improve memory usage and increase performance on Windows 11 PCs over the past year. Last month the company revealed Windows 11 is now "more responsive" and runs better on PCs with 8GB of RAM, and now the company is releasing a new update today that includes […]</description>
+      <pubDate>Tue, 03 Nov 2026 17:00:00 +0000</pubDate>
+      <guid>https://www.theverge.com/news/1025142/windows-11-8gb-ram-memory-improvements-speed-performance</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>Малая автоматизация</title>
+      <link>https://habr.com/ru/articles/1103312/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1103312</link>
+      <description>Всем привет. Есть малая механизация, когда вы мотокультиватором типа "Крот" сажаете картошку на 20 сотках, а есть малая автоматизация, когда вам лень ставить жирный homeassiant и/или приложение от вендора с завязкой на облака и хочется пожить в уютном локалхосте. Сегодня пойдет речь про вторую. И да, важный момент - вы не планировали умный дом и не тянули провода заранее. Достаточно давно была куплена розетка "Умная розетка Wi-Fi SmartHome 2300W 10А IP20 c заземлением Gauss" в озоне, к сожалению</description>
+      <pubDate>Tue, 03 Nov 2026 16:38:35 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1103312/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1103312</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Поисковый запрос ≠ намерение купить. Как собирать аудитории для таргетированной рекламы</title>
-      <link>https://habr.com/ru/companies/avitoads/articles/1103074/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1103074</link>
-      <description>Поисковые запросы помогают находить пользователей, которые интересуются конкретными товарами и услугами. Но не каждый запрос означает готовность к покупке. Разбираем, как собирать семантику, формировать рекламные сегменты и отсекать нерелевантную аудиторию на примере Авито Рекламы . Читать далее</description>
-      <pubDate>Tue, 03 Nov 2026 08:53:25 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/avitoads/articles/1103074/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1103074</guid>
+      <title>Google will let schools disable its AI tools, but not without sacrificing Search</title>
+      <link>https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/</link>
+      <description>Schools choosing to restrict AI altogether will no longer be able to access Google Search, as AI features are now integrated into the search engine.</description>
+      <pubDate>Tue, 03 Nov 2026 16:30:34 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>PageRank внутри сайта: как найти страницы-невидимки и куда утекает вес ссылок</title>
+      <link>https://habr.com/ru/articles/1103300/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1103300</link>
+      <description>Какая страница вашего сайта важнее: /catalog/ или статья в блоге двухлетней давности? Пока страниц пятьдесят, на этот вопрос отвечает интуиция. Когда их пять тысяч — интуиция молчит, а структура ссылок превращается в то, что никто в компании целиком не видел: меню ведёт в каталог, блог ссылается на фильтры, фильтры — друг в друга, и где-то в этом клубке есть страницы, до которых внутренний вес добирается по щепотке. У этой задачи есть старый числовой ответ — PageRank. Не тот, по которому Google </description>
+      <pubDate>Tue, 03 Nov 2026 16:13:14 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1103300/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1103300</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Как поставить задачу подрядчику на ИИ-автоматизацию, если вы не технарь</title>
-      <link>https://habr.com/ru/articles/1103072/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1103072</link>
-      <description>Оценки одного и того же ИИ-проекта у разных подрядчиков легко расходятся в пять раз. Чаще всего дело не в жадности или наивности исполнителей, а в том, что каждый из них решал свою задачу: исходное описание допускало пять разных прочтений. Я работаю продакт-менеджером и бываю по обе стороны: сам ставлю задачи подрядчикам и сам разбираю чужие брифы, когда к нам приходят с запросом на автоматизацию. Ниже я написал, что нужно дать подрядчику в качестве требований, чтобы получить честную оценку, сра</description>
-      <pubDate>Tue, 03 Nov 2026 08:53:19 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1103072/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1103072</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Миграция продакшен-контура OpenMetadata с Airflow 2 на Airflow 3: что сломалось и как мы это чинили</title>
-      <link>https://habr.com/ru/companies/megafon/articles/1102994/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102994</link>
-      <description>Наш ingestion-контур — это сервис на базе Apache Airflow, который крутит пайплайны загрузки метаданных в OpenMetadata. Поверх стандартного Airflow у нас живёт плагин openmetadata-managed-apis (через него UI OpenMetadata деплоит и дёргает DAG'и), свои утилиты логирования и свой Docker-образ со строго зафиксированными зависимостями. Когда мы решили переезжать с Airflow 2 на Airflow 3, мы прочитали официальный migration guide и думали, что основная работа — переименовать параметры и импорты. Спойле</description>
-      <pubDate>Tue, 03 Nov 2026 08:50:47 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/megafon/articles/1102994/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102994</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Vue DnD Kit 3.0: переписал свою dnd-либу для Vue с нуля</title>
-      <link>https://habr.com/ru/articles/1102964/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102964</link>
-      <description>переписал свою dnd-либу для Vue с нуля Я уже про Vue DnD Kit писал. С тех пор вышла 3.0, и от прошлой версии там мало что осталось: переписал все с нуля. Новое API, анимации из коробки, канбан и деревья без танцев с бубном. Ну и граблей по дороге собрал прилично, про них тоже расскажу. Сделал полный редизайн документации, добавил skills для агентов, добавил то что много времени просили лично в телеграмме и в issues. Расширил количество примеров, и сделал действительно премиальные примеры. По тип</description>
-      <pubDate>Tue, 03 Nov 2026 08:45:12 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1102964/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102964</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Первый шаг к микроконтроллерам: введение в цифровые схемы</title>
-      <link>https://habr.com/ru/companies/first/articles/1097794/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1097794</link>
-      <description>Хотите заняться микроконтроллерами, но не знаете, с чего начать? Эта статья — первый шаг. На макетной плате, без пайки, вы соберёте простейшие цифровые схемы на доступных микросхемах серии 155: инвертор, генератор импульсов, логический элемент 2И-НЕ, RS-триггер, счётчик и сдвиговый регистр. Разберётесь, чем логический ноль отличается от единицы, зачем нужен токоограничивающий резистор и как читать таблицы состояний. Никакого программирования — только «железо», кнопки и светодиоды, чтобы «пощупат</description>
-      <pubDate>Tue, 03 Nov 2026 08:25:10 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/first/articles/1097794/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1097794</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Передать данные ИИ и не унести их во внешний интернет: опыт ЕДИНОГО ЦУПИСа во внедрении Shtab AI</title>
-      <link>https://habr.com/ru/companies/shtab/articles/1103050/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1103050</link>
-      <description>За годы работы с данными компании научились хранить и использовать их так, чтобы не выпускать наружу. По крайней мере, некоторые. Но ИИ подкинул новые вызовы. С одной стороны, без него уже никуда, с другой — если передавать внешней модели данные без защиты, это может обернуться катастрофой. Так что внедрять ИИ в бизнес нужно с умом. А как — расскажем на примере успешного кейса финансовой компании. Передаем слово спикеру. Всем добрый день! Меня зовут Борис Кузнецов, я руководитель Управления стра</description>
-      <pubDate>Tue, 03 Nov 2026 08:23:31 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/shtab/articles/1103050/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1103050</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Ваш периметр больше, чем вы думаете. И меняется без заявки в ИБ…</title>
-      <link>https://habr.com/ru/companies/pt/articles/1103032/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1103032</link>
-      <description>С этой публикации стартует цикл статей, посвященный PT EASM - решение класса EASM (External Attack Surface Management), предназначенное для автоматического обнаружения и постоянного контроля внешней поверхности сетевой атаки компании. Мы решили немножко приоткрыть занавес и показать: какие боли решает сервис, какие сложности возникают на пути, и как симбиоз автоматизации и экспертизы помогает опережать хакеров. А теперь начнем. Читать далее</description>
-      <pubDate>Tue, 03 Nov 2026 08:09:43 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/pt/articles/1103032/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1103032</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Блокировка Claude AI в России: 20 признаков, что ваш аккаунт под угрозой</title>
-      <link>https://habr.com/ru/companies/speshu_ai/articles/1103040/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1103040</link>
-      <description>Тем временем продавцы на Авито продают верифицированные профили за 350 000 рублей Российское комьюнити впало в панику. Вчера многие бизнесы встали, а часть сотрудников не смогла с привычной эффективность выполнять свои задачи. На Авито уже появились предложения, где за нереальные суммы вам якобы сделают аккаунт, защищённый от бана. Читать далее</description>
-      <pubDate>Tue, 03 Nov 2026 08:09:06 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/speshu_ai/articles/1103040/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1103040</guid>
+      <title>Почему React Server Components интегрируются с bundler</title>
+      <link>https://habr.com/ru/companies/gnivc/articles/1103136/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1103136</link>
+      <description>Привет, я фронтенд-разработчик, и сегодня хочу разобраться с одной интересной особенностью React Server Components. Если вы работали с RSC, то наверняка замечали, что вокруг них почти всегда появляется ещё один участник — bundler. В документации React прямо говорится, что директивы вроде 'use client' дают инструкции bundler'ам, совместимым с RSC, а при встрече клиентского компонента bundler должен построить для него клиентскую сборку. Но возникает вполне логичный вопрос. Зачем React Server Compo</description>
+      <pubDate>Tue, 03 Nov 2026 16:05:46 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/gnivc/articles/1103136/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1103136</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
   </channel>
