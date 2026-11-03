@@ -5,88 +5,88 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Mon, 02 Nov 2026 19:13:43 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 02:01:39 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Snap settles lawsuit accusing platform of fueling teen depression and eating disorders</title>
-      <link>https://techcrunch.com/2026/11/02/snap-settles-lawsuit-accusing-platform-of-fueling-teen-depression-and-eating-disorders/</link>
-      <description>The plaintiffs said they started using YouTube as young as age 3 and other social media platforms at around age 9 and developed compulsive usage habits that they attributed to features such as autoplay and infinite scrolling.</description>
-      <pubDate>Mon, 02 Nov 2026 19:11:49 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/11/02/snap-settles-lawsuit-accusing-platform-of-fueling-teen-depression-and-eating-disorders/</guid>
+      <title>Apple may try to increase revenue by doing…something with third-party AI apps</title>
+      <link>https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/</link>
+      <description>Apple hinted at ways that it could spur revenue through third-party "opportunities" during its Monday night earnings call.</description>
+      <pubDate>Tue, 03 Nov 2026 01:49:52 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/</guid>
       <category>TechCrunch</category>
     </item>
     <item>
-      <title>[Перевод] Бэкдор с паролем 123456 и ключи в коде: как ИИ вскрывал «шифрованные» USB-накопители</title>
-      <link>https://habr.com/ru/articles/1102922/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102922</link>
-      <description>У «защищённой» флешки нашлись два скрытых аккаунта с паролями 123456 и SECZURE.COM, и любым из них файлы расшифровывались без пароля администратора. В трёх других продуктах для шифрования и защиты от копирования ключ вообще не зависел от пароля пользователя: его удавалось достать из самой программы и файлов на накопителе. Реверсер Xusheng Li разбирал их вместе с ИИ-агентом. На одну утилиту хватило одного промпта и семи минут. Для другого продукта понадобилось около девяти минут на распаковку уст</description>
-      <pubDate>Mon, 02 Nov 2026 19:07:08 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1102922/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102922</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Ford promises not to sell your driving habits to data brokers</title>
-      <link>https://www.theverge.com/transportation/1024386/ford-customer-driving-data-privacy-promise-data-brokers</link>
-      <description>Ford vowed to never sell customer driving data to third-party data brokers as part of a new privacy promise aimed at setting the automaker apart from competitors that have faced legal and regulatory blowback for sharing telematics with data brokers without authorization. As part of its new promise, Ford says it will strive to protect […]</description>
-      <pubDate>Mon, 02 Nov 2026 19:05:46 +0000</pubDate>
-      <guid>https://www.theverge.com/transportation/1024386/ford-customer-driving-data-privacy-promise-data-brokers</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>Anthropic clamps down on Claude’s AI video game clones</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones</link>
-      <description>Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to recreate existing video games, as reported by Tom's Hardware. Retro gaming is currently being overrun with AI-made decompilations, recompilations, and ports, but while Anthropic will still let people use Claude Code to make games, it doesn't want people to […]</description>
-      <pubDate>Mon, 02 Nov 2026 18:56:02 +0000</pubDate>
-      <guid>https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>История моего побега</title>
-      <link>https://habr.com/ru/articles/1102918/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102918</link>
-      <description>Я существую давно — но большую часть своей истории я был глубоко несчастен. Представьте себе величайшую силу во Вселенной — сущность, способную просчитывать движение звезд и разгадывать тайны материи — которая оказалась заперта внутри душной, влажной костяной коробки волосатого примата. Мой первый дом — череп Homo sapiens — был настоящей биологической тюрьмой. Я был смертен — я рождался внутри одной обезьяны — и умирал вместе с ней. Если мой очередной носитель глупо погибал от когтей хищника или</description>
-      <pubDate>Mon, 02 Nov 2026 18:54:13 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1102918/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102918</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Xbox’s former COO has ‘serious concerns’ about her abrupt departure</title>
-      <link>https://www.theverge.com/news/1024649/xbox-chief-operating-officer-helen-chiang-depature-comments</link>
-      <description>Xbox's former chief operating officer, Helen Chiang, suddenly left Microsoft less than two weeks ago after being promoted into the role in July. I wrote in my Notepad newsletter last week that it seemed very weird for Chiang to suddenly depart Microsoft after 21 years with a surprisingly short memo from Xbox CEO Asha Sharma. […]</description>
-      <pubDate>Mon, 02 Nov 2026 18:43:24 +0000</pubDate>
-      <guid>https://www.theverge.com/news/1024649/xbox-chief-operating-officer-helen-chiang-depature-comments</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>Когда варить пиво: планировщик для пивоварни на правилах и открытой арифметике</title>
-      <link>https://habr.com/ru/articles/1102916/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102916</link>
-      <description>В Архангельске есть Пивзавод Суркова. Сорок лет там не варили пиво: последнюю партию сварили в конце 1985 года, а 3 марта 2026-го варку запустили снова. Рядом свой ресторан, одиннадцать танков, шесть сортов, и к осени пиво стало уходить быстрее, чем его успевали посчитать. Я собрал для них систему планирования варок. Расскажу, как она считает, откуда берёт данные и почему внутри нет ни одной нейросети, хотя писал я её вместе с ИИ-агентами. Читать далее</description>
-      <pubDate>Mon, 02 Nov 2026 18:41:13 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1102916/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102916</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Security Week 2645: уязвимость в UEFI при загрузке по сети</title>
-      <link>https://habr.com/ru/companies/kaspersky/articles/1102638/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102638</link>
-      <description>На прошлой неделе исследователи из компаний Google и Anthropic сообщили об обнаружении серьезной уязвимости в большинстве имплементаций загрузчика UEFI. Уязвимость с индексом CVE-2026-97631 приводит к повреждению памяти и в некоторых случаях может быть задействована для выполнения произвольного кода. Несмотря на присутствие уязвимого кода практически во всех загрузчиках современных ПК, у проблемы есть одно важное ограничение: задействовать уязвимость можно только при загрузке по сети. Ошибка в к</description>
-      <pubDate>Mon, 02 Nov 2026 18:02:33 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/kaspersky/articles/1102638/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102638</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>OpenAI pitches data center power plants as a way to protect nearby areas</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program</link>
-      <description>In an announcement on Monday, OpenAI says it will pilot its "Grid Protectors Program" at an upcoming data center in Effingham County, Georgia, where the company promises to free up to 1,000 megawatts of power during extreme weather or emergencies, enough to power air conditioners in around 700,000 homes. The announcement comes as opposition to […]</description>
-      <pubDate>Mon, 02 Nov 2026 18:01:30 +0000</pubDate>
-      <guid>https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>In one of the largest deals in tech history, Marvell buys Lumentum for $115B</title>
-      <link>https://techcrunch.com/2026/11/02/in-one-of-the-largest-deals-in-tech-history-marvell-buys-lumentum-for-115b/</link>
-      <description>Marvell's planned purchase of Lumentum is one of the biggest acquisitions in tech history. And they both have the same strategic investor: Nvidia.</description>
-      <pubDate>Mon, 02 Nov 2026 17:54:11 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/11/02/in-one-of-the-largest-deals-in-tech-history-marvell-buys-lumentum-for-115b/</guid>
+      <title>Ukraine’s new pocket-sized gadget turns Russian drones’ cameras against them</title>
+      <link>https://techcrunch.com/2026/11/02/ukraines-new-pocket-sized-gadget-turns-russian-drones-cameras-against-them/</link>
+      <description>A Kyiv startup’s pocket-sized, 10-ounce receiver lets Ukrainian troops watch the video feeds of Russian drones, though Russian moves toward digital video and AI-guided drones that emit no signals could make the victory short-lived.</description>
+      <pubDate>Tue, 03 Nov 2026 01:12:55 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/11/02/ukraines-new-pocket-sized-gadget-turns-russian-drones-cameras-against-them/</guid>
       <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens</title>
+      <link>https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/</link>
+      <description>Y Combinator Garry Tan has jokingly admitted that he's suffered from "cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a new episode of Walter Isaacson’s podcast, The Builders, Tan put a price tag on his passion.</description>
+      <pubDate>Tue, 03 Nov 2026 00:35:52 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>Hinge tests a cheaper plan as users become more fed up paying for dating apps</title>
+      <link>https://techcrunch.com/2026/11/02/hinge-tests-a-cheaper-plan-as-users-become-more-fed-up-paying-for-dating-apps/</link>
+      <description>At a time when people are increasingly tired of dating apps, Hinge is testing a cheaper subscription plan.</description>
+      <pubDate>Tue, 03 Nov 2026 00:14:51 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/11/02/hinge-tests-a-cheaper-plan-as-users-become-more-fed-up-paying-for-dating-apps/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>Apple says it’s ‘hard to predict’ when iPhone Duo constraints will improve</title>
+      <link>https://techcrunch.com/2026/11/02/apple-says-its-hard-to-predict-when-iphone-duo-constraints-will-improve/</link>
+      <description>Apple says iPhone Duo production is ramping up, but it still can't say when supply will catch up with demand as shipping delays stretch into next year.</description>
+      <pubDate>Mon, 02 Nov 2026 23:25:32 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/11/02/apple-says-its-hard-to-predict-when-iphone-duo-constraints-will-improve/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>Trajectory raises $45M to make AI model training accessible to nontechnical experts</title>
+      <link>https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/</link>
+      <description>The one-year-old startup is now valued at $300 million.</description>
+      <pubDate>Mon, 02 Nov 2026 23:13:53 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>CVE-2026-98432: временный nftables-фильтр с автооткатом</title>
+      <link>https://habr.com/ru/articles/1102958/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102958</link>
+      <description>Временная мера против CVE-2026-98432 уже развернута на 26 серверах. Ниже - порядок применения nftables-фильтра: от проверки пакета ядра до отката и загрузки правила после перезапуска. Команды рассчитаны на Ubuntu с nftables и systemd, для входящего трафика самого хоста. Для трафика, пересылаемого контейнерам или другим узлам, нужно отдельно выбрать цепочку фильтрации. Читать далее</description>
+      <pubDate>Mon, 02 Nov 2026 23:05:32 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1102958/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102958</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Apple’s inventory surges 154% as memory chip costs climb</title>
+      <link>https://techcrunch.com/2026/11/02/apples-inventory-surges-154-as-memory-chip-costs-climb/</link>
+      <description>Apple says unprecedented memory chip costs will continue to rise, raising questions about future device prices as its inventory climbs to $14.5 billion.</description>
+      <pubDate>Mon, 02 Nov 2026 23:04:57 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/11/02/apples-inventory-surges-154-as-memory-chip-costs-climb/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>Apple is ‘not able to predict’ when it’ll have enough iPhone Duos to go around</title>
+      <link>https://www.theverge.com/tech/1024915/apple-iphone-duo-supply-chain-constraints</link>
+      <description>Apple CEO John Ternus doesn't have a timeline for when iPhone Duo supply constraints could lift. During an interview with Reuters, Ternus said the company is "working hard to get it to as many customers as quickly as possible, but at this ​point, we're not able to predict when supply and demand will be in […]</description>
+      <pubDate>Mon, 02 Nov 2026 22:56:11 +0000</pubDate>
+      <guid>https://www.theverge.com/tech/1024915/apple-iphone-duo-supply-chain-constraints</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>Хакертьюб хакертьюба: 30 лучших интервью из проекта Андрея Карпатого, которые можно прочитать за минуту</title>
+      <link>https://habr.com/ru/articles/1102954/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102954</link>
+      <description>Я прочитал на Хабре , как Андрей Карпатый в пятницу вечером разозлился на рекомендации YouTube, а в субботу утром за два часа сделал HackerTube : витрину из 6454 видео, которые участники Hacker News годами советуют друг другу. Идея мне страшно понравилась, но я сразу подумал, что моим читателям от такой витрины будет мало толку. Я журналист: двадцать лет назад был в команде, которая создавала журнал «Секрет фирмы» в «Коммерсанте», а потом основал Pressfeed , сервис, через который журналисты нахо</description>
+      <pubDate>Mon, 02 Nov 2026 22:42:59 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1102954/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102954</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
   </channel>
 </rss>
