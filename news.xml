@@ -5,88 +5,88 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Tue, 03 Nov 2026 17:35:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 22:57:08 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Moft’s new origami case adds a kickstand and grip to the iPhone Duo</title>
-      <link>https://www.theverge.com/tech/1025364/moft-dynamic-folio-case-stand-grip-apple-iphone-duo</link>
-      <description>Originally released in early 2025 as an accessory for the iPad, Moft has redesigned its Dynamic Folio as a case for the iPhone Duo that does more than just protect Apple's folding phone. You can use it to prop the Duo up at several different angles for hands-free use, or reconfigure the Dynamic Folio's origami-like […]</description>
-      <pubDate>Tue, 03 Nov 2026 17:27:52 +0000</pubDate>
-      <guid>https://www.theverge.com/tech/1025364/moft-dynamic-folio-case-stand-grip-apple-iphone-duo</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>Собрал полностью локального голосового ассистента без облаков и подписок. Выкладываю в open source</title>
-      <link>https://habr.com/ru/articles/1101954/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101954</link>
-      <description>Привет, Хабр! Пока весь мир заворачивает платные API в красивые обёртки, мне захотелось сделать что-то полностью автономное, конфиденциальное и бесплатное. Результат — App AI Assistant , локальный компаньон, с которым можно поговорить + голосовой ассистент («Джарвис» на минималках), который работает на 100% оффлайн на вашем компьютере. Проект полностью открытый, исходный код опубликован под лицензией MIT. Мне интересно было не просто «поиграться», а подружить нейросети в реальном времени. Что ум</description>
-      <pubDate>Tue, 03 Nov 2026 17:17:26 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1101954/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101954</guid>
+      <title>Настройка DGX Spark</title>
+      <link>https://habr.com/ru/articles/1103372/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1103372</link>
+      <description>Счастливым страдальцам владельцам Спарков посвящается... Перво-наперво — мега-респект героям китайского так называемого коммунистического труда (DeepSeek, Qwen, GLM, Kimi). Только благодаря их моделям этот мини-ящик стал реально полезным инструментом, несмотря на весь инженерный срам ниже. Знал бы я всё это полгода назад — сэкономил бы кучу киловатт, нервов от внезапных ночных отключений и часов созерцания температурных графиков. Рецепт универсальный: для любого движка и любого числа нод. чё там</description>
+      <pubDate>Tue, 03 Nov 2026 22:51:06 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1103372/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1103372</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>The Xbox Nano has a hidden cloud secret</title>
-      <link>https://www.theverge.com/games/1025430/xbox-nano-controller-direct-cloud-wifi-connectivity</link>
-      <description>Microsoft is about to launch its new Xbox Nano controller tomorrow, and the tiny device has a little secret. The Nano can connect directly to Xbox Cloud Gaming over Wi-Fi to improve latency. It's a feature Microsoft hasn't officially announced yet, but one I've been anticipating since the Xbox Nano leaked earlier this year. The […]</description>
-      <pubDate>Tue, 03 Nov 2026 17:16:04 +0000</pubDate>
-      <guid>https://www.theverge.com/games/1025430/xbox-nano-controller-direct-cloud-wifi-connectivity</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>Anthropic is still grappling with the economics of compute</title>
-      <link>https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/</link>
-      <description>At a moment when Anthropic's compute margins should be getting better, they’re getting worse.</description>
-      <pubDate>Tue, 03 Nov 2026 17:07:01 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/</guid>
+      <title>Anthropic is working on a system to prove AI models’ identity</title>
+      <link>https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/</link>
+      <description>Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.</description>
+      <pubDate>Tue, 03 Nov 2026 22:41:03 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/</guid>
       <category>TechCrunch</category>
     </item>
     <item>
-      <title>Google is entirely disabling Search in schools that don’t want AI</title>
-      <link>https://www.theverge.com/tech/1025411/google-turn-off-search-ai-features</link>
-      <description>Google is completely turning off Search in schools that reject its AI features, the company told The New York Times. The decision was also shared in a broader education-related update from Google on Tuesday, saying that access to Gemini, Gemini Notebook, Gemini in Classroom, and Google Search "will be entirely off" for K-12 student accounts […]</description>
-      <pubDate>Tue, 03 Nov 2026 17:00:04 +0000</pubDate>
-      <guid>https://www.theverge.com/tech/1025411/google-turn-off-search-ai-features</guid>
+      <title>Sonos adds new Presets and prepares for the 27voice AI beta</title>
+      <link>https://www.theverge.com/tech/1025903/sonos-presets-27voice-ai-early-access</link>
+      <description>Sonos is rolling out a big app update that includes new Presets and early access to its AI voice assistant. You can create a preset to play music at a specific volume in a certain room, which will appear directly on the homescreen so you can quickly start playback. If you're in the US, you […]</description>
+      <pubDate>Tue, 03 Nov 2026 22:20:50 +0000</pubDate>
+      <guid>https://www.theverge.com/tech/1025903/sonos-presets-27voice-ai-early-access</guid>
       <category>The Verge</category>
     </item>
     <item>
-      <title>Windows 11 is now ‘up to 40 percent faster’ on PCs with 8GB of RAM</title>
-      <link>https://www.theverge.com/news/1025142/windows-11-8gb-ram-memory-improvements-speed-performance</link>
-      <description>Microsoft has been doing a lot of work to improve memory usage and increase performance on Windows 11 PCs over the past year. Last month the company revealed Windows 11 is now "more responsive" and runs better on PCs with 8GB of RAM, and now the company is releasing a new update today that includes […]</description>
-      <pubDate>Tue, 03 Nov 2026 17:00:00 +0000</pubDate>
-      <guid>https://www.theverge.com/news/1025142/windows-11-8gb-ram-memory-improvements-speed-performance</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>Малая автоматизация</title>
-      <link>https://habr.com/ru/articles/1103312/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1103312</link>
-      <description>Всем привет. Есть малая механизация, когда вы мотокультиватором типа "Крот" сажаете картошку на 20 сотках, а есть малая автоматизация, когда вам лень ставить жирный homeassiant и/или приложение от вендора с завязкой на облака и хочется пожить в уютном локалхосте. Сегодня пойдет речь про вторую. И да, важный момент - вы не планировали умный дом и не тянули провода заранее. Достаточно давно была куплена розетка "Умная розетка Wi-Fi SmartHome 2300W 10А IP20 c заземлением Gauss" в озоне, к сожалению</description>
-      <pubDate>Tue, 03 Nov 2026 16:38:35 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1103312/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1103312</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Google will let schools disable its AI tools, but not without sacrificing Search</title>
-      <link>https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/</link>
-      <description>Schools choosing to restrict AI altogether will no longer be able to access Google Search, as AI features are now integrated into the search engine.</description>
-      <pubDate>Tue, 03 Nov 2026 16:30:34 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/</guid>
+      <title>Data centers are turning to old jet engines as the wait for power grows</title>
+      <link>https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/</link>
+      <description>The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less efficient and less environmentally friendly solution: once-discarded jet engines.</description>
+      <pubDate>Tue, 03 Nov 2026 22:19:53 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/</guid>
       <category>TechCrunch</category>
     </item>
     <item>
-      <title>PageRank внутри сайта: как найти страницы-невидимки и куда утекает вес ссылок</title>
-      <link>https://habr.com/ru/articles/1103300/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1103300</link>
-      <description>Какая страница вашего сайта важнее: /catalog/ или статья в блоге двухлетней давности? Пока страниц пятьдесят, на этот вопрос отвечает интуиция. Когда их пять тысяч — интуиция молчит, а структура ссылок превращается в то, что никто в компании целиком не видел: меню ведёт в каталог, блог ссылается на фильтры, фильтры — друг в друга, и где-то в этом клубке есть страницы, до которых внутренний вес добирается по щепотке. У этой задачи есть старый числовой ответ — PageRank. Не тот, по которому Google </description>
-      <pubDate>Tue, 03 Nov 2026 16:13:14 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1103300/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1103300</guid>
+      <title>Binance says hackers used fake job interviews and an internal AI tool to pull off the $6.3 billion heist</title>
+      <link>https://www.theverge.com/news/1025576/binance-cyrpto-theft-explained</link>
+      <description>The largest crypto theft to date was pulled off by combining some well-known hacking techniques over the course of a few months, according to Binance. A postmortem from the company says the process that started with one developer downloading a tampered installer in June apparently spread by a malicious Google ad, exposing details about the […]</description>
+      <pubDate>Tue, 03 Nov 2026 22:04:02 +0000</pubDate>
+      <guid>https://www.theverge.com/news/1025576/binance-cyrpto-theft-explained</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom</title>
+      <link>https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/</link>
+      <description>Cybersecurity focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.</description>
+      <pubDate>Tue, 03 Nov 2026 21:43:08 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>Here’s what it’s like to use Audio Intelligence on the Apple Watch</title>
+      <link>https://www.theverge.com/tech/1025835/audio-intelligence-live-rewind-siri-recap-apple-watch</link>
+      <description>It's impossible to paint a full picture of what Audio Intelligence on the Apple Watch Series 12 and Ultra 4 will be right now. The watchOS 27.3 developer beta just dropped earlier this afternoon, and these features are meant to be lived with in day-to-day life. We're definitely going to do that over the next […]</description>
+      <pubDate>Tue, 03 Nov 2026 21:21:04 +0000</pubDate>
+      <guid>https://www.theverge.com/tech/1025835/audio-intelligence-live-rewind-siri-recap-apple-watch</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>Hiding inside Palantir’s skyrocketing quarter is a foreboding signal</title>
+      <link>https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/</link>
+      <description>Palantir's U.S. commercial revenue surpassed U.S. government revenue for the first time ever.</description>
+      <pubDate>Tue, 03 Nov 2026 21:05:55 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>Как один нейрон влияет на личность</title>
+      <link>https://habr.com/ru/articles/1103364/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1103364</link>
+      <description>В 2013 году мир увидел научную статью, которую частенько цитируют очень упрощённо. Обычно утверждается , будто при редактировании одного из нейронов мухи-дрозофилы насекомое внезапно начинает неконтролируемо много спариваться. Реальная научная работа выглядела чуть более сложно ( doi:10.1016/j.cell.2013.09.055 ). Читать далее</description>
+      <pubDate>Tue, 03 Nov 2026 21:05:23 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1103364/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1103364</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Почему React Server Components интегрируются с bundler</title>
-      <link>https://habr.com/ru/companies/gnivc/articles/1103136/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1103136</link>
-      <description>Привет, я фронтенд-разработчик, и сегодня хочу разобраться с одной интересной особенностью React Server Components. Если вы работали с RSC, то наверняка замечали, что вокруг них почти всегда появляется ещё один участник — bundler. В документации React прямо говорится, что директивы вроде 'use client' дают инструкции bundler'ам, совместимым с RSC, а при встрече клиентского компонента bundler должен построить для него клиентскую сборку. Но возникает вполне логичный вопрос. Зачем React Server Compo</description>
-      <pubDate>Tue, 03 Nov 2026 16:05:46 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/gnivc/articles/1103136/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1103136</guid>
-      <category>Все публикации подряд на Хабре</category>
+      <title>Those Jeff Bezos hair transplant photos are very fake</title>
+      <link>https://www.theverge.com/tech/1025745/fake-jeff-bezos-hair-replacement-photos-debunk</link>
+      <description>Amazon founder Jeff Bezos and actor Jason Statham have a distinctive feature in common: They're both famously bald, and that definitely hasn't changed in the last few days. However, there are some images of the two men circulating around X, Threads, and Bluesky in which they both have substantially more hair than their usual shaved […]</description>
+      <pubDate>Tue, 03 Nov 2026 21:01:07 +0000</pubDate>
+      <guid>https://www.theverge.com/tech/1025745/fake-jeff-bezos-hair-replacement-photos-debunk</guid>
+      <category>The Verge</category>
     </item>
   </channel>
 </rss>
