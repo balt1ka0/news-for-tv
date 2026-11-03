@@ -5,87 +5,87 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Tue, 03 Nov 2026 02:01:39 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 09:13:04 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Apple may try to increase revenue by doing…something with third-party AI apps</title>
-      <link>https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/</link>
-      <description>Apple hinted at ways that it could spur revenue through third-party "opportunities" during its Monday night earnings call.</description>
-      <pubDate>Tue, 03 Nov 2026 01:49:52 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>Ukraine’s new pocket-sized gadget turns Russian drones’ cameras against them</title>
-      <link>https://techcrunch.com/2026/11/02/ukraines-new-pocket-sized-gadget-turns-russian-drones-cameras-against-them/</link>
-      <description>A Kyiv startup’s pocket-sized, 10-ounce receiver lets Ukrainian troops watch the video feeds of Russian drones, though Russian moves toward digital video and AI-guided drones that emit no signals could make the victory short-lived.</description>
-      <pubDate>Tue, 03 Nov 2026 01:12:55 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/11/02/ukraines-new-pocket-sized-gadget-turns-russian-drones-cameras-against-them/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens</title>
-      <link>https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/</link>
-      <description>Y Combinator Garry Tan has jokingly admitted that he's suffered from "cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a new episode of Walter Isaacson’s podcast, The Builders, Tan put a price tag on his passion.</description>
-      <pubDate>Tue, 03 Nov 2026 00:35:52 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>Hinge tests a cheaper plan as users become more fed up paying for dating apps</title>
-      <link>https://techcrunch.com/2026/11/02/hinge-tests-a-cheaper-plan-as-users-become-more-fed-up-paying-for-dating-apps/</link>
-      <description>At a time when people are increasingly tired of dating apps, Hinge is testing a cheaper subscription plan.</description>
-      <pubDate>Tue, 03 Nov 2026 00:14:51 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/11/02/hinge-tests-a-cheaper-plan-as-users-become-more-fed-up-paying-for-dating-apps/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>Apple says it’s ‘hard to predict’ when iPhone Duo constraints will improve</title>
-      <link>https://techcrunch.com/2026/11/02/apple-says-its-hard-to-predict-when-iphone-duo-constraints-will-improve/</link>
-      <description>Apple says iPhone Duo production is ramping up, but it still can't say when supply will catch up with demand as shipping delays stretch into next year.</description>
-      <pubDate>Mon, 02 Nov 2026 23:25:32 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/11/02/apple-says-its-hard-to-predict-when-iphone-duo-constraints-will-improve/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>Trajectory raises $45M to make AI model training accessible to nontechnical experts</title>
-      <link>https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/</link>
-      <description>The one-year-old startup is now valued at $300 million.</description>
-      <pubDate>Mon, 02 Nov 2026 23:13:53 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>CVE-2026-98432: временный nftables-фильтр с автооткатом</title>
-      <link>https://habr.com/ru/articles/1102958/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102958</link>
-      <description>Временная мера против CVE-2026-98432 уже развернута на 26 серверах. Ниже - порядок применения nftables-фильтра: от проверки пакета ядра до отката и загрузки правила после перезапуска. Команды рассчитаны на Ubuntu с nftables и systemd, для входящего трафика самого хоста. Для трафика, пересылаемого контейнерам или другим узлам, нужно отдельно выбрать цепочку фильтрации. Читать далее</description>
-      <pubDate>Mon, 02 Nov 2026 23:05:32 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1102958/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102958</guid>
+      <title>На игле вайбкодинга: почему с ИИ-агентами стало сложнее отдыхать</title>
+      <link>https://habr.com/ru/articles/1102872/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102872</link>
+      <description>Заметил, что у многих ИИ-энтузиастов и специалистов, которые много работают с агентами, если в текущий момент времени не запущен ни один агент, начинаются нервы и синдром упущенной выгоды. Читать далее</description>
+      <pubDate>Tue, 03 Nov 2026 09:01:13 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1102872/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102872</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Apple’s inventory surges 154% as memory chip costs climb</title>
-      <link>https://techcrunch.com/2026/11/02/apples-inventory-surges-154-as-memory-chip-costs-climb/</link>
-      <description>Apple says unprecedented memory chip costs will continue to rise, raising questions about future device prices as its inventory climbs to $14.5 billion.</description>
-      <pubDate>Mon, 02 Nov 2026 23:04:57 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/11/02/apples-inventory-surges-154-as-memory-chip-costs-climb/</guid>
-      <category>TechCrunch</category>
+      <title>AI Assisted Development или как не убить кучу времени на код-ревью агентов</title>
+      <link>https://habr.com/ru/companies/haulmont/articles/1101452/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101452</link>
+      <description>Новый поиск и индекс для нашего ИИ-ассистента мы написали за три дня вместе с Claude Code. А чтобы кто-то в команде смог за этот код отвечать, понадобилось ещё три недели. Разбираемся, куда ушло это время, чем ревью отличается от принятия кода на сопровождение и как теперь принимаем большие агентные задачи по частям. Читать далее</description>
+      <pubDate>Tue, 03 Nov 2026 09:00:13 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/haulmont/articles/1101452/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101452</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Apple is ‘not able to predict’ when it’ll have enough iPhone Duos to go around</title>
-      <link>https://www.theverge.com/tech/1024915/apple-iphone-duo-supply-chain-constraints</link>
-      <description>Apple CEO John Ternus doesn't have a timeline for when iPhone Duo supply constraints could lift. During an interview with Reuters, Ternus said the company is "working hard to get it to as many customers as quickly as possible, but at this ​point, we're not able to predict when supply and demand will be in […]</description>
-      <pubDate>Mon, 02 Nov 2026 22:56:11 +0000</pubDate>
-      <guid>https://www.theverge.com/tech/1024915/apple-iphone-duo-supply-chain-constraints</guid>
-      <category>The Verge</category>
+      <title>Поисковый запрос ≠ намерение купить. Как собирать аудитории для таргетированной рекламы</title>
+      <link>https://habr.com/ru/companies/avitoads/articles/1103074/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1103074</link>
+      <description>Поисковые запросы помогают находить пользователей, которые интересуются конкретными товарами и услугами. Но не каждый запрос означает готовность к покупке. Разбираем, как собирать семантику, формировать рекламные сегменты и отсекать нерелевантную аудиторию на примере Авито Рекламы . Читать далее</description>
+      <pubDate>Tue, 03 Nov 2026 08:53:25 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/avitoads/articles/1103074/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1103074</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Хакертьюб хакертьюба: 30 лучших интервью из проекта Андрея Карпатого, которые можно прочитать за минуту</title>
-      <link>https://habr.com/ru/articles/1102954/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102954</link>
-      <description>Я прочитал на Хабре , как Андрей Карпатый в пятницу вечером разозлился на рекомендации YouTube, а в субботу утром за два часа сделал HackerTube : витрину из 6454 видео, которые участники Hacker News годами советуют друг другу. Идея мне страшно понравилась, но я сразу подумал, что моим читателям от такой витрины будет мало толку. Я журналист: двадцать лет назад был в команде, которая создавала журнал «Секрет фирмы» в «Коммерсанте», а потом основал Pressfeed , сервис, через который журналисты нахо</description>
-      <pubDate>Mon, 02 Nov 2026 22:42:59 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1102954/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102954</guid>
+      <title>Как поставить задачу подрядчику на ИИ-автоматизацию, если вы не технарь</title>
+      <link>https://habr.com/ru/articles/1103072/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1103072</link>
+      <description>Оценки одного и того же ИИ-проекта у разных подрядчиков легко расходятся в пять раз. Чаще всего дело не в жадности или наивности исполнителей, а в том, что каждый из них решал свою задачу: исходное описание допускало пять разных прочтений. Я работаю продакт-менеджером и бываю по обе стороны: сам ставлю задачи подрядчикам и сам разбираю чужие брифы, когда к нам приходят с запросом на автоматизацию. Ниже я написал, что нужно дать подрядчику в качестве требований, чтобы получить честную оценку, сра</description>
+      <pubDate>Tue, 03 Nov 2026 08:53:19 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1103072/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1103072</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Миграция продакшен-контура OpenMetadata с Airflow 2 на Airflow 3: что сломалось и как мы это чинили</title>
+      <link>https://habr.com/ru/companies/megafon/articles/1102994/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102994</link>
+      <description>Наш ingestion-контур — это сервис на базе Apache Airflow, который крутит пайплайны загрузки метаданных в OpenMetadata. Поверх стандартного Airflow у нас живёт плагин openmetadata-managed-apis (через него UI OpenMetadata деплоит и дёргает DAG'и), свои утилиты логирования и свой Docker-образ со строго зафиксированными зависимостями. Когда мы решили переезжать с Airflow 2 на Airflow 3, мы прочитали официальный migration guide и думали, что основная работа — переименовать параметры и импорты. Спойле</description>
+      <pubDate>Tue, 03 Nov 2026 08:50:47 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/megafon/articles/1102994/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102994</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Vue DnD Kit 3.0: переписал свою dnd-либу для Vue с нуля</title>
+      <link>https://habr.com/ru/articles/1102964/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102964</link>
+      <description>переписал свою dnd-либу для Vue с нуля Я уже про Vue DnD Kit писал. С тех пор вышла 3.0, и от прошлой версии там мало что осталось: переписал все с нуля. Новое API, анимации из коробки, канбан и деревья без танцев с бубном. Ну и граблей по дороге собрал прилично, про них тоже расскажу. Сделал полный редизайн документации, добавил skills для агентов, добавил то что много времени просили лично в телеграмме и в issues. Расширил количество примеров, и сделал действительно премиальные примеры. По тип</description>
+      <pubDate>Tue, 03 Nov 2026 08:45:12 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1102964/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102964</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Первый шаг к микроконтроллерам: введение в цифровые схемы</title>
+      <link>https://habr.com/ru/companies/first/articles/1097794/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1097794</link>
+      <description>Хотите заняться микроконтроллерами, но не знаете, с чего начать? Эта статья — первый шаг. На макетной плате, без пайки, вы соберёте простейшие цифровые схемы на доступных микросхемах серии 155: инвертор, генератор импульсов, логический элемент 2И-НЕ, RS-триггер, счётчик и сдвиговый регистр. Разберётесь, чем логический ноль отличается от единицы, зачем нужен токоограничивающий резистор и как читать таблицы состояний. Никакого программирования — только «железо», кнопки и светодиоды, чтобы «пощупат</description>
+      <pubDate>Tue, 03 Nov 2026 08:25:10 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/first/articles/1097794/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1097794</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Передать данные ИИ и не унести их во внешний интернет: опыт ЕДИНОГО ЦУПИСа во внедрении Shtab AI</title>
+      <link>https://habr.com/ru/companies/shtab/articles/1103050/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1103050</link>
+      <description>За годы работы с данными компании научились хранить и использовать их так, чтобы не выпускать наружу. По крайней мере, некоторые. Но ИИ подкинул новые вызовы. С одной стороны, без него уже никуда, с другой — если передавать внешней модели данные без защиты, это может обернуться катастрофой. Так что внедрять ИИ в бизнес нужно с умом. А как — расскажем на примере успешного кейса финансовой компании. Передаем слово спикеру. Всем добрый день! Меня зовут Борис Кузнецов, я руководитель Управления стра</description>
+      <pubDate>Tue, 03 Nov 2026 08:23:31 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/shtab/articles/1103050/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1103050</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Ваш периметр больше, чем вы думаете. И меняется без заявки в ИБ…</title>
+      <link>https://habr.com/ru/companies/pt/articles/1103032/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1103032</link>
+      <description>С этой публикации стартует цикл статей, посвященный PT EASM - решение класса EASM (External Attack Surface Management), предназначенное для автоматического обнаружения и постоянного контроля внешней поверхности сетевой атаки компании. Мы решили немножко приоткрыть занавес и показать: какие боли решает сервис, какие сложности возникают на пути, и как симбиоз автоматизации и экспертизы помогает опережать хакеров. А теперь начнем. Читать далее</description>
+      <pubDate>Tue, 03 Nov 2026 08:09:43 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/pt/articles/1103032/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1103032</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Блокировка Claude AI в России: 20 признаков, что ваш аккаунт под угрозой</title>
+      <link>https://habr.com/ru/companies/speshu_ai/articles/1103040/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1103040</link>
+      <description>Тем временем продавцы на Авито продают верифицированные профили за 350 000 рублей Российское комьюнити впало в панику. Вчера многие бизнесы встали, а часть сотрудников не смогла с привычной эффективность выполнять свои задачи. На Авито уже появились предложения, где за нереальные суммы вам якобы сделают аккаунт, защищённый от бана. Читать далее</description>
+      <pubDate>Tue, 03 Nov 2026 08:09:06 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/speshu_ai/articles/1103040/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1103040</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
   </channel>
