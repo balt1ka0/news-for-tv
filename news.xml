@@ -5,11 +5,51 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Tue, 03 Nov 2026 22:57:08 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 02:56:09 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Настройка DGX Spark</title>
+      <title>AMD rides data center riches to ‘largest and most profitable’ quarter in history</title>
+      <link>https://www.theverge.com/tech/1026148/amd-earnings-q3-2026-data-center-pc</link>
+      <description>AMD CEO Lisa Su said in the company's quarterly earnings call on Tuesday that Q3 2026 was "was the largest and most profitable in our history." AMD reported a record $13.4 billion in quarterly revenue, and it's predicting it will hit another record high next quarter of $17 billion. The company's data center business is […]</description>
+      <pubDate>Wed, 04 Nov 2026 01:15:34 +0000</pubDate>
+      <guid>https://www.theverge.com/tech/1026148/amd-earnings-q3-2026-data-center-pc</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>All the news about The Legend of Zelda: Ocarina of Time remake</title>
+      <link>https://www.theverge.com/games/1026112/the-legend-of-zelda-ocarina-of-time-remake-nintendo-switch-2-news</link>
+      <description>Ahead of the release of Rockstar Games’ Grand Theft Auto VI, Nintendo is launching its own fall juggernaut: a Switch 2 remake of The Legend of Zelda: Ocarina of Time. The remake, which is releasing 28 years after the launch of the original version on Nintendo 64, has a much more realistic visual style and […]</description>
+      <pubDate>Wed, 04 Nov 2026 01:02:53 +0000</pubDate>
+      <guid>https://www.theverge.com/games/1026112/the-legend-of-zelda-ocarina-of-time-remake-nintendo-switch-2-news</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>The biggest modding site in PC gaming is taking a stance on AI</title>
+      <link>https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures</link>
+      <description>The PC gaming mods repository Nexus Mods is making disclosures about AI mandatory for uploads of new mods, meaning that mod authors will have to declare "whether AI has been used in their work," the site announced today as part of a big post about AI-generated content on the platform. "One of the most consistent […]</description>
+      <pubDate>Wed, 04 Nov 2026 00:42:10 +0000</pubDate>
+      <guid>https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>Как мошенник познакомил меня с Unstoppable Domains: фокус с -ibc.x</title>
+      <link>https://habr.com/ru/articles/1103374/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1103374</link>
+      <description>Мошенник предложил дописать -ibc.x к моему XRP-адресу. Я вставил строку в Edge, и кошелёк показал адрес Cosmos. В чём фокус и при чём здесь Unstoppable Domains? Разобраться в фокусе</description>
+      <pubDate>Tue, 03 Nov 2026 23:38:54 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1103374/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1103374</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Please stop asking me when the AI bubble will pop</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds</link>
+      <description>People, including on this staff, keep asking me with varying degrees of excitement or trepidation when the AI bubble will burst. I'll tell you what I tell them: If I knew that, I would make a life-changing bet on the market, levered up as far as I could, and then, after I made my money, […]</description>
+      <pubDate>Tue, 03 Nov 2026 23:37:45 +0000</pubDate>
+      <guid>https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>Базовая настройка DGX Spark</title>
       <link>https://habr.com/ru/articles/1103372/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1103372</link>
       <description>Счастливым страдальцам владельцам Спарков посвящается... Перво-наперво — мега-респект героям китайского так называемого коммунистического труда (DeepSeek, Qwen, GLM, Kimi). Только благодаря их моделям этот мини-ящик стал реально полезным инструментом, несмотря на весь инженерный срам ниже. Знал бы я всё это полгода назад — сэкономил бы кучу киловатт, нервов от внезапных ночных отключений и часов созерцания температурных графиков. Рецепт универсальный: для любого движка и любого числа нод. чё там</description>
       <pubDate>Tue, 03 Nov 2026 22:51:06 +0000</pubDate>
@@ -35,7 +75,7 @@
     <item>
       <title>Data centers are turning to old jet engines as the wait for power grows</title>
       <link>https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/</link>
-      <description>The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less efficient and less environmentally friendly solution: once-discarded jet engines.</description>
+      <description>The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less-efficient and less environmentally friendly solution: once-discarded jet engines.</description>
       <pubDate>Tue, 03 Nov 2026 22:19:53 +0000</pubDate>
       <guid>https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/</guid>
       <category>TechCrunch</category>
@@ -43,49 +83,9 @@
     <item>
       <title>Binance says hackers used fake job interviews and an internal AI tool to pull off the $6.3 billion heist</title>
       <link>https://www.theverge.com/news/1025576/binance-cyrpto-theft-explained</link>
-      <description>The largest crypto theft to date was pulled off by combining some well-known hacking techniques over the course of a few months, according to Binance. A postmortem from the company says the process that started with one developer downloading a tampered installer in June apparently spread by a malicious Google ad, exposing details about the […]</description>
+      <description>The largest crypto theft to date was pulled off by combining some well-known hacking techniques over the course of a few months, according to Binance. A postmortem from the company says the process started in June with one developer downloading a tampered installer apparently spread by a malicious Google ad, exposing details about the engineers […]</description>
       <pubDate>Tue, 03 Nov 2026 22:04:02 +0000</pubDate>
       <guid>https://www.theverge.com/news/1025576/binance-cyrpto-theft-explained</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom</title>
-      <link>https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/</link>
-      <description>Cybersecurity focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.</description>
-      <pubDate>Tue, 03 Nov 2026 21:43:08 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>Here’s what it’s like to use Audio Intelligence on the Apple Watch</title>
-      <link>https://www.theverge.com/tech/1025835/audio-intelligence-live-rewind-siri-recap-apple-watch</link>
-      <description>It's impossible to paint a full picture of what Audio Intelligence on the Apple Watch Series 12 and Ultra 4 will be right now. The watchOS 27.3 developer beta just dropped earlier this afternoon, and these features are meant to be lived with in day-to-day life. We're definitely going to do that over the next […]</description>
-      <pubDate>Tue, 03 Nov 2026 21:21:04 +0000</pubDate>
-      <guid>https://www.theverge.com/tech/1025835/audio-intelligence-live-rewind-siri-recap-apple-watch</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>Hiding inside Palantir’s skyrocketing quarter is a foreboding signal</title>
-      <link>https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/</link>
-      <description>Palantir's U.S. commercial revenue surpassed U.S. government revenue for the first time ever.</description>
-      <pubDate>Tue, 03 Nov 2026 21:05:55 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>Как один нейрон влияет на личность</title>
-      <link>https://habr.com/ru/articles/1103364/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1103364</link>
-      <description>В 2013 году мир увидел научную статью, которую частенько цитируют очень упрощённо. Обычно утверждается , будто при редактировании одного из нейронов мухи-дрозофилы насекомое внезапно начинает неконтролируемо много спариваться. Реальная научная работа выглядела чуть более сложно ( doi:10.1016/j.cell.2013.09.055 ). Читать далее</description>
-      <pubDate>Tue, 03 Nov 2026 21:05:23 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1103364/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1103364</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Those Jeff Bezos hair transplant photos are very fake</title>
-      <link>https://www.theverge.com/tech/1025745/fake-jeff-bezos-hair-replacement-photos-debunk</link>
-      <description>Amazon founder Jeff Bezos and actor Jason Statham have a distinctive feature in common: They're both famously bald, and that definitely hasn't changed in the last few days. However, there are some images of the two men circulating around X, Threads, and Bluesky in which they both have substantially more hair than their usual shaved […]</description>
-      <pubDate>Tue, 03 Nov 2026 21:01:07 +0000</pubDate>
-      <guid>https://www.theverge.com/tech/1025745/fake-jeff-bezos-hair-replacement-photos-debunk</guid>
       <category>The Verge</category>
     </item>
   </channel>
