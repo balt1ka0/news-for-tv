@@ -5,88 +5,88 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Wed, 04 Nov 2026 18:28:53 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 00:11:24 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Nothing teases a screen-free AI device ahead of launch next month</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei</link>
-      <description>Nothing CEO Carl Pei said in a post on X that the company's launching its first AI device in December. That's just a little over a year after Pei announced plans for "AI-native" devices and an AI operating system. He didn't give away much about what exactly the new device is, only that one feature […]</description>
-      <pubDate>Wed, 04 Nov 2026 18:26:07 +0000</pubDate>
-      <guid>https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>Apple will check shared iCloud links for ‘harmful content’</title>
-      <link>https://www.theverge.com/tech/1026604/apple-icloud-links-harmful-content-27-3</link>
-      <description>Apple will start checking iCloud items that are accessible to anyone who has the link for "harmful content" starting with iOS 27.3 and other 27.3 updates, the company says. "When you share an item that can be accessed by Anyone with the Link in version 27.3 or later of iOS, iPadOS, macOS, and visionOS, that […]</description>
-      <pubDate>Wed, 04 Nov 2026 18:23:37 +0000</pubDate>
-      <guid>https://www.theverge.com/tech/1026604/apple-icloud-links-harmful-content-27-3</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>Безопасность в количестве?</title>
-      <link>https://habr.com/ru/articles/1100400/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100400</link>
-      <description>IPO Anthropic обещает стать следующим большим моментом истины и завершить год, который, пожалуй, можно назвать величайшим в истории по масштабам дебютов компаний на фондовом рынке. Огромные суммы, о которых идёт речь, вызывают воспоминания о последней великой волне IPO, достигшей пика в 1999 году, как раз накануне краха пузыря доткомов. Читать далее</description>
-      <pubDate>Wed, 04 Nov 2026 18:13:33 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1100400/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100400</guid>
+      <title>redb Route XML для VS Code: проекты из шаблонов, разметка, граф и диаграммы Mermaid</title>
+      <link>https://habr.com/ru/articles/1103666/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1103666</link>
+      <description>Расширение для VS Code в Marketplace: проект из шаблона, подсказки по схеме, ссылки на бины, дерево и граф маршрутов, Mermaid, путь до воркера Tsak. Интеграционный маршрут в redb.Route можно написать на C#, а можно разметкой: файл .route.xml кладётся в пакет, пакет в папку воркера Tsak, и маршрут начинает работать. Формату редактор не нужен, это обычный XML, который сервис грузит как есть. Но писать его руками по памяти неудобно: какие у коннектора опции, как называется элемент, на какой бин сос</description>
+      <pubDate>Wed, 04 Nov 2026 23:54:31 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1103666/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1103666</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Waymo confirms it will split with Uber in January 2028</title>
-      <link>https://techcrunch.com/2026/11/04/waymo-confirms-it-will-split-with-uber-in-january-2028/</link>
-      <description>The split will set up direct competition in those markets, as Uber has many other autonomous vehicle partners on its network.</description>
-      <pubDate>Wed, 04 Nov 2026 18:12:30 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/11/04/waymo-confirms-it-will-split-with-uber-in-january-2028/</guid>
+      <title>AI PACs spent millions trying to shape Congress — here’s how they fared</title>
+      <link>https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/</link>
+      <description>AI industry PACs spent millions influencing the 2026 midterms, with mixed results. Political groups are already looking toward the next election cycle.</description>
+      <pubDate>Wed, 04 Nov 2026 22:45:09 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/</guid>
       <category>TechCrunch</category>
     </item>
     <item>
-      <title>‘You Can See Everything’ is getting an outer space release and it hasn’t even come out in Europe yet</title>
-      <link>https://techcrunch.com/2026/11/04/you-can-see-everything-is-getting-an-outer-space-release-and-it-hasnt-even-come-out-in-europe-yet/</link>
-      <description>It is easier to watch the Elizabeth Holmes documentary "You Can See Everything" in low-Earth orbit than in London.</description>
-      <pubDate>Wed, 04 Nov 2026 18:10:11 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/11/04/you-can-see-everything-is-getting-an-outer-space-release-and-it-hasnt-even-come-out-in-europe-yet/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>My therapist thinks I should chuck the Amazon Bee Frontier out a window</title>
-      <link>https://www.theverge.com/column/1026464/optimizer-amazon-bee-frontier-ambient-listening-wearables</link>
-      <description>This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. "How does that make you feel?" I get asked this a lot in therapy. Plenty of life events, big and […]</description>
-      <pubDate>Wed, 04 Nov 2026 18:00:00 +0000</pubDate>
-      <guid>https://www.theverge.com/column/1026464/optimizer-amazon-bee-frontier-ambient-listening-wearables</guid>
+      <title>Qualcomm is betting big on data centers as smartphone sales sink</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers</link>
+      <description>With smartphone sales tanking by around 20 percent compared to 2025, Qualcomm is looking to data centers to help boost its bottom line. During its Q4 2026 earnings call, the company laid out its plans to make a splash in the AI data center business, through partnerships with companies like Amazon and Meta announced earlier […]</description>
+      <pubDate>Wed, 04 Nov 2026 22:42:15 +0000</pubDate>
+      <guid>https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers</guid>
       <category>The Verge</category>
     </item>
     <item>
-      <title>ChatGPT will now make you animated GIFs</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6</link>
-      <description>ChatGPT can now create GIFs using a prompt or a photo uploaded to the AI chatbot. The update, which is rolling out alongside OpenAI's new Images 2.6 model, allows you to adjust the GIF's animation speed, edit individual frames, and share it with others. Before this change, ChatGPT couldn't natively generate GIFs in a single […]</description>
-      <pubDate>Wed, 04 Nov 2026 18:00:00 +0000</pubDate>
-      <guid>https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>Контекст должен быть в репозитории, а не в чате</title>
-      <link>https://habr.com/ru/articles/1103614/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1103614</link>
-      <description>Меня зацепила статья «Жизнь после Claude Code: как я переехал на Codex и сохранил историю проектов» . С решением, которое предлагает автор, я не согласен, т.к. в архиве переписки хранится разговор о проекте, а не итоговые решения. Я предлагаю другой подход. Мой личный опыт - полгода у меня контекст в репозитории (методика GRACE, доведённая напильником до утилиты doubled-graph ). Читать далее</description>
-      <pubDate>Wed, 04 Nov 2026 17:55:31 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1103614/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1103614</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Raytolfas OS v26.11.0: CachyOS, BORE, PipeWire и три сборки</title>
-      <link>https://habr.com/ru/articles/1103380/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1103380</link>
-      <description>Всем привет! Хочу рассказать про релиз своей системы Raytolfas OS v26.11.0 и о том, как она устроена внутри. Главная цель проекта это сделать нормальную систему для игр и работы, где сразу решены частые проблемы linux. К примеру: фризы в играх, лаги звука, вылеты из-за нехватки памяти и неудобный запуск android программ(в моей ос в отличии от остальных предусмотрен WayDroid + libndk). Читать далее</description>
-      <pubDate>Wed, 04 Nov 2026 17:27:00 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1103380/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1103380</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Sequoia hits rewind, undoing 20 years of expansion</title>
-      <link>https://techcrunch.com/2026/11/04/sequoia-hits-rewind-undoing-20-years-of-expansion/</link>
-      <description>Sequoia is consolidating into a smaller, Bay Area–centered firm, shutting down the programs and offices it built during a 20-year expansion while announcing roughly $10 billion in new funds.</description>
-      <pubDate>Wed, 04 Nov 2026 17:11:15 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/11/04/sequoia-hits-rewind-undoing-20-years-of-expansion/</guid>
+      <title>Nothing CEO says company’s mysterious AI-first device is dropping next month</title>
+      <link>https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/</link>
+      <description>While it's not yet clear what kind of product the smartphone startup is cooking up, Nothing's CEO said the product is designed to leverage AI for productivity gains.</description>
+      <pubDate>Wed, 04 Nov 2026 22:13:16 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/</guid>
       <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>Almost no one uses AI agents to book their Uber, company says</title>
+      <link>https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/</link>
+      <description>During its busiest week last quarter, Uber said only four people booked a ride using an AI agent.</description>
+      <pubDate>Wed, 04 Nov 2026 21:56:01 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>Оркестрация ИИ‑агентов: когда нужно поправить в одном месте и не сломать всё остальное</title>
+      <link>https://habr.com/ru/articles/1103656/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1103656</link>
+      <description>MVP с ИИ-агентом сегодня делает каждый. Сложности начинаются, когда задача меняет код сразу в нескольких модулях или репозиториях: правим в одном месте, ломаем в другом, а спецификация целиком не помещается в контекст одной сессии. Рассказываю, как устроен наш плагин pepper-orchestrator для Claude Code и Codex: цель становится программой и пакетами работ, части идут параллельно у разных агентов, а каждое "готово" проходит независимую проверку. И показываю всё это на реальном кейсе от первой кома</description>
+      <pubDate>Wed, 04 Nov 2026 21:50:23 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1103656/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1103656</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Snapchat surpasses 30M paid subscribers</title>
+      <link>https://techcrunch.com/2026/11/04/snapchat-surpasses-30m-paid-subscribers/</link>
+      <description>The milestone comes a year after Snapchat announced a controversial limit on free storage for its Memories feature and informed users it would start requiring users to pay $1.99 per month for additional storage or subscribe to Snapchat+ to retain their Memories.</description>
+      <pubDate>Wed, 04 Nov 2026 21:49:29 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/11/04/snapchat-surpasses-30m-paid-subscribers/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>Rust и C++: анализ официальных документов CISA, NSA, Google и Microsoft</title>
+      <link>https://habr.com/ru/articles/1103654/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1103654</link>
+      <description>В последние годы вопрос безопасности памяти стал одним из ключевых факторов, определяющих стратегию разработки системного программного обеспечения. В официальных документах таких организаций, как CISA, NSA, а также в технических отчетах Google и Microsoft, прослеживается устойчивая тенденция к переходу на безопасные языки программирования, и Rust рассматривается в качестве основной альтернативы C и C++. Данная статья представляет собой анализ официальных документов и статистических данных. В ней</description>
+      <pubDate>Wed, 04 Nov 2026 21:49:16 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1103654/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1103654</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Сколько стоит минута: 200 тысяч партий Lichess о том, как часы съедают рейтинг</title>
+      <link>https://habr.com/ru/articles/1103652/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1103652</link>
+      <description>Игрок с рейтингом 2100+ в блице, у которого на часах больше минуты, ошибается примерно как игрок 2300. Когда на часах остается меньше пяти секунд, доля грубых ошибок у того же игрока такая, как у 1400 со спокойным запасом времени. Почти тысяча пунктов рейтинга теряется на последней минуте. Эту цифру я получил на открытой базе Lichess и сначала ей не поверил. Ниже рассказываю, откуда она, где я сам ошибся по дороге и какая часть эффекта на самом деле приходится на сложность позиции. Читать далее</description>
+      <pubDate>Wed, 04 Nov 2026 21:45:01 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1103652/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1103652</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>17 better ways Elon Musk could have wasted $446 million</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1026878/not-even-good-at-being-rich</link>
+      <description>One of the basic problems of spending too much time on social media is that you are cooking your brain by reading posts from a pack of attention-seeking lunatics. If your social media of choice is the site formerly known as Twitter, and it is your main source of contact with the outside world, you […]</description>
+      <pubDate>Wed, 04 Nov 2026 21:45:00 +0000</pubDate>
+      <guid>https://www.theverge.com/ai-artificial-intelligence/1026878/not-even-good-at-being-rich</guid>
+      <category>The Verge</category>
     </item>
   </channel>
 </rss>
