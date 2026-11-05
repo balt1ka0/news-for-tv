@@ -5,87 +5,87 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Thu, 05 Nov 2026 07:44:01 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 22:34:17 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Примеры удачной продажи патентов одной компании другой</title>
-      <link>https://habr.com/ru/companies/onlinepatent/articles/1103734/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1103734</link>
-      <description>Крупные компании расширяют свои патентные портфели как за счет собственных разработок, так и за счет приобретения интеллектуальной собственности других фирм. Это дает им преимущество в борьбе с недобросовестными конкурентами и патентными троллями, помогает улучшить репутацию, увеличить доход, привлечь инвесторов и завоевать мировой рынок. Рассмотрим примеры удачного пополнения патентного портфеля. Читать далее</description>
-      <pubDate>Thu, 05 Nov 2026 07:21:01 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/onlinepatent/articles/1103734/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1103734</guid>
+      <title>Perplexity launches its own take on AI agents for work</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work</link>
+      <description>Perplexity is taking on OpenAI and Anthropic with its own work-focused AI agents. The startup's new always-on "Teammates" can take on multiple roles within a workspace, while pulling existing projects, skills, and memory from the Perplexity tools you already use. Teammates integrate with Perplexity Computer, an AI system that can deploy agents on your device […]</description>
+      <pubDate>Thu, 05 Nov 2026 22:26:50 +0000</pubDate>
+      <guid>https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>Salon is shutting down after 31 years</title>
+      <link>https://www.theverge.com/news/1028281/salon-dot-com-shuts-down</link>
+      <description>Salon launched 31 years ago as one of the first online-only news magazine outlets, and it announced today in an unsigned post that it's ceasing publication. The company said that the "business realities of independent digital journalism have changed profoundly over the years," and it decided that its publishing model is "no longer sustainable." It […]</description>
+      <pubDate>Thu, 05 Nov 2026 22:08:14 +0000</pubDate>
+      <guid>https://www.theverge.com/news/1028281/salon-dot-com-shuts-down</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>The midterms proved once and for all that X is not real life</title>
+      <link>https://www.theverge.com/policy/1028253/midterm-elections-x-right-wing-memes</link>
+      <description>A week before the midterm elections, Vice President JD Vance hosted a town hall in Texas with Fox News host Jesse Watters. It was a friendly event with a friendly audience in what should have been a friendly state, and maybe that's why Vance couldn't help himself. When a college student earnestly asked how the […]</description>
+      <pubDate>Thu, 05 Nov 2026 21:55:00 +0000</pubDate>
+      <guid>https://www.theverge.com/policy/1028253/midterm-elections-x-right-wing-memes</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>Пожалуйста, зашифруй мой пароль</title>
+      <link>https://habr.com/ru/articles/1094202/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094202</link>
+      <description>Признай, разработчик, ты же любишь отправлять пароль в теле POST‑запроса из формы входа открытым текстом, ведь «там же TLS, всё зашифровано»? Судя по тому что я вижу в интернете, эту традицию соблюдают многие, ИИ — не исключение. Одни продолжают запрашивать по сети пароли, прикрытые звёздочками, другие — используют одинаковый пароль в десятке различных сервисов. Даже Священные Госуслуги не стали исключением. В этой статье я кратко разобрал в чём проблема, кто виноват и что делать. Читать далее</description>
+      <pubDate>Thu, 05 Nov 2026 21:51:37 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1094202/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094202</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Семь проверок перед тем, как нести руководителю вывод от ИИ</title>
-      <link>https://habr.com/ru/companies/glowbyte/articles/1103730/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1103730</link>
-      <description>Руководитель спрашивает, почему просела выручка в регионе. ИИ через минуту отвечает связным текстом, с цифрами и объяснением. Ещё через час финансовый директор уточняет, включён ли в цифру НДС и из какой она таблицы, и ответа ни у кого нет. Мы в GlowByte внедряем BI и пилотируем GenBI-решения на данных клиентов, поэтому постоянно видим такие уверенные ответы без источника. Ниже семь проверок, которые стоит пройти до того, как цифра от ИИ уйдёт наверх, и отдельно о том, где они не спасают. Больши</description>
-      <pubDate>Thu, 05 Nov 2026 07:16:51 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/glowbyte/articles/1103730/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1103730</guid>
+      <title>Инженер только в названии: что 63 тысячи вакансий говорят о работе инженера</title>
+      <link>https://habr.com/ru/companies/ecopsy/articles/1104230/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104230</link>
+      <description>Продолжаем разговор об инженерах. В прошлый раз мы писали о карьере ( статья ), теперь смотрим на рынок: что на самом деле стоит за словом «инженер» в вакансиях. Это первая полностью аналитическая статья по этой теме. Слово «инженер» давно стало удобным названием для самых разных должностей. Показалось, что его размывает привычка называть так в том числе профессии, в которых не осталось ничего инженерного. Поэтому я решил проверить эту гипотезу на открытых вакансиях. Вот что предстоит делать «ин</description>
+      <pubDate>Thu, 05 Nov 2026 21:32:32 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/ecopsy/articles/1104230/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104230</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Игла ИИ-автоматизации: что будет, когда бизнес разучится работать без людей?</title>
-      <link>https://habr.com/ru/articles/1103470/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1103470</link>
-      <description>Мы быстро привыкаем к дешёвому машинному интеллекту. Но понимаем ли мы, сколько стоит такая зависимость — не только в токенах, но и в людях, инфраструктуре и способности восстановить работу после отказа? В апреле 2026 года финтех-компания Belo столкнулась с неожиданной проблемой: доступ к Claude был приостановлен более чем для шестидесяти сотрудников. По словам технического руководителя компании, причиной в уведомлении называлось нарушение правил использования, без содержательных подробностей. Д</description>
-      <pubDate>Thu, 05 Nov 2026 07:11:25 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1103470/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1103470</guid>
+      <title>Serve Robotics launches new business to become the AWS for robots</title>
+      <link>https://techcrunch.com/2026/11/05/serve-robotics-launches-new-business-to-become-the-aws-for-robots/</link>
+      <description>Serve Robotics announced alonsgside its third-quarter earnings that it will launch a new business line called Physical AI Services to offer customers its connectivity and data tools.</description>
+      <pubDate>Thu, 05 Nov 2026 21:15:00 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/11/05/serve-robotics-launches-new-business-to-become-the-aws-for-robots/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>Blue Origin’s next launch now won’t happen until 2027</title>
+      <link>https://www.theverge.com/science/1028178/blue-origins-next-launch-now-wont-happen-until-2027</link>
+      <description>Blue Origin plans to do its next New Glenn rocket launch in January 2027, according to CNBC and the Financial Times, which cite a memo from CEO Dave Limp sent to staff. The new timeline follows a May launchpad explosion that damaged Blue Origin's New Glenn launchpad ahead of a flight that would have brought […]</description>
+      <pubDate>Thu, 05 Nov 2026 20:47:14 +0000</pubDate>
+      <guid>https://www.theverge.com/science/1028178/blue-origins-next-launch-now-wont-happen-until-2027</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>Динамические списки GPIO-линий: пакетные операции с группами выводов на современном C++</title>
+      <link>https://habr.com/ru/articles/1104222/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104222</link>
+      <description>Введение GPIO-линии - это базовая периферия любого микроконтроллера и первое с чего начинают знакомство с новым МК. Чего может быть проще помигать светодиодом. Библиотеки производителей МК, также как и сторонние, обычно предоставляют функции записи одной линии типа HAL_GPIO_WritePin, digitalWrite, либо же запись всего порта. А часто требуется управлять сразу группой разрозненных GPIO-линий: светодиодная лента, 7-сегментный индикатор, параллельная шина данных, матричная клавиатура и т.д. С конфиг</description>
+      <pubDate>Thu, 05 Nov 2026 20:42:02 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1104222/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104222</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Продолжаем изготовление печатных плат скрайбированием: тест изготовления первой партии, с шириной дорожек в 0,2 мм</title>
-      <link>https://habr.com/ru/companies/ruvds/articles/1102408/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102408</link>
-      <description>В прошлой статье мы провели последний тест новой технологии быстрого создания печатных плат на дому, которую я разработал — скрайбирования (процарапывания) дорожек печатных плат с применением алмазного наконечника и моего настольного ЧПУ-станка серии 3018 . Несмотря на то, что скрайбирование широко известно как средство быстро создавать надсечки между платами (когда они производятся серийно, партией), чтобы их можно было отломать друг от друга (а также, вроде как, применялось раньше в области ми</description>
-      <pubDate>Thu, 05 Nov 2026 07:01:24 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/ruvds/articles/1102408/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102408</guid>
+      <title>[Перевод] Уравнения общей теории относительности Эйнштейна: объясняем простым языком</title>
+      <link>https://habr.com/ru/articles/1104140/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104140</link>
+      <description>Итан Сигел (американский астрофизик‑теоретик и научный журналист, автор рубрики «Спросите Итана», один из пропагандистов современных научных знаний), пытается на пальцах объяснить уравнение Эйшнтейна, определяющее общую теорию относительности. Эта теория невероятно сложна с математической точки зрения. @avshkol перевел эту статью, чтобы любой, кто не готов к резкому погружению в сложный мир тензорных вычислений, смог понять основные принципы того, как устроено пространство-время и как именно мас</description>
+      <pubDate>Thu, 05 Nov 2026 20:31:36 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1104140/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104140</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Растение не может убежать от солнца, поэтому оно придумало феруловую кислоту</title>
-      <link>https://habr.com/ru/companies/geltek/articles/1103168/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1103168</link>
-      <description>Растению не повезло с архитектурой. Оно всю жизнь стоит на одном месте и получает всё, что светит сверху. Вместе с солнцем, которое нужно для фотосинтеза, приходит ультрафиолет, который бьёт по молекулам. Уйти в тень нельзя, поэтому остаётся защищаться химией. Растительная химия любит многофункциональность: одна молекула может участвовать сразу в нескольких процессах. Феруловая кислота как раз из таких многостаночников. В растении она помогает укреплять клеточную стенку, поглощает ультрафиолет и</description>
-      <pubDate>Thu, 05 Nov 2026 07:01:19 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/geltek/articles/1103168/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1103168</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Как я дорабатывал скилл аудита доступности: библиотеки, общие компоненты и ложные находки</title>
-      <link>https://habr.com/ru/articles/1103690/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1103690</link>
-      <description>Я развиваю Accessibility Auditor Skill — инструкции для ИИ-агента, который проверяет доступность интерфейсов по исходному коду и обследует сайты. В первых версиях агент мог объявить проблемой отсутствие атрибута в одном файле, хотя нужное поведение уже обеспечивала библиотека. Или предложить исправление, не проверив, где ещё используется общий компонент. Читать далее</description>
-      <pubDate>Thu, 05 Nov 2026 06:36:26 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1103690/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1103690</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Как мы приручили SIGSEGV и освободили память фоновых вкладок</title>
-      <link>https://habr.com/ru/companies/yandex/articles/1088116/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1088116</link>
-      <description>Браузеры традиционно относятся к самым крупным потребителям памяти на персональных компьютерах. Иногда кажется, что разработчики просто забили на оптимизацию, но реальность куда прозаичнее: пользователи открывают всё больше вкладок, сайты обрастают медиа и JavaScript, новые веб‑стандарты требуют хранить больше данных, а ради безопасности браузер изолирует сайты в отдельных процессах. На три последних пункта повлиять сложно. Но что делать с десятками вкладок, которые пользователь открыл, посмотре</description>
-      <pubDate>Thu, 05 Nov 2026 06:31:45 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/yandex/articles/1088116/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1088116</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Безопасность АСУ ТП: как выстроить защиту без капитальных вложений</title>
-      <link>https://habr.com/ru/companies/ussc/articles/1103686/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1103686</link>
-      <description>Информационная безопасность АСУ ТП обычно рассматривается применительно к крупным объектам КИИ, для которых есть детальные требования и ресурсы. Но значительная часть промышленности — это малый и средний бизнес. Такие предприятия эксплуатируют АСУ ТП, однако не обязаны исполнять все требования № 187-ФЗ, и при этом все чаще становятся жертвами кибератак — из-за их автоматизации, распространения ИИ и низкого порога входа в киберпреступность. Остановка производства для таких компаний критична, а са</description>
-      <pubDate>Thu, 05 Nov 2026 06:08:36 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/ussc/articles/1103686/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1103686</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Восстание машин отменяется: почему интеллект без собственных целей еще не стал разумом</title>
-      <link>https://habr.com/ru/articles/1103598/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1103598</link>
-      <description>Внимание : восстание машин отменяется. По крайней мере, пока. Я пришел к этому выводу не после очередного сравнения нейросетей и не потому, что искусственный интеллект в чем-то ошибся. Ошибки как раз мало что доказывают: люди тоже заблуждаются, забывают и уверенно говорят глупости. Мне стало интересно другое. Я попытался сопоставить то, что вижу в современных системах ИИ, с тем, что философы разных эпох называли разумом, волей и самостоятельным действием. Читать далее</description>
-      <pubDate>Thu, 05 Nov 2026 06:01:18 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1103598/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1103598</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>От коммита до релиза: iOS-инфраструктура hh.ru</title>
-      <link>https://habr.com/ru/companies/hh/articles/1103170/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1103170</link>
-      <description>Привет! Я Виталий, iOS-разработчик в платформенной команде hh.ru. В статье расскажу о пути каждого нашего коммита: от подготовки окружения и генерации проекта на машине разработчика до момента, когда изменения становятся доступны пользователям приложения. Разберём, как пайплайн определяет затронутые сервисы, переиспользует собранный проект в разных тестах, проводит статический анализ и возвращает результаты в PR. Отдельно остановимся на UI-тестах, проследим, как происходит проверка сборок и прое</description>
-      <pubDate>Thu, 05 Nov 2026 05:30:15 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/hh/articles/1103170/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1103170</guid>
+      <title>Сделал меньше работы — стало медленнее: как я выиграл Кубок СЭРПАС 2026 на Эльбрусе. Часть 1</title>
+      <link>https://habr.com/ru/articles/1104198/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104198</link>
+      <description>Я убрал из своего решения 60% работы, а программа стала медленнее. На Эльбрусе такое бывает чаще, чем кажется: параллельность здесь заранее расписывает компилятор, и «хитрый» код с проверками и прыжками по памяти проигрывает простому, но ровному циклу. Этой осенью я выиграл Кубок СЭРПАС 2026, соревнование по оптимизации программ на C/C++ под процессоры Эльбрус, и в трёх статьях рассказываю, как решал задачи и что на e2k работает не так, как на x86. В первой части: чем Эльбрус отличается от привы</description>
+      <pubDate>Thu, 05 Nov 2026 19:48:37 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1104198/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104198</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
   </channel>
