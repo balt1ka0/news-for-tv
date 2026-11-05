@@ -5,88 +5,88 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Thu, 05 Nov 2026 00:11:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 07:44:01 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>redb Route XML для VS Code: проекты из шаблонов, разметка, граф и диаграммы Mermaid</title>
-      <link>https://habr.com/ru/articles/1103666/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1103666</link>
-      <description>Расширение для VS Code в Marketplace: проект из шаблона, подсказки по схеме, ссылки на бины, дерево и граф маршрутов, Mermaid, путь до воркера Tsak. Интеграционный маршрут в redb.Route можно написать на C#, а можно разметкой: файл .route.xml кладётся в пакет, пакет в папку воркера Tsak, и маршрут начинает работать. Формату редактор не нужен, это обычный XML, который сервис грузит как есть. Но писать его руками по памяти неудобно: какие у коннектора опции, как называется элемент, на какой бин сос</description>
-      <pubDate>Wed, 04 Nov 2026 23:54:31 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1103666/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1103666</guid>
+      <title>Примеры удачной продажи патентов одной компании другой</title>
+      <link>https://habr.com/ru/companies/onlinepatent/articles/1103734/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1103734</link>
+      <description>Крупные компании расширяют свои патентные портфели как за счет собственных разработок, так и за счет приобретения интеллектуальной собственности других фирм. Это дает им преимущество в борьбе с недобросовестными конкурентами и патентными троллями, помогает улучшить репутацию, увеличить доход, привлечь инвесторов и завоевать мировой рынок. Рассмотрим примеры удачного пополнения патентного портфеля. Читать далее</description>
+      <pubDate>Thu, 05 Nov 2026 07:21:01 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/onlinepatent/articles/1103734/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1103734</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>AI PACs spent millions trying to shape Congress — here’s how they fared</title>
-      <link>https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/</link>
-      <description>AI industry PACs spent millions influencing the 2026 midterms, with mixed results. Political groups are already looking toward the next election cycle.</description>
-      <pubDate>Wed, 04 Nov 2026 22:45:09 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>Qualcomm is betting big on data centers as smartphone sales sink</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers</link>
-      <description>With smartphone sales tanking by around 20 percent compared to 2025, Qualcomm is looking to data centers to help boost its bottom line. During its Q4 2026 earnings call, the company laid out its plans to make a splash in the AI data center business, through partnerships with companies like Amazon and Meta announced earlier […]</description>
-      <pubDate>Wed, 04 Nov 2026 22:42:15 +0000</pubDate>
-      <guid>https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>Nothing CEO says company’s mysterious AI-first device is dropping next month</title>
-      <link>https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/</link>
-      <description>While it's not yet clear what kind of product the smartphone startup is cooking up, Nothing's CEO said the product is designed to leverage AI for productivity gains.</description>
-      <pubDate>Wed, 04 Nov 2026 22:13:16 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>Almost no one uses AI agents to book their Uber, company says</title>
-      <link>https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/</link>
-      <description>During its busiest week last quarter, Uber said only four people booked a ride using an AI agent.</description>
-      <pubDate>Wed, 04 Nov 2026 21:56:01 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>Оркестрация ИИ‑агентов: когда нужно поправить в одном месте и не сломать всё остальное</title>
-      <link>https://habr.com/ru/articles/1103656/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1103656</link>
-      <description>MVP с ИИ-агентом сегодня делает каждый. Сложности начинаются, когда задача меняет код сразу в нескольких модулях или репозиториях: правим в одном месте, ломаем в другом, а спецификация целиком не помещается в контекст одной сессии. Рассказываю, как устроен наш плагин pepper-orchestrator для Claude Code и Codex: цель становится программой и пакетами работ, части идут параллельно у разных агентов, а каждое "готово" проходит независимую проверку. И показываю всё это на реальном кейсе от первой кома</description>
-      <pubDate>Wed, 04 Nov 2026 21:50:23 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1103656/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1103656</guid>
+      <title>Семь проверок перед тем, как нести руководителю вывод от ИИ</title>
+      <link>https://habr.com/ru/companies/glowbyte/articles/1103730/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1103730</link>
+      <description>Руководитель спрашивает, почему просела выручка в регионе. ИИ через минуту отвечает связным текстом, с цифрами и объяснением. Ещё через час финансовый директор уточняет, включён ли в цифру НДС и из какой она таблицы, и ответа ни у кого нет. Мы в GlowByte внедряем BI и пилотируем GenBI-решения на данных клиентов, поэтому постоянно видим такие уверенные ответы без источника. Ниже семь проверок, которые стоит пройти до того, как цифра от ИИ уйдёт наверх, и отдельно о том, где они не спасают. Больши</description>
+      <pubDate>Thu, 05 Nov 2026 07:16:51 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/glowbyte/articles/1103730/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1103730</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Snapchat surpasses 30M paid subscribers</title>
-      <link>https://techcrunch.com/2026/11/04/snapchat-surpasses-30m-paid-subscribers/</link>
-      <description>The milestone comes a year after Snapchat announced a controversial limit on free storage for its Memories feature and informed users it would start requiring users to pay $1.99 per month for additional storage or subscribe to Snapchat+ to retain their Memories.</description>
-      <pubDate>Wed, 04 Nov 2026 21:49:29 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/11/04/snapchat-surpasses-30m-paid-subscribers/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>Rust и C++: анализ официальных документов CISA, NSA, Google и Microsoft</title>
-      <link>https://habr.com/ru/articles/1103654/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1103654</link>
-      <description>В последние годы вопрос безопасности памяти стал одним из ключевых факторов, определяющих стратегию разработки системного программного обеспечения. В официальных документах таких организаций, как CISA, NSA, а также в технических отчетах Google и Microsoft, прослеживается устойчивая тенденция к переходу на безопасные языки программирования, и Rust рассматривается в качестве основной альтернативы C и C++. Данная статья представляет собой анализ официальных документов и статистических данных. В ней</description>
-      <pubDate>Wed, 04 Nov 2026 21:49:16 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1103654/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1103654</guid>
+      <title>Игла ИИ-автоматизации: что будет, когда бизнес разучится работать без людей?</title>
+      <link>https://habr.com/ru/articles/1103470/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1103470</link>
+      <description>Мы быстро привыкаем к дешёвому машинному интеллекту. Но понимаем ли мы, сколько стоит такая зависимость — не только в токенах, но и в людях, инфраструктуре и способности восстановить работу после отказа? В апреле 2026 года финтех-компания Belo столкнулась с неожиданной проблемой: доступ к Claude был приостановлен более чем для шестидесяти сотрудников. По словам технического руководителя компании, причиной в уведомлении называлось нарушение правил использования, без содержательных подробностей. Д</description>
+      <pubDate>Thu, 05 Nov 2026 07:11:25 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1103470/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1103470</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Сколько стоит минута: 200 тысяч партий Lichess о том, как часы съедают рейтинг</title>
-      <link>https://habr.com/ru/articles/1103652/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1103652</link>
-      <description>Игрок с рейтингом 2100+ в блице, у которого на часах больше минуты, ошибается примерно как игрок 2300. Когда на часах остается меньше пяти секунд, доля грубых ошибок у того же игрока такая, как у 1400 со спокойным запасом времени. Почти тысяча пунктов рейтинга теряется на последней минуте. Эту цифру я получил на открытой базе Lichess и сначала ей не поверил. Ниже рассказываю, откуда она, где я сам ошибся по дороге и какая часть эффекта на самом деле приходится на сложность позиции. Читать далее</description>
-      <pubDate>Wed, 04 Nov 2026 21:45:01 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1103652/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1103652</guid>
+      <title>Продолжаем изготовление печатных плат скрайбированием: тест изготовления первой партии, с шириной дорожек в 0,2 мм</title>
+      <link>https://habr.com/ru/companies/ruvds/articles/1102408/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102408</link>
+      <description>В прошлой статье мы провели последний тест новой технологии быстрого создания печатных плат на дому, которую я разработал — скрайбирования (процарапывания) дорожек печатных плат с применением алмазного наконечника и моего настольного ЧПУ-станка серии 3018 . Несмотря на то, что скрайбирование широко известно как средство быстро создавать надсечки между платами (когда они производятся серийно, партией), чтобы их можно было отломать друг от друга (а также, вроде как, применялось раньше в области ми</description>
+      <pubDate>Thu, 05 Nov 2026 07:01:24 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/ruvds/articles/1102408/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102408</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>17 better ways Elon Musk could have wasted $446 million</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1026878/not-even-good-at-being-rich</link>
-      <description>One of the basic problems of spending too much time on social media is that you are cooking your brain by reading posts from a pack of attention-seeking lunatics. If your social media of choice is the site formerly known as Twitter, and it is your main source of contact with the outside world, you […]</description>
-      <pubDate>Wed, 04 Nov 2026 21:45:00 +0000</pubDate>
-      <guid>https://www.theverge.com/ai-artificial-intelligence/1026878/not-even-good-at-being-rich</guid>
-      <category>The Verge</category>
+      <title>Растение не может убежать от солнца, поэтому оно придумало феруловую кислоту</title>
+      <link>https://habr.com/ru/companies/geltek/articles/1103168/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1103168</link>
+      <description>Растению не повезло с архитектурой. Оно всю жизнь стоит на одном месте и получает всё, что светит сверху. Вместе с солнцем, которое нужно для фотосинтеза, приходит ультрафиолет, который бьёт по молекулам. Уйти в тень нельзя, поэтому остаётся защищаться химией. Растительная химия любит многофункциональность: одна молекула может участвовать сразу в нескольких процессах. Феруловая кислота как раз из таких многостаночников. В растении она помогает укреплять клеточную стенку, поглощает ультрафиолет и</description>
+      <pubDate>Thu, 05 Nov 2026 07:01:19 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/geltek/articles/1103168/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1103168</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Как я дорабатывал скилл аудита доступности: библиотеки, общие компоненты и ложные находки</title>
+      <link>https://habr.com/ru/articles/1103690/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1103690</link>
+      <description>Я развиваю Accessibility Auditor Skill — инструкции для ИИ-агента, который проверяет доступность интерфейсов по исходному коду и обследует сайты. В первых версиях агент мог объявить проблемой отсутствие атрибута в одном файле, хотя нужное поведение уже обеспечивала библиотека. Или предложить исправление, не проверив, где ещё используется общий компонент. Читать далее</description>
+      <pubDate>Thu, 05 Nov 2026 06:36:26 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1103690/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1103690</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Как мы приручили SIGSEGV и освободили память фоновых вкладок</title>
+      <link>https://habr.com/ru/companies/yandex/articles/1088116/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1088116</link>
+      <description>Браузеры традиционно относятся к самым крупным потребителям памяти на персональных компьютерах. Иногда кажется, что разработчики просто забили на оптимизацию, но реальность куда прозаичнее: пользователи открывают всё больше вкладок, сайты обрастают медиа и JavaScript, новые веб‑стандарты требуют хранить больше данных, а ради безопасности браузер изолирует сайты в отдельных процессах. На три последних пункта повлиять сложно. Но что делать с десятками вкладок, которые пользователь открыл, посмотре</description>
+      <pubDate>Thu, 05 Nov 2026 06:31:45 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/yandex/articles/1088116/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1088116</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Безопасность АСУ ТП: как выстроить защиту без капитальных вложений</title>
+      <link>https://habr.com/ru/companies/ussc/articles/1103686/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1103686</link>
+      <description>Информационная безопасность АСУ ТП обычно рассматривается применительно к крупным объектам КИИ, для которых есть детальные требования и ресурсы. Но значительная часть промышленности — это малый и средний бизнес. Такие предприятия эксплуатируют АСУ ТП, однако не обязаны исполнять все требования № 187-ФЗ, и при этом все чаще становятся жертвами кибератак — из-за их автоматизации, распространения ИИ и низкого порога входа в киберпреступность. Остановка производства для таких компаний критична, а са</description>
+      <pubDate>Thu, 05 Nov 2026 06:08:36 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/ussc/articles/1103686/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1103686</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Восстание машин отменяется: почему интеллект без собственных целей еще не стал разумом</title>
+      <link>https://habr.com/ru/articles/1103598/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1103598</link>
+      <description>Внимание : восстание машин отменяется. По крайней мере, пока. Я пришел к этому выводу не после очередного сравнения нейросетей и не потому, что искусственный интеллект в чем-то ошибся. Ошибки как раз мало что доказывают: люди тоже заблуждаются, забывают и уверенно говорят глупости. Мне стало интересно другое. Я попытался сопоставить то, что вижу в современных системах ИИ, с тем, что философы разных эпох называли разумом, волей и самостоятельным действием. Читать далее</description>
+      <pubDate>Thu, 05 Nov 2026 06:01:18 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1103598/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1103598</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>От коммита до релиза: iOS-инфраструктура hh.ru</title>
+      <link>https://habr.com/ru/companies/hh/articles/1103170/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1103170</link>
+      <description>Привет! Я Виталий, iOS-разработчик в платформенной команде hh.ru. В статье расскажу о пути каждого нашего коммита: от подготовки окружения и генерации проекта на машине разработчика до момента, когда изменения становятся доступны пользователям приложения. Разберём, как пайплайн определяет затронутые сервисы, переиспользует собранный проект в разных тестах, проводит статический анализ и возвращает результаты в PR. Отдельно остановимся на UI-тестах, проследим, как происходит проверка сборок и прое</description>
+      <pubDate>Thu, 05 Nov 2026 05:30:15 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/hh/articles/1103170/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1103170</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
   </channel>
 </rss>
