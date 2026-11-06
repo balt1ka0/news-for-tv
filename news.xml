@@ -5,9 +5,65 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Thu, 05 Nov 2026 22:34:17 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 03:14:12 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OpenAI is stepping back from NDAs for data center projects</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda</link>
+      <description>Following this week's midterms where voters resoundingly voiced their opposition to data center expansion, OpenAI today announced new commitments to communities where it is working on data center projects, including that it won't use non-disclosure agreements (NDAs) with public officials. Many data center projects have come under scrutiny for relying on NDAs to hide discussions […]</description>
+      <pubDate>Fri, 06 Nov 2026 00:37:56 +0000</pubDate>
+      <guid>https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>The New York Times reportedly in talks to buy Letterboxd for $330 million</title>
+      <link>https://techcrunch.com/2026/11/05/the-new-york-times-reportedly-in-talks-to-buy-letterboxd-for-330-million/</link>
+      <description>Letterboxd, an online platform for movie lovers, has grown dramatically in recent years.</description>
+      <pubDate>Fri, 06 Nov 2026 00:07:18 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/11/05/the-new-york-times-reportedly-in-talks-to-buy-letterboxd-for-330-million/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>Airbnb is working on an AI travel agent</title>
+      <link>https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings</link>
+      <description>Airbnb plans to roll out an AI agent in the first half of 2027 that will help users plan and book travel, the company said in its Q3 2026 earnings shareholder letter released today. "Today's AI agents are good at simple, routine tasks, like making a restaurant reservation or scheduling an appointment," Airbnb said. "But […]</description>
+      <pubDate>Fri, 06 Nov 2026 00:06:12 +0000</pubDate>
+      <guid>https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>Meta, Google, and TikTok sue California AG over teen social media law</title>
+      <link>https://techcrunch.com/2026/11/05/meta-google-and-tiktok-sue-california-ag-over-teen-social-media-law/</link>
+      <description>If it goes into effect next year, this California law would restrict social media access for children under 16.</description>
+      <pubDate>Fri, 06 Nov 2026 00:01:38 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/11/05/meta-google-and-tiktok-sue-california-ag-over-teen-social-media-law/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>The New York Times is in talks to buy Letterboxd for around $330 million</title>
+      <link>https://www.theverge.com/news/1028375/the-new-york-times-letterboxd-acquisition-report</link>
+      <description>The New York Times Company is in talks"exclusive negotations" to acquire Letterboxd, the social network for film lovers, for around $330 million, The New York Times reports. The Times Company, Sony Pictures Entertainment, and A24 were all recently rumored to be among those interested in buying Letterboxd. The negotiations with the Times Company have included […]</description>
+      <pubDate>Thu, 05 Nov 2026 23:45:10 +0000</pubDate>
+      <guid>https://www.theverge.com/news/1028375/the-new-york-times-letterboxd-acquisition-report</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>T-Mobile owner on Elon Musk launching a wireless carrier: ‘Welcome to the party’</title>
+      <link>https://www.theverge.com/tech/1028346/t-mobile-deutsche-telecom-spacex-starlink-mobile</link>
+      <description>The head of T-Mobile's parent company is casting doubt on SpaceX's plans to make Starlink Mobile a "major" carrier in the US. During an earnings call on Thursday, Deutsche Telekom CEO Tim Höttges says he takes the Elon Musk-owned company "super serious," but that it will cost at least $200 billion to pull off: He […]</description>
+      <pubDate>Thu, 05 Nov 2026 23:17:10 +0000</pubDate>
+      <guid>https://www.theverge.com/tech/1028346/t-mobile-deutsche-telecom-spacex-starlink-mobile</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>Airbnb says it’s launching an AI travel agent in the first half of 2027</title>
+      <link>https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/</link>
+      <description>Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.</description>
+      <pubDate>Thu, 05 Nov 2026 22:40:55 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/</guid>
+      <category>TechCrunch</category>
+    </item>
     <item>
       <title>Perplexity launches its own take on AI agents for work</title>
       <link>https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work</link>
@@ -31,62 +87,6 @@
       <pubDate>Thu, 05 Nov 2026 21:55:00 +0000</pubDate>
       <guid>https://www.theverge.com/policy/1028253/midterm-elections-x-right-wing-memes</guid>
       <category>The Verge</category>
-    </item>
-    <item>
-      <title>Пожалуйста, зашифруй мой пароль</title>
-      <link>https://habr.com/ru/articles/1094202/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094202</link>
-      <description>Признай, разработчик, ты же любишь отправлять пароль в теле POST‑запроса из формы входа открытым текстом, ведь «там же TLS, всё зашифровано»? Судя по тому что я вижу в интернете, эту традицию соблюдают многие, ИИ — не исключение. Одни продолжают запрашивать по сети пароли, прикрытые звёздочками, другие — используют одинаковый пароль в десятке различных сервисов. Даже Священные Госуслуги не стали исключением. В этой статье я кратко разобрал в чём проблема, кто виноват и что делать. Читать далее</description>
-      <pubDate>Thu, 05 Nov 2026 21:51:37 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1094202/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1094202</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Инженер только в названии: что 63 тысячи вакансий говорят о работе инженера</title>
-      <link>https://habr.com/ru/companies/ecopsy/articles/1104230/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104230</link>
-      <description>Продолжаем разговор об инженерах. В прошлый раз мы писали о карьере ( статья ), теперь смотрим на рынок: что на самом деле стоит за словом «инженер» в вакансиях. Это первая полностью аналитическая статья по этой теме. Слово «инженер» давно стало удобным названием для самых разных должностей. Показалось, что его размывает привычка называть так в том числе профессии, в которых не осталось ничего инженерного. Поэтому я решил проверить эту гипотезу на открытых вакансиях. Вот что предстоит делать «ин</description>
-      <pubDate>Thu, 05 Nov 2026 21:32:32 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/ecopsy/articles/1104230/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104230</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Serve Robotics launches new business to become the AWS for robots</title>
-      <link>https://techcrunch.com/2026/11/05/serve-robotics-launches-new-business-to-become-the-aws-for-robots/</link>
-      <description>Serve Robotics announced alonsgside its third-quarter earnings that it will launch a new business line called Physical AI Services to offer customers its connectivity and data tools.</description>
-      <pubDate>Thu, 05 Nov 2026 21:15:00 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/11/05/serve-robotics-launches-new-business-to-become-the-aws-for-robots/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>Blue Origin’s next launch now won’t happen until 2027</title>
-      <link>https://www.theverge.com/science/1028178/blue-origins-next-launch-now-wont-happen-until-2027</link>
-      <description>Blue Origin plans to do its next New Glenn rocket launch in January 2027, according to CNBC and the Financial Times, which cite a memo from CEO Dave Limp sent to staff. The new timeline follows a May launchpad explosion that damaged Blue Origin's New Glenn launchpad ahead of a flight that would have brought […]</description>
-      <pubDate>Thu, 05 Nov 2026 20:47:14 +0000</pubDate>
-      <guid>https://www.theverge.com/science/1028178/blue-origins-next-launch-now-wont-happen-until-2027</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>Динамические списки GPIO-линий: пакетные операции с группами выводов на современном C++</title>
-      <link>https://habr.com/ru/articles/1104222/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104222</link>
-      <description>Введение GPIO-линии - это базовая периферия любого микроконтроллера и первое с чего начинают знакомство с новым МК. Чего может быть проще помигать светодиодом. Библиотеки производителей МК, также как и сторонние, обычно предоставляют функции записи одной линии типа HAL_GPIO_WritePin, digitalWrite, либо же запись всего порта. А часто требуется управлять сразу группой разрозненных GPIO-линий: светодиодная лента, 7-сегментный индикатор, параллельная шина данных, матричная клавиатура и т.д. С конфиг</description>
-      <pubDate>Thu, 05 Nov 2026 20:42:02 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1104222/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104222</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>[Перевод] Уравнения общей теории относительности Эйнштейна: объясняем простым языком</title>
-      <link>https://habr.com/ru/articles/1104140/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104140</link>
-      <description>Итан Сигел (американский астрофизик‑теоретик и научный журналист, автор рубрики «Спросите Итана», один из пропагандистов современных научных знаний), пытается на пальцах объяснить уравнение Эйшнтейна, определяющее общую теорию относительности. Эта теория невероятно сложна с математической точки зрения. @avshkol перевел эту статью, чтобы любой, кто не готов к резкому погружению в сложный мир тензорных вычислений, смог понять основные принципы того, как устроено пространство-время и как именно мас</description>
-      <pubDate>Thu, 05 Nov 2026 20:31:36 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1104140/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104140</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Сделал меньше работы — стало медленнее: как я выиграл Кубок СЭРПАС 2026 на Эльбрусе. Часть 1</title>
-      <link>https://habr.com/ru/articles/1104198/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104198</link>
-      <description>Я убрал из своего решения 60% работы, а программа стала медленнее. На Эльбрусе такое бывает чаще, чем кажется: параллельность здесь заранее расписывает компилятор, и «хитрый» код с проверками и прыжками по памяти проигрывает простому, но ровному циклу. Этой осенью я выиграл Кубок СЭРПАС 2026, соревнование по оптимизации программ на C/C++ под процессоры Эльбрус, и в трёх статьях рассказываю, как решал задачи и что на e2k работает не так, как на x86. В первой части: чем Эльбрус отличается от привы</description>
-      <pubDate>Thu, 05 Nov 2026 19:48:37 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1104198/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104198</guid>
-      <category>Все публикации подряд на Хабре</category>
     </item>
   </channel>
 </rss>
