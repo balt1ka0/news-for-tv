@@ -5,88 +5,88 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Fri, 06 Nov 2026 03:14:12 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 11:51:13 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>OpenAI is stepping back from NDAs for data center projects</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda</link>
-      <description>Following this week's midterms where voters resoundingly voiced their opposition to data center expansion, OpenAI today announced new commitments to communities where it is working on data center projects, including that it won't use non-disclosure agreements (NDAs) with public officials. Many data center projects have come under scrutiny for relying on NDAs to hide discussions […]</description>
-      <pubDate>Fri, 06 Nov 2026 00:37:56 +0000</pubDate>
-      <guid>https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>The New York Times reportedly in talks to buy Letterboxd for $330 million</title>
-      <link>https://techcrunch.com/2026/11/05/the-new-york-times-reportedly-in-talks-to-buy-letterboxd-for-330-million/</link>
-      <description>Letterboxd, an online platform for movie lovers, has grown dramatically in recent years.</description>
-      <pubDate>Fri, 06 Nov 2026 00:07:18 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/11/05/the-new-york-times-reportedly-in-talks-to-buy-letterboxd-for-330-million/</guid>
+      <title>Tesla will stop making the Cybertruck in 2027</title>
+      <link>https://techcrunch.com/2026/11/06/tesla-will-stop-making-the-cybertruck-in-2027/</link>
+      <description>Elon Musk said the company will use the factory space to make more Cybercabs.</description>
+      <pubDate>Fri, 06 Nov 2026 11:50:10 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/11/06/tesla-will-stop-making-the-cybertruck-in-2027/</guid>
       <category>TechCrunch</category>
     </item>
     <item>
-      <title>Airbnb is working on an AI travel agent</title>
-      <link>https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings</link>
-      <description>Airbnb plans to roll out an AI agent in the first half of 2027 that will help users plan and book travel, the company said in its Q3 2026 earnings shareholder letter released today. "Today's AI agents are good at simple, routine tasks, like making a restaurant reservation or scheduling an appointment," Airbnb said. "But […]</description>
-      <pubDate>Fri, 06 Nov 2026 00:06:12 +0000</pubDate>
-      <guid>https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings</guid>
-      <category>The Verge</category>
+      <title>Как нанимают джунов в Японии: взгляд той, кто сама проводит собеседования</title>
+      <link>https://habr.com/ru/articles/1104510/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104510</link>
+      <description>Я работаю инженером в японской B2B SaaS-компании и недавно начала собеседовать выпускников. Рассказываю, как здесь устроен найм джунов и как всё это выглядит изнутри. А заодно хочу узнать, как это происходит в России. Читать далее</description>
+      <pubDate>Fri, 06 Nov 2026 11:41:24 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1104510/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104510</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Meta, Google, and TikTok sue California AG over teen social media law</title>
-      <link>https://techcrunch.com/2026/11/05/meta-google-and-tiktok-sue-california-ag-over-teen-social-media-law/</link>
-      <description>If it goes into effect next year, this California law would restrict social media access for children under 16.</description>
-      <pubDate>Fri, 06 Nov 2026 00:01:38 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/11/05/meta-google-and-tiktok-sue-california-ag-over-teen-social-media-law/</guid>
-      <category>TechCrunch</category>
+      <title>Как мы реализовали полный производственный цикл работы с ИИ-агентами</title>
+      <link>https://habr.com/ru/articles/1104494/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104494</link>
+      <description>Мы с партнёром @skazkin развиваем компанию, в которой код пишут ИИ-агенты. Для этой работы мы разработали и внедрили производственный процесс: от подготовки требований до приёмки системы и сопровождения поставленных версий. Хотим поделиться тем, как он устроен и какими средствами реализован. Мой участок в этой работе — архитектура процесса. Кто определяет правильное поведение системы, откуда агент получает задание, чем подтверждается результат, что происходит при расхождении. Ниже разберём маршр</description>
+      <pubDate>Fri, 06 Nov 2026 11:29:06 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1104494/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104494</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>The New York Times is in talks to buy Letterboxd for around $330 million</title>
-      <link>https://www.theverge.com/news/1028375/the-new-york-times-letterboxd-acquisition-report</link>
-      <description>The New York Times Company is in talks"exclusive negotations" to acquire Letterboxd, the social network for film lovers, for around $330 million, The New York Times reports. The Times Company, Sony Pictures Entertainment, and A24 were all recently rumored to be among those interested in buying Letterboxd. The negotiations with the Times Company have included […]</description>
-      <pubDate>Thu, 05 Nov 2026 23:45:10 +0000</pubDate>
-      <guid>https://www.theverge.com/news/1028375/the-new-york-times-letterboxd-acquisition-report</guid>
-      <category>The Verge</category>
+      <title>Scientists just found dinosaur blood that survived 115 million years</title>
+      <link>https://www.sciencedaily.com/releases/2026/11/261105224542.htm</link>
+      <description>Scientists have discovered chemically confirmed traces of ancient blood inside 115-million-year-old dinosaur bones, challenging assumptions about how long biological molecules can survive. The extraordinary preservation could unlock new clues about dinosaur physiology and even help scientists search for ancient life elsewhere in the universe.</description>
+      <pubDate>Fri, 06 Nov 2026 11:28:01 +0000</pubDate>
+      <guid>https://www.sciencedaily.com/releases/2026/11/261105224542.htm</guid>
+      <category>All Top News -- ScienceDaily</category>
     </item>
     <item>
-      <title>T-Mobile owner on Elon Musk launching a wireless carrier: ‘Welcome to the party’</title>
-      <link>https://www.theverge.com/tech/1028346/t-mobile-deutsche-telecom-spacex-starlink-mobile</link>
-      <description>The head of T-Mobile's parent company is casting doubt on SpaceX's plans to make Starlink Mobile a "major" carrier in the US. During an earnings call on Thursday, Deutsche Telekom CEO Tim Höttges says he takes the Elon Musk-owned company "super serious," but that it will cost at least $200 billion to pull off: He […]</description>
-      <pubDate>Thu, 05 Nov 2026 23:17:10 +0000</pubDate>
-      <guid>https://www.theverge.com/tech/1028346/t-mobile-deutsche-telecom-spacex-starlink-mobile</guid>
-      <category>The Verge</category>
+      <title>Wrap PL/SQL в Oracle 7.2–9.2: DIANA, слои преобразования и формат V1</title>
+      <link>https://habr.com/ru/articles/1104428/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104428</link>
+      <description>За последние два года мне несколько раз пришлось восстанавливать завёрнутый код Oracle версий 7.2-9.2. Имевшаяся утилита 1993 года, рассчитанная на PL/SQL 2.2, помогла несильно: код нужно было довести до уровня, пригодного для отладки. Я погрузился в тему, и эта статья - сводка того, что удалось выяснить о формате V1 в ходе реализации законченного unwrapper-а. Читать далее</description>
+      <pubDate>Fri, 06 Nov 2026 11:23:37 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1104428/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104428</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Airbnb says it’s launching an AI travel agent in the first half of 2027</title>
-      <link>https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/</link>
-      <description>Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.</description>
-      <pubDate>Thu, 05 Nov 2026 22:40:55 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/</guid>
-      <category>TechCrunch</category>
+      <title>Скелет для ИИ: почему BPM-платформа важнее модели</title>
+      <link>https://habr.com/ru/companies/diasoft_company/articles/1104490/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104490</link>
+      <description>Привет, Хабр! На связи Илья Виноградов, руководитель команды «Технологическая платформа Digital Q.BPM». В этой статье расскажу, как ИИ-агенты Digital Q.BPM работают внутри платформы и поясню, почему именно платформа, а не модель, делает прикладные решения, созданные с помощью искусственного интеллекта, пригодными для промышленной эксплуатации и сопровождения. Читать далее</description>
+      <pubDate>Fri, 06 Nov 2026 11:19:00 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/diasoft_company/articles/1104490/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104490</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Perplexity launches its own take on AI agents for work</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work</link>
-      <description>Perplexity is taking on OpenAI and Anthropic with its own work-focused AI agents. The startup's new always-on "Teammates" can take on multiple roles within a workspace, while pulling existing projects, skills, and memory from the Perplexity tools you already use. Teammates integrate with Perplexity Computer, an AI system that can deploy agents on your device […]</description>
-      <pubDate>Thu, 05 Nov 2026 22:26:50 +0000</pubDate>
-      <guid>https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work</guid>
-      <category>The Verge</category>
+      <title>База знаний на максималках: как ИИ-агенты с помощью QA сами наполняют общую память тестирования</title>
+      <link>https://habr.com/ru/companies/vkusvill/articles/1104486/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104486</link>
+      <description>Всем привет! Меня зовут Олег Малышев , я один из лидеров стека тестирования в компании «ТехВилл». Мы продолжаем разговор о том, как применять ИИ в тестировании так, чтобы он снимал рутину. Читать далее</description>
+      <pubDate>Fri, 06 Nov 2026 11:16:21 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/vkusvill/articles/1104486/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104486</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Salon is shutting down after 31 years</title>
-      <link>https://www.theverge.com/news/1028281/salon-dot-com-shuts-down</link>
-      <description>Salon launched 31 years ago as one of the first online-only news magazine outlets, and it announced today in an unsigned post that it's ceasing publication. The company said that the "business realities of independent digital journalism have changed profoundly over the years," and it decided that its publishing model is "no longer sustainable." It […]</description>
-      <pubDate>Thu, 05 Nov 2026 22:08:14 +0000</pubDate>
-      <guid>https://www.theverge.com/news/1028281/salon-dot-com-shuts-down</guid>
-      <category>The Verge</category>
+      <title>Игра vs. презентация. Как побеждать на геймджемах?</title>
+      <link>https://habr.com/ru/companies/lesta/articles/1104160/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104160</link>
+      <description>Геймджем — отличный способ быстро найти новые идеи и проверить необычные гипотезы. Его участники с головой уходят в разработку и креатив, не тратя время на синки. Точно так же, как участники хакатонов, соревнований прототипов и т. д., поскольку суть у этих ивентов одна: времени и ресурсов мало, а результат нужно показать быстро. А что мы подразумеваем под «показать результат»? Сделать самую крутую игру, которая продемонстрирует вообще всё, что вы умеете как разработчик? Мне кажется, нет. Вы може</description>
+      <pubDate>Fri, 06 Nov 2026 11:16:00 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/lesta/articles/1104160/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104160</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>The midterms proved once and for all that X is not real life</title>
-      <link>https://www.theverge.com/policy/1028253/midterm-elections-x-right-wing-memes</link>
-      <description>A week before the midterm elections, Vice President JD Vance hosted a town hall in Texas with Fox News host Jesse Watters. It was a friendly event with a friendly audience in what should have been a friendly state, and maybe that's why Vance couldn't help himself. When a college student earnestly asked how the […]</description>
-      <pubDate>Thu, 05 Nov 2026 21:55:00 +0000</pubDate>
-      <guid>https://www.theverge.com/policy/1028253/midterm-elections-x-right-wing-memes</guid>
-      <category>The Verge</category>
+      <title>Как устроен.task в SwiftUI</title>
+      <link>https://habr.com/ru/articles/1104482/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104482</link>
+      <description>Вы задумывались, что такое модификатор .task {..} в SwiftUI? Со стороны это просто особый Task {..} для вью. Он и выглядит как Task {..} с точкой спереди, и это сходство сбивает с толку. Я так к нему и относился: асинхронный блок, который SwiftUI запускает при появлении вью. Документация Apple говорит, что задача живет, пока вью сохраняет идентичность (identity), и SwiftUI отменяет ее, когда вью идентичность теряет, а про появление упоминает вскользь, одной фразой «Adds an asynchronous task to p</description>
+      <pubDate>Fri, 06 Nov 2026 11:08:59 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1104482/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104482</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Как получить бесплатные токены от OpenAI и Anthropic</title>
+      <link>https://habr.com/ru/articles/1104480/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104480</link>
+      <description>С октября Anthropic и OpenAI возвращают 100% стоимости подписки в виде API-кредитов. Если вы, как и я, оплачиваете подписки на Claude и ChatGPT, чтобы разрабатывать софт с помощью AI, и при этом отдельно пополняете API-баланс для работы своих приложений, это может быть очень выгодно. Теперь, если вы платите $100 в месяц за Claude Max или ChatGPT Pro, то получаете еще $100 API-кредитами на свою API-организацию и можете тратить их на работу собственных приложений. «Организация» здесь — это просто </description>
+      <pubDate>Fri, 06 Nov 2026 11:03:24 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1104480/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104480</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
   </channel>
 </rss>
