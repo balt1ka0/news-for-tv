@@ -5,88 +5,88 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Sat, 07 Nov 2026 17:30:52 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 21:29:55 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Binance CFO is leaving to ‘pursue a new venture’ after $6.3 billion hack</title>
-      <link>https://techcrunch.com/2026/11/07/binance-cfo-is-leaving-to-pursue-a-new-venture-after-6-3-billion-hack/</link>
-      <description>The announcement comes barely more than a week after hackers stole $6.3 billion worth of cryptocurrency from Binance users.</description>
-      <pubDate>Sat, 07 Nov 2026 17:24:07 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/11/07/binance-cfo-is-leaving-to-pursue-a-new-venture-after-6-3-billion-hack/</guid>
+      <title>Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo</title>
+      <link>https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/</link>
+      <description>A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.</description>
+      <pubDate>Sat, 07 Nov 2026 21:17:08 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/</guid>
       <category>TechCrunch</category>
     </item>
     <item>
-      <title>[Перевод] Естественность: полезный принцип, но не абсолютное правило</title>
-      <link>https://habr.com/ru/articles/1102330/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102330</link>
-      <description>Итан Сигел (американский астрофизик‑теоретик и научный журналист, автор рубрики «Спросите Итана», один из пропагандистов современных научных знаний), разбирает вопрос о «естественности», или, скорее о кажущейся нам «неестественности» соотношений некоторых физических величин. Одни нам кажутся подозрительно близкими, другие непонятно почему различаются на многие порядки... @avshkol сделал перевод этой статьи, чтобы разобраться в том, где «неестественность» кажущаяся, всего лишь отражение природы т</description>
-      <pubDate>Sat, 07 Nov 2026 17:23:33 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1102330/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102330</guid>
+      <title>Ratcast — бессерверный стриминг как альтернатива Discord но не совсем</title>
+      <link>https://habr.com/ru/articles/1104990/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104990</link>
+      <description>Всем привет! Решил посвятить отдельную статью своему приложению ratcast, которое я вскользь упоминал в прошлой статье. Оно работает по аналогии с конференциями в Discord и сосредоточено именно на этой функции. Приложение построено на моей сетевой библиотеке librats, но, в отличие от Discord, имеет полностью P2P-архитектуру: участники связываются друг с другом напрямую (и не только). В этой статье я не буду подробно останавливаться на сетевых особенностях librats, о них можно почитать в прошлой с</description>
+      <pubDate>Sat, 07 Nov 2026 21:00:19 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1104990/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104990</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>The UV-tracking Gem made me rethink how sunlight affects my health, not just my appearance</title>
-      <link>https://www.theverge.com/tech/1023230/the90-gem-necklace-hands-on-impressions</link>
-      <description>With temperatures rising to the 90s in Los Angeles, avoiding the heat wasn't exactly an option while I was at a relative's outdoor party in August. So I sat beneath a patio umbrella with a powerful fan nearby, figuring I was protected from the sun and heat. Half an hour later, I felt exhausted, dizzy, […]</description>
-      <pubDate>Sat, 07 Nov 2026 17:00:00 +0000</pubDate>
-      <guid>https://www.theverge.com/tech/1023230/the90-gem-necklace-hands-on-impressions</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>Arca: мой взгляд на то, как генеалогическому софту следует подходить к хранению данных</title>
-      <link>https://habr.com/ru/articles/1098948/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098948</link>
-      <description>Несколько лет назад мне захотелось заняться составлением своего генеалогического древа. Я опробовал различные существующие инструменты для этого и не могу сказать, что остался в большом восторге. Во-первых, у подавляющего числа из них интерфейс, мягко говоря, оставлял желать лучшего, а во-вторых, большинство из них подразумевало хранение информации о всех своих близких где-то на серверах этих сервисов (причём ряд из них сейчас вовсе недоступен напрямую из России, что удобства не добавляет). Разу</description>
-      <pubDate>Sat, 07 Nov 2026 16:50:46 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1098948/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098948</guid>
+      <title>[Перевод] ReactOS: итоги хакфеста во Флориде — новые возможности ядра, поддержка NTFS, SMP и перспективы перехода на NT 6+</title>
+      <link>https://habr.com/ru/articles/1104986/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104986</link>
+      <description>В рамках проекта ReactOS регулярно проводятся хакфесты — многодневные встречи разработчиков и участников сообщества, посвящённые совместной работе над операционной системой. Такие мероприятия позволяют продвигать не только разработку фундаментальных компонентов ОС, но и совершенствовать внутренние регламенты, правила и процессы управления проектом. В этом году состоялось два хакфеста. Первый прошёл во время и после конференции Chemnitzer Linux-Tage (CLT), с 28 марта по 4 апреля. Второй состоялся</description>
+      <pubDate>Sat, 07 Nov 2026 20:31:28 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1104986/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104986</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Нейроответ Google появляется почти под каждым запросом в поиске. Что это значит для продвижения в ответах ИИ</title>
-      <link>https://habr.com/ru/articles/1104954/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104954</link>
-      <description>AI Overviews — нейроответ, который Google ставит над обычной выдачей. По слухам, что этот ответ стоит уже над 80% запросов. В первоисточниках так выходит только у Semrush , и только на 400 коммерческих ключах по десктопу США, а в других замерах получилось 30% и 18%. О проектах в Рунете эти цифры почти ничего не говорят: Яндекс не публикует, у какой доли запросов есть ответ Алисы AI, а каждый отчёт по Google описывает Google и набор запросов конкретного сервиса. Цифра больше 80% — свойство выборк</description>
-      <pubDate>Sat, 07 Nov 2026 16:42:27 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1104954/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104954</guid>
+      <title>[Перевод] Странная квантовая теорема добила реальность Эйнштейна: история теоремы PBR</title>
+      <link>https://habr.com/ru/articles/1104976/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104976</link>
+      <description>Эйнштейн считал, что волновая функция похожа на прогноз погоды: описывает не сам мир, а наше неполное знание о нём. Белл в 1964 году показал, что мир не может быть одновременно реальным и локальным, но лазейка для идеи Эйнштейна осталась. В 2012 году Мэтью Пьюзи, Джонатан Барретт и Терри Рудольф доказали теорему PBR: если у мира есть объективное состояние и реальные состояния независимо приготовленных систем не влияют друг на друга, то квантовое состояние входит в эту реальность и не сводится к </description>
+      <pubDate>Sat, 07 Nov 2026 19:12:33 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1104976/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104976</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>ИИ-агенты решили 99,4% задач. Но сначала 23 инженера 404 часа чинили сам экзамен</title>
-      <link>https://habr.com/ru/articles/1104950/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104950</link>
-      <description>Представьте, что вы нанимаете программиста. Даёте ему 100 задач из реальных проектов, проверяете решения автоматическими тестами и получаете результат: 99 правильных. Впечатляет. Особенно если программист — нейросеть. Но затем выясняется, что часть экзаменационных заданий составлена неправильно. Некоторые тесты отвергают работающий код. Другие принимают неполные исправления. А в отдельных случаях испытуемый может найти готовый ответ в интернете. Именно с такой проблемой столкнулись исследователи</description>
-      <pubDate>Sat, 07 Nov 2026 16:29:52 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1104950/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104950</guid>
+      <title>Быстрее, проще, глупее: скрытая цена ИИ‑помощников</title>
+      <link>https://habr.com/ru/articles/1104974/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104974</link>
+      <description>Мы привыкли считать, что хороший интерфейс — это интерфейс, который снимает с человека лишнее умственное усилие. Для обычного продукта это верно: пользователь пришёл решить задачу, а не научиться чему-то. С ИИ-ассистентами эта логика перестаёт работать. Они убирают не только лишнее усилие, но и ту работу с материалом, из которой складывается навык. Разберёмся, какая нагрузка мешает, какая нужна и почему продукту с ИИ одного снижения внешней нагрузки мало. Читать далее</description>
+      <pubDate>Sat, 07 Nov 2026 19:09:03 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1104974/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104974</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Один роутер, разные стратегии: NFQWS2 для ASUS и OpenWrt</title>
-      <link>https://habr.com/ru/articles/1104946/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104946</link>
-      <description>В первой статье «Как я адаптировал nfqws2 для ASUS и добавил поддержку OpenWrt» я рассказал, как установить проект и настроить общую стратегию. Теперь покажу, как назначать разные стратегии устройствам, проверять результат и переносить удачные настройки. Всё ниже доступно в Build 99 . Читать далее</description>
-      <pubDate>Sat, 07 Nov 2026 16:13:10 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1104946/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104946</guid>
+      <title>Как я предсказал просмотры на Хабре через ML</title>
+      <link>https://habr.com/ru/articles/1104972/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104972</link>
+      <description>Чуть больше года назад у меня вышла статья про биржу Kwork ( ссылка на статью ). Она набрала 30 000 просмотров. Результат неплохой, но в топе того же хабра лежат публикации по 150 000 и 350 000 просмотров. Мне стало интересно, почему одни статьи собирают пару тысяч просмотров, а другие читают сотнями тысяч. Я решил проверить это с помощью Python и машинного обучения. План был простой: собрать статистику по статьям из моего хаба, оценить качество текстов через языковую модель, загрузить все метри</description>
+      <pubDate>Sat, 07 Nov 2026 19:02:07 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1104972/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104972</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>[Перевод] Mac сам вычисляет вашу семью: разбор недокументированного графа знаний macOS</title>
-      <link>https://habr.com/ru/articles/1104944/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104944</link>
-      <description>Начиная с macOS 13 два демона, knowledgeconstructiond и intelligenceplatformd, строят на каждом Mac граф о владельце и людях вокруг него. В каталоге ~/Library/IntelligencePlatform лежит 51 SQLite-база, а в graph.db — триплеты по словарю из 181 класса и 278 предикатов. Пара XGBoost-классификаторов по 144 признакам, в основном по тому, кому вы пишете и с кем фотографируетесь в какой день и час, оценивает, кто вам семья, а кто семья или друзья. Ещё пятнадцать столбцов, от матери до коллеги, заполня</description>
-      <pubDate>Sat, 07 Nov 2026 16:12:46 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1104944/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104944</guid>
+      <title>Parents want safer phones for kids. These companies are answering the call.</title>
+      <link>https://techcrunch.com/2026/11/07/parents-want-safer-phones-for-kids-these-companies-are-answering-the-call/</link>
+      <description>As parents look for alternatives to unrestricted smartphones, a growing number of companies are building phones designed specifically for kids, from feature-limited mobile devices to minimalist home phones.</description>
+      <pubDate>Sat, 07 Nov 2026 19:00:00 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/11/07/parents-want-safer-phones-for-kids-these-companies-are-answering-the-call/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>SoundCloud для Mac, которого у SoundCloud нет</title>
+      <link>https://habr.com/ru/articles/1104970/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104970</link>
+      <description>Я слушаю SoundCloud каждый день, а на Mac у него есть только сайт. Поэтому я написал Nimbus — нативный клиент на SwiftUI и AppKit: треки сменяют друг друга без паузы, работают медиаклавиши и Now Playing, музыку можно отправить на Chromecast, а полноэкранный режим превращает трек в пластинку. Внутри — куда уходят полторы секунды между треками, почему SwiftUI пришлось посадить на AppKit и как подружить Mac с Chromecast, для которого нет SDK под macOS. Как это устроено</description>
+      <pubDate>Sat, 07 Nov 2026 18:33:06 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1104970/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104970</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Costco members can get $5 off the reimagined Ocarina of Time</title>
-      <link>https://www.theverge.com/gadgets/1028917/legend-of-zelda-ocarina-of-time-remake-switch-2-costco-deal-sale</link>
-      <description>While some retailers were offering preorder discounts on the remastered Legend of Zelda: The Ocarina of Time, it’s not too late to save if you missed out. Costco members can currently get $5 off the digital version online, bringing the price down to $54.99. Considering an annual Costco membership runs $65, that discount almost offsets […]</description>
-      <pubDate>Sat, 07 Nov 2026 16:00:00 +0000</pubDate>
-      <guid>https://www.theverge.com/gadgets/1028917/legend-of-zelda-ocarina-of-time-remake-switch-2-costco-deal-sale</guid>
-      <category>The Verge</category>
+      <title>Доверяй, но проверяй: 12 выводов о Human‑in‑the‑Loop с LLM</title>
+      <link>https://habr.com/ru/articles/1095740/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095740</link>
+      <description>Сейчас LLM всё чаще внедряют в работающие бизнес-процессы: поиск и сбор информации, структурирование данных, проверку и публикацию. При этом цена одной ошибки модели бывает довольно высокой: это потерянные деньги, врея и репутация в глазах клиентов. Снизить этот риск помогает принцип Human-in-the-Loop: в процесс добавляется человек, который валидирует данные. В этой статье собраны наши выводы на примере двух реальных бизнес-задач : автоматического перевода и поиска размерных сеток. Читать далее</description>
+      <pubDate>Sat, 07 Nov 2026 18:22:07 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1095740/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095740</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Discogs’ Kevin Lewandowski can’t live without his AeroPress</title>
-      <link>https://www.theverge.com/tech/1029474/discogs-kevin-lewandowski-aeropress-interview</link>
-      <description>Twenty-five years ago, Kevin Lewandowski founded Discogs, arguably the destination online for obsessive vinyl collectors and music nerds of all stripes. It is a marketplace for buying and selling records, obviously, but it's also become so much more. It's a shockingly comprehensive database that covers not just albums and singles, but all the various versions […]</description>
-      <pubDate>Sat, 07 Nov 2026 16:00:00 +0000</pubDate>
-      <guid>https://www.theverge.com/tech/1029474/discogs-kevin-lewandowski-aeropress-interview</guid>
-      <category>The Verge</category>
+      <title>Затестил Kimi AI, Qwen, DeepSeek и Grok на работе с текстами. Делюсь результатами</title>
+      <link>https://habr.com/ru/articles/1104964/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104964</link>
+      <description>Нейросеть получает статью на редактуру и возвращает гладкий текст, в котором автора уже не узнать. В препринте 2026 года исследователи из Berkeley, Google DeepMind и других организаций показали, что ИИ-модели меняют смысл текста, даже когда их просят исправить только грамматику. Kimi AI, Qwen, DeepSeek и Grok всё чаще пробуют для текстов вместо ChatGPT, и выбирать среди них редактора на глаз рискованно. По умолчанию нейросеть, которой дали текст на редактуру, переписывает его, хотя просили тольк</description>
+      <pubDate>Sat, 07 Nov 2026 18:08:56 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1104964/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104964</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
   </channel>
 </rss>
