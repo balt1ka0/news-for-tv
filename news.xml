@@ -5,9 +5,57 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Fri, 06 Nov 2026 23:40:10 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 04:53:44 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>From the front row to the hot seat — what the midterms mean for Big Tech</title>
+      <link>https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/</link>
+      <description>After spending two years getting cozy with the White House, Big Tech is suddenly trying to make friends with Democrats, and the open question is whether that image makeover can hold up against what states, local communities, and the markets are about to do.</description>
+      <pubDate>Sat, 07 Nov 2026 04:16:43 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>[Перевод] Стерео 44,1 кГц на Nintendo 64 за 4% времени процессора: малоизвестный кодек ULC</title>
+      <link>https://habr.com/ru/articles/1104788/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104788</link>
+      <description>На Nintendo 64 пятиминутный стереотрек в ADPCM занимал около 12 МБ, а Opus на этой консоли слишком медленный для использования во время игры. Автор форматов QOI и QOA Доминик Шаблевски нашёл кодек ULC из демо для Game Boy Advance и перенёс его на векторный сопроцессор RSP с 4 КБ памяти данных. В статье разобраны упаковка коэффициентов по полубайтам, выбор 16-битной фиксированной точки и то, как Codex помогал писать ассемблер. Итог: стерео 44 100 Гц за 4% времени процессора и 5% времени RSP. Чита</description>
+      <pubDate>Sat, 07 Nov 2026 04:06:37 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1104788/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104788</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Вы просили AI-помощника исправить баг…</title>
+      <link>https://habr.com/ru/articles/1104786/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104786</link>
+      <description>В какой момент можно спокойно принять работу AI-помощника? Обычно после просмотра правки и запуска тестов. Лишнего не поменял, ошибку исправил, проект работает. Кажется, на этом можно заканчивать. Хотелось увидеть не только то, что помощник оставил у нас на диске, но и то, что получил сервер модели (и оставил у себя). Посмотреть</description>
+      <pubDate>Sat, 07 Nov 2026 04:04:27 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1104786/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104786</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Crusoe sells troubled Wyoming data center project to Google</title>
+      <link>https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/</link>
+      <description>The deal highlights the challenges of developing massive AI data centers.</description>
+      <pubDate>Sat, 07 Nov 2026 01:40:28 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>Как я разработал Geo Collector: бесплатная мобильная ГИС для iPhone без рекламы и обязательных подписок</title>
+      <link>https://habr.com/ru/articles/1104784/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104784</link>
+      <description>React Native, Expo, GPS-трекинг, геоданные и немного размышлений о том, какой должна быть модель распространения небольшого независимого приложения. Привет, Хабр! Некоторое время назад я решил попробовать себя в разработке мобильных приложений. До этого основная часть моих проектов была связана с анализом данных, геоинформационными системами, образовательным программным обеспечением и серверными решениями. Одним из результатов стал Geo Collector – мобильное приложение для iPhone, предназначенное</description>
+      <pubDate>Sat, 07 Nov 2026 00:41:53 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1104784/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104784</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation</link>
+      <description>OpenAI is now valued at $1.25 trillion in a new round of funding that has raised another $11 billion, according to Bloomberg. That would make it one of the world's most valuable companies, not long after raising $122 billion from investors in March at a valuation of $852 billion. Echoing FT and Wall Street Journal […]</description>
+      <pubDate>Fri, 06 Nov 2026 23:46:18 +0000</pubDate>
+      <guid>https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation</guid>
+      <category>The Verge</category>
+    </item>
     <item>
       <title>China reportedly recruited AI exec to spy on Jensen Huang</title>
       <link>https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy</link>
@@ -38,54 +86,6 @@
       <description>В прошлой статье мы выкатили концепт ZAP (Zero-Annihilation Processor) и рассказали, как приспособить существующие ASIC-майнеры под роль аппаратных ускорителей для поиска пространственных коллизий. Но давайте честно: сбор сырых хэшей — это только половина дела, просто фаза накопления данных. Самый сок в том, как эти события интерпретировать. В этой публикации мы разберем ZAP Logic Layer (ZLL). Это такой программно-аппаратный мост, который превращает хаос асинхронных коллизий от майнеров в нормал</description>
       <pubDate>Fri, 06 Nov 2026 22:01:37 +0000</pubDate>
       <guid>https://habr.com/ru/articles/1104772/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104772</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>KPop Demon Hunters on 4K Blu-ray costs less than a month of Netflix Premium</title>
-      <link>https://www.theverge.com/gadgets/1028640/kpop-demon-hunters-4k-criterion-bluray-deal-sale</link>
-      <description>Buying the 4K Blu-ray disc version of KPop Demon Hunters was already going to be a wise idea for some people, especially those who primarily keep their $26.99 Netflix Premium subscription just to watch the hit animated flick in 4K. But at just $24.99 from Barnes and Noble and Amazon instead of its original $49.95 […]</description>
-      <pubDate>Fri, 06 Nov 2026 21:50:32 +0000</pubDate>
-      <guid>https://www.theverge.com/gadgets/1028640/kpop-demon-hunters-4k-criterion-bluray-deal-sale</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>The Duo apps are coming, says Apple</title>
-      <link>https://techcrunch.com/2026/11/06/the-duo-apps-are-coming-says-apple/</link>
-      <description>There are now 100,000 Duo-optimized apps, says Apple, and thousands more arrive daily.</description>
-      <pubDate>Fri, 06 Nov 2026 21:38:05 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/11/06/the-duo-apps-are-coming-says-apple/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>All the latest updates on AI data centers</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy</link>
-      <description>Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the world over their impact on power grids, utility bills, nearby communities, and the environment. Data centers were a major bipartisan issue ahead […]</description>
-      <pubDate>Fri, 06 Nov 2026 20:02:22 +0000</pubDate>
-      <guid>https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>Shure’s popular podcasting and streaming mic is almost $50 off</title>
-      <link>https://www.theverge.com/gadgets/1028846/shure-mv7-plus-podcasting-streaming-mic-deal-sale</link>
-      <description>While the Shure Mv7 Plus is popular with streamers and podcasters, it’s equally good at impressing your friends and coworkers on meetings and Discord calls. It’s currently marked down to $255 at various retailers, including Amazon, Guitar Center, and directly from Shure. That’s almost $50 lower than its usual price, and just a few dollars […]</description>
-      <pubDate>Fri, 06 Nov 2026 19:47:02 +0000</pubDate>
-      <guid>https://www.theverge.com/gadgets/1028846/shure-mv7-plus-podcasting-streaming-mic-deal-sale</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>Откуда нейросети берут информацию и почему для ответов ChatGPT и Claude сайту бренда мало топа Яндекса</title>
-      <link>https://habr.com/ru/articles/1104752/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104752</link>
-      <description>Чтобы попасть в ответы Claude, сайту бренда мало топа Яндекса и Google: он может стоять там высоко и всё равно не попадать в ответы. Peec сверил ссылки Claude с выдачей Brave: из 100 страниц, которые Claude цитирует, 89 нашлись в первых 20 результатах этого поисковика. Почти девять из десяти, и это у поисковика, которого в SEO-отчётах обычно нет вовсе. У ChatGPT и Алисы AI тоже свой поставщик выдачи, поэтому позиции сайта надо смотреть там, откуда берёт ссылки нужная нейросеть. Читать далее</description>
-      <pubDate>Fri, 06 Nov 2026 19:37:45 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1104752/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104752</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>[Перевод] Прогнал агента на $90 тысяч с разными техниками тестирования: TDD снова в хвосте</title>
-      <link>https://habr.com/ru/articles/1104744/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104744</link>
-      <description>Дэн Лу дал агенту на GPT-6 Astra реализовать Pandoc и в каждом условии менял только указание, как тестировать: 25 условий по 25 прогонов, около 90 тысяч долларов по розничным ценам. Скрытые тесты разошлись от 40,5% у TDD до 45,1% у дифференциального тестирования при 44,1% без всяких указаний. Автор сам предупреждает, что данных мало, и разбирает, что из этого можно вынести, а заодно почему вирусное «тесты от ИИ доказанно бесполезны» не следует из проверки на DeepSWE. Читать далее</description>
-      <pubDate>Fri, 06 Nov 2026 19:17:07 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1104744/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104744</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
   </channel>
