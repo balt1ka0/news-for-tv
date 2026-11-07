@@ -5,88 +5,88 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Sat, 07 Nov 2026 11:32:01 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 17:30:52 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Разбивая лёд. Claude vs ТСПУ. Ноябрь 2026</title>
-      <link>https://habr.com/ru/articles/1104872/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104872</link>
-      <description>Данная статья написана исключительно в исследовательских целях и не является инструкцией по применению. Посадил я Клода в сеть Ростелекома и попросил выйти в мир. Вот что из этого вышло. Всё, что ниже - нейрослоп. Читать далее</description>
-      <pubDate>Sat, 07 Nov 2026 11:11:02 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1104872/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104872</guid>
+      <title>Binance CFO is leaving to ‘pursue a new venture’ after $6.3 billion hack</title>
+      <link>https://techcrunch.com/2026/11/07/binance-cfo-is-leaving-to-pursue-a-new-venture-after-6-3-billion-hack/</link>
+      <description>The announcement comes barely more than a week after hackers stole $6.3 billion worth of cryptocurrency from Binance users.</description>
+      <pubDate>Sat, 07 Nov 2026 17:24:07 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/11/07/binance-cfo-is-leaving-to-pursue-a-new-venture-after-6-3-billion-hack/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>[Перевод] Естественность: полезный принцип, но не абсолютное правило</title>
+      <link>https://habr.com/ru/articles/1102330/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102330</link>
+      <description>Итан Сигел (американский астрофизик‑теоретик и научный журналист, автор рубрики «Спросите Итана», один из пропагандистов современных научных знаний), разбирает вопрос о «естественности», или, скорее о кажущейся нам «неестественности» соотношений некоторых физических величин. Одни нам кажутся подозрительно близкими, другие непонятно почему различаются на многие порядки... @avshkol сделал перевод этой статьи, чтобы разобраться в том, где «неестественность» кажущаяся, всего лишь отражение природы т</description>
+      <pubDate>Sat, 07 Nov 2026 17:23:33 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1102330/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102330</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Правда ли нейросети выдумывают ссылки и почему в их ответах остаются удалённые статьи</title>
-      <link>https://habr.com/ru/articles/1104870/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104870</link>
-      <description>Под ответом нейросети стоит ссылка, она не открывается, и первая мысль — адрес выдуман. Я проверил около шестисот адресов из ответов пяти нейросетей с поиском примерно через месяц после того, как их собрал. Открылись примерно девять из десяти. Мёртвых, с кодами 404 и 410, единицы. Это адреса обычных материалов на живых площадках, а не случайный набор символов, поэтому скорее всего это удалённые статьи, а не выдумка. Когда именно их удалили, неизвестно. Поэтому риск для сайта другой: ссылка на уд</description>
-      <pubDate>Sat, 07 Nov 2026 11:06:56 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1104870/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104870</guid>
+      <title>The UV-tracking Gem made me rethink how sunlight affects my health, not just my appearance</title>
+      <link>https://www.theverge.com/tech/1023230/the90-gem-necklace-hands-on-impressions</link>
+      <description>With temperatures rising to the 90s in Los Angeles, avoiding the heat wasn't exactly an option while I was at a relative's outdoor party in August. So I sat beneath a patio umbrella with a powerful fan nearby, figuring I was protected from the sun and heat. Half an hour later, I felt exhausted, dizzy, […]</description>
+      <pubDate>Sat, 07 Nov 2026 17:00:00 +0000</pubDate>
+      <guid>https://www.theverge.com/tech/1023230/the90-gem-necklace-hands-on-impressions</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>Arca: мой взгляд на то, как генеалогическому софту следует подходить к хранению данных</title>
+      <link>https://habr.com/ru/articles/1098948/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098948</link>
+      <description>Несколько лет назад мне захотелось заняться составлением своего генеалогического древа. Я опробовал различные существующие инструменты для этого и не могу сказать, что остался в большом восторге. Во-первых, у подавляющего числа из них интерфейс, мягко говоря, оставлял желать лучшего, а во-вторых, большинство из них подразумевало хранение информации о всех своих близких где-то на серверах этих сервисов (причём ряд из них сейчас вовсе недоступен напрямую из России, что удобства не добавляет). Разу</description>
+      <pubDate>Sat, 07 Nov 2026 16:50:46 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1098948/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1098948</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Что там с китайским авиапромом</title>
-      <link>https://habr.com/ru/articles/1104858/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104858</link>
-      <description>В серии «Что там с…» уже вышли МС-21, Суперджет, Ту-214, Ил-96, Ил-114-300 и «Кукурузник», и всё это время напрашивался вопрос про соседей. Свой узкофюзеляжник C919 у Китая три с половиной года возит пассажиров . МС-21 пока летает по программе сертификации. Только вот двигатели у C919 американо-французские, шасси немецкие, управление от американской Honeywell. Строят его пока поштучно: за 2025 год авиакомпании получили 15 машин при плане 75. По дороге к нему Китай успел построить лайнер, который</description>
-      <pubDate>Sat, 07 Nov 2026 10:48:21 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1104858/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104858</guid>
+      <title>Нейроответ Google появляется почти под каждым запросом в поиске. Что это значит для продвижения в ответах ИИ</title>
+      <link>https://habr.com/ru/articles/1104954/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104954</link>
+      <description>AI Overviews — нейроответ, который Google ставит над обычной выдачей. По слухам, что этот ответ стоит уже над 80% запросов. В первоисточниках так выходит только у Semrush , и только на 400 коммерческих ключах по десктопу США, а в других замерах получилось 30% и 18%. О проектах в Рунете эти цифры почти ничего не говорят: Яндекс не публикует, у какой доли запросов есть ответ Алисы AI, а каждый отчёт по Google описывает Google и набор запросов конкретного сервиса. Цифра больше 80% — свойство выборк</description>
+      <pubDate>Sat, 07 Nov 2026 16:42:27 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1104954/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104954</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>История телефонисток AT&amp;T, или Почему технологии не могут сразу вытеснить ручной труд</title>
-      <link>https://habr.com/ru/companies/ru_mts/articles/1104560/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104560</link>
-      <description>Видите очередную статью с нытьем, что ИИ забирает рабочие функции, одну за другой? И людям осталось дорабатывать последние лет пять? Не читайте по утрам американских газет, от них портится аппетит. Не стоит думать, что автоматизация впервые пытается вытеснить людей с рынка. Общество через это уже проходило не один раз, и в истории есть примеры, показывающие, что способность LLM выполнять конкретные функции еще не означает, что человек не нужен. В конце XIX века на пике резкого развития телефонно</description>
-      <pubDate>Sat, 07 Nov 2026 10:45:47 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/ru_mts/articles/1104560/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104560</guid>
+      <title>ИИ-агенты решили 99,4% задач. Но сначала 23 инженера 404 часа чинили сам экзамен</title>
+      <link>https://habr.com/ru/articles/1104950/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104950</link>
+      <description>Представьте, что вы нанимаете программиста. Даёте ему 100 задач из реальных проектов, проверяете решения автоматическими тестами и получаете результат: 99 правильных. Впечатляет. Особенно если программист — нейросеть. Но затем выясняется, что часть экзаменационных заданий составлена неправильно. Некоторые тесты отвергают работающий код. Другие принимают неполные исправления. А в отдельных случаях испытуемый может найти готовый ответ в интернете. Именно с такой проблемой столкнулись исследователи</description>
+      <pubDate>Sat, 07 Nov 2026 16:29:52 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1104950/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104950</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>От уравнений Максвелла к анимации: реализация FDTD на PascalABC.NET</title>
-      <link>https://habr.com/ru/articles/1074684/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1074684</link>
-      <description>Заглавная иллюстрация — про электростатику; в статье же речь пойдёт о динамике: мы будем моделировать распространение электромагнитных волн и численно решать уравнения Максвелла. При этом подойдём к этой задаче более профессионально, чем в предыдущих материалах: я учёл справедливую критику и замечания читателей по поводу выбора и обоснования численного метода, оценил корректность и реалистичность схемы и результатов моделирования, привёл необходимые начальные и граничные условия для воспроизводи</description>
-      <pubDate>Sat, 07 Nov 2026 10:38:04 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1074684/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1074684</guid>
+      <title>Один роутер, разные стратегии: NFQWS2 для ASUS и OpenWrt</title>
+      <link>https://habr.com/ru/articles/1104946/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104946</link>
+      <description>В первой статье «Как я адаптировал nfqws2 для ASUS и добавил поддержку OpenWrt» я рассказал, как установить проект и настроить общую стратегию. Теперь покажу, как назначать разные стратегии устройствам, проверять результат и переносить удачные настройки. Всё ниже доступно в Build 99 . Читать далее</description>
+      <pubDate>Sat, 07 Nov 2026 16:13:10 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1104946/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104946</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Препарируем мозг Qwen 3.8 27B-1c</title>
-      <link>https://habr.com/ru/articles/1104848/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104848</link>
-      <description>Есть Qwen 3.8 27B, дообученная (SFT + LoRA) на корпусе по платформе 1С:Предприятие — модель выложена на hugging face. Модель неплохо пишет код на встроенном языке, но на языке запросов 1С регулярно ошибается: путает виртуальные таблицы, ставит параметры не туда, подмешивает конструкции из SQL, которых в 1С нет. Попытки классического подхода дообучать и дальше модель, собирая все новые и новые датасеты по языку запросов 1С, ни к чему не приводят. Выигрыш в accuracy дает меньше 1%. Ну и это долгий</description>
-      <pubDate>Sat, 07 Nov 2026 10:28:18 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1104848/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104848</guid>
+      <title>[Перевод] Mac сам вычисляет вашу семью: разбор недокументированного графа знаний macOS</title>
+      <link>https://habr.com/ru/articles/1104944/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104944</link>
+      <description>Начиная с macOS 13 два демона, knowledgeconstructiond и intelligenceplatformd, строят на каждом Mac граф о владельце и людях вокруг него. В каталоге ~/Library/IntelligencePlatform лежит 51 SQLite-база, а в graph.db — триплеты по словарю из 181 класса и 278 предикатов. Пара XGBoost-классификаторов по 144 признакам, в основном по тому, кому вы пишете и с кем фотографируетесь в какой день и час, оценивает, кто вам семья, а кто семья или друзья. Ещё пятнадцать столбцов, от матери до коллеги, заполня</description>
+      <pubDate>Sat, 07 Nov 2026 16:12:46 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1104944/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104944</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>РКНетес: Kubernetes, который банит сам себя. Исключительно ради вашей безопасности</title>
-      <link>https://habr.com/ru/articles/1104840/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104840</link>
-      <description>В этот раз Сатане позвонил я сам. Услышав, какую адскую пытку для девопсов РКН я придумал, он обозвал меня больным ублюдком, повесил трубку, сказал больше никогда ему не звонить и забыть его номер. Сегодня про РКНетес, лучший из импортозамещенных дистрибутивов K8s. Собрано, как обычно, на kuberoot . Пройдены все 462 официальных conformance-теста. Этого кубернетеса боится даже реестр Минцифры и ФСТЭК. Я по-прежнему убеждён, что у каждого человека должен быть свой Kubernetes. У татар он уже есть ,</description>
-      <pubDate>Sat, 07 Nov 2026 10:10:01 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1104840/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104840</guid>
-      <category>Все публикации подряд на Хабре</category>
+      <title>Costco members can get $5 off the reimagined Ocarina of Time</title>
+      <link>https://www.theverge.com/gadgets/1028917/legend-of-zelda-ocarina-of-time-remake-switch-2-costco-deal-sale</link>
+      <description>While some retailers were offering preorder discounts on the remastered Legend of Zelda: The Ocarina of Time, it’s not too late to save if you missed out. Costco members can currently get $5 off the digital version online, bringing the price down to $54.99. Considering an annual Costco membership runs $65, that discount almost offsets […]</description>
+      <pubDate>Sat, 07 Nov 2026 16:00:00 +0000</pubDate>
+      <guid>https://www.theverge.com/gadgets/1028917/legend-of-zelda-ocarina-of-time-remake-switch-2-costco-deal-sale</guid>
+      <category>The Verge</category>
     </item>
     <item>
-      <title>Не DeepSeek единым: 4 китайских ИИ-проекта, о которых стоит знать</title>
-      <link>https://habr.com/ru/companies/timeweb/articles/1103120/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1103120</link>
-      <description>В последние годы нейросети не просто совершили гигантский рывок вверх по качеству работы но и неплохо так разошлись вширь. Западный рынок представляет собой в первую очередь через ChatGPT, у нас Алиса и GigaCHAT вполне пытаются конкурировать а от «сборной» Китая за всех отдувается бесплатный и вполне мощный DeepSeek... А точно он один? Ну... вообще то нет. На самом деле в Китае сейчас идет настоящий бум больших языковых моделей, и многие из них не просто конкурируют с ChatGPT, но и обходят его в</description>
-      <pubDate>Sat, 07 Nov 2026 10:05:44 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/timeweb/articles/1103120/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1103120</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Human bodies produce 2 billion metric tons of CO2 a year just by staying alive</title>
-      <link>https://www.sciencedaily.com/releases/2026/11/261104012305.htm</link>
-      <description>Humans collectively produce more than 2 billion tonnes of carbon dioxide annually just by turning food into energy, a 74% increase over three decades largely driven by population growth. Unlike fossil fuel emissions, however, the CO2 we exhale is part of the natural carbon cycle, and scientists say measuring it more accurately could improve climate models.</description>
-      <pubDate>Sat, 07 Nov 2026 10:00:03 +0000</pubDate>
-      <guid>https://www.sciencedaily.com/releases/2026/11/261104012305.htm</guid>
-      <category>All Top News -- ScienceDaily</category>
-    </item>
-    <item>
-      <title>Scientists discover Europe's ancient forests were nothing like we imagined</title>
-      <link>https://www.sciencedaily.com/releases/2026/11/261104012333.htm</link>
-      <description>Scientists have uncovered evidence that Europe was dominated for more than 20 million years by open woodlands, colorful meadows, and large grazing animals, not the dense forests long considered its natural state. The surprising discovery challenges modern reforestation strategies, suggesting that planting thick forests could actually harm the biodiversity conservationists hope to protect.</description>
-      <pubDate>Sat, 07 Nov 2026 09:44:48 +0000</pubDate>
-      <guid>https://www.sciencedaily.com/releases/2026/11/261104012333.htm</guid>
-      <category>All Top News -- ScienceDaily</category>
+      <title>Discogs’ Kevin Lewandowski can’t live without his AeroPress</title>
+      <link>https://www.theverge.com/tech/1029474/discogs-kevin-lewandowski-aeropress-interview</link>
+      <description>Twenty-five years ago, Kevin Lewandowski founded Discogs, arguably the destination online for obsessive vinyl collectors and music nerds of all stripes. It is a marketplace for buying and selling records, obviously, but it's also become so much more. It's a shockingly comprehensive database that covers not just albums and singles, but all the various versions […]</description>
+      <pubDate>Sat, 07 Nov 2026 16:00:00 +0000</pubDate>
+      <guid>https://www.theverge.com/tech/1029474/discogs-kevin-lewandowski-aeropress-interview</guid>
+      <category>The Verge</category>
     </item>
   </channel>
 </rss>
