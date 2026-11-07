@@ -5,88 +5,88 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Sat, 07 Nov 2026 04:53:44 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 11:32:01 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>From the front row to the hot seat — what the midterms mean for Big Tech</title>
-      <link>https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/</link>
-      <description>After spending two years getting cozy with the White House, Big Tech is suddenly trying to make friends with Democrats, and the open question is whether that image makeover can hold up against what states, local communities, and the markets are about to do.</description>
-      <pubDate>Sat, 07 Nov 2026 04:16:43 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>[Перевод] Стерео 44,1 кГц на Nintendo 64 за 4% времени процессора: малоизвестный кодек ULC</title>
-      <link>https://habr.com/ru/articles/1104788/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104788</link>
-      <description>На Nintendo 64 пятиминутный стереотрек в ADPCM занимал около 12 МБ, а Opus на этой консоли слишком медленный для использования во время игры. Автор форматов QOI и QOA Доминик Шаблевски нашёл кодек ULC из демо для Game Boy Advance и перенёс его на векторный сопроцессор RSP с 4 КБ памяти данных. В статье разобраны упаковка коэффициентов по полубайтам, выбор 16-битной фиксированной точки и то, как Codex помогал писать ассемблер. Итог: стерео 44 100 Гц за 4% времени процессора и 5% времени RSP. Чита</description>
-      <pubDate>Sat, 07 Nov 2026 04:06:37 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1104788/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104788</guid>
+      <title>Разбивая лёд. Claude vs ТСПУ. Ноябрь 2026</title>
+      <link>https://habr.com/ru/articles/1104872/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104872</link>
+      <description>Данная статья написана исключительно в исследовательских целях и не является инструкцией по применению. Посадил я Клода в сеть Ростелекома и попросил выйти в мир. Вот что из этого вышло. Всё, что ниже - нейрослоп. Читать далее</description>
+      <pubDate>Sat, 07 Nov 2026 11:11:02 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1104872/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104872</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Вы просили AI-помощника исправить баг…</title>
-      <link>https://habr.com/ru/articles/1104786/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104786</link>
-      <description>В какой момент можно спокойно принять работу AI-помощника? Обычно после просмотра правки и запуска тестов. Лишнего не поменял, ошибку исправил, проект работает. Кажется, на этом можно заканчивать. Хотелось увидеть не только то, что помощник оставил у нас на диске, но и то, что получил сервер модели (и оставил у себя). Посмотреть</description>
-      <pubDate>Sat, 07 Nov 2026 04:04:27 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1104786/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104786</guid>
+      <title>Правда ли нейросети выдумывают ссылки и почему в их ответах остаются удалённые статьи</title>
+      <link>https://habr.com/ru/articles/1104870/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104870</link>
+      <description>Под ответом нейросети стоит ссылка, она не открывается, и первая мысль — адрес выдуман. Я проверил около шестисот адресов из ответов пяти нейросетей с поиском примерно через месяц после того, как их собрал. Открылись примерно девять из десяти. Мёртвых, с кодами 404 и 410, единицы. Это адреса обычных материалов на живых площадках, а не случайный набор символов, поэтому скорее всего это удалённые статьи, а не выдумка. Когда именно их удалили, неизвестно. Поэтому риск для сайта другой: ссылка на уд</description>
+      <pubDate>Sat, 07 Nov 2026 11:06:56 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1104870/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104870</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Crusoe sells troubled Wyoming data center project to Google</title>
-      <link>https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/</link>
-      <description>The deal highlights the challenges of developing massive AI data centers.</description>
-      <pubDate>Sat, 07 Nov 2026 01:40:28 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>Как я разработал Geo Collector: бесплатная мобильная ГИС для iPhone без рекламы и обязательных подписок</title>
-      <link>https://habr.com/ru/articles/1104784/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104784</link>
-      <description>React Native, Expo, GPS-трекинг, геоданные и немного размышлений о том, какой должна быть модель распространения небольшого независимого приложения. Привет, Хабр! Некоторое время назад я решил попробовать себя в разработке мобильных приложений. До этого основная часть моих проектов была связана с анализом данных, геоинформационными системами, образовательным программным обеспечением и серверными решениями. Одним из результатов стал Geo Collector – мобильное приложение для iPhone, предназначенное</description>
-      <pubDate>Sat, 07 Nov 2026 00:41:53 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1104784/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104784</guid>
+      <title>Что там с китайским авиапромом</title>
+      <link>https://habr.com/ru/articles/1104858/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104858</link>
+      <description>В серии «Что там с…» уже вышли МС-21, Суперджет, Ту-214, Ил-96, Ил-114-300 и «Кукурузник», и всё это время напрашивался вопрос про соседей. Свой узкофюзеляжник C919 у Китая три с половиной года возит пассажиров . МС-21 пока летает по программе сертификации. Только вот двигатели у C919 американо-французские, шасси немецкие, управление от американской Honeywell. Строят его пока поштучно: за 2025 год авиакомпании получили 15 машин при плане 75. По дороге к нему Китай успел построить лайнер, который</description>
+      <pubDate>Sat, 07 Nov 2026 10:48:21 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1104858/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104858</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation</link>
-      <description>OpenAI is now valued at $1.25 trillion in a new round of funding that has raised another $11 billion, according to Bloomberg. That would make it one of the world's most valuable companies, not long after raising $122 billion from investors in March at a valuation of $852 billion. Echoing FT and Wall Street Journal […]</description>
-      <pubDate>Fri, 06 Nov 2026 23:46:18 +0000</pubDate>
-      <guid>https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>China reportedly recruited AI exec to spy on Jensen Huang</title>
-      <link>https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy</link>
-      <description>China's intelligence agency recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang, according to The New York Times. The Ministry of State Security (MSS) enlisted her to glean information about American AI chips and "potentially influence the company to push for its most advanced chips to be made available to China." Megaspeed […]</description>
-      <pubDate>Fri, 06 Nov 2026 23:00:44 +0000</pubDate>
-      <guid>https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation</title>
-      <link>https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/</link>
-      <description>OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.</description>
-      <pubDate>Fri, 06 Nov 2026 22:53:46 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>Starlink Mobile: All the news on SpaceX’s major mobile carrier ambitions</title>
-      <link>https://www.theverge.com/science/1029162/spacex-starlink-mobile-elon-musk-news</link>
-      <description>SpaceX has declared that it’s going to make Starlink Mobile a “major” mobile carrier. The Elon Musk-owned company has already deployed thousands of direct-to-cell satellites, but its next big challenge is building out its 5G network here on Earth. As part of its plans to rival AT&amp;T, Verizon, and T-Mobile, SpaceX has inked a deal […]</description>
-      <pubDate>Fri, 06 Nov 2026 22:45:43 +0000</pubDate>
-      <guid>https://www.theverge.com/science/1029162/spacex-starlink-mobile-elon-musk-news</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>От поиска коллизий к когнитивному инференсу: Топологический логический слой архитектуры ZAP v4.0</title>
-      <link>https://habr.com/ru/articles/1104772/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104772</link>
-      <description>В прошлой статье мы выкатили концепт ZAP (Zero-Annihilation Processor) и рассказали, как приспособить существующие ASIC-майнеры под роль аппаратных ускорителей для поиска пространственных коллизий. Но давайте честно: сбор сырых хэшей — это только половина дела, просто фаза накопления данных. Самый сок в том, как эти события интерпретировать. В этой публикации мы разберем ZAP Logic Layer (ZLL). Это такой программно-аппаратный мост, который превращает хаос асинхронных коллизий от майнеров в нормал</description>
-      <pubDate>Fri, 06 Nov 2026 22:01:37 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1104772/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104772</guid>
+      <title>История телефонисток AT&amp;T, или Почему технологии не могут сразу вытеснить ручной труд</title>
+      <link>https://habr.com/ru/companies/ru_mts/articles/1104560/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104560</link>
+      <description>Видите очередную статью с нытьем, что ИИ забирает рабочие функции, одну за другой? И людям осталось дорабатывать последние лет пять? Не читайте по утрам американских газет, от них портится аппетит. Не стоит думать, что автоматизация впервые пытается вытеснить людей с рынка. Общество через это уже проходило не один раз, и в истории есть примеры, показывающие, что способность LLM выполнять конкретные функции еще не означает, что человек не нужен. В конце XIX века на пике резкого развития телефонно</description>
+      <pubDate>Sat, 07 Nov 2026 10:45:47 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/ru_mts/articles/1104560/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104560</guid>
       <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>От уравнений Максвелла к анимации: реализация FDTD на PascalABC.NET</title>
+      <link>https://habr.com/ru/articles/1074684/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1074684</link>
+      <description>Заглавная иллюстрация — про электростатику; в статье же речь пойдёт о динамике: мы будем моделировать распространение электромагнитных волн и численно решать уравнения Максвелла. При этом подойдём к этой задаче более профессионально, чем в предыдущих материалах: я учёл справедливую критику и замечания читателей по поводу выбора и обоснования численного метода, оценил корректность и реалистичность схемы и результатов моделирования, привёл необходимые начальные и граничные условия для воспроизводи</description>
+      <pubDate>Sat, 07 Nov 2026 10:38:04 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1074684/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1074684</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Препарируем мозг Qwen 3.8 27B-1c</title>
+      <link>https://habr.com/ru/articles/1104848/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104848</link>
+      <description>Есть Qwen 3.8 27B, дообученная (SFT + LoRA) на корпусе по платформе 1С:Предприятие — модель выложена на hugging face. Модель неплохо пишет код на встроенном языке, но на языке запросов 1С регулярно ошибается: путает виртуальные таблицы, ставит параметры не туда, подмешивает конструкции из SQL, которых в 1С нет. Попытки классического подхода дообучать и дальше модель, собирая все новые и новые датасеты по языку запросов 1С, ни к чему не приводят. Выигрыш в accuracy дает меньше 1%. Ну и это долгий</description>
+      <pubDate>Sat, 07 Nov 2026 10:28:18 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1104848/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104848</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>РКНетес: Kubernetes, который банит сам себя. Исключительно ради вашей безопасности</title>
+      <link>https://habr.com/ru/articles/1104840/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104840</link>
+      <description>В этот раз Сатане позвонил я сам. Услышав, какую адскую пытку для девопсов РКН я придумал, он обозвал меня больным ублюдком, повесил трубку, сказал больше никогда ему не звонить и забыть его номер. Сегодня про РКНетес, лучший из импортозамещенных дистрибутивов K8s. Собрано, как обычно, на kuberoot . Пройдены все 462 официальных conformance-теста. Этого кубернетеса боится даже реестр Минцифры и ФСТЭК. Я по-прежнему убеждён, что у каждого человека должен быть свой Kubernetes. У татар он уже есть ,</description>
+      <pubDate>Sat, 07 Nov 2026 10:10:01 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1104840/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104840</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Не DeepSeek единым: 4 китайских ИИ-проекта, о которых стоит знать</title>
+      <link>https://habr.com/ru/companies/timeweb/articles/1103120/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1103120</link>
+      <description>В последние годы нейросети не просто совершили гигантский рывок вверх по качеству работы но и неплохо так разошлись вширь. Западный рынок представляет собой в первую очередь через ChatGPT, у нас Алиса и GigaCHAT вполне пытаются конкурировать а от «сборной» Китая за всех отдувается бесплатный и вполне мощный DeepSeek... А точно он один? Ну... вообще то нет. На самом деле в Китае сейчас идет настоящий бум больших языковых моделей, и многие из них не просто конкурируют с ChatGPT, но и обходят его в</description>
+      <pubDate>Sat, 07 Nov 2026 10:05:44 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/timeweb/articles/1103120/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1103120</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Human bodies produce 2 billion metric tons of CO2 a year just by staying alive</title>
+      <link>https://www.sciencedaily.com/releases/2026/11/261104012305.htm</link>
+      <description>Humans collectively produce more than 2 billion tonnes of carbon dioxide annually just by turning food into energy, a 74% increase over three decades largely driven by population growth. Unlike fossil fuel emissions, however, the CO2 we exhale is part of the natural carbon cycle, and scientists say measuring it more accurately could improve climate models.</description>
+      <pubDate>Sat, 07 Nov 2026 10:00:03 +0000</pubDate>
+      <guid>https://www.sciencedaily.com/releases/2026/11/261104012305.htm</guid>
+      <category>All Top News -- ScienceDaily</category>
+    </item>
+    <item>
+      <title>Scientists discover Europe's ancient forests were nothing like we imagined</title>
+      <link>https://www.sciencedaily.com/releases/2026/11/261104012333.htm</link>
+      <description>Scientists have uncovered evidence that Europe was dominated for more than 20 million years by open woodlands, colorful meadows, and large grazing animals, not the dense forests long considered its natural state. The surprising discovery challenges modern reforestation strategies, suggesting that planting thick forests could actually harm the biodiversity conservationists hope to protect.</description>
+      <pubDate>Sat, 07 Nov 2026 09:44:48 +0000</pubDate>
+      <guid>https://www.sciencedaily.com/releases/2026/11/261104012333.htm</guid>
+      <category>All Top News -- ScienceDaily</category>
     </item>
   </channel>
 </rss>
