@@ -5,88 +5,88 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Sun, 08 Nov 2026 01:07:49 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 08:39:33 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Взглянуть на мир глазами кошки</title>
-      <link>https://habr.com/ru/articles/1105002/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105002</link>
-      <description>Вам никогда не хотелось посмотреть на мир глазами кошки? Не в метафорическом смысле, а буквально: с её цветами, её полем зрения, её способом выделять движение. Когда-то давно, лет семнадцать назад, я довольно много писал про моделирование человеческого зрения, цветовосприятия и дальтонизма. Были статьи про моделирование зрения , нормализацию картинки под восприятие и работу модели eye tracking . Тогда всё крутилось вокруг человека: как глаз строит изображение, как ломается цветовой канал, как мо</description>
-      <pubDate>Sat, 07 Nov 2026 23:49:36 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1105002/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105002</guid>
+      <title>Ускоряем развитие Wine с помощью ИИ</title>
+      <link>https://habr.com/ru/articles/1105036/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105036</link>
+      <description>Привет, Хабр! Это Иван Сорокин, вы меня знаете по статья про far2l, его идейному продолжению f4 и порту Dos Navigator на современные системы. Хочу рассказать про новый проект (на самом деле, проекты), вам наверняка понравится и пригодится! Представляю fix-it-in-wine и dllmgr . Первый это скилл, он позволяет поручать ИИ-агенту исправление ошибок совместимости Windows-приложений с Wine. Второй - что-то вроде пакетного менеджера для DLL: позволяет устанавливать исправленные библиотеки независимо от</description>
+      <pubDate>Sun, 08 Nov 2026 08:06:56 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1105036/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105036</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Я устал от VLESS-клиентов и написал свой. Rust, EvertyUI, Mihomo и немного экспериментов с ИИ</title>
-      <link>https://habr.com/ru/articles/1105000/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105000</link>
-      <description>Привет, Хабр! Меня зовут Артур Валиев и в какой-то момент я поймал себя на мысли, что для подключения к VPN мне приходится открывать приложение, в котором настроек едва ли не больше, чем в самом Windows. Читать далее</description>
-      <pubDate>Sat, 07 Nov 2026 22:24:45 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1105000/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105000</guid>
+      <title>Кто ты без своего костюма? Гений, миллиардер, аналитик 1С</title>
+      <link>https://habr.com/ru/companies/infostart/articles/1104966/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104966</link>
+      <description>В отделе продаж каждый вечер переносят цифры из 1С в Excel. Сотрудники просят новый отчет, чтобы больше не собирать таблицу вручную. Программист может помочь, но ему нужно подробное ТЗ: какие данные нужны, откуда их брать и что должно получиться. И тут появляется он — аналитик 1С. Общается, выясняет, описывает, передает, проверяет и финализирует. На словах просто. На деле важно понять, что стоит за задачей и какие детали бизнес-процесса еще предстоит уточнить. Я руковожу проектами разработки на </description>
+      <pubDate>Sun, 08 Nov 2026 08:03:11 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/infostart/articles/1104966/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104966</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>After the midterms, things are looking rocky for Elon Musk and data centers</title>
-      <link>https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/</link>
-      <description>On Equity, we unpacked what the midterms mean for the tech industry.</description>
-      <pubDate>Sat, 07 Nov 2026 22:07:22 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo</title>
-      <link>https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/</link>
-      <description>A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.</description>
-      <pubDate>Sat, 07 Nov 2026 21:17:08 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>Ratcast — бессерверный стриминг как альтернатива Discord но не совсем</title>
-      <link>https://habr.com/ru/articles/1104990/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104990</link>
-      <description>Всем привет! Решил посвятить отдельную статью своему приложению ratcast, которое я вскользь упоминал в прошлой статье. Оно работает по аналогии с конференциями в Discord и сосредоточено именно на этой функции. Приложение построено на моей сетевой библиотеке librats, но, в отличие от Discord, имеет полностью P2P-архитектуру: участники связываются друг с другом напрямую (и не только). В этой статье я не буду подробно останавливаться на сетевых особенностях librats, о них можно почитать в прошлой с</description>
-      <pubDate>Sat, 07 Nov 2026 21:00:19 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1104990/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104990</guid>
+      <title>Расшифровываем цифровую шину мультимедии (A2B) в китайском кроссовере</title>
+      <link>https://habr.com/ru/articles/1105032/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105032</link>
+      <description>Решил получить звук для дополнительного усилителя в китайском кроссовере. В моём случае это Evolute i-Space (Dongfeng Landian E5), но подобный алгоритм применим, в принципе, для большинства автомобилей с шиной A2B. Вся проблема оказалась в звуковом транспорте между головным устройством и штатным усилителем. Транспорт идёт в цифре, и взять чистый аудио звук негде для обычных усилителей. А для использования усилителей с цифровым входом — надо сначала понять, что за цифровая шина используется. Друг</description>
+      <pubDate>Sun, 08 Nov 2026 07:31:13 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1105032/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105032</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>[Перевод] ReactOS: итоги хакфеста во Флориде — новые возможности ядра, поддержка NTFS, SMP и перспективы перехода на NT 6+</title>
-      <link>https://habr.com/ru/articles/1104986/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104986</link>
-      <description>В рамках проекта ReactOS регулярно проводятся хакфесты — многодневные встречи разработчиков и участников сообщества, посвящённые совместной работе над операционной системой. Такие мероприятия позволяют продвигать не только разработку фундаментальных компонентов ОС, но и совершенствовать внутренние регламенты, правила и процессы управления проектом. В этом году состоялось два хакфеста. Первый прошёл во время и после конференции Chemnitzer Linux-Tage (CLT), с 28 марта по 4 апреля. Второй состоялся</description>
-      <pubDate>Sat, 07 Nov 2026 20:31:28 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1104986/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104986</guid>
+      <title>Зачем ИИ-моделям самореплицироваться. Или это нужно не им?</title>
+      <link>https://habr.com/ru/articles/1105028/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105028</link>
+      <description>В недавней статье Антропик “AI models may be capable of self-replicating without access to a datacenter “ исследователи рассмотрели как легковесные open-weight модели могут копировать себя на взломанные потребительские и IoT-устройства и поднимать там локальный инференс. Исследователи утверждают, что могут, но я полагаю, что в этом нет экономического смысла. В этой статье я рассматриваю вопрос, что на самом деле значит распространение ИИ, и как скорее всего это будет выглядеть на самом деле. Чит</description>
+      <pubDate>Sun, 08 Nov 2026 07:16:13 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1105028/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105028</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>[Перевод] Странная квантовая теорема добила реальность Эйнштейна: история теоремы PBR</title>
-      <link>https://habr.com/ru/articles/1104976/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104976</link>
-      <description>Эйнштейн считал, что волновая функция похожа на прогноз погоды: описывает не сам мир, а наше неполное знание о нём. Белл в 1964 году показал, что мир не может быть одновременно реальным и локальным, но лазейка для идеи Эйнштейна осталась. В 2012 году Мэтью Пьюзи, Джонатан Барретт и Терри Рудольф доказали теорему PBR: если у мира есть объективное состояние и реальные состояния независимо приготовленных систем не влияют друг на друга, то квантовое состояние входит в эту реальность и не сводится к </description>
-      <pubDate>Sat, 07 Nov 2026 19:12:33 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1104976/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104976</guid>
+      <title>Дело о длинном тире</title>
+      <link>https://habr.com/ru/articles/1104948/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104948</link>
+      <description>Невероятные приключения здравого смысла среди борцов с ИИ Сатирическая история о творчестве, бдительности и людях, которые точно знают, как сделать лучше. Осторожно: может пострадать ваш здравый смысл. Читать далее</description>
+      <pubDate>Sun, 08 Nov 2026 07:00:07 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1104948/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104948</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Быстрее, проще, глупее: скрытая цена ИИ‑помощников</title>
-      <link>https://habr.com/ru/articles/1104974/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104974</link>
-      <description>Мы привыкли считать, что хороший интерфейс — это интерфейс, который снимает с человека лишнее умственное усилие. Для обычного продукта это верно: пользователь пришёл решить задачу, а не научиться чему-то. С ИИ-ассистентами эта логика перестаёт работать. Они убирают не только лишнее усилие, но и ту работу с материалом, из которой складывается навык. Разберёмся, какая нагрузка мешает, какая нужна и почему продукту с ИИ одного снижения внешней нагрузки мало. Читать далее</description>
-      <pubDate>Sat, 07 Nov 2026 19:09:03 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1104974/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104974</guid>
+      <title>Применение ИИ в проведении численных экспериментов и оформлении статей поисковых НИР</title>
+      <link>https://habr.com/ru/articles/1105026/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105026</link>
+      <description>Всем привет. Представлюсь: Шевченко Максим Юрьевич. Работал мануальным тестировщиком (в том числе); считаю себя исследователем, в основном, в области математики. В этой публикации я хочу поделиться личным опытом и результатами использования LLM Gemini в связке с Python для проведения численных экспериментов и оформления статей в рамках своих математических исследований. Они носят поисковый характер. Здесь нет жесткого плана, и методология взаимодействия больше похожа на Agile, чем на Waterfall. </description>
+      <pubDate>Sun, 08 Nov 2026 06:59:52 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1105026/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105026</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Как я предсказал просмотры на Хабре через ML</title>
-      <link>https://habr.com/ru/articles/1104972/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104972</link>
-      <description>Чуть больше года назад у меня вышла статья про биржу Kwork ( ссылка на статью ). Она набрала 30 000 просмотров. Результат неплохой, но в топе того же хабра лежат публикации по 150 000 и 350 000 просмотров. Мне стало интересно, почему одни статьи собирают пару тысяч просмотров, а другие читают сотнями тысяч. Я решил проверить это с помощью Python и машинного обучения. План был простой: собрать статистику по статьям из моего хаба, оценить качество текстов через языковую модель, загрузить все метри</description>
-      <pubDate>Sat, 07 Nov 2026 19:02:07 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1104972/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104972</guid>
+      <title>Номер карты, пароль и сид-фраза в виде запоминающихся предложений</title>
+      <link>https://habr.com/ru/articles/1104960/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104960</link>
+      <description>Очередной проект выходного дня: представляем произвольные данные (как номер криптокошелька, сид-фразу, номер карты, номер телефона и пр.) в виде запоминающихся предложений на русском языке. Отличительная особенность проекта – генерируем предложения на русском языке, причем не одно предложение, а сразу несколько эквивалентных на выбор пользователя, ведь ассоциации у всех разные. При обратном преобразовании каждое из эквивалентных предложений вернет оригинальное значение. Как всегда, открытый код,</description>
+      <pubDate>Sun, 08 Nov 2026 06:48:06 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1104960/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104960</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Parents want safer phones for kids. These companies are answering the call.</title>
-      <link>https://techcrunch.com/2026/11/07/parents-want-safer-phones-for-kids-these-companies-are-answering-the-call/</link>
-      <description>As parents look for alternatives to unrestricted smartphones, a growing number of companies are building phones designed specifically for kids, from feature-limited mobile devices to minimalist home phones.</description>
-      <pubDate>Sat, 07 Nov 2026 19:00:00 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/11/07/parents-want-safer-phones-for-kids-these-companies-are-answering-the-call/</guid>
-      <category>TechCrunch</category>
+      <title>Как поставить Arch Linux рядом с Android по USB-кабелю: пошагово, с Windows или Linux</title>
+      <link>https://habr.com/ru/articles/1105016/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105016</link>
+      <description>В прошлой статье я разбирал, как Arch Linux грузится на Xiaomi 12T Pro на штатном ядре Android. Теперь это можно поставить самому: установщик для Windows и Linux, нужен только USB-кабель. Android остаётся, при включении система выбирается кнопкой громкости. Ниже — по шагам: что подготовить, что нажать и что в это время происходит на телефоне. В конце — как всё удалить. Читать далее</description>
+      <pubDate>Sun, 08 Nov 2026 06:45:21 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1105016/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105016</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Память ИИ агента. Как собрать архитектуру памяти качественно?</title>
+      <link>https://habr.com/ru/articles/1105022/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105022</link>
+      <description>Общая память для ИИ-агентов. Теперь то, что я рассказал одному знает другой ИИ-агент - даже в новом разговоре Как сообщения ИИ-агенту превращаются в память и как агенты находят нужные сведения? Под капотом - PostgreSQL, граф знаний и поиск по словам, векторам и связям. На момент проверки в графе было больше 10 тысяч узлов Читать далее</description>
+      <pubDate>Sun, 08 Nov 2026 06:41:06 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1105022/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105022</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Агент закончил работу, а Telegram недоступен: как я сделал очередь доставки ответов</title>
+      <link>https://habr.com/ru/articles/1105014/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105014</link>
+      <description>Агент выполнил задачу, проверил результат и написал ответ. Но в этот момент Telegram недоступен. С точки зрения агента работа закончена, а в Telegram не пришло ни результата, ни сообщения об ошибке. Повторно запускать задачу ради ответа не хочется: это потратит время и токены, а агент может еще раз изменить файлы. Эту ситуацию пришлось учесть при разработке agent-hub - приложения на Rust, которое запускает AI-агентов на компьютере и позволяет общаться с ними через темы Telegram-группы. В прошлой</description>
+      <pubDate>Sun, 08 Nov 2026 06:11:03 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1105014/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105014</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
   </channel>
 </rss>
