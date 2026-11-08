@@ -5,88 +5,88 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Sun, 08 Nov 2026 15:49:25 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 20:13:59 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Создал игру, чтобы играть в нее против ИИ-агентов и ни разу не выиграл</title>
-      <link>https://habr.com/ru/articles/1105142/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105142</link>
-      <description>Я написал пошаговую стратегию, в которую играют с помощью и против ИИ-агента, и за десяток партий ни разу в неё не выиграл. Меня разгромили на моём же поле. Теперь я считаю, что в регламентированных условиях искин гораздо лучший менеджер, чем человек. Читать далее и попробовать выиграть</description>
-      <pubDate>Sun, 08 Nov 2026 15:45:09 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1105142/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105142</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Промты не горят: может ли ИИ написать художественно ценный текст</title>
-      <link>https://habr.com/ru/companies/bothub/articles/1105138/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105138</link>
-      <description>Попросила нейросеть написать сцену по мотивам своего рассказа. Она придумала героям сына, общее прошлое и взялась их мирить. Разбираюсь, как ИИ сочиняет прозу и как объяснить ему, что у автора тоже были планы. Читать далее</description>
-      <pubDate>Sun, 08 Nov 2026 15:21:53 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/bothub/articles/1105138/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105138</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Аппаратные потоки на китайском микроконтроллере</title>
-      <link>https://habr.com/ru/articles/1105088/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105088</link>
-      <description>Многоядерные микроконтроллеры уже обыденность. Первый многоядерный микроконтроллер — TMS320C80 — был выпущен фирмой Texas Instruments более 30 лет назад. Два ядра есть и у микроконтроллера ESP32, столь любимого пользователями Хабра и не только. В автомобилестроении многоядерные микроконтроллеры также получают широкое распространение. К примеру, в обозначении микроконтроллера китайской фирмы FlagChip FC7300F8MDT буква T означает, что внутри SoC‑а находятся аж три процессорных ядра ARM Cortex‑M7. </description>
-      <pubDate>Sun, 08 Nov 2026 15:11:37 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1105088/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105088</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Chatbots might be coming to Apple’s HomeView</title>
-      <link>https://www.theverge.com/tech/1029526/chatbots-might-be-coming-to-apples-homeview</link>
-      <description>Code in the iOS 27.3 beta suggests that Apple could add support for chatbots to its smart home hub. There's a flag listed for a "Conversational Apps" category. While there are no details about what apps would fall under that heading, it seems reasonable that AI chatbots like ChatGPT and Claude could be added to […]</description>
-      <pubDate>Sun, 08 Nov 2026 15:00:30 +0000</pubDate>
-      <guid>https://www.theverge.com/tech/1029526/chatbots-might-be-coming-to-apples-homeview</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>Как я пишу агента для оценки и выбора модели под свои задачи/агентов</title>
-      <link>https://habr.com/ru/articles/1104780/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104780</link>
-      <description>В прошлый раз я писал про "Как я пишу почти автономного агента для разработки своих пет-проектов" , а сейчас я хочу сместить фокус на выбор модели под конкретные задачи. В сети полно контента на тему "Вышел новый GPT Astra (Claude Fable) near-AGI edition", но нас это мало чем интересует: дорого, долго и слишком самостоятельны. Под капотом много картинок, 2 таблицы и мнение автора, не претендующее на методологию или «правильный путь» Под капотом</description>
-      <pubDate>Sun, 08 Nov 2026 15:00:19 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1104780/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104780</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Ninja’s AutoBarista is impressively versatile, but one feature was a dealbreaker for me</title>
-      <link>https://techcrunch.com/2026/11/08/ninjas-autobarista-is-impressively-versatile-but-one-feature-was-a-dealbreaker-for-me/</link>
-      <description>The AutoBarista's "Grind iQ" technology allows the machine to analyze your coffee beans to inform how it pulls a shot of espresso.</description>
-      <pubDate>Sun, 08 Nov 2026 15:00:00 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/11/08/ninjas-autobarista-is-impressively-versatile-but-one-feature-was-a-dealbreaker-for-me/</guid>
+      <title>Sequoia partners reportedly blindsided when Roelof Botha joined SpaceX board</title>
+      <link>https://techcrunch.com/2026/11/08/sequoia-partners-reportedly-blindsided-when-roelof-botha-joined-spacex-board/</link>
+      <description>A new report claims Sequoia's recent changes undo the legacy of the firm's former steward.</description>
+      <pubDate>Sun, 08 Nov 2026 19:51:30 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/11/08/sequoia-partners-reportedly-blindsided-when-roelof-botha-joined-spacex-board/</guid>
       <category>TechCrunch</category>
     </item>
     <item>
-      <title>Глубоководье ИИ инженерии</title>
-      <link>https://habr.com/ru/articles/1105122/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105122</link>
-      <description>Как устроена моя рабочая среда для ИИ-агентов: общая база правил и памяти, выбор контекста по задаче, навыки с ограниченными правами, проверки корректности и передача работы между агентами. Разбираю устройство Jarvis на своих проектах и показываю, что можно установить и попробовать из открытого репозитория. Как устроен Jarvis</description>
-      <pubDate>Sun, 08 Nov 2026 14:49:02 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1105122/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105122</guid>
+      <title>Apple is racing to make Siri more agentic</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic</link>
+      <description>Bloomberg's Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI agent that can compete with OpenAI's Dots or Meta's Muse. While Federighi has delivered a functional version of Siri AI on an incredibly short timeline, the company has no illusions that it's […]</description>
+      <pubDate>Sun, 08 Nov 2026 19:18:19 +0000</pubDate>
+      <guid>https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>Абляционный анализ компонентов StyleGAN-NADA: от ансамбля CLIP до Gradient Clipping</title>
+      <link>https://habr.com/ru/articles/1105220/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105220</link>
+      <description>Введение Генеративные модели, такие как StyleGAN2, способны создавать изображения лиц. Однако для управления ими обычно требуется либо оптимизация латентного представления, поступающего на вход генератора, либо обучение генератора с нуля, либо fine-tuning (дообучение) предобученной модели. Метод StyleGAN-NADA (No Annotation Domain Adaptation) предложил подход: адаптировать генеративную модель (StyleGAN2) к новому домену без единого изображения. Вместо этого используется семантическая сила больши</description>
+      <pubDate>Sun, 08 Nov 2026 19:16:30 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1105220/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105220</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Гипотеза пурпурной Земли. Родопсин и ретиналь в дохлорофилловом мире</title>
-      <link>https://habr.com/ru/articles/1105134/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105134</link>
-      <description>Минувшим летом я публиковал на Хабре статью « Почти зелёные миры: перспективы фотосинтеза на планетах у оранжевого карлика (спектральный класс K) » (+43), где рассматривал вероятную зависимость наиболее выигрышных моделей (и пигментов) для фотосинтеза от спектрального класса звезды. Ранее я также затрагивал тему постепенного изменения светимости Солнца — например, в статьях « Как может быть разрешим парадокс слабого молодого Солнца » (+46) и « Земля‑Снежок — ретроспектива и перспектива » (+38). </description>
-      <pubDate>Sun, 08 Nov 2026 14:47:45 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1105134/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105134</guid>
+      <title>[Перевод] Опознали микросхему по кристаллу, с которого кислота сняла металл: логика ДТЛ 1965 года</title>
+      <link>https://habr.com/ru/articles/1105214/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105214</link>
+      <description>В коллекции старых деталей нашлись микросхемы, которые владелец так и не смог опознать. Пластиковый корпус вскрыли горячим воздухом, остатки эпоксидки пришлось счищать кипящей серной кислотой, а она заодно сняла и слой металла. По бледным следам дорожек автор восстановил вероятную разводку: это четыре элемента И-НЕ на диодно-транзисторной логике, Signetics ST680A из серии 600 1965 года, первого семейства микросхем в пластиковом DIP. Разбираем, как по снимку кристалла отличить транзистор от диода</description>
+      <pubDate>Sun, 08 Nov 2026 19:11:30 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1105214/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105214</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Вайбкодинг против сотни шардов: как я за пару дней собрал Terox</title>
-      <link>https://habr.com/ru/articles/1105130/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105130</link>
-      <description>Когда сервис живёт на сотне PostgreSQL-шардов, даже вопрос «где лежит запись с таким ID?» легко превращается в обход десятков подключений. Сущности распределены консистентным хешированием, а редкие операции на нагруженных таблицах требуют отдельно следить за lock_timeout , statement_timeout и пулом соединений. Я бэкенд-разработчик высоконагруженных сервисов, в прошлом DBA. Штатные миграции у нас раскатываются автоматически. Но когда изменение требует отдельного контроля на нагруженной таблице, н</description>
-      <pubDate>Sun, 08 Nov 2026 14:46:31 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1105130/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105130</guid>
+      <title>Почему Claude Code нарушает правила из CLAUDE.md и почему вам точн онужны разрешения и хуки</title>
+      <link>https://habr.com/ru/articles/1105196/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105196</link>
+      <description>Claude Code читает CLAUDE.md в начале каждой сессии, но запрет из этого файла агент всё равно может нарушить. По словам автора issue #46779 , Claude Code раз за разом удалял данные сверх запроса, хотя запреты в CLAUDE.md были написаны прямо. Мои агенты работают по файлу правил проекта и по проверкам кодом, и правила между ними я делю по цене нарушения. Если ошибка стоит минут, хватит строки в тексте. Если она стоит денег, раскрывает ключи или запускает работу без подтверждения, нужны разрешения,</description>
+      <pubDate>Sun, 08 Nov 2026 18:55:26 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1105196/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105196</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Опубликована книга «Поиск: от слова к доказательству»</title>
-      <link>https://habr.com/ru/articles/1105132/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105132</link>
-      <description>Задача, которая оказалась значительно сложнее поиска Представьте, что вы занимаетесь международным строительным бизнесом. У вашей компании есть определённая промышленная технология, которую вы хотите продвигать в других странах. Причём вас интересует не просто список потенциальных покупателей. Нужно понимать, кто уже работает с подобными решениями, какие исследования ведутся, кто собирается строить новые объекты, где объявляются тендеры, кто выигрывает закупки, какие компании заключают соглашени</description>
-      <pubDate>Sun, 08 Nov 2026 14:44:45 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1105132/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105132</guid>
+      <title>Гига Писарь в Google Play и как не словить бан</title>
+      <link>https://habr.com/ru/companies/gigapisar/articles/1105184/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105184</link>
+      <description>Привет, Хабр! Короткая новость: Гига Писарь для Android теперь ставится из Google Play Ссылка: https://play.google.com/store/apps/details?id=ru.gigapisar . Версия с GitHub никуда не делась, обновляется сама и живёт параллельно, но большинству проще из магазина. В прошлой статье я писал, что Google требует от новых аккаунтов две недели закрытого теста с двенадцатью участниками, я позвал вас, и в группу пришло гораздо больше, спасибо всем, кто гонял Писаря и репортил что не так, ну и теперь Google</description>
+      <pubDate>Sun, 08 Nov 2026 18:07:39 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/gigapisar/articles/1105184/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105184</guid>
       <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>От предложений LLM к управляемому исполнению: опыт разработки AI-агента</title>
+      <link>https://habr.com/ru/articles/1105178/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105178</link>
+      <description>Подключить AI-агента к инструментам - лишь часть задачи. Гораздо сложнее организовать его работу там, где недостаточно уверенного ответа модели и необходимо соблюдать ограничения, контролировать действия и проверять последствия. Например, если агент предлагает восстановить деградировавший сервис, кто проверит: выдержит ли инфраструктура переключение трафика? выполнены ли все необходимые условия? действительно ли сервис восстановился? Я решил исследовать эти вопросы на примере управляемого AI-аге</description>
+      <pubDate>Sun, 08 Nov 2026 17:47:13 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1105178/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105178</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Как запустить OpenCode на сервере: автономные ИИ агенты</title>
+      <link>https://habr.com/ru/companies/bothub/articles/1105176/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105176</link>
+      <description>За последние три года слово «ИИ-агент» вы слышали точно. Может, даже работали с Claude Code или Codex — или хотя бы наблюдали со стороны. И вот беда: оба закрытые и проприетарные, заточены под модели своих авторов. Тут и появляется OpenCode — open-source harness-система, где агент читает файлы, гоняет тесты, дёргает другие модели в помощь, передаёт задачи субагентам, подключает MCP, скиллы, плагины. И никакой привязки к вендору: подключай официальных провайдеров, сторонние шлюзы, тот же GLM 5.3 </description>
+      <pubDate>Sun, 08 Nov 2026 17:43:55 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/bothub/articles/1105176/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105176</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>He arrested a hacker, then spent 18 months clearing his own name. Now he’s a cybersecurity VC.</title>
+      <link>https://techcrunch.com/2026/11/08/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/</link>
+      <description>Stephen Ward, a former Secret Service agent and Home Depot CISO, is preparing a second fund of roughly $250 million for Brightmind Partners.</description>
+      <pubDate>Sun, 08 Nov 2026 17:30:00 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/11/08/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>Elvis and Eminem rights holders are suing Suno</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit</link>
+      <description>Suno is facing yet another pair of lawsuits. A group of rights holders of Elvis Presley's music and the publisher of some of Eminem's biggest records are suing the AI music company, claiming it illegally generates music and lyrics that mimic those artists. The lawyers in the Presley suit claim that Suno has violated Tennessee's […]</description>
+      <pubDate>Sun, 08 Nov 2026 17:23:19 +0000</pubDate>
+      <guid>https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit</guid>
+      <category>The Verge</category>
     </item>
   </channel>
 </rss>
