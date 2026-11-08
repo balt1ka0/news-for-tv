@@ -5,9 +5,33 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Sat, 07 Nov 2026 21:29:55 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 01:07:49 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Взглянуть на мир глазами кошки</title>
+      <link>https://habr.com/ru/articles/1105002/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105002</link>
+      <description>Вам никогда не хотелось посмотреть на мир глазами кошки? Не в метафорическом смысле, а буквально: с её цветами, её полем зрения, её способом выделять движение. Когда-то давно, лет семнадцать назад, я довольно много писал про моделирование человеческого зрения, цветовосприятия и дальтонизма. Были статьи про моделирование зрения , нормализацию картинки под восприятие и работу модели eye tracking . Тогда всё крутилось вокруг человека: как глаз строит изображение, как ломается цветовой канал, как мо</description>
+      <pubDate>Sat, 07 Nov 2026 23:49:36 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1105002/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105002</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Я устал от VLESS-клиентов и написал свой. Rust, EvertyUI, Mihomo и немного экспериментов с ИИ</title>
+      <link>https://habr.com/ru/articles/1105000/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105000</link>
+      <description>Привет, Хабр! Меня зовут Артур Валиев и в какой-то момент я поймал себя на мысли, что для подключения к VPN мне приходится открывать приложение, в котором настроек едва ли не больше, чем в самом Windows. Читать далее</description>
+      <pubDate>Sat, 07 Nov 2026 22:24:45 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1105000/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105000</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>After the midterms, things are looking rocky for Elon Musk and data centers</title>
+      <link>https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/</link>
+      <description>On Equity, we unpacked what the midterms mean for the tech industry.</description>
+      <pubDate>Sat, 07 Nov 2026 22:07:22 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/</guid>
+      <category>TechCrunch</category>
+    </item>
     <item>
       <title>Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo</title>
       <link>https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/</link>
@@ -63,30 +87,6 @@
       <pubDate>Sat, 07 Nov 2026 19:00:00 +0000</pubDate>
       <guid>https://techcrunch.com/2026/11/07/parents-want-safer-phones-for-kids-these-companies-are-answering-the-call/</guid>
       <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>SoundCloud для Mac, которого у SoundCloud нет</title>
-      <link>https://habr.com/ru/articles/1104970/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104970</link>
-      <description>Я слушаю SoundCloud каждый день, а на Mac у него есть только сайт. Поэтому я написал Nimbus — нативный клиент на SwiftUI и AppKit: треки сменяют друг друга без паузы, работают медиаклавиши и Now Playing, музыку можно отправить на Chromecast, а полноэкранный режим превращает трек в пластинку. Внутри — куда уходят полторы секунды между треками, почему SwiftUI пришлось посадить на AppKit и как подружить Mac с Chromecast, для которого нет SDK под macOS. Как это устроено</description>
-      <pubDate>Sat, 07 Nov 2026 18:33:06 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1104970/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104970</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Доверяй, но проверяй: 12 выводов о Human‑in‑the‑Loop с LLM</title>
-      <link>https://habr.com/ru/articles/1095740/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095740</link>
-      <description>Сейчас LLM всё чаще внедряют в работающие бизнес-процессы: поиск и сбор информации, структурирование данных, проверку и публикацию. При этом цена одной ошибки модели бывает довольно высокой: это потерянные деньги, врея и репутация в глазах клиентов. Снизить этот риск помогает принцип Human-in-the-Loop: в процесс добавляется человек, который валидирует данные. В этой статье собраны наши выводы на примере двух реальных бизнес-задач : автоматического перевода и поиска размерных сеток. Читать далее</description>
-      <pubDate>Sat, 07 Nov 2026 18:22:07 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1095740/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1095740</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Затестил Kimi AI, Qwen, DeepSeek и Grok на работе с текстами. Делюсь результатами</title>
-      <link>https://habr.com/ru/articles/1104964/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104964</link>
-      <description>Нейросеть получает статью на редактуру и возвращает гладкий текст, в котором автора уже не узнать. В препринте 2026 года исследователи из Berkeley, Google DeepMind и других организаций показали, что ИИ-модели меняют смысл текста, даже когда их просят исправить только грамматику. Kimi AI, Qwen, DeepSeek и Grok всё чаще пробуют для текстов вместо ChatGPT, и выбирать среди них редактора на глаз рискованно. По умолчанию нейросеть, которой дали текст на редактуру, переписывает его, хотя просили тольк</description>
-      <pubDate>Sat, 07 Nov 2026 18:08:56 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1104964/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104964</guid>
-      <category>Все публикации подряд на Хабре</category>
     </item>
   </channel>
 </rss>
