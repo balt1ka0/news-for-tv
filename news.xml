@@ -5,87 +5,87 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Sun, 08 Nov 2026 20:13:59 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 00:35:02 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Sequoia partners reportedly blindsided when Roelof Botha joined SpaceX board</title>
-      <link>https://techcrunch.com/2026/11/08/sequoia-partners-reportedly-blindsided-when-roelof-botha-joined-spacex-board/</link>
-      <description>A new report claims Sequoia's recent changes undo the legacy of the firm's former steward.</description>
-      <pubDate>Sun, 08 Nov 2026 19:51:30 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/11/08/sequoia-partners-reportedly-blindsided-when-roelof-botha-joined-spacex-board/</guid>
-      <category>TechCrunch</category>
+      <title>Особенности расчета доходности в конкурсе ЛЧИ от Московской биржи</title>
+      <link>https://habr.com/ru/articles/1104468/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104468</link>
+      <description>Я слышал что многие спекулянты не хотят участвовать в конкурсе «Лучший частный инвестор 2026» от Московской биржи. И причина достаточно прозаична — потому что это открытый конкурс и биржа публикуют все сделки участников. Поэтому если вы известны управляющий или трейдер и кто‑то заинтересовался вашими результатами, то этот кто‑то сможет легко посмотреть все сделки — с какими инструментами вы работаете как набираете позицию как вы ходите из них, какими объёмами торгуете и насколько часто совершает</description>
+      <pubDate>Mon, 09 Nov 2026 00:23:15 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1104468/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104468</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Apple is racing to make Siri more agentic</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic</link>
-      <description>Bloomberg's Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI agent that can compete with OpenAI's Dots or Meta's Muse. While Federighi has delivered a functional version of Siri AI on an incredibly short timeline, the company has no illusions that it's […]</description>
-      <pubDate>Sun, 08 Nov 2026 19:18:19 +0000</pubDate>
-      <guid>https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic</guid>
+      <title>Магнитно-Наночастичная Томография (МНТ)</title>
+      <link>https://habr.com/ru/articles/1105248/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105248</link>
+      <description>В этой статье я расскажу про медицинскую томографию будущего, о которой вы наверняка ещё ничего не слышали и которую вряд ли найдёте в больницах ни сегодня ни даже в ближайшие годы. И нет, это никак не связано с ИИ, тут будет только про физику, технику и их приложения. Прогресс не остановился и всё ещё шевелится и в других областях, хоть конечно и не так резво. До вот этого самого момента у МНТ даже ещё не было устоявшегося названия на русском, поэтому я возьму на себя честь перевести его и испо</description>
+      <pubDate>Sun, 08 Nov 2026 23:48:09 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1105248/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105248</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Here’s the full text of Jensen Huang’s memo to Nvidia</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia</link>
+      <description>On Sunday, Nvidia announced it was launching an investigation into CEO Jensen Huang's relationship with Alice Huang, an AI executive and agent of the Chinese government. In addition to the Board of Directors announcing the investigation, Huang sent a memo to Nvidia employees acknowledging the affair. You can read the full text below. To my […]</description>
+      <pubDate>Sun, 08 Nov 2026 22:54:50 +0000</pubDate>
+      <guid>https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia</guid>
       <category>The Verge</category>
     </item>
     <item>
-      <title>Абляционный анализ компонентов StyleGAN-NADA: от ансамбля CLIP до Gradient Clipping</title>
-      <link>https://habr.com/ru/articles/1105220/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105220</link>
-      <description>Введение Генеративные модели, такие как StyleGAN2, способны создавать изображения лиц. Однако для управления ими обычно требуется либо оптимизация латентного представления, поступающего на вход генератора, либо обучение генератора с нуля, либо fine-tuning (дообучение) предобученной модели. Метод StyleGAN-NADA (No Annotation Domain Adaptation) предложил подход: адаптировать генеративную модель (StyleGAN2) к новому домену без единого изображения. Вместо этого используется семантическая сила больши</description>
-      <pubDate>Sun, 08 Nov 2026 19:16:30 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1105220/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105220</guid>
-      <category>Все публикации подряд на Хабре</category>
+      <title>Soul Glo’s Diaspora Problems is a hardcore record like no other</title>
+      <link>https://www.theverge.com/entertainment/1029579/soul-glo-diaspora-problems-hardcore-punk-review</link>
+      <description>Soul Glo has a new record called NA I'M GON GRAB ALLAT coming out in January, and I, for one, can not wait. While two singles have dropped, it's not enough to truly tide me over, so I've been revisiting Songs to Yeet at the Sun and my favorite album of 2022 - Diaspora Problems. […]</description>
+      <pubDate>Sun, 08 Nov 2026 22:37:22 +0000</pubDate>
+      <guid>https://www.theverge.com/entertainment/1029579/soul-glo-diaspora-problems-hardcore-punk-review</guid>
+      <category>The Verge</category>
     </item>
     <item>
-      <title>[Перевод] Опознали микросхему по кристаллу, с которого кислота сняла металл: логика ДТЛ 1965 года</title>
-      <link>https://habr.com/ru/articles/1105214/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105214</link>
-      <description>В коллекции старых деталей нашлись микросхемы, которые владелец так и не смог опознать. Пластиковый корпус вскрыли горячим воздухом, остатки эпоксидки пришлось счищать кипящей серной кислотой, а она заодно сняла и слой металла. По бледным следам дорожек автор восстановил вероятную разводку: это четыре элемента И-НЕ на диодно-транзисторной логике, Signetics ST680A из серии 600 1965 года, первого семейства микросхем в пластиковом DIP. Разбираем, как по снимку кристалла отличить транзистор от диода</description>
-      <pubDate>Sun, 08 Nov 2026 19:11:30 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1105214/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105214</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Почему Claude Code нарушает правила из CLAUDE.md и почему вам точн онужны разрешения и хуки</title>
-      <link>https://habr.com/ru/articles/1105196/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105196</link>
-      <description>Claude Code читает CLAUDE.md в начале каждой сессии, но запрет из этого файла агент всё равно может нарушить. По словам автора issue #46779 , Claude Code раз за разом удалял данные сверх запроса, хотя запреты в CLAUDE.md были написаны прямо. Мои агенты работают по файлу правил проекта и по проверкам кодом, и правила между ними я делю по цене нарушения. Если ошибка стоит минут, хватит строки в тексте. Если она стоит денег, раскрывает ключи или запускает работу без подтверждения, нужны разрешения,</description>
-      <pubDate>Sun, 08 Nov 2026 18:55:26 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1105196/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105196</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Гига Писарь в Google Play и как не словить бан</title>
-      <link>https://habr.com/ru/companies/gigapisar/articles/1105184/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105184</link>
-      <description>Привет, Хабр! Короткая новость: Гига Писарь для Android теперь ставится из Google Play Ссылка: https://play.google.com/store/apps/details?id=ru.gigapisar . Версия с GitHub никуда не делась, обновляется сама и живёт параллельно, но большинству проще из магазина. В прошлой статье я писал, что Google требует от новых аккаунтов две недели закрытого теста с двенадцатью участниками, я позвал вас, и в группу пришло гораздо больше, спасибо всем, кто гонял Писаря и репортил что не так, ну и теперь Google</description>
-      <pubDate>Sun, 08 Nov 2026 18:07:39 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/gigapisar/articles/1105184/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105184</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>От предложений LLM к управляемому исполнению: опыт разработки AI-агента</title>
-      <link>https://habr.com/ru/articles/1105178/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105178</link>
-      <description>Подключить AI-агента к инструментам - лишь часть задачи. Гораздо сложнее организовать его работу там, где недостаточно уверенного ответа модели и необходимо соблюдать ограничения, контролировать действия и проверять последствия. Например, если агент предлагает восстановить деградировавший сервис, кто проверит: выдержит ли инфраструктура переключение трафика? выполнены ли все необходимые условия? действительно ли сервис восстановился? Я решил исследовать эти вопросы на примере управляемого AI-аге</description>
-      <pubDate>Sun, 08 Nov 2026 17:47:13 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1105178/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105178</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Как запустить OpenCode на сервере: автономные ИИ агенты</title>
-      <link>https://habr.com/ru/companies/bothub/articles/1105176/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105176</link>
-      <description>За последние три года слово «ИИ-агент» вы слышали точно. Может, даже работали с Claude Code или Codex — или хотя бы наблюдали со стороны. И вот беда: оба закрытые и проприетарные, заточены под модели своих авторов. Тут и появляется OpenCode — open-source harness-система, где агент читает файлы, гоняет тесты, дёргает другие модели в помощь, передаёт задачи субагентам, подключает MCP, скиллы, плагины. И никакой привязки к вендору: подключай официальных провайдеров, сторонние шлюзы, тот же GLM 5.3 </description>
-      <pubDate>Sun, 08 Nov 2026 17:43:55 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/bothub/articles/1105176/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105176</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>He arrested a hacker, then spent 18 months clearing his own name. Now he’s a cybersecurity VC.</title>
-      <link>https://techcrunch.com/2026/11/08/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/</link>
-      <description>Stephen Ward, a former Secret Service agent and Home Depot CISO, is preparing a second fund of roughly $250 million for Brightmind Partners.</description>
-      <pubDate>Sun, 08 Nov 2026 17:30:00 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/11/08/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/</guid>
+      <title>Apps to distract you from the endless cycle of doomscrolling</title>
+      <link>https://techcrunch.com/2026/11/08/apps-to-distract-you-from-the-endless-cycle-of-doomscrolling/</link>
+      <description>It's hard to break the cycle of doomscrolling, but there are plenty of apps that can help you spend more time on content that’s engaging and productive.</description>
+      <pubDate>Sun, 08 Nov 2026 22:00:00 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/11/08/apps-to-distract-you-from-the-endless-cycle-of-doomscrolling/</guid>
       <category>TechCrunch</category>
     </item>
     <item>
-      <title>Elvis and Eminem rights holders are suing Suno</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit</link>
-      <description>Suno is facing yet another pair of lawsuits. A group of rights holders of Elvis Presley's music and the publisher of some of Eminem's biggest records are suing the AI music company, claiming it illegally generates music and lyrics that mimic those artists. The lawyers in the Presley suit claim that Suno has violated Tennessee's […]</description>
-      <pubDate>Sun, 08 Nov 2026 17:23:19 +0000</pubDate>
-      <guid>https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit</guid>
+      <title>Вайбкодинг закончился, когда пришёл второй пользователь</title>
+      <link>https://habr.com/ru/articles/1101952/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101952</link>
+      <description>Друг принёс Telegram-бота, собранного с помощью ИИ: видео обрабатываются, кнопки работают, осталось арендовать сервер. Потом выяснилось, что параллельное приложение умеет параллельно ждать одну блокировку, а двенадцать обработчиков иногда медленнее пяти. Рассказываю, как мы превращали вайбкод в сервис: от SQLite до PostgreSQL, очередей, общего хранилища и деплоя по кнопке. И почему промпт «сделай хорошо» всё ещё не заменяет инженерные знания. Впустить второго пользователя</description>
+      <pubDate>Sun, 08 Nov 2026 21:55:25 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1101952/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101952</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>AI для PHP‑разработчиков. Часть 8: Свёрточные нейронные сети: ищем границы на изображениях с помощью чистого PHP</title>
+      <link>https://habr.com/ru/articles/1105232/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105232</link>
+      <description>Компьютер не видит фотографию так, как её видит человек. Для него изображение – это набор чисел, описывающих яркость и цвет отдельных пикселей. И чтобы научиться распознавать объекты, находить границы или определять визуальные признаки, нужно научиться работать с этими числами. Для решения таких задач используются свёрточные нейронные сети (Convolutional Neural Networks, CNN). Они широко применяются в компьютерном зрении – от распознавания объектов до анализа медицинских изображений. Одна из осн</description>
+      <pubDate>Sun, 08 Nov 2026 21:17:35 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1105232/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105232</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy</title>
+      <link>https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/</link>
+      <description>In a memo to the company, Huang admitted that he had an affair.</description>
+      <pubDate>Sun, 08 Nov 2026 21:00:11 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>If Snap’s Specs are still ridiculously expensive, they’re also a lot more comfortable than they used to be</title>
+      <link>https://techcrunch.com/2026/11/08/if-snaps-specs-are-still-ridiculously-expensive-theyre-also-a-lot-more-comfortable-than-they-used-to-be/</link>
+      <description>Snap's Specs, which have been in development for many years now, are going to market this fall. Will they be a hit with users?</description>
+      <pubDate>Sun, 08 Nov 2026 21:00:00 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/11/08/if-snaps-specs-are-still-ridiculously-expensive-theyre-also-a-lot-more-comfortable-than-they-used-to-be/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>Epic Games Launcher is coming to SteamOS</title>
+      <link>https://www.theverge.com/games/1029557/epic-games-launcher-is-coming-to-steamos</link>
+      <description>In October, Epic Games said that it was "investigating" making Fortnite compatible with Valve's Linux-based SteamOS. At the time, Epic Games Launcher was in preview, but SteamOS was not specifically listed as a supported distro. Now, Communications Director Jake Jones has confirmed SteamOS compatibility, along with a handful of other distros, to GamingOnLinux. In response […]</description>
+      <pubDate>Sun, 08 Nov 2026 20:52:05 +0000</pubDate>
+      <guid>https://www.theverge.com/games/1029557/epic-games-launcher-is-coming-to-steamos</guid>
       <category>The Verge</category>
     </item>
   </channel>
