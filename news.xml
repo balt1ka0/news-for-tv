@@ -5,88 +5,88 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Mon, 09 Nov 2026 00:35:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 07:41:09 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Особенности расчета доходности в конкурсе ЛЧИ от Московской биржи</title>
-      <link>https://habr.com/ru/articles/1104468/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104468</link>
-      <description>Я слышал что многие спекулянты не хотят участвовать в конкурсе «Лучший частный инвестор 2026» от Московской биржи. И причина достаточно прозаична — потому что это открытый конкурс и биржа публикуют все сделки участников. Поэтому если вы известны управляющий или трейдер и кто‑то заинтересовался вашими результатами, то этот кто‑то сможет легко посмотреть все сделки — с какими инструментами вы работаете как набираете позицию как вы ходите из них, какими объёмами торгуете и насколько часто совершает</description>
-      <pubDate>Mon, 09 Nov 2026 00:23:15 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1104468/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104468</guid>
+      <title>QCOW2 на thick LVM, который растет сам, или как устроено хранилище BREST_LVM</title>
+      <link>https://habr.com/ru/companies/astralinux/articles/1105296/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105296</link>
+      <description>Привет, Хабр! На связи команда виртуализации Astra Cloud. Пока коллеги рассказывают про новые фичи нашей облачной платформы, мы тоже хотим показать, что не стоим на месте. Сегодня речь пойдет о хранилище BREST_LVM в нашем ПК СВ «Брест», который является ядром Astra Cloud Platform. Мы совместили формат QCOW2 с классическим LVM так, чтобы диск ВМ занимал ровно столько места, сколько ему реально нужно, и при этом спокойно жил в кластере с общим хранилищем. Задача звучит просто, но по дороге нас жда</description>
+      <pubDate>Mon, 09 Nov 2026 07:24:44 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/astralinux/articles/1105296/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105296</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Магнитно-Наночастичная Томография (МНТ)</title>
-      <link>https://habr.com/ru/articles/1105248/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105248</link>
-      <description>В этой статье я расскажу про медицинскую томографию будущего, о которой вы наверняка ещё ничего не слышали и которую вряд ли найдёте в больницах ни сегодня ни даже в ближайшие годы. И нет, это никак не связано с ИИ, тут будет только про физику, технику и их приложения. Прогресс не остановился и всё ещё шевелится и в других областях, хоть конечно и не так резво. До вот этого самого момента у МНТ даже ещё не было устоявшегося названия на русском, поэтому я возьму на себя честь перевести его и испо</description>
-      <pubDate>Sun, 08 Nov 2026 23:48:09 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1105248/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105248</guid>
+      <title>Корпоративные знания во внутреннем контуре: пять угроз и способы защиты</title>
+      <link>https://habr.com/ru/companies/teamly/articles/1104378/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104378</link>
+      <description>В базе знаний лежат не только инструкции для новичков. Там же хранятся схемы интеграций, условия работы с клиентами, разборы инцидентов и планы развития продуктов. Сотрудникам эти материалы помогают решать задачи. Постороннему человеку они могут рассказать, как устроен бизнес, где у него слабые места и о чём компания договаривается с заказчиками — а это не те сведения, которые стоит раскрывать. Читать далее</description>
+      <pubDate>Mon, 09 Nov 2026 07:21:46 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/teamly/articles/1104378/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104378</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Here’s the full text of Jensen Huang’s memo to Nvidia</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia</link>
-      <description>On Sunday, Nvidia announced it was launching an investigation into CEO Jensen Huang's relationship with Alice Huang, an AI executive and agent of the Chinese government. In addition to the Board of Directors announcing the investigation, Huang sent a memo to Nvidia employees acknowledging the affair. You can read the full text below. To my […]</description>
-      <pubDate>Sun, 08 Nov 2026 22:54:50 +0000</pubDate>
-      <guid>https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>Soul Glo’s Diaspora Problems is a hardcore record like no other</title>
-      <link>https://www.theverge.com/entertainment/1029579/soul-glo-diaspora-problems-hardcore-punk-review</link>
-      <description>Soul Glo has a new record called NA I'M GON GRAB ALLAT coming out in January, and I, for one, can not wait. While two singles have dropped, it's not enough to truly tide me over, so I've been revisiting Songs to Yeet at the Sun and my favorite album of 2022 - Diaspora Problems. […]</description>
-      <pubDate>Sun, 08 Nov 2026 22:37:22 +0000</pubDate>
-      <guid>https://www.theverge.com/entertainment/1029579/soul-glo-diaspora-problems-hardcore-punk-review</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>Apps to distract you from the endless cycle of doomscrolling</title>
-      <link>https://techcrunch.com/2026/11/08/apps-to-distract-you-from-the-endless-cycle-of-doomscrolling/</link>
-      <description>It's hard to break the cycle of doomscrolling, but there are plenty of apps that can help you spend more time on content that’s engaging and productive.</description>
-      <pubDate>Sun, 08 Nov 2026 22:00:00 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/11/08/apps-to-distract-you-from-the-endless-cycle-of-doomscrolling/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>Вайбкодинг закончился, когда пришёл второй пользователь</title>
-      <link>https://habr.com/ru/articles/1101952/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101952</link>
-      <description>Друг принёс Telegram-бота, собранного с помощью ИИ: видео обрабатываются, кнопки работают, осталось арендовать сервер. Потом выяснилось, что параллельное приложение умеет параллельно ждать одну блокировку, а двенадцать обработчиков иногда медленнее пяти. Рассказываю, как мы превращали вайбкод в сервис: от SQLite до PostgreSQL, очередей, общего хранилища и деплоя по кнопке. И почему промпт «сделай хорошо» всё ещё не заменяет инженерные знания. Впустить второго пользователя</description>
-      <pubDate>Sun, 08 Nov 2026 21:55:25 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1101952/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101952</guid>
+      <title>Kling 4.0 в России, нейросеть-генератор видео: как оживить фото нейросетью и не получить галлюцинации ИИ</title>
+      <link>https://habr.com/ru/companies/speshu_ai/articles/1105294/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105294</link>
+      <description>Из одного снимка за 10–15 минут получается пятисекундный ролик, где человек дышит, моргает и улыбается, оставаясь собой. Инструмент — Kling 4.0, свежая нейросеть-генератор видео от Kuaishou. Разбираем, почему лицо при оживлении превращается в восковую маску и какие настройки, промпты и приёмы это лечат. Читать далее</description>
+      <pubDate>Mon, 09 Nov 2026 07:17:23 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/speshu_ai/articles/1105294/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105294</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>AI для PHP‑разработчиков. Часть 8: Свёрточные нейронные сети: ищем границы на изображениях с помощью чистого PHP</title>
-      <link>https://habr.com/ru/articles/1105232/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105232</link>
-      <description>Компьютер не видит фотографию так, как её видит человек. Для него изображение – это набор чисел, описывающих яркость и цвет отдельных пикселей. И чтобы научиться распознавать объекты, находить границы или определять визуальные признаки, нужно научиться работать с этими числами. Для решения таких задач используются свёрточные нейронные сети (Convolutional Neural Networks, CNN). Они широко применяются в компьютерном зрении – от распознавания объектов до анализа медицинских изображений. Одна из осн</description>
-      <pubDate>Sun, 08 Nov 2026 21:17:35 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1105232/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105232</guid>
+      <title>Генерация Verilog-кода</title>
+      <link>https://habr.com/ru/articles/1105292/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105292</link>
+      <description>Эта статья посвящена разработке под ПЛИС, она является пошаговой инструкцией под разработку и генерацию кода Verilog из модели. Читать далее</description>
+      <pubDate>Mon, 09 Nov 2026 07:11:40 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1105292/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105292</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy</title>
-      <link>https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/</link>
-      <description>In a memo to the company, Huang admitted that he had an affair.</description>
-      <pubDate>Sun, 08 Nov 2026 21:00:11 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/</guid>
-      <category>TechCrunch</category>
+      <title>Как расследовать косвенные промпт-инъекции в ИИ-агентах</title>
+      <link>https://habr.com/ru/companies/ru_mts/articles/1101838/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101838</link>
+      <description>В октябре на arXiv авторы из Университета Сунь Ятсена и Гонконгского университета науки и технологий выложили работу AgentTracer . Я ее прочитала и заодно прошлась по материалам Google, Microsoft и OWASP на ту же тему. О защите агентов от инъекций написано много, а вот о расследовании после того, как что-то пошло не так, — гораздо меньше. Поэтому мне захотелось поделиться с вами своими наблюдениями о том, как по журналам агента восстановить ход атаки и что для этого нужно заранее сохранять. Чита</description>
+      <pubDate>Mon, 09 Nov 2026 07:10:45 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/ru_mts/articles/1101838/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101838</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>If Snap’s Specs are still ridiculously expensive, they’re also a lot more comfortable than they used to be</title>
-      <link>https://techcrunch.com/2026/11/08/if-snaps-specs-are-still-ridiculously-expensive-theyre-also-a-lot-more-comfortable-than-they-used-to-be/</link>
-      <description>Snap's Specs, which have been in development for many years now, are going to market this fall. Will they be a hit with users?</description>
-      <pubDate>Sun, 08 Nov 2026 21:00:00 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/11/08/if-snaps-specs-are-still-ridiculously-expensive-theyre-also-a-lot-more-comfortable-than-they-used-to-be/</guid>
-      <category>TechCrunch</category>
+      <title>Без перезагрузки и даунтайма: что нового в виртуализации Deckhouse Platform</title>
+      <link>https://habr.com/ru/companies/flant/articles/1104532/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104532</link>
+      <description>Нужно перенести Windows 2003 или парк машин из VMware, но непонятно, поддерживается ли старая ОС новой виртуализацией? Deckhouse Platform теперь поддерживает устаревшие операционные системы и предлагает три способа миграции ВМ с разным уровнем автоматизации. А ещё мы добавили много нового функционала, который поможет решать любые задачи по запуску ВМ. Собрали новые важные фичи виртуализации Deckhouse Platform в одном дайджесте. Читать далее</description>
+      <pubDate>Mon, 09 Nov 2026 07:08:30 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/flant/articles/1104532/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104532</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Epic Games Launcher is coming to SteamOS</title>
-      <link>https://www.theverge.com/games/1029557/epic-games-launcher-is-coming-to-steamos</link>
-      <description>In October, Epic Games said that it was "investigating" making Fortnite compatible with Valve's Linux-based SteamOS. At the time, Epic Games Launcher was in preview, but SteamOS was not specifically listed as a supported distro. Now, Communications Director Jake Jones has confirmed SteamOS compatibility, along with a handful of other distros, to GamingOnLinux. In response […]</description>
-      <pubDate>Sun, 08 Nov 2026 20:52:05 +0000</pubDate>
-      <guid>https://www.theverge.com/games/1029557/epic-games-launcher-is-coming-to-steamos</guid>
-      <category>The Verge</category>
+      <title>Как разработчику из РФ начать принимать платежи через App Store без ВНЖ</title>
+      <link>https://habr.com/ru/articles/1105186/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105186</link>
+      <description>Всем привет! Хочу поделиться личным опытом того, как после переезда из России мне удалось начать принимать оплату в своих iOS приложениях, будучи гражданином РФ без ВНЖ. Расскажу, как менял регион аккаунта с России на Армению через саппорт Apple, как заполнял W-8BEN и что нужно, чтобы зарегистрировать аккаунт на юрлицо. Читать далее</description>
+      <pubDate>Mon, 09 Nov 2026 07:01:43 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1105186/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105186</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Энергия рядом, но взять её нельзя. Главный парадокс термоядерного синтеза</title>
+      <link>https://habr.com/ru/articles/1105276/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105276</link>
+      <description>Cама идея термоядерного синтеза выглядит совершенно великолепно и, что самое главное, технически просто. Мы берём два элемента, нагреваем их до невероятных температур, заставляем соединяться и получаем огромное количество энергии на выходе. Но за этой видимой простотой скрывается чрезвычайно сложная физика. И именно она объясняет, почему человечество до сих пор не научилось получать дешёвую и практически неисчерпаемую энергию таким способом. Читать далее</description>
+      <pubDate>Mon, 09 Nov 2026 06:43:47 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1105276/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105276</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Большой обзор T3 Code: убийца Claude Desktop и Codex Desktop?</title>
+      <link>https://habr.com/ru/articles/1105274/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105274</link>
+      <description>На прошлой неделе тебя забанили в Cursor, на этой неделе в Claude. Завтра, быть может, очередь дойдёт и до Codex. Каждый раз переезжать в новое окружение, привыкать к интерфейсу и переносить контекст не очень приятно. А иногда хочется просто пользоваться несколькими подписками в одном месте и выбирать агента под задачу. T3 Code собирает разных агентов в одном бесплатном приложении с открытым исходным кодом. Им можно поручать общие задачи, а следить за работой с компьютера или телефона. Проект де</description>
+      <pubDate>Mon, 09 Nov 2026 06:42:59 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1105274/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105274</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>[Перевод] Джейлбрейкаю навигационную систему моей машины, чтобы поменять время</title>
+      <link>https://habr.com/ru/articles/1104880/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104880</link>
+      <description>Я езжу на Renault Latitude 2014 года. Это далеко не самая роскошная машина, да к тому же и не самая новая, но она доставляет меня из точки А в точку Б, справляясь с этим достаточно неплохо, жаловаться не на что. Когда я покупал машину, её предыдущий владелец спросил, нужна ли мне «навигационная SD‑карта». Он сказал, что машине эта SD‑карта, похоже, нужна только для изменения времени на часах, но мне это показалось маловероятным: возможно, он просто не смог разобраться, как зайти в нужное меню на</description>
+      <pubDate>Mon, 09 Nov 2026 06:40:55 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1104880/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104880</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
   </channel>
 </rss>
