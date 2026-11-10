@@ -5,87 +5,87 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Mon, 09 Nov 2026 07:41:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 01:53:54 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>QCOW2 на thick LVM, который растет сам, или как устроено хранилище BREST_LVM</title>
-      <link>https://habr.com/ru/companies/astralinux/articles/1105296/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105296</link>
-      <description>Привет, Хабр! На связи команда виртуализации Astra Cloud. Пока коллеги рассказывают про новые фичи нашей облачной платформы, мы тоже хотим показать, что не стоим на месте. Сегодня речь пойдет о хранилище BREST_LVM в нашем ПК СВ «Брест», который является ядром Astra Cloud Platform. Мы совместили формат QCOW2 с классическим LVM так, чтобы диск ВМ занимал ровно столько места, сколько ему реально нужно, и при этом спокойно жил в кластере с общим хранилищем. Задача звучит просто, но по дороге нас жда</description>
-      <pubDate>Mon, 09 Nov 2026 07:24:44 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/astralinux/articles/1105296/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105296</guid>
-      <category>Все публикации подряд на Хабре</category>
+      <title>Alzheimer’s may have early warning signs outside the brain</title>
+      <link>https://www.sciencedaily.com/releases/2026/11/261108233103.htm</link>
+      <description>A surprising discovery suggests that some early signs of Alzheimer’s disease may begin outside the brain. Using miniature laboratory systems made from human cells, scientists found that genetic mutations associated with inherited Alzheimer’s can disrupt nerve-to-muscle connections without any involvement from the brain or spinal cord. This could help explain why some patients experience changes in balance, walking, and coordination long before memory problems develop.</description>
+      <pubDate>Tue, 10 Nov 2026 01:47:34 +0000</pubDate>
+      <guid>https://www.sciencedaily.com/releases/2026/11/261108233103.htm</guid>
+      <category>All Top News -- ScienceDaily</category>
     </item>
     <item>
-      <title>Корпоративные знания во внутреннем контуре: пять угроз и способы защиты</title>
-      <link>https://habr.com/ru/companies/teamly/articles/1104378/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104378</link>
-      <description>В базе знаний лежат не только инструкции для новичков. Там же хранятся схемы интеграций, условия работы с клиентами, разборы инцидентов и планы развития продуктов. Сотрудникам эти материалы помогают решать задачи. Постороннему человеку они могут рассказать, как устроен бизнес, где у него слабые места и о чём компания договаривается с заказчиками — а это не те сведения, которые стоит раскрывать. Читать далее</description>
-      <pubDate>Mon, 09 Nov 2026 07:21:46 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/teamly/articles/1104378/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104378</guid>
-      <category>Все публикации подряд на Хабре</category>
+      <title>Anthropic reportedly plans to move forward with IPO plans</title>
+      <link>https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/</link>
+      <description>The AI company is expected to set its valuation range this week, the Wall Street Journal reported.</description>
+      <pubDate>Tue, 10 Nov 2026 01:27:12 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/</guid>
+      <category>TechCrunch</category>
     </item>
     <item>
-      <title>Kling 4.0 в России, нейросеть-генератор видео: как оживить фото нейросетью и не получить галлюцинации ИИ</title>
-      <link>https://habr.com/ru/companies/speshu_ai/articles/1105294/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105294</link>
-      <description>Из одного снимка за 10–15 минут получается пятисекундный ролик, где человек дышит, моргает и улыбается, оставаясь собой. Инструмент — Kling 4.0, свежая нейросеть-генератор видео от Kuaishou. Разбираем, почему лицо при оживлении превращается в восковую маску и какие настройки, промпты и приёмы это лечат. Читать далее</description>
-      <pubDate>Mon, 09 Nov 2026 07:17:23 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/speshu_ai/articles/1105294/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105294</guid>
-      <category>Все публикации подряд на Хабре</category>
+      <title>After 40 years, CERN finds evidence of a one-in-10-billion particle decay</title>
+      <link>https://www.sciencedaily.com/releases/2026/11/261108233047.htm</link>
+      <description>CERN scientists have finally found evidence of a particle decay so rare that it happens only once in roughly 10 billion decays, ending a search spanning more than 40 years. The breakthrough could help physicists uncover hidden particles and forces that lie beyond the reach of today's most powerful accelerators.</description>
+      <pubDate>Tue, 10 Nov 2026 00:42:52 +0000</pubDate>
+      <guid>https://www.sciencedaily.com/releases/2026/11/261108233047.htm</guid>
+      <category>All Top News -- ScienceDaily</category>
     </item>
     <item>
-      <title>Генерация Verilog-кода</title>
-      <link>https://habr.com/ru/articles/1105292/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105292</link>
-      <description>Эта статья посвящена разработке под ПЛИС, она является пошаговой инструкцией под разработку и генерацию кода Verilog из модели. Читать далее</description>
-      <pubDate>Mon, 09 Nov 2026 07:11:40 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1105292/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105292</guid>
-      <category>Все публикации подряд на Хабре</category>
+      <title>David Ellison says AI could be the ‘biggest creative unlock in modern history’</title>
+      <link>https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai</link>
+      <description>During Paramount Skydance's latest earnings call, CEO David Ellison said "it's hard to imagine" AI won't have a bigger impact on the film industry than CGI. In response to a question about the company's outlook for AI, Ellison said: "I think when you zoom out and look at production, AI really has the potential to […]</description>
+      <pubDate>Tue, 10 Nov 2026 00:28:49 +0000</pubDate>
+      <guid>https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai</guid>
+      <category>The Verge</category>
     </item>
     <item>
-      <title>Как расследовать косвенные промпт-инъекции в ИИ-агентах</title>
-      <link>https://habr.com/ru/companies/ru_mts/articles/1101838/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101838</link>
-      <description>В октябре на arXiv авторы из Университета Сунь Ятсена и Гонконгского университета науки и технологий выложили работу AgentTracer . Я ее прочитала и заодно прошлась по материалам Google, Microsoft и OWASP на ту же тему. О защите агентов от инъекций написано много, а вот о расследовании после того, как что-то пошло не так, — гораздо меньше. Поэтому мне захотелось поделиться с вами своими наблюдениями о том, как по журналам агента восстановить ход атаки и что для этого нужно заранее сохранять. Чита</description>
-      <pubDate>Mon, 09 Nov 2026 07:10:45 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/ru_mts/articles/1101838/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101838</guid>
-      <category>Все публикации подряд на Хабре</category>
+      <title>What could China get from Jensen Huang?</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang</link>
+      <description>It's difficult to overstate Nvidia's power in today's AI landscape. The company's chips are the bedrock upon which advanced AI technology in the US is being built, and demand has consistently outpaced supply for years. Nvidia has also been an influential investor in a wide range of up-and-coming AI companies in recent years, with about […]</description>
+      <pubDate>Mon, 09 Nov 2026 23:51:58 +0000</pubDate>
+      <guid>https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang</guid>
+      <category>The Verge</category>
     </item>
     <item>
-      <title>Без перезагрузки и даунтайма: что нового в виртуализации Deckhouse Platform</title>
-      <link>https://habr.com/ru/companies/flant/articles/1104532/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104532</link>
-      <description>Нужно перенести Windows 2003 или парк машин из VMware, но непонятно, поддерживается ли старая ОС новой виртуализацией? Deckhouse Platform теперь поддерживает устаревшие операционные системы и предлагает три способа миграции ВМ с разным уровнем автоматизации. А ещё мы добавили много нового функционала, который поможет решать любые задачи по запуску ВМ. Собрали новые важные фичи виртуализации Deckhouse Platform в одном дайджесте. Читать далее</description>
-      <pubDate>Mon, 09 Nov 2026 07:08:30 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/flant/articles/1104532/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104532</guid>
-      <category>Все публикации подряд на Хабре</category>
+      <title>Here’s what Trump said he knew about Jensen Huang</title>
+      <link>https://www.theverge.com/tech/1030446/trump-jensen-huang-press-conference</link>
+      <description>President Trump held a White House press briefing earlier today and responded to several questions about his knowledge of Nvidia CEO Jensen Huang's affair with an alleged Chinese spy. Huang said this weekend that he had been "​​unfaithful" to his wife, and the company has opened an investigation into Huang. Recent articles from The New […]</description>
+      <pubDate>Mon, 09 Nov 2026 23:47:46 +0000</pubDate>
+      <guid>https://www.theverge.com/tech/1030446/trump-jensen-huang-press-conference</guid>
+      <category>The Verge</category>
     </item>
     <item>
-      <title>Как разработчику из РФ начать принимать платежи через App Store без ВНЖ</title>
-      <link>https://habr.com/ru/articles/1105186/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105186</link>
-      <description>Всем привет! Хочу поделиться личным опытом того, как после переезда из России мне удалось начать принимать оплату в своих iOS приложениях, будучи гражданином РФ без ВНЖ. Расскажу, как менял регион аккаунта с России на Армению через саппорт Apple, как заполнял W-8BEN и что нужно, чтобы зарегистрировать аккаунт на юрлицо. Читать далее</description>
-      <pubDate>Mon, 09 Nov 2026 07:01:43 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1105186/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105186</guid>
-      <category>Все публикации подряд на Хабре</category>
+      <title>Jensen Huang reportedly engaged a PR firm with a history of handling high-profile sex scandals a year ago</title>
+      <link>https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/</link>
+      <description>The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported.</description>
+      <pubDate>Mon, 09 Nov 2026 23:28:37 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/</guid>
+      <category>TechCrunch</category>
     </item>
     <item>
-      <title>Энергия рядом, но взять её нельзя. Главный парадокс термоядерного синтеза</title>
-      <link>https://habr.com/ru/articles/1105276/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105276</link>
-      <description>Cама идея термоядерного синтеза выглядит совершенно великолепно и, что самое главное, технически просто. Мы берём два элемента, нагреваем их до невероятных температур, заставляем соединяться и получаем огромное количество энергии на выходе. Но за этой видимой простотой скрывается чрезвычайно сложная физика. И именно она объясняет, почему человечество до сих пор не научилось получать дешёвую и практически неисчерпаемую энергию таким способом. Читать далее</description>
-      <pubDate>Mon, 09 Nov 2026 06:43:47 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1105276/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105276</guid>
-      <category>Все публикации подряд на Хабре</category>
+      <title>Scientists finally discover why we learn to love bitter coffee</title>
+      <link>https://www.sciencedaily.com/releases/2026/11/261108233100.htm</link>
+      <description>Scientists have uncovered a hidden gut-to-brain dopamine pathway that helps explain why bitter coffee and other initially unpleasant flavors can become favorites over time. The discovery reveals how the brain learns to crave certain foods and could eventually lead to new ways of reshaping eating habits and food preferences.</description>
+      <pubDate>Mon, 09 Nov 2026 23:19:35 +0000</pubDate>
+      <guid>https://www.sciencedaily.com/releases/2026/11/261108233100.htm</guid>
+      <category>All Top News -- ScienceDaily</category>
     </item>
     <item>
-      <title>Большой обзор T3 Code: убийца Claude Desktop и Codex Desktop?</title>
-      <link>https://habr.com/ru/articles/1105274/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105274</link>
-      <description>На прошлой неделе тебя забанили в Cursor, на этой неделе в Claude. Завтра, быть может, очередь дойдёт и до Codex. Каждый раз переезжать в новое окружение, привыкать к интерфейсу и переносить контекст не очень приятно. А иногда хочется просто пользоваться несколькими подписками в одном месте и выбирать агента под задачу. T3 Code собирает разных агентов в одном бесплатном приложении с открытым исходным кодом. Им можно поручать общие задачи, а следить за работой с компьютера или телефона. Проект де</description>
-      <pubDate>Mon, 09 Nov 2026 06:42:59 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1105274/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105274</guid>
-      <category>Все публикации подряд на Хабре</category>
+      <title>Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang</link>
+      <description>The leather-jacketed CEO of Nvidia, Jensen Huang, has acknowledged an affair with Megaspeed exec Alice Huang, spurring an investigation by his company and intense discussions worldwide. Recent reporting noted that since last year, US intelligence reports had identified Alice Huang (no relation) as not only the exec for an AI compute company renting access to […]</description>
+      <pubDate>Mon, 09 Nov 2026 23:07:59 +0000</pubDate>
+      <guid>https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang</guid>
+      <category>The Verge</category>
     </item>
     <item>
-      <title>[Перевод] Джейлбрейкаю навигационную систему моей машины, чтобы поменять время</title>
-      <link>https://habr.com/ru/articles/1104880/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104880</link>
-      <description>Я езжу на Renault Latitude 2014 года. Это далеко не самая роскошная машина, да к тому же и не самая новая, но она доставляет меня из точки А в точку Б, справляясь с этим достаточно неплохо, жаловаться не на что. Когда я покупал машину, её предыдущий владелец спросил, нужна ли мне «навигационная SD‑карта». Он сказал, что машине эта SD‑карта, похоже, нужна только для изменения времени на часах, но мне это показалось маловероятным: возможно, он просто не смог разобраться, как зайти в нужное меню на</description>
-      <pubDate>Mon, 09 Nov 2026 06:40:55 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1104880/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104880</guid>
+      <title>Движки e‑repa.ru. Часть 3. qt: вопрос к члену предложения и краткий ответ</title>
+      <link>https://habr.com/ru/articles/1105732/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105732</link>
+      <description>Во второй части я показал, как js-движок qb выводит на экран инвентарь английского вопроса и правила его построения: по зонам карточек ученик видит, из каких структур состоит вопрос и из какой зоны берётся каждый элемент. Однако вопрос в qb ученик строит от русской опоры, и тип вопроса уже задан ею: «Кто преподавал химию и физику…?» сам сообщает, что это вопрос к подлежащему. Утвердительного английского предложения, из которого вопрос получается, ученик в qb не видит, а значит, не видит и отноше</description>
+      <pubDate>Mon, 09 Nov 2026 23:05:04 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1105732/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105732</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
   </channel>
