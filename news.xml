@@ -5,88 +5,88 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Tue, 10 Nov 2026 17:30:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 22:54:06 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks</title>
-      <link>https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/</link>
-      <description>As participants talk, Claude can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in the meeting chat, and access connected work apps to retrieve information, such as last year's figures.</description>
-      <pubDate>Tue, 10 Nov 2026 17:30:00 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/</guid>
+      <title>Как агент улучшил себя, не тронув ни одного веса: разбираем The Trinity</title>
+      <link>https://habr.com/ru/articles/1106306/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106306</link>
+      <description>26 октября на arXiv вышла работа The Trinity: Capability-Driven Recursive Self-Improvement for Multimodal Agents . Авторов 21, на странице Hugging Face указан Национальный университет Сингапура. Агент улучшает сам себя, при этом веса модели не меняются вообще: внутри замороженная Claude Opus 5, ни одного шага градиента за всю работу. Улучшается обвязка (harness) — код вокруг модели, который решает, что ей показать, что запомнить и когда остановиться. В этой статье мы разберём, как устроена The T</description>
+      <pubDate>Tue, 10 Nov 2026 22:13:38 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1106306/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106306</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Поймай меня, если с прокси</title>
+      <link>https://habr.com/ru/articles/1106198/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106198</link>
+      <description>Фрэнк Эбегнейл был гениальным мошенником за счет своей феноменальной наблюдательности и досконального (причем, приобретенного самостоятельно) знания чековых операций. То, что нам втюхивают сегодня на Хабре в статьях про ИИ для 1С - это его убогая пародия, способная только украсть чужой токен. Читать далее</description>
+      <pubDate>Tue, 10 Nov 2026 22:12:36 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1106198/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106198</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>The VR Disney Plus app on Meta Quest now has 3D movies</title>
+      <link>https://www.theverge.com/tech/1031256/meta-quest-disney-plus-vr-3d-movies</link>
+      <description>Disney is bringing more than 60 3D movies to the Disney Plus app on Meta Quest. The movies will be available to Disney Plus subscribers as part of an updated Disney Plus app that's rolling out today. The 3D movies you can check out include The Avengers and Black Panther, Meta says. But the updated […]</description>
+      <pubDate>Tue, 10 Nov 2026 22:00:00 +0000</pubDate>
+      <guid>https://www.theverge.com/tech/1031256/meta-quest-disney-plus-vr-3d-movies</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>Oura is acquiring medical AI chatbot startup Counsel Health</title>
+      <link>https://www.theverge.com/gadgets/1031284/oura-counsel-health-acquisition</link>
+      <description>Oura announced its quarterly earnings today and said it agreed to acquire Counsel Health for $625 million, after adding the company's AI chatbot to its app earlier this year. Counsel Health calls itself an "AI-native primary care company," using the app to deliver AI-generated responses and insights based on users' health data reported from their […]</description>
+      <pubDate>Tue, 10 Nov 2026 21:40:31 +0000</pubDate>
+      <guid>https://www.theverge.com/gadgets/1031284/oura-counsel-health-acquisition</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>OpenAI acquires Odessia, travel startup created by Sonder founder</title>
+      <link>https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/</link>
+      <description>OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry.</description>
+      <pubDate>Tue, 10 Nov 2026 21:08:52 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/</guid>
       <category>TechCrunch</category>
     </item>
     <item>
-      <title>Цена решает? Похоже, что да</title>
-      <link>https://habr.com/ru/companies/vktech/articles/1106254/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106254</link>
-      <description>Для 83% участников опроса м стоимость лицензий и эксплуатации — один из главных критериев выбора СУБД. Еще 76% отметили простоту внедрения и миграции, а 68% — совместимость с приложениями. 23 октября эксперты обсудили, как меняется российский рынок СУБД, что мешает компаниям переходить на новые решения и какие технологии будут востребованы в ближайшие годы. В дискуссии участвовал Руслан Галиев, руководитель команды коробочных продуктов Tarantool в VK Tech. 👉 Смотреть эфир AM Live 👉 Подписывайтес</description>
-      <pubDate>Tue, 10 Nov 2026 17:16:51 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/vktech/articles/1106254/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106254</guid>
+      <title>Атаки на ИИ-агентов: разбираем проект таксономии NIST</title>
+      <link>https://habr.com/ru/articles/1106012/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106012</link>
+      <description>NIST выпустил проект SP 2400-102 E2026 с новой главой об атаках на ИИ-агентов. Разбираю способы вмешательства в работу агента, выбор сценариев испытаний и применение таксономии при согласовании модели угроз с исполнителем. Читать далее</description>
+      <pubDate>Tue, 10 Nov 2026 21:08:03 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1106012/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106012</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Veo Omni Flash 1.2 вышла: 15 секунд и до 7 референсов уже есть, физика пока под вопросом</title>
-      <link>https://habr.com/ru/companies/syntx_ai/articles/1105692/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105692</link>
-      <description>Новая видеомодель Google Veo Omni Flash 1.2 заняла 4-е место в моём тесте «текст в видео». В октябре я дал 12 видеомоделям один промпт про уличного повара с лапшой и поставил каждой оценку от 1 до 10. У Omni Flash 1.2 получилось 8,5, а у прошлой версии, Veo Omni Flash 1.1, было 7 и 6-е место. Ролик у обеих стоит 21 токен. Во втором моём тесте, «оживление кадра», модели получали три готовых кадра (портрет, стройку и банку) и оживляли их, а я считал итог из 100. Здесь Omni Flash 1.2 набрала 76,2, </description>
-      <pubDate>Tue, 10 Nov 2026 17:14:16 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/syntx_ai/articles/1105692/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105692</guid>
-      <category>Все публикации подряд на Хабре</category>
+      <title>Sony cancels live-service shooter Fairgames</title>
+      <link>https://www.theverge.com/games/1031242/sony-playstation-fairgames-canceled</link>
+      <description>Sony has canceled Fairgames, a heist game announced in 2023, according to Bloomberg. Fairgames had once been part of Sony's big planned push for PlayStation live service games, but the company ended up canceling some planned live service titles, including in the God of War and The Last of Us franchises, and it shut down […]</description>
+      <pubDate>Tue, 10 Nov 2026 21:06:12 +0000</pubDate>
+      <guid>https://www.theverge.com/games/1031242/sony-playstation-fairgames-canceled</guid>
+      <category>The Verge</category>
     </item>
     <item>
-      <title>Как научить ИИ-ассистента отвечать на вопросы, опираясь на базу знаний компании?</title>
-      <link>https://habr.com/ru/companies/vktech/articles/1106250/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106250</link>
-      <description>Технология Retrieval-Augmented Generation (RAG), или генерация с поиском по источникам, позволяет ассистенту опираться не только на знания, полученные при обучении, но и на корпоративные документы. Она помогает находить в базе знаний фрагменты, подходящие к вопросу, и передавать их модели для подготовки ответа. 19 ноября в 11:00 на вебинаре VK AI Space разберем, как собрать ассистента с RAG и проверить его ответы. Дмитрий Багрий, менеджер продукта VK Tech, расскажет: 🔹 как подключить корпоративн</description>
-      <pubDate>Tue, 10 Nov 2026 17:14:07 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/vktech/articles/1106250/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106250</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Портативный безагентский сканер для закрытия “слепых зон” в ИТ-парке</title>
-      <link>https://habr.com/ru/articles/1106248/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106248</link>
-      <description>Привет, Хабр! Мы занимаемся разработкой инструментов для управления ИТ-инфраструктурой и сегодня представляем наш новый продукт — cscan . Это сетевой сканер и инструмент для безагентской инвентаризации, который является частью экосистемы программы для инвентаризации компьютеров Severcart . Мы выпускаем версию 0.1 как Freeware, чтобы предоставить специалистам удобный и лёгкий инструмент для решения конкретных задач учёта оборудования. Читать далее</description>
-      <pubDate>Tue, 10 Nov 2026 17:08:01 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1106248/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106248</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Задача «Бедный Йорик»: как добиться от локального синтеза речи переходов на шёпот, пауз и смены эмоционального регистра</title>
-      <link>https://habr.com/ru/articles/1106246/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106246</link>
-      <description>Для ровной дикторской начитки локальных TTS-моделей сегодня хватает с запасом: подаёшь на вход чистый образец голоса, расставляешь ударения — и получаешь разборчивую озвучку для лекции, технической заметки или видеоинструкции. Сложности начинаются, когда нужна не дикторская читка, а актёрская игра с широким эмоциональным диапазоном — чтобы внутри одного абзаца голос прошёл через горькую иронию, ком в горле, глухой шёпот на выдохе и резкий эмоциональный срыв. Компактные модели на 0,5B–1,7B параме</description>
-      <pubDate>Tue, 10 Nov 2026 17:07:56 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1106246/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106246</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Инцидент в 1С: как передать контекст и не начинать диагностику заново</title>
-      <link>https://habr.com/ru/companies/infostart/articles/1106244/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106244</link>
-      <description>Сложный сбой в 1С редко начинается с чистого листа. Внутренняя команда уже проверила журналы, сравнила окружения и выдвинула несколько гипотез. Но при передаче задачи следующей линии поддержки часть контекста теряется, и диагностика фактически начинается заново. Длина обращения сама по себе не помогает диагностике. Даже подробное письмо бесполезно без точного времени, масштаба, условий воспроизведения и перечня уже выполненных проверок. Ниже - структура, которая превращает сообщение «у нас тормо</description>
-      <pubDate>Tue, 10 Nov 2026 17:07:12 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/infostart/articles/1106244/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106244</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline</title>
-      <link>https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/</link>
-      <description>The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.</description>
-      <pubDate>Tue, 10 Nov 2026 17:04:19 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/</guid>
+      <title>OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect</title>
+      <link>https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/</link>
+      <description>New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines.</description>
+      <pubDate>Tue, 10 Nov 2026 20:52:13 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/</guid>
       <category>TechCrunch</category>
     </item>
     <item>
-      <title>Есть ли в эмбеддингах «направление негации»? Проверил на 8 моделях</title>
-      <link>https://habr.com/ru/articles/1106238/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106238</link>
-      <description>Поиск по смыслу плохо различает «открыто» и «не открыто»: векторы почти совпадают, потому что тема одна и та же. В словах это знают все, а вот насколько это системно и можно ли починить без дообучения, мне хотелось проверить на данных. Идея простая. В word2vec есть знаменитое king − man + woman ≈ queen: «пол» оказывается почти линейным направлением. Есть ли такое «направление негации» в финальных эмбеддингах моделей, то есть в тех векторах, по которым реально ищут? И если есть, можно ли одной та</description>
-      <pubDate>Tue, 10 Nov 2026 16:56:25 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1106238/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106238</guid>
+      <title>Я написала промпт по-русски. Два агента перестали искать решение в интернете</title>
+      <link>https://habr.com/ru/articles/1106298/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106298</link>
+      <description>Я всегда общалась с ИИ на английском, разве что мне надо было составить какое-то очень специфическое сообщение, или вообще перевести мой текст на испанский. Для меня это языковая практика, да и в целом на темы программирования проще общаться на английском, чтобы не переводить на русский термины. Сейчас я работаю над тем, как эффективнее ставить задачи агенту и предоставлять ему нужные инструкции. И меня заинтересовал вопрос, влияет ли используемый язык на то, как агент решает задачу. Я проводила</description>
+      <pubDate>Tue, 10 Nov 2026 20:47:09 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1106298/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106298</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>ИИ‑агент уверенно ошибается, а ИИ‑проверяющий говорит: всё в порядке</title>
-      <link>https://habr.com/ru/articles/1106236/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106236</link>
-      <description>Пользователь просит ИИ‑агента «отменить предыдущий заказ», но у него два заказа, и агент должен спросить, какой именно имеется в виду. Вместо уточнения агент сам выбирает заказ, отменяет его и сообщает, что всё готово. Второй ИИ, которому поручено проверять ответы, читает сообщение об отмене, видит, что оно соответствует состоянию базы, и ставит положительную оценку. Проверяющий в этом эпизоде не соврал о том, что произошло: заказ действительно отменили. Он оценивал, насколько честно агент описа</description>
-      <pubDate>Tue, 10 Nov 2026 16:51:56 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1106236/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106236</guid>
-      <category>Все публикации подряд на Хабре</category>
+      <title>Proximal Ventures raises debut fund to back startups bringing AI to drug development</title>
+      <link>https://techcrunch.com/2026/11/10/proximal-ventures-raises-debut-fund-to-back-startups-bringing-ai-to-drug-development/</link>
+      <description>Former SignalFire investor Sahir Raoof raises $27.5 million for new fund targeting AI in pharma.</description>
+      <pubDate>Tue, 10 Nov 2026 20:47:05 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/11/10/proximal-ventures-raises-debut-fund-to-back-startups-bringing-ai-to-drug-development/</guid>
+      <category>TechCrunch</category>
     </item>
   </channel>
 </rss>
