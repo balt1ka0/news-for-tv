@@ -5,87 +5,87 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Tue, 10 Nov 2026 09:20:59 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 17:30:37 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Я нанял ИИ искать мне работу. Неделя вторая: 8 откликов, 2 отказа, ноль собеседований</title>
-      <link>https://habr.com/ru/articles/1105864/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105864</link>
-      <description>Восемь откликов, два отказа, ноль собеседований за неделю. Короткий отчёт: что агент делает хорошо, где тупит и чего он принципиально не видит. Спойлер: главный тормоз эксперимента — не агент. Читать далее</description>
-      <pubDate>Tue, 10 Nov 2026 09:14:28 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1105864/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105864</guid>
+      <title>Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks</title>
+      <link>https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/</link>
+      <description>As participants talk, Claude can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in the meeting chat, and access connected work apps to retrieve information, such as last year's figures.</description>
+      <pubDate>Tue, 10 Nov 2026 17:30:00 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>Цена решает? Похоже, что да</title>
+      <link>https://habr.com/ru/companies/vktech/articles/1106254/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106254</link>
+      <description>Для 83% участников опроса м стоимость лицензий и эксплуатации — один из главных критериев выбора СУБД. Еще 76% отметили простоту внедрения и миграции, а 68% — совместимость с приложениями. 23 октября эксперты обсудили, как меняется российский рынок СУБД, что мешает компаниям переходить на новые решения и какие технологии будут востребованы в ближайшие годы. В дискуссии участвовал Руслан Галиев, руководитель команды коробочных продуктов Tarantool в VK Tech. 👉 Смотреть эфир AM Live 👉 Подписывайтес</description>
+      <pubDate>Tue, 10 Nov 2026 17:16:51 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/vktech/articles/1106254/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106254</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Проблематика Parallel / Multi‑service Charging в системах OCS</title>
-      <link>https://habr.com/ru/articles/1105880/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105880</link>
-      <description>В данной статье расскажу реальную историю которая произошла в компании которая создавала OCS который поддерживал паралельный чарджинг. Пока немного теории Читать далее</description>
-      <pubDate>Tue, 10 Nov 2026 09:14:11 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1105880/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105880</guid>
+      <title>Veo Omni Flash 1.2 вышла: 15 секунд и до 7 референсов уже есть, физика пока под вопросом</title>
+      <link>https://habr.com/ru/companies/syntx_ai/articles/1105692/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105692</link>
+      <description>Новая видеомодель Google Veo Omni Flash 1.2 заняла 4-е место в моём тесте «текст в видео». В октябре я дал 12 видеомоделям один промпт про уличного повара с лапшой и поставил каждой оценку от 1 до 10. У Omni Flash 1.2 получилось 8,5, а у прошлой версии, Veo Omni Flash 1.1, было 7 и 6-е место. Ролик у обеих стоит 21 токен. Во втором моём тесте, «оживление кадра», модели получали три готовых кадра (портрет, стройку и банку) и оживляли их, а я считал итог из 100. Здесь Omni Flash 1.2 набрала 76,2, </description>
+      <pubDate>Tue, 10 Nov 2026 17:14:16 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/syntx_ai/articles/1105692/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105692</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>[Перевод] Могла ли зародиться жизнь в мире РНК?</title>
-      <link>https://habr.com/ru/articles/1105700/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105700</link>
-      <description>На Земле почти не осталось уголков, где жизнь не смогла бы закрепиться. Живые организмы влияют на облака, климат и даже горные породы. Однако вопрос о том, как жизнь впервые появилась на безжизненной планете около четырёх миллиардов лет назад, остаётся одной из величайших загадок науки. Многие исследователи считают, что самая фундаментальная способность жизни — самовоспроизведение, то есть способность надёжно хранить и копировать генетическую информацию. Если это так, то самым первым формам жизн</description>
-      <pubDate>Tue, 10 Nov 2026 09:13:44 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1105700/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105700</guid>
+      <title>Как научить ИИ-ассистента отвечать на вопросы, опираясь на базу знаний компании?</title>
+      <link>https://habr.com/ru/companies/vktech/articles/1106250/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106250</link>
+      <description>Технология Retrieval-Augmented Generation (RAG), или генерация с поиском по источникам, позволяет ассистенту опираться не только на знания, полученные при обучении, но и на корпоративные документы. Она помогает находить в базе знаний фрагменты, подходящие к вопросу, и передавать их модели для подготовки ответа. 19 ноября в 11:00 на вебинаре VK AI Space разберем, как собрать ассистента с RAG и проверить его ответы. Дмитрий Багрий, менеджер продукта VK Tech, расскажет: 🔹 как подключить корпоративн</description>
+      <pubDate>Tue, 10 Nov 2026 17:14:07 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/vktech/articles/1106250/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106250</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>В Китае на фоне распродаж завирусилось мини‑приложение для борьбы с импульсивными покупками</title>
-      <link>https://habr.com/ru/articles/1105878/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105878</link>
-      <description>В преддверии китайского шопинг‑фестиваля «11.11» (Double 11) в мессенджере WeChat завирусилось мини‑приложение Wallet, Please Wait. Оно помогает потребителям сдерживать импульсивные покупки, делегируя решение другим людям, пишет South China Morning Post. Приложение работает следующим образом: пользователь создаёт «заявку на покупку», где указывает товар, цену, причины для покупки, а также дешёвые альтернативы при возможности. Заявкой можно поделиться с близкими или опубликовать её на общедоступн</description>
-      <pubDate>Tue, 10 Nov 2026 09:13:43 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1105878/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105878</guid>
+      <title>Портативный безагентский сканер для закрытия “слепых зон” в ИТ-парке</title>
+      <link>https://habr.com/ru/articles/1106248/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106248</link>
+      <description>Привет, Хабр! Мы занимаемся разработкой инструментов для управления ИТ-инфраструктурой и сегодня представляем наш новый продукт — cscan . Это сетевой сканер и инструмент для безагентской инвентаризации, который является частью экосистемы программы для инвентаризации компьютеров Severcart . Мы выпускаем версию 0.1 как Freeware, чтобы предоставить специалистам удобный и лёгкий инструмент для решения конкретных задач учёта оборудования. Читать далее</description>
+      <pubDate>Tue, 10 Nov 2026 17:08:01 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1106248/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106248</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Как продвигать спортивный бренд: 5 шагов</title>
-      <link>https://habr.com/ru/companies/click/articles/1105870/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105870</link>
-      <description>Российский рынок спортивных товаров растет , но вместе со спросом усиливается и борьба за покупателей. Продвижение при этом становится сложнее: доступные рекламные каналы дорожают , а их эффективность не обязательно повышается. Приходится также учитывать запрет рекламы на заблокированных ресурсах и строгие требования к маркировке. В такой ситуации недостаточно выбрать несколько популярных площадок и запустить объявления. Важно понимать, какую задачу решает каждый канал, куда уходит бюджет и что </description>
-      <pubDate>Tue, 10 Nov 2026 09:08:20 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/click/articles/1105870/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105870</guid>
+      <title>Задача «Бедный Йорик»: как добиться от локального синтеза речи переходов на шёпот, пауз и смены эмоционального регистра</title>
+      <link>https://habr.com/ru/articles/1106246/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106246</link>
+      <description>Для ровной дикторской начитки локальных TTS-моделей сегодня хватает с запасом: подаёшь на вход чистый образец голоса, расставляешь ударения — и получаешь разборчивую озвучку для лекции, технической заметки или видеоинструкции. Сложности начинаются, когда нужна не дикторская читка, а актёрская игра с широким эмоциональным диапазоном — чтобы внутри одного абзаца голос прошёл через горькую иронию, ком в горле, глухой шёпот на выдохе и резкий эмоциональный срыв. Компактные модели на 0,5B–1,7B параме</description>
+      <pubDate>Tue, 10 Nov 2026 17:07:56 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1106246/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106246</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Valve добавила в Steam статистику частоты кадров при игре на Steam Deck</title>
-      <link>https://habr.com/ru/articles/1105856/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105856</link>
-      <description>Valve выпустила обновление, которое позволит просматривать данные о средней частоте кадров при игре на Steam Deck. Значение рассчитывается на основе информации от пользователей, согласившихся предоставлять эти данные, и доступно для игр, проверенных на совместимость со Steam Deck. Читать далее</description>
-      <pubDate>Tue, 10 Nov 2026 09:07:43 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1105856/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105856</guid>
+      <title>Инцидент в 1С: как передать контекст и не начинать диагностику заново</title>
+      <link>https://habr.com/ru/companies/infostart/articles/1106244/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106244</link>
+      <description>Сложный сбой в 1С редко начинается с чистого листа. Внутренняя команда уже проверила журналы, сравнила окружения и выдвинула несколько гипотез. Но при передаче задачи следующей линии поддержки часть контекста теряется, и диагностика фактически начинается заново. Длина обращения сама по себе не помогает диагностике. Даже подробное письмо бесполезно без точного времени, масштаба, условий воспроизведения и перечня уже выполненных проверок. Ниже - структура, которая превращает сообщение «у нас тормо</description>
+      <pubDate>Tue, 10 Nov 2026 17:07:12 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/infostart/articles/1106244/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106244</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>От feature team к tiny team: как два-три человека и ИИ-агенты делают продукт</title>
-      <link>https://habr.com/ru/companies/raiffeisenbank/articles/1103952/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1103952</link>
-      <description>Привет, я Дима Вдовин, техлид в команде Budget Tool, которая занимается управлением расходами. В апреле мы с коллегами провели эксперимент по созданию tiny teams, усиленных с помощью ИИ. Первый спринт полностью провалили, но уже в июле масштабировали подход на всю нашу команду и готовы поделиться своими успехами и ошибками. Рассказываю, как всё проходило на практике: как именно мы работали с ИИ-агентами, развивали командный harness и начали использовать автономных агентов на сервере для выполнен</description>
-      <pubDate>Tue, 10 Nov 2026 09:01:42 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/raiffeisenbank/articles/1103952/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1103952</guid>
+      <title>Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline</title>
+      <link>https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/</link>
+      <description>The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.</description>
+      <pubDate>Tue, 10 Nov 2026 17:04:19 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>Есть ли в эмбеддингах «направление негации»? Проверил на 8 моделях</title>
+      <link>https://habr.com/ru/articles/1106238/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106238</link>
+      <description>Поиск по смыслу плохо различает «открыто» и «не открыто»: векторы почти совпадают, потому что тема одна и та же. В словах это знают все, а вот насколько это системно и можно ли починить без дообучения, мне хотелось проверить на данных. Идея простая. В word2vec есть знаменитое king − man + woman ≈ queen: «пол» оказывается почти линейным направлением. Есть ли такое «направление негации» в финальных эмбеддингах моделей, то есть в тех векторах, по которым реально ищут? И если есть, можно ли одной та</description>
+      <pubDate>Tue, 10 Nov 2026 16:56:25 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1106238/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106238</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Зоопарк ИИ-агентов, или как не обанкротиться</title>
-      <link>https://habr.com/ru/companies/ruvds/articles/1097558/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1097558</link>
-      <description>ИИ-агенты в компании — это круто, это эффективно, это успешный успех, до первого подобного случая: «DevOps нам пишет, что ИИ-агент удалил нашу продакшен-базу, и бэкапы тоже». Пока агент один, за ним можно присматривать персонально, с переменным успехом, однако в компаниях их становится всё больше: один отвечает клиентам, другой ревьюит код, третий рисует баннеры, четвёртый конспектирует созвоны. У каждого свои данные и свои ключи. И свой аппетит к токенам. Получается уже не помощник, а зоопарк, </description>
-      <pubDate>Tue, 10 Nov 2026 09:01:42 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/ruvds/articles/1097558/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1097558</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Rockstar продаёт реальный спортивный автомобиль Grotti Cheetah из GTA VI</title>
-      <link>https://habr.com/ru/articles/1105858/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105858</link>
-      <description>В Лондоне на продажу выставили полноразмерную копию автомобиля Grotti Cheetah из GTA VI. Авто полностью на ходу, а Rockstar создала его вместе с ателье West Coast Customs. Стоит экземпляр 1 млн фунтов стерлингов (~111 млн рублей). Читать далее</description>
-      <pubDate>Tue, 10 Nov 2026 08:49:12 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1105858/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105858</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Представлен вариант перехвата содержимого экрана через электромагнитное излучение HDMI‑кабеля</title>
-      <link>https://habr.com/ru/articles/1105830/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105830</link>
-      <description>Исследовательский проект под названием Deep‑TEMPEST доказал , что злоумышленники могут считывать содержимое экрана компьютера через стены. Для этого используется искусственный интеллект, который декодирует электромагнитные сигналы, исходящие от стандартных кабелей HDMI. Читать далее</description>
-      <pubDate>Tue, 10 Nov 2026 08:47:41 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1105830/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105830</guid>
+      <title>ИИ‑агент уверенно ошибается, а ИИ‑проверяющий говорит: всё в порядке</title>
+      <link>https://habr.com/ru/articles/1106236/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106236</link>
+      <description>Пользователь просит ИИ‑агента «отменить предыдущий заказ», но у него два заказа, и агент должен спросить, какой именно имеется в виду. Вместо уточнения агент сам выбирает заказ, отменяет его и сообщает, что всё готово. Второй ИИ, которому поручено проверять ответы, читает сообщение об отмене, видит, что оно соответствует состоянию базы, и ставит положительную оценку. Проверяющий в этом эпизоде не соврал о том, что произошло: заказ действительно отменили. Он оценивал, насколько честно агент описа</description>
+      <pubDate>Tue, 10 Nov 2026 16:51:56 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1106236/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106236</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
   </channel>
