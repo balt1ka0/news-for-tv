@@ -5,87 +5,87 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Tue, 10 Nov 2026 01:53:54 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 09:20:59 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Alzheimer’s may have early warning signs outside the brain</title>
-      <link>https://www.sciencedaily.com/releases/2026/11/261108233103.htm</link>
-      <description>A surprising discovery suggests that some early signs of Alzheimer’s disease may begin outside the brain. Using miniature laboratory systems made from human cells, scientists found that genetic mutations associated with inherited Alzheimer’s can disrupt nerve-to-muscle connections without any involvement from the brain or spinal cord. This could help explain why some patients experience changes in balance, walking, and coordination long before memory problems develop.</description>
-      <pubDate>Tue, 10 Nov 2026 01:47:34 +0000</pubDate>
-      <guid>https://www.sciencedaily.com/releases/2026/11/261108233103.htm</guid>
-      <category>All Top News -- ScienceDaily</category>
+      <title>Я нанял ИИ искать мне работу. Неделя вторая: 8 откликов, 2 отказа, ноль собеседований</title>
+      <link>https://habr.com/ru/articles/1105864/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105864</link>
+      <description>Восемь откликов, два отказа, ноль собеседований за неделю. Короткий отчёт: что агент делает хорошо, где тупит и чего он принципиально не видит. Спойлер: главный тормоз эксперимента — не агент. Читать далее</description>
+      <pubDate>Tue, 10 Nov 2026 09:14:28 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1105864/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105864</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Anthropic reportedly plans to move forward with IPO plans</title>
-      <link>https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/</link>
-      <description>The AI company is expected to set its valuation range this week, the Wall Street Journal reported.</description>
-      <pubDate>Tue, 10 Nov 2026 01:27:12 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/</guid>
-      <category>TechCrunch</category>
+      <title>Проблематика Parallel / Multi‑service Charging в системах OCS</title>
+      <link>https://habr.com/ru/articles/1105880/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105880</link>
+      <description>В данной статье расскажу реальную историю которая произошла в компании которая создавала OCS который поддерживал паралельный чарджинг. Пока немного теории Читать далее</description>
+      <pubDate>Tue, 10 Nov 2026 09:14:11 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1105880/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105880</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>After 40 years, CERN finds evidence of a one-in-10-billion particle decay</title>
-      <link>https://www.sciencedaily.com/releases/2026/11/261108233047.htm</link>
-      <description>CERN scientists have finally found evidence of a particle decay so rare that it happens only once in roughly 10 billion decays, ending a search spanning more than 40 years. The breakthrough could help physicists uncover hidden particles and forces that lie beyond the reach of today's most powerful accelerators.</description>
-      <pubDate>Tue, 10 Nov 2026 00:42:52 +0000</pubDate>
-      <guid>https://www.sciencedaily.com/releases/2026/11/261108233047.htm</guid>
-      <category>All Top News -- ScienceDaily</category>
+      <title>[Перевод] Могла ли зародиться жизнь в мире РНК?</title>
+      <link>https://habr.com/ru/articles/1105700/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105700</link>
+      <description>На Земле почти не осталось уголков, где жизнь не смогла бы закрепиться. Живые организмы влияют на облака, климат и даже горные породы. Однако вопрос о том, как жизнь впервые появилась на безжизненной планете около четырёх миллиардов лет назад, остаётся одной из величайших загадок науки. Многие исследователи считают, что самая фундаментальная способность жизни — самовоспроизведение, то есть способность надёжно хранить и копировать генетическую информацию. Если это так, то самым первым формам жизн</description>
+      <pubDate>Tue, 10 Nov 2026 09:13:44 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1105700/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105700</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>David Ellison says AI could be the ‘biggest creative unlock in modern history’</title>
-      <link>https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai</link>
-      <description>During Paramount Skydance's latest earnings call, CEO David Ellison said "it's hard to imagine" AI won't have a bigger impact on the film industry than CGI. In response to a question about the company's outlook for AI, Ellison said: "I think when you zoom out and look at production, AI really has the potential to […]</description>
-      <pubDate>Tue, 10 Nov 2026 00:28:49 +0000</pubDate>
-      <guid>https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai</guid>
-      <category>The Verge</category>
+      <title>В Китае на фоне распродаж завирусилось мини‑приложение для борьбы с импульсивными покупками</title>
+      <link>https://habr.com/ru/articles/1105878/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105878</link>
+      <description>В преддверии китайского шопинг‑фестиваля «11.11» (Double 11) в мессенджере WeChat завирусилось мини‑приложение Wallet, Please Wait. Оно помогает потребителям сдерживать импульсивные покупки, делегируя решение другим людям, пишет South China Morning Post. Приложение работает следующим образом: пользователь создаёт «заявку на покупку», где указывает товар, цену, причины для покупки, а также дешёвые альтернативы при возможности. Заявкой можно поделиться с близкими или опубликовать её на общедоступн</description>
+      <pubDate>Tue, 10 Nov 2026 09:13:43 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1105878/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105878</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>What could China get from Jensen Huang?</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang</link>
-      <description>It's difficult to overstate Nvidia's power in today's AI landscape. The company's chips are the bedrock upon which advanced AI technology in the US is being built, and demand has consistently outpaced supply for years. Nvidia has also been an influential investor in a wide range of up-and-coming AI companies in recent years, with about […]</description>
-      <pubDate>Mon, 09 Nov 2026 23:51:58 +0000</pubDate>
-      <guid>https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang</guid>
-      <category>The Verge</category>
+      <title>Как продвигать спортивный бренд: 5 шагов</title>
+      <link>https://habr.com/ru/companies/click/articles/1105870/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105870</link>
+      <description>Российский рынок спортивных товаров растет , но вместе со спросом усиливается и борьба за покупателей. Продвижение при этом становится сложнее: доступные рекламные каналы дорожают , а их эффективность не обязательно повышается. Приходится также учитывать запрет рекламы на заблокированных ресурсах и строгие требования к маркировке. В такой ситуации недостаточно выбрать несколько популярных площадок и запустить объявления. Важно понимать, какую задачу решает каждый канал, куда уходит бюджет и что </description>
+      <pubDate>Tue, 10 Nov 2026 09:08:20 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/click/articles/1105870/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105870</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Here’s what Trump said he knew about Jensen Huang</title>
-      <link>https://www.theverge.com/tech/1030446/trump-jensen-huang-press-conference</link>
-      <description>President Trump held a White House press briefing earlier today and responded to several questions about his knowledge of Nvidia CEO Jensen Huang's affair with an alleged Chinese spy. Huang said this weekend that he had been "​​unfaithful" to his wife, and the company has opened an investigation into Huang. Recent articles from The New […]</description>
-      <pubDate>Mon, 09 Nov 2026 23:47:46 +0000</pubDate>
-      <guid>https://www.theverge.com/tech/1030446/trump-jensen-huang-press-conference</guid>
-      <category>The Verge</category>
+      <title>Valve добавила в Steam статистику частоты кадров при игре на Steam Deck</title>
+      <link>https://habr.com/ru/articles/1105856/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105856</link>
+      <description>Valve выпустила обновление, которое позволит просматривать данные о средней частоте кадров при игре на Steam Deck. Значение рассчитывается на основе информации от пользователей, согласившихся предоставлять эти данные, и доступно для игр, проверенных на совместимость со Steam Deck. Читать далее</description>
+      <pubDate>Tue, 10 Nov 2026 09:07:43 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1105856/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105856</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Jensen Huang reportedly engaged a PR firm with a history of handling high-profile sex scandals a year ago</title>
-      <link>https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/</link>
-      <description>The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported.</description>
-      <pubDate>Mon, 09 Nov 2026 23:28:37 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/</guid>
-      <category>TechCrunch</category>
+      <title>От feature team к tiny team: как два-три человека и ИИ-агенты делают продукт</title>
+      <link>https://habr.com/ru/companies/raiffeisenbank/articles/1103952/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1103952</link>
+      <description>Привет, я Дима Вдовин, техлид в команде Budget Tool, которая занимается управлением расходами. В апреле мы с коллегами провели эксперимент по созданию tiny teams, усиленных с помощью ИИ. Первый спринт полностью провалили, но уже в июле масштабировали подход на всю нашу команду и готовы поделиться своими успехами и ошибками. Рассказываю, как всё проходило на практике: как именно мы работали с ИИ-агентами, развивали командный harness и начали использовать автономных агентов на сервере для выполнен</description>
+      <pubDate>Tue, 10 Nov 2026 09:01:42 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/raiffeisenbank/articles/1103952/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1103952</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Scientists finally discover why we learn to love bitter coffee</title>
-      <link>https://www.sciencedaily.com/releases/2026/11/261108233100.htm</link>
-      <description>Scientists have uncovered a hidden gut-to-brain dopamine pathway that helps explain why bitter coffee and other initially unpleasant flavors can become favorites over time. The discovery reveals how the brain learns to crave certain foods and could eventually lead to new ways of reshaping eating habits and food preferences.</description>
-      <pubDate>Mon, 09 Nov 2026 23:19:35 +0000</pubDate>
-      <guid>https://www.sciencedaily.com/releases/2026/11/261108233100.htm</guid>
-      <category>All Top News -- ScienceDaily</category>
+      <title>Зоопарк ИИ-агентов, или как не обанкротиться</title>
+      <link>https://habr.com/ru/companies/ruvds/articles/1097558/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1097558</link>
+      <description>ИИ-агенты в компании — это круто, это эффективно, это успешный успех, до первого подобного случая: «DevOps нам пишет, что ИИ-агент удалил нашу продакшен-базу, и бэкапы тоже». Пока агент один, за ним можно присматривать персонально, с переменным успехом, однако в компаниях их становится всё больше: один отвечает клиентам, другой ревьюит код, третий рисует баннеры, четвёртый конспектирует созвоны. У каждого свои данные и свои ключи. И свой аппетит к токенам. Получается уже не помощник, а зоопарк, </description>
+      <pubDate>Tue, 10 Nov 2026 09:01:42 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/ruvds/articles/1097558/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1097558</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang</link>
-      <description>The leather-jacketed CEO of Nvidia, Jensen Huang, has acknowledged an affair with Megaspeed exec Alice Huang, spurring an investigation by his company and intense discussions worldwide. Recent reporting noted that since last year, US intelligence reports had identified Alice Huang (no relation) as not only the exec for an AI compute company renting access to […]</description>
-      <pubDate>Mon, 09 Nov 2026 23:07:59 +0000</pubDate>
-      <guid>https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang</guid>
-      <category>The Verge</category>
+      <title>Rockstar продаёт реальный спортивный автомобиль Grotti Cheetah из GTA VI</title>
+      <link>https://habr.com/ru/articles/1105858/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105858</link>
+      <description>В Лондоне на продажу выставили полноразмерную копию автомобиля Grotti Cheetah из GTA VI. Авто полностью на ходу, а Rockstar создала его вместе с ателье West Coast Customs. Стоит экземпляр 1 млн фунтов стерлингов (~111 млн рублей). Читать далее</description>
+      <pubDate>Tue, 10 Nov 2026 08:49:12 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1105858/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105858</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Движки e‑repa.ru. Часть 3. qt: вопрос к члену предложения и краткий ответ</title>
-      <link>https://habr.com/ru/articles/1105732/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105732</link>
-      <description>Во второй части я показал, как js-движок qb выводит на экран инвентарь английского вопроса и правила его построения: по зонам карточек ученик видит, из каких структур состоит вопрос и из какой зоны берётся каждый элемент. Однако вопрос в qb ученик строит от русской опоры, и тип вопроса уже задан ею: «Кто преподавал химию и физику…?» сам сообщает, что это вопрос к подлежащему. Утвердительного английского предложения, из которого вопрос получается, ученик в qb не видит, а значит, не видит и отноше</description>
-      <pubDate>Mon, 09 Nov 2026 23:05:04 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1105732/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105732</guid>
+      <title>Представлен вариант перехвата содержимого экрана через электромагнитное излучение HDMI‑кабеля</title>
+      <link>https://habr.com/ru/articles/1105830/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105830</link>
+      <description>Исследовательский проект под названием Deep‑TEMPEST доказал , что злоумышленники могут считывать содержимое экрана компьютера через стены. Для этого используется искусственный интеллект, который декодирует электромагнитные сигналы, исходящие от стандартных кабелей HDMI. Читать далее</description>
+      <pubDate>Tue, 10 Nov 2026 08:47:41 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1105830/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105830</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
   </channel>
