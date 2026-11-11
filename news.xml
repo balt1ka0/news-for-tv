@@ -5,87 +5,87 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Wed, 11 Nov 2026 02:33:47 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 10:24:53 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Scientists discover why some mosquitoes love you and others don't</title>
-      <link>https://www.sciencedaily.com/releases/2026/11/261106174541.htm</link>
-      <description>A surprising new study reveals that mosquitoes have very different tastes in humans, with each species attracted to its own combination of skin odors, chemicals, and bacteria. The discovery challenges the idea of a universal mosquito magnet and could lead to more effective repellents against dangerous disease-spreading mosquitoes.</description>
-      <pubDate>Wed, 11 Nov 2026 02:21:13 +0000</pubDate>
-      <guid>https://www.sciencedaily.com/releases/2026/11/261106174541.htm</guid>
-      <category>All Top News -- ScienceDaily</category>
-    </item>
-    <item>
-      <title>Выпуск обновления Mesa 26.3</title>
-      <link>https://habr.com/ru/articles/1105980/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105980</link>
-      <description>9 ноября 2026 года состоялся релиз свободной реализации API OpenGL и Vulkan — Mesa 26.3.0 . Выпуск Mesa 24.0.0 произошёл в феврале 2024 года. Релиз Mesa 25.0 случился в феврале 2025 года. Версия Mesa 26.0 вышла в феврале 2026 года. Читать далее</description>
-      <pubDate>Wed, 11 Nov 2026 02:08:30 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1105980/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105980</guid>
+      <title>Тестировщики, расскажите нам о себе. Мы снимем об этом видео</title>
+      <link>https://habr.com/ru/companies/skbkontur/articles/1106530/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106530</link>
+      <description>Мы решили в интересном формате рассказать о важном направлении для Контура — тестировании ⭐️ и сравнить то, как мы воспринимаем себя, с тем, что думает о нас рынок. Читать далее</description>
+      <pubDate>Wed, 11 Nov 2026 10:22:22 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/skbkontur/articles/1106530/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106530</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Живая карта мозга нейросети: 48 слоёв, 512 экспертов, одна GTX 1070 + Strata + Qwen3.8-Flash-Next</title>
-      <link>https://habr.com/ru/articles/1106322/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106322</link>
-      <description>В прошлых двух статьях я рассказывал, как запустить Qwen3.8-Flash-Next (125 млрд параметров) на старом железе и как снять программный потолок FP16 на видеокартах. Обе статьи были про железо и про то, что можно взять готовое и заставить работать. Эта - другая. Я залез внутрь самого движка (Strata), построил живую визуализацию того, что он делает с экспертами модели под капотом, попробовал ответить на вопрос “а эксперты реально специализируются по темам?” - и на середине пути поймал себя на методо</description>
-      <pubDate>Wed, 11 Nov 2026 01:38:17 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1106322/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106322</guid>
+      <title>ИИ в поддержке пользователей: конкурент или помощник</title>
+      <link>https://habr.com/ru/companies/otus/articles/1101210/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101210</link>
+      <description>ИИ уже берёт на себя типовые обращения и поиск ответов, заставляя специалистов поддержки задуматься о своём будущем. Но попытки полностью заменить людей нейросетями могут обернуться потерей клиентов и падением качества сервиса. Разбираемся, какие задачи действительно стоит доверить ИИ, как перестроить работу команды и куда теперь расти специалистам поддержки. Разобраться в перспективах</description>
+      <pubDate>Wed, 11 Nov 2026 10:20:33 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/otus/articles/1101210/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101210</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Scientists discover a giant 66-pound rodent that lived 34 million years ago</title>
-      <link>https://www.sciencedaily.com/releases/2026/11/261110042532.htm</link>
-      <description>Scientists have uncovered fossils of a giant rodent that lived in Thailand 34 million years ago, revealing that enormous rodents evolved much earlier than previously thought. Named Yakamys sirindhornae, the ancient animal may have weighed around 66 pounds, roughly twice as much as other known rodents of its time.</description>
-      <pubDate>Wed, 11 Nov 2026 01:36:04 +0000</pubDate>
-      <guid>https://www.sciencedaily.com/releases/2026/11/261110042532.htm</guid>
-      <category>All Top News -- ScienceDaily</category>
-    </item>
-    <item>
-      <title>X launches its own clipping feature to spur influencer engagement</title>
-      <link>https://techcrunch.com/2026/11/10/x-launches-its-own-clipping-feature-to-spur-influencer-engagement/</link>
-      <description>X is jumping into clipping, the popular practice of cutting long videos into short, shareable clips that can go viral.</description>
-      <pubDate>Wed, 11 Nov 2026 01:02:13 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/11/10/x-launches-its-own-clipping-feature-to-spur-influencer-engagement/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>237-million-year-old fossils reveal a bizarre armored sea amphibian</title>
-      <link>https://www.sciencedaily.com/releases/2026/11/261109205409.htm</link>
-      <description>A bizarre, heavily armored amphibian roamed the oceans 237 million years ago, despite the fact that modern amphibians cannot survive entirely in saltwater. Discovered in China, the giant salamander-sized creature may be the first known amphibian to have adapted to a fully marine existence.</description>
-      <pubDate>Wed, 11 Nov 2026 00:59:32 +0000</pubDate>
-      <guid>https://www.sciencedaily.com/releases/2026/11/261109205409.htm</guid>
-      <category>All Top News -- ScienceDaily</category>
-    </item>
-    <item>
-      <title>Microsoft’s DLSS competitor is out for the Xbox Ally X and works in handheld mode</title>
-      <link>https://www.theverge.com/tech/1031446/microsoft-automatic-super-resolution-auto-sr-upscaling</link>
-      <description>Microsoft is now rolling out Automatic Super Resolution (Auto SR), an upscaling technology that competes with Nvidia's DLSS, for the Xbox Ally X, Xbox Ally X20, and select Windows Copilot Plus PCs, the company announced today. Auto SR is also getting some new features alongside this official release. In April, Microsoft started testing Auto SR […]</description>
-      <pubDate>Wed, 11 Nov 2026 00:34:24 +0000</pubDate>
-      <guid>https://www.theverge.com/tech/1031446/microsoft-automatic-super-resolution-auto-sr-upscaling</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>Как Джон Макафи создал бизнес-модель кибербеза и научил мир серьезно относиться к вирусам</title>
-      <link>https://habr.com/ru/companies/ispsystem/articles/1106320/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106320</link>
-      <description>На заре цифровой эпохи ни рядовые пользователи, ни топ-менеджеры в модных костюмах не воспринимали вредоносный код как реальную угрозу. Появление культового загрузочного вируса Brain считалось скорее досадным хулиганством, чем катастрофой. Что иронично, первый в истории вирус для ПК создавался вовсе не ради взлома или кражи данных, а для защиты авторских прав. Крупный менеджмент не видел экономического смысла инвестировать в защиту от угроз, которые казались чисто гипотетическими. Рынка информац</description>
-      <pubDate>Wed, 11 Nov 2026 00:15:02 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/ispsystem/articles/1106320/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106320</guid>
+      <title>«30 FPS — это норма »: почему фанаты и эксперты защищают Rockstar за кадровую частоту в GTA 6</title>
+      <link>https://habr.com/ru/companies/ggsel/articles/1106528/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106528</link>
+      <description>После выхода свежего трейлера Grand Theft Auto 6 подтвердились главные технические опасения геймеров: на современных консолях игра будет работать в режиме 30 кадров в секунду. В эпоху, когда стандартом стали 60 FPS и выбор между «качеством» и «производительностью», такой блокбастер в 30 кадров может показаться катастрофой. Однако эксперты и преданные фанаты встали на защиту решения Rockstar. Читать новость далее</description>
+      <pubDate>Wed, 11 Nov 2026 10:17:27 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/ggsel/articles/1106528/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106528</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Astronomers discover hidden alien planet in James Webb images</title>
-      <link>https://www.sciencedaily.com/releases/2026/11/261108233028.htm</link>
-      <description>A breakthrough in telescope imaging could reveal countless alien worlds that have been hiding in plain sight. Scientists developed a new technique that uses a digital twin of the James Webb Space Telescope to remove the overwhelming glare of stars, making faint exoplanets two to 15 times easier to detect than with conventional methods. The technology has already uncovered a previously hidden planet in existing telescope data and could reveal many more.</description>
-      <pubDate>Tue, 10 Nov 2026 23:56:04 +0000</pubDate>
-      <guid>https://www.sciencedaily.com/releases/2026/11/261108233028.htm</guid>
-      <category>All Top News -- ScienceDaily</category>
+      <title>Apple объявила о закрытии сообщества поддержки AppleCare с 20 ноября 2026 года</title>
+      <link>https://habr.com/ru/articles/1106526/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106526</link>
+      <description>Apple предупредила пользователей о закрытии сообщества поддержки AppleCare (AppleCare Support Community) c 20 ноября 2026 года. AppleCare Support Community — это официальная платформа Apple, где пользователи помогают друг другу решать проблемы и делятся советами. Читать далее</description>
+      <pubDate>Wed, 11 Nov 2026 10:16:58 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1106526/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106526</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Про обиженных криэйторов, или Кто кому должен за нейросеть</title>
-      <link>https://habr.com/ru/articles/1106318/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106318</link>
-      <description>Читаю очередную волну возмущения. Владельцы сайтов, художники, музыканты, фотографы — все те, кого объединяет емкое слово «криэйторы», — требуют сатисфакции. ИИ, видите ли, обучался возможно на их контенте. И теперь должен. Потому что «конскую цену за работу» уже не выставишь: у заказчика появилась опция сгенерировать за три копейки. Я смотрю на это и вижу две проблемы. Одна — логическая. Вторая — антропологическая. Обе неприятны для обиженных. Читать далее</description>
-      <pubDate>Tue, 10 Nov 2026 23:46:26 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1106318/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106318</guid>
+      <title>Бот стартует, а база ещё не готова: что на самом деле делает After= в systemd</title>
+      <link>https://habr.com/ru/articles/1106522/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106522</link>
+      <description>После перезагрузки бот падает при подключении к PostgreSQL, хотя в unit-файле есть After=postgresql.service. Через минуту запускается вручную. Разберём, что именно упорядочивает After=, как проверить готовность базы и подключение с параметрами приложения, а также где заканчиваются возможности Restart=on-failure. Читать далее</description>
+      <pubDate>Wed, 11 Nov 2026 10:14:01 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1106522/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106522</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>«Задача о трёх соседях», или динамические сайты на облачном хранилище</title>
+      <link>https://habr.com/ru/articles/1106520/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106520</link>
+      <description>Привет, хабровчане! В этой статье хотел бы поднять вопрос, над которым мы с командой ведём дискуссии уже на протяжении нескольких месяцев, а конкретно с февраля этого года, когда я лично столкнулся с неудобствами белых списков. Наверное, глупо рассказывать что единственное и главное неудобство этих самых списков заключается в том, что мобильный интернет ограничивается и вся инфраструктура "вне" отваливается. Логично, что все ресурсы внутри белых списков контролируются некоей организацией. Не буд</description>
+      <pubDate>Wed, 11 Nov 2026 10:13:49 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1106520/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106520</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Как аналитики заменили тестировщиков и приручили ИИ</title>
+      <link>https://habr.com/ru/companies/infotecs_tech/articles/1106434/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106434</link>
+      <description>Привет, Хабр! На нашем ИТ-митапе для технического комьюнити эксперт ГК «КОРУС Консалтинг» выступила с темой «Автоматизация тестирования с помощью ИИ: идеи, гипотезы, результаты» . Читать далее</description>
+      <pubDate>Wed, 11 Nov 2026 10:11:32 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/infotecs_tech/articles/1106434/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106434</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Java Jam: записи докладов о Java-разработке, AI-агентах и обновлении стека</title>
+      <link>https://habr.com/ru/companies/yoomoney/articles/1106516/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106516</link>
+      <description>Как обновлять технологический стек в большом проекте, автоматизировать разработку с помощью AI-агентов и находить решения для задач, с которыми не справляются готовые инструменты? Эти темы разобрали эксперты ЮMoney и Сбера на Java Jam — митапе ЮMoney о Java-разработке и не только. Делимся тремя основными мыслями и записью докладов. Читать далее</description>
+      <pubDate>Wed, 11 Nov 2026 10:00:59 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/yoomoney/articles/1106516/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106516</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>В джунглях флоры: как складывалась архитектура фронтенда</title>
+      <link>https://habr.com/ru/companies/rolf_autotech/articles/1106508/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106508</link>
+      <description>ФЛОРА - это цифровая платформа по управлению дилерским бизнесом со сложной бизнес-логикой. Над ней работают 25+ продуктовых команд и несколько платформенных. Фронтенд системы состоит из более чем 65 микрофронтендов (далее МФ), и их количество постоянно увеличивается: регулярно появляются новые направления, функционал расширяется. Каждый МФ (или группа МФ) может иметь свой роутинг, стейт, набор sharing-модулей и типов. Группы МФ объединяются в целые подсистемы со своим жизненным циклом и экосисте</description>
+      <pubDate>Wed, 11 Nov 2026 09:58:58 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/rolf_autotech/articles/1106508/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106508</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Airbus A350–1000ULR попал в Книгу рекордов Гиннесса за самый дальний беспосадочный перелёт</title>
+      <link>https://habr.com/ru/articles/1106478/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106478</link>
+      <description>Самолёт Airbus A350–1000ULR попал в Книгу рекордов Гиннесса за самый дальний беспосадочный перелёт в истории коммерческой авиации. За 24 часа 24 минуты он преодолел расстояние 23 155,6 км из Мельбурна в Тулузу. Читать далее</description>
+      <pubDate>Wed, 11 Nov 2026 09:57:30 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1106478/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106478</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
   </channel>
