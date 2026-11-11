@@ -5,88 +5,88 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Tue, 10 Nov 2026 22:54:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 02:33:47 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Как агент улучшил себя, не тронув ни одного веса: разбираем The Trinity</title>
-      <link>https://habr.com/ru/articles/1106306/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106306</link>
-      <description>26 октября на arXiv вышла работа The Trinity: Capability-Driven Recursive Self-Improvement for Multimodal Agents . Авторов 21, на странице Hugging Face указан Национальный университет Сингапура. Агент улучшает сам себя, при этом веса модели не меняются вообще: внутри замороженная Claude Opus 5, ни одного шага градиента за всю работу. Улучшается обвязка (harness) — код вокруг модели, который решает, что ей показать, что запомнить и когда остановиться. В этой статье мы разберём, как устроена The T</description>
-      <pubDate>Tue, 10 Nov 2026 22:13:38 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1106306/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106306</guid>
+      <title>Scientists discover why some mosquitoes love you and others don't</title>
+      <link>https://www.sciencedaily.com/releases/2026/11/261106174541.htm</link>
+      <description>A surprising new study reveals that mosquitoes have very different tastes in humans, with each species attracted to its own combination of skin odors, chemicals, and bacteria. The discovery challenges the idea of a universal mosquito magnet and could lead to more effective repellents against dangerous disease-spreading mosquitoes.</description>
+      <pubDate>Wed, 11 Nov 2026 02:21:13 +0000</pubDate>
+      <guid>https://www.sciencedaily.com/releases/2026/11/261106174541.htm</guid>
+      <category>All Top News -- ScienceDaily</category>
+    </item>
+    <item>
+      <title>Выпуск обновления Mesa 26.3</title>
+      <link>https://habr.com/ru/articles/1105980/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105980</link>
+      <description>9 ноября 2026 года состоялся релиз свободной реализации API OpenGL и Vulkan — Mesa 26.3.0 . Выпуск Mesa 24.0.0 произошёл в феврале 2024 года. Релиз Mesa 25.0 случился в феврале 2025 года. Версия Mesa 26.0 вышла в феврале 2026 года. Читать далее</description>
+      <pubDate>Wed, 11 Nov 2026 02:08:30 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1105980/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105980</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Поймай меня, если с прокси</title>
-      <link>https://habr.com/ru/articles/1106198/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106198</link>
-      <description>Фрэнк Эбегнейл был гениальным мошенником за счет своей феноменальной наблюдательности и досконального (причем, приобретенного самостоятельно) знания чековых операций. То, что нам втюхивают сегодня на Хабре в статьях про ИИ для 1С - это его убогая пародия, способная только украсть чужой токен. Читать далее</description>
-      <pubDate>Tue, 10 Nov 2026 22:12:36 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1106198/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106198</guid>
+      <title>Живая карта мозга нейросети: 48 слоёв, 512 экспертов, одна GTX 1070 + Strata + Qwen3.8-Flash-Next</title>
+      <link>https://habr.com/ru/articles/1106322/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106322</link>
+      <description>В прошлых двух статьях я рассказывал, как запустить Qwen3.8-Flash-Next (125 млрд параметров) на старом железе и как снять программный потолок FP16 на видеокартах. Обе статьи были про железо и про то, что можно взять готовое и заставить работать. Эта - другая. Я залез внутрь самого движка (Strata), построил живую визуализацию того, что он делает с экспертами модели под капотом, попробовал ответить на вопрос “а эксперты реально специализируются по темам?” - и на середине пути поймал себя на методо</description>
+      <pubDate>Wed, 11 Nov 2026 01:38:17 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1106322/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106322</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>The VR Disney Plus app on Meta Quest now has 3D movies</title>
-      <link>https://www.theverge.com/tech/1031256/meta-quest-disney-plus-vr-3d-movies</link>
-      <description>Disney is bringing more than 60 3D movies to the Disney Plus app on Meta Quest. The movies will be available to Disney Plus subscribers as part of an updated Disney Plus app that's rolling out today. The 3D movies you can check out include The Avengers and Black Panther, Meta says. But the updated […]</description>
-      <pubDate>Tue, 10 Nov 2026 22:00:00 +0000</pubDate>
-      <guid>https://www.theverge.com/tech/1031256/meta-quest-disney-plus-vr-3d-movies</guid>
-      <category>The Verge</category>
+      <title>Scientists discover a giant 66-pound rodent that lived 34 million years ago</title>
+      <link>https://www.sciencedaily.com/releases/2026/11/261110042532.htm</link>
+      <description>Scientists have uncovered fossils of a giant rodent that lived in Thailand 34 million years ago, revealing that enormous rodents evolved much earlier than previously thought. Named Yakamys sirindhornae, the ancient animal may have weighed around 66 pounds, roughly twice as much as other known rodents of its time.</description>
+      <pubDate>Wed, 11 Nov 2026 01:36:04 +0000</pubDate>
+      <guid>https://www.sciencedaily.com/releases/2026/11/261110042532.htm</guid>
+      <category>All Top News -- ScienceDaily</category>
     </item>
     <item>
-      <title>Oura is acquiring medical AI chatbot startup Counsel Health</title>
-      <link>https://www.theverge.com/gadgets/1031284/oura-counsel-health-acquisition</link>
-      <description>Oura announced its quarterly earnings today and said it agreed to acquire Counsel Health for $625 million, after adding the company's AI chatbot to its app earlier this year. Counsel Health calls itself an "AI-native primary care company," using the app to deliver AI-generated responses and insights based on users' health data reported from their […]</description>
-      <pubDate>Tue, 10 Nov 2026 21:40:31 +0000</pubDate>
-      <guid>https://www.theverge.com/gadgets/1031284/oura-counsel-health-acquisition</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>OpenAI acquires Odessia, travel startup created by Sonder founder</title>
-      <link>https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/</link>
-      <description>OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry.</description>
-      <pubDate>Tue, 10 Nov 2026 21:08:52 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/</guid>
+      <title>X launches its own clipping feature to spur influencer engagement</title>
+      <link>https://techcrunch.com/2026/11/10/x-launches-its-own-clipping-feature-to-spur-influencer-engagement/</link>
+      <description>X is jumping into clipping, the popular practice of cutting long videos into short, shareable clips that can go viral.</description>
+      <pubDate>Wed, 11 Nov 2026 01:02:13 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/11/10/x-launches-its-own-clipping-feature-to-spur-influencer-engagement/</guid>
       <category>TechCrunch</category>
     </item>
     <item>
-      <title>Атаки на ИИ-агентов: разбираем проект таксономии NIST</title>
-      <link>https://habr.com/ru/articles/1106012/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106012</link>
-      <description>NIST выпустил проект SP 2400-102 E2026 с новой главой об атаках на ИИ-агентов. Разбираю способы вмешательства в работу агента, выбор сценариев испытаний и применение таксономии при согласовании модели угроз с исполнителем. Читать далее</description>
-      <pubDate>Tue, 10 Nov 2026 21:08:03 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1106012/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106012</guid>
-      <category>Все публикации подряд на Хабре</category>
+      <title>237-million-year-old fossils reveal a bizarre armored sea amphibian</title>
+      <link>https://www.sciencedaily.com/releases/2026/11/261109205409.htm</link>
+      <description>A bizarre, heavily armored amphibian roamed the oceans 237 million years ago, despite the fact that modern amphibians cannot survive entirely in saltwater. Discovered in China, the giant salamander-sized creature may be the first known amphibian to have adapted to a fully marine existence.</description>
+      <pubDate>Wed, 11 Nov 2026 00:59:32 +0000</pubDate>
+      <guid>https://www.sciencedaily.com/releases/2026/11/261109205409.htm</guid>
+      <category>All Top News -- ScienceDaily</category>
     </item>
     <item>
-      <title>Sony cancels live-service shooter Fairgames</title>
-      <link>https://www.theverge.com/games/1031242/sony-playstation-fairgames-canceled</link>
-      <description>Sony has canceled Fairgames, a heist game announced in 2023, according to Bloomberg. Fairgames had once been part of Sony's big planned push for PlayStation live service games, but the company ended up canceling some planned live service titles, including in the God of War and The Last of Us franchises, and it shut down […]</description>
-      <pubDate>Tue, 10 Nov 2026 21:06:12 +0000</pubDate>
-      <guid>https://www.theverge.com/games/1031242/sony-playstation-fairgames-canceled</guid>
+      <title>Microsoft’s DLSS competitor is out for the Xbox Ally X and works in handheld mode</title>
+      <link>https://www.theverge.com/tech/1031446/microsoft-automatic-super-resolution-auto-sr-upscaling</link>
+      <description>Microsoft is now rolling out Automatic Super Resolution (Auto SR), an upscaling technology that competes with Nvidia's DLSS, for the Xbox Ally X, Xbox Ally X20, and select Windows Copilot Plus PCs, the company announced today. Auto SR is also getting some new features alongside this official release. In April, Microsoft started testing Auto SR […]</description>
+      <pubDate>Wed, 11 Nov 2026 00:34:24 +0000</pubDate>
+      <guid>https://www.theverge.com/tech/1031446/microsoft-automatic-super-resolution-auto-sr-upscaling</guid>
       <category>The Verge</category>
     </item>
     <item>
-      <title>OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect</title>
-      <link>https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/</link>
-      <description>New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines.</description>
-      <pubDate>Tue, 10 Nov 2026 20:52:13 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>Я написала промпт по-русски. Два агента перестали искать решение в интернете</title>
-      <link>https://habr.com/ru/articles/1106298/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106298</link>
-      <description>Я всегда общалась с ИИ на английском, разве что мне надо было составить какое-то очень специфическое сообщение, или вообще перевести мой текст на испанский. Для меня это языковая практика, да и в целом на темы программирования проще общаться на английском, чтобы не переводить на русский термины. Сейчас я работаю над тем, как эффективнее ставить задачи агенту и предоставлять ему нужные инструкции. И меня заинтересовал вопрос, влияет ли используемый язык на то, как агент решает задачу. Я проводила</description>
-      <pubDate>Tue, 10 Nov 2026 20:47:09 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1106298/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106298</guid>
+      <title>Как Джон Макафи создал бизнес-модель кибербеза и научил мир серьезно относиться к вирусам</title>
+      <link>https://habr.com/ru/companies/ispsystem/articles/1106320/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106320</link>
+      <description>На заре цифровой эпохи ни рядовые пользователи, ни топ-менеджеры в модных костюмах не воспринимали вредоносный код как реальную угрозу. Появление культового загрузочного вируса Brain считалось скорее досадным хулиганством, чем катастрофой. Что иронично, первый в истории вирус для ПК создавался вовсе не ради взлома или кражи данных, а для защиты авторских прав. Крупный менеджмент не видел экономического смысла инвестировать в защиту от угроз, которые казались чисто гипотетическими. Рынка информац</description>
+      <pubDate>Wed, 11 Nov 2026 00:15:02 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/ispsystem/articles/1106320/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106320</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Proximal Ventures raises debut fund to back startups bringing AI to drug development</title>
-      <link>https://techcrunch.com/2026/11/10/proximal-ventures-raises-debut-fund-to-back-startups-bringing-ai-to-drug-development/</link>
-      <description>Former SignalFire investor Sahir Raoof raises $27.5 million for new fund targeting AI in pharma.</description>
-      <pubDate>Tue, 10 Nov 2026 20:47:05 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/11/10/proximal-ventures-raises-debut-fund-to-back-startups-bringing-ai-to-drug-development/</guid>
-      <category>TechCrunch</category>
+      <title>Astronomers discover hidden alien planet in James Webb images</title>
+      <link>https://www.sciencedaily.com/releases/2026/11/261108233028.htm</link>
+      <description>A breakthrough in telescope imaging could reveal countless alien worlds that have been hiding in plain sight. Scientists developed a new technique that uses a digital twin of the James Webb Space Telescope to remove the overwhelming glare of stars, making faint exoplanets two to 15 times easier to detect than with conventional methods. The technology has already uncovered a previously hidden planet in existing telescope data and could reveal many more.</description>
+      <pubDate>Tue, 10 Nov 2026 23:56:04 +0000</pubDate>
+      <guid>https://www.sciencedaily.com/releases/2026/11/261108233028.htm</guid>
+      <category>All Top News -- ScienceDaily</category>
+    </item>
+    <item>
+      <title>Про обиженных криэйторов, или Кто кому должен за нейросеть</title>
+      <link>https://habr.com/ru/articles/1106318/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106318</link>
+      <description>Читаю очередную волну возмущения. Владельцы сайтов, художники, музыканты, фотографы — все те, кого объединяет емкое слово «криэйторы», — требуют сатисфакции. ИИ, видите ли, обучался возможно на их контенте. И теперь должен. Потому что «конскую цену за работу» уже не выставишь: у заказчика появилась опция сгенерировать за три копейки. Я смотрю на это и вижу две проблемы. Одна — логическая. Вторая — антропологическая. Обе неприятны для обиженных. Читать далее</description>
+      <pubDate>Tue, 10 Nov 2026 23:46:26 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1106318/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106318</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
   </channel>
 </rss>
