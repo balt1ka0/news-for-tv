@@ -5,87 +5,87 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Wed, 11 Nov 2026 10:24:53 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 18:26:01 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Тестировщики, расскажите нам о себе. Мы снимем об этом видео</title>
-      <link>https://habr.com/ru/companies/skbkontur/articles/1106530/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106530</link>
-      <description>Мы решили в интересном формате рассказать о важном направлении для Контура — тестировании ⭐️ и сравнить то, как мы воспринимаем себя, с тем, что думает о нас рынок. Читать далее</description>
-      <pubDate>Wed, 11 Nov 2026 10:22:22 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/skbkontur/articles/1106530/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106530</guid>
+      <title>Инфраструктура облачного провайдера ActiveCloud подверглась кибератаке типа ransomware</title>
+      <link>https://habr.com/ru/articles/1106828/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106828</link>
+      <description>10 ноября 2026 года инфраструктура облачного провайдера ActiveCloud подверглась кибератаке типа ransomware, что привело к шифрованию злоумышленниками части облачной инфраструктуры. На данный момент восстановлена работа сервиса SmartMail, еще недоступны E-Cloud, ECP и SelfMail. Команда ActiveCloud работала над восстановлением всю ночь, без перерывов. Восстановление происходит поэтапно, сейчас ведутся работы по восстановлению E-Cloud. О каждом восстановленном сервисе они сообщают в своём телеграм </description>
+      <pubDate>Wed, 11 Nov 2026 18:22:56 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1106828/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106828</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>ИИ в поддержке пользователей: конкурент или помощник</title>
-      <link>https://habr.com/ru/companies/otus/articles/1101210/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101210</link>
-      <description>ИИ уже берёт на себя типовые обращения и поиск ответов, заставляя специалистов поддержки задуматься о своём будущем. Но попытки полностью заменить людей нейросетями могут обернуться потерей клиентов и падением качества сервиса. Разбираемся, какие задачи действительно стоит доверить ИИ, как перестроить работу команды и куда теперь расти специалистам поддержки. Разобраться в перспективах</description>
-      <pubDate>Wed, 11 Nov 2026 10:20:33 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/otus/articles/1101210/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101210</guid>
+      <title>Google открыл доступ к Gemini 4 Carbon: модель в 2–6 раз дешевле, чем Fable 5.2</title>
+      <link>https://habr.com/ru/companies/gptunnel/articles/1106822/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106822</link>
+      <description>Gemini 4 Carbon – флагманская ИИ-модель Google DeepMind, открытая для всех 10 ноября 2026 года. Модель специализируется на длинных агентных задачах: сложном программировании, кибербезопасности и научных исследованиях. В этом разборе – чем Carbon отличается от Gemini 4 Argon , что такое режим /swarm и как попробовать нейросеть из России без VPN и подписки за $100. Читать далее</description>
+      <pubDate>Wed, 11 Nov 2026 18:15:59 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/gptunnel/articles/1106822/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106822</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>«30 FPS — это норма »: почему фанаты и эксперты защищают Rockstar за кадровую частоту в GTA 6</title>
-      <link>https://habr.com/ru/companies/ggsel/articles/1106528/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106528</link>
-      <description>После выхода свежего трейлера Grand Theft Auto 6 подтвердились главные технические опасения геймеров: на современных консолях игра будет работать в режиме 30 кадров в секунду. В эпоху, когда стандартом стали 60 FPS и выбор между «качеством» и «производительностью», такой блокбастер в 30 кадров может показаться катастрофой. Однако эксперты и преданные фанаты встали на защиту решения Rockstar. Читать новость далее</description>
-      <pubDate>Wed, 11 Nov 2026 10:17:27 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/ggsel/articles/1106528/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106528</guid>
+      <title>Loot boxes, influencers, and addictive features face an EU crackdown</title>
+      <link>https://www.theverge.com/policy/1031575/digital-fairness-act-eu-dfa-consumer-protection</link>
+      <description>Gaming, social media, and e-commerce platforms are facing a fresh wave of sweeping European Union rules that aim to make "your online experience fairer." The newly proposed Digital Fairness Act (DFA) published by the EU Commission on Wednesday is designed to tackle practices that exploit consumers into spending more of their time and money online, […]</description>
+      <pubDate>Wed, 11 Nov 2026 18:13:52 +0000</pubDate>
+      <guid>https://www.theverge.com/policy/1031575/digital-fairness-act-eu-dfa-consumer-protection</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>Потери, которых не было видно на алертах: как мы автоматизировали поиск проблем в production с AI</title>
+      <link>https://habr.com/ru/companies/moex/articles/1106818/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106818</link>
+      <description>Сервис может работать, алерты — молчать, а пользователи — всё равно теряться на отдельных шагах. Рассказываем, как мы поручили ночную диагностику мультиагентной системе, почему не стали скармливать LLM все логи сразу и к какой архитектуре пришли после нескольких итераций. Читать далее</description>
+      <pubDate>Wed, 11 Nov 2026 17:59:30 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/moex/articles/1106818/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106818</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Apple объявила о закрытии сообщества поддержки AppleCare с 20 ноября 2026 года</title>
-      <link>https://habr.com/ru/articles/1106526/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106526</link>
-      <description>Apple предупредила пользователей о закрытии сообщества поддержки AppleCare (AppleCare Support Community) c 20 ноября 2026 года. AppleCare Support Community — это официальная платформа Apple, где пользователи помогают друг другу решать проблемы и делятся советами. Читать далее</description>
-      <pubDate>Wed, 11 Nov 2026 10:16:58 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1106526/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106526</guid>
+      <title>Obsidian для продакт-менеджера: инициативы, обратная связь, гипотезы и решения в одном хранилище</title>
+      <link>https://habr.com/ru/articles/1106816/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106816</link>
+      <description>Я собираю персональные системы в Obsidian на заказ. Перед работой с новым клиентом я раскладываю его работу на этапы и выписываю, где уходит время и пропадает информация. У продакт-менеджера я насчитал 78 таких мест. Ниже - система, с которой я бы начал, и четыре её узла в деталях, с настройками, которые можно повторить у себя. Это демо-кейс: типовой каркас профессии. Продукт, пользователи, цифры и конкуренты в примерах вымышлены. Obsidian - программа для заметок, которая хранит всё в обычных те</description>
+      <pubDate>Wed, 11 Nov 2026 17:55:44 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1106816/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106816</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Бот стартует, а база ещё не готова: что на самом деле делает After= в systemd</title>
-      <link>https://habr.com/ru/articles/1106522/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106522</link>
-      <description>После перезагрузки бот падает при подключении к PostgreSQL, хотя в unit-файле есть After=postgresql.service. Через минуту запускается вручную. Разберём, что именно упорядочивает After=, как проверить готовность базы и подключение с параметрами приложения, а также где заканчиваются возможности Restart=on-failure. Читать далее</description>
-      <pubDate>Wed, 11 Nov 2026 10:14:01 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1106522/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106522</guid>
+      <title>Инфраструктура, управляемая стоимостью</title>
+      <link>https://habr.com/ru/articles/1106812/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106812</link>
+      <description>Почему аренда GPU часто оказывается избыточной и как спроектировать модель оплаты в Infracost Типичная задача выглядит так - команда ML-платформы получает бюджет и, чтобы не зависеть от доступности мощностей, арендует GPU-кластер на год. Решение кажется разумным: цена за час ниже, чем у on-demand, очередей нет, инженеры спокойны, стоимость спрогнозирована и включена в бюджет. Через полгода кто-то из аудита видит, что кластер занят примерно треть времени, остальное время узлы стоят включёнными, н</description>
+      <pubDate>Wed, 11 Nov 2026 17:51:47 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1106812/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106812</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>«Задача о трёх соседях», или динамические сайты на облачном хранилище</title>
-      <link>https://habr.com/ru/articles/1106520/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106520</link>
-      <description>Привет, хабровчане! В этой статье хотел бы поднять вопрос, над которым мы с командой ведём дискуссии уже на протяжении нескольких месяцев, а конкретно с февраля этого года, когда я лично столкнулся с неудобствами белых списков. Наверное, глупо рассказывать что единственное и главное неудобство этих самых списков заключается в том, что мобильный интернет ограничивается и вся инфраструктура "вне" отваливается. Логично, что все ресурсы внутри белых списков контролируются некоей организацией. Не буд</description>
-      <pubDate>Wed, 11 Nov 2026 10:13:49 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1106520/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106520</guid>
+      <title>Есть ли в лотерее комбинации, которые редко выиграют?</title>
+      <link>https://habr.com/ru/articles/1106810/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106810</link>
+      <description>У меня есть хороший знакомый, который уже много лет играет в EuroJackpot. У него есть любимая комбинация чисел и он ставит всегда только её, тираж за тиражом, год за годом. И однажды случилось то, чего боится каждый такой игрок: он пропустил тираж и именно в этот раз выпала комбинация в которой четыре числа из пяти совпадали с его любимыми . Не джекпот, но вполне ощутимый выигрыш, который он не получил, потому что как раз в тот раз не играл. Я был уверен, что после этого он сменит комбинацию. Ве</description>
+      <pubDate>Wed, 11 Nov 2026 17:47:19 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1106810/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106810</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Как аналитики заменили тестировщиков и приручили ИИ</title>
-      <link>https://habr.com/ru/companies/infotecs_tech/articles/1106434/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106434</link>
-      <description>Привет, Хабр! На нашем ИТ-митапе для технического комьюнити эксперт ГК «КОРУС Консалтинг» выступила с темой «Автоматизация тестирования с помощью ИИ: идеи, гипотезы, результаты» . Читать далее</description>
-      <pubDate>Wed, 11 Nov 2026 10:11:32 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/infotecs_tech/articles/1106434/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106434</guid>
+      <title>Postman, Insomnia, Bruno и мой Kurlo: как я написал API‑клиент на Go и чем он отличается</title>
+      <link>https://habr.com/ru/articles/1106808/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106808</link>
+      <description>В апреле здесь вышла статья «Кризис инструментария API» . Автор перечислил всё, за что разработчики не любят Postman и его наследников, и закончил мыслью, что лучший инструмент, наверно, ещё не создан. Может быть, его напишете вы. Я как раз писал. Сразу скажу, чтобы не было вопросов в комментариях: Kurlo — мой собственный проект. Код открыт, платного тарифа нет и не задумывается. Делал я его для себя, под свою ежедневную работу, и да, я еще пользуюсь API‑клиентами в эпоху харнессов. Поэтому в нё</description>
+      <pubDate>Wed, 11 Nov 2026 17:36:28 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1106808/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106808</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Java Jam: записи докладов о Java-разработке, AI-агентах и обновлении стека</title>
-      <link>https://habr.com/ru/companies/yoomoney/articles/1106516/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106516</link>
-      <description>Как обновлять технологический стек в большом проекте, автоматизировать разработку с помощью AI-агентов и находить решения для задач, с которыми не справляются готовые инструменты? Эти темы разобрали эксперты ЮMoney и Сбера на Java Jam — митапе ЮMoney о Java-разработке и не только. Делимся тремя основными мыслями и записью докладов. Читать далее</description>
-      <pubDate>Wed, 11 Nov 2026 10:00:59 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/yoomoney/articles/1106516/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106516</guid>
+      <title>Пространственное внимание на RTX 3050: эксперимент с контекстом 16K</title>
+      <link>https://habr.com/ru/articles/1106806/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106806</link>
+      <description>Можно ли ускорить обучение небольшой языковой модели на длинных последовательностях, если заменить полное внимание разреженным графом, а веса связей определять расстояниями между обучаемыми координатами? Читать далее</description>
+      <pubDate>Wed, 11 Nov 2026 17:33:15 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1106806/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106806</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>В джунглях флоры: как складывалась архитектура фронтенда</title>
-      <link>https://habr.com/ru/companies/rolf_autotech/articles/1106508/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106508</link>
-      <description>ФЛОРА - это цифровая платформа по управлению дилерским бизнесом со сложной бизнес-логикой. Над ней работают 25+ продуктовых команд и несколько платформенных. Фронтенд системы состоит из более чем 65 микрофронтендов (далее МФ), и их количество постоянно увеличивается: регулярно появляются новые направления, функционал расширяется. Каждый МФ (или группа МФ) может иметь свой роутинг, стейт, набор sharing-модулей и типов. Группы МФ объединяются в целые подсистемы со своим жизненным циклом и экосисте</description>
-      <pubDate>Wed, 11 Nov 2026 09:58:58 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/rolf_autotech/articles/1106508/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106508</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Airbus A350–1000ULR попал в Книгу рекордов Гиннесса за самый дальний беспосадочный перелёт</title>
-      <link>https://habr.com/ru/articles/1106478/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106478</link>
-      <description>Самолёт Airbus A350–1000ULR попал в Книгу рекордов Гиннесса за самый дальний беспосадочный перелёт в истории коммерческой авиации. За 24 часа 24 минуты он преодолел расстояние 23 155,6 км из Мельбурна в Тулузу. Читать далее</description>
-      <pubDate>Wed, 11 Nov 2026 09:57:30 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1106478/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106478</guid>
+      <title>Личная медицинская история на основе ИИ-модели</title>
+      <link>https://habr.com/ru/articles/1106800/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106800</link>
+      <description>В статье рассматривается подход к организации собственной медицинской истории с помощью ИИ-модели. Разберём, как можно организовать хранение и обработку медицинских документов, какие возможности при этом появляются и какие ограничения необходимо учитывать. Статья преимущественно техническая, с рассмотрением устройства системы и принципов её работы. Для более широкой аудитории подготовлен небольшой рисованный ролик , где тот же подход объясняется на примерах. Видео не заменяет статью, а статья — </description>
+      <pubDate>Wed, 11 Nov 2026 17:23:06 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1106800/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106800</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
   </channel>
