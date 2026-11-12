@@ -5,88 +5,88 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Wed, 11 Nov 2026 18:26:01 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 01:19:47 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Инфраструктура облачного провайдера ActiveCloud подверглась кибератаке типа ransomware</title>
-      <link>https://habr.com/ru/articles/1106828/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106828</link>
-      <description>10 ноября 2026 года инфраструктура облачного провайдера ActiveCloud подверглась кибератаке типа ransomware, что привело к шифрованию злоумышленниками части облачной инфраструктуры. На данный момент восстановлена работа сервиса SmartMail, еще недоступны E-Cloud, ECP и SelfMail. Команда ActiveCloud работала над восстановлением всю ночь, без перерывов. Восстановление происходит поэтапно, сейчас ведутся работы по восстановлению E-Cloud. О каждом восстановленном сервисе они сообщают в своём телеграм </description>
-      <pubDate>Wed, 11 Nov 2026 18:22:56 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1106828/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106828</guid>
+      <title>The unfolding Jensen Huang scandal: a timeline</title>
+      <link>https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/</link>
+      <description>The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.</description>
+      <pubDate>Wed, 11 Nov 2026 23:50:00 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang</title>
+      <link>https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/</link>
+      <description>As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years.</description>
+      <pubDate>Wed, 11 Nov 2026 23:28:45 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>Jensen Huang accused of having another affair — with an Nvidia exec</title>
+      <link>https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/</link>
+      <description>Jensen Huang, who has come under fire for admitting to an affair with a woman accused of being a Chinese intelligence agent, has been accused of having a separate affair with an Nvidia subordinate.</description>
+      <pubDate>Wed, 11 Nov 2026 23:17:05 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>Конец легенды… или как лучшие гаджеты уходят на покой от старости</title>
+      <link>https://habr.com/ru/articles/1106880/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106880</link>
+      <description>Недавно я начал разрабатывать ещё один проект под Dell Axim X51v. Этот легендарный КПК вы могли помнить по моим прошлым статьям, где я апгрейдил на нём оперативную память в домашних условиях, ремонтировал вечно ломающиеся переключатели и концевики , и даже писал под его GPU Intel 2700G полноценную 3D-гоночку ! Читать далее</description>
+      <pubDate>Wed, 11 Nov 2026 23:10:44 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1106880/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106880</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Google открыл доступ к Gemini 4 Carbon: модель в 2–6 раз дешевле, чем Fable 5.2</title>
-      <link>https://habr.com/ru/companies/gptunnel/articles/1106822/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106822</link>
-      <description>Gemini 4 Carbon – флагманская ИИ-модель Google DeepMind, открытая для всех 10 ноября 2026 года. Модель специализируется на длинных агентных задачах: сложном программировании, кибербезопасности и научных исследованиях. В этом разборе – чем Carbon отличается от Gemini 4 Argon , что такое режим /swarm и как попробовать нейросеть из России без VPN и подписки за $100. Читать далее</description>
-      <pubDate>Wed, 11 Nov 2026 18:15:59 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/gptunnel/articles/1106822/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106822</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Loot boxes, influencers, and addictive features face an EU crackdown</title>
-      <link>https://www.theverge.com/policy/1031575/digital-fairness-act-eu-dfa-consumer-protection</link>
-      <description>Gaming, social media, and e-commerce platforms are facing a fresh wave of sweeping European Union rules that aim to make "your online experience fairer." The newly proposed Digital Fairness Act (DFA) published by the EU Commission on Wednesday is designed to tackle practices that exploit consumers into spending more of their time and money online, […]</description>
-      <pubDate>Wed, 11 Nov 2026 18:13:52 +0000</pubDate>
-      <guid>https://www.theverge.com/policy/1031575/digital-fairness-act-eu-dfa-consumer-protection</guid>
+      <title>Nvidia is reportedly preparing to fire Jensen Huang</title>
+      <link>https://www.theverge.com/tech/1031652/jensen-huang-rumor</link>
+      <description>Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from the New York Times about a second alleged extramarital affair, just days after he admitted to a separate affair with a woman alleged to be a Chinese spy, The Wall Street Journal reports. The second alleged affair was with an executive who […]</description>
+      <pubDate>Wed, 11 Nov 2026 22:44:36 +0000</pubDate>
+      <guid>https://www.theverge.com/tech/1031652/jensen-huang-rumor</guid>
       <category>The Verge</category>
     </item>
     <item>
-      <title>Потери, которых не было видно на алертах: как мы автоматизировали поиск проблем в production с AI</title>
-      <link>https://habr.com/ru/companies/moex/articles/1106818/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106818</link>
-      <description>Сервис может работать, алерты — молчать, а пользователи — всё равно теряться на отдельных шагах. Рассказываем, как мы поручили ночную диагностику мультиагентной системе, почему не стали скармливать LLM все логи сразу и к какой архитектуре пришли после нескольких итераций. Читать далее</description>
-      <pubDate>Wed, 11 Nov 2026 17:59:30 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/moex/articles/1106818/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106818</guid>
+      <title>Нейрослоп и нейромаркеры (в текстах)</title>
+      <link>https://habr.com/ru/articles/1106876/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106876</link>
+      <description>Бесит ли вас как меня дурацкий приём противопоставления в текстах? «Нас не просто валенки, а нас уникальных экопродукт», «У нас не просто коллектив, у нас семья». Как-то раз даже разразился об этом постом в телеге. А тут вычитал, что это нынче считается нейромаркером. ИИ-шечка метит свои тексты не только длинными тире, но и банальными речевыми оборотами. Она это не специально делает, просто эта штука так устроена. Также нейромаркерами сейчас считаются: причастные и деепричастные обороты, обилие </description>
+      <pubDate>Wed, 11 Nov 2026 22:35:50 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1106876/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106876</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Obsidian для продакт-менеджера: инициативы, обратная связь, гипотезы и решения в одном хранилище</title>
-      <link>https://habr.com/ru/articles/1106816/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106816</link>
-      <description>Я собираю персональные системы в Obsidian на заказ. Перед работой с новым клиентом я раскладываю его работу на этапы и выписываю, где уходит время и пропадает информация. У продакт-менеджера я насчитал 78 таких мест. Ниже - система, с которой я бы начал, и четыре её узла в деталях, с настройками, которые можно повторить у себя. Это демо-кейс: типовой каркас профессии. Продукт, пользователи, цифры и конкуренты в примерах вымышлены. Obsidian - программа для заметок, которая хранит всё в обычных те</description>
-      <pubDate>Wed, 11 Nov 2026 17:55:44 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1106816/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106816</guid>
+      <title>Как я сделал игру в браузере с 0 опыта в геймдеве</title>
+      <link>https://habr.com/ru/articles/1106870/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106870</link>
+      <description>Я давно мечтал сделать игру: не чтобы удивить индустрию, а чтобы самому было интересно вечерами и можно было позвать друзей. Опыта в геймдеве не было, зато были знакомые браузер и JavaScript и, кстати, как раз подоспели ИИ-агенты — вот я и попробовал. Получилась мультиплеерная St. Bedlam’s в духе Fall Guys и Party Animals: её можно открыть и сыграть, а порядок работы с агентом, без которого я бы в этом утонул, лежит в открытом доступе. Читать далее</description>
+      <pubDate>Wed, 11 Nov 2026 22:23:18 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1106870/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106870</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Инфраструктура, управляемая стоимостью</title>
-      <link>https://habr.com/ru/articles/1106812/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106812</link>
-      <description>Почему аренда GPU часто оказывается избыточной и как спроектировать модель оплаты в Infracost Типичная задача выглядит так - команда ML-платформы получает бюджет и, чтобы не зависеть от доступности мощностей, арендует GPU-кластер на год. Решение кажется разумным: цена за час ниже, чем у on-demand, очередей нет, инженеры спокойны, стоимость спрогнозирована и включена в бюджет. Через полгода кто-то из аудита видит, что кластер занят примерно треть времени, остальное время узлы стоят включёнными, н</description>
-      <pubDate>Wed, 11 Nov 2026 17:51:47 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1106812/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106812</guid>
+      <title>Деплой на VPS по push без SSH-ключей в CI: архитектура cd, механика OIDC и границы применимости</title>
+      <link>https://habr.com/ru/articles/1106874/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106874</link>
+      <description>В практике системного администрирования малых и средних проектных контуров распространен сценарий, при котором на одном виртуальном выделенном сервере под управлением ОС Linux разворачивается несколько нетребовательных сервисов, таких как серверная часть приложений (), боты или статические веб-страницы. Инфраструктура хоста обычно включает Docker-демон и обратный прокси-сервер, представленный Caddy или Nginx. Стандартное требование к автоматизации процессов непрерывной интеграции и доставки закл</description>
+      <pubDate>Wed, 11 Nov 2026 22:20:40 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1106874/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106874</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Есть ли в лотерее комбинации, которые редко выиграют?</title>
-      <link>https://habr.com/ru/articles/1106810/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106810</link>
-      <description>У меня есть хороший знакомый, который уже много лет играет в EuroJackpot. У него есть любимая комбинация чисел и он ставит всегда только её, тираж за тиражом, год за годом. И однажды случилось то, чего боится каждый такой игрок: он пропустил тираж и именно в этот раз выпала комбинация в которой четыре числа из пяти совпадали с его любимыми . Не джекпот, но вполне ощутимый выигрыш, который он не получил, потому что как раз в тот раз не играл. Я был уверен, что после этого он сменит комбинацию. Ве</description>
-      <pubDate>Wed, 11 Nov 2026 17:47:19 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1106810/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106810</guid>
-      <category>Все публикации подряд на Хабре</category>
+      <title>Hands on with Home Assistant’s new ‘smart home multi-tool’</title>
+      <link>https://www.theverge.com/tech/1031601/home-assistant-connect-aux-2-hands-on</link>
+      <description>Nabu Casa - the commercial side of the Open Home Foundation, which runs Home Assistant - just launched the Home Assistant Connect Aux-2, a multi-function box designed to help you bring more non-smart devices into your smart home. It's part of Home Assistant's ongoing efforts to become more user-friendly. And it's working. I've been testing […]</description>
+      <pubDate>Wed, 11 Nov 2026 22:00:00 +0000</pubDate>
+      <guid>https://www.theverge.com/tech/1031601/home-assistant-connect-aux-2-hands-on</guid>
+      <category>The Verge</category>
     </item>
     <item>
-      <title>Postman, Insomnia, Bruno и мой Kurlo: как я написал API‑клиент на Go и чем он отличается</title>
-      <link>https://habr.com/ru/articles/1106808/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106808</link>
-      <description>В апреле здесь вышла статья «Кризис инструментария API» . Автор перечислил всё, за что разработчики не любят Postman и его наследников, и закончил мыслью, что лучший инструмент, наверно, ещё не создан. Может быть, его напишете вы. Я как раз писал. Сразу скажу, чтобы не было вопросов в комментариях: Kurlo — мой собственный проект. Код открыт, платного тарифа нет и не задумывается. Делал я его для себя, под свою ежедневную работу, и да, я еще пользуюсь API‑клиентами в эпоху харнессов. Поэтому в нё</description>
-      <pubDate>Wed, 11 Nov 2026 17:36:28 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1106808/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106808</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Пространственное внимание на RTX 3050: эксперимент с контекстом 16K</title>
-      <link>https://habr.com/ru/articles/1106806/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106806</link>
-      <description>Можно ли ускорить обучение небольшой языковой модели на длинных последовательностях, если заменить полное внимание разреженным графом, а веса связей определять расстояниями между обучаемыми координатами? Читать далее</description>
-      <pubDate>Wed, 11 Nov 2026 17:33:15 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1106806/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106806</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Личная медицинская история на основе ИИ-модели</title>
-      <link>https://habr.com/ru/articles/1106800/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106800</link>
-      <description>В статье рассматривается подход к организации собственной медицинской истории с помощью ИИ-модели. Разберём, как можно организовать хранение и обработку медицинских документов, какие возможности при этом появляются и какие ограничения необходимо учитывать. Статья преимущественно техническая, с рассмотрением устройства системы и принципов её работы. Для более широкой аудитории подготовлен небольшой рисованный ролик , где тот же подход объясняется на примерах. Видео не заменяет статью, а статья — </description>
-      <pubDate>Wed, 11 Nov 2026 17:23:06 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1106800/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106800</guid>
-      <category>Все публикации подряд на Хабре</category>
+      <title>United won’t let your AI agent book your flight</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents</link>
+      <description>United says it won't let personal AI assistants book tickets on the airline, citing both privacy and regulatory concerns. The company says it hasn't yet seen many people try to use AI agents to book their flights, The Wall Street Journal reports, in line with observations from other businesses like Doordash. But United is concerned […]</description>
+      <pubDate>Wed, 11 Nov 2026 21:54:21 +0000</pubDate>
+      <guid>https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents</guid>
+      <category>The Verge</category>
     </item>
   </channel>
 </rss>
