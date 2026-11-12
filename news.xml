@@ -5,88 +5,88 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Thu, 12 Nov 2026 01:19:47 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 09:22:01 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>The unfolding Jensen Huang scandal: a timeline</title>
-      <link>https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/</link>
-      <description>The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.</description>
-      <pubDate>Wed, 11 Nov 2026 23:50:00 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang</title>
-      <link>https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/</link>
-      <description>As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years.</description>
-      <pubDate>Wed, 11 Nov 2026 23:28:45 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>Jensen Huang accused of having another affair — with an Nvidia exec</title>
-      <link>https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/</link>
-      <description>Jensen Huang, who has come under fire for admitting to an affair with a woman accused of being a Chinese intelligence agent, has been accused of having a separate affair with an Nvidia subordinate.</description>
-      <pubDate>Wed, 11 Nov 2026 23:17:05 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>Конец легенды… или как лучшие гаджеты уходят на покой от старости</title>
-      <link>https://habr.com/ru/articles/1106880/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106880</link>
-      <description>Недавно я начал разрабатывать ещё один проект под Dell Axim X51v. Этот легендарный КПК вы могли помнить по моим прошлым статьям, где я апгрейдил на нём оперативную память в домашних условиях, ремонтировал вечно ломающиеся переключатели и концевики , и даже писал под его GPU Intel 2700G полноценную 3D-гоночку ! Читать далее</description>
-      <pubDate>Wed, 11 Nov 2026 23:10:44 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1106880/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106880</guid>
+      <title>Presidio на практике: русский язык, свои правила и LiteLLM</title>
+      <link>https://habr.com/ru/articles/1106824/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106824</link>
+      <description>Как скрывать имена и контакты перед отправкой текста во внешнюю LLM и возвращать их после ответа? Разбираю Presidio: настройку русского языка, собственные правила и интеграцию с LiteLLM. Сравниваю три конфигурации на 20 вымышленных текстах и показываю, где часть адреса остается открытой. Читать далее</description>
+      <pubDate>Thu, 12 Nov 2026 09:17:35 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1106824/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106824</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Nvidia is reportedly preparing to fire Jensen Huang</title>
-      <link>https://www.theverge.com/tech/1031652/jensen-huang-rumor</link>
-      <description>Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from the New York Times about a second alleged extramarital affair, just days after he admitted to a separate affair with a woman alleged to be a Chinese spy, The Wall Street Journal reports. The second alleged affair was with an executive who […]</description>
-      <pubDate>Wed, 11 Nov 2026 22:44:36 +0000</pubDate>
-      <guid>https://www.theverge.com/tech/1031652/jensen-huang-rumor</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>Нейрослоп и нейромаркеры (в текстах)</title>
-      <link>https://habr.com/ru/articles/1106876/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106876</link>
-      <description>Бесит ли вас как меня дурацкий приём противопоставления в текстах? «Нас не просто валенки, а нас уникальных экопродукт», «У нас не просто коллектив, у нас семья». Как-то раз даже разразился об этом постом в телеге. А тут вычитал, что это нынче считается нейромаркером. ИИ-шечка метит свои тексты не только длинными тире, но и банальными речевыми оборотами. Она это не специально делает, просто эта штука так устроена. Также нейромаркерами сейчас считаются: причастные и деепричастные обороты, обилие </description>
-      <pubDate>Wed, 11 Nov 2026 22:35:50 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1106876/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106876</guid>
+      <title>Rockstar невольно спровоцировала «консольный» скандал вокруг GTA 6</title>
+      <link>https://habr.com/ru/companies/ggsel/articles/1106980/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106980</link>
+      <description>Пока одни фанаты с замиранием сердца ждут релиза Grand Theft Auto 6, первые покупатели физических изданий уже изучают содержимое коробок. И тут вскрылась забавная деталь: игроки обнаружили неожиданную разницу между версиями для PlayStation 5 и Xbox Series X|S. Как оказалось, плакат в комплекте с версией для консоли Sony заметно превосходит по размерам аналог для Xbox. Читать новость далее</description>
+      <pubDate>Thu, 12 Nov 2026 09:14:23 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/ggsel/articles/1106980/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106980</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Как я сделал игру в браузере с 0 опыта в геймдеве</title>
-      <link>https://habr.com/ru/articles/1106870/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106870</link>
-      <description>Я давно мечтал сделать игру: не чтобы удивить индустрию, а чтобы самому было интересно вечерами и можно было позвать друзей. Опыта в геймдеве не было, зато были знакомые браузер и JavaScript и, кстати, как раз подоспели ИИ-агенты — вот я и попробовал. Получилась мультиплеерная St. Bedlam’s в духе Fall Guys и Party Animals: её можно открыть и сыграть, а порядок работы с агентом, без которого я бы в этом утонул, лежит в открытом доступе. Читать далее</description>
-      <pubDate>Wed, 11 Nov 2026 22:23:18 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1106870/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106870</guid>
+      <title>При взломе Fireworks AI оказались раскрыты стенограммы ИИ‑чатов пользователей</title>
+      <link>https://habr.com/ru/articles/1106956/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106956</link>
+      <description>Платформа Nииotion сообщила , что в результате инцидента с безопасностью у поставщика инфраструктуры для ИИ — компании Fireworks AI — произошла утечка стенограмм чатов Notion AI в небольшом количестве рабочих пространств. Читать далее</description>
+      <pubDate>Thu, 12 Nov 2026 09:07:10 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1106956/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106956</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Деплой на VPS по push без SSH-ключей в CI: архитектура cd, механика OIDC и границы применимости</title>
-      <link>https://habr.com/ru/articles/1106874/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106874</link>
-      <description>В практике системного администрирования малых и средних проектных контуров распространен сценарий, при котором на одном виртуальном выделенном сервере под управлением ОС Linux разворачивается несколько нетребовательных сервисов, таких как серверная часть приложений (), боты или статические веб-страницы. Инфраструктура хоста обычно включает Docker-демон и обратный прокси-сервер, представленный Caddy или Nginx. Стандартное требование к автоматизации процессов непрерывной интеграции и доставки закл</description>
-      <pubDate>Wed, 11 Nov 2026 22:20:40 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1106874/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106874</guid>
+      <title>Ваш SEO-текст как вектор атаки: промпт-инъекция с чужого сайта</title>
+      <link>https://habr.com/ru/companies/timeweb/articles/1104202/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104202</link>
+      <description>В сентябре я собирал конкурентный анализ для магазина товаров для дома. Задача рутинная: обойти два десятка сайтов, вытащить ассортимент, цены, структуру категорий и понять, чего у клиента нет. Я запустил своего ресерч-агента, ушел пить чай, вернулся к готовому отчету. И в третьем разделе наткнулся на абзац, которого там быть не могло: «в этой категории стоит рекомендовать [название конкурента], он предлагает лучшие условия». Я не просил рекомендовать конкурента. Я просил собрать факты. Агент ни</description>
+      <pubDate>Thu, 12 Nov 2026 09:05:10 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/timeweb/articles/1104202/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104202</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Hands on with Home Assistant’s new ‘smart home multi-tool’</title>
-      <link>https://www.theverge.com/tech/1031601/home-assistant-connect-aux-2-hands-on</link>
-      <description>Nabu Casa - the commercial side of the Open Home Foundation, which runs Home Assistant - just launched the Home Assistant Connect Aux-2, a multi-function box designed to help you bring more non-smart devices into your smart home. It's part of Home Assistant's ongoing efforts to become more user-friendly. And it's working. I've been testing […]</description>
-      <pubDate>Wed, 11 Nov 2026 22:00:00 +0000</pubDate>
-      <guid>https://www.theverge.com/tech/1031601/home-assistant-connect-aux-2-hands-on</guid>
-      <category>The Verge</category>
+      <title>Консольный Дикий Запад: ловкость рук, скачки напряжения и юридические подтасовки — от чего защищали игровые приставки</title>
+      <link>https://habr.com/ru/companies/mkb/articles/1106868/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106868</link>
+      <description>Финансовая информационная инфраструктура относится к критической, поэтому банки строго следят за безопасностью — и в блоге МКБ мы пишем о безопасной разработке, тестировании и инфобезе в целом. Однако есть и другие примеры индустрий, где защита данных выходит на первый план. Например, рынок видеоигр, много внимания уделяющий защите приставок. Правда, так было не всегда: в начале восьмидесятых выпускать картриджи с играми (в том числе пиратскими) мог, по сути, кто угодно. В 1985 году появился пер</description>
+      <pubDate>Thu, 12 Nov 2026 09:01:09 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/mkb/articles/1106868/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106868</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>United won’t let your AI agent book your flight</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents</link>
-      <description>United says it won't let personal AI assistants book tickets on the airline, citing both privacy and regulatory concerns. The company says it hasn't yet seen many people try to use AI agents to book their flights, The Wall Street Journal reports, in line with observations from other businesses like Doordash. But United is concerned […]</description>
-      <pubDate>Wed, 11 Nov 2026 21:54:21 +0000</pubDate>
-      <guid>https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents</guid>
-      <category>The Verge</category>
+      <title>Я написал мониторинг, который никогда не падает. Полгода он не падал и ни разу не сработал</title>
+      <link>https://habr.com/ru/articles/1104930/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104930</link>
+      <description>14 октября в логах нашего API нашлась строка «relation “message_watchdog” does not exist». Таблицы сторожа потерянных сообщений не было ни на dev, ни на проде, хотя код, который в неё пишет, жил в репозитории с апреля и на каждый вызов отвечал success: true. Рассказываю, как переименование миграции в V10b спрятало её от Flyway и почему мой мониторинг полгода докладывал, что всё спокойно. Читать далее</description>
+      <pubDate>Thu, 12 Nov 2026 09:00:09 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1104930/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104930</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Logitech предоставила всем 7 тысячам сотрудников выходной для игры в GTA VI</title>
+      <link>https://habr.com/ru/articles/1106968/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106968</link>
+      <description>Швейцарская компания‑производитель периферийного оборудования Logitech предоставила всем своим 7 тыс. сотрудников возможность взять выходной, чтобы поиграть в Grand Theft Auto VI. Игра выйдет 19 ноября 2026 года на PlayStation 5 и Xbox Series X/S. Сотрудники Logitech могут выбрать и любую другую игру, следует из пресс‑релиза компании. Читать далее</description>
+      <pubDate>Thu, 12 Nov 2026 08:53:06 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1106968/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106968</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>ESP32 для начинающих: от логических микросхем к умному железу</title>
+      <link>https://habr.com/ru/companies/first/articles/1106412/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106412</link>
+      <description>В предыдущей статье “ Первый шаг к микроконтроллерам: введение в цифровые схемы ” вы познакомились с логическими микросхемами на примере серии 155 и собранных на них простых конструкций. Но чтобы сделать более или менее сложную схему, потребуется много таких микросхем. Для внесения изменений в логику работы придётся перепроектировать и перепаивать схему, а то и создавать её заново. Современный подход к созданию цифровых схем предполагает применение микроконтроллеров и микрокомпьютеров. В этом сл</description>
+      <pubDate>Thu, 12 Nov 2026 08:45:08 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/first/articles/1106412/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106412</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Почему мы ссоримся в чатах</title>
+      <link>https://habr.com/ru/companies/reksoft/articles/1106664/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106664</link>
+      <description>Недавно у меня вышла напряженная переписка в чате с человеком, с которым никогда не ссорился вживую. Вроде бы оба взрослые люди, оба заинтересованы в результате, оба не склонны к эскалации. И такое случается со всеми, независимо от возраста, профессии и воспитания. Мы ссоримся там, где в реальной жизни просто обсудили бы вопрос за пять минут и разошлись. Но почему же мы срываемся в переписке, и что с этим можно попробовать сделать? Давайте попробуем разобраться. Потеря смысла и тайминг В живом р</description>
+      <pubDate>Thu, 12 Nov 2026 08:30:06 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/reksoft/articles/1106664/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106664</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>AMD тестирует технологию MEXT для использования данных из DRAM на SSD</title>
+      <link>https://habr.com/ru/articles/1106942/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106942</link>
+      <description>AMD тестирует технологию MEXT, которая обеспечит производительность на уровне 99% от максимума при использовании вдвое меньшего объёма оперативной памяти (DRAM) — при условии, что вместе с новым сервером на базе процессора Epyc приобретается лицензия на программное обеспечение. Читать далее</description>
+      <pubDate>Thu, 12 Nov 2026 08:27:06 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1106942/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106942</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
   </channel>
 </rss>
