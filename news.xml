@@ -5,88 +5,88 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Thu, 12 Nov 2026 09:22:01 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 17:56:35 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Presidio на практике: русский язык, свои правила и LiteLLM</title>
-      <link>https://habr.com/ru/articles/1106824/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106824</link>
-      <description>Как скрывать имена и контакты перед отправкой текста во внешнюю LLM и возвращать их после ответа? Разбираю Presidio: настройку русского языка, собственные правила и интеграцию с LiteLLM. Сравниваю три конфигурации на 20 вымышленных текстах и показываю, где часть адреса остается открытой. Читать далее</description>
-      <pubDate>Thu, 12 Nov 2026 09:17:35 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1106824/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106824</guid>
+      <title>The Jensen Huang scandal is hardly over</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1032069/jensen-huang-resignation-affair-chips-smuggling</link>
+      <description>I was certain, until the story of Jensen Huang's second affair hit, that Huang was bulletproof. After all, why wouldn't he be? He's placed himself indispensably at the center of the AI industry and famously had no succession plan at Nvidia. In fact, he's the only CEO Nvidia has ever had. L'état c'est moi. Then […]</description>
+      <pubDate>Thu, 12 Nov 2026 17:44:33 +0000</pubDate>
+      <guid>https://www.theverge.com/ai-artificial-intelligence/1032069/jensen-huang-resignation-affair-chips-smuggling</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>«Рубаи» Омар Хайям</title>
+      <link>https://habr.com/ru/articles/1107266/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107266</link>
+      <description>Эта книга стала для меня настоящим откровением. Если вы ещё не читали Рубаи, а тем более не знаете, о чём они, то что приходит в голову? Имя автора-то наверняка слышали, оно частенько где-нибудь да попадается. Он, к слову, жил в 11-12 веках. Какие ассоциации возникают? Я представлял себе что-то мудрёное, философское, с моралью, поучениями, советами. Наверное, что-то вроде Хагакурэ . Поэтому «Рубаи» ждали своего часа на полке довольно долго – вместе с Конфуцием, Декартом, Ницше. Ждали с пометкой </description>
+      <pubDate>Thu, 12 Nov 2026 17:42:02 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1107266/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107266</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Rockstar невольно спровоцировала «консольный» скандал вокруг GTA 6</title>
-      <link>https://habr.com/ru/companies/ggsel/articles/1106980/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106980</link>
-      <description>Пока одни фанаты с замиранием сердца ждут релиза Grand Theft Auto 6, первые покупатели физических изданий уже изучают содержимое коробок. И тут вскрылась забавная деталь: игроки обнаружили неожиданную разницу между версиями для PlayStation 5 и Xbox Series X|S. Как оказалось, плакат в комплекте с версией для консоли Sony заметно превосходит по размерам аналог для Xbox. Читать новость далее</description>
-      <pubDate>Thu, 12 Nov 2026 09:14:23 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/ggsel/articles/1106980/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106980</guid>
+      <title>VPN Admin: от панели для AmneziaWG к визуальному управлению VPN-инфраструктурой</title>
+      <link>https://habr.com/ru/articles/1107264/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107264</link>
+      <description>Некоторое время назад я тестировал свои наработки, которые изначально не имели к VPN никакого отношения. Мне нужен был реальный сценарий, в котором можно проверить развертывание приложений, передачу конфигурации и управление удаленными серверами. Таким сценарием стал AmneziaWG, а результатом эксперимента - awg-admin . Предполагалось, что это будет небольшая вспомогательная панель. Инструмент использоваться для решения вполне реальных задач: настройки серверов и интерфейсов, добавления пользовате</description>
+      <pubDate>Thu, 12 Nov 2026 17:41:34 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1107264/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107264</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>При взломе Fireworks AI оказались раскрыты стенограммы ИИ‑чатов пользователей</title>
-      <link>https://habr.com/ru/articles/1106956/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106956</link>
-      <description>Платформа Nииotion сообщила , что в результате инцидента с безопасностью у поставщика инфраструктуры для ИИ — компании Fireworks AI — произошла утечка стенограмм чатов Notion AI в небольшом количестве рабочих пространств. Читать далее</description>
-      <pubDate>Thu, 12 Nov 2026 09:07:10 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1106956/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106956</guid>
+      <title>Как выбрать дрон под коммерческую задачу и не ошибиться с характеристиками</title>
+      <link>https://habr.com/ru/companies/otus/articles/1101310/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101310</link>
+      <description>Дрон может отлично выглядеть в спецификации, но оказаться бесполезным в реальных условиях. Например, заявленного времени полёта не хватит для инспекции ЛЭП, а выбранная камера не обеспечит нужную точность измерений. Чтобы избежать таких ошибок, стоит начинать с полётного задания и требований к полезной нагрузке. Разберём, как на их основе определить характеристики платформы, учесть ограничения эксплуатации и составить техническое задание на разработку БПЛА. Читать гайд</description>
+      <pubDate>Thu, 12 Nov 2026 17:40:32 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/otus/articles/1101310/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101310</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Ваш SEO-текст как вектор атаки: промпт-инъекция с чужого сайта</title>
-      <link>https://habr.com/ru/companies/timeweb/articles/1104202/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104202</link>
-      <description>В сентябре я собирал конкурентный анализ для магазина товаров для дома. Задача рутинная: обойти два десятка сайтов, вытащить ассортимент, цены, структуру категорий и понять, чего у клиента нет. Я запустил своего ресерч-агента, ушел пить чай, вернулся к готовому отчету. И в третьем разделе наткнулся на абзац, которого там быть не могло: «в этой категории стоит рекомендовать [название конкурента], он предлагает лучшие условия». Я не просил рекомендовать конкурента. Я просил собрать факты. Агент ни</description>
-      <pubDate>Thu, 12 Nov 2026 09:05:10 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/timeweb/articles/1104202/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104202</guid>
+      <title>Портируем прошивку PCAN на китайскую плату</title>
+      <link>https://habr.com/ru/articles/1107262/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107262</link>
+      <description>В данном тексте я выполнил обзор широко известного open source проекта прошивки для PCAN-Pro. Код которой лежит на Github. Мне удалось портировать и завести прошивку на покупной учебной отладочной плате JZ-F407VET6. В каждой разработке с CAN нужны средства отладки. Я узнал, что в интернете есть открытый проект прошивки для культового прибора PCAN и попробовал его портировать на учебную отладочную плату JZ-F407VET6. Читать далее</description>
+      <pubDate>Thu, 12 Nov 2026 17:40:26 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1107262/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107262</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Консольный Дикий Запад: ловкость рук, скачки напряжения и юридические подтасовки — от чего защищали игровые приставки</title>
-      <link>https://habr.com/ru/companies/mkb/articles/1106868/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106868</link>
-      <description>Финансовая информационная инфраструктура относится к критической, поэтому банки строго следят за безопасностью — и в блоге МКБ мы пишем о безопасной разработке, тестировании и инфобезе в целом. Однако есть и другие примеры индустрий, где защита данных выходит на первый план. Например, рынок видеоигр, много внимания уделяющий защите приставок. Правда, так было не всегда: в начале восьмидесятых выпускать картриджи с играми (в том числе пиратскими) мог, по сути, кто угодно. В 1985 году появился пер</description>
-      <pubDate>Thu, 12 Nov 2026 09:01:09 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/mkb/articles/1106868/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106868</guid>
+      <title>Hugging Face CEO vows to keep fighting for open-source AI after Jensen Huang’s exit</title>
+      <link>https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/</link>
+      <description>Hugging Face's CEO pledged to keep fighting for open-source AI after Huang's exit, raising questions about Nvidia's $12.9B acquisition.</description>
+      <pubDate>Thu, 12 Nov 2026 17:36:40 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>United Airlines blocks AI agents from booking flights, citing cybersecurity risks</title>
+      <link>https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/</link>
+      <description>The airline said it will not allow customers to use AI agents to book flights and manage reservations.</description>
+      <pubDate>Thu, 12 Nov 2026 17:17:58 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>«Восьмой пассажир»: творческий путь Чужого от идеи до экрана</title>
+      <link>https://habr.com/ru/articles/1105720/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105720</link>
+      <description>Доброго дня, дорогие читатели. В этой статье вы узнаете — как с помощью двухметрового тощего негра, черепа индуса, латекса, пластилина и щепотки любви создать самого изящного, сексуального и оттого очень страшного космического насильника астронавтов и колониальных пехотинцев в истории космо-фантастики. Интересно? Тогда пристегните ремни, «Ностромо» отправляется в путешествие и надеюсь, ваш котик с вами. Но сначала немного истории. Итак… Читать далее</description>
+      <pubDate>Thu, 12 Nov 2026 17:05:29 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1105720/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1105720</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Я написал мониторинг, который никогда не падает. Полгода он не падал и ни разу не сработал</title>
-      <link>https://habr.com/ru/articles/1104930/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104930</link>
-      <description>14 октября в логах нашего API нашлась строка «relation “message_watchdog” does not exist». Таблицы сторожа потерянных сообщений не было ни на dev, ни на проде, хотя код, который в неё пишет, жил в репозитории с апреля и на каждый вызов отвечал success: true. Рассказываю, как переименование миграции в V10b спрятало её от Flyway и почему мой мониторинг полгода докладывал, что всё спокойно. Читать далее</description>
-      <pubDate>Thu, 12 Nov 2026 09:00:09 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1104930/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104930</guid>
-      <category>Все публикации подряд на Хабре</category>
+      <title>SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions</title>
+      <link>https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/</link>
+      <description>SoftBank lost over $3 billion pre-ordering natural gas turbines to power AI data centers. Here's what the loss means to power markets.</description>
+      <pubDate>Thu, 12 Nov 2026 17:00:52 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/</guid>
+      <category>TechCrunch</category>
     </item>
     <item>
-      <title>Logitech предоставила всем 7 тысячам сотрудников выходной для игры в GTA VI</title>
-      <link>https://habr.com/ru/articles/1106968/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106968</link>
-      <description>Швейцарская компания‑производитель периферийного оборудования Logitech предоставила всем своим 7 тыс. сотрудников возможность взять выходной, чтобы поиграть в Grand Theft Auto VI. Игра выйдет 19 ноября 2026 года на PlayStation 5 и Xbox Series X/S. Сотрудники Logitech могут выбрать и любую другую игру, следует из пресс‑релиза компании. Читать далее</description>
-      <pubDate>Thu, 12 Nov 2026 08:53:06 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1106968/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106968</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>ESP32 для начинающих: от логических микросхем к умному железу</title>
-      <link>https://habr.com/ru/companies/first/articles/1106412/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106412</link>
-      <description>В предыдущей статье “ Первый шаг к микроконтроллерам: введение в цифровые схемы ” вы познакомились с логическими микросхемами на примере серии 155 и собранных на них простых конструкций. Но чтобы сделать более или менее сложную схему, потребуется много таких микросхем. Для внесения изменений в логику работы придётся перепроектировать и перепаивать схему, а то и создавать её заново. Современный подход к созданию цифровых схем предполагает применение микроконтроллеров и микрокомпьютеров. В этом сл</description>
-      <pubDate>Thu, 12 Nov 2026 08:45:08 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/first/articles/1106412/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106412</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Почему мы ссоримся в чатах</title>
-      <link>https://habr.com/ru/companies/reksoft/articles/1106664/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106664</link>
-      <description>Недавно у меня вышла напряженная переписка в чате с человеком, с которым никогда не ссорился вживую. Вроде бы оба взрослые люди, оба заинтересованы в результате, оба не склонны к эскалации. И такое случается со всеми, независимо от возраста, профессии и воспитания. Мы ссоримся там, где в реальной жизни просто обсудили бы вопрос за пять минут и разошлись. Но почему же мы срываемся в переписке, и что с этим можно попробовать сделать? Давайте попробуем разобраться. Потеря смысла и тайминг В живом р</description>
-      <pubDate>Thu, 12 Nov 2026 08:30:06 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/reksoft/articles/1106664/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106664</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>AMD тестирует технологию MEXT для использования данных из DRAM на SSD</title>
-      <link>https://habr.com/ru/articles/1106942/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106942</link>
-      <description>AMD тестирует технологию MEXT, которая обеспечит производительность на уровне 99% от максимума при использовании вдвое меньшего объёма оперативной памяти (DRAM) — при условии, что вместе с новым сервером на базе процессора Epyc приобретается лицензия на программное обеспечение. Читать далее</description>
-      <pubDate>Thu, 12 Nov 2026 08:27:06 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1106942/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106942</guid>
-      <category>Все публикации подряд на Хабре</category>
+      <title>‘The end of Tesla!’: Cybertruck diehards turn on Elon Musk after he pulls the plug</title>
+      <link>https://www.theverge.com/transportation/1031991/elon-musk-cancels-cybertruck-tesla-fans-backlash</link>
+      <description>The Cybertruck is heading to that shiny cyber-dumpster in the sky, leaving the folks who built online identities around Elon Musk's polarizing pickup feeling bereft. Usually, Musk's fanbase treads lightly around their idol's mercurial decisions. This time, however, the truck's demise has sparked rare backlash within the Tesla community - aimed squarely at the guy […]</description>
+      <pubDate>Thu, 12 Nov 2026 17:00:17 +0000</pubDate>
+      <guid>https://www.theverge.com/transportation/1031991/elon-musk-cancels-cybertruck-tesla-fans-backlash</guid>
+      <category>The Verge</category>
     </item>
   </channel>
 </rss>
