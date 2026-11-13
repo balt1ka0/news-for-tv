@@ -5,88 +5,88 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Fri, 13 Nov 2026 05:23:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 14:00:23 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Независимая премия «Шмель» подвела итоги первого сезона по идеям, реализации, привлечённому вниманию и результатам</title>
-      <link>https://habr.com/ru/articles/1107336/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107336</link>
-      <description>9 ноября 2026 года организаторы независимой премии « Шмель » подвели итоги первого сезона. В рамках этого мероприятия жюри оценивало проекты, включая онлайн решения, не по бюджетам и известности брендов, а по идее, реализации, привлечённому вниманию и результатам. Читать далее</description>
-      <pubDate>Fri, 13 Nov 2026 05:19:45 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1107336/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107336</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>ASR для AI-разработки: как я замерял качество распознавания технических терминов</title>
-      <link>https://habr.com/ru/articles/1107308/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107308</link>
-      <description>В этой статье я расскажу о том, как бенчмарк распознавания речи при AI-разработке голосом. Поговорим про сам замер, фабрики софта, постановку задач, особенности речи и датасет, посмотри на циферки и разберемся почему классический WER — очень коварная метрика, особенно в разработке. Ну что, лонг-тапнем на диплинк и деплоим на шпрот? Читать далее</description>
-      <pubDate>Fri, 13 Nov 2026 04:56:00 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1107308/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107308</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>FirstVDS: компенсации после инцидента с VMM6 17 октября</title>
-      <link>https://habr.com/ru/articles/1107332/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107332</link>
-      <description>В FirstVDS объявили информацию о компенсациях после проблемы с VMM6 17 октября. После начала инцидента многим клиентам компании пришлось срочно менять пароли и ключи, проверять системы и восстанавливать доступы. Ограничения управления серверами и долгое ожидание поддержки осложнили эту работу. Читать далее</description>
-      <pubDate>Fri, 13 Nov 2026 04:48:51 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1107332/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107332</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Выпуск обновления PicView 5.2 — открытого просмотрщика изображений для ПК на Windows 10/11 и macOS</title>
-      <link>https://habr.com/ru/articles/1106914/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106914</link>
-      <description>В первой половине ноября 2026 года состоялся релиз открытого проекта PicView 5.2.2. Это быстрый, бесплатный и полностью настраиваемый просмотрщик изображений для ПК на Windows 10/11 и теперь для macOS. Исходный код решения написан на C# и опубликован на GitHub под лицензией GNU General Public License. Разработка этого проекта ведётся с 2017 года. Версия PicView 4.0 вышла в декабре 2025 года. Релиз PicView 5.0 состоялся в июле 2026 года. Читать далее</description>
-      <pubDate>Fri, 13 Nov 2026 04:14:56 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1106914/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106914</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Где публиковать статьи, чтобы нейросети вас цитировали: Алисы, ChatGPT, Perplexity и DeepSeek</title>
-      <link>https://habr.com/ru/articles/1107326/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107326</link>
-      <description>У меня есть курс для маркетологов, и я хочу, чтобы нейросети его советовали. Когда человек пишет Алисе или ChatGPT «посоветуй курс по нейросетям для маркетолога», нейронка собирает ответ из чужих страниц: подборок, обзоров, статей, каталогов. Чтобы попасть в ответ, надо оказаться на страницах, которые она читает. Вот и всё GEO, если без красивых слов. Поэтому в сентябре я собрала список площадок, где можно опубликоваться бесплатно. Получилось 309: 178 русскоязычных и 131 англоязычная. Потом сдел</description>
-      <pubDate>Fri, 13 Nov 2026 03:55:02 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1107326/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107326</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>LLM после работы: интерактивная книга на ESP32-P4. Часть 3: сценарий, графика и сюжетный движок</title>
-      <link>https://habr.com/ru/articles/1107324/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107324</link>
-      <description>Мы с дочкой затеяли интерактивную книгу на базе отдельного устройства CrowPanel ESP32-P4. Она придумывает героев и события, я помогаю с реализацией и использую нейросети для текста, картинок и программирования. Можно выбирать, как поступят герои, и проходить историю разными путями. Зачем это вообще нужно я рассказал в первой статье . Во второй части разбирались с панелью: ESP-IDF, LVGL, дисплей, первые анимации. Теперь добрался до самого содержимого книги. Покажу наш сценарий, устройство сюжетно</description>
-      <pubDate>Fri, 13 Nov 2026 03:44:24 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1107324/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107324</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Выпуск обновления открытого проекта RustDesk 1.5.3</title>
-      <link>https://habr.com/ru/articles/1107078/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107078</link>
-      <description>В первой половине ноября 2026 года состоялся выпуск открытого мультиплатформеного проекта RustDesk 1.5.3 . Это приложение для удалённого рабочего стола, разработанное для самохостинга в качестве альтернативы TeamViewer. Исходный код решения написан на Rust и Dart и опубликован на GitHub под лицензией GNU Affero General Public License v3.0. Версия RustDesk 1.4.0 вышла в мае 2025 года. Сборку RustDesk 1.5.0 представили в начале октября 2026 года. Читать далее</description>
-      <pubDate>Fri, 13 Nov 2026 03:19:12 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1107078/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107078</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Вышел Tails 7.17</title>
-      <link>https://habr.com/ru/articles/1106912/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106912</link>
-      <description>В первой половине ноября 2026 года состоялся выпуск специализированного дистрибутива Tails 7.17, ориентированного на конфиденциальность, основанного на пакетной базе Debian 13 (ядре Linux 6.12 LTS), поставляемого с рабочим столом GNOME 48 и предназначенного для анонимного выхода в сеть. Выпуск Tails 6.0 произошёл в феврале 2024 года. Версия Tails 7.0 была представлена в сентябре 2025 года. Читать далее</description>
-      <pubDate>Fri, 13 Nov 2026 02:08:16 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1106912/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106912</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Новости нейронок от Google: Gemini 4, Omni 1.2 Flash и ИИ для робототехники</title>
-      <link>https://habr.com/ru/companies/bothub/articles/1107320/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107320</link>
-      <description>За последние недели Google обновила линейку Gemini 4 и представила несколько специализированных моделей. За последнее время прокачали несколько направлений: агентное программирование, сложные рассуждения, генерацию видео, робототехнику и мультимодальный поиск. Разберёмся, что изменилось и где это можно попробовать. Читать далее</description>
-      <pubDate>Fri, 13 Nov 2026 01:51:03 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/bothub/articles/1107320/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107320</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Donald Trump really wants Tim Cook to run Nvidia</title>
-      <link>https://www.theverge.com/tech/1032774/president-donald-trump-tim-cook-nvidia-jensen-huang</link>
-      <description>Jensen Huang resigned this morning as Nvidia's CEO following reports of affairs, including one with an alleged Chinese spy. Right now, the company is being led by its CFO on an interim basis. But President Donald Trump is already throwing around one person he thinks should take over the chipmaking giant: former Apple CEO Tim […]</description>
-      <pubDate>Fri, 13 Nov 2026 00:46:07 +0000</pubDate>
-      <guid>https://www.theverge.com/tech/1032774/president-donald-trump-tim-cook-nvidia-jensen-huang</guid>
+      <title>Claude’s Duet agent is a little neurotic and surprisingly helpful</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on</link>
+      <description>Normally, the products I test don't offer to help me write up my experience with them. Duet is different. Claude Duet is Anthropic's AI agent for consumers, the latest attempt by an AI company to try to convince us that agents can be useful for people who don't write code. It's been an interesting couple […]</description>
+      <pubDate>Fri, 13 Nov 2026 14:00:00 +0000</pubDate>
+      <guid>https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on</guid>
       <category>The Verge</category>
+    </item>
+    <item>
+      <title>[Перевод] Можно ли доверять ИИ при покупках? Проверка ChatGPT, Gemini и Perplexity</title>
+      <link>https://habr.com/ru/companies/speshu_ai/articles/1107596/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107596</link>
+      <description>ChatGPT, Gemini и Perplexity могут направлять покупателей на поддельные интернет-магазины и неработающие сайты. Это показало исследование компании Podqi , которая занимается защитой интеллектуальной собственности. Подозрительные адреса встречались в 15% ответов Perplexity, 8% ответов ChatGPT и 4% ответов Gemini. При этом исследователи учитывали как рекомендации таких сайтов, так и нейтральные упоминания и предупреждения об опасности. Читать далее</description>
+      <pubDate>Fri, 13 Nov 2026 13:51:54 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/speshu_ai/articles/1107596/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107596</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Значимый A/B‑тест завышает рост. Считаем, во сколько раз</title>
+      <link>https://habr.com/ru/companies/otus/articles/1101894/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101894</link>
+      <description>A/B‑тест показал +6% к конверсии при p‑value 0,03, и команда закладывает результат в бизнес‑прогноз. Но при низкой мощности эксперимента случайный шум может существенно завышать оценку эффекта. В статье разбираем, как работает проклятие победителя, насколько сильно оно искажает результаты и какие методы помогают получить более реалистичную оценку. Разбираем A/B-тесты</description>
+      <pubDate>Fri, 13 Nov 2026 13:50:04 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/otus/articles/1101894/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101894</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>В новых HTML‑виджетах Telegram обнаружили RCE‑уязвимость</title>
+      <link>https://habr.com/ru/articles/1107586/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107586</link>
+      <description>Исследователи безопасности V12 продемонстрировали возможность удалённого выполнения кода через новую функцию Telegram — интерактивные HTML‑виджеты, встроенные непосредственно в сообщения. Уязвимость затрагивала Telegram для Android. Разработчики уже выпустили исправление. Буквально недавно, 9 ноября, Telegram представил Bot API 10.4, разрешив ботам отправлять интерактивные HTML‑виджеты . В отличие от Mini Apps, такие виджеты работают прямо внутри переписки, без открытия отдельного приложения. Он</description>
+      <pubDate>Fri, 13 Nov 2026 13:39:10 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1107586/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107586</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Знаменитая головоломка возвращается домой: производство кубика Рубика возобновляется в Венгрии</title>
+      <link>https://habr.com/ru/articles/1107584/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107584</link>
+      <description>Более полувека назад венгерский архитектор, скульптор и преподаватель изобрёл головоломку, которой суждено было стать одной из самых популярных и любимых в мире. Её привлекательность не ослабевает на протяжении поколений: это разноцветный шестигранный кубик Рубика, над которым ломало голову не одно поколение людей. Теперь, когда продано уже более полумиллиарда экземпляров, а кубик стал всемирно известным культурным символом, его производство возвращается в Венгрию , где изобретатель Эрнё Рубик в</description>
+      <pubDate>Fri, 13 Nov 2026 13:29:14 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1107584/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107584</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Эволюция API в эпоху AI: REST vs MCP на примере платёжного сервиса</title>
+      <link>https://habr.com/ru/companies/yoomoney/articles/1107580/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107580</link>
+      <description>Привет, Хабр! Меня зовут Рома, я backend-разработчик в ЮMoney. Почти 10 лет наша команда занимается в том числе развитием публичного платежного API. Недавно мы запустили MCP-сервер (Model Context Protocol), который позволяет нейросетям (LLM) напрямую работать с платежами и счетами. В процессе разработки и отладки мы быстро поняли, что проектирование API для языковых моделей кардинально отличается от привычной REST-архитектуры. В этой статье я хочу поделиться полученным опытом и мыслями. Техничес</description>
+      <pubDate>Fri, 13 Nov 2026 13:27:16 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/yoomoney/articles/1107580/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107580</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Американский регулятор расширяет использование ИИ‑системы для управления движением по всему воздушному пространству США</title>
+      <link>https://habr.com/ru/articles/1107572/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107572</link>
+      <description>Федеральное управление гражданской авиации США (FAA) объявило о расширении применения системы на базе искусственного интеллекта, которая помогает авиадиспетчерам управлять движением по всему воздушному пространству страны. Читать далее</description>
+      <pubDate>Fri, 13 Nov 2026 13:18:15 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1107572/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107572</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Когда ИИ-агенту нужен MCP, а когда достаточно обычного API</title>
+      <link>https://habr.com/ru/companies/runity/articles/1107568/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107568</link>
+      <description>Допустим, вы разрабатываете ИИ-агента, который проверяет статусы заказов. Для этого ему нужно обратиться к учетной системе, найти заказ по номеру и вернуть пользователю результат. Можно подключить агента напрямую через API. А можно создать MCP-сервер, который предоставит ту же операцию в виде инструмента. Какой вариант выбрать? Читать далее</description>
+      <pubDate>Fri, 13 Nov 2026 13:15:42 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/runity/articles/1107568/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107568</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Microsoft’s latest email outage turned into a full blown global cloud crisis</title>
+      <link>https://techcrunch.com/2026/11/13/microsoft-latest-email-outage-turned-into-a-full-blown-global-cloud-crisis/</link>
+      <description>Microsoft's day-long outage began with Outlook and Teams, and ended up taking much of the company's cloud services offline. Microsoft says it's gradually restoring service.</description>
+      <pubDate>Fri, 13 Nov 2026 13:15:20 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/11/13/microsoft-latest-email-outage-turned-into-a-full-blown-global-cloud-crisis/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>От кода до развёртывания: что разработчики уже поручают ИИ-агентам, а что пока оставляют себе</title>
+      <link>https://habr.com/ru/companies/T1Holding/articles/1107428/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107428</link>
+      <description>Представьте: вы ставите задачу, а ИИ не просто предлагает кусок кода, а сам разбирает её на этапы, пишет и проверяет решение, ищет ошибки, готовит документацию. И всё это — в рамках одного рабочего процесса. Похоже, для некоторых разработчиков это уже не сценарий из будущего. В нашем исследовании i четверть участников — 25% из 190 опрошенных программистов — рассказали, что используют ИИ‑агентов или оркестрацию нескольких ИИ. Мы посмотрели на результаты и решили разобраться: что именно разработчи</description>
+      <pubDate>Fri, 13 Nov 2026 13:12:21 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/T1Holding/articles/1107428/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107428</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
   </channel>
 </rss>
