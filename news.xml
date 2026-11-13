@@ -5,87 +5,87 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Fri, 13 Nov 2026 14:00:23 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 20:46:23 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Claude’s Duet agent is a little neurotic and surprisingly helpful</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on</link>
-      <description>Normally, the products I test don't offer to help me write up my experience with them. Duet is different. Claude Duet is Anthropic's AI agent for consumers, the latest attempt by an AI company to try to convince us that agents can be useful for people who don't write code. It's been an interesting couple […]</description>
-      <pubDate>Fri, 13 Nov 2026 14:00:00 +0000</pubDate>
-      <guid>https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on</guid>
+      <title>ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet</link>
+      <description>After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 and older using a US billing address and "eligible US-issued American Express, Chase, Mastercard and Visa cards." After adding a card […]</description>
+      <pubDate>Fri, 13 Nov 2026 20:45:10 +0000</pubDate>
+      <guid>https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet</guid>
       <category>The Verge</category>
     </item>
     <item>
-      <title>[Перевод] Можно ли доверять ИИ при покупках? Проверка ChatGPT, Gemini и Perplexity</title>
-      <link>https://habr.com/ru/companies/speshu_ai/articles/1107596/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107596</link>
-      <description>ChatGPT, Gemini и Perplexity могут направлять покупателей на поддельные интернет-магазины и неработающие сайты. Это показало исследование компании Podqi , которая занимается защитой интеллектуальной собственности. Подозрительные адреса встречались в 15% ответов Perplexity, 8% ответов ChatGPT и 4% ответов Gemini. При этом исследователи учитывали как рекомендации таких сайтов, так и нейтральные упоминания и предупреждения об опасности. Читать далее</description>
-      <pubDate>Fri, 13 Nov 2026 13:51:54 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/speshu_ai/articles/1107596/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107596</guid>
+      <title>CMF’s milk carton-shaped Bluetooth speaker is down to a new low price</title>
+      <link>https://www.theverge.com/gadgets/1033185/nothing-cmf-speaker-s-m-black-friday-deal-sale</link>
+      <description>Bluetooth speakers are often boring boxes in plain colors, but not this one! As part of Nothing’s ongoing early Black Friday promo, you can grab its unique, milk carton-shaped CMF Speaker S from Amazon and Nothing for just $39. That’s a solid $20 discount and the lowest price we’ve seen on Nothing’s newfangled wireless speaker, […]</description>
+      <pubDate>Fri, 13 Nov 2026 20:30:00 +0000</pubDate>
+      <guid>https://www.theverge.com/gadgets/1033185/nothing-cmf-speaker-s-m-black-friday-deal-sale</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>Клодизмы. Часть 1. Классификация ошибок, которые языковая модель допускает в связном тексте</title>
+      <link>https://habr.com/ru/articles/1107710/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107710</link>
+      <description>Я преподаю английский язык с 1989 года и веду сайт e-repa.ru : упражнения для русскоязычных учеников, построенные на собственных js-движках. О самих js-движках я писал в отдельной серии ( часть 1 , часть 2 ). Тексты к упражнениям — объяснения, преамбулы, методические записки — я пишу вместе с Claude. За несколько месяцев такой работы у меня накопился длинный список ошибок, которые модель повторяет из текста в текст с таким постоянством, что я называю их клодизмами. Как такой список возникает, по</description>
+      <pubDate>Fri, 13 Nov 2026 20:28:23 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1107710/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107710</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Значимый A/B‑тест завышает рост. Считаем, во сколько раз</title>
-      <link>https://habr.com/ru/companies/otus/articles/1101894/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101894</link>
-      <description>A/B‑тест показал +6% к конверсии при p‑value 0,03, и команда закладывает результат в бизнес‑прогноз. Но при низкой мощности эксперимента случайный шум может существенно завышать оценку эффекта. В статье разбираем, как работает проклятие победителя, насколько сильно оно искажает результаты и какие методы помогают получить более реалистичную оценку. Разбираем A/B-тесты</description>
-      <pubDate>Fri, 13 Nov 2026 13:50:04 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/otus/articles/1101894/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101894</guid>
+      <title>Три месяца я задавал нейросетям одни и те же 61 вопрос: доля ответов со ссылкой на мои статьи выросла с 3 до 51 %</title>
+      <link>https://habr.com/ru/articles/1107706/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107706</link>
+      <description>С середины лета я раз в несколько недель задаю нейросетям с веб-поиском одни и те же вопросы про франшизы и производство одежды и записываю, на какие страницы они ссылаются. Вопросы такие, какие задаёт человек перед покупкой: «за сколько окупается франшиза производства мерча», «как проверить франшизу, чтобы не нарваться на развод», «какой DTF-принтер выбрать для старта». Параллельно все эти месяцы я писал статьи о нашем производстве на открытые площадки, где публикуются сторонние авторы, и вёл б</description>
+      <pubDate>Fri, 13 Nov 2026 20:17:04 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1107706/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107706</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>В новых HTML‑виджетах Telegram обнаружили RCE‑уязвимость</title>
-      <link>https://habr.com/ru/articles/1107586/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107586</link>
-      <description>Исследователи безопасности V12 продемонстрировали возможность удалённого выполнения кода через новую функцию Telegram — интерактивные HTML‑виджеты, встроенные непосредственно в сообщения. Уязвимость затрагивала Telegram для Android. Разработчики уже выпустили исправление. Буквально недавно, 9 ноября, Telegram представил Bot API 10.4, разрешив ботам отправлять интерактивные HTML‑виджеты . В отличие от Mini Apps, такие виджеты работают прямо внутри переписки, без открытия отдельного приложения. Он</description>
-      <pubDate>Fri, 13 Nov 2026 13:39:10 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1107586/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107586</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Знаменитая головоломка возвращается домой: производство кубика Рубика возобновляется в Венгрии</title>
-      <link>https://habr.com/ru/articles/1107584/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107584</link>
-      <description>Более полувека назад венгерский архитектор, скульптор и преподаватель изобрёл головоломку, которой суждено было стать одной из самых популярных и любимых в мире. Её привлекательность не ослабевает на протяжении поколений: это разноцветный шестигранный кубик Рубика, над которым ломало голову не одно поколение людей. Теперь, когда продано уже более полумиллиарда экземпляров, а кубик стал всемирно известным культурным символом, его производство возвращается в Венгрию , где изобретатель Эрнё Рубик в</description>
-      <pubDate>Fri, 13 Nov 2026 13:29:14 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1107584/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107584</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Эволюция API в эпоху AI: REST vs MCP на примере платёжного сервиса</title>
-      <link>https://habr.com/ru/companies/yoomoney/articles/1107580/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107580</link>
-      <description>Привет, Хабр! Меня зовут Рома, я backend-разработчик в ЮMoney. Почти 10 лет наша команда занимается в том числе развитием публичного платежного API. Недавно мы запустили MCP-сервер (Model Context Protocol), который позволяет нейросетям (LLM) напрямую работать с платежами и счетами. В процессе разработки и отладки мы быстро поняли, что проектирование API для языковых моделей кардинально отличается от привычной REST-архитектуры. В этой статье я хочу поделиться полученным опытом и мыслями. Техничес</description>
-      <pubDate>Fri, 13 Nov 2026 13:27:16 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/yoomoney/articles/1107580/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107580</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Американский регулятор расширяет использование ИИ‑системы для управления движением по всему воздушному пространству США</title>
-      <link>https://habr.com/ru/articles/1107572/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107572</link>
-      <description>Федеральное управление гражданской авиации США (FAA) объявило о расширении применения системы на базе искусственного интеллекта, которая помогает авиадиспетчерам управлять движением по всему воздушному пространству страны. Читать далее</description>
-      <pubDate>Fri, 13 Nov 2026 13:18:15 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1107572/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107572</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Когда ИИ-агенту нужен MCP, а когда достаточно обычного API</title>
-      <link>https://habr.com/ru/companies/runity/articles/1107568/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107568</link>
-      <description>Допустим, вы разрабатываете ИИ-агента, который проверяет статусы заказов. Для этого ему нужно обратиться к учетной системе, найти заказ по номеру и вернуть пользователю результат. Можно подключить агента напрямую через API. А можно создать MCP-сервер, который предоставит ту же операцию в виде инструмента. Какой вариант выбрать? Читать далее</description>
-      <pubDate>Fri, 13 Nov 2026 13:15:42 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/runity/articles/1107568/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107568</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Microsoft’s latest email outage turned into a full blown global cloud crisis</title>
-      <link>https://techcrunch.com/2026/11/13/microsoft-latest-email-outage-turned-into-a-full-blown-global-cloud-crisis/</link>
-      <description>Microsoft's day-long outage began with Outlook and Teams, and ended up taking much of the company's cloud services offline. Microsoft says it's gradually restoring service.</description>
-      <pubDate>Fri, 13 Nov 2026 13:15:20 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/11/13/microsoft-latest-email-outage-turned-into-a-full-blown-global-cloud-crisis/</guid>
+      <title>This young startup wants to power floating data centers with the ocean’s heat, and investors are already on board</title>
+      <link>https://techcrunch.com/2026/11/13/this-young-startup-wants-to-power-floating-data-centers-with-the-oceans-heat-and-investors-are-already-on-board/</link>
+      <description>Drogue is harvesting heat from the ocean to power data centers on floating vessels. The first prototype should be bobbing around the ocean, crunching bits, in less than two years.</description>
+      <pubDate>Fri, 13 Nov 2026 20:07:24 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/11/13/this-young-startup-wants-to-power-floating-data-centers-with-the-oceans-heat-and-investors-are-already-on-board/</guid>
       <category>TechCrunch</category>
     </item>
     <item>
-      <title>От кода до развёртывания: что разработчики уже поручают ИИ-агентам, а что пока оставляют себе</title>
-      <link>https://habr.com/ru/companies/T1Holding/articles/1107428/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107428</link>
-      <description>Представьте: вы ставите задачу, а ИИ не просто предлагает кусок кода, а сам разбирает её на этапы, пишет и проверяет решение, ищет ошибки, готовит документацию. И всё это — в рамках одного рабочего процесса. Похоже, для некоторых разработчиков это уже не сценарий из будущего. В нашем исследовании i четверть участников — 25% из 190 опрошенных программистов — рассказали, что используют ИИ‑агентов или оркестрацию нескольких ИИ. Мы посмотрели на результаты и решили разобраться: что именно разработчи</description>
-      <pubDate>Fri, 13 Nov 2026 13:12:21 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/T1Holding/articles/1107428/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107428</guid>
+      <title>AI agent startup LangChain hits $3B valuation</title>
+      <link>https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/</link>
+      <description>LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.</description>
+      <pubDate>Fri, 13 Nov 2026 19:37:57 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>Делаю аналог codespell для русского языка</title>
+      <link>https://habr.com/ru/articles/1107702/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107702</link>
+      <description>Всем привет! Я начал делать аналог codespell, только для русского языка! Если кратко: codespell помогает находить опечатки в коде и файлах разных форматов, а мне такая потребность пригодилась при чтении оригинальной документации Python на русский язык. Проект называется sanya: https://github.com/sanyaspell/sanya . Идея простая: загружаем словарь возможных опечаток, проходимся по словам в проверяемых файлах и смотрим, есть ли слово в этом словаре. Пока что поддерживаются не все форматы файлов (то</description>
+      <pubDate>Fri, 13 Nov 2026 19:35:22 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1107702/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107702</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Here’s how you can save on your GTA VI preorder ahead of launch</title>
+      <link>https://www.theverge.com/gadgets/1033046/playstation-xbox-gift-card-gta-vi-6-preorder-deal-sale</link>
+      <description>The long-awaited launch of GTA VI is around the corner, happening next Friday, November 19th. While discounts on the game itself will be rare for some time, there’s a clever workaround to save you a few bucks on your digital copy. We found discounts on gift cards for both Sony PlayStation and Microsoft Xbox Series […]</description>
+      <pubDate>Fri, 13 Nov 2026 19:14:38 +0000</pubDate>
+      <guid>https://www.theverge.com/gadgets/1033046/playstation-xbox-gift-card-gta-vi-6-preorder-deal-sale</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>Export-banned Nvidia chips are behind China’s most powerful AI models — uh oh, Jensen!</title>
+      <link>https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/</link>
+      <description>New research shows the most advanced AI models from China were trained on banned Nvidia chips.</description>
+      <pubDate>Fri, 13 Nov 2026 18:40:30 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>Paprium: почему я считаю его посредственной поделкой, раздутой маркетингом (мое субъективное мнение, прошу это учесть)</title>
+      <link>https://habr.com/ru/articles/1107694/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107694</link>
+      <description>Десять лет разработки, сотни тысяч долларов краудфандинга, закрытые предзаказы, массивный радиатор на плате и легенды о «неэмулируемом суперчипе» внутри. Именно так публике продавали Paprium для Sega Mega Drive — пока в октябре 2026 года энтузиасты не вырезали этот чип патчем и не запустили игру на обычной приставке. Читать далее</description>
+      <pubDate>Fri, 13 Nov 2026 18:32:53 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1107694/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107694</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
   </channel>
