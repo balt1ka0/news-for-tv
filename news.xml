@@ -5,88 +5,88 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Thu, 12 Nov 2026 23:15:43 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 05:23:32 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Xbox owners are getting more customizations for backgrounds and the Guide menu</title>
-      <link>https://www.theverge.com/news/1032396/xbox-dashboard-guide-menu-right-side-background-shuffle-feature</link>
-      <description>Microsoft is starting to test new customization options for Xbox consoles today. Xbox Insiders will be able to start testing new rotating backgrounds, new library options for digital games, and the ability to move the Xbox Guide menu to the right-hand side. "Xbox Insiders can now save favorite dynamic backgrounds and shuffle through them automatically," […]</description>
-      <pubDate>Thu, 12 Nov 2026 23:00:00 +0000</pubDate>
-      <guid>https://www.theverge.com/news/1032396/xbox-dashboard-guide-menu-right-side-background-shuffle-feature</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump</title>
-      <link>https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/</link>
-      <description>This Congressional investigation into Nvidia's China sales and its dealings with Trump is the second one, so far, since news of the alleged spy affair broke.</description>
-      <pubDate>Thu, 12 Nov 2026 22:42:51 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>Muse can now place calls to U.S. businesses — if you pay</title>
-      <link>https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/</link>
-      <description>Muse's AI can now place outbound calls to US businesses — but it's not free.</description>
-      <pubDate>Thu, 12 Nov 2026 22:22:28 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>WINDOWS + MACBOOK: РАБОЧЕЕ МЕСТО, СЕРВЕР И ДВА VPN</title>
-      <link>https://habr.com/ru/articles/1107312/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107312</link>
-      <description>Как мы с GPT совместили локальную сеть, отдельные учётки, обмен файлами и Kill Switch — и что пошло не по плану. 10 ноября 2026 года. Всем привет! Товарищ отдал мне свой старый MacBook Pro. Он грелся, я его продул, привёл в порядок — и задумался: а что теперь с ним делать? У меня уже есть привычный Windows-компьютер, на котором я работаю и рисую. К Mac я пока только привыкаю. Выбрасывать такую машину из рабочего процесса жалко, но и превращать её в дорогую подставку для чашки не хотелось. Сначал</description>
-      <pubDate>Thu, 12 Nov 2026 21:56:37 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1107312/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107312</guid>
+      <title>Независимая премия «Шмель» подвела итоги первого сезона по идеям, реализации, привлечённому вниманию и результатам</title>
+      <link>https://habr.com/ru/articles/1107336/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107336</link>
+      <description>9 ноября 2026 года организаторы независимой премии « Шмель » подвели итоги первого сезона. В рамках этого мероприятия жюри оценивало проекты, включая онлайн решения, не по бюджетам и известности брендов, а по идее, реализации, привлечённому вниманию и результатам. Читать далее</description>
+      <pubDate>Fri, 13 Nov 2026 05:19:45 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1107336/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107336</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Google’s new Gemini model is better at understanding complicated questions</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen</link>
-      <description>Google says its new Gemini 4 Hydrogen model can give more helpful answers to complex questions, including "questions with multiple parts, hard-to-understand typos, or highly specific requests." The new model can break down your questions and address each part in its responses. It's available starting today in search, the Gemini app, all tiers of Google […]</description>
-      <pubDate>Thu, 12 Nov 2026 21:55:32 +0000</pubDate>
-      <guid>https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>‘It’s a mistake’: reactions from tech leaders on Jensen Huang’s resignation</title>
-      <link>https://www.theverge.com/tech/1032434/nvidia-jensen-huang-resignation-reactions</link>
-      <description>Nvidia announced this morning that Jensen Huang has resigned as CEO following reports of two affairs, including one with an alleged Chinese spy and one with a direct report. The situation surrounding Huang has unfolded quickly, with The New York Times only reporting on Friday that Huang and the suspected spy were "close" before other […]</description>
-      <pubDate>Thu, 12 Nov 2026 21:45:00 +0000</pubDate>
-      <guid>https://www.theverge.com/tech/1032434/nvidia-jensen-huang-resignation-reactions</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>Путь к локальному LLM — модель которую я наконец-то реально использую каждый день</title>
-      <link>https://habr.com/ru/articles/1107310/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107310</link>
-      <description>Путь к локальному LLM: как требвоания по ИБ и “дух авантюризма” привели меня к 125B-модели под столом - и почему агенты больше не просят облако ИИ-агенты у меня не демо для презентаций, а производственная сила: пишут код, расследуют инциденты по трассировкам, формируют постанвоки и прототипы, развивают платформы и закрывают кучу процессов бекофиса. Внутри компании у нас уже давно идет процесс ИИзации процессов и повышения личной эффективности за счет ИИ-агентов. Но чем больше они работают, тем н</description>
-      <pubDate>Thu, 12 Nov 2026 21:36:21 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1107310/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107310</guid>
+      <title>ASR для AI-разработки: как я замерял качество распознавания технических терминов</title>
+      <link>https://habr.com/ru/articles/1107308/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107308</link>
+      <description>В этой статье я расскажу о том, как бенчмарк распознавания речи при AI-разработке голосом. Поговорим про сам замер, фабрики софта, постановку задач, особенности речи и датасет, посмотри на циферки и разберемся почему классический WER — очень коварная метрика, особенно в разработке. Ну что, лонг-тапнем на диплинк и деплоим на шпрот? Читать далее</description>
+      <pubDate>Fri, 13 Nov 2026 04:56:00 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1107308/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107308</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>The unfolding Jensen Huang scandal: a timeline</title>
-      <link>https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/</link>
-      <description>Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.</description>
-      <pubDate>Thu, 12 Nov 2026 21:35:00 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/</guid>
-      <category>TechCrunch</category>
+      <title>FirstVDS: компенсации после инцидента с VMM6 17 октября</title>
+      <link>https://habr.com/ru/articles/1107332/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107332</link>
+      <description>В FirstVDS объявили информацию о компенсациях после проблемы с VMM6 17 октября. После начала инцидента многим клиентам компании пришлось срочно менять пароли и ключи, проверять системы и восстанавливать доступы. Ограничения управления серверами и долгое ожидание поддержки осложнили эту работу. Читать далее</description>
+      <pubDate>Fri, 13 Nov 2026 04:48:51 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1107332/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107332</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>The Oura Ring 4 is almost as good as the newer model, but $150 cheaper</title>
-      <link>https://www.theverge.com/gadgets/1032311/oura-ring-4-smart-ring-deal-sale</link>
-      <description>The previous-generation Oura Ring 4 is on sale for as low as $249 at Amazon, Best Buy, and Target, $100 off the retail price, and the first big discount on the device since July. The price varies a bit by size and color, with most silver and black models in stock at the lowest price […]</description>
-      <pubDate>Thu, 12 Nov 2026 21:28:53 +0000</pubDate>
-      <guid>https://www.theverge.com/gadgets/1032311/oura-ring-4-smart-ring-deal-sale</guid>
+      <title>Выпуск обновления PicView 5.2 — открытого просмотрщика изображений для ПК на Windows 10/11 и macOS</title>
+      <link>https://habr.com/ru/articles/1106914/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106914</link>
+      <description>В первой половине ноября 2026 года состоялся релиз открытого проекта PicView 5.2.2. Это быстрый, бесплатный и полностью настраиваемый просмотрщик изображений для ПК на Windows 10/11 и теперь для macOS. Исходный код решения написан на C# и опубликован на GitHub под лицензией GNU General Public License. Разработка этого проекта ведётся с 2017 года. Версия PicView 4.0 вышла в декабре 2025 года. Релиз PicView 5.0 состоялся в июле 2026 года. Читать далее</description>
+      <pubDate>Fri, 13 Nov 2026 04:14:56 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1106914/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106914</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Где публиковать статьи, чтобы нейросети вас цитировали: Алисы, ChatGPT, Perplexity и DeepSeek</title>
+      <link>https://habr.com/ru/articles/1107326/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107326</link>
+      <description>У меня есть курс для маркетологов, и я хочу, чтобы нейросети его советовали. Когда человек пишет Алисе или ChatGPT «посоветуй курс по нейросетям для маркетолога», нейронка собирает ответ из чужих страниц: подборок, обзоров, статей, каталогов. Чтобы попасть в ответ, надо оказаться на страницах, которые она читает. Вот и всё GEO, если без красивых слов. Поэтому в сентябре я собрала список площадок, где можно опубликоваться бесплатно. Получилось 309: 178 русскоязычных и 131 англоязычная. Потом сдел</description>
+      <pubDate>Fri, 13 Nov 2026 03:55:02 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1107326/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107326</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>LLM после работы: интерактивная книга на ESP32-P4. Часть 3: сценарий, графика и сюжетный движок</title>
+      <link>https://habr.com/ru/articles/1107324/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107324</link>
+      <description>Мы с дочкой затеяли интерактивную книгу на базе отдельного устройства CrowPanel ESP32-P4. Она придумывает героев и события, я помогаю с реализацией и использую нейросети для текста, картинок и программирования. Можно выбирать, как поступят герои, и проходить историю разными путями. Зачем это вообще нужно я рассказал в первой статье . Во второй части разбирались с панелью: ESP-IDF, LVGL, дисплей, первые анимации. Теперь добрался до самого содержимого книги. Покажу наш сценарий, устройство сюжетно</description>
+      <pubDate>Fri, 13 Nov 2026 03:44:24 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1107324/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107324</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Выпуск обновления открытого проекта RustDesk 1.5.3</title>
+      <link>https://habr.com/ru/articles/1107078/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107078</link>
+      <description>В первой половине ноября 2026 года состоялся выпуск открытого мультиплатформеного проекта RustDesk 1.5.3 . Это приложение для удалённого рабочего стола, разработанное для самохостинга в качестве альтернативы TeamViewer. Исходный код решения написан на Rust и Dart и опубликован на GitHub под лицензией GNU Affero General Public License v3.0. Версия RustDesk 1.4.0 вышла в мае 2025 года. Сборку RustDesk 1.5.0 представили в начале октября 2026 года. Читать далее</description>
+      <pubDate>Fri, 13 Nov 2026 03:19:12 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1107078/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107078</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Вышел Tails 7.17</title>
+      <link>https://habr.com/ru/articles/1106912/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106912</link>
+      <description>В первой половине ноября 2026 года состоялся выпуск специализированного дистрибутива Tails 7.17, ориентированного на конфиденциальность, основанного на пакетной базе Debian 13 (ядре Linux 6.12 LTS), поставляемого с рабочим столом GNOME 48 и предназначенного для анонимного выхода в сеть. Выпуск Tails 6.0 произошёл в феврале 2024 года. Версия Tails 7.0 была представлена в сентябре 2025 года. Читать далее</description>
+      <pubDate>Fri, 13 Nov 2026 02:08:16 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1106912/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106912</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Новости нейронок от Google: Gemini 4, Omni 1.2 Flash и ИИ для робототехники</title>
+      <link>https://habr.com/ru/companies/bothub/articles/1107320/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107320</link>
+      <description>За последние недели Google обновила линейку Gemini 4 и представила несколько специализированных моделей. За последнее время прокачали несколько направлений: агентное программирование, сложные рассуждения, генерацию видео, робототехнику и мультимодальный поиск. Разберёмся, что изменилось и где это можно попробовать. Читать далее</description>
+      <pubDate>Fri, 13 Nov 2026 01:51:03 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/bothub/articles/1107320/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107320</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Donald Trump really wants Tim Cook to run Nvidia</title>
+      <link>https://www.theverge.com/tech/1032774/president-donald-trump-tim-cook-nvidia-jensen-huang</link>
+      <description>Jensen Huang resigned this morning as Nvidia's CEO following reports of affairs, including one with an alleged Chinese spy. Right now, the company is being led by its CFO on an interim basis. But President Donald Trump is already throwing around one person he thinks should take over the chipmaking giant: former Apple CEO Tim […]</description>
+      <pubDate>Fri, 13 Nov 2026 00:46:07 +0000</pubDate>
+      <guid>https://www.theverge.com/tech/1032774/president-donald-trump-tim-cook-nvidia-jensen-huang</guid>
       <category>The Verge</category>
-    </item>
-    <item>
-      <title>Nebius tests the neocloud playbook with $40 billion in planned spending</title>
-      <link>https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/</link>
-      <description>Nebius plans to fund its $40 billion AI infrastructure expansion through customer prepayments and loans, even as delays at a Microsoft data center raise questions about its financing model.</description>
-      <pubDate>Thu, 12 Nov 2026 21:27:10 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/</guid>
-      <category>TechCrunch</category>
     </item>
   </channel>
 </rss>
