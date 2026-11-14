@@ -5,87 +5,87 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Sat, 14 Nov 2026 08:39:55 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 15:36:24 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[Перевод] Очиститель воздуха скачивал корневой сертификат по HTTP: как я выгнал из него облако Coway</title>
-      <link>https://habr.com/ru/articles/1107784/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107784</link>
-      <description>Облако Coway, по наблюдениям автора оригинала, ломалось как минимум раз-два в год: то банило интеграцию для Home Assistant, то меняло приложение, а однажды на несколько недель заблокировало его аккаунт. Он решил отвязать свой очиститель Airmega IconS от облака. Поднял MitM-стенд на Raspberry Pi и обнаружил, что устройство скачивает корневой сертификат Amazon по обычному HTTP: стоит подменить его, и HTTPS-запросы устройства видны, никакой взломанный удостоверяющий центр не нужен. Дальше своя пара</description>
-      <pubDate>Sat, 14 Nov 2026 08:13:28 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1107784/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107784</guid>
+      <title>Nightmare Eclipse опубликовал новую уязвимость нулевого дня SignDrop в драйвере Common Log File System (CLFS) Windows</title>
+      <link>https://habr.com/ru/articles/1107890/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107890</link>
+      <description>Инженер‑исследователь по ИБ и бывший сотрудник подразделения Microsoft V&amp;M (Microsoft Security Response Center: Vulnerabilities &amp; Mitigation) по имени Абдельхамид Насери (aka Nightmare Eclipse или MSNightmare) опубликовал в открытом доступе новую уязвимость нулевого дня под названием SignDrop. Она была обнаружена в драйвере Common Log File System (CLFS) Windows. Читать далее</description>
+      <pubDate>Sat, 14 Nov 2026 15:26:07 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1107890/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107890</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>От i486 до MMX: что разработчики Linux отправили на пенсию в 2026 году</title>
-      <link>https://habr.com/ru/companies/selectel/articles/1107550/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107550</link>
-      <description>В Linux до сих пор встречается поддержка железа, которое давно перешло в разряд находок с барахолки . Иногда смотришь на такой девайс и сначала пытаешься понять, куда его вообще подключать. Но система-то помнит: нужный драйвер все еще есть в ядре. Правда, в 2026 году этот список заметно сократился. Под удаление попали и процессоры, и мыши, и целые подсистемы для старой связи. Мы эту статью решили написать после новости про MMX: из Linux собираются убрать последние оптимизации под эту технологию.</description>
-      <pubDate>Sat, 14 Nov 2026 08:00:15 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/selectel/articles/1107550/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107550</guid>
+      <title>Here are our favorite deals from REI’s giant Holiday Sale</title>
+      <link>https://www.theverge.com/gadgets/1032500/best-deals-rei-holiday-sale-2026</link>
+      <description>Black Friday has become a shopping season of its own, with retailers once again offering discounts well ahead of the actual shopping holiday. We’ve already rounded up some of the best early Black Friday deals we’ve come across, but if you’re looking to save on outdoor gear or pick up something for an upcoming trip, […]</description>
+      <pubDate>Sat, 14 Nov 2026 15:00:00 +0000</pubDate>
+      <guid>https://www.theverge.com/gadgets/1032500/best-deals-rei-holiday-sale-2026</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs</title>
+      <link>https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview</link>
+      <description>Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our series on AI in real life. Helen is a well-known figure in the AI safety and policy community, though she is perhaps best known for having served on […]</description>
+      <pubDate>Sat, 14 Nov 2026 15:00:00 +0000</pubDate>
+      <guid>https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>Лечение Java-монолита с Claude</title>
+      <link>https://habr.com/ru/articles/1107882/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107882</link>
+      <description>Когда я пришёл в проект, меня встретил Java-монолит: около 2000 классов, 120 тысяч строк кода и очень много сложной бизнес-логики. Его шесть лет писала команда из двух–пяти человек, и, судя по коду, о понятии технического долга никто в компании не слышал. Примерно за полгода до моего прихода команда начала работать с Copilot, а потом перешла на Claude Code. Тесты в проекте появились только вместе с Claude, но их было мало. Позже выяснилось, что и те толком ничего не проверяли. Условия были такие</description>
+      <pubDate>Sat, 14 Nov 2026 14:35:45 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1107882/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107882</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Выпуск BetterMediaInfo 1.2.0 — это графический интерфейс для MediaInfo и анализа метаданных для аудио‑ и видеофайлов</title>
-      <link>https://habr.com/ru/articles/1107672/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107672</link>
-      <description>В первой половине 2026 года состоялся выпуск обновления открытого мультиплатформенного инструмента BetterMediaInfo версии 1.2.0. Это графический пользовательский интерфейс для открытого проекта MediaInfo (системы унифицированного отображения наиболее важных технических данных и тегов для видео‑ и аудиофайлов) и вывода информации по метаданным для аудио‑ и видеофайлов. Читать далее</description>
-      <pubDate>Sat, 14 Nov 2026 07:55:26 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1107672/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107672</guid>
+      <title>SAFe Coaches Handbook — Глава 3. Итерация Agile-команды и Выполнение PI</title>
+      <link>https://habr.com/ru/articles/1107880/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107880</link>
+      <description>Всем приветы! Немного почитать вам на выходных ;) Продолжаю делиться переводом книги SAFe Coaches Handbook - Darren Wilmshurst. Читать далее</description>
+      <pubDate>Sat, 14 Nov 2026 14:32:57 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1107880/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107880</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Как я получил root и постоянный SSH на Xiaomi Mi Smart Speaker с Марусей</title>
-      <link>https://habr.com/ru/articles/1107780/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107780</link>
-      <description>Получил root и постоянный SSH на Xiaomi Mi Smart Speaker с Марусей. Для этого использовал штатное USB‑окно загрузчика, сохранил полный дамп NAND с OOB и запустил временный установщик в оперативной памяти. Рассказываю, как устроен этот способ, почему SSH сохраняется после перезагрузки и как заблокировать OTA обновления. Прикладываю утилиту SpeakerLab 1.0 с исходниками, инструкциями и тестами. Читать далее</description>
-      <pubDate>Sat, 14 Nov 2026 07:52:14 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1107780/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107780</guid>
+      <title>Whoop запустила соцсеть для обмена данными о сне, нагрузке и восстановлении</title>
+      <link>https://habr.com/ru/articles/1107878/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107878</link>
+      <description>Производитель фитнес‑браслетов Whoop запустил Humans — социальную сеть внутри фирменного приложения. В ней пользователи могут следить за показателями здоровья и тренировками друзей и знакомым. Кроме того, в соцсети можно публиковать фотографии, комментировать публикации и ставить реакции. Читать далее</description>
+      <pubDate>Sat, 14 Nov 2026 14:28:18 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1107878/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107878</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Как я написал на Go демон для экрана кулера Ocypus в Linux</title>
-      <link>https://habr.com/ru/articles/1107776/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107776</link>
-      <description>Всем привет! Моя основная система — Linux (Arch). Мне она очень нравится, но относительно недавно я обновил процессор и решил заодно поменять кулер. Выбор пал на Ocypus Delta A62 EX Digital . У него есть простая, но симпатичная фича: небольшой экранчик, на котором можно показывать температуру процессора или видеокарты. У Ocypus есть официальное приложение для Windows, а для Linux — нет. Поэтому я решил написать своё. В то время я как раз изучал Go, и он почти идеально подходит под такую задачу, </description>
-      <pubDate>Sat, 14 Nov 2026 07:22:12 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1107776/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107776</guid>
+      <title>Tesla is inviting some people to buy a Cybercab ‘for personal use’ — but read the fine print</title>
+      <link>https://www.theverge.com/transportation/1033844/tesla-personal-cybercab-orders-299-subscription-fine-print</link>
+      <description>Tesla is doubling, or perhaps tripling down on its bold claims of an autonomous future with the offer to "select customers" to purchase a Cybercab for "personal use." But the gilded, steering-wheel-free two-seater will "only be available in supported service areas" - meaning you'll only be able to buy one if you live in one […]</description>
+      <pubDate>Sat, 14 Nov 2026 14:18:36 +0000</pubDate>
+      <guid>https://www.theverge.com/transportation/1033844/tesla-personal-cybercab-orders-299-subscription-fine-print</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>Эпизод 2. Подсмотрено у мозга: предсказание, азбука, план</title>
+      <link>https://habr.com/ru/articles/1107874/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107874</link>
+      <description>Продолжаем решать интересную RL-задачу: агент должен сам научиться играть в Atari Frostbite по сырым видеокадрам, чтобы набрать 136k+ очков и одолеть SOTA модель MEME-200 [4]. Меня зовут Михаил Кочеров. Я занимаюсь этой задачей, потому что по ходу её решения можно лучше понять, как работает наш мозг. Как будто сама природа подкидывает проблемы и намекает на пути их решения, шепча “Загляни в себя, там все ответы”. Разобраться в работе нашего мозга — мой идефикс. Во Frostbite нужно управлять эским</description>
+      <pubDate>Sat, 14 Nov 2026 14:16:52 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1107874/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107874</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Нейросеть сделала 3D‑модель по фото. Почему принтер с ней совсем не согласен</title>
-      <link>https://habr.com/ru/articles/1107774/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107774</link>
-      <description>Вы скармливаете нейросети снимок фигурки, и через несколько минут на экране уже крутится аккуратная 3D‑модель. Всё на месте, даже надпись на груди. Скачиваете файл, открываете слайсер, а он первым делом интересуется, не в метрах ли вы случайно сделали эту красоту. А в файле она размером с маковое зерно. И это самый безобидный дефект. Почти у каждой второй модели слайсер показывает значок предупреждения. А о некоторых дефектах он прямо не говорит: на превью всё выглядит идеально, а в файле ступни</description>
-      <pubDate>Sat, 14 Nov 2026 07:18:11 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1107774/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107774</guid>
+      <title>Устройства, которые мы потеряли: по настоящему карманный ноутбук HP Jornada 720</title>
+      <link>https://habr.com/ru/companies/timeweb/articles/1107670/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107670</link>
+      <description>В наше время смартфон стал основным и самым часто используемым компьютером. Шестидюймовый гаджет за 20.000 рублей способен запустить полноценную Windows, эмулировать игровые консоли и даже стать почти настоящим настольным ПК за счёт технологии Samsung Dex. Но так было не всегда: в 1991 году, HP выпустила свой первый по настоящему карманный DOS-компьютер под названием HP 95LX, и тут всё заверте... Сегодня мы с вами изучим один из последних карманных ноутбуков HP — легендарную Jornada 720 с мощным</description>
+      <pubDate>Sat, 14 Nov 2026 14:05:44 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/timeweb/articles/1107670/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107670</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Ваш лучший разработчик работает диспетчером: закулисье двух внедрений Service Desk</title>
-      <link>https://habr.com/ru/articles/1107602/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107602</link>
-      <description>Ведущие программисты холдинга на 10 000+ человек дежурили на первой линии поддержки, то есть самые дорогие сотрудники ИТ-службы работали диспетчерами. О таком публично говорят редко, а цифры и результаты внедрения Service Desk, вскрывая все болячки, рассказывают еще реже. Мне попались на глаза два доклада, где об этом рассказали честно и с цифрами. В статье разберу, как проходили проекты внедрения, что компании изменили в процессах, ролях и договоренностях с бизнесом и какой результат получили. </description>
-      <pubDate>Sat, 14 Nov 2026 07:00:10 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1107602/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107602</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Стилометрия на Python: анализ авторского стиля на примере 287 детективов Дарьи Донцовой</title>
-      <link>https://habr.com/ru/articles/1107772/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107772</link>
-      <description>Количество произведений Донцовой уже давно перевалило за две сотни, в связи с чем у любого читателя возникает логичное предположение: «Донцова не сама пишет свои книги». Тем не менее, одно только число выпущенных книг мало что говорит об авторстве. Можно выпускать романы часто и тем не менее сохранять узнаваемый стиль. Да и обратная ситуация – романы публикуются редко – не гарантируют единообразия. Я решил проверить эту гипотезу, опираясь на тексты, задействуя подходы стилометрии и NLP. Нескольк</description>
-      <pubDate>Sat, 14 Nov 2026 06:59:09 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1107772/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107772</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Клодизмы. Часть 2. Значение тезиса: как добиться от нейросети ясного текста</title>
-      <link>https://habr.com/ru/articles/1107770/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107770</link>
-      <description>В первой части я классифицировал клодизмы — типичные ошибки, которые Claude допускает при генерации связного текста, — по механизму возникновения и выделил десять классов. Вторая часть — о значении тезиса, то есть главной мысли, которую текст должен донести. Без тезиса модель пишет текст, в котором клодизмы лезут как тараканы, и такой текст не исправить заменой забракованных слов. С тезисом у модели есть то, с чем сверять каждое предложение, — и при написании, и при правке. Разбор построен на пе</description>
-      <pubDate>Sat, 14 Nov 2026 06:56:18 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1107770/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107770</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>TrueRMS. Ловушка, в которую попадают даже опытные радиотехники, или как намерить 200% КПД исправным прибором</title>
-      <link>https://habr.com/ru/articles/1107764/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107764</link>
-      <description>Все началось с того, что я сам попал в эту ловушку. Я собрал преобразователь напряжения 12/220 В, который должен был запитать активную нагрузку через ШИМ-регулятор мощности, и решил проверить КПД преобразователя с разной величиной мощности на нагрузке. Напряжение было постоянное, измерить его проблем не составляло. А ток решил мерить, измеряя падение напряжения на резисторе 0,1 Ом, включенным последовательно с нагрузкой, цифровым осциллографом с RMS-вольтметром. Каково же было мое удивление, ког</description>
-      <pubDate>Sat, 14 Nov 2026 06:34:07 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1107764/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107764</guid>
+      <title>Полярные коды: изучаем код (8, 4) на бумаге и в несколько строк C++</title>
+      <link>https://habr.com/ru/articles/1102286/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102286</link>
+      <description>Полярные коды Арикана попали в стандарт мобильной связи 5G, но их устройство обычно прячется за такими теоретическими вещами как мартингалы и эволюция плотностей. В статье — только механика: короткий, но осмысленный полярный код (8, 4) разбирается целиком. Что внутри: как из двух одинаковых каналов получаются "плохой" и "хороший" подканалы; откуда берётся полярная последовательность; показывается разброс надёжности подканалов (достигает 12 порядков для кодов (16, k)); приведено пошаговое кодиров</description>
+      <pubDate>Sat, 14 Nov 2026 13:32:42 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1102286/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102286</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
   </channel>
