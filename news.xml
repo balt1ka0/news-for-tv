@@ -5,87 +5,87 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Sat, 14 Nov 2026 01:18:46 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 08:39:55 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Amazon has a plan to index the world’s online shopping data</title>
-      <link>https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search</link>
-      <description>Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reuters. The project, called the "World Product Graph," is meant to make it less likely that shoppers leave Amazon to do their […]</description>
-      <pubDate>Fri, 13 Nov 2026 23:49:11 +0000</pubDate>
-      <guid>https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>FAA ground stop shuts down flights nationwide</title>
-      <link>https://www.theverge.com/news/1033489/faa-ground-stop</link>
-      <description>Takeoffs from airports throughout the US largely stopped on Friday after the FAA issued a national ground stop "due to extraordinary circumstances and for reasons of safety," while planes in the air will be allowed to land. The FAA tweeted just after 5PM ET that, "There has been a temporary telecommunications outage - out of […]</description>
-      <pubDate>Fri, 13 Nov 2026 23:47:27 +0000</pubDate>
-      <guid>https://www.theverge.com/news/1033489/faa-ground-stop</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>[Перевод] The history of Kubernetes</title>
-      <link>https://habr.com/ru/articles/1107734/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107734</link>
-      <description>В современной ИТ-инфраструктуре невозможно переоценить роль Kubernetes — платформы с открытым исходным кодом для оркестрации контейнеров, которая автоматизирует развертывание, управление и масштабирование контейнеризированных программных приложений и сервисов. Согласно отчету организации Cloud Native Computing Foundation (CNCF), Kubernetes является вторым по величине проектом с открытым исходным кодом в мире (уступая лишь Linux®) и основным инструментом оркестрации контейнеров для 71% компаний и</description>
-      <pubDate>Fri, 13 Nov 2026 23:35:47 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1107734/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107734</guid>
+      <title>[Перевод] Очиститель воздуха скачивал корневой сертификат по HTTP: как я выгнал из него облако Coway</title>
+      <link>https://habr.com/ru/articles/1107784/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107784</link>
+      <description>Облако Coway, по наблюдениям автора оригинала, ломалось как минимум раз-два в год: то банило интеграцию для Home Assistant, то меняло приложение, а однажды на несколько недель заблокировало его аккаунт. Он решил отвязать свой очиститель Airmega IconS от облака. Поднял MitM-стенд на Raspberry Pi и обнаружил, что устройство скачивает корневой сертификат Amazon по обычному HTTP: стоит подменить его, и HTTPS-запросы устройства видны, никакой взломанный удостоверяющий центр не нужен. Дальше своя пара</description>
+      <pubDate>Sat, 14 Nov 2026 08:13:28 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1107784/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107784</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Жизнь не должна оправдывать своё существование полезностью</title>
-      <link>https://habr.com/ru/articles/1107732/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107732</link>
-      <description>Представьте молодого системного администратора. Возможно, ему двадцать лет, возможно, тридцать пять. Он приходит на собеседование, садится напротив человека, который уже лет пятнадцать занимается сетями, серверами и инфраструктурой. Его спрашивают, что такое VLAN. Он начинает путаться, пытается вспомнить определения, произносит что-то про разделение сетей, но не может объяснить разницу между access и trunk. Собеседующий смотрит на него с выражением человека, которому только что нанесли личное ос</description>
-      <pubDate>Fri, 13 Nov 2026 22:44:28 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1107732/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107732</guid>
+      <title>От i486 до MMX: что разработчики Linux отправили на пенсию в 2026 году</title>
+      <link>https://habr.com/ru/companies/selectel/articles/1107550/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107550</link>
+      <description>В Linux до сих пор встречается поддержка железа, которое давно перешло в разряд находок с барахолки . Иногда смотришь на такой девайс и сначала пытаешься понять, куда его вообще подключать. Но система-то помнит: нужный драйвер все еще есть в ядре. Правда, в 2026 году этот список заметно сократился. Под удаление попали и процессоры, и мыши, и целые подсистемы для старой связи. Мы эту статью решили написать после новости про MMX: из Linux собираются убрать последние оптимизации под эту технологию.</description>
+      <pubDate>Sat, 14 Nov 2026 08:00:15 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/selectel/articles/1107550/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107550</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say</title>
-      <link>https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/</link>
-      <description>Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.</description>
-      <pubDate>Fri, 13 Nov 2026 22:43:00 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>US government grounds all flights across the United States ‘due to extraordinary circumstances’</title>
-      <link>https://techcrunch.com/2026/11/13/u-s-government-grounds-all-flights-across-the-united-states-due-to-extraordinary-cirumstances/</link>
-      <description>A spokesperson for the FAA told TechCrunch that it issued the ground stop "following communication issues impacting multiple Air Route Traffic Control Centers," which manage the airspace across the United States.</description>
-      <pubDate>Fri, 13 Nov 2026 21:44:38 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/11/13/u-s-government-grounds-all-flights-across-the-united-states-due-to-extraordinary-cirumstances/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>Мы проверили 500 сайтов малого бизнеса Перми и Екатеринбурга: что ломают зарубежные сервисы</title>
-      <link>https://habr.com/ru/articles/1107718/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107718</link>
-      <description>Две трети сайтов малого бизнеса Перми и Екатеринбурга (63%) подключают зарубежные сервисы: шрифты, аналитику, библиотеки, капчу, видео. На каждом восьмом сайте (12%) это заметно мешает посетителю из России: часть страницы не загружается или сайт открывается на секунды дольше. В ноябре 2026 года мы открыли 500 сайтов так, как их открывает обычный посетитель, и записали каждый запрос. Ниже — что нашли, что на самом деле ломается и как владельцу сайта это исправить за вечер. Читать далее</description>
-      <pubDate>Fri, 13 Nov 2026 20:58:26 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1107718/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107718</guid>
+      <title>Выпуск BetterMediaInfo 1.2.0 — это графический интерфейс для MediaInfo и анализа метаданных для аудио‑ и видеофайлов</title>
+      <link>https://habr.com/ru/articles/1107672/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107672</link>
+      <description>В первой половине 2026 года состоялся выпуск обновления открытого мультиплатформенного инструмента BetterMediaInfo версии 1.2.0. Это графический пользовательский интерфейс для открытого проекта MediaInfo (системы унифицированного отображения наиболее важных технических данных и тегов для видео‑ и аудиофайлов) и вывода информации по метаданным для аудио‑ и видеофайлов. Читать далее</description>
+      <pubDate>Sat, 14 Nov 2026 07:55:26 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1107672/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107672</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet</link>
-      <description>After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 and older using a US billing address and "eligible US-issued American Express, Chase, Mastercard and Visa cards." After adding a card […]</description>
-      <pubDate>Fri, 13 Nov 2026 20:45:10 +0000</pubDate>
-      <guid>https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet</guid>
-      <category>The Verge</category>
+      <title>Как я получил root и постоянный SSH на Xiaomi Mi Smart Speaker с Марусей</title>
+      <link>https://habr.com/ru/articles/1107780/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107780</link>
+      <description>Получил root и постоянный SSH на Xiaomi Mi Smart Speaker с Марусей. Для этого использовал штатное USB‑окно загрузчика, сохранил полный дамп NAND с OOB и запустил временный установщик в оперативной памяти. Рассказываю, как устроен этот способ, почему SSH сохраняется после перезагрузки и как заблокировать OTA обновления. Прикладываю утилиту SpeakerLab 1.0 с исходниками, инструкциями и тестами. Читать далее</description>
+      <pubDate>Sat, 14 Nov 2026 07:52:14 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1107780/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107780</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>CMF’s milk carton-shaped Bluetooth speaker is down to a new low price</title>
-      <link>https://www.theverge.com/gadgets/1033185/nothing-cmf-speaker-s-m-black-friday-deal-sale</link>
-      <description>Bluetooth speakers are often boring boxes in plain colors, but not this one! As part of Nothing’s ongoing early Black Friday promo, you can grab its unique, milk carton-shaped CMF Speaker S from Amazon and Nothing for just $39. That’s a solid $20 discount and the lowest price we’ve seen on Nothing’s newfangled wireless speaker, […]</description>
-      <pubDate>Fri, 13 Nov 2026 20:30:00 +0000</pubDate>
-      <guid>https://www.theverge.com/gadgets/1033185/nothing-cmf-speaker-s-m-black-friday-deal-sale</guid>
-      <category>The Verge</category>
+      <title>Как я написал на Go демон для экрана кулера Ocypus в Linux</title>
+      <link>https://habr.com/ru/articles/1107776/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107776</link>
+      <description>Всем привет! Моя основная система — Linux (Arch). Мне она очень нравится, но относительно недавно я обновил процессор и решил заодно поменять кулер. Выбор пал на Ocypus Delta A62 EX Digital . У него есть простая, но симпатичная фича: небольшой экранчик, на котором можно показывать температуру процессора или видеокарты. У Ocypus есть официальное приложение для Windows, а для Linux — нет. Поэтому я решил написать своё. В то время я как раз изучал Go, и он почти идеально подходит под такую задачу, </description>
+      <pubDate>Sat, 14 Nov 2026 07:22:12 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1107776/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107776</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Клодизмы. Часть 1. Классификация ошибок, которые языковая модель допускает в связном тексте</title>
-      <link>https://habr.com/ru/articles/1107710/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107710</link>
-      <description>Я преподаю английский язык с 1989 года и веду сайт e-repa.ru : упражнения для русскоязычных учеников, построенные на собственных js-движках. О самих js-движках я писал в отдельной серии ( часть 1 , часть 2 ). Тексты к упражнениям — объяснения, преамбулы, методические записки — я пишу вместе с Claude. За несколько месяцев такой работы у меня накопился длинный список ошибок, которые модель повторяет из текста в текст с таким постоянством, что я называю их клодизмами. Как такой список возникает, по</description>
-      <pubDate>Fri, 13 Nov 2026 20:28:23 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1107710/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107710</guid>
+      <title>Нейросеть сделала 3D‑модель по фото. Почему принтер с ней совсем не согласен</title>
+      <link>https://habr.com/ru/articles/1107774/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107774</link>
+      <description>Вы скармливаете нейросети снимок фигурки, и через несколько минут на экране уже крутится аккуратная 3D‑модель. Всё на месте, даже надпись на груди. Скачиваете файл, открываете слайсер, а он первым делом интересуется, не в метрах ли вы случайно сделали эту красоту. А в файле она размером с маковое зерно. И это самый безобидный дефект. Почти у каждой второй модели слайсер показывает значок предупреждения. А о некоторых дефектах он прямо не говорит: на превью всё выглядит идеально, а в файле ступни</description>
+      <pubDate>Sat, 14 Nov 2026 07:18:11 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1107774/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107774</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Ваш лучший разработчик работает диспетчером: закулисье двух внедрений Service Desk</title>
+      <link>https://habr.com/ru/articles/1107602/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107602</link>
+      <description>Ведущие программисты холдинга на 10 000+ человек дежурили на первой линии поддержки, то есть самые дорогие сотрудники ИТ-службы работали диспетчерами. О таком публично говорят редко, а цифры и результаты внедрения Service Desk, вскрывая все болячки, рассказывают еще реже. Мне попались на глаза два доклада, где об этом рассказали честно и с цифрами. В статье разберу, как проходили проекты внедрения, что компании изменили в процессах, ролях и договоренностях с бизнесом и какой результат получили. </description>
+      <pubDate>Sat, 14 Nov 2026 07:00:10 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1107602/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107602</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Стилометрия на Python: анализ авторского стиля на примере 287 детективов Дарьи Донцовой</title>
+      <link>https://habr.com/ru/articles/1107772/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107772</link>
+      <description>Количество произведений Донцовой уже давно перевалило за две сотни, в связи с чем у любого читателя возникает логичное предположение: «Донцова не сама пишет свои книги». Тем не менее, одно только число выпущенных книг мало что говорит об авторстве. Можно выпускать романы часто и тем не менее сохранять узнаваемый стиль. Да и обратная ситуация – романы публикуются редко – не гарантируют единообразия. Я решил проверить эту гипотезу, опираясь на тексты, задействуя подходы стилометрии и NLP. Нескольк</description>
+      <pubDate>Sat, 14 Nov 2026 06:59:09 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1107772/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107772</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Клодизмы. Часть 2. Значение тезиса: как добиться от нейросети ясного текста</title>
+      <link>https://habr.com/ru/articles/1107770/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107770</link>
+      <description>В первой части я классифицировал клодизмы — типичные ошибки, которые Claude допускает при генерации связного текста, — по механизму возникновения и выделил десять классов. Вторая часть — о значении тезиса, то есть главной мысли, которую текст должен донести. Без тезиса модель пишет текст, в котором клодизмы лезут как тараканы, и такой текст не исправить заменой забракованных слов. С тезисом у модели есть то, с чем сверять каждое предложение, — и при написании, и при правке. Разбор построен на пе</description>
+      <pubDate>Sat, 14 Nov 2026 06:56:18 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1107770/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107770</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>TrueRMS. Ловушка, в которую попадают даже опытные радиотехники, или как намерить 200% КПД исправным прибором</title>
+      <link>https://habr.com/ru/articles/1107764/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107764</link>
+      <description>Все началось с того, что я сам попал в эту ловушку. Я собрал преобразователь напряжения 12/220 В, который должен был запитать активную нагрузку через ШИМ-регулятор мощности, и решил проверить КПД преобразователя с разной величиной мощности на нагрузке. Напряжение было постоянное, измерить его проблем не составляло. А ток решил мерить, измеряя падение напряжения на резисторе 0,1 Ом, включенным последовательно с нагрузкой, цифровым осциллографом с RMS-вольтметром. Каково же было мое удивление, ког</description>
+      <pubDate>Sat, 14 Nov 2026 06:34:07 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1107764/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107764</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
   </channel>
