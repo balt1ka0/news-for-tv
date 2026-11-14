@@ -5,88 +5,88 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Sat, 14 Nov 2026 15:36:24 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 20:27:26 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Nightmare Eclipse опубликовал новую уязвимость нулевого дня SignDrop в драйвере Common Log File System (CLFS) Windows</title>
-      <link>https://habr.com/ru/articles/1107890/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107890</link>
-      <description>Инженер‑исследователь по ИБ и бывший сотрудник подразделения Microsoft V&amp;M (Microsoft Security Response Center: Vulnerabilities &amp; Mitigation) по имени Абдельхамид Насери (aka Nightmare Eclipse или MSNightmare) опубликовал в открытом доступе новую уязвимость нулевого дня под названием SignDrop. Она была обнаружена в драйвере Common Log File System (CLFS) Windows. Читать далее</description>
-      <pubDate>Sat, 14 Nov 2026 15:26:07 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1107890/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107890</guid>
+      <title>НАУЧИТЬ AI ПОНИМАТЬ СТРОИТЕЛЬНЫЙ ОБЪЕКТ</title>
+      <link>https://habr.com/ru/articles/1107928/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107928</link>
+      <description>Строительная отрасль уже давно активно цифровизируется в проектах применяются информационные модели, цифровые документы, ведомости, сметы, системы управления замечаниями, планированием, согласованиями и т.д.. Данных становится всё больше! Но вместе с ними не исчезает одна из главных проблем строительного проекта - полноценная автоматизация процесса перевода данных в осмысленную информацию до сих пор не достигнута. Сегодня этот перевод выполняется преимущественно вручную. Специалистам приходится </description>
+      <pubDate>Sat, 14 Nov 2026 20:20:33 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1107928/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107928</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Here are our favorite deals from REI’s giant Holiday Sale</title>
-      <link>https://www.theverge.com/gadgets/1032500/best-deals-rei-holiday-sale-2026</link>
-      <description>Black Friday has become a shopping season of its own, with retailers once again offering discounts well ahead of the actual shopping holiday. We’ve already rounded up some of the best early Black Friday deals we’ve come across, but if you’re looking to save on outdoor gear or pick up something for an upcoming trip, […]</description>
-      <pubDate>Sat, 14 Nov 2026 15:00:00 +0000</pubDate>
-      <guid>https://www.theverge.com/gadgets/1032500/best-deals-rei-holiday-sale-2026</guid>
+      <title>Tesla opens Cybercab pre-orders ‘for personal use,’ with geo restrictions and a $299 monthly fee</title>
+      <link>https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/</link>
+      <description>Even Elon Musk said the monthly fee is "too high."</description>
+      <pubDate>Sat, 14 Nov 2026 20:04:44 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>Magic: The Gathering is getting a Netflix animated series. For real this time.</title>
+      <link>https://www.theverge.com/entertainment/1033909/magic-the-gathering-netflix-series</link>
+      <description>"It's really happening. I promise. For real." Those are the first words from Roy Graham, Head of Story at Magic: The Gathering, in a video posted yesterday announcing Planeswalker, the animated series heading to Netflix in 2027. An animated Magic: The Gathering series was first teased back in 2019 with Joe and Anthony Russo at […]</description>
+      <pubDate>Sat, 14 Nov 2026 19:47:40 +0000</pubDate>
+      <guid>https://www.theverge.com/entertainment/1033909/magic-the-gathering-netflix-series</guid>
       <category>The Verge</category>
     </item>
     <item>
-      <title>The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs</title>
-      <link>https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview</link>
-      <description>Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our series on AI in real life. Helen is a well-known figure in the AI safety and policy community, though she is perhaps best known for having served on […]</description>
-      <pubDate>Sat, 14 Nov 2026 15:00:00 +0000</pubDate>
-      <guid>https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview</guid>
+      <title>Семь способов обмануть себя метриками: как я измерял точность ИИ-проверки ЕГЭ</title>
+      <link>https://habr.com/ru/articles/1107926/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107926</link>
+      <description>В первой части я рассказал, как устроена проверка второй части ЕГЭ по обществознанию в моём боте: модель размечает ответ, код считает балл. Закончил обещанием рассказать, насколько точно это работает и сколько раз я обманывал себя метриками. Насчитал семь случаев самообмана. Читать далее</description>
+      <pubDate>Sat, 14 Nov 2026 19:42:09 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1107926/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107926</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Сравнение DC/DC от Texas Instruments с её китайским аналогом</title>
+      <link>https://habr.com/ru/articles/1107922/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107922</link>
+      <description>Почти в каждом устройстве есть напряжение, которое мы зовём входным, и напряжение, которое на самом деле нужно потребителям на плате. Будь то микроконтроллер или какой-то датчик. Чаще напряжение понижают, чем повышают. В этой статье мы затронем преобразователи, которые только понижают. Для понижения можно использовать разные приёмы. Можно просто превратить разницу напряжений в тепло — так работают линейные стабилизаторы. Помимо такого огромного минуса, как бездарное растрачивание энергии на нагр</description>
+      <pubDate>Sat, 14 Nov 2026 19:10:23 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1107922/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107922</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Got an iPhone Duo? These 9 settings make it easier to use</title>
+      <link>https://techcrunch.com/2026/11/14/got-an-iphone-duo-these-9-settings-make-it-easier-to-use/</link>
+      <description>From Touch ID shortcuts to smarter volume buttons and camera tricks, these tweaks make Apple's foldable iPhone easier to use every day.</description>
+      <pubDate>Sat, 14 Nov 2026 18:00:00 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/11/14/got-an-iphone-duo-these-9-settings-make-it-easier-to-use/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>Ремонт терморегулятора MOES BHT-002</title>
+      <link>https://habr.com/ru/articles/1107914/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107914</link>
+      <description>Cтоит теплый пол, обслуживаемый термостатом MOES BHT-002-GBLW. Термостат перешит в ESPHome по методу уважаемого Brokly . Причем перешит варварски с заменой родного китайского чипа Tuwe3S на ESP8286 в форм факторе ESP12. Здесь, как и в большинстве подобных туевских железок, ESP отвечает только и исключительно за WiFi. Вся логика находится в собственной микросхеме, куда нас со свиным рылом не пускают. Это удобно для производителя. Можно на одном и том же железе делать версии Zigbee, WiFi или Modbu</description>
+      <pubDate>Sat, 14 Nov 2026 17:56:54 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1107914/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107914</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>АСУТП лиофилизационной установки</title>
+      <link>https://habr.com/ru/articles/1107730/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107730</link>
+      <description>Всем привет. Меня зовут Андрей, занимаюсь разработкой электроники и микропроцессорных устройств с 2005 года. Сегодня поделюсь историей разработки одного очень интересного проекта. Это был далекий 2005 год, когда память программ микроконтроллеров измерялась десятками килобайт, а ОЗУ - едва перевалило за десятки килобайт. Но для начала краткий экскурс в процесс лиофилизационной сушки препарата. Лиофилизационная сушка. Это процесс удаления воды из препарата с сохранением физической формы. Для данно</description>
+      <pubDate>Sat, 14 Nov 2026 17:56:33 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1107730/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107730</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Transportation secretary blames ‘routine’ equipment upgrade for grounding flights nationwide</title>
+      <link>https://techcrunch.com/2026/11/14/transportation-secretary-blames-routine-equipment-upgrade-for-grounding-flights-nationwide/</link>
+      <description>FAA administrator Bryan Bedford also said there's "zero evidence of anything AI-related."</description>
+      <pubDate>Sat, 14 Nov 2026 17:45:04 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/11/14/transportation-secretary-blames-routine-equipment-upgrade-for-grounding-flights-nationwide/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>Work to replace old copper wire led to the FAA’s ground stop</title>
+      <link>https://www.theverge.com/transportation/1033898/faa-ground-stop-sean-duffy-faa-copper-wire</link>
+      <description>At a press conference today, Transportation Secretary Sean Duffy said that Friday's nationwide ground stop ordered by the FAA was related to work replacing outdated copper wire with a fiber optic line at a "remote FAA facility." The secretary said that this was "routine maintenance," rather than the result of a major modernization effort. He […]</description>
+      <pubDate>Sat, 14 Nov 2026 17:44:28 +0000</pubDate>
+      <guid>https://www.theverge.com/transportation/1033898/faa-ground-stop-sean-duffy-faa-copper-wire</guid>
       <category>The Verge</category>
-    </item>
-    <item>
-      <title>Лечение Java-монолита с Claude</title>
-      <link>https://habr.com/ru/articles/1107882/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107882</link>
-      <description>Когда я пришёл в проект, меня встретил Java-монолит: около 2000 классов, 120 тысяч строк кода и очень много сложной бизнес-логики. Его шесть лет писала команда из двух–пяти человек, и, судя по коду, о понятии технического долга никто в компании не слышал. Примерно за полгода до моего прихода команда начала работать с Copilot, а потом перешла на Claude Code. Тесты в проекте появились только вместе с Claude, но их было мало. Позже выяснилось, что и те толком ничего не проверяли. Условия были такие</description>
-      <pubDate>Sat, 14 Nov 2026 14:35:45 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1107882/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107882</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>SAFe Coaches Handbook — Глава 3. Итерация Agile-команды и Выполнение PI</title>
-      <link>https://habr.com/ru/articles/1107880/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107880</link>
-      <description>Всем приветы! Немного почитать вам на выходных ;) Продолжаю делиться переводом книги SAFe Coaches Handbook - Darren Wilmshurst. Читать далее</description>
-      <pubDate>Sat, 14 Nov 2026 14:32:57 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1107880/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107880</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Whoop запустила соцсеть для обмена данными о сне, нагрузке и восстановлении</title>
-      <link>https://habr.com/ru/articles/1107878/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107878</link>
-      <description>Производитель фитнес‑браслетов Whoop запустил Humans — социальную сеть внутри фирменного приложения. В ней пользователи могут следить за показателями здоровья и тренировками друзей и знакомым. Кроме того, в соцсети можно публиковать фотографии, комментировать публикации и ставить реакции. Читать далее</description>
-      <pubDate>Sat, 14 Nov 2026 14:28:18 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1107878/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107878</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Tesla is inviting some people to buy a Cybercab ‘for personal use’ — but read the fine print</title>
-      <link>https://www.theverge.com/transportation/1033844/tesla-personal-cybercab-orders-299-subscription-fine-print</link>
-      <description>Tesla is doubling, or perhaps tripling down on its bold claims of an autonomous future with the offer to "select customers" to purchase a Cybercab for "personal use." But the gilded, steering-wheel-free two-seater will "only be available in supported service areas" - meaning you'll only be able to buy one if you live in one […]</description>
-      <pubDate>Sat, 14 Nov 2026 14:18:36 +0000</pubDate>
-      <guid>https://www.theverge.com/transportation/1033844/tesla-personal-cybercab-orders-299-subscription-fine-print</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>Эпизод 2. Подсмотрено у мозга: предсказание, азбука, план</title>
-      <link>https://habr.com/ru/articles/1107874/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107874</link>
-      <description>Продолжаем решать интересную RL-задачу: агент должен сам научиться играть в Atari Frostbite по сырым видеокадрам, чтобы набрать 136k+ очков и одолеть SOTA модель MEME-200 [4]. Меня зовут Михаил Кочеров. Я занимаюсь этой задачей, потому что по ходу её решения можно лучше понять, как работает наш мозг. Как будто сама природа подкидывает проблемы и намекает на пути их решения, шепча “Загляни в себя, там все ответы”. Разобраться в работе нашего мозга — мой идефикс. Во Frostbite нужно управлять эским</description>
-      <pubDate>Sat, 14 Nov 2026 14:16:52 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1107874/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107874</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Устройства, которые мы потеряли: по настоящему карманный ноутбук HP Jornada 720</title>
-      <link>https://habr.com/ru/companies/timeweb/articles/1107670/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107670</link>
-      <description>В наше время смартфон стал основным и самым часто используемым компьютером. Шестидюймовый гаджет за 20.000 рублей способен запустить полноценную Windows, эмулировать игровые консоли и даже стать почти настоящим настольным ПК за счёт технологии Samsung Dex. Но так было не всегда: в 1991 году, HP выпустила свой первый по настоящему карманный DOS-компьютер под названием HP 95LX, и тут всё заверте... Сегодня мы с вами изучим один из последних карманных ноутбуков HP — легендарную Jornada 720 с мощным</description>
-      <pubDate>Sat, 14 Nov 2026 14:05:44 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/timeweb/articles/1107670/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107670</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Полярные коды: изучаем код (8, 4) на бумаге и в несколько строк C++</title>
-      <link>https://habr.com/ru/articles/1102286/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102286</link>
-      <description>Полярные коды Арикана попали в стандарт мобильной связи 5G, но их устройство обычно прячется за такими теоретическими вещами как мартингалы и эволюция плотностей. В статье — только механика: короткий, но осмысленный полярный код (8, 4) разбирается целиком. Что внутри: как из двух одинаковых каналов получаются "плохой" и "хороший" подканалы; откуда берётся полярная последовательность; показывается разброс надёжности подканалов (достигает 12 порядков для кодов (16, k)); приведено пошаговое кодиров</description>
-      <pubDate>Sat, 14 Nov 2026 13:32:42 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1102286/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1102286</guid>
-      <category>Все публикации подряд на Хабре</category>
     </item>
   </channel>
 </rss>
