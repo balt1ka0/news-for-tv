@@ -5,87 +5,87 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Sun, 15 Nov 2026 15:24:40 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 20:51:06 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Какие слои что знают: сравниваем RWKV-7 и трансформеры послойными пробами</title>
-      <link>https://habr.com/ru/articles/1108076/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1108076</link>
-      <description>Где языковая модель хранит порядок слов, грамматику и смысл — и зависит ли это от архитектуры? Я обучил 12 небольших моделей, которые отличаются только архитектурой, и проверил линейными пробами каждый слой каждого чекпоинта. Короткий вывод: на этом масштабе заметнее всего различается то, как хранится позиция токена , а для синтаксиса и смысла модели при равном loss выглядят похоже. Сравнивал RWKV-7 , трансформер с RoPE и трансформер без позиционного кодирования (NoPE) . Размеров два (56.6M и 11</description>
-      <pubDate>Sun, 15 Nov 2026 15:06:00 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1108076/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1108076</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Мобильная разработка за неделю #653 (9 — 15 ноября)</title>
-      <link>https://habr.com/ru/articles/1108070/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1108070</link>
-      <description>В этом дайджесте протоколы в iOS-приложении и быстродействие разных Apple Silicon, будильник, который точно звонит, и архитектура для создания мобильных приложений с использованием агентов, пишем софт на Symbian в 2026 году, что на самом деле помогает удержать подписчиков в экране отмены подписки, роботеплицы и многое другое. Заходите! Читать далее</description>
-      <pubDate>Sun, 15 Nov 2026 14:33:40 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1108070/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1108070</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Vitamin C could help block cancer-linked chemicals in your stomach, study finds</title>
-      <link>https://www.sciencedaily.com/releases/2026/11/261114202236.htm</link>
-      <description>Scientists have discovered that vitamin C may help prevent potentially cancer-causing chemicals from forming in the stomach after eating foods containing nitrates and nitrites. A new mathematical model suggests that taking vitamin C after meals could reduce these harmful reactions, offering a possible new strategy for lowering cancer risk.</description>
-      <pubDate>Sun, 15 Nov 2026 14:13:18 +0000</pubDate>
-      <guid>https://www.sciencedaily.com/releases/2026/11/261114202236.htm</guid>
-      <category>All Top News -- ScienceDaily</category>
-    </item>
-    <item>
-      <title>Техническая документация как артефакт коммуникации</title>
-      <link>https://habr.com/ru/articles/1108064/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1108064</link>
-      <description>Ещё недавно техническую документацию в командах часто приходилось буквально проталкивать через строгие требования, так как разработчикам не хватало времени или желания писать и поддерживать её. С появлением AI-агентов документацию стало проще создавать — её стало больше, но пользы это не прибавило: документы часто генерируют для галочки или только ради контекста агента, забывая о людях. Документация — прежде всего инструмент коммуникации: она передаёт знания и договорённости между людьми и отдел</description>
-      <pubDate>Sun, 15 Nov 2026 14:11:47 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1108064/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1108064</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>43 200 запросов при обновлении Docker: blue-green убрал 502, но осталось 11 ошибок</title>
-      <link>https://habr.com/ru/articles/1108062/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1108062</link>
-      <description>Проверил 3 способа обновления Docker на 43 200 запросах: blue-green убрал 502, но оставил 11 ошибок. Читать далее</description>
-      <pubDate>Sun, 15 Nov 2026 14:10:29 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1108062/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1108062</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>A common osteoporosis drug blocked spinal damage in a surprising new study</title>
-      <link>https://www.sciencedaily.com/releases/2026/11/261113232105.htm</link>
-      <description>Scientists have uncovered a surprising genetic connection to spinal degeneration and found that an existing osteoporosis drug can prevent damaging mineral buildup in zebrafish spines. The discovery could pave the way for new treatments that slow or prevent a major cause of chronic back pain.</description>
-      <pubDate>Sun, 15 Nov 2026 14:03:39 +0000</pubDate>
-      <guid>https://www.sciencedaily.com/releases/2026/11/261113232105.htm</guid>
-      <category>All Top News -- ScienceDaily</category>
-    </item>
-    <item>
-      <title>LG’s budget-friendly B6E OLED TV is up to 50 percent off this weekend</title>
-      <link>https://www.theverge.com/gadgets/1033432/lg-b6e-oled-tv-best-buy-doorbuster-black-friday-2026-deal-sale</link>
-      <description>LG’s B6E was already one of the most affordable OLED TVs you could buy, but it’s an even better deal now that it’s included as part of Best Buy’s latest doorbuster event. Now through the end of today, November 15th, the 55-inch model is 50 percent off, dropping it to an all-time low of $699.99 […]</description>
-      <pubDate>Sun, 15 Nov 2026 14:00:00 +0000</pubDate>
-      <guid>https://www.theverge.com/gadgets/1033432/lg-b6e-oled-tv-best-buy-doorbuster-black-friday-2026-deal-sale</guid>
+      <title>Jensen Huang might be plotting a return and more of the latest Nvidia drama</title>
+      <link>https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed</link>
+      <description>The drama around Nvidia co-founder and former CEO Jensen Huang is evolving quickly. The latest edition of our Stepback newsletter should get you up to speed, but there have already been a number of new developments since this morning. That includes rumors that Jensen Huang might be trying to find a path back to CEO, […]</description>
+      <pubDate>Sun, 15 Nov 2026 20:43:49 +0000</pubDate>
+      <guid>https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed</guid>
       <category>The Verge</category>
     </item>
     <item>
-      <title>The Sony Aibo was a robot revolution dressed like a dog</title>
-      <link>https://www.theverge.com/podcast/1033948/sony-aibo-robot-dog-version-history</link>
-      <description>In the 1990s, Sony was absolutely convinced that we were on the precipice of a robot takeover. Pretty soon, the company decided, we'd all be living among countless humanoid robots. Some would be our coworkers; others would be our friends; and at least one would be our pet. And "pet" was exactly what Sony was […]</description>
-      <pubDate>Sun, 15 Nov 2026 13:57:30 +0000</pubDate>
-      <guid>https://www.theverge.com/podcast/1033948/sony-aibo-robot-dog-version-history</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>Serde в Rust: как отсутствующее поле JSON незаметно отключало настройки приложения</title>
-      <link>https://habr.com/ru/articles/1108056/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1108056</link>
-      <description>В Rust есть немало способов выстрелить себе в ногу, даже когда компилятор доволен, тесты проходят, а приложение работает без ошибок. Иногда для этого достаточно одного атрибута, который делает ровно то, что написано в документации. При разработке NetRuleRouter столкнулся с довольно странным поведением. Две настройки должны были быть включены по умолчанию, но после обмена данными между компонентами приложения оказывались выключенными. При этом JSON успешно обрабатывался, ошибок десериализации не </description>
-      <pubDate>Sun, 15 Nov 2026 13:50:03 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1108056/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1108056</guid>
+      <title>Счётчик Гейгера и космические лучи: 46 суток наблюдений за редким эффектом</title>
+      <link>https://habr.com/ru/articles/1108140/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1108140</link>
+      <description>Дневник одного эксперимента. В сентябре–ноябре 2026 года я записывал непрерывный счёт радиоактивного источника на самодельной установке в Московской области и искал, от чего может зависеть скорость ядерного распада. Поискал — и нашёл кое-что неожиданное. Это рассказ о том, что именно, и почему я пока не готов называть это открытием. Сразу скажу, что я не претендую на профессиональное занятие наукой, а занимаюсь научными экспериментами исключительно, как хобби. Поэтому, способ обнародования резул</description>
+      <pubDate>Sun, 15 Nov 2026 20:31:41 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1108140/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1108140</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Зафиксирована масштабная DDoS-атака на инфраструктуру Beget</title>
-      <link>https://habr.com/ru/articles/1108054/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1108054</link>
-      <description>В хостинг‑провайдере Beget сообщили о масштабной DDoS-атаке на инфраструктуру. По оценке специалистов компании, целью кибератаки стала попытка нарушить планы по восстановлению после первого взлома. Читать далее</description>
-      <pubDate>Sun, 15 Nov 2026 13:49:42 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1108054/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1108054</guid>
+      <title>SNL gathers all the tech tycoons for a lesson in dating and spycraft</title>
+      <link>https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/</link>
+      <description>While awkward, creepy tech executives have become a recurring theme on Saturday Night Live, this week’s episode gave the cast a chance to show off all their impressions at once.</description>
+      <pubDate>Sun, 15 Nov 2026 20:20:57 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>Вороны справляются с визуальной задачей на движение в два раза быстрее, чем люди и обезьяны</title>
+      <link>https://habr.com/ru/articles/1108130/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1108130</link>
+      <description>Вороны в эксперименте с классической визуальной задачей справились с ней примерно в два раза быстрее, чем люди и обезьяны. Двум чёрным воронам ( Corvus corone ) требовалось в среднем всего 235 миллисекунд, чтобы обнаружить направление движения точек среди шума на экране и зафиксировать свой выбор с минимальным количеством ошибок. Филипп Шмидбауэр и профессор Андреас Нидер из Института нейробиологии Тюбингенского университета опубликовали исследование в журнале Science , в котором показывают, как</description>
+      <pubDate>Sun, 15 Nov 2026 20:07:37 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1108130/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1108130</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Вселенные — ловушки, и нарушение антропного принципа</title>
+      <link>https://habr.com/ru/articles/1108114/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1108114</link>
+      <description>Многое из того, что в нашем мире есть, мы воспринимаем, как должное. Через тернии — к звездам! Но что, если путь на каком-то этапе закрыт? Что, если некоторые этапы эволюции, через которые мы прошли в нашем мире, в альтернативной вселенной в принципе невозможны? Под альтернативной вселенной ниже я понимаю либо нашу вселенную с другими параметрами Стандартной Модели, либо вселенную с другими физическими законами. Собственно, этот путь очень интересен, я его называю «физика наоборот». Есть «матема</description>
+      <pubDate>Sun, 15 Nov 2026 19:28:48 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1108114/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1108114</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Congress wants to tighten export rules on AI chips after Nvidia spy scandal</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china</link>
+      <description>Unsurprisingly, following the scandal involving now-former Nvidia CEO Jensen Huang and a suspected Chinese spy, Congress is looking to further restrict exports of AI chips. Both Democrats and Republicans have voiced support for various measures and bills that would tighten rules and have demanded that Huang and other Nvidia leaders testify before Congress. Senate Minority […]</description>
+      <pubDate>Sun, 15 Nov 2026 19:15:43 +0000</pubDate>
+      <guid>https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>Flaming Hydra’s new Kickstarter campaign rethinks e-book ownership and digital lending</title>
+      <link>https://techcrunch.com/2026/11/15/flaming-hydras-new-kickstarter-campaign-rethinks-e-book-ownership-and-digital-lending/</link>
+      <description>A new Kickstarter campaign aims to usher in the “return of the human internet.”</description>
+      <pubDate>Sun, 15 Nov 2026 18:29:14 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/11/15/flaming-hydras-new-kickstarter-campaign-rethinks-e-book-ownership-and-digital-lending/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>Slyber SFU Server — WebRTC медиароутер для звонков, вебинаров и ИИ ботов</title>
+      <link>https://habr.com/ru/articles/1108112/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1108112</link>
+      <description>Привет Хабр! 👋 В этом обзоре я простым языком расскажу, что такое Slyber SFU Server зачем он нужен, как устроен внутри и какие задачи он решает. Slyber SFU Server — это сервер селективной маршрутизации аудио, видео и данных в реальном времени, написанный на Go. Он поставляется в виде одного бинарного файла без внешних зависимостей и закрывает задачи групповых видеоконференций, звонков 1 на 1 и голосовых диалогов с ИИ агентами. Также есть возможность установки через Docker одной командой. Читать </description>
+      <pubDate>Sun, 15 Nov 2026 18:14:27 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1108112/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1108112</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Массовая декомпиляция игр и ПО</title>
+      <link>https://habr.com/ru/companies/globalsign/articles/1108102/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1108102</link>
+      <description>Нейронные модели сильно повлияли на программную разработку, информационную безопасность и смежные отрасли. Влияние идёт по нескольким векторам, но одно из самых опасных явлений — массовая декомпиляция закрытого проприетарного ПО. Это явление невозможно игнорировать, ведь из-за обратной разработки проприетарных программ многие могут пострадать. Хотя есть и положительная сторона. Читать далее</description>
+      <pubDate>Sun, 15 Nov 2026 17:32:06 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/globalsign/articles/1108102/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1108102</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Пассворк сравнил себя с ОднимКлючом. Что пошло не так?</title>
+      <link>https://habr.com/ru/companies/abp2b/articles/1108100/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1108100</link>
+      <description>Недавно на сайте Пассворка вышла статья, в которой они сравнили свой продукт с нашим менеджером паролей ОдинКлюч. Я скептически отношусь к публичным техническим сравнениям, которые компании проводят сами, особенно когда сравнивают собственный продукт с конкурентами. Слишком велик соблазн показать свои преимущества и не заметить чужие. И тут, кажется, этому соблазну поддались. Давайте разбирать детали, но сначала отмечу, что… Читать далее</description>
+      <pubDate>Sun, 15 Nov 2026 17:28:29 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/abp2b/articles/1108100/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1108100</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
   </channel>
