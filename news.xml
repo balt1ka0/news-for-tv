@@ -5,87 +5,87 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Sun, 15 Nov 2026 07:35:51 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 15:24:40 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Студия GFA Games закрывает онлайн‑шутер Pioner менее чем через год после выхода в ранний доступ</title>
-      <link>https://habr.com/ru/articles/1107976/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107976</link>
-      <description>Студия GFA Games объявила о закрытии постапокалиптического онлайн‑шутера Pioner. Компания несколько месяцев пыталась решить проблемы с финансированием, но договориться с действующими и потенциальными партнёрами не удалось. Собственных средств на разработку и содержание инфраструктуры у студии нет. Читать далее</description>
-      <pubDate>Sun, 15 Nov 2026 07:13:29 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1107976/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107976</guid>
+      <title>Какие слои что знают: сравниваем RWKV-7 и трансформеры послойными пробами</title>
+      <link>https://habr.com/ru/articles/1108076/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1108076</link>
+      <description>Где языковая модель хранит порядок слов, грамматику и смысл — и зависит ли это от архитектуры? Я обучил 12 небольших моделей, которые отличаются только архитектурой, и проверил линейными пробами каждый слой каждого чекпоинта. Короткий вывод: на этом масштабе заметнее всего различается то, как хранится позиция токена , а для синтаксиса и смысла модели при равном loss выглядят похоже. Сравнивал RWKV-7 , трансформер с RoPE и трансформер без позиционного кодирования (NoPE) . Размеров два (56.6M и 11</description>
+      <pubDate>Sun, 15 Nov 2026 15:06:00 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1108076/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1108076</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>OpenGL 4.6 без glBind: Direct State Access на C++23</title>
-      <link>https://habr.com/ru/articles/1107974/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107974</link>
-      <description>Попробуйте найти в этой строке буфер, который она изменит: glBufferData(GL_ARRAY_BUFFER, sizeof(vertices), vertices, GL_STATIC_DRAW); Буфера в строке нет. Функция получает название гнезда GL_ARRAY_BUFFER и меняет тот буфер, который кто-то привязал к гнезду раньше: может быть, строкой выше, а может быть, в другой функции и в другом файле. На правиле «сначала привяжи, потом меняй» построены самые известные учебники OpenGL, потому что они рассчитаны на версию 3.3. На том же правиле держатся ошибки,</description>
-      <pubDate>Sun, 15 Nov 2026 07:12:48 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1107974/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107974</guid>
+      <title>Мобильная разработка за неделю #653 (9 — 15 ноября)</title>
+      <link>https://habr.com/ru/articles/1108070/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1108070</link>
+      <description>В этом дайджесте протоколы в iOS-приложении и быстродействие разных Apple Silicon, будильник, который точно звонит, и архитектура для создания мобильных приложений с использованием агентов, пишем софт на Symbian в 2026 году, что на самом деле помогает удержать подписчиков в экране отмены подписки, роботеплицы и многое другое. Заходите! Читать далее</description>
+      <pubDate>Sun, 15 Nov 2026 14:33:40 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1108070/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1108070</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Цели, которые мы выбираем</title>
-      <link>https://habr.com/ru/articles/1106866/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106866</link>
-      <description>Три истории, три жизненные ситуации и вопрос: зачем нам сейчас умные часы? Сатирические миниатюрки об одной вещи на нашей руке. Читать далее</description>
-      <pubDate>Sun, 15 Nov 2026 07:00:47 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1106866/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106866</guid>
+      <title>Vitamin C could help block cancer-linked chemicals in your stomach, study finds</title>
+      <link>https://www.sciencedaily.com/releases/2026/11/261114202236.htm</link>
+      <description>Scientists have discovered that vitamin C may help prevent potentially cancer-causing chemicals from forming in the stomach after eating foods containing nitrates and nitrites. A new mathematical model suggests that taking vitamin C after meals could reduce these harmful reactions, offering a possible new strategy for lowering cancer risk.</description>
+      <pubDate>Sun, 15 Nov 2026 14:13:18 +0000</pubDate>
+      <guid>https://www.sciencedaily.com/releases/2026/11/261114202236.htm</guid>
+      <category>All Top News -- ScienceDaily</category>
+    </item>
+    <item>
+      <title>Техническая документация как артефакт коммуникации</title>
+      <link>https://habr.com/ru/articles/1108064/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1108064</link>
+      <description>Ещё недавно техническую документацию в командах часто приходилось буквально проталкивать через строгие требования, так как разработчикам не хватало времени или желания писать и поддерживать её. С появлением AI-агентов документацию стало проще создавать — её стало больше, но пользы это не прибавило: документы часто генерируют для галочки или только ради контекста агента, забывая о людях. Документация — прежде всего инструмент коммуникации: она передаёт знания и договорённости между людьми и отдел</description>
+      <pubDate>Sun, 15 Nov 2026 14:11:47 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1108064/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1108064</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Keychain на iOS, часть 1. Устройство и классы доступности</title>
-      <link>https://habr.com/ru/articles/1107786/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107786</link>
-      <description>Токен в приложении почти все сначала кладут в UserDefaults , потом переезжают в Keychain, обычно по примеру из интернета. В примере про kSecAttrAccessible часто нет ни слова, а от этого атрибута зависит, когда запись вообще можно прочитать. Это первая статья из шести про Keychain на iOS: сначала про то, как он устроен, потом про классы доступности и как между ними выбирать. Погнали</description>
-      <pubDate>Sun, 15 Nov 2026 07:00:47 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1107786/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107786</guid>
+      <title>43 200 запросов при обновлении Docker: blue-green убрал 502, но осталось 11 ошибок</title>
+      <link>https://habr.com/ru/articles/1108062/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1108062</link>
+      <description>Проверил 3 способа обновления Docker на 43 200 запросах: blue-green убрал 502, но оставил 11 ошибок. Читать далее</description>
+      <pubDate>Sun, 15 Nov 2026 14:10:29 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1108062/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1108062</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>55 лет Intel 4004: чип для калькулятора и множества первых умных устройств</title>
-      <link>https://habr.com/ru/companies/ssp-soft/articles/1106990/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106990</link>
-      <description>Ровно 55 лет назад, 15 ноября 1971 года в журнале Electronic News вышла реклама Intel с заголовком «Announcing a new era of integrated electronics», то есть «Объявляем новую эру интегральной электроники». Речь шла о наборе из четырех микросхем MCS-4. В него входили постоянная память 4001, оперативная память 4002, сдвиговый регистр 4003 и процессор 4004. Ровно через 55 лет этот процессор по-прежнему называют первым коммерческим микропроцессором. Читать далее</description>
-      <pubDate>Sun, 15 Nov 2026 06:55:47 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/ssp-soft/articles/1106990/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106990</guid>
+      <title>A common osteoporosis drug blocked spinal damage in a surprising new study</title>
+      <link>https://www.sciencedaily.com/releases/2026/11/261113232105.htm</link>
+      <description>Scientists have uncovered a surprising genetic connection to spinal degeneration and found that an existing osteoporosis drug can prevent damaging mineral buildup in zebrafish spines. The discovery could pave the way for new treatments that slow or prevent a major cause of chronic back pain.</description>
+      <pubDate>Sun, 15 Nov 2026 14:03:39 +0000</pubDate>
+      <guid>https://www.sciencedaily.com/releases/2026/11/261113232105.htm</guid>
+      <category>All Top News -- ScienceDaily</category>
+    </item>
+    <item>
+      <title>LG’s budget-friendly B6E OLED TV is up to 50 percent off this weekend</title>
+      <link>https://www.theverge.com/gadgets/1033432/lg-b6e-oled-tv-best-buy-doorbuster-black-friday-2026-deal-sale</link>
+      <description>LG’s B6E was already one of the most affordable OLED TVs you could buy, but it’s an even better deal now that it’s included as part of Best Buy’s latest doorbuster event. Now through the end of today, November 15th, the 55-inch model is 50 percent off, dropping it to an all-time low of $699.99 […]</description>
+      <pubDate>Sun, 15 Nov 2026 14:00:00 +0000</pubDate>
+      <guid>https://www.theverge.com/gadgets/1033432/lg-b6e-oled-tv-best-buy-doorbuster-black-friday-2026-deal-sale</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>The Sony Aibo was a robot revolution dressed like a dog</title>
+      <link>https://www.theverge.com/podcast/1033948/sony-aibo-robot-dog-version-history</link>
+      <description>In the 1990s, Sony was absolutely convinced that we were on the precipice of a robot takeover. Pretty soon, the company decided, we'd all be living among countless humanoid robots. Some would be our coworkers; others would be our friends; and at least one would be our pet. And "pet" was exactly what Sony was […]</description>
+      <pubDate>Sun, 15 Nov 2026 13:57:30 +0000</pubDate>
+      <guid>https://www.theverge.com/podcast/1033948/sony-aibo-robot-dog-version-history</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>Serde в Rust: как отсутствующее поле JSON незаметно отключало настройки приложения</title>
+      <link>https://habr.com/ru/articles/1108056/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1108056</link>
+      <description>В Rust есть немало способов выстрелить себе в ногу, даже когда компилятор доволен, тесты проходят, а приложение работает без ошибок. Иногда для этого достаточно одного атрибута, который делает ровно то, что написано в документации. При разработке NetRuleRouter столкнулся с довольно странным поведением. Две настройки должны были быть включены по умолчанию, но после обмена данными между компонентами приложения оказывались выключенными. При этом JSON успешно обрабатывался, ошибок десериализации не </description>
+      <pubDate>Sun, 15 Nov 2026 13:50:03 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1108056/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1108056</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Погружение в большие языковые модели (часть 1)</title>
-      <link>https://habr.com/ru/articles/1107972/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107972</link>
-      <description>В первой части верхнеуровнего рассматривается полный жизненный цикл разработки модели машинного обучения: от сбора и предобработки данных до выбора алгоритма, обучения и оценки качества модели. Разбираются основные методы обработки данных, современные подходы к NLP, способы оптимизации и борьбы с переобучением, а также методы тестирования моделей. Читать далее</description>
-      <pubDate>Sun, 15 Nov 2026 06:55:09 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1107972/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107972</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Вышел открытый проект OpenSubs для автоматического создания субтитров с помощью ИИ — аналог VEED и Kapwing</title>
-      <link>https://habr.com/ru/articles/1107496/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107496</link>
-      <description>В открытом доступе стал доступен бесплатный сервис OpenSubs ( сайт проекта . GitHub ) для автоматического создания субтитров с точными таймкодами с помощью ИИ Whisper для Shorts, Reels и TikTok и других платформ. Исходный код решения написан на TypeScript, Rust и JavaScript и опубликован под лицензией GNU Affero General Public License v3.0. Читать далее</description>
-      <pubDate>Sun, 15 Nov 2026 06:50:58 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1107496/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107496</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Geely Box. Купил, подключил, переписал интерфейс</title>
-      <link>https://habr.com/ru/articles/1107968/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107968</link>
-      <description>Я являюсь гордым владельцем китайца от Geely. От авто я в восторге, но мультимедийная система вызывает вопросы. Например, в ней есть Apple CarPlay, но нет Android Auto. Для Android предлагается отдельное приложение, которое больше похоже на попытку зеркалить/транслировать экран телефона на дисплей автомобиля. После использования такого софта хочется хорошо помыться и почистить зубы. Читать далее</description>
-      <pubDate>Sun, 15 Nov 2026 06:11:57 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1107968/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107968</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Huawei анонсировала Sense G1 — собственный инвазивный датчик непрерывного мониторинга глюкозы</title>
-      <link>https://habr.com/ru/articles/1107962/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107962</link>
-      <description>Huawei представила Sense G1 — свою первую систему непрерывного мониторинга глюкозы. Круглый датчик крепится на верхней части руки, а результаты измерений и статистику можно смотреть на смартфоне и умных часах. Читать далее</description>
-      <pubDate>Sun, 15 Nov 2026 05:24:01 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1107962/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107962</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Первый в истории многоразовый корабль Starship совершил посадку на башню Mechazilla стартового комплекса в Техасе</title>
-      <link>https://habr.com/ru/articles/1107958/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107958</link>
-      <description>SpaceX впервые смогла осуществить захват космического корабля Starship по его возвращении на специальную платформу Mechazilla на стартовом комплексе базы Starbase в Техасе. 15-й испытательный полет Starship продлился около 22,5 часов. За это время космический корабль вывел на орбиту 26 спутников Starlink версии V3 и сделал 14 витков вокруг планеты. Читать далее</description>
-      <pubDate>Sun, 15 Nov 2026 05:10:15 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1107958/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107958</guid>
+      <title>Зафиксирована масштабная DDoS-атака на инфраструктуру Beget</title>
+      <link>https://habr.com/ru/articles/1108054/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1108054</link>
+      <description>В хостинг‑провайдере Beget сообщили о масштабной DDoS-атаке на инфраструктуру. По оценке специалистов компании, целью кибератаки стала попытка нарушить планы по восстановлению после первого взлома. Читать далее</description>
+      <pubDate>Sun, 15 Nov 2026 13:49:42 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1108054/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1108054</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
   </channel>
