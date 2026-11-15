@@ -5,13 +5,61 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Sat, 14 Nov 2026 20:27:26 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 00:47:58 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>НАУЧИТЬ AI ПОНИМАТЬ СТРОИТЕЛЬНЫЙ ОБЪЕКТ</title>
+      <title>Where was Nvidia’s security team?</title>
+      <link>https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/</link>
+      <description>Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs everyday conversations, which most corporate security teams are poorly equipped to catch.</description>
+      <pubDate>Sun, 15 Nov 2026 00:08:07 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>Почему с ИИ мы всё ещё пишем плохой софт</title>
+      <link>https://habr.com/ru/articles/1107946/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107946</link>
+      <description>ИИ помогает искать баги и делать рефакторинг. Но к пятнице снова нужна новая фича, а разбор старого кода откладывают. После стрима про качество кода я решил разобраться, почему мы так используем болванчика. В расследовании главное не выйти на самого себя — с этим у нас, кажется, есть проблемы. Читать далее</description>
+      <pubDate>Sat, 14 Nov 2026 22:42:26 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1107946/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107946</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>[Перевод] Попытка написания руководства по Стандартной модели для начинающих</title>
+      <link>https://habr.com/ru/articles/1107722/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107722</link>
+      <description>Итан Сигел (американский астрофизик‑теоретик и научный журналист, автор рубрики «Спросите Итана», один из пропагандистов современных научных знаний), взялся за сложную задачу: в одной статье, простыми словами описать Стандартную модель элементарных частиц... Получится ли у него это? @avshkol перевёл эту статью, чтобы русскоязычная аудитория имела возможность совершить быстрый переход из состояния: «знаю только протон, нейтрон и электрон... и ещё фотон» к состоянию: «в целом разбираюсь в зоопарке</description>
+      <pubDate>Sat, 14 Nov 2026 21:54:10 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1107722/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107722</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Watch SpaceX successfully execute the first ‘chopstick’ catch of Starship</title>
+      <link>https://www.theverge.com/science/1033930/spacex-chopstick-starship-catch</link>
+      <description>After aborting a planned catch of Starship Flight 15's booster, SpaceX successfully captured Starship with its "Mechazilla" launch and catch tower for the first time. The company has performed 'chopstick' catches of its boosters before, but this is the first time the maneuver has successfully been executed on the Starship vehicle itself. SpaceX CEO Elon […]</description>
+      <pubDate>Sat, 14 Nov 2026 21:44:44 +0000</pubDate>
+      <guid>https://www.theverge.com/science/1033930/spacex-chopstick-starship-catch</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>Вторая ступень Starship впервые вернулась на стартовую площадку</title>
+      <link>https://nplus1.ru/news/2026/11/15/starship-15-end</link>
+      <description>Вторая ступень Starship впервые вернулась на стартовую площадку</description>
+      <pubDate>Sat, 14 Nov 2026 21:32:00 +0000</pubDate>
+      <guid>https://nplus1.ru/news/2026/11/15/starship-15-end</guid>
+      <category>N + 1 — главное издание о науке, технике и технологиях</category>
+    </item>
+    <item>
+      <title>[Перевод] Проблема торга</title>
+      <link>https://habr.com/ru/articles/1100308/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100308</link>
+      <description>Это небольшая статья Джона Нэша, американского математика, работавшего также в области теории игр, получившего Нобелевскую премию по экономике и Абелевскую премию по математике, была написана в 1950-м году и оказала сильное влияние на экономическую теорию, теорию игр и принятия решений. @avshkol сделал ее перевод для русскоязычной аудитории, а также сопроводил многочисленными практическими и теоретическими пояснениями. Статья будет полезна студентам финансово-экономических и управленческих специ</description>
+      <pubDate>Sat, 14 Nov 2026 21:12:30 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1100308/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100308</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Научить AI понимать строительный объект</title>
       <link>https://habr.com/ru/articles/1107928/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107928</link>
-      <description>Строительная отрасль уже давно активно цифровизируется в проектах применяются информационные модели, цифровые документы, ведомости, сметы, системы управления замечаниями, планированием, согласованиями и т.д.. Данных становится всё больше! Но вместе с ними не исчезает одна из главных проблем строительного проекта - полноценная автоматизация процесса перевода данных в осмысленную информацию до сих пор не достигнута. Сегодня этот перевод выполняется преимущественно вручную. Специалистам приходится </description>
+      <description>Строительная отрасль уже давно активно цифровизируется в проектах применяются информационные модели, цифровые документы, ведомости, сметы, системы управления замечаниями, планированием, согласованиями и так далее. Данных становится всё больше! Но вместе с ними не исчезает одна из главных проблем строительного проекта — полноценная автоматизация процесса перевода данных в осмысленную информацию до сих пор не достигнута. Сегодня этот перевод выполняется преимущественно вручную. Специалистам приход</description>
       <pubDate>Sat, 14 Nov 2026 20:20:33 +0000</pubDate>
       <guid>https://habr.com/ru/articles/1107928/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107928</guid>
       <category>Все публикации подряд на Хабре</category>
@@ -39,54 +87,6 @@
       <pubDate>Sat, 14 Nov 2026 19:42:09 +0000</pubDate>
       <guid>https://habr.com/ru/articles/1107926/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107926</guid>
       <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Сравнение DC/DC от Texas Instruments с её китайским аналогом</title>
-      <link>https://habr.com/ru/articles/1107922/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107922</link>
-      <description>Почти в каждом устройстве есть напряжение, которое мы зовём входным, и напряжение, которое на самом деле нужно потребителям на плате. Будь то микроконтроллер или какой-то датчик. Чаще напряжение понижают, чем повышают. В этой статье мы затронем преобразователи, которые только понижают. Для понижения можно использовать разные приёмы. Можно просто превратить разницу напряжений в тепло — так работают линейные стабилизаторы. Помимо такого огромного минуса, как бездарное растрачивание энергии на нагр</description>
-      <pubDate>Sat, 14 Nov 2026 19:10:23 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1107922/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107922</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Got an iPhone Duo? These 9 settings make it easier to use</title>
-      <link>https://techcrunch.com/2026/11/14/got-an-iphone-duo-these-9-settings-make-it-easier-to-use/</link>
-      <description>From Touch ID shortcuts to smarter volume buttons and camera tricks, these tweaks make Apple's foldable iPhone easier to use every day.</description>
-      <pubDate>Sat, 14 Nov 2026 18:00:00 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/11/14/got-an-iphone-duo-these-9-settings-make-it-easier-to-use/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>Ремонт терморегулятора MOES BHT-002</title>
-      <link>https://habr.com/ru/articles/1107914/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107914</link>
-      <description>Cтоит теплый пол, обслуживаемый термостатом MOES BHT-002-GBLW. Термостат перешит в ESPHome по методу уважаемого Brokly . Причем перешит варварски с заменой родного китайского чипа Tuwe3S на ESP8286 в форм факторе ESP12. Здесь, как и в большинстве подобных туевских железок, ESP отвечает только и исключительно за WiFi. Вся логика находится в собственной микросхеме, куда нас со свиным рылом не пускают. Это удобно для производителя. Можно на одном и том же железе делать версии Zigbee, WiFi или Modbu</description>
-      <pubDate>Sat, 14 Nov 2026 17:56:54 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1107914/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107914</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>АСУТП лиофилизационной установки</title>
-      <link>https://habr.com/ru/articles/1107730/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107730</link>
-      <description>Всем привет. Меня зовут Андрей, занимаюсь разработкой электроники и микропроцессорных устройств с 2005 года. Сегодня поделюсь историей разработки одного очень интересного проекта. Это был далекий 2005 год, когда память программ микроконтроллеров измерялась десятками килобайт, а ОЗУ - едва перевалило за десятки килобайт. Но для начала краткий экскурс в процесс лиофилизационной сушки препарата. Лиофилизационная сушка. Это процесс удаления воды из препарата с сохранением физической формы. Для данно</description>
-      <pubDate>Sat, 14 Nov 2026 17:56:33 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1107730/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107730</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Transportation secretary blames ‘routine’ equipment upgrade for grounding flights nationwide</title>
-      <link>https://techcrunch.com/2026/11/14/transportation-secretary-blames-routine-equipment-upgrade-for-grounding-flights-nationwide/</link>
-      <description>FAA administrator Bryan Bedford also said there's "zero evidence of anything AI-related."</description>
-      <pubDate>Sat, 14 Nov 2026 17:45:04 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/11/14/transportation-secretary-blames-routine-equipment-upgrade-for-grounding-flights-nationwide/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>Work to replace old copper wire led to the FAA’s ground stop</title>
-      <link>https://www.theverge.com/transportation/1033898/faa-ground-stop-sean-duffy-faa-copper-wire</link>
-      <description>At a press conference today, Transportation Secretary Sean Duffy said that Friday's nationwide ground stop ordered by the FAA was related to work replacing outdated copper wire with a fiber optic line at a "remote FAA facility." The secretary said that this was "routine maintenance," rather than the result of a major modernization effort. He […]</description>
-      <pubDate>Sat, 14 Nov 2026 17:44:28 +0000</pubDate>
-      <guid>https://www.theverge.com/transportation/1033898/faa-ground-stop-sean-duffy-faa-copper-wire</guid>
-      <category>The Verge</category>
     </item>
   </channel>
 </rss>
