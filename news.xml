@@ -5,87 +5,87 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Sun, 15 Nov 2026 00:47:58 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 07:35:51 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Where was Nvidia’s security team?</title>
-      <link>https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/</link>
-      <description>Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs everyday conversations, which most corporate security teams are poorly equipped to catch.</description>
-      <pubDate>Sun, 15 Nov 2026 00:08:07 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>Почему с ИИ мы всё ещё пишем плохой софт</title>
-      <link>https://habr.com/ru/articles/1107946/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107946</link>
-      <description>ИИ помогает искать баги и делать рефакторинг. Но к пятнице снова нужна новая фича, а разбор старого кода откладывают. После стрима про качество кода я решил разобраться, почему мы так используем болванчика. В расследовании главное не выйти на самого себя — с этим у нас, кажется, есть проблемы. Читать далее</description>
-      <pubDate>Sat, 14 Nov 2026 22:42:26 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1107946/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107946</guid>
+      <title>Студия GFA Games закрывает онлайн‑шутер Pioner менее чем через год после выхода в ранний доступ</title>
+      <link>https://habr.com/ru/articles/1107976/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107976</link>
+      <description>Студия GFA Games объявила о закрытии постапокалиптического онлайн‑шутера Pioner. Компания несколько месяцев пыталась решить проблемы с финансированием, но договориться с действующими и потенциальными партнёрами не удалось. Собственных средств на разработку и содержание инфраструктуры у студии нет. Читать далее</description>
+      <pubDate>Sun, 15 Nov 2026 07:13:29 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1107976/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107976</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>[Перевод] Попытка написания руководства по Стандартной модели для начинающих</title>
-      <link>https://habr.com/ru/articles/1107722/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107722</link>
-      <description>Итан Сигел (американский астрофизик‑теоретик и научный журналист, автор рубрики «Спросите Итана», один из пропагандистов современных научных знаний), взялся за сложную задачу: в одной статье, простыми словами описать Стандартную модель элементарных частиц... Получится ли у него это? @avshkol перевёл эту статью, чтобы русскоязычная аудитория имела возможность совершить быстрый переход из состояния: «знаю только протон, нейтрон и электрон... и ещё фотон» к состоянию: «в целом разбираюсь в зоопарке</description>
-      <pubDate>Sat, 14 Nov 2026 21:54:10 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1107722/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107722</guid>
+      <title>OpenGL 4.6 без glBind: Direct State Access на C++23</title>
+      <link>https://habr.com/ru/articles/1107974/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107974</link>
+      <description>Попробуйте найти в этой строке буфер, который она изменит: glBufferData(GL_ARRAY_BUFFER, sizeof(vertices), vertices, GL_STATIC_DRAW); Буфера в строке нет. Функция получает название гнезда GL_ARRAY_BUFFER и меняет тот буфер, который кто-то привязал к гнезду раньше: может быть, строкой выше, а может быть, в другой функции и в другом файле. На правиле «сначала привяжи, потом меняй» построены самые известные учебники OpenGL, потому что они рассчитаны на версию 3.3. На том же правиле держатся ошибки,</description>
+      <pubDate>Sun, 15 Nov 2026 07:12:48 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1107974/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107974</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Watch SpaceX successfully execute the first ‘chopstick’ catch of Starship</title>
-      <link>https://www.theverge.com/science/1033930/spacex-chopstick-starship-catch</link>
-      <description>After aborting a planned catch of Starship Flight 15's booster, SpaceX successfully captured Starship with its "Mechazilla" launch and catch tower for the first time. The company has performed 'chopstick' catches of its boosters before, but this is the first time the maneuver has successfully been executed on the Starship vehicle itself. SpaceX CEO Elon […]</description>
-      <pubDate>Sat, 14 Nov 2026 21:44:44 +0000</pubDate>
-      <guid>https://www.theverge.com/science/1033930/spacex-chopstick-starship-catch</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>Вторая ступень Starship впервые вернулась на стартовую площадку</title>
-      <link>https://nplus1.ru/news/2026/11/15/starship-15-end</link>
-      <description>Вторая ступень Starship впервые вернулась на стартовую площадку</description>
-      <pubDate>Sat, 14 Nov 2026 21:32:00 +0000</pubDate>
-      <guid>https://nplus1.ru/news/2026/11/15/starship-15-end</guid>
-      <category>N + 1 — главное издание о науке, технике и технологиях</category>
-    </item>
-    <item>
-      <title>[Перевод] Проблема торга</title>
-      <link>https://habr.com/ru/articles/1100308/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100308</link>
-      <description>Это небольшая статья Джона Нэша, американского математика, работавшего также в области теории игр, получившего Нобелевскую премию по экономике и Абелевскую премию по математике, была написана в 1950-м году и оказала сильное влияние на экономическую теорию, теорию игр и принятия решений. @avshkol сделал ее перевод для русскоязычной аудитории, а также сопроводил многочисленными практическими и теоретическими пояснениями. Статья будет полезна студентам финансово-экономических и управленческих специ</description>
-      <pubDate>Sat, 14 Nov 2026 21:12:30 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1100308/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1100308</guid>
+      <title>Цели, которые мы выбираем</title>
+      <link>https://habr.com/ru/articles/1106866/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106866</link>
+      <description>Три истории, три жизненные ситуации и вопрос: зачем нам сейчас умные часы? Сатирические миниатюрки об одной вещи на нашей руке. Читать далее</description>
+      <pubDate>Sun, 15 Nov 2026 07:00:47 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1106866/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106866</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Научить AI понимать строительный объект</title>
-      <link>https://habr.com/ru/articles/1107928/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107928</link>
-      <description>Строительная отрасль уже давно активно цифровизируется в проектах применяются информационные модели, цифровые документы, ведомости, сметы, системы управления замечаниями, планированием, согласованиями и так далее. Данных становится всё больше! Но вместе с ними не исчезает одна из главных проблем строительного проекта — полноценная автоматизация процесса перевода данных в осмысленную информацию до сих пор не достигнута. Сегодня этот перевод выполняется преимущественно вручную. Специалистам приход</description>
-      <pubDate>Sat, 14 Nov 2026 20:20:33 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1107928/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107928</guid>
+      <title>Keychain на iOS, часть 1. Устройство и классы доступности</title>
+      <link>https://habr.com/ru/articles/1107786/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107786</link>
+      <description>Токен в приложении почти все сначала кладут в UserDefaults , потом переезжают в Keychain, обычно по примеру из интернета. В примере про kSecAttrAccessible часто нет ни слова, а от этого атрибута зависит, когда запись вообще можно прочитать. Это первая статья из шести про Keychain на iOS: сначала про то, как он устроен, потом про классы доступности и как между ними выбирать. Погнали</description>
+      <pubDate>Sun, 15 Nov 2026 07:00:47 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1107786/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107786</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Tesla opens Cybercab pre-orders ‘for personal use,’ with geo restrictions and a $299 monthly fee</title>
-      <link>https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/</link>
-      <description>Even Elon Musk said the monthly fee is "too high."</description>
-      <pubDate>Sat, 14 Nov 2026 20:04:44 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/</guid>
-      <category>TechCrunch</category>
+      <title>55 лет Intel 4004: чип для калькулятора и множества первых умных устройств</title>
+      <link>https://habr.com/ru/companies/ssp-soft/articles/1106990/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106990</link>
+      <description>Ровно 55 лет назад, 15 ноября 1971 года в журнале Electronic News вышла реклама Intel с заголовком «Announcing a new era of integrated electronics», то есть «Объявляем новую эру интегральной электроники». Речь шла о наборе из четырех микросхем MCS-4. В него входили постоянная память 4001, оперативная память 4002, сдвиговый регистр 4003 и процессор 4004. Ровно через 55 лет этот процессор по-прежнему называют первым коммерческим микропроцессором. Читать далее</description>
+      <pubDate>Sun, 15 Nov 2026 06:55:47 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/ssp-soft/articles/1106990/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106990</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Magic: The Gathering is getting a Netflix animated series. For real this time.</title>
-      <link>https://www.theverge.com/entertainment/1033909/magic-the-gathering-netflix-series</link>
-      <description>"It's really happening. I promise. For real." Those are the first words from Roy Graham, Head of Story at Magic: The Gathering, in a video posted yesterday announcing Planeswalker, the animated series heading to Netflix in 2027. An animated Magic: The Gathering series was first teased back in 2019 with Joe and Anthony Russo at […]</description>
-      <pubDate>Sat, 14 Nov 2026 19:47:40 +0000</pubDate>
-      <guid>https://www.theverge.com/entertainment/1033909/magic-the-gathering-netflix-series</guid>
-      <category>The Verge</category>
+      <title>Погружение в большие языковые модели (часть 1)</title>
+      <link>https://habr.com/ru/articles/1107972/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107972</link>
+      <description>В первой части верхнеуровнего рассматривается полный жизненный цикл разработки модели машинного обучения: от сбора и предобработки данных до выбора алгоритма, обучения и оценки качества модели. Разбираются основные методы обработки данных, современные подходы к NLP, способы оптимизации и борьбы с переобучением, а также методы тестирования моделей. Читать далее</description>
+      <pubDate>Sun, 15 Nov 2026 06:55:09 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1107972/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107972</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Семь способов обмануть себя метриками: как я измерял точность ИИ-проверки ЕГЭ</title>
-      <link>https://habr.com/ru/articles/1107926/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107926</link>
-      <description>В первой части я рассказал, как устроена проверка второй части ЕГЭ по обществознанию в моём боте: модель размечает ответ, код считает балл. Закончил обещанием рассказать, насколько точно это работает и сколько раз я обманывал себя метриками. Насчитал семь случаев самообмана. Читать далее</description>
-      <pubDate>Sat, 14 Nov 2026 19:42:09 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1107926/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107926</guid>
+      <title>Вышел открытый проект OpenSubs для автоматического создания субтитров с помощью ИИ — аналог VEED и Kapwing</title>
+      <link>https://habr.com/ru/articles/1107496/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107496</link>
+      <description>В открытом доступе стал доступен бесплатный сервис OpenSubs ( сайт проекта . GitHub ) для автоматического создания субтитров с точными таймкодами с помощью ИИ Whisper для Shorts, Reels и TikTok и других платформ. Исходный код решения написан на TypeScript, Rust и JavaScript и опубликован под лицензией GNU Affero General Public License v3.0. Читать далее</description>
+      <pubDate>Sun, 15 Nov 2026 06:50:58 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1107496/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107496</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Geely Box. Купил, подключил, переписал интерфейс</title>
+      <link>https://habr.com/ru/articles/1107968/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107968</link>
+      <description>Я являюсь гордым владельцем китайца от Geely. От авто я в восторге, но мультимедийная система вызывает вопросы. Например, в ней есть Apple CarPlay, но нет Android Auto. Для Android предлагается отдельное приложение, которое больше похоже на попытку зеркалить/транслировать экран телефона на дисплей автомобиля. После использования такого софта хочется хорошо помыться и почистить зубы. Читать далее</description>
+      <pubDate>Sun, 15 Nov 2026 06:11:57 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1107968/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107968</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Huawei анонсировала Sense G1 — собственный инвазивный датчик непрерывного мониторинга глюкозы</title>
+      <link>https://habr.com/ru/articles/1107962/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107962</link>
+      <description>Huawei представила Sense G1 — свою первую систему непрерывного мониторинга глюкозы. Круглый датчик крепится на верхней части руки, а результаты измерений и статистику можно смотреть на смартфоне и умных часах. Читать далее</description>
+      <pubDate>Sun, 15 Nov 2026 05:24:01 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1107962/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107962</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Первый в истории многоразовый корабль Starship совершил посадку на башню Mechazilla стартового комплекса в Техасе</title>
+      <link>https://habr.com/ru/articles/1107958/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107958</link>
+      <description>SpaceX впервые смогла осуществить захват космического корабля Starship по его возвращении на специальную платформу Mechazilla на стартовом комплексе базы Starbase в Техасе. 15-й испытательный полет Starship продлился около 22,5 часов. За это время космический корабль вывел на орбиту 26 спутников Starlink версии V3 и сделал 14 витков вокруг планеты. Читать далее</description>
+      <pubDate>Sun, 15 Nov 2026 05:10:15 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1107958/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107958</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
   </channel>
