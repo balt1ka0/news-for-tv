@@ -5,88 +5,88 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Mon, 16 Nov 2026 07:41:43 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 17:59:12 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>AI-агент для разработки интеграций на DATAREON Platform: практика внедрения dtrn-mcp в «УралАгроГрупп»</title>
-      <link>https://habr.com/ru/companies/w_code/articles/1108222/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1108222</link>
-      <description>Покажем, как получить в команду разработчика интеграций, который работает 24/7, помнит всю историю проекта и не выходит за пределы закрытого контура. 24 ноября расскажем и покажем, как подключить ИИ к разработке интеграций на DATAREON Platform через dtrn-mcp. На вебинаре разберем путь команды, которая начинала с отдельных запросов к ИИ, а затем перешла к системной разработке с помощью AI-агента. Читать далее</description>
-      <pubDate>Mon, 16 Nov 2026 07:38:07 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/w_code/articles/1108222/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1108222</guid>
+      <title>Почему 94% ИИ-ответов игнорируют сайты самих компаний</title>
+      <link>https://habr.com/ru/articles/1108582/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1108582</link>
+      <description>У бизнеса сегодня появилась странная проблема: сайт спокойно держится в топ-10 поиска, но когда клиент спрашивает подрядчика у ChatGPT, Perplexity или в ИИ-сводке Google, компании в ответе просто нет. Вместо самих исполнителей нейросеть собирает подборку из внешних каталогов и справочников. Чтобы разобраться, по каким правилам модели отбирают кандидатов, я прогнал двести реальных B2B-запросов и проследил цепочку поиска. В 94 из 100 отраслевых подборов ИИ-сводка действительно открывалась, но корп</description>
+      <pubDate>Mon, 16 Nov 2026 17:54:23 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1108582/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1108582</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>В Roblox отказалась возвращать деньги родителям 9-летнего мальчика на внутриигровые покупки</title>
-      <link>https://habr.com/ru/articles/1108204/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1108204</link>
-      <description>Супружеская пара из Галифакса обнаружила , что их девятилетний сын, увлекшись видеоиграми, потратил на разных платформах $20 тыс. Большинство компаний пошли навстречу и аннулировали платежи, но Roblox, где ребёнок успел потратить большую часть суммы, отказалась делать это. Читать далее</description>
-      <pubDate>Mon, 16 Nov 2026 07:37:28 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1108204/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1108204</guid>
+      <title>FBI says Artex AI open-source hacking tool used to breach networks in ‘under three hours’</title>
+      <link>https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/</link>
+      <description>The FBI says that the open-source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry.</description>
+      <pubDate>Mon, 16 Nov 2026 17:36:43 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>Вышел проект Android Time Machine — пять онлайн‑смартфонов Nexus с классическими версиями Android 2.1 — 7.1</title>
+      <link>https://habr.com/ru/articles/1108566/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1108566</link>
+      <description>Разработчик под ником szabolevi98 представил открытый проект Android Time Machine ( веб‑версия , репозиторий на GitHub). Это решение представляет собой «машину времени» для Android, где для изучения онлайн доступны пять смартфонов Nexus с классическими версиями Android 2.1 — 7.1. Читать далее</description>
+      <pubDate>Mon, 16 Nov 2026 17:22:28 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1108566/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1108566</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Руководители технологических компаний подписали петицию с требованием вернуть Дженсена Хуанга на пост гендира Nvidia</title>
-      <link>https://habr.com/ru/articles/1108218/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1108218</link>
-      <description>Илон Маск, Тим Суини и ряд других руководителей технологических компаний подписали петицию с требованием вернуть Дженсена Хуанга на пост генерального директора Nvidia. В настоящему момент петиция собрала более 172 тыс. подписей. Читать далее</description>
-      <pubDate>Mon, 16 Nov 2026 07:35:03 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1108218/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1108218</guid>
+      <title>Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’</title>
+      <link>https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street/</link>
+      <description>Belfort claims his AI sales voice can already close deals almost as well as the best human salespeople, and he thinks it will catch up in a year.</description>
+      <pubDate>Mon, 16 Nov 2026 17:10:00 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>Независимые как понятия, зависимые как операции: параметры семплирования в LLM-инференсе</title>
+      <link>https://habr.com/ru/articles/1108348/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1108348</link>
+      <description>Инфраструктура вывода больших языковых моделей традиционно оптимизируется по пропускной способности и задержке: KV-кэш, CUDA-графы, батчинг, квантизация, параллелизм. Эти компоненты формируют «скелет» системы и задают её предельные характеристики. Однако за пределами этого фокуса нередко остаётся слой, определяющий не скорость, а качество. Это параметры семплирования - правила выбора следующего токена из распределения логитов на каждом шаге декодирования. Читать далее</description>
+      <pubDate>Mon, 16 Nov 2026 17:04:11 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1108348/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1108348</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Логика ИИ: как нейросеть решает задачи на фейковых предпосылках</title>
-      <link>https://habr.com/ru/companies/speshu_ai/articles/1108212/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1108212</link>
-      <description>Спросите нейросеть «В каком году Эйнштейн получил вторую Нобелевскую премию?», и она может назвать год, хотя второй премии не было. Это вопрос с ложной предпосылкой: ошибка заложена в самой формулировке. Ниже — что показывают исследования 2025–2026 годов о том, почему модели такие вопросы не замечают, помогает ли режим рассуждения и как формулировать запросы, чтобы получать честный ответ. Читать далее</description>
-      <pubDate>Mon, 16 Nov 2026 07:30:05 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/speshu_ai/articles/1108212/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1108212</guid>
-      <category>Все публикации подряд на Хабре</category>
+      <title>OpenAI will embed Apollo researchers to investigate AI subversion</title>
+      <link>https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/</link>
+      <description>OpenAI will embed six Apollo Research evaluators to investigate whether its AI models engage in subversive behavior, but restrictions on access and disclosure raise questions about their independence.</description>
+      <pubDate>Mon, 16 Nov 2026 17:02:43 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/</guid>
+      <category>TechCrunch</category>
     </item>
     <item>
-      <title>Минцифры: операторы связи и банки договорились о маркировке звонков</title>
-      <link>https://habr.com/ru/articles/1108208/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1108208</link>
-      <description>Операторы связи «большой четвёрки» и крупнейшие российские банки согласовали условия маркировки звонков и заключили договоры. В ближайшее время при входящих вызовах от этих банков на экранах смартфонов будет отображаться название кредитной организации. Об этом сообщило Минцифры. Читать далее</description>
-      <pubDate>Mon, 16 Nov 2026 07:24:02 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1108208/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1108208</guid>
-      <category>Все публикации подряд на Хабре</category>
+      <title>OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM</title>
+      <link>https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/</link>
+      <description>ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning</description>
+      <pubDate>Mon, 16 Nov 2026 17:00:00 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/</guid>
+      <category>TechCrunch</category>
     </item>
     <item>
-      <title>Знания руководителя как узкое место: почему команда от них зависит и как это исправить</title>
-      <link>https://habr.com/ru/companies/teamly/articles/1107438/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107438</link>
-      <description>Руководитель ушел в отпуск, и проект забуксовал. Сотрудники не находят нужные документы, не принимают решения и даже горящие проблемы откладывают до возвращения начальника. Часто компетенции команды здесь ни при чем. Просто важная информация и полномочия сосредоточились в одних руках, а люди не привыкли действовать самостоятельно. Читать далее</description>
-      <pubDate>Mon, 16 Nov 2026 07:21:27 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/teamly/articles/1107438/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107438</guid>
-      <category>Все публикации подряд на Хабре</category>
+      <title>Instagram now lets creators add Amazon affiliate links in reels and feed posts</title>
+      <link>https://techcrunch.com/2026/11/16/instagram-now-lets-creators-add-amazon-affiliate-links-in-reels-and-feed-posts/</link>
+      <description>While creators have long shared Amazon affiliate links through stories, DMs, and their bios, the new integration brings them to new parts of the app.</description>
+      <pubDate>Mon, 16 Nov 2026 17:00:00 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/11/16/instagram-now-lets-creators-add-amazon-affiliate-links-in-reels-and-feed-posts/</guid>
+      <category>TechCrunch</category>
     </item>
     <item>
-      <title>Что вы ещё не пробовали в IT? 26 открытых уроков на этой неделе</title>
-      <link>https://habr.com/ru/companies/otus/articles/1108176/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1108176</link>
-      <description>В подборке собрали 26 открытых уроков OTUS на 16–19 ноября: от Java, Python и FastAPI до DevOps, информационной безопасности и применения ИИ. Разберёмся, какие практические темы можно изучить на этой неделе и какие задачи они помогут решать в работе. Выбрать вебинар</description>
-      <pubDate>Mon, 16 Nov 2026 07:20:26 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/otus/articles/1108176/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1108176</guid>
-      <category>Все публикации подряд на Хабре</category>
+      <title>Sony’s PlayStation 5 accessories are cheaper ahead of Black Friday</title>
+      <link>https://www.theverge.com/gadgets/1034178/sony-playstation-5-ps5-accessories-monitor-dualsense-headset-deal-sale</link>
+      <description>Several retailers are offering discounts on PlayStation 5 games, including deep price cuts on recent console-exclusive hits like Marvel’s Wolverine, Ghost of Yotei, Saros, and hundreds more. We’ll cover a bunch of those in the coming days, but this post is focused on the great hardware discounts that are happening, including $20 off the stellar […]</description>
+      <pubDate>Mon, 16 Nov 2026 16:48:01 +0000</pubDate>
+      <guid>https://www.theverge.com/gadgets/1034178/sony-playstation-5-ps5-accessories-monitor-dualsense-headset-deal-sale</guid>
+      <category>The Verge</category>
     </item>
     <item>
-      <title>Сбой в Microsoft привел к отравлению 15 человек в одном из бассейнов в Германии</title>
-      <link>https://habr.com/ru/articles/1108202/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1108202</link>
-      <description>В Германии масштабный сбой сервисов Microsoft привёл к тому, что 15 человек пострадали от отравления хлором в местном бассейне. Автоматическая система дозирования хлора, которая также оповещает о выходе его содержания за пределы нормы, присылала оповещения в сервисе Outlook, но из‑за его сбоя предупреждения не дошли. Читать далее</description>
-      <pubDate>Mon, 16 Nov 2026 07:17:26 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1108202/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1108202</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Нейросеть на железе со свалки, или Как Bonsai 2 27B проиграла Qwen3 8B</title>
-      <link>https://habr.com/ru/companies/ru_mts/articles/1107236/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107236</link>
-      <description>У меня было 8 гигабайт видеопамяти на старой майнинговой NVIDIA P104-100 семнадцатого года, древний i7-3770 родом из двенадцатого, знающий только AVX, ровно 15,5 гигабайта оперативной памяти, NVMe-накопитель и HDD — его взяли специально, чтобы замерить этот чертовски долгий старт. Не то чтобы все это было категорически необходимо для запуска нейросетей, но если уж начал собирать домашний стенд, к делу надо подходить серьезно. Единственное, что вызывало у меня опасение, — это телефоны. Мы находил</description>
-      <pubDate>Mon, 16 Nov 2026 07:10:25 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/ru_mts/articles/1107236/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107236</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>AI-агент + Proxyman MCP: автоматизируем API-моки при разработке iOS-приложений</title>
-      <link>https://habr.com/ru/articles/1108200/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1108200</link>
-      <description>Допустим, вы закончили разработку экрана, на котором нужно отображать несколько состояний подписки. Осталось проверить, что всё работает правильно. Открываете приложение, а на тестовом окружении есть только одна активная подписка. Ни пробного периода, ни приостановленных подписок. Feature flag, который включает новую логику, тоже выключен. Можно попросить бэкенд подготовить данные. Можно попробовать самостоятельно изменить состояние подписки через API. А можно открыть Proxyman и подменить ответ.</description>
-      <pubDate>Mon, 16 Nov 2026 07:06:50 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1108200/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1108200</guid>
-      <category>Все публикации подряд на Хабре</category>
+      <title>Trump says it ‘certainly isn’t a bad idea’ for Jensen Huang to return to Nvidia</title>
+      <link>https://www.theverge.com/tech/1034355/trump-jensen-huang-nvidia-return</link>
+      <description>Following Jensen Huang's resignation as Nvidia's CEO last week, Trump told reporters on Monday that he's open to seeing Huang return and that he's not certain that the woman Huang reportedly had an affair with was in fact a spy. "I think having Jensen go back- a lot of people are asking Jensen, they think […]</description>
+      <pubDate>Mon, 16 Nov 2026 16:39:36 +0000</pubDate>
+      <guid>https://www.theverge.com/tech/1034355/trump-jensen-huang-nvidia-return</guid>
+      <category>The Verge</category>
     </item>
   </channel>
 </rss>
