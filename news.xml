@@ -5,87 +5,87 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Mon, 16 Nov 2026 00:47:24 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 07:41:43 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market</title>
-      <link>https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/</link>
-      <description>Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.</description>
-      <pubDate>Sun, 15 Nov 2026 23:30:00 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>Тихая делегация: карта рисков агентного ИИ на реальных примерах</title>
-      <link>https://habr.com/ru/articles/1108122/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1108122</link>
-      <description>Кому: руководителям, принимающим решения, специалистам по управлению рисками и всем, кто понимает, что технологические угрозы редко выглядят как в кино. Читать далее</description>
-      <pubDate>Sun, 15 Nov 2026 22:06:19 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1108122/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1108122</guid>
+      <title>AI-агент для разработки интеграций на DATAREON Platform: практика внедрения dtrn-mcp в «УралАгроГрупп»</title>
+      <link>https://habr.com/ru/companies/w_code/articles/1108222/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1108222</link>
+      <description>Покажем, как получить в команду разработчика интеграций, который работает 24/7, помнит всю историю проекта и не выходит за пределы закрытого контура. 24 ноября расскажем и покажем, как подключить ИИ к разработке интеграций на DATAREON Platform через dtrn-mcp. На вебинаре разберем путь команды, которая начинала с отдельных запросов к ИИ, а затем перешла к системной разработке с помощью AI-агента. Читать далее</description>
+      <pubDate>Mon, 16 Nov 2026 07:38:07 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/w_code/articles/1108222/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1108222</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Is bad news for Jensen Huang also bad news for the AI industry?</title>
-      <link>https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/</link>
-      <description>"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia."</description>
-      <pubDate>Sun, 15 Nov 2026 21:56:35 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>Наблюдаем, как Windows XP разговаривает с железом: эмулятор x86 в одном HTML-файле</title>
-      <link>https://habr.com/ru/articles/1108150/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1108150</link>
-      <description>Ранее я уже рассказывал о своих проектах для изучения низкого уровня, выполненных в виде одного HTML-файла и работающих офлайн: дизассемблер (5 платформ), ассемблер с поддержкой HLA64 и эмулятор процессора с пошаговой отладкой. Сегодня в копилку добавлен еще один проект: виртуальная машина, которая запускает настоящую Windows XP прямо в браузере. Как обычно, все в одном HTML-файле. Но фишка не в этом. Эмуляторы Windows XP в браузере уже делали много раз, и никого этим не удивить. Здесь же мы смо</description>
-      <pubDate>Sun, 15 Nov 2026 21:52:06 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1108150/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1108150</guid>
+      <title>В Roblox отказалась возвращать деньги родителям 9-летнего мальчика на внутриигровые покупки</title>
+      <link>https://habr.com/ru/articles/1108204/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1108204</link>
+      <description>Супружеская пара из Галифакса обнаружила , что их девятилетний сын, увлекшись видеоиграми, потратил на разных платформах $20 тыс. Большинство компаний пошли навстречу и аннулировали платежи, но Roblox, где ребёнок успел потратить большую часть суммы, отказалась делать это. Читать далее</description>
+      <pubDate>Mon, 16 Nov 2026 07:37:28 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1108204/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1108204</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Listen to this: Armand Hammer’s Snakes &amp; Ladders</title>
-      <link>https://www.theverge.com/entertainment/1034013/armand-hammers-snakes-ladders-review</link>
-      <description>I open with this caveat: I haven't had a ton of time to digest the surprise Armand Hammer record that dropped this week. Billy Woods and Elucid rarely miss, though, and my initial reaction is that Snakes &amp; Ladders ranks among their best. It doesn't have the seamless throughline production-wise that their collabs with Alchemist […]</description>
-      <pubDate>Sun, 15 Nov 2026 21:49:22 +0000</pubDate>
-      <guid>https://www.theverge.com/entertainment/1034013/armand-hammers-snakes-ladders-review</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>AI Resist List: список тех, кто бросает вызов ИИ</title>
-      <link>https://habr.com/ru/articles/1108152/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1108152</link>
-      <description>20 мая 2026 года Карен Хао, журналистка и автор книги «Империя ИИ», совместно с исследователями и правозащитниками представила AI Resist List — проект, который рассказывает об актах сопротивления существующей модели развития ИИ‑индустрии. Я решил рассказать об этом списке, поскольку в русскоязычном пространстве он практически не получил внимания. В основе проекта лежит борьба с представлением о том, что существующая модель развития и повсеместного внедрения искусственного интеллекта неизбежна. Ж</description>
-      <pubDate>Sun, 15 Nov 2026 21:44:59 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1108152/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1108152</guid>
+      <title>Руководители технологических компаний подписали петицию с требованием вернуть Дженсена Хуанга на пост гендира Nvidia</title>
+      <link>https://habr.com/ru/articles/1108218/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1108218</link>
+      <description>Илон Маск, Тим Суини и ряд других руководителей технологических компаний подписали петицию с требованием вернуть Дженсена Хуанга на пост генерального директора Nvidia. В настоящему момент петиция собрала более 172 тыс. подписей. Читать далее</description>
+      <pubDate>Mon, 16 Nov 2026 07:35:03 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1108218/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1108218</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Изъяны маркетолога — Какие они бывают и что с ними делать</title>
-      <link>https://habr.com/ru/articles/1108148/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1108148</link>
-      <description>Я работаю в маркетинге и с маркетологами 14 лет. По моим наблюдениям, у систематично плохой работы есть причина - изъян внутри маркетолога. Изъян накладывает своей отпечаток на все аспекты работы маркетолога. Они не дают нам делать работу ещё лучше, развиваться и расти в карьере. Для себя я составил личный топ и рекомендации, как с ними работать. Читать далее</description>
-      <pubDate>Sun, 15 Nov 2026 21:27:00 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1108148/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1108148</guid>
+      <title>Логика ИИ: как нейросеть решает задачи на фейковых предпосылках</title>
+      <link>https://habr.com/ru/companies/speshu_ai/articles/1108212/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1108212</link>
+      <description>Спросите нейросеть «В каком году Эйнштейн получил вторую Нобелевскую премию?», и она может назвать год, хотя второй премии не было. Это вопрос с ложной предпосылкой: ошибка заложена в самой формулировке. Ниже — что показывают исследования 2025–2026 годов о том, почему модели такие вопросы не замечают, помогает ли режим рассуждения и как формулировать запросы, чтобы получать честный ответ. Читать далее</description>
+      <pubDate>Mon, 16 Nov 2026 07:30:05 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/speshu_ai/articles/1108212/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1108212</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Vulcan rocket fails, destroying 40 Amazon Leo satellites</title>
-      <link>https://www.theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites</link>
-      <description>United Launch Alliance (ULA) suffered what is reportedly its first mission failure in its 20-year history, failing to deliver 40 Amazon Leo satellites to orbit. Leo is Amazon's competitor to SpaceX's Starlink, but it has struggled to get off the ground so far, putting only a small portion of the necessary satellites to challenge Starlink […]</description>
-      <pubDate>Sun, 15 Nov 2026 21:05:02 +0000</pubDate>
-      <guid>https://www.theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites</guid>
-      <category>The Verge</category>
+      <title>Минцифры: операторы связи и банки договорились о маркировке звонков</title>
+      <link>https://habr.com/ru/articles/1108208/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1108208</link>
+      <description>Операторы связи «большой четвёрки» и крупнейшие российские банки согласовали условия маркировки звонков и заключили договоры. В ближайшее время при входящих вызовах от этих банков на экранах смартфонов будет отображаться название кредитной организации. Об этом сообщило Минцифры. Читать далее</description>
+      <pubDate>Mon, 16 Nov 2026 07:24:02 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1108208/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1108208</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Jensen Huang might be plotting a return and more of the latest Nvidia drama</title>
-      <link>https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed</link>
-      <description>The drama around Nvidia co-founder and former CEO Jensen Huang is evolving quickly. The latest edition of our Stepback newsletter should get you up to speed, but there have already been a number of new developments since this morning. That includes rumors that Jensen Huang might be trying to find a path back to CEO, […]</description>
-      <pubDate>Sun, 15 Nov 2026 20:43:49 +0000</pubDate>
-      <guid>https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed</guid>
-      <category>The Verge</category>
+      <title>Знания руководителя как узкое место: почему команда от них зависит и как это исправить</title>
+      <link>https://habr.com/ru/companies/teamly/articles/1107438/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107438</link>
+      <description>Руководитель ушел в отпуск, и проект забуксовал. Сотрудники не находят нужные документы, не принимают решения и даже горящие проблемы откладывают до возвращения начальника. Часто компетенции команды здесь ни при чем. Просто важная информация и полномочия сосредоточились в одних руках, а люди не привыкли действовать самостоятельно. Читать далее</description>
+      <pubDate>Mon, 16 Nov 2026 07:21:27 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/teamly/articles/1107438/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107438</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Счётчик Гейгера и космические лучи: 46 суток наблюдений за редким эффектом</title>
-      <link>https://habr.com/ru/articles/1108140/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1108140</link>
-      <description>Дневник одного эксперимента. В сентябре–ноябре 2026 года я записывал непрерывный счёт радиоактивного источника на самодельной установке в Московской области и искал, от чего может зависеть скорость ядерного распада. Поискал — и нашёл кое-что неожиданное. Это рассказ о том, что именно, и почему я пока не готов называть это открытием. Сразу скажу, что я не претендую на профессиональное занятие наукой, а занимаюсь научными экспериментами исключительно, как хобби. Поэтому, способ обнародования резул</description>
-      <pubDate>Sun, 15 Nov 2026 20:31:41 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1108140/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1108140</guid>
+      <title>Что вы ещё не пробовали в IT? 26 открытых уроков на этой неделе</title>
+      <link>https://habr.com/ru/companies/otus/articles/1108176/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1108176</link>
+      <description>В подборке собрали 26 открытых уроков OTUS на 16–19 ноября: от Java, Python и FastAPI до DevOps, информационной безопасности и применения ИИ. Разберёмся, какие практические темы можно изучить на этой неделе и какие задачи они помогут решать в работе. Выбрать вебинар</description>
+      <pubDate>Mon, 16 Nov 2026 07:20:26 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/otus/articles/1108176/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1108176</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Сбой в Microsoft привел к отравлению 15 человек в одном из бассейнов в Германии</title>
+      <link>https://habr.com/ru/articles/1108202/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1108202</link>
+      <description>В Германии масштабный сбой сервисов Microsoft привёл к тому, что 15 человек пострадали от отравления хлором в местном бассейне. Автоматическая система дозирования хлора, которая также оповещает о выходе его содержания за пределы нормы, присылала оповещения в сервисе Outlook, но из‑за его сбоя предупреждения не дошли. Читать далее</description>
+      <pubDate>Mon, 16 Nov 2026 07:17:26 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1108202/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1108202</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Нейросеть на железе со свалки, или Как Bonsai 2 27B проиграла Qwen3 8B</title>
+      <link>https://habr.com/ru/companies/ru_mts/articles/1107236/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107236</link>
+      <description>У меня было 8 гигабайт видеопамяти на старой майнинговой NVIDIA P104-100 семнадцатого года, древний i7-3770 родом из двенадцатого, знающий только AVX, ровно 15,5 гигабайта оперативной памяти, NVMe-накопитель и HDD — его взяли специально, чтобы замерить этот чертовски долгий старт. Не то чтобы все это было категорически необходимо для запуска нейросетей, но если уж начал собирать домашний стенд, к делу надо подходить серьезно. Единственное, что вызывало у меня опасение, — это телефоны. Мы находил</description>
+      <pubDate>Mon, 16 Nov 2026 07:10:25 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/ru_mts/articles/1107236/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107236</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>AI-агент + Proxyman MCP: автоматизируем API-моки при разработке iOS-приложений</title>
+      <link>https://habr.com/ru/articles/1108200/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1108200</link>
+      <description>Допустим, вы закончили разработку экрана, на котором нужно отображать несколько состояний подписки. Осталось проверить, что всё работает правильно. Открываете приложение, а на тестовом окружении есть только одна активная подписка. Ни пробного периода, ни приостановленных подписок. Feature flag, который включает новую логику, тоже выключен. Можно попросить бэкенд подготовить данные. Можно попробовать самостоятельно изменить состояние подписки через API. А можно открыть Proxyman и подменить ответ.</description>
+      <pubDate>Mon, 16 Nov 2026 07:06:50 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1108200/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1108200</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
   </channel>
