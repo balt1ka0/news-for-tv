@@ -5,88 +5,88 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Tue, 17 Nov 2026 10:16:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 19:38:30 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>После делирия в больнице у пожилых оказался повышен риск деменции</title>
-      <link>https://nplus1.ru/news/2026/11/17/delirium-and-dementia</link>
-      <description>После делирия в больнице у пожилых оказался повышен риск деменции</description>
-      <pubDate>Tue, 17 Nov 2026 10:11:00 +0000</pubDate>
-      <guid>https://nplus1.ru/news/2026/11/17/delirium-and-dementia</guid>
-      <category>N + 1 — главное издание о науке, технике и технологиях</category>
+      <title>Model ML raises $250M to automate investment banking grunt work</title>
+      <link>https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/</link>
+      <description>The three-year-old Model ML was valued at $1.5 billion in a new round co-led by General Atlantic and QED Investors.</description>
+      <pubDate>Tue, 17 Nov 2026 19:32:11 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/</guid>
+      <category>TechCrunch</category>
     </item>
     <item>
-      <title>Где будет ИТ через год, если ИИ начнёт действовать сам: 10 трендов Gartner на 2027 год</title>
-      <link>https://habr.com/ru/companies/simpleone/articles/1108726/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1108726</link>
-      <description>К концу 2026 года, по прогнозу Gartner, автономные ИИ-агенты создадут 20% всех публичных коммитов, а значит, каждое пятое сохранённое изменение кода в открытых репозиториях напишет не человек. Код появляется быстрее, чем команда успевает его проверять, и поэтому аналитики включили среду управления ИИ-разработчиками в список трендов на 2027 год. В материале разбираемся, к чему готовиться ИТ-менеджерам и разработчикам в следующем году: ИИ за пределами текста, управление автономными ИИ-агентами, су</description>
-      <pubDate>Tue, 17 Nov 2026 10:10:21 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/simpleone/articles/1108726/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1108726</guid>
+      <title>Будем покупать профессии? Как ИИ-платформы изменят рынок корпоративного ПО</title>
+      <link>https://habr.com/ru/articles/1109074/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1109074</link>
+      <description>Будем ли мы покупать «профессии» так же, как сегодня покупаем готовые решения на 1С? На примерах рекламной кампании и банковского конвейера разбираю, как ИИ-платформы могут изменить рынок корпоративного ПО. Как будут выглядеть такие системы, какую работу в них можно автоматизировать и чем тогда займутся разработчики? Читать далее</description>
+      <pubDate>Tue, 17 Nov 2026 19:31:42 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1109074/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1109074</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>GTA 6 захватила чарты PlayStation Store почти по всему миру — единственным исключением стала Япония</title>
-      <link>https://habr.com/ru/companies/ggsel/articles/1108780/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1108780</link>
-      <description>За считаные дни до релиза Grand Theft Auto 6 ожидаемо оккупировала вершины чартов продаж PlayStation Store сразу в 46 странах, включая США. Согласно актуальной сводке сервиса PlatPrices от 15 ноября, криминальный экшен Rockstar Games уступил лидерство лишь в одном регионе — в Японии его внезапно обошла условно-бесплатная королевская битва Apex Legends. Читать новость далее</description>
-      <pubDate>Tue, 17 Nov 2026 10:05:08 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/ggsel/articles/1108780/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1108780</guid>
+      <title>Nvidia представила кластер из четырёх DGX Spark с 512 ГБ для запуска AI‑моделей размером до 700 млрд параметров</title>
+      <link>https://habr.com/ru/articles/1109072/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1109072</link>
+      <description>На конференции SC26 в Чикаго Nvidia представила DGX Spark HPC Developer Kit — кластер из четырёх компактных компьютеров DGX Spark с суммарными 512 ГБ памяти. Он рассчитан на исследователей и разработчиков, которым надо локально запускать AI‑модели, отлаживать распределённые приложений и проводить ресурсоёмкие расчёты. Читать далее</description>
+      <pubDate>Tue, 17 Nov 2026 19:24:32 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1109072/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1109072</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Serverless в 2026: когда выгоднее платить за код, а не за сервер</title>
-      <link>https://habr.com/ru/articles/1108778/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1108778</link>
-      <description>Serverless — это уже не про «модно», а про математику. И точка перелома наступает раньше, чем вы думаете. При 100 тыс. вызовов в месяц AWS Lambda почти бесплатна. При 259 млн вызовов (100 rps) — уже ~$484, и в этот момент две инстанции 4 vCPU за $306 выигрывают. Плюс с 2025 года AWS тарифицирует фазу инициализации: миллион холодных стартов подорожал в 22 раза. В статье — формула стоимости, реальные цифры по AWS и Yandex Cloud, скрытые расходы (API Gateway, ожидание ответа БД, связка памяти и CPU</description>
-      <pubDate>Tue, 17 Nov 2026 10:03:47 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1108778/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1108778</guid>
+      <title>Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free</title>
+      <link>https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free</link>
+      <description>Google is rebranding its Spark AI agent as "Tasks" and making it free to use. The feature, which is powered by Google's new Gemini 4 Hydrogen AI model, can do things like create meal plans, manage your calendar, and dig through your emails to find recurring expenses you might not need. Users in the US […]</description>
+      <pubDate>Tue, 17 Nov 2026 18:58:01 +0000</pubDate>
+      <guid>https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>Apple services, including iCloud, App Store, and Apple Music, hit by outage</title>
+      <link>https://techcrunch.com/2026/11/17/apple-services-including-icloud-app-store-and-apple-music-hit-by-outage/</link>
+      <description>Apple's status page confirms its services are facing outages, but has not confirmed the cause.</description>
+      <pubDate>Tue, 17 Nov 2026 18:55:40 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/11/17/apple-services-including-icloud-app-store-and-apple-music-hit-by-outage/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>Вам не нужны примитивные типы и коллекции</title>
+      <link>https://habr.com/ru/articles/1109064/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1109064</link>
+      <description>Расскажу, почему вам нужно отказаться от примитивных типов и коллекций. На примерах Rust покажу, как описать смысл значений и требования к ним через отдельные типы, чтобы код было проще читать, а компилятор не позволял перепутать аргументы или передать непроверенные данные. Читать далее</description>
+      <pubDate>Tue, 17 Nov 2026 18:54:05 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1109064/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1109064</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Microsoft выпустила .NET 11 с C# 15, новым типом union и улучшениями для ИИ-разработки</title>
-      <link>https://habr.com/ru/companies/selectel/articles/1108252/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1108252</link>
-      <description>Microsoft выпустила .NET 11 — новую версию открытой платформы для разработки приложений. Вместе с ней представлен C# 15, а также обновились ASP.NET Core, Entity Framework Core, .NET MAUI и другие компоненты. Сборки SDK и Runtime доступны для Windows, Linux и macOS. Читать далее</description>
-      <pubDate>Tue, 17 Nov 2026 10:00:39 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/selectel/articles/1108252/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1108252</guid>
+      <title>Framework представила беспроводную клавиатуру с тачпадом и сменным аккумулятором</title>
+      <link>https://habr.com/ru/articles/1109062/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1109062</link>
+      <description>Framework открыла предзаказ на компактную беспроводную клавиатуру со встроенным тачпадом. Устройство рассчитано на управление компьютером с дивана, работу с мини‑ПК, серверами и другие сценарии, где неудобно держать отдельную мышь. Аккумулятор и плату устройства можно заменять. Читать далее</description>
+      <pubDate>Tue, 17 Nov 2026 18:47:47 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1109062/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1109062</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Парные пистолеты и догонялки с тираннозавром: все подробности о Tomb Raider: Legacy of Atlantis</title>
-      <link>https://habr.com/ru/companies/ggsel/articles/1108770/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1108770</link>
-      <description>Студия Crystal Dynamics опубликовала полную запись второй дискуссионной панели с юбилейного фестиваля в английском Дерби — городе, где ровно 30 лет назад студия Core Design создала самую первую Tomb Raider. Геймдиректор Рауль Сикейра, арт-директор соразработчиков из Flying Wild Hog Арек Томашевский и исполнительница главной роли Аликс Уилтон Риган подробно рассказали, как устроена Tomb Raider: Legacy of Atlantis, почему игру нельзя назвать простым ремейком и на какие жертвы пришлось пойти в проц</description>
-      <pubDate>Tue, 17 Nov 2026 09:56:32 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/ggsel/articles/1108770/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1108770</guid>
+      <title>Шардинг PostgreSQL без потери ACID: как мы построили Postgres Pro Shardman</title>
+      <link>https://habr.com/ru/companies/postgrespro/articles/1108408/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1108408</link>
+      <description>Добавили реплику, нарезали партиции, поставили пулер. Диск всё равно на пределе, VACUUM не успевает, а бэкап идёт сутками. Показываем, как горизонтальное масштабирование на шардинге снимает эти ограничения. Заодно разбираем цену решения: распределённые транзакции, stale reads, консистентные бэкапы и кроссшардовые join. Читать далее</description>
+      <pubDate>Tue, 17 Nov 2026 18:43:06 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/postgrespro/articles/1108408/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1108408</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Как мы прикрутили старенький Quest 2 к AgiBot X2 Ultra</title>
-      <link>https://habr.com/ru/articles/1108592/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1108592</link>
-      <description>В Unibot мы сделали NavStudio — веб-панель для AgiBot X2 Ultra с картами, сценариями и голосовыми командами. Теперь подключили к ней старенький Quest 2. В шлеме видна камера робота, стики задают ходьбу, а на месте X2 повторяет движения рук, головы и корпуса. Разбираемся, зачем для жестов понадобился локоть и почему ходьбу переключаем кнопкой X. Читать далее</description>
-      <pubDate>Tue, 17 Nov 2026 09:45:38 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1108592/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1108592</guid>
-      <category>Все публикации подряд на Хабре</category>
+      <title>Meta is testing a new standalone messaging app called Direct</title>
+      <link>https://www.theverge.com/tech/1035740/meta-instagram-direct-messaging-app</link>
+      <description>Meta announced Direct, a new messaging app from Instagram that it's currently testing in Turkey and Thailand on iOS and Android. Direct is essentially Instagram's direct messaging without Instagram's other features. Meta says your Instagram chats will sync across both apps if you login with the same account. You can also sign up with an […]</description>
+      <pubDate>Tue, 17 Nov 2026 18:33:02 +0000</pubDate>
+      <guid>https://www.theverge.com/tech/1035740/meta-instagram-direct-messaging-app</guid>
+      <category>The Verge</category>
     </item>
     <item>
-      <title>Коробка с игрушками: что такое atmy.ai</title>
-      <link>https://habr.com/ru/articles/1108768/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1108768</link>
-      <description>В 2017 году я ходил по Красноярску с ручным прибором и измерял загрязнение воздуха. Сегодня я спрашиваю у ИИ-агента, что с воздухом в городе, и он сам берёт измерения с тысяч датчиков. Рассказываю, как подключил данные atmy.ai к агентам через MCP, почему текст заменяет фильтры на карте и почему данные о воздухе не должны принадлежать нескольким компаниям. Открыть коробку с игрушками</description>
-      <pubDate>Tue, 17 Nov 2026 09:44:08 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1108768/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1108768</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Страхование будущего: как бороться с AI-мошенниками, как нейронки меняют бизнес, разработку и клиентский опыт</title>
-      <link>https://habr.com/ru/companies/agima/articles/1108766/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1108766</link>
-      <description>20 ноября AGIMA и Т-Страхование обсудят это на закрытом подкасте. В программе: — Как бороться с мошенниками, вооружёнными AI? — Что уже можно автоматизировать: от оценки рисков до выплат? — Как нейросети меняют IT-инфраструктуру и команду разработчиков? — Как измерить реальную пользу AI для бизнеса? — Возможно ли страхование без приложений и звонков? Участники: Сергей Трофимов, CTO Т-Страхования; Сергей Кожемякин, COO AGIMA. Это второй выпуск цикла AGIMA об AI в страховании. Первый, с АльфаСтрах</description>
-      <pubDate>Tue, 17 Nov 2026 09:43:40 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/agima/articles/1108766/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1108766</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>AutoGen2 (AG2) — создание и оркестрация ИИ-агентов</title>
-      <link>https://habr.com/ru/companies/bothub/articles/1108762/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1108762</link>
-      <description>До определенного момента ИИ-воркфлоу выглядел как один промпт, один вызов модели и один ответ. Затем появились цепочки — summarize → extract → classify. Но чем сложнее задача, тем быстрее выясняется, что монолитный промпт или пайплайн начинает трещать. Один агент не может одновременно быть внимательным редактором, дотошным тестировщиком и креативщиком. И именно на этом этапе появляется мультиагентная оркестрация. Идея простая — разбивать работу на роли и дать каждой свой промпт, свой набор инстр</description>
-      <pubDate>Tue, 17 Nov 2026 09:41:55 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/bothub/articles/1108762/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1108762</guid>
-      <category>Все публикации подряд на Хабре</category>
+      <title>Amflow’s new urban e-bike series is deliciously overpowered for flat city streets</title>
+      <link>https://www.theverge.com/transportation/1035318/amflow-ue-carbon-pro-commuter-ebike-dji-avinox-price-specs</link>
+      <description>DJI spinoff Amflow has spent the last couple of years shaking up the electric mountain bike (eMTB) market with ridiculously high-torque, lightweight models. Today, it's bringing that same overengineered energy to pavement with the UE Series, its first urban commuter line. The series consists of two models: the UE Carbon and UE Carbon Pro. Both […]</description>
+      <pubDate>Tue, 17 Nov 2026 18:30:03 +0000</pubDate>
+      <guid>https://www.theverge.com/transportation/1035318/amflow-ue-carbon-pro-commuter-ebike-dji-avinox-price-specs</guid>
+      <category>The Verge</category>
     </item>
   </channel>
 </rss>
