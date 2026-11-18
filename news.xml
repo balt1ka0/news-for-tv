@@ -5,87 +5,87 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Tue, 17 Nov 2026 19:38:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 02:10:20 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Model ML raises $250M to automate investment banking grunt work</title>
-      <link>https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/</link>
-      <description>The three-year-old Model ML was valued at $1.5 billion in a new round co-led by General Atlantic and QED Investors.</description>
-      <pubDate>Tue, 17 Nov 2026 19:32:11 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/</guid>
+      <title>Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future deals in doubt</title>
+      <link>https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/</link>
+      <description>The value of Nvidia’s private investments has nearly tripled over the past nine months, fueled by Jensen Huang’s aggressive dealmaking and rising valuations of its existing portfolio companies.</description>
+      <pubDate>Wed, 18 Nov 2026 01:44:21 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/</guid>
       <category>TechCrunch</category>
     </item>
     <item>
-      <title>Будем покупать профессии? Как ИИ-платформы изменят рынок корпоративного ПО</title>
-      <link>https://habr.com/ru/articles/1109074/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1109074</link>
-      <description>Будем ли мы покупать «профессии» так же, как сегодня покупаем готовые решения на 1С? На примерах рекламной кампании и банковского конвейера разбираю, как ИИ-платформы могут изменить рынок корпоративного ПО. Как будут выглядеть такие системы, какую работу в них можно автоматизировать и чем тогда займутся разработчики? Читать далее</description>
-      <pubDate>Tue, 17 Nov 2026 19:31:42 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1109074/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1109074</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Nvidia представила кластер из четырёх DGX Spark с 512 ГБ для запуска AI‑моделей размером до 700 млрд параметров</title>
-      <link>https://habr.com/ru/articles/1109072/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1109072</link>
-      <description>На конференции SC26 в Чикаго Nvidia представила DGX Spark HPC Developer Kit — кластер из четырёх компактных компьютеров DGX Spark с суммарными 512 ГБ памяти. Он рассчитан на исследователей и разработчиков, которым надо локально запускать AI‑модели, отлаживать распределённые приложений и проводить ресурсоёмкие расчёты. Читать далее</description>
-      <pubDate>Tue, 17 Nov 2026 19:24:32 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1109072/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1109072</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free</title>
-      <link>https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free</link>
-      <description>Google is rebranding its Spark AI agent as "Tasks" and making it free to use. The feature, which is powered by Google's new Gemini 4 Hydrogen AI model, can do things like create meal plans, manage your calendar, and dig through your emails to find recurring expenses you might not need. Users in the US […]</description>
-      <pubDate>Tue, 17 Nov 2026 18:58:01 +0000</pubDate>
-      <guid>https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>Apple services, including iCloud, App Store, and Apple Music, hit by outage</title>
-      <link>https://techcrunch.com/2026/11/17/apple-services-including-icloud-app-store-and-apple-music-hit-by-outage/</link>
-      <description>Apple's status page confirms its services are facing outages, but has not confirmed the cause.</description>
-      <pubDate>Tue, 17 Nov 2026 18:55:40 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/11/17/apple-services-including-icloud-app-store-and-apple-music-hit-by-outage/</guid>
+      <title>Nvidia promises that revenue will keep soaring — for now</title>
+      <link>https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/</link>
+      <description>Despite the turmoil Nvidia is in after the departure of its disgraced founder and CEO Jensen Huang, the company projected that its streak of record-breaking revenue isn't about to stop.</description>
+      <pubDate>Wed, 18 Nov 2026 00:16:50 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/</guid>
       <category>TechCrunch</category>
     </item>
     <item>
-      <title>Вам не нужны примитивные типы и коллекции</title>
-      <link>https://habr.com/ru/articles/1109064/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1109064</link>
-      <description>Расскажу, почему вам нужно отказаться от примитивных типов и коллекций. На примерах Rust покажу, как описать смысл значений и требования к ним через отдельные типы, чтобы код было проще читать, а компилятор не позволял перепутать аргументы или передать непроверенные данные. Читать далее</description>
-      <pubDate>Tue, 17 Nov 2026 18:54:05 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1109064/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1109064</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Framework представила беспроводную клавиатуру с тачпадом и сменным аккумулятором</title>
-      <link>https://habr.com/ru/articles/1109062/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1109062</link>
-      <description>Framework открыла предзаказ на компактную беспроводную клавиатуру со встроенным тачпадом. Устройство рассчитано на управление компьютером с дивана, работу с мини‑ПК, серверами и другие сценарии, где неудобно держать отдельную мышь. Аккумулятор и плату устройства можно заменять. Читать далее</description>
-      <pubDate>Tue, 17 Nov 2026 18:47:47 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1109062/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1109062</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Шардинг PostgreSQL без потери ACID: как мы построили Postgres Pro Shardman</title>
-      <link>https://habr.com/ru/companies/postgrespro/articles/1108408/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1108408</link>
-      <description>Добавили реплику, нарезали партиции, поставили пулер. Диск всё равно на пределе, VACUUM не успевает, а бэкап идёт сутками. Показываем, как горизонтальное масштабирование на шардинге снимает эти ограничения. Заодно разбираем цену решения: распределённые транзакции, stale reads, консистентные бэкапы и кроссшардовые join. Читать далее</description>
-      <pubDate>Tue, 17 Nov 2026 18:43:06 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/postgrespro/articles/1108408/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1108408</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Meta is testing a new standalone messaging app called Direct</title>
-      <link>https://www.theverge.com/tech/1035740/meta-instagram-direct-messaging-app</link>
-      <description>Meta announced Direct, a new messaging app from Instagram that it's currently testing in Turkey and Thailand on iOS and Android. Direct is essentially Instagram's direct messaging without Instagram's other features. Meta says your Instagram chats will sync across both apps if you login with the same account. You can also sign up with an […]</description>
-      <pubDate>Tue, 17 Nov 2026 18:33:02 +0000</pubDate>
-      <guid>https://www.theverge.com/tech/1035740/meta-instagram-direct-messaging-app</guid>
+      <title>Satya Nadella says he’s AGI-pilled now</title>
+      <link>https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now</link>
+      <description>Microsoft CEO Satya Nadella says he's AGI-pilled, at least when it comes to how AI might make startling changes to the structure of the economy and how politics might change because of it. "I am AGI-pilled in the sense that at an economy level, what is the political economy's organization around AGI?" he asked at […]</description>
+      <pubDate>Tue, 17 Nov 2026 23:41:18 +0000</pubDate>
+      <guid>https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now</guid>
       <category>The Verge</category>
     </item>
     <item>
-      <title>Amflow’s new urban e-bike series is deliciously overpowered for flat city streets</title>
-      <link>https://www.theverge.com/transportation/1035318/amflow-ue-carbon-pro-commuter-ebike-dji-avinox-price-specs</link>
-      <description>DJI spinoff Amflow has spent the last couple of years shaking up the electric mountain bike (eMTB) market with ridiculously high-torque, lightweight models. Today, it's bringing that same overengineered energy to pavement with the UE Series, its first urban commuter line. The series consists of two models: the UE Carbon and UE Carbon Pro. Both […]</description>
-      <pubDate>Tue, 17 Nov 2026 18:30:03 +0000</pubDate>
-      <guid>https://www.theverge.com/transportation/1035318/amflow-ue-carbon-pro-commuter-ebike-dji-avinox-price-specs</guid>
+      <title>Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit</title>
+      <link>https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/</link>
+      <description>Nvidia's interim CEO reaffirmed its open source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure.</description>
+      <pubDate>Tue, 17 Nov 2026 23:04:35 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>Мы каждый день разговариваем со всеми знаниями человечества. Но становимся ли мы умнее?</title>
+      <link>https://habr.com/ru/articles/1109138/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1109138</link>
+      <description>Иногда я открываю диалог с искусственным интеллектом, формулирую вопрос и вдруг понимаю, что уже знаю ответ. Но всё равно нажимаю Enter. Зачем? Мне не хватает знаний, уверенности в собственных мыслях или я просто привык, что рядом всегда есть кто-то, кто готов со мной согласиться? За один день я могу обсудить с нейросетью архитектуру собственного кодека, обучение искусственного нейронного организма, устройство иммунной системы и ремонт протёкшего автомобильного бака. И каждый раз получаю ответ. </description>
+      <pubDate>Tue, 17 Nov 2026 22:57:33 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1109138/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1109138</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Astra 6.2, Qwen 4, Fable 5.2 и Opus 5.5: нейросети снова соревнуются, а теперь ещё и судят друг друга</title>
+      <link>https://habr.com/ru/articles/1109134/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1109134</link>
+      <description>Моё субъективное сравнение топовых нейронок продолжается. В сентябре я выложил на Хабр «Турнир семи нейросетей»: 7 моделей, 8 заданий и три редакции статьи за неделю. Скажу честно: вышло неудачно. Но останавливаться не собираюсь: после ваших комментариев хочется сделать следующее сравнение лучше, а ошибки — часть пути. Читать далее</description>
+      <pubDate>Tue, 17 Nov 2026 22:51:01 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1109134/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1109134</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Read everything that Nvidia’s board chair had to say about Jensen Huang</title>
+      <link>https://www.theverge.com/tech/1036160/nvidia-earnings-harvey-c-jones-jensen-huang</link>
+      <description>Nvidia's quarterly earnings call on Tuesday was its first with CFO and interim CEO Colette Kress at the helm alongside the company's first board chair, Harvey C. Jones. The leadership change followed Jensen Huang's resignation last week after reports he had multiple affairs - including one with former Megaspeed executive and alleged Chinese asset Alice […]</description>
+      <pubDate>Tue, 17 Nov 2026 22:32:50 +0000</pubDate>
+      <guid>https://www.theverge.com/tech/1036160/nvidia-earnings-harvey-c-jones-jensen-huang</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>Amazon and Google will together own nearly 30% of Anthropic after its IPO</title>
+      <link>https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/</link>
+      <description>Amazon will own just under 15% of Anthropic after the IPO, with the option to go much higher. Google is a close second with holdings of nearly 14%.</description>
+      <pubDate>Tue, 17 Nov 2026 22:29:05 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>[Перевод] Мы всё охотнее миримся с медленной работой программ</title>
+      <link>https://habr.com/ru/articles/1109128/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1109128</link>
+      <description>Недавно Дэн Лу опубликовал статью «Теперь ничто не мешает программам быть быстрыми» ( перевод на Хабре). В ней он рассуждает о том, насколько благодаря большим языковым моделям (LLM) подешевели самые разные задачи: от разработки специализированных решений — например, JIT‑компиляторов и индексов для поиска — до оптимизации под конкретную рабочую нагрузку. «Мы пока не настолько продвинулись, чтобы захотеть писать всё на ассемблере, но нечто похожее на то, что Нолан Лоусон сказал о тестировании — т</description>
+      <pubDate>Tue, 17 Nov 2026 22:28:34 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1109128/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1109128</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>iFixit’s Apple HomeView teardown reveals a device that will be difficult to repair</title>
+      <link>https://www.theverge.com/tech/1036045/ifixit-teardown-apple-homeview-smart-home-hub</link>
+      <description>After finding recent versions of Apple's iPads and HomePods much easier to disassemble for battery replacements or other repairs, iFixit assumed it would be the same story for Apple's new HomeView hub that looks like a seven-inch tablet stuck to a smart speaker. The reality was much different and by the time they got the […]</description>
+      <pubDate>Tue, 17 Nov 2026 22:25:41 +0000</pubDate>
+      <guid>https://www.theverge.com/tech/1036045/ifixit-teardown-apple-homeview-smart-home-hub</guid>
       <category>The Verge</category>
     </item>
   </channel>
