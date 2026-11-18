@@ -5,87 +5,87 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Wed, 18 Nov 2026 11:12:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 20:02:27 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Минпромторг предложил ввести авиасбор для поддержки поставок самолётов</title>
-      <link>https://habr.com/ru/articles/1109332/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1109332</link>
-      <description>Минпромторг РФ подготовил пакет законопроектов, предусматривающих введение авиапромышленного сбора. Деньги от него планируют направлять на поддержку поставок, льготного лизинга и технической эксплуатации новых российских гражданских самолётов. Об этом говорится в материалах министерства, сообщает ТАСС. Читать далее</description>
-      <pubDate>Wed, 18 Nov 2026 11:10:29 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1109332/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1109332</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>«LLM без OCR в обработке документов не работает»: как «АльфаСтрахование» построила IDP-оркестратор с ИИ Smart Engines</title>
-      <link>https://habr.com/ru/companies/smartengines/articles/1108732/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1108732</link>
-      <description>Ежегодно «АльфаСтрахование» обрабатывает порядка 40 млн документов. За последние десять лет компания прошла путь от потокового сканирования и распознавания штрихкодов до собственной платформы интеллектуальной обработки документов (IDP), объединяющей OCR, машинное обучение и большие языковые модели. Сегодня эти технологии помогают автоматизировать десятки бизнес-процессов, справляться с растущими объемами документов без расширения штата и обеспечивать экономический эффект в десятки миллионов рубл</description>
-      <pubDate>Wed, 18 Nov 2026 11:07:46 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/smartengines/articles/1108732/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1108732</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Grand Theft Auto VI has arrived</title>
-      <link>https://www.theverge.com/entertainment/1035847/grand-theft-auto-6-launch-review-news</link>
-      <description>More than a decade after Grand Theft Auto V was first released, its sequel is finally launching. On November 19th, GTA VI will be available on both the PS5 and Xbox Series X / S, and it’s quite possibly the most anticipated video game launch of all time. Part of this has to do with […]</description>
-      <pubDate>Wed, 18 Nov 2026 11:06:16 +0000</pubDate>
-      <guid>https://www.theverge.com/entertainment/1035847/grand-theft-auto-6-launch-review-news</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>Grand Theft Auto VI does something impossible — it lives up to the hype</title>
-      <link>https://www.theverge.com/games/1035801/grand-theft-auto-6-review</link>
-      <description>How do you follow a game like Grand Theft Auto V? Thirteen years ago, Rockstar's crime-fueled epic went on to redefine what an open-world game could be and became an enormous success, selling more than 230 million copies across three generations of game consoles. It sits just behind Tetris and Minecraft on the list of […]</description>
-      <pubDate>Wed, 18 Nov 2026 11:00:00 +0000</pubDate>
-      <guid>https://www.theverge.com/games/1035801/grand-theft-auto-6-review</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>‘It’s a risk’: How Rockstar built the most detailed (and romantic) GTA yet</title>
-      <link>https://www.theverge.com/entertainment/1035806/grand-theft-auto-6-rob-nelson-interview</link>
-      <description>Grand Theft Auto VI isn't just the biggest GTA game to date; it's also the most romantic. Though the series is well known for its sordid assortment of criminal leads, GTA VI switches things up by starring a pair of thieves who also happen to fall in love after meeting while stealing a car. It's […]</description>
-      <pubDate>Wed, 18 Nov 2026 11:00:00 +0000</pubDate>
-      <guid>https://www.theverge.com/entertainment/1035806/grand-theft-auto-6-rob-nelson-interview</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>China dominates battery graphite, but this startup could break the monopoly</title>
-      <link>https://techcrunch.com/2026/11/18/china-dominates-battery-graphite-but-this-startup-could-break-the-monopoly/</link>
-      <description>Chinese companies maintain near total dominance of the graphite industry, but Molten Industries says its new factory in Oakland could spell the end of the monopoly.</description>
-      <pubDate>Wed, 18 Nov 2026 11:00:00 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/11/18/china-dominates-battery-graphite-but-this-startup-could-break-the-monopoly/</guid>
+      <title>Snapchat now lets developers build AR Lenses with AI assistants like Claude Code and Cursor</title>
+      <link>https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/</link>
+      <description>Lens creators can describe the Lens they want in plain language, and their AI assistant handles the process from start to finish, Snapchat says.</description>
+      <pubDate>Wed, 18 Nov 2026 19:56:39 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/</guid>
       <category>TechCrunch</category>
     </item>
     <item>
-      <title>Плагин для AQA которые любят глазами</title>
-      <link>https://habr.com/ru/articles/1108624/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1108624</link>
-      <description>Лагерь автоматизаторов делится, как мне кажется, на две части. Первые запускают тесты из консоли, вторые нажимают на кнопки в IDE создавая бесчисленные конфигурации Run, третьи появились пока я писал это предложение и ничего уже не делают руками, а говорят бездушной машине в голосовом чате что запустить, какую задачу закрыть, попивая кокосовый на миндальном в перемешку с антидепрессантами. Но представим что все токены, о неет, закончились и нужно вспомнить молодость пойдя в рукопашную запускать </description>
-      <pubDate>Wed, 18 Nov 2026 10:57:38 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1108624/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1108624</guid>
+      <title>Как я с помощью Claude Fable 5.2 отправил своего 3D-персонажа кататься на лыжах под северным сиянием</title>
+      <link>https://habr.com/ru/articles/1109582/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1109582</link>
+      <description>Восстановил локальный проект браузерной лыжной игры Cold Smoke, а затем добавил своего аниме-персонажа. Показываю путь от аватара и трёх проекций до модели в VRoid и Blender: одежду, мимику, адаптацию скелета и проверку движений на склоне. В статье — ошибки промежуточных версий, расходы на API Claude Fable 5.2 и GIF с катанием под северным сиянием и в снегопад. От аватара до лыжника</description>
+      <pubDate>Wed, 18 Nov 2026 19:47:44 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1109582/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1109582</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Администрация Git-хостинга Codeberg.org сообщила о блокировке домена регистратором</title>
-      <link>https://habr.com/ru/articles/1109328/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1109328</link>
-      <description>18 ноября 2026 года администрация Git‑хостинга Codeberg.org (работает на открытой платформе совместной разработки Forgejo — форка Gitea ), сообщила о недоступности всех сервисов проекта из‑за блокировки домена codeberg.org регистратором NameSilo . Читать далее</description>
-      <pubDate>Wed, 18 Nov 2026 10:52:34 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1109328/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1109328</guid>
+      <title>Trump’s latest land grab is an AI hub in the Philippines</title>
+      <link>https://www.theverge.com/policy/1036749/trump-ai-chip-data-center-us-philippines-pax-silica</link>
+      <description>President Donald Trump was greeted by no less than five beauty queens when he landed in the Philippines on Tuesday, according to local news outlet Rappler. As he stepped onto the tarmac, a child handed him small US and Philippine flags. A band played "YMCA," a staple at Trump rallies, as more girls in traditional […]</description>
+      <pubDate>Wed, 18 Nov 2026 19:40:36 +0000</pubDate>
+      <guid>https://www.theverge.com/policy/1036749/trump-ai-chip-data-center-us-philippines-pax-silica</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>[Перевод] DataFusion — не только для аналитики: как ускорить точечные запросы почти в 8 раз</title>
+      <link>https://habr.com/ru/companies/otus/articles/1106132/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106132</link>
+      <description>DataFusion умеет обрабатывать большие объёмы данных, но насколько хорошо он справляется с поиском одной строки среди миллионов? При точечных запросах даже небольшие накладные расходы могут заметно снижать пропускную способность. Разберём, как настройки Parquet и оптимизация выполнения запросов помогли ускорить точечное чтение почти в 8 раз и сократить время отклика до 0,2 мс. Разобрать оптимизации</description>
+      <pubDate>Wed, 18 Nov 2026 19:36:09 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/otus/articles/1106132/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106132</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>ИИ-агенты, WebSocket и ускорение 1С в 5 раз: пять интересных публикаций Инфостарт</title>
-      <link>https://habr.com/ru/companies/infostart/articles/1109326/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1109326</link>
-      <description>Что, если ИИ сможет не только отвечать на вопросы бухгалтера, но и находить ошибки в документах? Как быстро обнаружить расхождения между двумя базами 1С, подключить нейросеть к реальным данным через MCP и организовать обмен информацией в режиме реального времени? А можно ли выгрузить конфигурацию без платформы и базы - да ещё и в пять раз быстрее штатного механизма? В новой подборке Инфостарт - пять публикаций о технологиях, инструментах и нестандартных решениях, которые открывают новые возможно</description>
-      <pubDate>Wed, 18 Nov 2026 10:46:25 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/infostart/articles/1109326/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1109326</guid>
+      <title>What’s next for Nvidia? Whatever doesn’t rock the mind-bogglingly profitable boat</title>
+      <link>https://www.theverge.com/tech/1035924/nvidia-visualized-revenue-profit-earnings-after-huang</link>
+      <description>If someone handed you $8,300 every second, what would you do? That's how much pure profit Nvidia now makes. By the time you finish reading this paragraph, Nvidia will likely have cleared $45,000 and change. It's easy to look at Nvidia, a company that just lost its visionary founder CEO due to a series of […]</description>
+      <pubDate>Wed, 18 Nov 2026 19:30:00 +0000</pubDate>
+      <guid>https://www.theverge.com/tech/1035924/nvidia-visualized-revenue-profit-earnings-after-huang</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>Sony’s impressive Bravia 8 II OLED hits a new low price ahead of Black Friday</title>
+      <link>https://www.theverge.com/gadgets/1036693/sony-bravia-8-ii-oled-black-friday-2026-deal-sale</link>
+      <description>Black Friday is a great time to save on a new OLED television for your winter movie nights. Though, it turns out that you can already get a great deal on the 65-inch Sony Bravia 8 II, one of our favorite OLED televisions. It’s currently discounted by $1,100 at various retailers, including Amazon, Best Buy, […]</description>
+      <pubDate>Wed, 18 Nov 2026 19:30:00 +0000</pubDate>
+      <guid>https://www.theverge.com/gadgets/1036693/sony-bravia-8-ii-oled-black-friday-2026-deal-sale</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>Spend management platform Payhawk announces $280M raise, 2B valuation</title>
+      <link>https://techcrunch.com/2026/11/18/spend-management-platform-payhawk-announces-280m-raise-2b-valuation/</link>
+      <description>Founded in 2018, Payhawk is an enterprise financial management platform that helps companies track and manage expenses and procurement using AI agents.</description>
+      <pubDate>Wed, 18 Nov 2026 19:29:41 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/11/18/spend-management-platform-payhawk-announces-280m-raise-2b-valuation/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>Instagram now lets you edit your stories after you post them</title>
+      <link>https://www.theverge.com/tech/1036941/instagram-now-lets-you-edit-your-stories-after-you-post-them</link>
+      <description>Instagram's latest update will allow you to edit your Stories without losing your views, likes, or replies. You can now edit the text, music, stickers, and drawings for up to 15 minutes after sharing your Story, Instagram head Adam Mosseri has announced. Reverse engineer Alessandro Paluzzi first spotted Instagram working on this feature in April, […]</description>
+      <pubDate>Wed, 18 Nov 2026 19:29:10 +0000</pubDate>
+      <guid>https://www.theverge.com/tech/1036941/instagram-now-lets-you-edit-your-stories-after-you-post-them</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>ИИ советует. Врач отвечает</title>
+      <link>https://habr.com/ru/articles/1109602/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1109602</link>
+      <description>Более 4 тысяч медицинских организаций, 55 регионов, свыше 300 тысяч врачей. Таков масштаб российской платформы Webiomed. Ежедневно её алгоритмы обрабатывают до миллиона электронных медицинских карт. Рекомендации готовит алгоритм, последняя подпись и ответственность – за врачом. По данным РЕД СОФТ , серверная инфраструктура Webiomed работает на отечественной РЕД ОС, сертифицированной ФСТЭК России и допущенной к применению на объектах критической информационной инфраструктуры. ИИ не становится сам</description>
+      <pubDate>Wed, 18 Nov 2026 19:28:48 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1109602/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1109602</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Не только для гадания: биотопливо из кофейной гущи</title>
-      <link>https://habr.com/ru/companies/ua-hosting/articles/1108800/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1108800</link>
-      <description>У каждого в семье либо среди знаком есть хотя бы один человек, который будет 10 лет хранить кусок проволоки «на всякий случай / а вдруг пригодится / каши не просит». И мало что сравниться с самодовольной улыбкой этого человека, когда такой завалявшийся предмет таки пригодился, хоть и спустя продолжительное время. Идея повторного использования чего-либо, имевшего одну функцию и назначения, для другого назначения не является новой. Переработка бумаги, пластика и стекла — все это стало весьма обыде</description>
-      <pubDate>Wed, 18 Nov 2026 10:45:07 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/ua-hosting/articles/1108800/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1108800</guid>
+      <title>Какой сервер Aéza нужен вашему проекту: VPS, Storage VPS или Dedicated</title>
+      <link>https://habr.com/ru/articles/1109598/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1109598</link>
+      <description>В тарифах у Aéza на VPS, Storage VPS и Dedicated Server стоят похожие цифры: ядра, гигабайты памяти, объём диска. По ним трудно понять, что подойдёт сайту, базе данных, архиву копий или игровому серверу. Когда сайт тормозит, рука тянется к тарифу с большим числом ядер, хотя приложение, возможно, просто ждёт записи на диск. Поэтому прежде чем решать, какой VPS выбрать или не пора ли на физическую машину, лучше посмотреть, на что у проекта уходит время. Иногда лучшим решением оказывается не новый </description>
+      <pubDate>Wed, 18 Nov 2026 19:18:42 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1109598/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1109598</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
   </channel>
