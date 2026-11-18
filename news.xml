@@ -5,88 +5,88 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Wed, 18 Nov 2026 02:10:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 11:12:36 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future deals in doubt</title>
-      <link>https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/</link>
-      <description>The value of Nvidia’s private investments has nearly tripled over the past nine months, fueled by Jensen Huang’s aggressive dealmaking and rising valuations of its existing portfolio companies.</description>
-      <pubDate>Wed, 18 Nov 2026 01:44:21 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>Nvidia promises that revenue will keep soaring — for now</title>
-      <link>https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/</link>
-      <description>Despite the turmoil Nvidia is in after the departure of its disgraced founder and CEO Jensen Huang, the company projected that its streak of record-breaking revenue isn't about to stop.</description>
-      <pubDate>Wed, 18 Nov 2026 00:16:50 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>Satya Nadella says he’s AGI-pilled now</title>
-      <link>https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now</link>
-      <description>Microsoft CEO Satya Nadella says he's AGI-pilled, at least when it comes to how AI might make startling changes to the structure of the economy and how politics might change because of it. "I am AGI-pilled in the sense that at an economy level, what is the political economy's organization around AGI?" he asked at […]</description>
-      <pubDate>Tue, 17 Nov 2026 23:41:18 +0000</pubDate>
-      <guid>https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit</title>
-      <link>https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/</link>
-      <description>Nvidia's interim CEO reaffirmed its open source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure.</description>
-      <pubDate>Tue, 17 Nov 2026 23:04:35 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>Мы каждый день разговариваем со всеми знаниями человечества. Но становимся ли мы умнее?</title>
-      <link>https://habr.com/ru/articles/1109138/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1109138</link>
-      <description>Иногда я открываю диалог с искусственным интеллектом, формулирую вопрос и вдруг понимаю, что уже знаю ответ. Но всё равно нажимаю Enter. Зачем? Мне не хватает знаний, уверенности в собственных мыслях или я просто привык, что рядом всегда есть кто-то, кто готов со мной согласиться? За один день я могу обсудить с нейросетью архитектуру собственного кодека, обучение искусственного нейронного организма, устройство иммунной системы и ремонт протёкшего автомобильного бака. И каждый раз получаю ответ. </description>
-      <pubDate>Tue, 17 Nov 2026 22:57:33 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1109138/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1109138</guid>
+      <title>Минпромторг предложил ввести авиасбор для поддержки поставок самолётов</title>
+      <link>https://habr.com/ru/articles/1109332/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1109332</link>
+      <description>Минпромторг РФ подготовил пакет законопроектов, предусматривающих введение авиапромышленного сбора. Деньги от него планируют направлять на поддержку поставок, льготного лизинга и технической эксплуатации новых российских гражданских самолётов. Об этом говорится в материалах министерства, сообщает ТАСС. Читать далее</description>
+      <pubDate>Wed, 18 Nov 2026 11:10:29 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1109332/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1109332</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Astra 6.2, Qwen 4, Fable 5.2 и Opus 5.5: нейросети снова соревнуются, а теперь ещё и судят друг друга</title>
-      <link>https://habr.com/ru/articles/1109134/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1109134</link>
-      <description>Моё субъективное сравнение топовых нейронок продолжается. В сентябре я выложил на Хабр «Турнир семи нейросетей»: 7 моделей, 8 заданий и три редакции статьи за неделю. Скажу честно: вышло неудачно. Но останавливаться не собираюсь: после ваших комментариев хочется сделать следующее сравнение лучше, а ошибки — часть пути. Читать далее</description>
-      <pubDate>Tue, 17 Nov 2026 22:51:01 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1109134/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1109134</guid>
+      <title>«LLM без OCR в обработке документов не работает»: как «АльфаСтрахование» построила IDP-оркестратор с ИИ Smart Engines</title>
+      <link>https://habr.com/ru/companies/smartengines/articles/1108732/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1108732</link>
+      <description>Ежегодно «АльфаСтрахование» обрабатывает порядка 40 млн документов. За последние десять лет компания прошла путь от потокового сканирования и распознавания штрихкодов до собственной платформы интеллектуальной обработки документов (IDP), объединяющей OCR, машинное обучение и большие языковые модели. Сегодня эти технологии помогают автоматизировать десятки бизнес-процессов, справляться с растущими объемами документов без расширения штата и обеспечивать экономический эффект в десятки миллионов рубл</description>
+      <pubDate>Wed, 18 Nov 2026 11:07:46 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/smartengines/articles/1108732/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1108732</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Read everything that Nvidia’s board chair had to say about Jensen Huang</title>
-      <link>https://www.theverge.com/tech/1036160/nvidia-earnings-harvey-c-jones-jensen-huang</link>
-      <description>Nvidia's quarterly earnings call on Tuesday was its first with CFO and interim CEO Colette Kress at the helm alongside the company's first board chair, Harvey C. Jones. The leadership change followed Jensen Huang's resignation last week after reports he had multiple affairs - including one with former Megaspeed executive and alleged Chinese asset Alice […]</description>
-      <pubDate>Tue, 17 Nov 2026 22:32:50 +0000</pubDate>
-      <guid>https://www.theverge.com/tech/1036160/nvidia-earnings-harvey-c-jones-jensen-huang</guid>
+      <title>Grand Theft Auto VI has arrived</title>
+      <link>https://www.theverge.com/entertainment/1035847/grand-theft-auto-6-launch-review-news</link>
+      <description>More than a decade after Grand Theft Auto V was first released, its sequel is finally launching. On November 19th, GTA VI will be available on both the PS5 and Xbox Series X / S, and it’s quite possibly the most anticipated video game launch of all time. Part of this has to do with […]</description>
+      <pubDate>Wed, 18 Nov 2026 11:06:16 +0000</pubDate>
+      <guid>https://www.theverge.com/entertainment/1035847/grand-theft-auto-6-launch-review-news</guid>
       <category>The Verge</category>
     </item>
     <item>
-      <title>Amazon and Google will together own nearly 30% of Anthropic after its IPO</title>
-      <link>https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/</link>
-      <description>Amazon will own just under 15% of Anthropic after the IPO, with the option to go much higher. Google is a close second with holdings of nearly 14%.</description>
-      <pubDate>Tue, 17 Nov 2026 22:29:05 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/</guid>
+      <title>Grand Theft Auto VI does something impossible — it lives up to the hype</title>
+      <link>https://www.theverge.com/games/1035801/grand-theft-auto-6-review</link>
+      <description>How do you follow a game like Grand Theft Auto V? Thirteen years ago, Rockstar's crime-fueled epic went on to redefine what an open-world game could be and became an enormous success, selling more than 230 million copies across three generations of game consoles. It sits just behind Tetris and Minecraft on the list of […]</description>
+      <pubDate>Wed, 18 Nov 2026 11:00:00 +0000</pubDate>
+      <guid>https://www.theverge.com/games/1035801/grand-theft-auto-6-review</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>‘It’s a risk’: How Rockstar built the most detailed (and romantic) GTA yet</title>
+      <link>https://www.theverge.com/entertainment/1035806/grand-theft-auto-6-rob-nelson-interview</link>
+      <description>Grand Theft Auto VI isn't just the biggest GTA game to date; it's also the most romantic. Though the series is well known for its sordid assortment of criminal leads, GTA VI switches things up by starring a pair of thieves who also happen to fall in love after meeting while stealing a car. It's […]</description>
+      <pubDate>Wed, 18 Nov 2026 11:00:00 +0000</pubDate>
+      <guid>https://www.theverge.com/entertainment/1035806/grand-theft-auto-6-rob-nelson-interview</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>China dominates battery graphite, but this startup could break the monopoly</title>
+      <link>https://techcrunch.com/2026/11/18/china-dominates-battery-graphite-but-this-startup-could-break-the-monopoly/</link>
+      <description>Chinese companies maintain near total dominance of the graphite industry, but Molten Industries says its new factory in Oakland could spell the end of the monopoly.</description>
+      <pubDate>Wed, 18 Nov 2026 11:00:00 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/11/18/china-dominates-battery-graphite-but-this-startup-could-break-the-monopoly/</guid>
       <category>TechCrunch</category>
     </item>
     <item>
-      <title>[Перевод] Мы всё охотнее миримся с медленной работой программ</title>
-      <link>https://habr.com/ru/articles/1109128/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1109128</link>
-      <description>Недавно Дэн Лу опубликовал статью «Теперь ничто не мешает программам быть быстрыми» ( перевод на Хабре). В ней он рассуждает о том, насколько благодаря большим языковым моделям (LLM) подешевели самые разные задачи: от разработки специализированных решений — например, JIT‑компиляторов и индексов для поиска — до оптимизации под конкретную рабочую нагрузку. «Мы пока не настолько продвинулись, чтобы захотеть писать всё на ассемблере, но нечто похожее на то, что Нолан Лоусон сказал о тестировании — т</description>
-      <pubDate>Tue, 17 Nov 2026 22:28:34 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1109128/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1109128</guid>
+      <title>Плагин для AQA которые любят глазами</title>
+      <link>https://habr.com/ru/articles/1108624/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1108624</link>
+      <description>Лагерь автоматизаторов делится, как мне кажется, на две части. Первые запускают тесты из консоли, вторые нажимают на кнопки в IDE создавая бесчисленные конфигурации Run, третьи появились пока я писал это предложение и ничего уже не делают руками, а говорят бездушной машине в голосовом чате что запустить, какую задачу закрыть, попивая кокосовый на миндальном в перемешку с антидепрессантами. Но представим что все токены, о неет, закончились и нужно вспомнить молодость пойдя в рукопашную запускать </description>
+      <pubDate>Wed, 18 Nov 2026 10:57:38 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1108624/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1108624</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>iFixit’s Apple HomeView teardown reveals a device that will be difficult to repair</title>
-      <link>https://www.theverge.com/tech/1036045/ifixit-teardown-apple-homeview-smart-home-hub</link>
-      <description>After finding recent versions of Apple's iPads and HomePods much easier to disassemble for battery replacements or other repairs, iFixit assumed it would be the same story for Apple's new HomeView hub that looks like a seven-inch tablet stuck to a smart speaker. The reality was much different and by the time they got the […]</description>
-      <pubDate>Tue, 17 Nov 2026 22:25:41 +0000</pubDate>
-      <guid>https://www.theverge.com/tech/1036045/ifixit-teardown-apple-homeview-smart-home-hub</guid>
-      <category>The Verge</category>
+      <title>Администрация Git-хостинга Codeberg.org сообщила о блокировке домена регистратором</title>
+      <link>https://habr.com/ru/articles/1109328/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1109328</link>
+      <description>18 ноября 2026 года администрация Git‑хостинга Codeberg.org (работает на открытой платформе совместной разработки Forgejo — форка Gitea ), сообщила о недоступности всех сервисов проекта из‑за блокировки домена codeberg.org регистратором NameSilo . Читать далее</description>
+      <pubDate>Wed, 18 Nov 2026 10:52:34 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1109328/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1109328</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>ИИ-агенты, WebSocket и ускорение 1С в 5 раз: пять интересных публикаций Инфостарт</title>
+      <link>https://habr.com/ru/companies/infostart/articles/1109326/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1109326</link>
+      <description>Что, если ИИ сможет не только отвечать на вопросы бухгалтера, но и находить ошибки в документах? Как быстро обнаружить расхождения между двумя базами 1С, подключить нейросеть к реальным данным через MCP и организовать обмен информацией в режиме реального времени? А можно ли выгрузить конфигурацию без платформы и базы - да ещё и в пять раз быстрее штатного механизма? В новой подборке Инфостарт - пять публикаций о технологиях, инструментах и нестандартных решениях, которые открывают новые возможно</description>
+      <pubDate>Wed, 18 Nov 2026 10:46:25 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/infostart/articles/1109326/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1109326</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Не только для гадания: биотопливо из кофейной гущи</title>
+      <link>https://habr.com/ru/companies/ua-hosting/articles/1108800/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1108800</link>
+      <description>У каждого в семье либо среди знаком есть хотя бы один человек, который будет 10 лет хранить кусок проволоки «на всякий случай / а вдруг пригодится / каши не просит». И мало что сравниться с самодовольной улыбкой этого человека, когда такой завалявшийся предмет таки пригодился, хоть и спустя продолжительное время. Идея повторного использования чего-либо, имевшего одну функцию и назначения, для другого назначения не является новой. Переработка бумаги, пластика и стекла — все это стало весьма обыде</description>
+      <pubDate>Wed, 18 Nov 2026 10:45:07 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/ua-hosting/articles/1108800/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1108800</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
   </channel>
 </rss>
