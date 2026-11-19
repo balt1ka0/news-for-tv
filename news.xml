@@ -5,87 +5,87 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Thu, 19 Nov 2026 09:56:37 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 18:53:49 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Гендиректор Microsoft Сатья Наделла объяснил, почему компания предложила 60 тысячам сотрудников уволиться</title>
-      <link>https://habr.com/ru/articles/1109798/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1109798</link>
-      <description>В конце прошлого месяца директор по персоналу Microsoft Эми Коулман направила 60 тыс. сотрудникам (27% персонала) предложение добровольно уволиться за денежную компенсацию. Теперь генеральный директор IT‑гиганта Сатья Наделла объяснил это предложение стремлением Microsoft перестроиться в компанию, где каждый использует искусственный интеллект для выполнения своей работы, а сами должностные обязанности сотрудников сводятся к управлению этим ИИ. Он подчеркнул, что корпорация не собирается заменять</description>
-      <pubDate>Thu, 19 Nov 2026 09:55:15 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1109798/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1109798</guid>
+      <title>“Мы прогорели” — еще одна история “story stock”</title>
+      <link>https://habr.com/ru/articles/1107900/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107900</link>
+      <description>Это история одного стартапа, высмеивающая бизнес на хайпе. Путь стартапа иллюстрирует риски стартапов, основанных на инновационных, но неустойчивых бизнес-моделях. Читать далее</description>
+      <pubDate>Thu, 19 Nov 2026 18:35:03 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1107900/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107900</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Beget потерял данные клиентов после кибератаки. Кто возместит убытки?</title>
-      <link>https://habr.com/ru/companies/aglegal/articles/1109792/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1109792</link>
-      <description>В начале ноября хостинг-провайдер Beget подвергся кибератаке. Часть клиентов потеряла не только доступ к серверам, но и возможность восстановить данные из резервных копий. Для бизнеса это не просто временный простой сайта, а потеря заказов, клиентских баз и результатов многолетней работы. Но кто должен компенсировать такие потери? По SLA ответственность провайдера может ограничиваться стоимостью нескольких месяцев обслуживания, даже если реальный ущерб клиента исчисляется миллионами. Российские </description>
-      <pubDate>Thu, 19 Nov 2026 09:44:04 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/aglegal/articles/1109792/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1109792</guid>
+      <title>Sonos is taking up to 30 percent off speakers and soundbars right now</title>
+      <link>https://www.theverge.com/gadgets/1037042/sonos-black-friday-2026-speaker-soundbar-deals-sale</link>
+      <description>Sonos speakers and soundbars aren’t exactly cheap, but thankfully the company’s Black Friday sale has already begun, making everything a little easier to afford through November 30th. Most notably, you can pick up the Arc Ultra soundbar for a new low of $849 ($250 off) from Sonos, Amazon, and Best Buy, or the newfangled Sonos […]</description>
+      <pubDate>Thu, 19 Nov 2026 18:33:08 +0000</pubDate>
+      <guid>https://www.theverge.com/gadgets/1037042/sonos-black-friday-2026-speaker-soundbar-deals-sale</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>Leaked images reveal Motorola’s wide foldable</title>
+      <link>https://www.theverge.com/tech/1037848/motorola-razr-flex-wide-foldable-folding-smartphone-android-leak</link>
+      <description>New leaked images of Motorola's next folding smartphone shared by SammyGuru add more credence to the theory that widescreen could be the default design for foldables moving forward. Following a single leaked shot shared to Reddit yesterday, this new crop of images reveal the Motorola Razr Flex from several angles in two finishes with its […]</description>
+      <pubDate>Thu, 19 Nov 2026 18:19:03 +0000</pubDate>
+      <guid>https://www.theverge.com/tech/1037848/motorola-razr-flex-wide-foldable-folding-smartphone-android-leak</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>Oh, Elon Musk is ‘moderate’ now, is he?</title>
+      <link>https://www.theverge.com/policy/1037804/elon-musk-maga-dealbook</link>
+      <description>A little less than two years ago, Elon Musk stood onstage at the Conservative Political Action Conference, sunglasses on, black MAGA hat perched atop his head, wielding a chainsaw. Last night, Musk called in to The New York Times DealBook Summit and distanced himself from President Donald Trump's movement. "I think I'm ideologically quite moderate. […]</description>
+      <pubDate>Thu, 19 Nov 2026 18:15:00 +0000</pubDate>
+      <guid>https://www.theverge.com/policy/1037804/elon-musk-maga-dealbook</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>Apple’s iPhone camera leader has reportedly left the company</title>
+      <link>https://www.theverge.com/tech/1037846/apple-jon-mccormack-retired-iphone-camera</link>
+      <description>Jon McCormack, Apple's vice president of camera software engineering, left the company last month, Bloomberg reports. Its sources say McCormack retired "at the end of October after more than eight years at the company." Apple reportedly has not yet named a new VP to step in for McCormack, who oversaw its Camera and Photos apps, […]</description>
+      <pubDate>Thu, 19 Nov 2026 18:13:05 +0000</pubDate>
+      <guid>https://www.theverge.com/tech/1037846/apple-jon-mccormack-retired-iphone-camera</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>Премию «Просветитель» присудили за книги об исторической демографии Японии и загадках, раскрытых благодаря растениям</title>
+      <link>https://nplus1.ru/news/2026/11/19/prosvetitel-2026</link>
+      <description>Организаторы премии «Просветитель», которая ежегодно вручается авторам лучших научно-популярных книг на русском языке, объявили победителей 2026 года. В номинации «Естественные и точные науки» лауреатом стал эколог Денис Новиков, автор книги «О годичных кольцах и пыльце: истории о прошлом человечества глазами растений», а в номинации «Гуманитарные науки» — историк-японист Денис Мещеряков с книгой «Безымянная Япония: демографическое, историческое и человеческое измерение». За церемонией награжден</description>
+      <pubDate>Thu, 19 Nov 2026 18:13:00 +0000</pubDate>
+      <guid>https://nplus1.ru/news/2026/11/19/prosvetitel-2026</guid>
+      <category>N + 1 — главное издание о науке, технике и технологиях</category>
+    </item>
+    <item>
+      <title>Google gives Gemini the ability to use your Mac for you</title>
+      <link>https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/</link>
+      <description>Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows.</description>
+      <pubDate>Thu, 19 Nov 2026 18:09:11 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>Еще одна звонилка или как я создал Nimbo</title>
+      <link>https://habr.com/ru/articles/1110052/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110052</link>
+      <description>Хотел просто играть с друзьями, а в итоге с ИИ собрал свою говорилку. По дороге пришлось кормить шумодав яблоком, разбираться, почему клиент держит начинает кушать ОЗУ после выключения камеры больше, и отправлять агентов ломать собственный сервер Читать далее</description>
+      <pubDate>Thu, 19 Nov 2026 18:06:16 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1110052/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110052</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Разговоры с СТО: вайб-кодинг в банке или почему мы не уволим разработчиков и не отдадим всё ИИ</title>
-      <link>https://habr.com/ru/companies/svoi_ru/articles/1109790/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1109790</link>
-      <description>Продолжаю разговоры с СТО и публикации рассуждений об автоматизации и ИИ в банковской разработке. Ранее мы с Максимом Гречихо, техническим директором Своего Банка , уже разбирали роль новых технологий и трансформацию инженерных процессов в финтехе. В это раз за утренним кофе мы остановились на одной из самых хайповых тем последних месяцев — вайб-кодинге и где здесь реальная польза для бизнеса, а где кроются опасные иллюзии. Читать далее</description>
-      <pubDate>Thu, 19 Nov 2026 09:40:20 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/svoi_ru/articles/1109790/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1109790</guid>
-      <category>Все публикации подряд на Хабре</category>
+      <title>Amazon is pushing alerts opposing NYC’s Delivery Protection Act</title>
+      <link>https://www.theverge.com/tech/1037813/amazon-is-pushing-alerts-to-shoppers-opposing-nycs-delivery-protection-act</link>
+      <description>Amazon is serving up push notifications and banners on its home page to some users, warning that a new bill could add up to $5 per order in New York City. The Delivery Protection Act, which is backed by Mayor Zohran Mamdani and a number of labor groups, including the Teamsters, would require Amazon to […]</description>
+      <pubDate>Thu, 19 Nov 2026 17:58:01 +0000</pubDate>
+      <guid>https://www.theverge.com/tech/1037813/amazon-is-pushing-alerts-to-shoppers-opposing-nycs-delivery-protection-act</guid>
+      <category>The Verge</category>
     </item>
     <item>
-      <title>Вторая модель проверяет ответ ИИ-консультанта до отправки: как это устроено и чем за это платишь</title>
-      <link>https://habr.com/ru/articles/1109788/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1109788</link>
-      <description>В Konsul, моём ИИ-консультанте по сайту компании, ответ можно пропускать через вторую модель. Она сверяет каждое утверждение о компании с найденными источниками. Если хоть что-то не подтвердилось, клиент этот ответ не увидит: он получит отказ, а диалог уйдёт сотруднику. Одна проверка стоит около 0,08 ₽ — это расчёт, на живом трафике я его ещё не сверял. И по умолчанию проверка выключена. Ниже — что с чем сверяется, когда ответ считается подтверждённым, что видит клиент, почему ответ больше не пе</description>
-      <pubDate>Thu, 19 Nov 2026 09:35:15 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1109788/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1109788</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Apple выбрала 45 лучших приложений и игр для премии App Store Awards 2026 года</title>
-      <link>https://habr.com/ru/articles/1109748/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1109748</link>
-      <description>Apple назвала номинантов ежегодной премии App Store Awards, которой отмечают лучшие приложения во всей экосистеме компании. Номинации охватывают все устройства Apple, включая iPhone, iPad, Mac, Apple Watch, Apple TV и Apple Vision Pro. Победители будут объявлены в ближайшие недели. Читать далее</description>
-      <pubDate>Thu, 19 Nov 2026 09:27:09 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1109748/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1109748</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Если самый популярный язык в мире — Python, почему фронтенд пишут на JavaScript?</title>
-      <link>https://habr.com/ru/companies/X5Tech/articles/1109652/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1109652</link>
-      <description>В любой компании, где есть аналитика и машинное обучение, повторяется один сценарий. Дата-сайентист обучает модель, скажем, прогноз спроса на какой-то товар в магазине. Метрики хорошие, модель готова. Теперь прогноз нужно вывести в интерфейс, где с ним смогут работать аналитики и категорийные менеджеры. Нужны поле ввода, таблица и график. Но интерфейс на Python просто так не сделать. Придётся либо осваивать JavaScript и React, либо брать промежуточный инструмент и разбираться, где он работает, а</description>
-      <pubDate>Thu, 19 Nov 2026 09:22:06 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/X5Tech/articles/1109652/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1109652</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Почтовый AI-ассистент на Python: текст, фото и голос через одного провайдера</title>
-      <link>https://habr.com/ru/articles/1109558/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1109558</link>
-      <description>Разбираем основные механики ИИ-агентов на Python на примере почтового ассистента с веб-интерфейсом на FastAPI и OpenAI Agents SDK. Подключаем текст, изображения, распознавание и синтез речи через одного провайдера. Показываем, как агент вызывает Python-инструменты, читает письма, создаёт задачи и готовит ответы с подтверждением перед отправкой. Разбираем историю диалога, стриминг и работу с почтой через IMAP и SMTP. Все исходники на GitHub. Читать далее</description>
-      <pubDate>Thu, 19 Nov 2026 09:16:08 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1109558/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1109558</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Google представил Gemini 4 Neon — четвёртую модель семейства Gemini 4</title>
-      <link>https://habr.com/ru/companies/gptunnel/articles/1109770/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1109770</link>
-      <description>Google выпустил Gemini 4 Neon. Это уже четвёртая модель в линейке Gemini 4, и Google позиционирует её как баланс глубины и эффективности: Carbon — для самых сложных проектов, Hydrogen — для быстрой повседневной работы, а Neon — между ними . Но подождите минутку! Если Carbon, Argon и Hydrogen у вас уже есть — зачем вам ещё и Neon? И правда ли, что он «как Carbon, только быстрее»? Теоретически правда лишь отчасти. Практически — давайте разбираться по цифрам. Читать далее</description>
-      <pubDate>Thu, 19 Nov 2026 09:13:01 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/gptunnel/articles/1109770/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1109770</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Ubuntu 26.10 после релиза: известные проблемы и рекомендации</title>
-      <link>https://habr.com/ru/companies/cloud4y/articles/1109762/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1109762</link>
-      <description>Новые возможности — это здорово, но промежуточный релиз — ещё и проверка того, насколько ваша инфраструктура готова к переменам. Ниже — карта того, где в 26.10 уже расставлены предупреждающие знаки, а где можно смело двигаться дальше. Читать далее</description>
-      <pubDate>Thu, 19 Nov 2026 09:05:05 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/cloud4y/articles/1109762/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1109762</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Что почистить в Claude Code после того, как вас забанили</title>
-      <link>https://habr.com/ru/articles/1109732/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1109732</link>
-      <description>Разбираю структуру файлов Claude Code: что хранится в ~/.claude.json (userID, machineID, oauthAccount), где лежат токены доступа и резервные копии. Скрипты для Linux, macOS и Windows закрывают процессы, удаляют конфигурацию и учётные данные перед использованием другого аккаунта. Передачу идентификаторов с запросами не проверял — только хранение на диске. Читать далее</description>
-      <pubDate>Thu, 19 Nov 2026 09:04:05 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1109732/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1109732</guid>
+      <title>Цена ошибки: паддинг, чекпоинты на сетевом диске и сторож, который гасил здоровое обучение</title>
+      <link>https://habr.com/ru/articles/1110050/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110050</link>
+      <description>Ошибки бывают в любой настоящей работе. Обычно о них пишут одной строкой где-то между графиками с результатами, а я решил сделать наоборот: собрать наши промахи в одну статью и разобрать их по-инженерному, то есть что именно сломалось, сколько это стоило и что мы после этого поменяли. Во второй статье серии я пообещал рассказать, как арендовал видеокарты в облаке и сжёг на них деньги, почти ничего не посчитав. В третьей напомнил, что обещание в силе. Теперь выполняю. Большая часть статьи про обл</description>
+      <pubDate>Thu, 19 Nov 2026 17:47:19 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1110050/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110050</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
   </channel>
