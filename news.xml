@@ -5,88 +5,88 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Thu, 19 Nov 2026 01:48:55 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 09:56:37 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Google представила Gemini 4 Neon — модель для кодинга и агентных задач</title>
-      <link>https://habr.com/ru/companies/bothub/articles/1109644/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1109644</link>
-      <description>Google представила Gemini 4 Neon — новую модель в семействе Gemini 4. Она находится между Carbon, рассчитанной на сложные и продолжительные проекты, и Hydrogen, которая подходит для быстрых повседневных запросов. Neon ориентирована на задачи, где модели недостаточно просто сгенерировать ответ: нужно разобраться в контексте, использовать инструменты и выполнить несколько последовательных действий. Контекстное окно составляет 1 млн токенов, а глубину рассуждений можно регулировать с помощью четырё</description>
-      <pubDate>Thu, 19 Nov 2026 01:39:32 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/bothub/articles/1109644/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1109644</guid>
+      <title>Гендиректор Microsoft Сатья Наделла объяснил, почему компания предложила 60 тысячам сотрудников уволиться</title>
+      <link>https://habr.com/ru/articles/1109798/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1109798</link>
+      <description>В конце прошлого месяца директор по персоналу Microsoft Эми Коулман направила 60 тыс. сотрудникам (27% персонала) предложение добровольно уволиться за денежную компенсацию. Теперь генеральный директор IT‑гиганта Сатья Наделла объяснил это предложение стремлением Microsoft перестроиться в компанию, где каждый использует искусственный интеллект для выполнения своей работы, а сами должностные обязанности сотрудников сводятся к управлению этим ИИ. Он подчеркнул, что корпорация не собирается заменять</description>
+      <pubDate>Thu, 19 Nov 2026 09:55:15 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1109798/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1109798</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Microsoft CEO Satya Nadella explains why he asked 60K employees to quit</title>
-      <link>https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/</link>
-      <description>Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive layoff. The short answer is AI, but not in the way you might expect.</description>
-      <pubDate>Thu, 19 Nov 2026 00:42:56 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>Elon Musk says: ‘I’m not MAGA’</title>
-      <link>https://techcrunch.com/2026/11/18/elon-musk-says-im-not-maga/</link>
-      <description>During his appearance Wednesday at The New York Times' DealBook Summit, Elon Musk said that he wasn't sure what the term "MAGA" meant and also commented that he felt "pretty foolish" for having spent so much money during the U.S. midterms.</description>
-      <pubDate>Thu, 19 Nov 2026 00:40:49 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/11/18/elon-musk-says-im-not-maga/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’</title>
-      <link>https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/</link>
-      <description>The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world.</description>
-      <pubDate>Wed, 18 Nov 2026 23:45:00 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>Grid и Layout + контроль в Figma</title>
-      <link>https://habr.com/ru/articles/1109640/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1109640</link>
-      <description>Как мы грид в figma пилили, так что бы контролировать через переменные Попробовали 3 подхода: дефолтный Grid, Auto layout grid, и гибрид дефолтного грида + костыли из variables :)) Читать далее</description>
-      <pubDate>Wed, 18 Nov 2026 23:36:29 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1109640/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1109640</guid>
+      <title>Beget потерял данные клиентов после кибератаки. Кто возместит убытки?</title>
+      <link>https://habr.com/ru/companies/aglegal/articles/1109792/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1109792</link>
+      <description>В начале ноября хостинг-провайдер Beget подвергся кибератаке. Часть клиентов потеряла не только доступ к серверам, но и возможность восстановить данные из резервных копий. Для бизнеса это не просто временный простой сайта, а потеря заказов, клиентских баз и результатов многолетней работы. Но кто должен компенсировать такие потери? По SLA ответственность провайдера может ограничиваться стоимостью нескольких месяцев обслуживания, даже если реальный ущерб клиента исчисляется миллионами. Российские </description>
+      <pubDate>Thu, 19 Nov 2026 09:44:04 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/aglegal/articles/1109792/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1109792</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’</title>
-      <link>https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/</link>
-      <description>“I don’t think [Huang is] disloyal to the United States," Musk said.</description>
-      <pubDate>Wed, 18 Nov 2026 23:25:17 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/</guid>
-      <category>TechCrunch</category>
+      <title>Разговоры с СТО: вайб-кодинг в банке или почему мы не уволим разработчиков и не отдадим всё ИИ</title>
+      <link>https://habr.com/ru/companies/svoi_ru/articles/1109790/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1109790</link>
+      <description>Продолжаю разговоры с СТО и публикации рассуждений об автоматизации и ИИ в банковской разработке. Ранее мы с Максимом Гречихо, техническим директором Своего Банка , уже разбирали роль новых технологий и трансформацию инженерных процессов в финтехе. В это раз за утренним кофе мы остановились на одной из самых хайповых тем последних месяцев — вайб-кодинге и где здесь реальная польза для бизнеса, а где кроются опасные иллюзии. Читать далее</description>
+      <pubDate>Thu, 19 Nov 2026 09:40:20 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/svoi_ru/articles/1109790/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1109790</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>The nation’s largest school districts consider ditching Google Search</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google</link>
-      <description>New York, Los Angeles, and Chicago schools are considering Google alternatives after the company said it will disable Search for schools that opt out of its AI features, according to The New York Times. Starting next year, schools will not have the option to disable Gemini-powered features without also disabling Search. Chris Phillips, Google's vice […]</description>
-      <pubDate>Wed, 18 Nov 2026 23:18:35 +0000</pubDate>
-      <guid>https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google</guid>
-      <category>The Verge</category>
+      <title>Вторая модель проверяет ответ ИИ-консультанта до отправки: как это устроено и чем за это платишь</title>
+      <link>https://habr.com/ru/articles/1109788/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1109788</link>
+      <description>В Konsul, моём ИИ-консультанте по сайту компании, ответ можно пропускать через вторую модель. Она сверяет каждое утверждение о компании с найденными источниками. Если хоть что-то не подтвердилось, клиент этот ответ не увидит: он получит отказ, а диалог уйдёт сотруднику. Одна проверка стоит около 0,08 ₽ — это расчёт, на живом трафике я его ещё не сверял. И по умолчанию проверка выключена. Ниже — что с чем сверяется, когда ответ считается подтверждённым, что видит клиент, почему ответ больше не пе</description>
+      <pubDate>Thu, 19 Nov 2026 09:35:15 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1109788/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1109788</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit</title>
-      <link>https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/</link>
-      <description>Microsoft CEO Satya Nadella expressed confidence in Jensen Huang's successor Colette Kress, who is serving as Nvidia's interim CEO.</description>
-      <pubDate>Wed, 18 Nov 2026 23:17:28 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/</guid>
-      <category>TechCrunch</category>
+      <title>Apple выбрала 45 лучших приложений и игр для премии App Store Awards 2026 года</title>
+      <link>https://habr.com/ru/articles/1109748/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1109748</link>
+      <description>Apple назвала номинантов ежегодной премии App Store Awards, которой отмечают лучшие приложения во всей экосистеме компании. Номинации охватывают все устройства Apple, включая iPhone, iPad, Mac, Apple Watch, Apple TV и Apple Vision Pro. Победители будут объявлены в ближайшие недели. Читать далее</description>
+      <pubDate>Thu, 19 Nov 2026 09:27:09 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1109748/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1109748</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Satya Nadella predicts AI agents will reshuffle the economics of the web</title>
-      <link>https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/</link>
-      <description>Microsoft's CEO says AI agents could disrupt advertising-driven business models, forcing companies like Amazon to rethink how they compete for customers.</description>
-      <pubDate>Wed, 18 Nov 2026 22:58:11 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/</guid>
-      <category>TechCrunch</category>
+      <title>Если самый популярный язык в мире — Python, почему фронтенд пишут на JavaScript?</title>
+      <link>https://habr.com/ru/companies/X5Tech/articles/1109652/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1109652</link>
+      <description>В любой компании, где есть аналитика и машинное обучение, повторяется один сценарий. Дата-сайентист обучает модель, скажем, прогноз спроса на какой-то товар в магазине. Метрики хорошие, модель готова. Теперь прогноз нужно вывести в интерфейс, где с ним смогут работать аналитики и категорийные менеджеры. Нужны поле ввода, таблица и график. Но интерфейс на Python просто так не сделать. Придётся либо осваивать JavaScript и React, либо брать промежуточный инструмент и разбираться, где он работает, а</description>
+      <pubDate>Thu, 19 Nov 2026 09:22:06 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/X5Tech/articles/1109652/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1109652</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Anthropic reportedly prices IPO at $83 a share, above projected range</title>
-      <link>https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/</link>
-      <description>The long-awaited IPO reportedly values the company at $1.5 trillion on a fully diluted basis.</description>
-      <pubDate>Wed, 18 Nov 2026 22:11:15 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/</guid>
-      <category>TechCrunch</category>
+      <title>Почтовый AI-ассистент на Python: текст, фото и голос через одного провайдера</title>
+      <link>https://habr.com/ru/articles/1109558/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1109558</link>
+      <description>Разбираем основные механики ИИ-агентов на Python на примере почтового ассистента с веб-интерфейсом на FastAPI и OpenAI Agents SDK. Подключаем текст, изображения, распознавание и синтез речи через одного провайдера. Показываем, как агент вызывает Python-инструменты, читает письма, создаёт задачи и готовит ответы с подтверждением перед отправкой. Разбираем историю диалога, стриминг и работу с почтой через IMAP и SMTP. Все исходники на GitHub. Читать далее</description>
+      <pubDate>Thu, 19 Nov 2026 09:16:08 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1109558/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1109558</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Google представил Gemini 4 Neon — четвёртую модель семейства Gemini 4</title>
+      <link>https://habr.com/ru/companies/gptunnel/articles/1109770/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1109770</link>
+      <description>Google выпустил Gemini 4 Neon. Это уже четвёртая модель в линейке Gemini 4, и Google позиционирует её как баланс глубины и эффективности: Carbon — для самых сложных проектов, Hydrogen — для быстрой повседневной работы, а Neon — между ними . Но подождите минутку! Если Carbon, Argon и Hydrogen у вас уже есть — зачем вам ещё и Neon? И правда ли, что он «как Carbon, только быстрее»? Теоретически правда лишь отчасти. Практически — давайте разбираться по цифрам. Читать далее</description>
+      <pubDate>Thu, 19 Nov 2026 09:13:01 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/gptunnel/articles/1109770/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1109770</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Ubuntu 26.10 после релиза: известные проблемы и рекомендации</title>
+      <link>https://habr.com/ru/companies/cloud4y/articles/1109762/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1109762</link>
+      <description>Новые возможности — это здорово, но промежуточный релиз — ещё и проверка того, насколько ваша инфраструктура готова к переменам. Ниже — карта того, где в 26.10 уже расставлены предупреждающие знаки, а где можно смело двигаться дальше. Читать далее</description>
+      <pubDate>Thu, 19 Nov 2026 09:05:05 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/cloud4y/articles/1109762/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1109762</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Что почистить в Claude Code после того, как вас забанили</title>
+      <link>https://habr.com/ru/articles/1109732/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1109732</link>
+      <description>Разбираю структуру файлов Claude Code: что хранится в ~/.claude.json (userID, machineID, oauthAccount), где лежат токены доступа и резервные копии. Скрипты для Linux, macOS и Windows закрывают процессы, удаляют конфигурацию и учётные данные перед использованием другого аккаунта. Передачу идентификаторов с запросами не проверял — только хранение на диске. Читать далее</description>
+      <pubDate>Thu, 19 Nov 2026 09:04:05 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1109732/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1109732</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
   </channel>
 </rss>
