@@ -5,87 +5,87 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Fri, 20 Nov 2026 01:03:49 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 08:21:59 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Apple may be developing its own AI agent that runs your Mac</title>
-      <link>https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/</link>
-      <description>The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.</description>
-      <pubDate>Fri, 20 Nov 2026 00:56:01 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO</title>
-      <link>https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/</link>
-      <description>At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.</description>
-      <pubDate>Fri, 20 Nov 2026 00:43:50 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>Anthropic rival says companies can (mostly) skip the pricey models</title>
-      <link>https://techcrunch.com/2026/11/19/anthropic-rival-says-companies-can-mostly-skip-the-pricey-models/</link>
-      <description>On the day Anthropic went public, Fireworks AI’s co-founder made the case for open-source models as a cheaper alternative, and addressed the breaches that have cost the company some customers’ trust.</description>
-      <pubDate>Fri, 20 Nov 2026 00:26:03 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/11/19/anthropic-rival-says-companies-can-mostly-skip-the-pricey-models/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>Experimental compound burns fat without sacrificing muscle</title>
-      <link>https://www.sciencedaily.com/releases/2026/11/261118073918.htm</link>
-      <description>Researchers at UC Berkeley have identified a compound that could transform weight-loss treatment by helping the body burn more energy instead of suppressing appetite like Ozempic and Wegovy. In mice, the compound boosted energy expenditure by up to 18%, improved blood sugar control, reduced liver fat, and promoted weight loss without significant muscle loss. Even more promising, combining it with existing GLP-1 medications produced greater benefits than either treatment alone.</description>
-      <pubDate>Fri, 20 Nov 2026 00:19:49 +0000</pubDate>
-      <guid>https://www.sciencedaily.com/releases/2026/11/261118073918.htm</guid>
-      <category>All Top News -- ScienceDaily</category>
-    </item>
-    <item>
-      <title>Elon Musk says SpaceX has a plan to eliminate cell phone dead zones</title>
-      <link>https://techcrunch.com/2026/11/19/elon-musk-says-spacex-has-a-plan-to-eliminate-cell-phone-dead-zones/</link>
-      <description>SpaceX CEO Elon Musk said the company has completed the design of a miniature rooftop cell tower that could provide better coverage to mobile phones and eliminate dead zones.</description>
-      <pubDate>Thu, 19 Nov 2026 23:37:56 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/11/19/elon-musk-says-spacex-has-a-plan-to-eliminate-cell-phone-dead-zones/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>Want to see your live AI usage on your Mac’s icons? This clever new app lets you</title>
-      <link>https://techcrunch.com/2026/11/19/want-to-see-your-live-ai-usage-on-your-macs-icons-this-clever-new-app-lets-you/</link>
-      <description>IconSwapper brings your Mac's app icons to life with real-time data, animations, and playful customizations that make your desktop more fun.</description>
-      <pubDate>Thu, 19 Nov 2026 22:33:26 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/11/19/want-to-see-your-live-ai-usage-on-your-macs-icons-this-clever-new-app-lets-you/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>Сравнение риск-ориентированных методов планирования пути четвероногого робота на вероятностной карте проходимости</title>
-      <link>https://habr.com/ru/articles/1110108/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110108</link>
-      <description>Рассматривается задача планирования пути четвероногого робота в недетерминированной среде, представленной вероятностной картой проходимости. Для шагающего робота кратчайший путь не всегда безопасен: уклон поверхности, неровности рельефа и высота препятствий могут привести к потере устойчивости. В работе предложена единая постановка задачи и методика сравнения риск-ориентированных планировщиков: базового алгоритма A* по кратчайшему пути, A* с вероятностно-взвешенной стоимостью, планирования с вер</description>
-      <pubDate>Thu, 19 Nov 2026 22:32:42 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1110108/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110108</guid>
+      <title>Число заявок от женщин на регистрацию товарных знаков выросло на 19%</title>
+      <link>https://habr.com/ru/companies/onlinepatent/articles/1110208/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110208</link>
+      <description>"Рост числа заявок на товарные знаки может говорить о том, что предпринимательницы все чаще строят планы на долгосрочное развитие бизнеса. Пока компания небольшая, защита бренда не всегда кажется приоритетом. Но с выходом на новые рынки, развитием продаж или запуском франшизы товарный знак становится важным бизнес-инструментом. Это уже не просто юридическая формальность, а способ защитить то, во что предприниматель вкладывает время и ресурсы", - рассказала генеральный директор компании "Онлайн п</description>
+      <pubDate>Fri, 20 Nov 2026 08:16:30 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/onlinepatent/articles/1110208/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110208</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Apple is hiring engineers to build its own AI agent</title>
-      <link>https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing</link>
-      <description>Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a job listing spotted by Bloomberg, which says Apple is looking for an engineer to lead the creation of an agentic AI assistant. […]</description>
-      <pubDate>Thu, 19 Nov 2026 22:31:41 +0000</pubDate>
-      <guid>https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>[Перевод] Следующий флагманский космический телескоп (возможно) ответит на главный вопрос: «Одни ли мы во Вселенной?»</title>
-      <link>https://habr.com/ru/articles/1110106/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110106</link>
-      <description>Итан Сигел (американский астрофизик‑теоретик и научный журналист, автор рубрики «Спросите Итана», один из пропагандистов современных научных знаний), делает предположение, когда и как мы сможем обнаружить жизнь в иных звёздных системах. И подталкивает учёных и лиц, принимающих решение о финансировании космических программ: не экономьте, не ужимайтесь, ещё немного, и мы предъявим человечеству первую обитаемую экзопланету... @avshkol сделал перевод этой статьи для всех, кто следит за успехами суще</description>
-      <pubDate>Thu, 19 Nov 2026 22:19:39 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1110106/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110106</guid>
+      <title>Как связывают кошельки по общему плательщику комиссии: метод трассировки</title>
+      <link>https://habr.com/ru/articles/1110206/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110206</link>
+      <description>Тот, кто прячет украденную крипту, обычно хорошо думает о суммах и маршрутах. Дробит, гоняет через одноразовые кошельки, смешивает с чужими деньгами. И почти всегда хуже думает о том, кто платит за все эти переводы. Разберу, как одна эта деталь связывает «независимые» кошельки и как я пользуюсь ею в расследованиях, включая случаи, когда она врет. Читать далее</description>
+      <pubDate>Fri, 20 Nov 2026 08:15:00 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1110206/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110206</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Нескучные тесты локальных LLM</title>
-      <link>https://habr.com/ru/articles/1110104/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110104</link>
-      <description>Очередная статья с очередными тестами локальных LLM. Однако вместо трекера задач, клона Minecraft или исправления багов в вашем проекте, наши ИИ модели будут писать на ANSI C, рисовать фракталы на видеокарте и даже проектировать печатные платы! Читать далее</description>
-      <pubDate>Thu, 19 Nov 2026 22:04:30 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1110104/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110104</guid>
+      <title>Зачем изучать ассемблер, если писать на нём вы не будете?</title>
+      <link>https://habr.com/ru/companies/bhv_publishing/articles/1110196/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110196</link>
+      <description>Ассемблер — всё. Так, по крайней мере, считают сейчас многие. Ну, не совсем всё: микроконтроллеры и устройства system-on-chip сейчас переживают свою эпоху ренессанса, однако это — отдельная область, не пересекающаяся с «большой» разработкой. А вот на десктопе и сервере всё действительно выглядит так, будто ассемблер можно списать в архив. Современные инструменты давно генерируют код не хуже среднего программиста, а часто и лучше хорошего. Ресурсов хватает с запасом, так что экономить такты и бай</description>
+      <pubDate>Fri, 20 Nov 2026 08:08:11 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/bhv_publishing/articles/1110196/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110196</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Штатное ГУ Belgee X50: 731 свойство VHAL, донор-пакет и кокпит на Android 9</title>
+      <link>https://habr.com/ru/articles/1110192/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110192</link>
+      <description>У Belgee X50 с марта 2024 стоит головное устройство ECARX E02. Внутри MediaTek MT6771, Android 9, экран 1920×720, прошивка 086. Root нет, загрузчик не трогаем, обычный adb install может быть заблокирован. При этом VHAL отдаёт 731 свойство, а вендорские расширения ECARX доступны обычному приложению. Я собрал на этом кокпит CityMotion. Он читает скорость, угол руля, топливо, температуры и TPMS, считает рейтинг поездки, показывает автомобиль, поездки и гараж. Ниже разбор железа, VHAL, установки и о</description>
+      <pubDate>Fri, 20 Nov 2026 08:05:59 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1110192/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110192</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>«Безмодемный» пул. Поднимаем модемное соединение при помощи VoIP‑шлюза</title>
+      <link>https://habr.com/ru/companies/timeweb/articles/1108120/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1108120</link>
+      <description>Приветствую всех! В прошлый раз я уже рассказывал , как в домашних условиях запустить модемный пул на том самом оборудовании, которое стояло у провайдеров минувших лет. Тогда эксперимент оказался успешным, но мне стало интересно: а можно ли сделать всё описанное без редкого и дорогого железа? Именно это мы сейчас и попробуем выяснить. Разберёмся, что для этого нужно, попробуем всё это запустить и, конечно, узнаем, стоит ли вообще пытаться, или же оригинальные девайсы лучше. Традиционно будет мно</description>
+      <pubDate>Fri, 20 Nov 2026 08:05:59 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/timeweb/articles/1108120/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1108120</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Valhalla, агентный SDLC: как прошёл Java Rock Star Meetup в сентябре и что будет в декабре</title>
+      <link>https://habr.com/ru/companies/axiomjdk/articles/1110088/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110088</link>
+      <description>18 сентября прошёл осенний Java Rock Star митап, ознаменовавший начало сезона конференций и митапов. Иван Углянский рассказал, какие преграды стоят на пути в Вальхаллу (Project Valhalla) и как их можно преодолеть, а Максим Козлов — о месте ИИ-агентов в жизненном цикле ПО. Оба выступления уже можно посмотреть в записи, ссылки оставили под катом. А пока регистрируйтесь на новогодний Java Rock Star митап🎉 Читать далее</description>
+      <pubDate>Fri, 20 Nov 2026 08:00:58 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/axiomjdk/articles/1110088/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110088</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Иностранные УЦ отозвали 11 000 SSL-сертификатов у российских компаний. Как защитить свои сервисы? 7 понятных шагов</title>
+      <link>https://habr.com/ru/companies/runity/articles/1110174/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110174</link>
+      <description>Привет, Хабр! На связи Георгий Казаров, руководитель развития доменов и сопутствующих сервисов Руцентра. С лета 2026 года иностранные удостоверяющие центры провели уже несколько волн отзыва SSL/TLS-сертификатов у российских компаний. По данным мониторинга Технического центра Интернет и Руцентра, отозвано почти 11 тысяч сертификатов, а с проблемой столкнулись около 1300 организаций. Расскажу, почему отзывы стали регулярной практикой, как они влияют на доступность сервисов и что компании могут сде</description>
+      <pubDate>Fri, 20 Nov 2026 08:00:58 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/runity/articles/1110174/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110174</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Мой блокчейн‑индексатор врал мне, а я не замечал</title>
+      <link>https://habr.com/ru/articles/1110190/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110190</link>
+      <description>Встречали ли вы в базе события из блоков, которых никогда не существовало? Код записи в порядке. Диск тоже в поряде. Но блокчейн просто передумал. Сервис самый обычный: Go, логи смарт‑контрактов по RPC, PostgreSQL, API наружу. Никто не ждет от него сюрпризов. Первым отстрелились реорганизации. Оказывается, блок, который ты уже отдал клиентам как подтверждённый, цепочка может выкинуть и переписать историю задним числом. Потом дошло до RPC‑провайдера: ему все почему‑то доверяют по умолчанию, и нап</description>
+      <pubDate>Fri, 20 Nov 2026 07:50:56 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1110190/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110190</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Дообучаем Qwen 3.8 122B на 16 ГБ VRAM: SFT и DPO в Strata</title>
+      <link>https://habr.com/ru/articles/1110182/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110182</link>
+      <description>Локальная Qwen 3.8 на 122 миллиарда параметров уже работает в Strata на видеокарте с 16 ГБ памяти и 64 ГБ ОЗУ, но в прикладных задачах всё равно привирает в числах, путает права доступа и сбивается с формата, когда одних промптов уже не хватает. Учить всю сеть на таком железе невозможно — зато можно заморозить все 48 основных слоёв, один раз пропустить обучающие диалоги через видеокарту и за минуту дообучить на обычном процессоре только выходной модуль размером 12,54 МиБ. Под катом — устройство </description>
+      <pubDate>Fri, 20 Nov 2026 07:50:24 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1110182/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110182</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Как я сделал замену макросам Excel из‑за переезда на Linux</title>
+      <link>https://habr.com/ru/articles/1110188/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110188</link>
+      <description>С чего всё началось? Я работаю в аналитическом отделе крупной компании. Через отдел каждый день проходят сотни строк: заявки, сроки, контрагенты, закупки, начисления, реестры и даже претензии от бухгалтерии. Всё это надо свести, проверить, подтянуть, посчитать. Главный инструмент отдела — Excel. Помимо самой аналитики я занимался приложениями для него: автоматические сводные, ВПР-подтягивания, условные агрегаты (суммесли), подсчёт дней между событиями. Рутинная автоматизация, которая экономила о</description>
+      <pubDate>Fri, 20 Nov 2026 07:48:56 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1110188/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110188</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
   </channel>
