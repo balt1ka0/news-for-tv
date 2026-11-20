@@ -5,87 +5,87 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Fri, 20 Nov 2026 17:34:43 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 23:43:37 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Консалтингу: как делать интеграционные проекты быстрее и сдавать их без боли</title>
-      <link>https://habr.com/ru/articles/1110528/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110528</link>
-      <description>Для компаний, которые разрабатывают на заказ: один стек на всех клиентов, ИИ‑помощник, который пишет компилирующийся маршрут, схема процесса для аналитика клиента и лицензия без строки в смете. Сколько часов в вашем последнем проекте ушло на то, за что клиент не хочет платить отдельной строкой? Подключение к брокеру, повторы и защита от дублей, миграции базы, выкладка, мониторинг. В смете это прячут в «архитектуру» и «интеграцию», а клиент всё равно спрашивает, почему так долго ... Читать далее</description>
-      <pubDate>Fri, 20 Nov 2026 17:31:30 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1110528/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110528</guid>
+      <title>[Перевод] Карты Уордли. Глава 3 «Изучаем карту»</title>
+      <link>https://habr.com/ru/articles/1110568/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110568</link>
+      <description>Саймон Уордли руководил прибыльной компанией, но не понимал, куда она движется и на правильном ли вообще пути. Поиск ответа привёл его к картам. В книге он показывает, как топографическая разведка помогает компании использовать в своих интересах условия, в которых она действует. Работая с картами, вы разбираетесь в том, как меняются эти условия, находите способы влиять на них с помощью имеющихся ресурсов и постоянно учитесь на результатах своих действий. Карта не скажет, какой путь выбрать, но п</description>
+      <pubDate>Fri, 20 Nov 2026 23:23:55 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1110568/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110568</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Иммунная система «запоминает» патогены, изменяя эпигенетические настройки клеток</title>
-      <link>https://habr.com/ru/articles/1110498/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110498</link>
-      <description>У иммунной системы есть несколько способов «запоминать» угрозы, с которыми она уже сталкивалась, чтобы в будущем обеспечивать более сильную защиту. Теперь новое исследование объясняет, как клетки сохраняют один из видов иммунной памяти, не позволяя ей угаснуть. Полученные результаты могут иметь значение для лечения таких заболеваний, как рак и болезнь Альцгеймера. Исследование сосредоточено на эпигенетике иммунных клеток, то есть механизмах, позволяющих клеткам регулировать активность генов, не </description>
-      <pubDate>Fri, 20 Nov 2026 17:15:42 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1110498/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110498</guid>
+      <title>Sound: может ли результат вайб-кодинга стать ЯП?</title>
+      <link>https://habr.com/ru/articles/1110562/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110562</link>
+      <description>Мы привыкли, что языки программирования создаются в недрах корпораций (Golang от Google, Swift от Apple) или академических лабораторий (Haskell, OCaml). Но что, если язык — это не продукт многолетнего планирования, а "вайб-кодинг"? Попытка решить одну конкретную боль, которая в процессе обрастает логикой и превращается в нечто большее? Проект Sound ( github.com/lapkin25/sound ) начался именно так. Это не "убийца Python" и не очередной синтаксический сахар над C. Это эксперимент: можно ли построи</description>
+      <pubDate>Fri, 20 Nov 2026 22:43:55 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1110562/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110562</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Контекст-инжиниринг для кодинг-агента Дуэйд: что положить в контекст, а что оставить за его пределами</title>
-      <link>https://habr.com/ru/companies/domate/articles/1110520/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110520</link>
-      <description>Не гадать, а измерить Каждый, кто хоть раз давал кодинг-агенту задачу, поймет о чем речь. Хочется передать ему побольше: техническое задание, документацию на внешний API, правила команды, примеры готового кода. «На всякий случай добавлю ещё и это» — пожалуй, одно из самых распространённых действий. С инженерной точки зрения это анти-подход. Окно контекста конечно и лишняя информация не просто занимает место, она размывает внимание модели. Кроме этого, пересказ уже известных агенту данных почти н</description>
-      <pubDate>Fri, 20 Nov 2026 17:02:31 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/domate/articles/1110520/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110520</guid>
+      <title>Доказательство гипотезы Римана с помощью ИИ</title>
+      <link>https://habr.com/ru/articles/1110558/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110558</link>
+      <description>Прямо сейчас происходит историческое событие! Речь не про GTA VI, которая установила рекорд индустрии развлечений и заработала $3,79 млрд за первые сутки продаж. Прямо сейчас ИИ замахнулся на одну из семи величайших математических задач человечества. И, возможно, мы наблюдаем историческое событие. И как сказал один из математиков: "Происходит унижение человечества". В 1859 году немецкий математик Бернхард Риман сформулировал гипотезу, которую за следующие 167 лет так и не смогли доказать лучшие </description>
+      <pubDate>Fri, 20 Nov 2026 21:31:59 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1110558/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110558</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>411 комментариев в pull request и другие задачи, которые мы отдали ИИ</title>
-      <link>https://habr.com/ru/companies/yoomoney/articles/1110422/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110422</link>
-      <description>Привет, я Арина, системный аналитик ЮMoney. ИИ уже прочно вошёл в нашу профессию: с ним собирают информацию, анализируют код, готовят техническую документацию и проверяют решения. Но как встроить его в работу так, чтобы не тратить время на бесконечные правки и не терять собственную экспертизу? Мы пошли дальше экспериментов с промптами и начали выстраивать систему автоматизации на основе ИИ-агентов. Они помогают на разных этапах: от сбора контекста до актуализации документации. Решения при этом п</description>
-      <pubDate>Fri, 20 Nov 2026 17:01:11 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/yoomoney/articles/1110422/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110422</guid>
+      <title>Куда инвестировать в AI: кто заработает на новой промышленной революции?</title>
+      <link>https://habr.com/ru/articles/1110552/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110552</link>
+      <description>Сегодня 20 ноября 2026 года, и вчера Anthropic, компания, которая делает Claude, вышла на биржу по цене $83 за акцию с оценкой около $1,5 трлн, и это крупнейшее IPO в истории, которое побило рекорд SpaceX. Вся моя лента в новостях про это IPO, вот вам 4 забавных факта: Читать далее</description>
+      <pubDate>Fri, 20 Nov 2026 21:05:14 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1110552/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110552</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>GPU на вечер: поды, VPS и цены на аренду RTX 5090 в России</title>
-      <link>https://habr.com/ru/companies/gpugo/articles/1110514/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110514</link>
-      <description>В статье изучили российский рынок GPU-VPS аренды, сравнили подходы к тарификации и на примере GPUGO показали, как поминутный биллинг помогает сократить расходы на вычисления без оплаты простаивающих часов и суток. Читайте статью, делитесь опытом в комментариях и пробуйте запустить VPS для ваших задач . Читать далее</description>
-      <pubDate>Fri, 20 Nov 2026 16:45:16 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/gpugo/articles/1110514/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110514</guid>
+      <title>Что дают графовые нейросети сверх истории событий: эксперименты на Лиме и Чикаго</title>
+      <link>https://habr.com/ru/articles/1110522/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110522</link>
+      <description>По истории зарегистрированных преступлений предсказываем, в каких частях города на следующий день произойдёт больше событий. На данных Лимы и Чикаго сравниваем экспоненциальное сглаживание, GRU, TCN и графовые нейросети. Разбираем, какие архитектуры действительно добавляют информацию, как это проверить абляциями и почему выигрыш на районах не обязательно сохраняется на гексах. Читать далее</description>
+      <pubDate>Fri, 20 Nov 2026 21:01:21 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1110522/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110522</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem</link>
-      <description>Anthropic mathematician Levent Alpöge claims he has proved the Riemann hypothesis, one of mathematics's most notoriously difficult problems, with the help of Claude, cracking a puzzle that has eluded some of the world's best mathematicians for decades. If verified, it would mark yet another seismic achievement for AI in mathematics and add to the upheaval […]</description>
-      <pubDate>Fri, 20 Nov 2026 16:34:13 +0000</pubDate>
-      <guid>https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>Boys Noize turns to the club (and an obscure Italian synth) for inspiration on 7LLVSION</title>
-      <link>https://www.theverge.com/entertainment/1038444/boys-noize-7llvsion-interview</link>
-      <description>If you're wondering how Alex Ridha's (aka Boys Noize) collaboration with Nine Inch Nails influenced his new record 7LLVSION, the answer is simple: It didn't. That's not to say Ridha didn't learn anything from the virtuosic production team of Trent Reznor and Atticus Ross, but most of the songs on 7LLVSION had been knocking around […]</description>
-      <pubDate>Fri, 20 Nov 2026 16:22:15 +0000</pubDate>
-      <guid>https://www.theverge.com/entertainment/1038444/boys-noize-7llvsion-interview</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>Bending Spoons buys Mailchimp for $3.68B</title>
-      <link>https://techcrunch.com/2026/11/20/bending-spoons-buys-mailchimp-for-3-68-billion/</link>
-      <description>Intuit acquired the company in 2021 for roughly $12 billion, so it looks like Bending Spoons is getting quite a bargain.</description>
-      <pubDate>Fri, 20 Nov 2026 16:16:06 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/11/20/bending-spoons-buys-mailchimp-for-3-68-billion/</guid>
+      <title>Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now</title>
+      <link>https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now/</link>
+      <description>Techies are building technology that can advance all aspects of the world — but can they protect their hearts? That's the vulnerability that honey pots exploit.</description>
+      <pubDate>Fri, 20 Nov 2026 20:58:29 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now/</guid>
       <category>TechCrunch</category>
     </item>
     <item>
-      <title>Нечистые руки: Как игрок видит демо на языке разработчика</title>
-      <link>https://habr.com/ru/articles/1110504/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110504</link>
-      <description>Я не разработчик, но легко могу понять, как сложно взглянуть на свой проект со стороны. Ты уже знаешь, чем именно твой проект интересен, знаешь, как работает игра изнутри, и плаваешь в своих механиках как в воде, хотя для игрока они должны быть бассейном со стеклом. Периодически я нахожу демоверсии игр с большим потенциалом, но понимаю, что у всех них есть одна общая проблема: отсутствие развернутой обратной связи от игроков. Именно поэтому я решил рассказать про «Нечистые руки», ведь она сделал</description>
-      <pubDate>Fri, 20 Nov 2026 16:08:02 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1110504/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110504</guid>
+      <title>YouTube is reportedly preparing to settle social media addiction claims for $3 billion</title>
+      <link>https://www.theverge.com/streaming/1039096/youtube-social-media-addiction-school-districts-settlement</link>
+      <description>YouTube is preparing to pay $3 billion to thousands of school districts to settle claims that its "addictive design" harmed kids, according to Bloomberg. Sources tell the publication that YouTube reached the agreement "in principle," and that the deal would also include new safeguards for teens. The settlement would allow Google to avoid a wave […]</description>
+      <pubDate>Fri, 20 Nov 2026 20:43:52 +0000</pubDate>
+      <guid>https://www.theverge.com/streaming/1039096/youtube-social-media-addiction-school-districts-settlement</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>Я неделю искал, как отключить подписку VK Workspace, а затем написал это…</title>
+      <link>https://habr.com/ru/articles/1110548/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110548</link>
+      <description>Не так давно — уже не помню точно, когда, — то ли Mail.ru, то VK Workspace отключили возможность пользоваться их почтой в сторонних почтовых клиентах. Я этот момент пропустил и не успел перенести данные, пока была такая возможность. В итоге оформил подписку на один домен и продолжал пользоваться. Читать далее</description>
+      <pubDate>Fri, 20 Nov 2026 20:23:35 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1110548/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110548</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Нейросеть Claude нашла решения двух давних задач физики чёрных дыр</title>
-      <link>https://habr.com/ru/articles/1110482/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110482</link>
-      <description>Компания Anthropic сообщила , что её нейросеть Claude получила решения двух давних задач теоретической физики, связанных с чёрными дырами. Результаты опубликованы в двух препринтах и могут помочь в поисках квантовой теории гравитации, которая должна объединить общую теорию относительности Эйнштейна и квантовую механику. По сообщению Anthropic, исследование началось с необычного эксперимента: Хунбинь Чэнь поручил Claude составить список нерешённых вопросов. Нейросеть предложила 22 задачи, после ч</description>
-      <pubDate>Fri, 20 Nov 2026 16:05:38 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1110482/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110482</guid>
+      <title>Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.</title>
+      <link>https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/</link>
+      <description>Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.</description>
+      <pubDate>Fri, 20 Nov 2026 19:53:41 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>[Перевод] Гипотеза Римана и Claude: заметки о работе над доказательством</title>
+      <link>https://habr.com/ru/articles/1110544/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110544</link>
+      <description>От переводчика: Сегодня математик Левент Альпёге (Levent Alpöge) выложил доказательство гипотезы Римана. Дальше идет перевод его заметки. Гипотеза Римана - классическая задача теории чисел. Она требует наилучших возможных оценок количества простых чисел заданного масштаба. Её тени полтора столетия указывали математикам путь, а многочисленные переклички и отражения, доходящие даже до физики, учили нас видеть единство наших дисциплин. Я полагаю, что в работе с Claude мне удалось найти доказательст</description>
+      <pubDate>Fri, 20 Nov 2026 19:49:34 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1110544/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110544</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
   </channel>
