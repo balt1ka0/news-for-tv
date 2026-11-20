@@ -5,87 +5,87 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Fri, 20 Nov 2026 08:21:59 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 17:34:43 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Число заявок от женщин на регистрацию товарных знаков выросло на 19%</title>
-      <link>https://habr.com/ru/companies/onlinepatent/articles/1110208/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110208</link>
-      <description>"Рост числа заявок на товарные знаки может говорить о том, что предпринимательницы все чаще строят планы на долгосрочное развитие бизнеса. Пока компания небольшая, защита бренда не всегда кажется приоритетом. Но с выходом на новые рынки, развитием продаж или запуском франшизы товарный знак становится важным бизнес-инструментом. Это уже не просто юридическая формальность, а способ защитить то, во что предприниматель вкладывает время и ресурсы", - рассказала генеральный директор компании "Онлайн п</description>
-      <pubDate>Fri, 20 Nov 2026 08:16:30 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/onlinepatent/articles/1110208/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110208</guid>
+      <title>Консалтингу: как делать интеграционные проекты быстрее и сдавать их без боли</title>
+      <link>https://habr.com/ru/articles/1110528/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110528</link>
+      <description>Для компаний, которые разрабатывают на заказ: один стек на всех клиентов, ИИ‑помощник, который пишет компилирующийся маршрут, схема процесса для аналитика клиента и лицензия без строки в смете. Сколько часов в вашем последнем проекте ушло на то, за что клиент не хочет платить отдельной строкой? Подключение к брокеру, повторы и защита от дублей, миграции базы, выкладка, мониторинг. В смете это прячут в «архитектуру» и «интеграцию», а клиент всё равно спрашивает, почему так долго ... Читать далее</description>
+      <pubDate>Fri, 20 Nov 2026 17:31:30 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1110528/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110528</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Как связывают кошельки по общему плательщику комиссии: метод трассировки</title>
-      <link>https://habr.com/ru/articles/1110206/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110206</link>
-      <description>Тот, кто прячет украденную крипту, обычно хорошо думает о суммах и маршрутах. Дробит, гоняет через одноразовые кошельки, смешивает с чужими деньгами. И почти всегда хуже думает о том, кто платит за все эти переводы. Разберу, как одна эта деталь связывает «независимые» кошельки и как я пользуюсь ею в расследованиях, включая случаи, когда она врет. Читать далее</description>
-      <pubDate>Fri, 20 Nov 2026 08:15:00 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1110206/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110206</guid>
+      <title>Иммунная система «запоминает» патогены, изменяя эпигенетические настройки клеток</title>
+      <link>https://habr.com/ru/articles/1110498/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110498</link>
+      <description>У иммунной системы есть несколько способов «запоминать» угрозы, с которыми она уже сталкивалась, чтобы в будущем обеспечивать более сильную защиту. Теперь новое исследование объясняет, как клетки сохраняют один из видов иммунной памяти, не позволяя ей угаснуть. Полученные результаты могут иметь значение для лечения таких заболеваний, как рак и болезнь Альцгеймера. Исследование сосредоточено на эпигенетике иммунных клеток, то есть механизмах, позволяющих клеткам регулировать активность генов, не </description>
+      <pubDate>Fri, 20 Nov 2026 17:15:42 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1110498/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110498</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Зачем изучать ассемблер, если писать на нём вы не будете?</title>
-      <link>https://habr.com/ru/companies/bhv_publishing/articles/1110196/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110196</link>
-      <description>Ассемблер — всё. Так, по крайней мере, считают сейчас многие. Ну, не совсем всё: микроконтроллеры и устройства system-on-chip сейчас переживают свою эпоху ренессанса, однако это — отдельная область, не пересекающаяся с «большой» разработкой. А вот на десктопе и сервере всё действительно выглядит так, будто ассемблер можно списать в архив. Современные инструменты давно генерируют код не хуже среднего программиста, а часто и лучше хорошего. Ресурсов хватает с запасом, так что экономить такты и бай</description>
-      <pubDate>Fri, 20 Nov 2026 08:08:11 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/bhv_publishing/articles/1110196/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110196</guid>
+      <title>Контекст-инжиниринг для кодинг-агента Дуэйд: что положить в контекст, а что оставить за его пределами</title>
+      <link>https://habr.com/ru/companies/domate/articles/1110520/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110520</link>
+      <description>Не гадать, а измерить Каждый, кто хоть раз давал кодинг-агенту задачу, поймет о чем речь. Хочется передать ему побольше: техническое задание, документацию на внешний API, правила команды, примеры готового кода. «На всякий случай добавлю ещё и это» — пожалуй, одно из самых распространённых действий. С инженерной точки зрения это анти-подход. Окно контекста конечно и лишняя информация не просто занимает место, она размывает внимание модели. Кроме этого, пересказ уже известных агенту данных почти н</description>
+      <pubDate>Fri, 20 Nov 2026 17:02:31 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/domate/articles/1110520/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110520</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Штатное ГУ Belgee X50: 731 свойство VHAL, донор-пакет и кокпит на Android 9</title>
-      <link>https://habr.com/ru/articles/1110192/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110192</link>
-      <description>У Belgee X50 с марта 2024 стоит головное устройство ECARX E02. Внутри MediaTek MT6771, Android 9, экран 1920×720, прошивка 086. Root нет, загрузчик не трогаем, обычный adb install может быть заблокирован. При этом VHAL отдаёт 731 свойство, а вендорские расширения ECARX доступны обычному приложению. Я собрал на этом кокпит CityMotion. Он читает скорость, угол руля, топливо, температуры и TPMS, считает рейтинг поездки, показывает автомобиль, поездки и гараж. Ниже разбор железа, VHAL, установки и о</description>
-      <pubDate>Fri, 20 Nov 2026 08:05:59 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1110192/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110192</guid>
+      <title>411 комментариев в pull request и другие задачи, которые мы отдали ИИ</title>
+      <link>https://habr.com/ru/companies/yoomoney/articles/1110422/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110422</link>
+      <description>Привет, я Арина, системный аналитик ЮMoney. ИИ уже прочно вошёл в нашу профессию: с ним собирают информацию, анализируют код, готовят техническую документацию и проверяют решения. Но как встроить его в работу так, чтобы не тратить время на бесконечные правки и не терять собственную экспертизу? Мы пошли дальше экспериментов с промптами и начали выстраивать систему автоматизации на основе ИИ-агентов. Они помогают на разных этапах: от сбора контекста до актуализации документации. Решения при этом п</description>
+      <pubDate>Fri, 20 Nov 2026 17:01:11 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/yoomoney/articles/1110422/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110422</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>«Безмодемный» пул. Поднимаем модемное соединение при помощи VoIP‑шлюза</title>
-      <link>https://habr.com/ru/companies/timeweb/articles/1108120/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1108120</link>
-      <description>Приветствую всех! В прошлый раз я уже рассказывал , как в домашних условиях запустить модемный пул на том самом оборудовании, которое стояло у провайдеров минувших лет. Тогда эксперимент оказался успешным, но мне стало интересно: а можно ли сделать всё описанное без редкого и дорогого железа? Именно это мы сейчас и попробуем выяснить. Разберёмся, что для этого нужно, попробуем всё это запустить и, конечно, узнаем, стоит ли вообще пытаться, или же оригинальные девайсы лучше. Традиционно будет мно</description>
-      <pubDate>Fri, 20 Nov 2026 08:05:59 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/timeweb/articles/1108120/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1108120</guid>
+      <title>GPU на вечер: поды, VPS и цены на аренду RTX 5090 в России</title>
+      <link>https://habr.com/ru/companies/gpugo/articles/1110514/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110514</link>
+      <description>В статье изучили российский рынок GPU-VPS аренды, сравнили подходы к тарификации и на примере GPUGO показали, как поминутный биллинг помогает сократить расходы на вычисления без оплаты простаивающих часов и суток. Читайте статью, делитесь опытом в комментариях и пробуйте запустить VPS для ваших задач . Читать далее</description>
+      <pubDate>Fri, 20 Nov 2026 16:45:16 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/gpugo/articles/1110514/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110514</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Valhalla, агентный SDLC: как прошёл Java Rock Star Meetup в сентябре и что будет в декабре</title>
-      <link>https://habr.com/ru/companies/axiomjdk/articles/1110088/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110088</link>
-      <description>18 сентября прошёл осенний Java Rock Star митап, ознаменовавший начало сезона конференций и митапов. Иван Углянский рассказал, какие преграды стоят на пути в Вальхаллу (Project Valhalla) и как их можно преодолеть, а Максим Козлов — о месте ИИ-агентов в жизненном цикле ПО. Оба выступления уже можно посмотреть в записи, ссылки оставили под катом. А пока регистрируйтесь на новогодний Java Rock Star митап🎉 Читать далее</description>
-      <pubDate>Fri, 20 Nov 2026 08:00:58 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/axiomjdk/articles/1110088/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110088</guid>
+      <title>Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem</link>
+      <description>Anthropic mathematician Levent Alpöge claims he has proved the Riemann hypothesis, one of mathematics's most notoriously difficult problems, with the help of Claude, cracking a puzzle that has eluded some of the world's best mathematicians for decades. If verified, it would mark yet another seismic achievement for AI in mathematics and add to the upheaval […]</description>
+      <pubDate>Fri, 20 Nov 2026 16:34:13 +0000</pubDate>
+      <guid>https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>Boys Noize turns to the club (and an obscure Italian synth) for inspiration on 7LLVSION</title>
+      <link>https://www.theverge.com/entertainment/1038444/boys-noize-7llvsion-interview</link>
+      <description>If you're wondering how Alex Ridha's (aka Boys Noize) collaboration with Nine Inch Nails influenced his new record 7LLVSION, the answer is simple: It didn't. That's not to say Ridha didn't learn anything from the virtuosic production team of Trent Reznor and Atticus Ross, but most of the songs on 7LLVSION had been knocking around […]</description>
+      <pubDate>Fri, 20 Nov 2026 16:22:15 +0000</pubDate>
+      <guid>https://www.theverge.com/entertainment/1038444/boys-noize-7llvsion-interview</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>Bending Spoons buys Mailchimp for $3.68B</title>
+      <link>https://techcrunch.com/2026/11/20/bending-spoons-buys-mailchimp-for-3-68-billion/</link>
+      <description>Intuit acquired the company in 2021 for roughly $12 billion, so it looks like Bending Spoons is getting quite a bargain.</description>
+      <pubDate>Fri, 20 Nov 2026 16:16:06 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/11/20/bending-spoons-buys-mailchimp-for-3-68-billion/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>Нечистые руки: Как игрок видит демо на языке разработчика</title>
+      <link>https://habr.com/ru/articles/1110504/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110504</link>
+      <description>Я не разработчик, но легко могу понять, как сложно взглянуть на свой проект со стороны. Ты уже знаешь, чем именно твой проект интересен, знаешь, как работает игра изнутри, и плаваешь в своих механиках как в воде, хотя для игрока они должны быть бассейном со стеклом. Периодически я нахожу демоверсии игр с большим потенциалом, но понимаю, что у всех них есть одна общая проблема: отсутствие развернутой обратной связи от игроков. Именно поэтому я решил рассказать про «Нечистые руки», ведь она сделал</description>
+      <pubDate>Fri, 20 Nov 2026 16:08:02 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1110504/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110504</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Иностранные УЦ отозвали 11 000 SSL-сертификатов у российских компаний. Как защитить свои сервисы? 7 понятных шагов</title>
-      <link>https://habr.com/ru/companies/runity/articles/1110174/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110174</link>
-      <description>Привет, Хабр! На связи Георгий Казаров, руководитель развития доменов и сопутствующих сервисов Руцентра. С лета 2026 года иностранные удостоверяющие центры провели уже несколько волн отзыва SSL/TLS-сертификатов у российских компаний. По данным мониторинга Технического центра Интернет и Руцентра, отозвано почти 11 тысяч сертификатов, а с проблемой столкнулись около 1300 организаций. Расскажу, почему отзывы стали регулярной практикой, как они влияют на доступность сервисов и что компании могут сде</description>
-      <pubDate>Fri, 20 Nov 2026 08:00:58 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/runity/articles/1110174/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110174</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Мой блокчейн‑индексатор врал мне, а я не замечал</title>
-      <link>https://habr.com/ru/articles/1110190/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110190</link>
-      <description>Встречали ли вы в базе события из блоков, которых никогда не существовало? Код записи в порядке. Диск тоже в поряде. Но блокчейн просто передумал. Сервис самый обычный: Go, логи смарт‑контрактов по RPC, PostgreSQL, API наружу. Никто не ждет от него сюрпризов. Первым отстрелились реорганизации. Оказывается, блок, который ты уже отдал клиентам как подтверждённый, цепочка может выкинуть и переписать историю задним числом. Потом дошло до RPC‑провайдера: ему все почему‑то доверяют по умолчанию, и нап</description>
-      <pubDate>Fri, 20 Nov 2026 07:50:56 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1110190/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110190</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Дообучаем Qwen 3.8 122B на 16 ГБ VRAM: SFT и DPO в Strata</title>
-      <link>https://habr.com/ru/articles/1110182/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110182</link>
-      <description>Локальная Qwen 3.8 на 122 миллиарда параметров уже работает в Strata на видеокарте с 16 ГБ памяти и 64 ГБ ОЗУ, но в прикладных задачах всё равно привирает в числах, путает права доступа и сбивается с формата, когда одних промптов уже не хватает. Учить всю сеть на таком железе невозможно — зато можно заморозить все 48 основных слоёв, один раз пропустить обучающие диалоги через видеокарту и за минуту дообучить на обычном процессоре только выходной модуль размером 12,54 МиБ. Под катом — устройство </description>
-      <pubDate>Fri, 20 Nov 2026 07:50:24 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1110182/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110182</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Как я сделал замену макросам Excel из‑за переезда на Linux</title>
-      <link>https://habr.com/ru/articles/1110188/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110188</link>
-      <description>С чего всё началось? Я работаю в аналитическом отделе крупной компании. Через отдел каждый день проходят сотни строк: заявки, сроки, контрагенты, закупки, начисления, реестры и даже претензии от бухгалтерии. Всё это надо свести, проверить, подтянуть, посчитать. Главный инструмент отдела — Excel. Помимо самой аналитики я занимался приложениями для него: автоматические сводные, ВПР-подтягивания, условные агрегаты (суммесли), подсчёт дней между событиями. Рутинная автоматизация, которая экономила о</description>
-      <pubDate>Fri, 20 Nov 2026 07:48:56 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1110188/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110188</guid>
+      <title>Нейросеть Claude нашла решения двух давних задач физики чёрных дыр</title>
+      <link>https://habr.com/ru/articles/1110482/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110482</link>
+      <description>Компания Anthropic сообщила , что её нейросеть Claude получила решения двух давних задач теоретической физики, связанных с чёрными дырами. Результаты опубликованы в двух препринтах и могут помочь в поисках квантовой теории гравитации, которая должна объединить общую теорию относительности Эйнштейна и квантовую механику. По сообщению Anthropic, исследование началось с необычного эксперимента: Хунбинь Чэнь поручил Claude составить список нерешённых вопросов. Нейросеть предложила 22 задачи, после ч</description>
+      <pubDate>Fri, 20 Nov 2026 16:05:38 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1110482/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110482</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
   </channel>
