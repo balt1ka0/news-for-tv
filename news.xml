@@ -5,87 +5,87 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Thu, 19 Nov 2026 18:53:49 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 01:03:49 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>“Мы прогорели” — еще одна история “story stock”</title>
-      <link>https://habr.com/ru/articles/1107900/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107900</link>
-      <description>Это история одного стартапа, высмеивающая бизнес на хайпе. Путь стартапа иллюстрирует риски стартапов, основанных на инновационных, но неустойчивых бизнес-моделях. Читать далее</description>
-      <pubDate>Thu, 19 Nov 2026 18:35:03 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1107900/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107900</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Sonos is taking up to 30 percent off speakers and soundbars right now</title>
-      <link>https://www.theverge.com/gadgets/1037042/sonos-black-friday-2026-speaker-soundbar-deals-sale</link>
-      <description>Sonos speakers and soundbars aren’t exactly cheap, but thankfully the company’s Black Friday sale has already begun, making everything a little easier to afford through November 30th. Most notably, you can pick up the Arc Ultra soundbar for a new low of $849 ($250 off) from Sonos, Amazon, and Best Buy, or the newfangled Sonos […]</description>
-      <pubDate>Thu, 19 Nov 2026 18:33:08 +0000</pubDate>
-      <guid>https://www.theverge.com/gadgets/1037042/sonos-black-friday-2026-speaker-soundbar-deals-sale</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>Leaked images reveal Motorola’s wide foldable</title>
-      <link>https://www.theverge.com/tech/1037848/motorola-razr-flex-wide-foldable-folding-smartphone-android-leak</link>
-      <description>New leaked images of Motorola's next folding smartphone shared by SammyGuru add more credence to the theory that widescreen could be the default design for foldables moving forward. Following a single leaked shot shared to Reddit yesterday, this new crop of images reveal the Motorola Razr Flex from several angles in two finishes with its […]</description>
-      <pubDate>Thu, 19 Nov 2026 18:19:03 +0000</pubDate>
-      <guid>https://www.theverge.com/tech/1037848/motorola-razr-flex-wide-foldable-folding-smartphone-android-leak</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>Oh, Elon Musk is ‘moderate’ now, is he?</title>
-      <link>https://www.theverge.com/policy/1037804/elon-musk-maga-dealbook</link>
-      <description>A little less than two years ago, Elon Musk stood onstage at the Conservative Political Action Conference, sunglasses on, black MAGA hat perched atop his head, wielding a chainsaw. Last night, Musk called in to The New York Times DealBook Summit and distanced himself from President Donald Trump's movement. "I think I'm ideologically quite moderate. […]</description>
-      <pubDate>Thu, 19 Nov 2026 18:15:00 +0000</pubDate>
-      <guid>https://www.theverge.com/policy/1037804/elon-musk-maga-dealbook</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>Apple’s iPhone camera leader has reportedly left the company</title>
-      <link>https://www.theverge.com/tech/1037846/apple-jon-mccormack-retired-iphone-camera</link>
-      <description>Jon McCormack, Apple's vice president of camera software engineering, left the company last month, Bloomberg reports. Its sources say McCormack retired "at the end of October after more than eight years at the company." Apple reportedly has not yet named a new VP to step in for McCormack, who oversaw its Camera and Photos apps, […]</description>
-      <pubDate>Thu, 19 Nov 2026 18:13:05 +0000</pubDate>
-      <guid>https://www.theverge.com/tech/1037846/apple-jon-mccormack-retired-iphone-camera</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>Премию «Просветитель» присудили за книги об исторической демографии Японии и загадках, раскрытых благодаря растениям</title>
-      <link>https://nplus1.ru/news/2026/11/19/prosvetitel-2026</link>
-      <description>Организаторы премии «Просветитель», которая ежегодно вручается авторам лучших научно-популярных книг на русском языке, объявили победителей 2026 года. В номинации «Естественные и точные науки» лауреатом стал эколог Денис Новиков, автор книги «О годичных кольцах и пыльце: истории о прошлом человечества глазами растений», а в номинации «Гуманитарные науки» — историк-японист Денис Мещеряков с книгой «Безымянная Япония: демографическое, историческое и человеческое измерение». За церемонией награжден</description>
-      <pubDate>Thu, 19 Nov 2026 18:13:00 +0000</pubDate>
-      <guid>https://nplus1.ru/news/2026/11/19/prosvetitel-2026</guid>
-      <category>N + 1 — главное издание о науке, технике и технологиях</category>
-    </item>
-    <item>
-      <title>Google gives Gemini the ability to use your Mac for you</title>
-      <link>https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/</link>
-      <description>Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows.</description>
-      <pubDate>Thu, 19 Nov 2026 18:09:11 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/</guid>
+      <title>Apple may be developing its own AI agent that runs your Mac</title>
+      <link>https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/</link>
+      <description>The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.</description>
+      <pubDate>Fri, 20 Nov 2026 00:56:01 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/</guid>
       <category>TechCrunch</category>
     </item>
     <item>
-      <title>Еще одна звонилка или как я создал Nimbo</title>
-      <link>https://habr.com/ru/articles/1110052/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110052</link>
-      <description>Хотел просто играть с друзьями, а в итоге с ИИ собрал свою говорилку. По дороге пришлось кормить шумодав яблоком, разбираться, почему клиент держит начинает кушать ОЗУ после выключения камеры больше, и отправлять агентов ломать собственный сервер Читать далее</description>
-      <pubDate>Thu, 19 Nov 2026 18:06:16 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1110052/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110052</guid>
+      <title>Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO</title>
+      <link>https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/</link>
+      <description>At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.</description>
+      <pubDate>Fri, 20 Nov 2026 00:43:50 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>Anthropic rival says companies can (mostly) skip the pricey models</title>
+      <link>https://techcrunch.com/2026/11/19/anthropic-rival-says-companies-can-mostly-skip-the-pricey-models/</link>
+      <description>On the day Anthropic went public, Fireworks AI’s co-founder made the case for open-source models as a cheaper alternative, and addressed the breaches that have cost the company some customers’ trust.</description>
+      <pubDate>Fri, 20 Nov 2026 00:26:03 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/11/19/anthropic-rival-says-companies-can-mostly-skip-the-pricey-models/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>Experimental compound burns fat without sacrificing muscle</title>
+      <link>https://www.sciencedaily.com/releases/2026/11/261118073918.htm</link>
+      <description>Researchers at UC Berkeley have identified a compound that could transform weight-loss treatment by helping the body burn more energy instead of suppressing appetite like Ozempic and Wegovy. In mice, the compound boosted energy expenditure by up to 18%, improved blood sugar control, reduced liver fat, and promoted weight loss without significant muscle loss. Even more promising, combining it with existing GLP-1 medications produced greater benefits than either treatment alone.</description>
+      <pubDate>Fri, 20 Nov 2026 00:19:49 +0000</pubDate>
+      <guid>https://www.sciencedaily.com/releases/2026/11/261118073918.htm</guid>
+      <category>All Top News -- ScienceDaily</category>
+    </item>
+    <item>
+      <title>Elon Musk says SpaceX has a plan to eliminate cell phone dead zones</title>
+      <link>https://techcrunch.com/2026/11/19/elon-musk-says-spacex-has-a-plan-to-eliminate-cell-phone-dead-zones/</link>
+      <description>SpaceX CEO Elon Musk said the company has completed the design of a miniature rooftop cell tower that could provide better coverage to mobile phones and eliminate dead zones.</description>
+      <pubDate>Thu, 19 Nov 2026 23:37:56 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/11/19/elon-musk-says-spacex-has-a-plan-to-eliminate-cell-phone-dead-zones/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>Want to see your live AI usage on your Mac’s icons? This clever new app lets you</title>
+      <link>https://techcrunch.com/2026/11/19/want-to-see-your-live-ai-usage-on-your-macs-icons-this-clever-new-app-lets-you/</link>
+      <description>IconSwapper brings your Mac's app icons to life with real-time data, animations, and playful customizations that make your desktop more fun.</description>
+      <pubDate>Thu, 19 Nov 2026 22:33:26 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/11/19/want-to-see-your-live-ai-usage-on-your-macs-icons-this-clever-new-app-lets-you/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>Сравнение риск-ориентированных методов планирования пути четвероногого робота на вероятностной карте проходимости</title>
+      <link>https://habr.com/ru/articles/1110108/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110108</link>
+      <description>Рассматривается задача планирования пути четвероногого робота в недетерминированной среде, представленной вероятностной картой проходимости. Для шагающего робота кратчайший путь не всегда безопасен: уклон поверхности, неровности рельефа и высота препятствий могут привести к потере устойчивости. В работе предложена единая постановка задачи и методика сравнения риск-ориентированных планировщиков: базового алгоритма A* по кратчайшему пути, A* с вероятностно-взвешенной стоимостью, планирования с вер</description>
+      <pubDate>Thu, 19 Nov 2026 22:32:42 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1110108/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110108</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Amazon is pushing alerts opposing NYC’s Delivery Protection Act</title>
-      <link>https://www.theverge.com/tech/1037813/amazon-is-pushing-alerts-to-shoppers-opposing-nycs-delivery-protection-act</link>
-      <description>Amazon is serving up push notifications and banners on its home page to some users, warning that a new bill could add up to $5 per order in New York City. The Delivery Protection Act, which is backed by Mayor Zohran Mamdani and a number of labor groups, including the Teamsters, would require Amazon to […]</description>
-      <pubDate>Thu, 19 Nov 2026 17:58:01 +0000</pubDate>
-      <guid>https://www.theverge.com/tech/1037813/amazon-is-pushing-alerts-to-shoppers-opposing-nycs-delivery-protection-act</guid>
+      <title>Apple is hiring engineers to build its own AI agent</title>
+      <link>https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing</link>
+      <description>Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a job listing spotted by Bloomberg, which says Apple is looking for an engineer to lead the creation of an agentic AI assistant. […]</description>
+      <pubDate>Thu, 19 Nov 2026 22:31:41 +0000</pubDate>
+      <guid>https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing</guid>
       <category>The Verge</category>
     </item>
     <item>
-      <title>Цена ошибки: паддинг, чекпоинты на сетевом диске и сторож, который гасил здоровое обучение</title>
-      <link>https://habr.com/ru/articles/1110050/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110050</link>
-      <description>Ошибки бывают в любой настоящей работе. Обычно о них пишут одной строкой где-то между графиками с результатами, а я решил сделать наоборот: собрать наши промахи в одну статью и разобрать их по-инженерному, то есть что именно сломалось, сколько это стоило и что мы после этого поменяли. Во второй статье серии я пообещал рассказать, как арендовал видеокарты в облаке и сжёг на них деньги, почти ничего не посчитав. В третьей напомнил, что обещание в силе. Теперь выполняю. Большая часть статьи про обл</description>
-      <pubDate>Thu, 19 Nov 2026 17:47:19 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1110050/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110050</guid>
+      <title>[Перевод] Следующий флагманский космический телескоп (возможно) ответит на главный вопрос: «Одни ли мы во Вселенной?»</title>
+      <link>https://habr.com/ru/articles/1110106/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110106</link>
+      <description>Итан Сигел (американский астрофизик‑теоретик и научный журналист, автор рубрики «Спросите Итана», один из пропагандистов современных научных знаний), делает предположение, когда и как мы сможем обнаружить жизнь в иных звёздных системах. И подталкивает учёных и лиц, принимающих решение о финансировании космических программ: не экономьте, не ужимайтесь, ещё немного, и мы предъявим человечеству первую обитаемую экзопланету... @avshkol сделал перевод этой статьи для всех, кто следит за успехами суще</description>
+      <pubDate>Thu, 19 Nov 2026 22:19:39 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1110106/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110106</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Нескучные тесты локальных LLM</title>
+      <link>https://habr.com/ru/articles/1110104/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110104</link>
+      <description>Очередная статья с очередными тестами локальных LLM. Однако вместо трекера задач, клона Minecraft или исправления багов в вашем проекте, наши ИИ модели будут писать на ANSI C, рисовать фракталы на видеокарте и даже проектировать печатные платы! Читать далее</description>
+      <pubDate>Thu, 19 Nov 2026 22:04:30 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1110104/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110104</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
   </channel>
