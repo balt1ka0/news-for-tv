@@ -5,87 +5,87 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Sat, 21 Nov 2026 05:52:22 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 14:18:17 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Из разработки в FDE. Почему я ставлю на инженеров, которые сами идут к заказчику</title>
-      <link>https://habr.com/ru/articles/1110540/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110540</link>
-      <description>На новом рынке труда я делаю ставку на инженеров, которые умеют разобраться в задачах заказчика, написать код и довести решение до внедрения. Одно из направлений, к которым я присматриваюсь на ближайшие годы, — Forward Deployed Engineer (FDE). В выборке TrueUp число FDE-вакансий за год выросло в 4,6 раза — примерно до 1 500. Разбираю, что стоит за этим ростом и почему считаю эту роль перспективной для разработчиков. На примерах OpenAI, Anthropic и X5 Tech смотрю, за какую работу готовы платить, </description>
-      <pubDate>Sat, 21 Nov 2026 05:30:30 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1110540/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110540</guid>
+      <title>Chess.com’s next move is a new hub for classic games, from mahjong to sudoku</title>
+      <link>https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai</link>
+      <description>Chess.com is ready to go a lot bigger than chess. After launching Gambit, a gambling-free poker site, earlier this year, the company is now adding 10 more games: backgammon, checkers, go, hearts, mahjong, shogi, sudoku, solitaire, xiangqi, and a Scrabble alternative called word. They're all part of Chess's new Classic Games platform, which is launching […]</description>
+      <pubDate>Sat, 21 Nov 2026 14:00:00 +0000</pubDate>
+      <guid>https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>Gemini 4 Neon догнала Opus 5.5, но релиз почти никто не заметил</title>
+      <link>https://habr.com/ru/articles/1110692/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110692</link>
+      <description>Неделю назад я бы рассмеялся в лицо любому, кто сказал бы, что я буду хвалить нейросеть Google. Рынок давно сжался до Opus 5.5 наверху и вечных споров с ChatGPT внизу. А потом вышла Gemini 4 Neon: “средняя” модель, которая понимает задачи с полуслова, сама чинит баги в чужих MCP-адаптерах и находит причины тормозов сервера, которые искали три недели. Рассказываю, почему вокруг релиза стоит тишина, что Google только что починила в кэше Antigravity и где у Neon вылезают слабые места. Смотреть тест</description>
+      <pubDate>Sat, 21 Nov 2026 13:49:12 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1110692/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110692</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Краткий экскурс по серии или иносказания древних. Часть 3. Alone in the Dark (1992-2024)</title>
-      <link>https://habr.com/ru/articles/1110576/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110576</link>
-      <description>Эдвард Карнби, в понедельник нанялся на дело, во вторник в дорогу поехал, в среду в Дерсето вошёл, В четверг тёмный фолиант нашёл, в пятницу с тенями сражался, В субботу рассудка лишался, в воскресенье пропал он во тьме. Такова была ночь…Эдварда Карнби. Читать далее</description>
-      <pubDate>Sat, 21 Nov 2026 05:00:04 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1110576/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110576</guid>
+      <title>[Перевод] Дообучаем на Mac малую языковую модель для RAG в браузере</title>
+      <link>https://habr.com/ru/companies/otus/articles/1106704/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106704</link>
+      <description>Задача выглядела довольно простой: дообучить Qwen3-0.6B отвечать на вопросы по фрагментам текста, найденным семантическим поиском. Но первые эксперименты дали обратный эффект: модель стала чаще выдумывать подробности, хотя validation loss продолжал снижаться. Четыре версии обучающих данных помогли разобраться, почему так происходит и как удалось втрое сократить число галлюцинаций — пусть и ценой более частых отказов от ответа. Посмотреть результаты</description>
+      <pubDate>Sat, 21 Nov 2026 13:12:10 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/otus/articles/1106704/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106704</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Выпуск интегрированной среды разработки Apache NetBeans 32</title>
-      <link>https://habr.com/ru/articles/1110264/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110264</link>
-      <description>Во второй половине ноября 2026 года состоялся релиз интегрированной среды разработки Apache NetBeans 32 . Проект имеет поддержку языков программирования Java SE, Java EE, PHP, C/C++, JavaScript, Rust и Groovy. Готовые сборки проекта NetBeans 32 сформированы для скачивания под Linux ( snapcraft.io , flathub ), Windows и macOS. Исходный код решения написан в основном на Java и опубликован на GitHub под лицензией Apache License 2.0. Читать далее</description>
-      <pubDate>Sat, 21 Nov 2026 04:26:25 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1110264/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110264</guid>
+      <title>Как я перестал быть диспетчером у своих ИИ-агентов</title>
+      <link>https://habr.com/ru/articles/1110668/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110668</link>
+      <description>Рядом с рабочим монитором у меня долго стоял ноутбук с открытым окном агентов. Раз в двадцать–тридцать минут я ловил себя на том, что опять туда кошусь: не встал ли кто-нибудь на вопросе, не пошёл ли крутиться по кругу. Я не решал так делать осознанно, привычка выработалась сама, как нервный тик. Пока агент был один, всё выглядело просто: дал задачу, обсудил, посмотрел код. Когда параллельных сессий стало несколько — в разных ветках или разных репозиториях — код они по-прежнему писали быстро, а </description>
+      <pubDate>Sat, 21 Nov 2026 13:04:14 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1110668/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110668</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Startup sues Apple in India over tap-to-share contacts feature</title>
-      <link>https://techcrunch.com/2026/11/20/startup-sues-apple-in-india-over-tap-to-share-contacts-feature/</link>
-      <description>A U.S. startup is seeking $162 million in damages and an injunction to impact iPhone and Apple Watch imports to India.</description>
-      <pubDate>Sat, 21 Nov 2026 04:00:00 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/11/20/startup-sues-apple-in-india-over-tap-to-share-contacts-feature/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>NASA’s Voyager 1 is now so far away that light takes 24 hours to reach it</title>
-      <link>https://www.sciencedaily.com/releases/2026/11/261120075554.htm</link>
-      <description>NASA’s Voyager 1 has reached an extraordinary milestone, traveling 16.1 billion miles from Earth to become the first spacecraft so distant that its signals take a full day to reach us. Nearly 50 years after launch, the aging probe continues its historic journey through interstellar space, pushing the limits of human exploration despite dwindling power and technical challenges.</description>
-      <pubDate>Sat, 21 Nov 2026 02:24:22 +0000</pubDate>
-      <guid>https://www.sciencedaily.com/releases/2026/11/261120075554.htm</guid>
-      <category>All Top News -- ScienceDaily</category>
-    </item>
-    <item>
-      <title>After 8 years in space, a groundbreaking X-ray telescope finally opens its eyes</title>
-      <link>https://www.sciencedaily.com/releases/2026/11/261120075547.htm</link>
-      <description>After eight years and 10 billion kilometers in space, a groundbreaking X-ray telescope heading to Mercury has captured its first cosmic observations and is performing even better than scientists expected. The instrument could soon reveal Mercury's hidden chemical secrets and transform our understanding of how the solar system's smallest planet formed.</description>
-      <pubDate>Sat, 21 Nov 2026 02:11:14 +0000</pubDate>
-      <guid>https://www.sciencedaily.com/releases/2026/11/261120075547.htm</guid>
-      <category>All Top News -- ScienceDaily</category>
-    </item>
-    <item>
-      <title>[Перевод] Карты Уордли. Глава 3 «Изучаем карту»</title>
-      <link>https://habr.com/ru/articles/1110568/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110568</link>
-      <description>Саймон Уордли руководил прибыльной компанией, но не понимал, куда она движется и на правильном ли вообще пути. Поиск ответа привёл его к картам. В книге он показывает, как топографическая разведка помогает компании использовать в своих интересах условия, в которых она действует. Работая с картами, вы разбираетесь в том, как меняются эти условия, находите способы влиять на них с помощью имеющихся ресурсов и постоянно учитесь на результатах своих действий. Карта не скажет, какой путь выбрать, но п</description>
-      <pubDate>Fri, 20 Nov 2026 23:23:55 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1110568/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110568</guid>
+      <title>Кого заменит LLM</title>
+      <link>https://habr.com/ru/articles/1110674/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110674</link>
+      <description>LLM наступают, топы вещают о повсеместном внедрении ИИ, повышении производительности, ускорении процессов и сокращении персонала. Эксперты-футурологи уверенно ждут массовой безработицы, цивилизационного кризиса, глобального вымирания человечества (духовное, когнитивное и физическое). Я не готов заглядывать так далеко и глубоко, поэтому задался вопросом, кому стоит опасаться LLM и почему. Эта статья об ИИ, корпорациях и их сотрудниках. Читать далее</description>
+      <pubDate>Sat, 21 Nov 2026 13:00:26 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1110674/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110674</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Sound: может ли результат вайб-кодинга стать ЯП?</title>
-      <link>https://habr.com/ru/articles/1110562/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110562</link>
-      <description>Мы привыкли, что языки программирования создаются в недрах корпораций (Golang от Google, Swift от Apple) или академических лабораторий (Haskell, OCaml). Но что, если язык — это не продукт многолетнего планирования, а "вайб-кодинг"? Попытка решить одну конкретную боль, которая в процессе обрастает логикой и превращается в нечто большее? Проект Sound ( github.com/lapkin25/sound ) начался именно так. Это не "убийца Python" и не очередной синтаксический сахар над C. Это эксперимент: можно ли построи</description>
-      <pubDate>Fri, 20 Nov 2026 22:43:55 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1110562/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110562</guid>
+      <title>SAFe Coaches Handbook — Глава 4. Управление Бэклогом Команды</title>
+      <link>https://habr.com/ru/articles/1109306/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1109306</link>
+      <description>Всем приветы! Немного почитать вам на выходных ;) Продолжаю делиться переводом книги SAFe Coaches Handbook - Darren Wilmshurst. Читать далее</description>
+      <pubDate>Sat, 21 Nov 2026 13:00:09 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1109306/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1109306</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Доказательство гипотезы Римана с помощью ИИ</title>
-      <link>https://habr.com/ru/articles/1110558/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110558</link>
-      <description>Прямо сейчас происходит историческое событие! Речь не про GTA VI, которая установила рекорд индустрии развлечений и заработала $3,79 млрд за первые сутки продаж. Прямо сейчас ИИ замахнулся на одну из семи величайших математических задач человечества. И, возможно, мы наблюдаем историческое событие. И как сказал один из математиков: "Происходит унижение человечества". В 1859 году немецкий математик Бернхард Риман сформулировал гипотезу, которую за следующие 167 лет так и не смогли доказать лучшие </description>
-      <pubDate>Fri, 20 Nov 2026 21:31:59 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1110558/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110558</guid>
+      <title>The Xiaomi 18 Pro proves two screens aren’t better than one</title>
+      <link>https://www.theverge.com/tech/1038562/xiaomi-18-pro-max-review</link>
+      <description>Xiaomi introduced a second screen to its flagship phones with last year's 17 Pros, but didn't release them outside China. That means the new 18 Pro and Pro Max are the first chance I've had to find out if a screen on the back of a phone is any more useful now than it was […]</description>
+      <pubDate>Sat, 21 Nov 2026 13:00:00 +0000</pubDate>
+      <guid>https://www.theverge.com/tech/1038562/xiaomi-18-pro-max-review</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>The game of the year is finally here</title>
+      <link>https://www.theverge.com/tech/1039433/gta-vi-alfred-6-clockwisetv-installer</link>
+      <description>Hi, friends! Welcome to Installer No. 153, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, thank you for tearing yourself away from GTA to be here, and also you can read all the old editions at the Installer homepage.) This week, I've been reading about nuclear radiation […]</description>
+      <pubDate>Sat, 21 Nov 2026 13:00:00 +0000</pubDate>
+      <guid>https://www.theverge.com/tech/1039433/gta-vi-alfred-6-clockwisetv-installer</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>Вышел Spring Boot 4.2. Что поменяется, если просто обновить версию?</title>
+      <link>https://habr.com/ru/companies/spring_aio/articles/1110666/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110666</link>
+      <description>Всем привет! Меня зовут Михаил Поливаха, я технический лидер проекта Axelix , AI Native платформы для Java-разработки. 19 ноября вышел Spring Boot 4.2.0 . В нём появился AMQP 1.0, executable JAR-ы стали быстрее стартовать, а RestTemplate официально начал свой путь к удалению. Представьте, что у вас сервис на Boot 4.1, который работает с RabbitMQ. Вы обновляете версию Boot, открываете свой pom.xml , а там всё тот же spring-boot-starter-amqp . Казалось бы, чего тут проверять-то? Так вот, в 4.2 это</description>
+      <pubDate>Sat, 21 Nov 2026 12:38:50 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/spring_aio/articles/1110666/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110666</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Куда инвестировать в AI: кто заработает на новой промышленной революции?</title>
-      <link>https://habr.com/ru/articles/1110552/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110552</link>
-      <description>Сегодня 20 ноября 2026 года, и вчера Anthropic, компания, которая делает Claude, вышла на биржу по цене $83 за акцию с оценкой около $1,5 трлн, и это крупнейшее IPO в истории, которое побило рекорд SpaceX. Вся моя лента в новостях про это IPO, вот вам 4 забавных факта: Читать далее</description>
-      <pubDate>Fri, 20 Nov 2026 21:05:14 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1110552/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110552</guid>
+      <title>Как мы начали тестировать SwiftUI-компоненты без UI-тестов</title>
+      <link>https://habr.com/ru/articles/1110662/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110662</link>
+      <description>Опыт iOS-проекта с AI-функциональностью В iOS-проекте с AI-функциональностью интерфейс меняется постоянно: сообщения, действия над ними, состояния ввода, оформление под разные темы. Проверять это руками дорого, а UI-тесты на XCUITest медленные и хрупкие. Мы искали способ проверять SwiftUI-компоненты на уровне обычных юнит-тестов. Ниже: что из этого вышло, во что мы упёрлись и почему главной проблемой оказался не инструмент. Читать далее</description>
+      <pubDate>Sat, 21 Nov 2026 12:30:42 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1110662/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110662</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
   </channel>
