@@ -5,9 +5,57 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Fri, 20 Nov 2026 23:43:37 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 05:52:22 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Из разработки в FDE. Почему я ставлю на инженеров, которые сами идут к заказчику</title>
+      <link>https://habr.com/ru/articles/1110540/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110540</link>
+      <description>На новом рынке труда я делаю ставку на инженеров, которые умеют разобраться в задачах заказчика, написать код и довести решение до внедрения. Одно из направлений, к которым я присматриваюсь на ближайшие годы, — Forward Deployed Engineer (FDE). В выборке TrueUp число FDE-вакансий за год выросло в 4,6 раза — примерно до 1 500. Разбираю, что стоит за этим ростом и почему считаю эту роль перспективной для разработчиков. На примерах OpenAI, Anthropic и X5 Tech смотрю, за какую работу готовы платить, </description>
+      <pubDate>Sat, 21 Nov 2026 05:30:30 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1110540/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110540</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Краткий экскурс по серии или иносказания древних. Часть 3. Alone in the Dark (1992-2024)</title>
+      <link>https://habr.com/ru/articles/1110576/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110576</link>
+      <description>Эдвард Карнби, в понедельник нанялся на дело, во вторник в дорогу поехал, в среду в Дерсето вошёл, В четверг тёмный фолиант нашёл, в пятницу с тенями сражался, В субботу рассудка лишался, в воскресенье пропал он во тьме. Такова была ночь…Эдварда Карнби. Читать далее</description>
+      <pubDate>Sat, 21 Nov 2026 05:00:04 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1110576/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110576</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Выпуск интегрированной среды разработки Apache NetBeans 32</title>
+      <link>https://habr.com/ru/articles/1110264/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110264</link>
+      <description>Во второй половине ноября 2026 года состоялся релиз интегрированной среды разработки Apache NetBeans 32 . Проект имеет поддержку языков программирования Java SE, Java EE, PHP, C/C++, JavaScript, Rust и Groovy. Готовые сборки проекта NetBeans 32 сформированы для скачивания под Linux ( snapcraft.io , flathub ), Windows и macOS. Исходный код решения написан в основном на Java и опубликован на GitHub под лицензией Apache License 2.0. Читать далее</description>
+      <pubDate>Sat, 21 Nov 2026 04:26:25 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1110264/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110264</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Startup sues Apple in India over tap-to-share contacts feature</title>
+      <link>https://techcrunch.com/2026/11/20/startup-sues-apple-in-india-over-tap-to-share-contacts-feature/</link>
+      <description>A U.S. startup is seeking $162 million in damages and an injunction to impact iPhone and Apple Watch imports to India.</description>
+      <pubDate>Sat, 21 Nov 2026 04:00:00 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/11/20/startup-sues-apple-in-india-over-tap-to-share-contacts-feature/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>NASA’s Voyager 1 is now so far away that light takes 24 hours to reach it</title>
+      <link>https://www.sciencedaily.com/releases/2026/11/261120075554.htm</link>
+      <description>NASA’s Voyager 1 has reached an extraordinary milestone, traveling 16.1 billion miles from Earth to become the first spacecraft so distant that its signals take a full day to reach us. Nearly 50 years after launch, the aging probe continues its historic journey through interstellar space, pushing the limits of human exploration despite dwindling power and technical challenges.</description>
+      <pubDate>Sat, 21 Nov 2026 02:24:22 +0000</pubDate>
+      <guid>https://www.sciencedaily.com/releases/2026/11/261120075554.htm</guid>
+      <category>All Top News -- ScienceDaily</category>
+    </item>
+    <item>
+      <title>After 8 years in space, a groundbreaking X-ray telescope finally opens its eyes</title>
+      <link>https://www.sciencedaily.com/releases/2026/11/261120075547.htm</link>
+      <description>After eight years and 10 billion kilometers in space, a groundbreaking X-ray telescope heading to Mercury has captured its first cosmic observations and is performing even better than scientists expected. The instrument could soon reveal Mercury's hidden chemical secrets and transform our understanding of how the solar system's smallest planet formed.</description>
+      <pubDate>Sat, 21 Nov 2026 02:11:14 +0000</pubDate>
+      <guid>https://www.sciencedaily.com/releases/2026/11/261120075547.htm</guid>
+      <category>All Top News -- ScienceDaily</category>
+    </item>
     <item>
       <title>[Перевод] Карты Уордли. Глава 3 «Изучаем карту»</title>
       <link>https://habr.com/ru/articles/1110568/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110568</link>
@@ -38,54 +86,6 @@
       <description>Сегодня 20 ноября 2026 года, и вчера Anthropic, компания, которая делает Claude, вышла на биржу по цене $83 за акцию с оценкой около $1,5 трлн, и это крупнейшее IPO в истории, которое побило рекорд SpaceX. Вся моя лента в новостях про это IPO, вот вам 4 забавных факта: Читать далее</description>
       <pubDate>Fri, 20 Nov 2026 21:05:14 +0000</pubDate>
       <guid>https://habr.com/ru/articles/1110552/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110552</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Что дают графовые нейросети сверх истории событий: эксперименты на Лиме и Чикаго</title>
-      <link>https://habr.com/ru/articles/1110522/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110522</link>
-      <description>По истории зарегистрированных преступлений предсказываем, в каких частях города на следующий день произойдёт больше событий. На данных Лимы и Чикаго сравниваем экспоненциальное сглаживание, GRU, TCN и графовые нейросети. Разбираем, какие архитектуры действительно добавляют информацию, как это проверить абляциями и почему выигрыш на районах не обязательно сохраняется на гексах. Читать далее</description>
-      <pubDate>Fri, 20 Nov 2026 21:01:21 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1110522/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110522</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now</title>
-      <link>https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now/</link>
-      <description>Techies are building technology that can advance all aspects of the world — but can they protect their hearts? That's the vulnerability that honey pots exploit.</description>
-      <pubDate>Fri, 20 Nov 2026 20:58:29 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>YouTube is reportedly preparing to settle social media addiction claims for $3 billion</title>
-      <link>https://www.theverge.com/streaming/1039096/youtube-social-media-addiction-school-districts-settlement</link>
-      <description>YouTube is preparing to pay $3 billion to thousands of school districts to settle claims that its "addictive design" harmed kids, according to Bloomberg. Sources tell the publication that YouTube reached the agreement "in principle," and that the deal would also include new safeguards for teens. The settlement would allow Google to avoid a wave […]</description>
-      <pubDate>Fri, 20 Nov 2026 20:43:52 +0000</pubDate>
-      <guid>https://www.theverge.com/streaming/1039096/youtube-social-media-addiction-school-districts-settlement</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>Я неделю искал, как отключить подписку VK Workspace, а затем написал это…</title>
-      <link>https://habr.com/ru/articles/1110548/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110548</link>
-      <description>Не так давно — уже не помню точно, когда, — то ли Mail.ru, то VK Workspace отключили возможность пользоваться их почтой в сторонних почтовых клиентах. Я этот момент пропустил и не успел перенести данные, пока была такая возможность. В итоге оформил подписку на один домен и продолжал пользоваться. Читать далее</description>
-      <pubDate>Fri, 20 Nov 2026 20:23:35 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1110548/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110548</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.</title>
-      <link>https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/</link>
-      <description>Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.</description>
-      <pubDate>Fri, 20 Nov 2026 19:53:41 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>[Перевод] Гипотеза Римана и Claude: заметки о работе над доказательством</title>
-      <link>https://habr.com/ru/articles/1110544/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110544</link>
-      <description>От переводчика: Сегодня математик Левент Альпёге (Levent Alpöge) выложил доказательство гипотезы Римана. Дальше идет перевод его заметки. Гипотеза Римана - классическая задача теории чисел. Она требует наилучших возможных оценок количества простых чисел заданного масштаба. Её тени полтора столетия указывали математикам путь, а многочисленные переклички и отражения, доходящие даже до физики, учили нас видеть единство наших дисциплин. Я полагаю, что в работе с Claude мне удалось найти доказательст</description>
-      <pubDate>Fri, 20 Nov 2026 19:49:34 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1110544/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110544</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
   </channel>
