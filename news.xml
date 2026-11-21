@@ -5,87 +5,87 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Sat, 21 Nov 2026 14:18:17 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 20:46:42 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Chess.com’s next move is a new hub for classic games, from mahjong to sudoku</title>
-      <link>https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai</link>
-      <description>Chess.com is ready to go a lot bigger than chess. After launching Gambit, a gambling-free poker site, earlier this year, the company is now adding 10 more games: backgammon, checkers, go, hearts, mahjong, shogi, sudoku, solitaire, xiangqi, and a Scrabble alternative called word. They're all part of Chess's new Classic Games platform, which is launching […]</description>
-      <pubDate>Sat, 21 Nov 2026 14:00:00 +0000</pubDate>
-      <guid>https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai</guid>
+      <title>«Наши две флагманские языковые модели входят в число лучших в мире». Проверяем по открытому рейтингу</title>
+      <link>https://habr.com/ru/articles/1110766/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110766</link>
+      <description>«Входят в число лучших в мире»: сверяем заявление с открытым рейтингом Есть простой способ проверить громкие заявления о нейросетях — открытый рейтинг, в котором реальные пользователи вслепую выбирают лучший ответ из двух анонимных моделей. Такой рейтинг есть и в России: llmarena.ru — 112 моделей, больше 157 тысяч голосов. Читать далее</description>
+      <pubDate>Sat, 21 Nov 2026 20:29:08 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1110766/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110766</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>The UN fails to agree on rules regulating ‘killer robots’</title>
+      <link>https://www.theverge.com/tech/1039554/un-regulations-killer-robots</link>
+      <description>One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called "killer robots." Eventually, representatives left the meetings agreeing to "start discussing options" after a largely fruitless week of negotiations. According to NPR: Before the negotiations got underway, the […]</description>
+      <pubDate>Sat, 21 Nov 2026 20:03:37 +0000</pubDate>
+      <guid>https://www.theverge.com/tech/1039554/un-regulations-killer-robots</guid>
       <category>The Verge</category>
     </item>
     <item>
-      <title>Gemini 4 Neon догнала Opus 5.5, но релиз почти никто не заметил</title>
-      <link>https://habr.com/ru/articles/1110692/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110692</link>
-      <description>Неделю назад я бы рассмеялся в лицо любому, кто сказал бы, что я буду хвалить нейросеть Google. Рынок давно сжался до Opus 5.5 наверху и вечных споров с ChatGPT внизу. А потом вышла Gemini 4 Neon: “средняя” модель, которая понимает задачи с полуслова, сама чинит баги в чужих MCP-адаптерах и находит причины тормозов сервера, которые искали три недели. Рассказываю, почему вокруг релиза стоит тишина, что Google только что починила в кэше Antigravity и где у Neon вылезают слабые места. Смотреть тест</description>
-      <pubDate>Sat, 21 Nov 2026 13:49:12 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1110692/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110692</guid>
+      <title>Недостающий кусок Databricks Bundles: таблицы Unity Catalog как код</title>
+      <link>https://habr.com/ru/articles/1109206/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1109206</link>
+      <description>Если упростить, в Databricks с таблицами Unity Catalog работаюют двумя принципиально разными способами. Streaming Tables и Materialized Views - принадлежат пайплайну . Схема таблицы наследуется из SQL запроса, а создаёт и обновляет её сам пайплайн. Для такой жизни у Databricks есть всё: SDP (до недавнего времени DLT), сам пайплайн лежит в git, выкатывается через Declarative Automation Bundles (бывшие Databrick Asset Bundles) на нужную среду, попутно проходя ревью и CI/CD. Второе большое множеств</description>
+      <pubDate>Sat, 21 Nov 2026 20:00:34 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1109206/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1109206</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>[Перевод] Дообучаем на Mac малую языковую модель для RAG в браузере</title>
-      <link>https://habr.com/ru/companies/otus/articles/1106704/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106704</link>
-      <description>Задача выглядела довольно простой: дообучить Qwen3-0.6B отвечать на вопросы по фрагментам текста, найденным семантическим поиском. Но первые эксперименты дали обратный эффект: модель стала чаще выдумывать подробности, хотя validation loss продолжал снижаться. Четыре версии обучающих данных помогли разобраться, почему так происходит и как удалось втрое сократить число галлюцинаций — пусть и ценой более частых отказов от ответа. Посмотреть результаты</description>
-      <pubDate>Sat, 21 Nov 2026 13:12:10 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/otus/articles/1106704/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1106704</guid>
+      <title>ИИ-агенты, работающие в России</title>
+      <link>https://habr.com/ru/articles/1110764/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110764</link>
+      <description>В этой статье я собрала ИИ-агенты, которые работают из России без плясок с бубнами. Разумеется, если у вас есть возможность настроить себе топовый агент (Claude, Codex, Cursor), лучше именно так и сделать. Под настройкой я имею в виду технические ограничения "вы живете в России", так то там все просто, скачал и работай... Но что делать тем, у кого такой возможности нет? Кто хочет пока просто пощупать, «что это вообще такое» или даже готов платить, дали бы возможность? Такие варианты я и собрала.</description>
+      <pubDate>Sat, 21 Nov 2026 19:50:15 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1110764/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110764</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Как я перестал быть диспетчером у своих ИИ-агентов</title>
-      <link>https://habr.com/ru/articles/1110668/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110668</link>
-      <description>Рядом с рабочим монитором у меня долго стоял ноутбук с открытым окном агентов. Раз в двадцать–тридцать минут я ловил себя на том, что опять туда кошусь: не встал ли кто-нибудь на вопросе, не пошёл ли крутиться по кругу. Я не решал так делать осознанно, привычка выработалась сама, как нервный тик. Пока агент был один, всё выглядело просто: дал задачу, обсудил, посмотрел код. Когда параллельных сессий стало несколько — в разных ветках или разных репозиториях — код они по-прежнему писали быстро, а </description>
-      <pubDate>Sat, 21 Nov 2026 13:04:14 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1110668/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110668</guid>
+      <title>Что происходит с профессией разработчика: мой опыт и данные индустрии</title>
+      <link>https://habr.com/ru/articles/1110762/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110762</link>
+      <description>Как это началось у нас Я работаю в команде разработки примерно из двух десятков человек: разработчики на 1С и смежных стеках, несколько тестировщиков и аналитиков. Этот текст - не теория, а то, через что мы с коллегами прошли сами за последние месяцы, пока готовили план внедрения ИИ на ближайшие несколько лет. Началось всё без всякого плана. Весной 2026 часть команды уже баловалась с ИИ-агентами в личных проектах - просто из интереса. Летом это превратилось в рабочую практику: ручное написание к</description>
+      <pubDate>Sat, 21 Nov 2026 19:19:53 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1110762/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110762</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Кого заменит LLM</title>
-      <link>https://habr.com/ru/articles/1110674/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110674</link>
-      <description>LLM наступают, топы вещают о повсеместном внедрении ИИ, повышении производительности, ускорении процессов и сокращении персонала. Эксперты-футурологи уверенно ждут массовой безработицы, цивилизационного кризиса, глобального вымирания человечества (духовное, когнитивное и физическое). Я не готов заглядывать так далеко и глубоко, поэтому задался вопросом, кому стоит опасаться LLM и почему. Эта статья об ИИ, корпорациях и их сотрудниках. Читать далее</description>
-      <pubDate>Sat, 21 Nov 2026 13:00:26 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1110674/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110674</guid>
+      <title>Как дать ИИ доступ к серверным логам по SSH и не давать доступ к SSH ключу</title>
+      <link>https://habr.com/ru/articles/1110756/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110756</link>
+      <description>«Посмотри последние двадцать строк лога checkout» — для дежурного это просьба на минуту. С ИИ-ассистентом возникает встречный вопрос: какие права я ему для этого выдам? По соседству с нужным файлом лежит журнал HTTP-запросов, а моим SSH-ключом можно читать оба. Передавать ассистенту ключ ради одного tail я бы не стал. Покажу на тестовом примере, как я открываю ассистенту один журнал по SSH. У доступа будет простой критерий проверки: последние строки app.log читаются, а соседний access.log остаёт</description>
+      <pubDate>Sat, 21 Nov 2026 18:50:56 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1110756/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110756</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>SAFe Coaches Handbook — Глава 4. Управление Бэклогом Команды</title>
-      <link>https://habr.com/ru/articles/1109306/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1109306</link>
-      <description>Всем приветы! Немного почитать вам на выходных ;) Продолжаю делиться переводом книги SAFe Coaches Handbook - Darren Wilmshurst. Читать далее</description>
-      <pubDate>Sat, 21 Nov 2026 13:00:09 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1109306/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1109306</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>The Xiaomi 18 Pro proves two screens aren’t better than one</title>
-      <link>https://www.theverge.com/tech/1038562/xiaomi-18-pro-max-review</link>
-      <description>Xiaomi introduced a second screen to its flagship phones with last year's 17 Pros, but didn't release them outside China. That means the new 18 Pro and Pro Max are the first chance I've had to find out if a screen on the back of a phone is any more useful now than it was […]</description>
-      <pubDate>Sat, 21 Nov 2026 13:00:00 +0000</pubDate>
-      <guid>https://www.theverge.com/tech/1038562/xiaomi-18-pro-max-review</guid>
+      <title>The FBI and USDA were reportedly hacked</title>
+      <link>https://www.theverge.com/tech/1039543/fbi-usda-hacked</link>
+      <description>Friday, it was reported that both the US Department of Agriculture (USDA) and the FBI were hacked. In reporting on the FBI hack, CNN noted that this is the second such attack on the agency in the last few months, this time targeting the National Crime Information Center (NCIC), which federal, state, and local law […]</description>
+      <pubDate>Sat, 21 Nov 2026 17:42:27 +0000</pubDate>
+      <guid>https://www.theverge.com/tech/1039543/fbi-usda-hacked</guid>
       <category>The Verge</category>
     </item>
     <item>
-      <title>The game of the year is finally here</title>
-      <link>https://www.theverge.com/tech/1039433/gta-vi-alfred-6-clockwisetv-installer</link>
-      <description>Hi, friends! Welcome to Installer No. 153, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, thank you for tearing yourself away from GTA to be here, and also you can read all the old editions at the Installer homepage.) This week, I've been reading about nuclear radiation […]</description>
-      <pubDate>Sat, 21 Nov 2026 13:00:00 +0000</pubDate>
-      <guid>https://www.theverge.com/tech/1039433/gta-vi-alfred-6-clockwisetv-installer</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>Вышел Spring Boot 4.2. Что поменяется, если просто обновить версию?</title>
-      <link>https://habr.com/ru/companies/spring_aio/articles/1110666/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110666</link>
-      <description>Всем привет! Меня зовут Михаил Поливаха, я технический лидер проекта Axelix , AI Native платформы для Java-разработки. 19 ноября вышел Spring Boot 4.2.0 . В нём появился AMQP 1.0, executable JAR-ы стали быстрее стартовать, а RestTemplate официально начал свой путь к удалению. Представьте, что у вас сервис на Boot 4.1, который работает с RabbitMQ. Вы обновляете версию Boot, открываете свой pom.xml , а там всё тот же spring-boot-starter-amqp . Казалось бы, чего тут проверять-то? Так вот, в 4.2 это</description>
-      <pubDate>Sat, 21 Nov 2026 12:38:50 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/spring_aio/articles/1110666/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110666</guid>
+      <title>Подготовленное продолжение цифровой среды и другой ход: EXIT-0</title>
+      <link>https://habr.com/ru/articles/1110712/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110712</link>
+      <description>Хороший интерфейс обычно старается не заставлять нас каждый раз начинать заново. Закончился ролик, следующий уже ждёт. Раунд завершился, можно начать новый. Переписка остаётся открытой там, где мы остановились. Документ помнит страницу, курсор и последние изменения. Это удобно. Было бы странно, если бы после каждого ролика YouTube спрашивал, хотим ли мы продолжать смотреть видео, открыть калькулятор или, на всякий случай, заполнить налоговую декларацию. Огромная часть интерфейсной работы как раз</description>
+      <pubDate>Sat, 21 Nov 2026 17:10:25 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1110712/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110712</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Как мы начали тестировать SwiftUI-компоненты без UI-тестов</title>
-      <link>https://habr.com/ru/articles/1110662/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110662</link>
-      <description>Опыт iOS-проекта с AI-функциональностью В iOS-проекте с AI-функциональностью интерфейс меняется постоянно: сообщения, действия над ними, состояния ввода, оформление под разные темы. Проверять это руками дорого, а UI-тесты на XCUITest медленные и хрупкие. Мы искали способ проверять SwiftUI-компоненты на уровне обычных юнит-тестов. Ниже: что из этого вышло, во что мы упёрлись и почему главной проблемой оказался не инструмент. Читать далее</description>
-      <pubDate>Sat, 21 Nov 2026 12:30:42 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1110662/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110662</guid>
+      <title>GEO глазами пиарщиков: как научить нейросети рассказывать о вас больше?</title>
+      <link>https://habr.com/ru/articles/1110744/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110744</link>
+      <description>Привет! Меня зовут Ольга Копцева, я пиарщик Mediacom.Expert . В этой статье поделюсь взглядом пиарщика на GEO-продвижение , расскажу мы повышаем качество ответов ИИ о компаниях, брендах, экспертах. Пиарщики регулярно мониторят, какую информацию об их проекте, бренде, руководителе, компании показывает генеративная выдача в Алисе AI, GPT, Perplexity, DeepSeek, Claude, Gemini. Иногда нейросети и нейропоисковики путают одноимённые бренды, их контакты и услуги, показывают устаревшие сведения. Как сде</description>
+      <pubDate>Sat, 21 Nov 2026 17:09:23 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1110744/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110744</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Как Т-Банк узнаёт ваш компьютер: реверс антифрод-коллектора wev.js</title>
+      <link>https://habr.com/ru/articles/1110740/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110740</link>
+      <description>Разобрал по строкам антифрод-коллектор Т-Банка: деобфусцировал их wev.js, восстановил все проверки и ловушки. Плюс эксперименты: что меняет отпечаток при подмене GPU, а что нет, и почему шум на canvas выдаёт бота. Результат опубликовал Читать далее</description>
+      <pubDate>Sat, 21 Nov 2026 17:00:27 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1110740/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110740</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
   </channel>
