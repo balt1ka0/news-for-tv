@@ -5,88 +5,88 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Sun, 22 Nov 2026 15:57:55 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 21:34:17 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Как выбирать площадки для упоминаний бренда в ответах ИИ — я прошерстил исследование от Ahrefs</title>
-      <link>https://habr.com/ru/articles/1110916/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110916</link>
-      <description>Недавно я увидел у Ahrefs такое: у брендов с десятикратно большим числом упоминаний на веб-страницах примерно в 3,7 раза больше упоминаний в ответах ИИ — заметно скромнее, чем можно ожидать от такой разницы. При выборе площадок для упоминаний бренда важно учитывать, что Ahrefs изучал только чужие страницы с посетителями из поиска. Убедительность связи с ответами ИИ тоже важна: авторы сравнивали разные компании, поэтому коэффициент сам по себе не обосновывает покупку публикаций. Читать далее</description>
-      <pubDate>Sun, 22 Nov 2026 15:48:40 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1110916/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110916</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>630 тем и ноль в топе: что я понял из SEO-аудита</title>
-      <link>https://habr.com/ru/articles/1110912/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110912</link>
-      <description>У меня на сайте 630 тем по 39 предметам. SSR, sitemap на 1636 адресов, канонические ссылки, HSTS, 261 тест. Домену 35 дней. По технической части аудит не нашёл ничего: robots, sitemap, canonical, title, SSL — всё чисто. А по двенадцати коммерческим запросам сайта нет в топ-20. Вообще ни одной страницы. По бренду «edutrainer» — второе место, ниже пустой заглушки edutrainer.com . Это неприятно, но полезно. Потому что техническая чистота не объясняет, почему человек, который ищет «сложение дробей т</description>
-      <pubDate>Sun, 22 Nov 2026 15:40:43 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1110912/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110912</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Что делать, если кофемашина потратила 1 ТБ трафика</title>
-      <link>https://habr.com/ru/companies/globalsign/articles/1110906/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110906</link>
-      <description>Когда десять лет назад в телевизорах появилась технология Automatic content recognition (ACR) для слежки за зрителями, никто не мог и предполагать, что аналогичные методы начнут использовать и другие бытовые приборы из «умного дома». Но так и вышло. Сначала производители умных телевизоров, а потом холодильники, наушники , фритюрницы , а теперь и кофемашины стали собирать информацию о пользователях для перепродажи рекламным агентствам. Похоже, это стало общим трендом. Читать далее</description>
-      <pubDate>Sun, 22 Nov 2026 15:34:20 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/globalsign/articles/1110906/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110906</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Что показывает ЭЭГ, когда мы закрываем глаза</title>
-      <link>https://habr.com/ru/articles/1110898/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110898</link>
-      <description>Всем привет! Не так давно я купил повязку Neiry Headband . Мне захотелось делать с ней небольшие эксперименты на себе и смотреть, как меняется ЭЭГ в самых обычных ситуациях. Например, что будет, если просто закрыть глаза? Headband — это беспроводная повязка с сухими электродами на внутренней стороне. Электроды прилегают к коже головы и регистрируют слабые изменения напряжения. Повязка передаёт сигнал по Bluetooth, и его можно посмотреть в приложении. Описание Neiry Headband Neiry Headband. Фото </description>
-      <pubDate>Sun, 22 Nov 2026 15:21:47 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1110898/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110898</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Protesters storm Meta offices in India</title>
-      <link>https://www.theverge.com/tech/1039732/protesters-storm-meta-offices-in-india</link>
-      <description>Members of the opposition Congress party protested outside Meta's offices in Delhi on Friday and appear to have entered the building in a video shared by CNN. Members of the party's youth wing are demanding the company restore accounts of party leaders and warned of more protests to come. The Congress party has criticized Meta […]</description>
-      <pubDate>Sun, 22 Nov 2026 15:15:07 +0000</pubDate>
-      <guid>https://www.theverge.com/tech/1039732/protesters-storm-meta-offices-in-india</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>Создание мобильной игры с монетизацией через блокчейн TON</title>
-      <link>https://habr.com/ru/articles/1110864/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110864</link>
-      <description>Создание мобильной игры с монетизацией через блокчейн TON Последние годы стали для меня переломными в карьере. В 2023 году я погрузился в блокчейн-разработку, затем открыл компанию, прошёл через серьёзный финансовый кризис и начал жизнь с чистого листа. Сейчас финансовое положение понемногу стабилизируется, но сказать, что я уже твёрдо встал на ноги и добился заметных успехов, пока не могу. Зато за это время накопил немало опыта. Недавно я понял, что устал от фриланса: от однообразных задач, нео</description>
-      <pubDate>Sun, 22 Nov 2026 15:05:03 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1110864/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110864</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Can a TV be too large? An investigation</title>
-      <link>https://techcrunch.com/2026/11/22/can-a-tv-be-too-large-an-investigation/</link>
-      <description>Can a TV be too large? This writer's recent upgrade to a 65-inch OLED came with some unexpected challenges.</description>
-      <pubDate>Sun, 22 Nov 2026 15:00:00 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/11/22/can-a-tv-be-too-large-an-investigation/</guid>
+      <title>OpenAI’s chief scientist has thoughts on how to limit AI development</title>
+      <link>https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/</link>
+      <description>To establish a speed limit on AI development, you need to agree on how to measure speed.</description>
+      <pubDate>Sun, 22 Nov 2026 21:14:07 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/</guid>
       <category>TechCrunch</category>
     </item>
     <item>
-      <title>HR мёртв или то, как я писал ZK-верификаторы на Fe</title>
-      <link>https://habr.com/ru/articles/1110892/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110892</link>
-      <description>Я безработный кодер. Три месяца откликов: AppSec — отказ, Rust — отказ, даже вайб-кодером не взяли, вайб не тот. Зато площадка между отказами на ИБ-вакансии продала бы мне курс «Специалист по ИБ». Пока ИИ-HR отсеивают людей, а школьники с ИИ-агентами выносят базы у компаний с «крутой инфрой», я сел и написал то, чего не было: проверку zero-knowledge доказательств на языке Fe. Groth16, PLONK, halo2 и STARK, где целый класс багов, на которых теряют миллионы, ловит не аудитор, а компилятор. Внутри:</description>
-      <pubDate>Sun, 22 Nov 2026 14:59:26 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1110892/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110892</guid>
+      <title>Гипотеза Римана. Часть первая: как мы её не доказали</title>
+      <link>https://habr.com/ru/articles/1110964/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110964</link>
+      <description>20 ноября 2026 года гипотезу Римана доказали. Не я: Левент Альпёге вместе с моделью Claude, и сообщества Lean и Mathlib уже подтвердили формальную проверку. А я полтора года пытался сделать то же самое: с языковыми моделями, системой Lean и толстыми журналами ошибок. Это первая часть серии из трёх. В ней наш путь: как задача о нулях превращается в задачу о приближении функций, почему матрица, которая «всегда положительна», ничего не доказывает, как одна буква T съедала весь выигрыш и как теорема</description>
+      <pubDate>Sun, 22 Nov 2026 20:47:14 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1110964/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110964</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Ревью кода от ИИ-агента: что можно не читать и как читать остальное</title>
-      <link>https://habr.com/ru/articles/1110878/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110878</link>
-      <description>Вайб-кодинг хорош для прототипов, но кодом, за работу которого в проде кто-то отвечает, нужно владеть — а для этого его, как минимум, необходимо прочитать и понять . Проблема в том, что читать сгенерированный код заметно тяжелее, чем код коллег. А ещё — его больше. Намного больше. Поэтому я сейчас пробую комбинированный подход из двух частей. Первая: часть кода явно объявить непроверенной и изолировать, как сторонние зависимости. Вторая: от остального кода требовать, чтобы ИИ писал его так, как </description>
-      <pubDate>Sun, 22 Nov 2026 14:10:37 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1110878/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110878</guid>
+      <title>Одна генетическая мутация как двигатель эволюции мозга</title>
+      <link>https://habr.com/ru/articles/1110966/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110966</link>
+      <description>Странно, на за последние пару месяцев это уже третья статья о новом факторе, который пушил развитие мозга людей. Что еще раз доказывает: не было какого-то одного источника роста мозга. Были условия, были мутации, был естественный отбор. И тем не менее, даже при одинаковом наборе генов, всего одна измененная активность может дать прирост, отделяющий нас от других млекопитающих. Читать далее</description>
+      <pubDate>Sun, 22 Nov 2026 20:00:21 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1110966/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110966</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Nintendo’s Switch 2 console is $50 off for Black Friday</title>
-      <link>https://www.theverge.com/gadgets/1038181/nintendo-switch-2-black-friday-deal-mario-kart-world-bundle-2026-sale</link>
-      <description>Those hoping to save some cash on a Nintendo Switch 2 can do so starting today, November 22nd, through Saturday, December 5th, giving you plenty of time to think about it after Cyber Monday has passed. For a limited time, Nintendo has knocked $50 off one of its two current console bundles, temporarily rolling back […]</description>
-      <pubDate>Sun, 22 Nov 2026 14:00:00 +0000</pubDate>
-      <guid>https://www.theverge.com/gadgets/1038181/nintendo-switch-2-black-friday-deal-mario-kart-world-bundle-2026-sale</guid>
+      <title>Ролевая игра с RAG: как нейросеть стала библиотекарем</title>
+      <link>https://habr.com/ru/articles/1110956/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110956</link>
+      <description>Во время игры на полигоне всегда есть момент, когда игрок подходит с лицом человека, у которого наконец-то созрел правильный вопрос, а у мастера в этот момент в голове план полигона, в одной руке рация а в другой чужой реквизит. Ответ на вопрос при этом лежит где-то в мастерятнике и в голове трёх разных людей. Из этих мест его надо достать быстрее, чем игрок успеет придумать свою версию событий. Я сделал для этого помощника. Он стоит на точке, может в библиотеке, может в мастерятнике, может в та</description>
+      <pubDate>Sun, 22 Nov 2026 19:22:10 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1110956/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110956</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Три моих кейса, где экономия времени с ИИ‑автоматизациями обернулась постоянными переделками и фиксами</title>
+      <link>https://habr.com/ru/articles/1109850/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1109850</link>
+      <description>Автоматизация с ИИ может быстро выдать результат и всё же потребовать настройки, проверки и ремонта. В октябре я заморозил сложную фабрику статей, столкнулся с падением ночного запуска после обновления Claude Code и добавил проверку дат для семейной афиши. Общих затрат на эти задачи я не считал, поэтому по отдельным эпизодам нельзя сказать, сколько времени автоматизация сэкономила или забрала. Можно разобрать, где именно возникла дополнительная работа и как учитывать её в следующем сравнении. Чи</description>
+      <pubDate>Sun, 22 Nov 2026 18:52:19 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1109850/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1109850</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Why data centers are at the center of the Big Tech backlash</title>
+      <link>https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/</link>
+      <description>Journalist Paris Marx unpacks his new book "Hyperscale."</description>
+      <pubDate>Sun, 22 Nov 2026 18:08:43 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>Delta flights in and out of Atlanta delayed due to system outage</title>
+      <link>https://www.theverge.com/transportation/1039779/delta-flights-delayed-system-outage</link>
+      <description>All Delta flights in and out of Atlanta are facing significant delays on Sunday due to a problem with the system that calculates a plane's weight and balance. Hartsfield-Jackson Atlanta International Airport is Delta's largest hub and one of the busiest airports in the world. While only Delta is impacted at the moment, disruptions at […]</description>
+      <pubDate>Sun, 22 Nov 2026 17:46:44 +0000</pubDate>
+      <guid>https://www.theverge.com/transportation/1039779/delta-flights-delayed-system-outage</guid>
       <category>The Verge</category>
+    </item>
+    <item>
+      <title>Казино в корзине: зачем магазины предлагают нам «выигрывать» скидки</title>
+      <link>https://habr.com/ru/articles/1110938/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110938</link>
+      <description>Мне пришло уведомление от Ozon: начислили 15 морковок. Я зашёл в «Морковск», сыграл и выиграл три скидки: на Tefal, Librederm и «Галтекс». Использовать их можно 48 часов, а покупать что-то из этого я не собирался. Разбираюсь, зачем магазину превращать скидку в игру, что на это говорят эксперименты (там есть неожиданные цифры) и где начинается обман. Читать далее</description>
+      <pubDate>Sun, 22 Nov 2026 17:36:25 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1110938/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110938</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Binding of Isaac developer removes AI music from Repentance Plus</title>
+      <link>https://www.theverge.com/games/1039770/binding-of-isaac-ai-music</link>
+      <description>The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered that a particular segment of the game used AI music. Reddit user ShweetsStuff discovered the songs used during a Grand Theft Auto-themed section. They found several audio files with Suno metadata that pointed back to […]</description>
+      <pubDate>Sun, 22 Nov 2026 17:25:20 +0000</pubDate>
+      <guid>https://www.theverge.com/games/1039770/binding-of-isaac-ai-music</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>TechCrunch Mobility: A/B testing robots vs. humans</title>
+      <link>https://techcrunch.com/2026/11/22/techcrunch-mobility-a-b-testing-robots-vs-humans/</link>
+      <description>Welcome back to TechCrunch Mobility, your hub for the future of transportation and, now more than ever, the role AI is playing in it.</description>
+      <pubDate>Sun, 22 Nov 2026 17:06:00 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/11/22/techcrunch-mobility-a-b-testing-robots-vs-humans/</guid>
+      <category>TechCrunch</category>
     </item>
   </channel>
 </rss>
