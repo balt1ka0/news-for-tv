@@ -5,88 +5,88 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Sun, 22 Nov 2026 07:48:25 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 15:57:55 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Добавил на сайт sameAs и llms.txt, потом открыл журнал nginx и посчитал, кто из ИИ-ботов пришёл на самом деле</title>
-      <link>https://habr.com/ru/articles/1107206/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107206</link>
-      <description>Я спросил у пары чат-ботов, кто ведёт мой блог, и получил ответы про трёх разных людей с похожими никами. У одного из них аккаунт в соцсети, и его ник отличается от моего только подчёркиванием. Сайт у меня статический: лендинг на Next.js с output: export и блог, который собирает из markdown питоновский скрипт build-blog.py . 10 ноября я за вечер переделал разметку автора, переписал страницу «об авторе» и выложил llms.txt . Через два дня полез в журнал nginx посмотреть, кто это всё прочитал. Почт</description>
-      <pubDate>Sun, 22 Nov 2026 07:25:19 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1107206/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107206</guid>
+      <title>Как выбирать площадки для упоминаний бренда в ответах ИИ — я прошерстил исследование от Ahrefs</title>
+      <link>https://habr.com/ru/articles/1110916/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110916</link>
+      <description>Недавно я увидел у Ahrefs такое: у брендов с десятикратно большим числом упоминаний на веб-страницах примерно в 3,7 раза больше упоминаний в ответах ИИ — заметно скромнее, чем можно ожидать от такой разницы. При выборе площадок для упоминаний бренда важно учитывать, что Ahrefs изучал только чужие страницы с посетителями из поиска. Убедительность связи с ответами ИИ тоже важна: авторы сравнивали разные компании, поэтому коэффициент сам по себе не обосновывает покупку публикаций. Читать далее</description>
+      <pubDate>Sun, 22 Nov 2026 15:48:40 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1110916/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110916</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Как я разбирался с Red Square Keyrox TKL на iMac — OCLP, Ghidra и свой софт для подсветки</title>
-      <link>https://habr.com/ru/articles/1110808/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110808</link>
-      <description>Клавиатура Red Square Keyrox TKL — один из самых популярных и доступных вариантов механики на рынке: смазанные свитчи, заводская шумоизоляция, добротный корпус и отличная цена. Но есть один нюанс: официальный софт существует исключительно под Windows . Для пользователей macOS это означало полное отсутствие контроля: Читать далее</description>
-      <pubDate>Sun, 22 Nov 2026 07:19:18 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1110808/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110808</guid>
+      <title>630 тем и ноль в топе: что я понял из SEO-аудита</title>
+      <link>https://habr.com/ru/articles/1110912/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110912</link>
+      <description>У меня на сайте 630 тем по 39 предметам. SSR, sitemap на 1636 адресов, канонические ссылки, HSTS, 261 тест. Домену 35 дней. По технической части аудит не нашёл ничего: robots, sitemap, canonical, title, SSL — всё чисто. А по двенадцати коммерческим запросам сайта нет в топ-20. Вообще ни одной страницы. По бренду «edutrainer» — второе место, ниже пустой заглушки edutrainer.com . Это неприятно, но полезно. Потому что техническая чистота не объясняет, почему человек, который ищет «сложение дробей т</description>
+      <pubDate>Sun, 22 Nov 2026 15:40:43 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1110912/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110912</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Выпуск обновления открытого проекта для создания и хранения в электронной библиотеке книг разного формата Calibre 9.19</title>
-      <link>https://habr.com/ru/articles/1110734/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110734</link>
-      <description>21 ноября 2026 года состоялся выпуск открытого мультиплатформенного проекта Calibre 9.19 . Это программное решение для чтения, создания и хранения в электронной библиотеке электронных книг разного формата. Исходный код проекта написан на Python и C и опубликован на GitHub под лицензией GNU General Public License v3.0. Версия Calibre 7.0 вышла в ноябре 2023 года. Сборка Calibre 8.0 вышла в марте 2025 года. Выпуск Calibre 9.0 случился в конце января 2026 года. Проект находится в разработке более 1</description>
-      <pubDate>Sun, 22 Nov 2026 07:07:15 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1110734/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110734</guid>
+      <title>Что делать, если кофемашина потратила 1 ТБ трафика</title>
+      <link>https://habr.com/ru/companies/globalsign/articles/1110906/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110906</link>
+      <description>Когда десять лет назад в телевизорах появилась технология Automatic content recognition (ACR) для слежки за зрителями, никто не мог и предполагать, что аналогичные методы начнут использовать и другие бытовые приборы из «умного дома». Но так и вышло. Сначала производители умных телевизоров, а потом холодильники, наушники , фритюрницы , а теперь и кофемашины стали собирать информацию о пользователях для перепродажи рекламным агентствам. Похоже, это стало общим трендом. Читать далее</description>
+      <pubDate>Sun, 22 Nov 2026 15:34:20 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/globalsign/articles/1110906/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110906</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Ностальгические игры: Final Fantasy X</title>
-      <link>https://habr.com/ru/companies/timeweb/articles/1110378/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110378</link>
-      <description>Зачем возвращаться к игре, на которую уже потратил несколько десятков часов, когда вокруг столько всего интересного, до чего никак не доходят руки? Особенно если ты уже знаешь сюжет, помнишь персонажей и прекрасно представляешь, чем всё закончится. Ну казалось бы, можно оставить себе хорошие воспоминания и взяться за что-нибудь новое, но сколько же радости приносит возвращение в любимые проекты юности, словно вернулся в отчий дом! И иногда и правда достаточно заглянуть на полчаса, услышать музык</description>
-      <pubDate>Sun, 22 Nov 2026 07:05:17 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/timeweb/articles/1110378/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110378</guid>
+      <title>Что показывает ЭЭГ, когда мы закрываем глаза</title>
+      <link>https://habr.com/ru/articles/1110898/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110898</link>
+      <description>Всем привет! Не так давно я купил повязку Neiry Headband . Мне захотелось делать с ней небольшие эксперименты на себе и смотреть, как меняется ЭЭГ в самых обычных ситуациях. Например, что будет, если просто закрыть глаза? Headband — это беспроводная повязка с сухими электродами на внутренней стороне. Электроды прилегают к коже головы и регистрируют слабые изменения напряжения. Повязка передаёт сигнал по Bluetooth, и его можно посмотреть в приложении. Описание Neiry Headband Neiry Headband. Фото </description>
+      <pubDate>Sun, 22 Nov 2026 15:21:47 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1110898/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110898</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Мелодия, Золотое сечение и Постоянная тонкой структуры (α)</title>
-      <link>https://habr.com/ru/articles/1101864/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101864</link>
-      <description>Числу Альфа (α), равному 1/137, присваивают различные красивые и громкие эпитеты - «магические число», «число Бога» или «код Вселенной». Физики-теоретики ломают голову, откуда это число взялось, из каких принципов и считают одной из величайших тайн мироздания. В небольшой статье я определю число Альфа, её приблизительное значение, исходя из творческих принципов, с помощью мелодии, созданной на основе пропорции золотого сечения. Читать далее</description>
-      <pubDate>Sun, 22 Nov 2026 07:01:16 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1101864/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101864</guid>
+      <title>Protesters storm Meta offices in India</title>
+      <link>https://www.theverge.com/tech/1039732/protesters-storm-meta-offices-in-india</link>
+      <description>Members of the opposition Congress party protested outside Meta's offices in Delhi on Friday and appear to have entered the building in a video shared by CNN. Members of the party's youth wing are demanding the company restore accounts of party leaders and warned of more protests to come. The Congress party has criticized Meta […]</description>
+      <pubDate>Sun, 22 Nov 2026 15:15:07 +0000</pubDate>
+      <guid>https://www.theverge.com/tech/1039732/protesters-storm-meta-offices-in-india</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>Создание мобильной игры с монетизацией через блокчейн TON</title>
+      <link>https://habr.com/ru/articles/1110864/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110864</link>
+      <description>Создание мобильной игры с монетизацией через блокчейн TON Последние годы стали для меня переломными в карьере. В 2023 году я погрузился в блокчейн-разработку, затем открыл компанию, прошёл через серьёзный финансовый кризис и начал жизнь с чистого листа. Сейчас финансовое положение понемногу стабилизируется, но сказать, что я уже твёрдо встал на ноги и добился заметных успехов, пока не могу. Зато за это время накопил немало опыта. Недавно я понял, что устал от фриланса: от однообразных задач, нео</description>
+      <pubDate>Sun, 22 Nov 2026 15:05:03 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1110864/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110864</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Если долго смотреть в глубину</title>
-      <link>https://habr.com/ru/articles/1110800/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110800</link>
-      <description>Я один делаю программу-компаньон для Euro Truck Simulator 2 — рацию «Канал 15». По-хорошему это радиоспектакль, где игрок один из зрителей, а так же актеров, и режисеров, а вот восемнадцать выдуманных водителей ездят по карте, разговаривают по рации, помнят прошлые разговоры и со временем начинают тебя узнавать. Не мод, файлы игры не трогает, работает рядом с игрой, и читает телемитрию. В этой статье хочу не про то, как оно устроено внутри (это уже было), а про то, во что я упёрся сейчас. Я пере</description>
-      <pubDate>Sun, 22 Nov 2026 06:49:47 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1110800/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110800</guid>
+      <title>Can a TV be too large? An investigation</title>
+      <link>https://techcrunch.com/2026/11/22/can-a-tv-be-too-large-an-investigation/</link>
+      <description>Can a TV be too large? This writer's recent upgrade to a 65-inch OLED came with some unexpected challenges.</description>
+      <pubDate>Sun, 22 Nov 2026 15:00:00 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/11/22/can-a-tv-be-too-large-an-investigation/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>HR мёртв или то, как я писал ZK-верификаторы на Fe</title>
+      <link>https://habr.com/ru/articles/1110892/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110892</link>
+      <description>Я безработный кодер. Три месяца откликов: AppSec — отказ, Rust — отказ, даже вайб-кодером не взяли, вайб не тот. Зато площадка между отказами на ИБ-вакансии продала бы мне курс «Специалист по ИБ». Пока ИИ-HR отсеивают людей, а школьники с ИИ-агентами выносят базы у компаний с «крутой инфрой», я сел и написал то, чего не было: проверку zero-knowledge доказательств на языке Fe. Groth16, PLONK, halo2 и STARK, где целый класс багов, на которых теряют миллионы, ловит не аудитор, а компилятор. Внутри:</description>
+      <pubDate>Sun, 22 Nov 2026 14:59:26 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1110892/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110892</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Натальная карта на Python: Swiss Ephemeris, SVG-схемы с карточками по наведению и встроенный Python в архиве</title>
-      <link>https://habr.com/ru/articles/1110798/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110798</link>
-      <description>Началось с того, что я хотел посмотреть свою натальную карту и обнаружил, что все удобные сайты ведут одним и тем же путём: регистрация, почта, а расшифровку Луны открывают за подписку. Планеты, как известно, бесплатные, и считаются они давно известными формулами. Поэтому я сделал локальную программу для Windows и назвал «Звёздный паспорт»: Flask на 127.0.0.1, интерфейс в браузере, значок у часов, расчёт на pyswisseph . Исходники открыты: https://github.com/OlegChe77/star-passport . Читать далее</description>
-      <pubDate>Sun, 22 Nov 2026 06:39:20 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1110798/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110798</guid>
+      <title>Ревью кода от ИИ-агента: что можно не читать и как читать остальное</title>
+      <link>https://habr.com/ru/articles/1110878/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110878</link>
+      <description>Вайб-кодинг хорош для прототипов, но кодом, за работу которого в проде кто-то отвечает, нужно владеть — а для этого его, как минимум, необходимо прочитать и понять . Проблема в том, что читать сгенерированный код заметно тяжелее, чем код коллег. А ещё — его больше. Намного больше. Поэтому я сейчас пробую комбинированный подход из двух частей. Первая: часть кода явно объявить непроверенной и изолировать, как сторонние зависимости. Вторая: от остального кода требовать, чтобы ИИ писал его так, как </description>
+      <pubDate>Sun, 22 Nov 2026 14:10:37 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1110878/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110878</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Месяц разработки Geo Collector: офлайн-карты России и Армении, 94 настройки карты и первая версия для Android</title>
-      <link>https://habr.com/ru/articles/1110786/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110786</link>
-      <description>С момента публикации моей предыдущей статьи о Geo Collector и выхода первой публичной версии приложения прошло чуть больше двух недель. Однако с учётом достаточно продолжительного ожидания первой версии в App Store фактически сегодня я хочу рассказать о результатах примерно месяца разработки. За это время приложение значительно изменилось. Если изначально основной задачей Geo Collector был удобный сбор географических данных с помощью смартфона, то постепенно проект начал приобретать черты полноц</description>
-      <pubDate>Sun, 22 Nov 2026 02:22:12 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1110786/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110786</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Как научить AI-агента проверять Windows-приложение через настоящий GUI: архитектура Deskcheck</title>
-      <link>https://habr.com/ru/articles/1110776/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110776</link>
-      <description>«Я просто хотел, чтобы AI проверял свой код. Что могло пойти не так?» — техническая история GUI-тестирования двух Delphi-продуктов и двенадцати открытых приложений. Меня зовут Игорь Белых. Я пишу на Delphi почти двадцать лет — от Delphi 5 до современных версий, — а ещё был тимлидом, скрам-мастером и функциональным лидом, руководил командами до 50 человек. Тестирование — моя давняя тема: я делал на DUnit фреймворк для тестов MSSQL, а ещё в 2014 году писал о тестах процедур Firebird. Сейчас я разр</description>
-      <pubDate>Sat, 21 Nov 2026 23:57:50 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1110776/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110776</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>[Перевод] Передача незаглушаемого сигнала с помощью гравитации: полный перевод статьи в Science</title>
-      <link>https://habr.com/ru/articles/1110748/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110748</link>
-      <description>@avshkol сделал перевод статьи, которая описывает первый опыт передачи сигнала путём изменения гравитационного поля. Станет ли этот опыт аналогом опытов Герца и Попова с электромагнитным сигналом? Приведёт ли он к открытию принципиального нового способа обмена информацией (и поиска сигналов иных цивилизаций) или останется красивым экспериментом-игрушкой? Разбираемся в технологии и параметрах этого удивительного опыта. Читать далее</description>
-      <pubDate>Sat, 21 Nov 2026 22:58:16 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1110748/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110748</guid>
-      <category>Все публикации подряд на Хабре</category>
+      <title>Nintendo’s Switch 2 console is $50 off for Black Friday</title>
+      <link>https://www.theverge.com/gadgets/1038181/nintendo-switch-2-black-friday-deal-mario-kart-world-bundle-2026-sale</link>
+      <description>Those hoping to save some cash on a Nintendo Switch 2 can do so starting today, November 22nd, through Saturday, December 5th, giving you plenty of time to think about it after Cyber Monday has passed. For a limited time, Nintendo has knocked $50 off one of its two current console bundles, temporarily rolling back […]</description>
+      <pubDate>Sun, 22 Nov 2026 14:00:00 +0000</pubDate>
+      <guid>https://www.theverge.com/gadgets/1038181/nintendo-switch-2-black-friday-deal-mario-kart-world-bundle-2026-sale</guid>
+      <category>The Verge</category>
     </item>
   </channel>
 </rss>
