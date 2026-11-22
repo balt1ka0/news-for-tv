@@ -5,9 +5,49 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Sat, 21 Nov 2026 20:46:42 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 00:59:09 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Как научить AI-агента проверять Windows-приложение через настоящий GUI: архитектура Deskcheck</title>
+      <link>https://habr.com/ru/articles/1110776/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110776</link>
+      <description>«Я просто хотел, чтобы AI проверял свой код. Что могло пойти не так?» — техническая история GUI-тестирования двух Delphi-продуктов и двенадцати открытых приложений. Меня зовут Игорь Белых. Я пишу на Delphi почти двадцать лет — от Delphi 5 до современных версий, — а ещё был тимлидом, скрам-мастером и функциональным лидом, руководил командами до 50 человек. Тестирование — моя давняя тема: я делал на DUnit фреймворк для тестов MSSQL, а ещё в 2014 году писал о тестах процедур Firebird. Сейчас я разр</description>
+      <pubDate>Sat, 21 Nov 2026 23:57:50 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1110776/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110776</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>[Перевод] Передача незаглушаемого сигнала с помощью гравитации: полный перевод статьи в Science</title>
+      <link>https://habr.com/ru/articles/1110748/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110748</link>
+      <description>@avshkol сделал перевод статьи, которая описывает первый опыт передачи сигнала путём изменения гравитационного поля. Станет ли этот опыт аналогом опытов Герца и Попова с электромагнитным сигналом? Приведёт ли он к открытию принципиального нового способа обмена информацией (и поиска сигналов иных цивилизаций) или останется красивым экспериментом-игрушкой? Разбираемся в технологии и параметрах этого удивительного опыта. Читать далее</description>
+      <pubDate>Sat, 21 Nov 2026 22:58:16 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1110748/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110748</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Amazon is complaining about NYC Council on shipping labels, too</title>
+      <link>https://www.theverge.com/tech/1039564/amazon-nyc-council-packages-shipping-label</link>
+      <description>Amazon is leaving no venue unexplored in its fight against the New York City Council and the Delivery Protection Act. The company is now putting labels on shipments claiming that the Council could add up to $5 to any Amazon order. The Delivery Protection Act would effectively ban the sort of third-party arrangements Amazon currently […]</description>
+      <pubDate>Sat, 21 Nov 2026 21:59:31 +0000</pubDate>
+      <guid>https://www.theverge.com/tech/1039564/amazon-nyc-council-packages-shipping-label</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance</title>
+      <link>https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/</link>
+      <description>Signal is limiting users' ability to take screenshots in both its Android and iOS apps.</description>
+      <pubDate>Sat, 21 Nov 2026 21:37:10 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>A tale of two Nvidias</title>
+      <link>https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/</link>
+      <description>We got two very different pictures of Nvidia — the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.</description>
+      <pubDate>Sat, 21 Nov 2026 21:07:42 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/</guid>
+      <category>TechCrunch</category>
+    </item>
     <item>
       <title>«Наши две флагманские языковые модели входят в число лучших в мире». Проверяем по открытому рейтингу</title>
       <link>https://habr.com/ru/articles/1110766/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110766</link>
@@ -33,7 +73,7 @@
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>ИИ-агенты, работающие в России</title>
+      <title>ИИ‑агенты, работающие в России</title>
       <link>https://habr.com/ru/articles/1110764/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110764</link>
       <description>В этой статье я собрала ИИ-агенты, которые работают из России без плясок с бубнами. Разумеется, если у вас есть возможность настроить себе топовый агент (Claude, Codex, Cursor), лучше именно так и сделать. Под настройкой я имею в виду технические ограничения "вы живете в России", так то там все просто, скачал и работай... Но что делать тем, у кого такой возможности нет? Кто хочет пока просто пощупать, «что это вообще такое» или даже готов платить, дали бы возможность? Такие варианты я и собрала.</description>
       <pubDate>Sat, 21 Nov 2026 19:50:15 +0000</pubDate>
@@ -46,46 +86,6 @@
       <description>Как это началось у нас Я работаю в команде разработки примерно из двух десятков человек: разработчики на 1С и смежных стеках, несколько тестировщиков и аналитиков. Этот текст - не теория, а то, через что мы с коллегами прошли сами за последние месяцы, пока готовили план внедрения ИИ на ближайшие несколько лет. Началось всё без всякого плана. Весной 2026 часть команды уже баловалась с ИИ-агентами в личных проектах - просто из интереса. Летом это превратилось в рабочую практику: ручное написание к</description>
       <pubDate>Sat, 21 Nov 2026 19:19:53 +0000</pubDate>
       <guid>https://habr.com/ru/articles/1110762/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110762</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Как дать ИИ доступ к серверным логам по SSH и не давать доступ к SSH ключу</title>
-      <link>https://habr.com/ru/articles/1110756/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110756</link>
-      <description>«Посмотри последние двадцать строк лога checkout» — для дежурного это просьба на минуту. С ИИ-ассистентом возникает встречный вопрос: какие права я ему для этого выдам? По соседству с нужным файлом лежит журнал HTTP-запросов, а моим SSH-ключом можно читать оба. Передавать ассистенту ключ ради одного tail я бы не стал. Покажу на тестовом примере, как я открываю ассистенту один журнал по SSH. У доступа будет простой критерий проверки: последние строки app.log читаются, а соседний access.log остаёт</description>
-      <pubDate>Sat, 21 Nov 2026 18:50:56 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1110756/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110756</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>The FBI and USDA were reportedly hacked</title>
-      <link>https://www.theverge.com/tech/1039543/fbi-usda-hacked</link>
-      <description>Friday, it was reported that both the US Department of Agriculture (USDA) and the FBI were hacked. In reporting on the FBI hack, CNN noted that this is the second such attack on the agency in the last few months, this time targeting the National Crime Information Center (NCIC), which federal, state, and local law […]</description>
-      <pubDate>Sat, 21 Nov 2026 17:42:27 +0000</pubDate>
-      <guid>https://www.theverge.com/tech/1039543/fbi-usda-hacked</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>Подготовленное продолжение цифровой среды и другой ход: EXIT-0</title>
-      <link>https://habr.com/ru/articles/1110712/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110712</link>
-      <description>Хороший интерфейс обычно старается не заставлять нас каждый раз начинать заново. Закончился ролик, следующий уже ждёт. Раунд завершился, можно начать новый. Переписка остаётся открытой там, где мы остановились. Документ помнит страницу, курсор и последние изменения. Это удобно. Было бы странно, если бы после каждого ролика YouTube спрашивал, хотим ли мы продолжать смотреть видео, открыть калькулятор или, на всякий случай, заполнить налоговую декларацию. Огромная часть интерфейсной работы как раз</description>
-      <pubDate>Sat, 21 Nov 2026 17:10:25 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1110712/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110712</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>GEO глазами пиарщиков: как научить нейросети рассказывать о вас больше?</title>
-      <link>https://habr.com/ru/articles/1110744/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110744</link>
-      <description>Привет! Меня зовут Ольга Копцева, я пиарщик Mediacom.Expert . В этой статье поделюсь взглядом пиарщика на GEO-продвижение , расскажу мы повышаем качество ответов ИИ о компаниях, брендах, экспертах. Пиарщики регулярно мониторят, какую информацию об их проекте, бренде, руководителе, компании показывает генеративная выдача в Алисе AI, GPT, Perplexity, DeepSeek, Claude, Gemini. Иногда нейросети и нейропоисковики путают одноимённые бренды, их контакты и услуги, показывают устаревшие сведения. Как сде</description>
-      <pubDate>Sat, 21 Nov 2026 17:09:23 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1110744/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110744</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Как Т-Банк узнаёт ваш компьютер: реверс антифрод-коллектора wev.js</title>
-      <link>https://habr.com/ru/articles/1110740/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110740</link>
-      <description>Разобрал по строкам антифрод-коллектор Т-Банка: деобфусцировал их wev.js, восстановил все проверки и ловушки. Плюс эксперименты: что меняет отпечаток при подмене GPU, а что нет, и почему шум на canvas выдаёт бота. Результат опубликовал Читать далее</description>
-      <pubDate>Sat, 21 Nov 2026 17:00:27 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1110740/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110740</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
   </channel>
