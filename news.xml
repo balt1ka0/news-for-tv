@@ -5,9 +5,73 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Sun, 22 Nov 2026 00:59:09 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 07:48:25 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Добавил на сайт sameAs и llms.txt, потом открыл журнал nginx и посчитал, кто из ИИ-ботов пришёл на самом деле</title>
+      <link>https://habr.com/ru/articles/1107206/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107206</link>
+      <description>Я спросил у пары чат-ботов, кто ведёт мой блог, и получил ответы про трёх разных людей с похожими никами. У одного из них аккаунт в соцсети, и его ник отличается от моего только подчёркиванием. Сайт у меня статический: лендинг на Next.js с output: export и блог, который собирает из markdown питоновский скрипт build-blog.py . 10 ноября я за вечер переделал разметку автора, переписал страницу «об авторе» и выложил llms.txt . Через два дня полез в журнал nginx посмотреть, кто это всё прочитал. Почт</description>
+      <pubDate>Sun, 22 Nov 2026 07:25:19 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1107206/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1107206</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Как я разбирался с Red Square Keyrox TKL на iMac — OCLP, Ghidra и свой софт для подсветки</title>
+      <link>https://habr.com/ru/articles/1110808/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110808</link>
+      <description>Клавиатура Red Square Keyrox TKL — один из самых популярных и доступных вариантов механики на рынке: смазанные свитчи, заводская шумоизоляция, добротный корпус и отличная цена. Но есть один нюанс: официальный софт существует исключительно под Windows . Для пользователей macOS это означало полное отсутствие контроля: Читать далее</description>
+      <pubDate>Sun, 22 Nov 2026 07:19:18 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1110808/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110808</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Выпуск обновления открытого проекта для создания и хранения в электронной библиотеке книг разного формата Calibre 9.19</title>
+      <link>https://habr.com/ru/articles/1110734/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110734</link>
+      <description>21 ноября 2026 года состоялся выпуск открытого мультиплатформенного проекта Calibre 9.19 . Это программное решение для чтения, создания и хранения в электронной библиотеке электронных книг разного формата. Исходный код проекта написан на Python и C и опубликован на GitHub под лицензией GNU General Public License v3.0. Версия Calibre 7.0 вышла в ноябре 2023 года. Сборка Calibre 8.0 вышла в марте 2025 года. Выпуск Calibre 9.0 случился в конце января 2026 года. Проект находится в разработке более 1</description>
+      <pubDate>Sun, 22 Nov 2026 07:07:15 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1110734/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110734</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Ностальгические игры: Final Fantasy X</title>
+      <link>https://habr.com/ru/companies/timeweb/articles/1110378/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110378</link>
+      <description>Зачем возвращаться к игре, на которую уже потратил несколько десятков часов, когда вокруг столько всего интересного, до чего никак не доходят руки? Особенно если ты уже знаешь сюжет, помнишь персонажей и прекрасно представляешь, чем всё закончится. Ну казалось бы, можно оставить себе хорошие воспоминания и взяться за что-нибудь новое, но сколько же радости приносит возвращение в любимые проекты юности, словно вернулся в отчий дом! И иногда и правда достаточно заглянуть на полчаса, услышать музык</description>
+      <pubDate>Sun, 22 Nov 2026 07:05:17 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/timeweb/articles/1110378/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110378</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Мелодия, Золотое сечение и Постоянная тонкой структуры (α)</title>
+      <link>https://habr.com/ru/articles/1101864/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101864</link>
+      <description>Числу Альфа (α), равному 1/137, присваивают различные красивые и громкие эпитеты - «магические число», «число Бога» или «код Вселенной». Физики-теоретики ломают голову, откуда это число взялось, из каких принципов и считают одной из величайших тайн мироздания. В небольшой статье я определю число Альфа, её приблизительное значение, исходя из творческих принципов, с помощью мелодии, созданной на основе пропорции золотого сечения. Читать далее</description>
+      <pubDate>Sun, 22 Nov 2026 07:01:16 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1101864/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1101864</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Если долго смотреть в глубину</title>
+      <link>https://habr.com/ru/articles/1110800/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110800</link>
+      <description>Я один делаю программу-компаньон для Euro Truck Simulator 2 — рацию «Канал 15». По-хорошему это радиоспектакль, где игрок один из зрителей, а так же актеров, и режисеров, а вот восемнадцать выдуманных водителей ездят по карте, разговаривают по рации, помнят прошлые разговоры и со временем начинают тебя узнавать. Не мод, файлы игры не трогает, работает рядом с игрой, и читает телемитрию. В этой статье хочу не про то, как оно устроено внутри (это уже было), а про то, во что я упёрся сейчас. Я пере</description>
+      <pubDate>Sun, 22 Nov 2026 06:49:47 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1110800/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110800</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Натальная карта на Python: Swiss Ephemeris, SVG-схемы с карточками по наведению и встроенный Python в архиве</title>
+      <link>https://habr.com/ru/articles/1110798/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110798</link>
+      <description>Началось с того, что я хотел посмотреть свою натальную карту и обнаружил, что все удобные сайты ведут одним и тем же путём: регистрация, почта, а расшифровку Луны открывают за подписку. Планеты, как известно, бесплатные, и считаются они давно известными формулами. Поэтому я сделал локальную программу для Windows и назвал «Звёздный паспорт»: Flask на 127.0.0.1, интерфейс в браузере, значок у часов, расчёт на pyswisseph . Исходники открыты: https://github.com/OlegChe77/star-passport . Читать далее</description>
+      <pubDate>Sun, 22 Nov 2026 06:39:20 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1110798/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110798</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Месяц разработки Geo Collector: офлайн-карты России и Армении, 94 настройки карты и первая версия для Android</title>
+      <link>https://habr.com/ru/articles/1110786/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110786</link>
+      <description>С момента публикации моей предыдущей статьи о Geo Collector и выхода первой публичной версии приложения прошло чуть больше двух недель. Однако с учётом достаточно продолжительного ожидания первой версии в App Store фактически сегодня я хочу рассказать о результатах примерно месяца разработки. За это время приложение значительно изменилось. Если изначально основной задачей Geo Collector был удобный сбор географических данных с помощью смартфона, то постепенно проект начал приобретать черты полноц</description>
+      <pubDate>Sun, 22 Nov 2026 02:22:12 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1110786/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110786</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
     <item>
       <title>Как научить AI-агента проверять Windows-приложение через настоящий GUI: архитектура Deskcheck</title>
       <link>https://habr.com/ru/articles/1110776/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110776</link>
@@ -22,70 +86,6 @@
       <description>@avshkol сделал перевод статьи, которая описывает первый опыт передачи сигнала путём изменения гравитационного поля. Станет ли этот опыт аналогом опытов Герца и Попова с электромагнитным сигналом? Приведёт ли он к открытию принципиального нового способа обмена информацией (и поиска сигналов иных цивилизаций) или останется красивым экспериментом-игрушкой? Разбираемся в технологии и параметрах этого удивительного опыта. Читать далее</description>
       <pubDate>Sat, 21 Nov 2026 22:58:16 +0000</pubDate>
       <guid>https://habr.com/ru/articles/1110748/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110748</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Amazon is complaining about NYC Council on shipping labels, too</title>
-      <link>https://www.theverge.com/tech/1039564/amazon-nyc-council-packages-shipping-label</link>
-      <description>Amazon is leaving no venue unexplored in its fight against the New York City Council and the Delivery Protection Act. The company is now putting labels on shipments claiming that the Council could add up to $5 to any Amazon order. The Delivery Protection Act would effectively ban the sort of third-party arrangements Amazon currently […]</description>
-      <pubDate>Sat, 21 Nov 2026 21:59:31 +0000</pubDate>
-      <guid>https://www.theverge.com/tech/1039564/amazon-nyc-council-packages-shipping-label</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance</title>
-      <link>https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/</link>
-      <description>Signal is limiting users' ability to take screenshots in both its Android and iOS apps.</description>
-      <pubDate>Sat, 21 Nov 2026 21:37:10 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>A tale of two Nvidias</title>
-      <link>https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/</link>
-      <description>We got two very different pictures of Nvidia — the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.</description>
-      <pubDate>Sat, 21 Nov 2026 21:07:42 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>«Наши две флагманские языковые модели входят в число лучших в мире». Проверяем по открытому рейтингу</title>
-      <link>https://habr.com/ru/articles/1110766/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110766</link>
-      <description>«Входят в число лучших в мире»: сверяем заявление с открытым рейтингом Есть простой способ проверить громкие заявления о нейросетях — открытый рейтинг, в котором реальные пользователи вслепую выбирают лучший ответ из двух анонимных моделей. Такой рейтинг есть и в России: llmarena.ru — 112 моделей, больше 157 тысяч голосов. Читать далее</description>
-      <pubDate>Sat, 21 Nov 2026 20:29:08 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1110766/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110766</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>The UN fails to agree on rules regulating ‘killer robots’</title>
-      <link>https://www.theverge.com/tech/1039554/un-regulations-killer-robots</link>
-      <description>One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called "killer robots." Eventually, representatives left the meetings agreeing to "start discussing options" after a largely fruitless week of negotiations. According to NPR: Before the negotiations got underway, the […]</description>
-      <pubDate>Sat, 21 Nov 2026 20:03:37 +0000</pubDate>
-      <guid>https://www.theverge.com/tech/1039554/un-regulations-killer-robots</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>Недостающий кусок Databricks Bundles: таблицы Unity Catalog как код</title>
-      <link>https://habr.com/ru/articles/1109206/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1109206</link>
-      <description>Если упростить, в Databricks с таблицами Unity Catalog работаюют двумя принципиально разными способами. Streaming Tables и Materialized Views - принадлежат пайплайну . Схема таблицы наследуется из SQL запроса, а создаёт и обновляет её сам пайплайн. Для такой жизни у Databricks есть всё: SDP (до недавнего времени DLT), сам пайплайн лежит в git, выкатывается через Declarative Automation Bundles (бывшие Databrick Asset Bundles) на нужную среду, попутно проходя ревью и CI/CD. Второе большое множеств</description>
-      <pubDate>Sat, 21 Nov 2026 20:00:34 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1109206/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1109206</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>ИИ‑агенты, работающие в России</title>
-      <link>https://habr.com/ru/articles/1110764/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110764</link>
-      <description>В этой статье я собрала ИИ-агенты, которые работают из России без плясок с бубнами. Разумеется, если у вас есть возможность настроить себе топовый агент (Claude, Codex, Cursor), лучше именно так и сделать. Под настройкой я имею в виду технические ограничения "вы живете в России", так то там все просто, скачал и работай... Но что делать тем, у кого такой возможности нет? Кто хочет пока просто пощупать, «что это вообще такое» или даже готов платить, дали бы возможность? Такие варианты я и собрала.</description>
-      <pubDate>Sat, 21 Nov 2026 19:50:15 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1110764/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110764</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Что происходит с профессией разработчика: мой опыт и данные индустрии</title>
-      <link>https://habr.com/ru/articles/1110762/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110762</link>
-      <description>Как это началось у нас Я работаю в команде разработки примерно из двух десятков человек: разработчики на 1С и смежных стеках, несколько тестировщиков и аналитиков. Этот текст - не теория, а то, через что мы с коллегами прошли сами за последние месяцы, пока готовили план внедрения ИИ на ближайшие несколько лет. Началось всё без всякого плана. Весной 2026 часть команды уже баловалась с ИИ-агентами в личных проектах - просто из интереса. Летом это превратилось в рабочую практику: ручное написание к</description>
-      <pubDate>Sat, 21 Nov 2026 19:19:53 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1110762/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110762</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
   </channel>
