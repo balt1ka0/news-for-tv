@@ -5,87 +5,87 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Mon, 23 Nov 2026 02:18:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 11:53:00 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Выпуск обновления дистрибутива для одноплатных ПК DietPi 10.9</title>
-      <link>https://habr.com/ru/articles/1110924/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110924</link>
-      <description>Состоялся выпуск проекта дистрибутива DietPi 10.9 для одноплатных ПК на базе архитектур ARM и RISC‑V, таких как Raspberry Pi, Orange Pi, NanoPi, BananaPi, BeagleBone Black, Rock64, Rock Pi, Quartz64, Pine64, Asus Tinker, Odroid и VisionFive 2. Версия проекта DietPi 9.0 вышла в январе 2024 года. Сборку DietPi 10.0 представили в январе 2026 года. Читать далее</description>
-      <pubDate>Mon, 23 Nov 2026 02:06:05 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1110924/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110924</guid>
+      <title>Скиллы — это всего лишь методички для агентов</title>
+      <link>https://habr.com/ru/articles/1111254/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1111254</link>
+      <description>В конце 90-х выходил сериал «Притворщик» (The Pretender), где герой мгновенно мог стать кем угодно — врачом, полицейским, пилотом. Причем он не врал и не притворялся, он действительно становился профессионалом и спасал людей. Например, если он перевоплощался в хирурга, то обладал навыком понимать диагноз, чтобы принять решение об экстренной операции, управлять врачебной командой, следить за показателями пациента и непосредственно оперировать. А потом возвращался в обычное состояние и ничего тако</description>
+      <pubDate>Mon, 23 Nov 2026 11:46:55 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1111254/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1111254</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO</title>
-      <link>https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/</link>
-      <description>Three significant backers share what gave them conviction to bet billions on Anthropic.</description>
-      <pubDate>Mon, 23 Nov 2026 01:25:53 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>«Ваш разговор стал слишком длинным»: как Google Antigravity неожиданно режет контекст и как Gemini это решил</title>
-      <link>https://habr.com/ru/articles/1111006/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1111006</link>
-      <description>Отображение размера контекстного окна сессии для Google Antigravity 2.0 Antigravity сжимает контекст, выводит об этом сообщение, что приводит к потере деталей, важных правил и инструкций в начале сессии, чтобы контролировать и предугадывать сжатие нужно отслеживать размер контекста, при этом встроенных инструментов не предусмотрено, поэтому Gemini сам себе написал решение этой задачи. Разработка, дизайн, статья - Geimini 4 Argon High Читать далее</description>
-      <pubDate>Sun, 22 Nov 2026 23:08:19 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1111006/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1111006</guid>
+      <title>В Москве открылся первый в России банковский офис с цифровым сотрудником</title>
+      <link>https://habr.com/ru/articles/1111246/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1111246</link>
+      <description>Клиентов нового офиса «Сбера» в Москве консультирует фотореалистичный цифровой аватар на основе искусственного интеллекта. Как сообщили в пресс‑службе банка, это первый подобный банковский офис в России. Читать далее</description>
+      <pubDate>Mon, 23 Nov 2026 11:31:13 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1111246/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1111246</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>We haven’t seen the last of the major tech outages</title>
-      <link>https://www.theverge.com/tech/1039851/major-tech-outages</link>
-      <description>Over the last week or so, we have seen a nationwide FAA ground stop, a multi-day Outlook outage that brought entire companies to a standstill, and a banking outage at JPMorgan Chase. But the consensus is that there are more to come. Director of National Intelligence Jay Clayton told CNN: "The American people should be […]</description>
-      <pubDate>Sun, 22 Nov 2026 22:48:02 +0000</pubDate>
-      <guid>https://www.theverge.com/tech/1039851/major-tech-outages</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>Модель вселенной как многопоточного гексагонального вычислителя на горизонте событий Белой дыры</title>
-      <link>https://habr.com/ru/articles/1111004/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1111004</link>
-      <description>От автора. Я не являюсь ни физиком, ни математиком, ни программистом. Я просто человек, интересующийся наукой и по мере возможности читающий статьи. Поэтому в тексте вы не встретите «правильных» физических терминов и сложных математических формул. Вся эта модель появилась из простой мысли, при чтении книги, в которой время было описано как движение вверх и вниз. Тогда я задал себе вопрос, а как еще можно представить время. Появилась первая концепция. Изначально, я представил нашу вселенную как и</description>
-      <pubDate>Sun, 22 Nov 2026 22:28:39 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1111004/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1111004</guid>
+      <title>Дело о зависшем пуле: @Transactional, connection leak и deadlock в Spring Boot</title>
+      <link>https://habr.com/ru/articles/1111240/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1111240</link>
+      <description>В четверг в 23:10 сервис ещё дышал: health check горел зелёным, база скучала на десяти процентах CPU. Только запросы уходили внутрь и больше не возвращались. Подозреваемого вычислили той же ночью: HTTP-вызов к соседнему сервису, спрятанный прямо внутри транзакции. В пятницу выкатили фикс и закрыли дело. А в понедельник в 10:15 пул лёг снова, уже с исправленным кодом. Настоящий виновник всё это время сидел в настройках по умолчанию, и Spring Boot честно предупреждал о нём в логе старта. Это продо</description>
+      <pubDate>Mon, 23 Nov 2026 11:27:08 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1111240/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1111240</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Агентская разработка в геймдеве на Unity, или Как я скормил агенту рекламу мобильной игры</title>
-      <link>https://habr.com/ru/articles/1110996/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110996</link>
-      <description>Агентская разработка в геймдеве: как из рекламы мобильной игры, скормленной агенту, получился полноценный 3D-экшен на Unity. Внутри — связка CLI + MCP Unity + Meshy + ElevenLabs, честное сравнение GPT, Gemini, Kimi и Qwen на реальных задачах, почему Blender MCP проигрывает специализированным генераторам 3D, полный ценник подписок и вывод, как не скатиться в нейрослоп. Читать далее</description>
-      <pubDate>Sun, 22 Nov 2026 21:51:01 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1110996/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110996</guid>
+      <title>Нейросеть для создания игр и обучающие ролики: ролик за час вместо 12 — создание сервера MMORPG, ч. 23</title>
+      <link>https://habr.com/ru/articles/1111140/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1111140</link>
+      <description>Один обучающий ролик о том, как собрать свою MMORPG, раньше отнимал у меня около 12 часов. Теперь — около часа: сцены описываются словами, противников в кадр расставляет ИИ, а съёмку, озвучку и сборку ведёт сама платформа. Читать далее</description>
+      <pubDate>Mon, 23 Nov 2026 11:26:18 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1111140/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1111140</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>‘You Can See Everything’ has made more than $100M worldwide</title>
-      <link>https://techcrunch.com/2026/11/22/you-can-see-everything-has-made-more-than-100m-worldwide/</link>
-      <description>The new Elizabeth Holmes documentary is just beginning to roll out internationally.</description>
-      <pubDate>Sun, 22 Nov 2026 21:42:48 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/11/22/you-can-see-everything-has-made-more-than-100m-worldwide/</guid>
-      <category>TechCrunch</category>
+      <title>Российское ИТ за рубежом: как выходить на новые рынки и конкурировать с международными игроками</title>
+      <link>https://habr.com/ru/companies/itglobalcom/articles/1111238/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1111238</link>
+      <description>ITGLOBAL.COM стал гостем подкаста «Говорим ОБ ИТ» нашего партнёра — компании ОБИТ, поставщика цифровых решений для бизнеса. Новый выпуск посвящён выходу российских ИТ-компаний на зарубежные рынки: насколько востребованы отечественные облачные решения, чем конкурировать с глобальными провайдерами и с какими сложностями сталкивается бизнес на новых рынках. В выпуске рассмотрены вопросы: Читать далее</description>
+      <pubDate>Mon, 23 Nov 2026 11:24:48 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/itglobalcom/articles/1111238/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1111238</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Common medications may secretly rewire your gut, with effects lasting for years</title>
-      <link>https://www.sciencedaily.com/releases/2026/11/261120071501.htm</link>
-      <description>Medications taken years or even long ago may leave lasting changes in your gut microbiome, according to a study of more than 2,500 people. Researchers discovered that common drugs, including antidepressants, blood pressure medications, and anxiety treatments, can leave microbial “fingerprints” long after patients stop taking them. Surprisingly, some anxiety medications had effects comparable to broad-spectrum antibiotics.</description>
-      <pubDate>Sun, 22 Nov 2026 21:35:19 +0000</pubDate>
-      <guid>https://www.sciencedaily.com/releases/2026/11/261120071501.htm</guid>
-      <category>All Top News -- ScienceDaily</category>
+      <title>Выбор GPU для ИИ-проекта: от MVP до продакшена под нагрузкой и гиперскейлинга</title>
+      <link>https://habr.com/ru/companies/itglobalcom/articles/1111212/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1111212</link>
+      <description>Хороший ИИ-продукт как для внутренних (корпоративных), так и для внешних пользователей решает конкретные проблемы, стоит недорого и, конечно же, не зависит от вендоров. Open-source модели дают свободу выбора и предсказуемость в работе, но требуют собственной инфраструктуры для запуска. Порой при расчёте нагрузки и требований к железу цифры получаются пугающими, и кажется, что проект нерентабельный. Но это ошибка, из-за которой проект может так и не увидеть свет. В этой статье на реальном примере</description>
+      <pubDate>Mon, 23 Nov 2026 11:24:21 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/itglobalcom/articles/1111212/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1111212</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>OpenAI’s chief scientist has thoughts on how to limit AI development</title>
-      <link>https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/</link>
-      <description>To establish a speed limit on AI development, you need to agree on how to measure speed.</description>
-      <pubDate>Sun, 22 Nov 2026 21:14:07 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/</guid>
-      <category>TechCrunch</category>
+      <title>Межзвёздные корабли на солнечных парусах столкнутся со странной проблемой при приближении к скорости света</title>
+      <link>https://habr.com/ru/articles/1111236/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1111236</link>
+      <description>Чтобы добраться до другой звезды, потребуются космические аппараты, способные двигаться гораздо быстрее всего, что человечество создало до сих пор. Одним из перспективных решений является солнечный парус, огромная лёгкая отражающая поверхность, которая использует импульс света для движения космического аппарата в пространстве. Однако на экстремальных скоростях часть света, разгоняющего космический аппарат, может начать препятствовать его движению. В недавней работе , опубликованной на arXiv, Чао</description>
+      <pubDate>Mon, 23 Nov 2026 11:22:49 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1111236/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1111236</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Гипотеза Римана. Часть первая: как мы её не доказали</title>
-      <link>https://habr.com/ru/articles/1110964/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110964</link>
-      <description>20 ноября 2026 года гипотезу Римана доказали. Не я: Левент Альпёге вместе с моделью Claude, и сообщества Lean и Mathlib уже подтвердили формальную проверку. А я полтора года пытался сделать то же самое: с языковыми моделями, системой Lean и толстыми журналами ошибок. Это первая часть серии из трёх. В ней наш путь: как задача о нулях превращается в задачу о приближении функций, почему матрица, которая «всегда положительна», ничего не доказывает, как одна буква T съедала весь выигрыш и как теорема</description>
-      <pubDate>Sun, 22 Nov 2026 20:47:14 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1110964/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110964</guid>
+      <title>Как ИИ будет чувствовать себя в 2035 году: продолжил пять графиков и посмотрел, где они ломаются</title>
+      <link>https://habr.com/ru/articles/1111232/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1111232</link>
+      <description>Взял пять рядов, которые публично измеряют METR, Epoch AI и МЭА, и продолжил каждый до 2035 года. Хотелось понять, какой график первым упрётся в физику или просто потеряет смысл, и что из этого следует для тех, кто пишет код. Читать далее</description>
+      <pubDate>Mon, 23 Nov 2026 11:18:40 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1111232/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1111232</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>3D‑эмодзи на Android требуют 6 ГБ оперативной памяти и 10 ГБ места в хранилище</title>
+      <link>https://habr.com/ru/articles/1111210/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1111210</link>
+      <description>Google озвучила требования к Noto 3D — новому набору эмодзи для Android, и они оказались весьма внушительными. Для поддержки 3D‑эмодзи смартфону требуется 6 ГБ оперативной памяти и 10 ГБ свободного места в хранилище. Читать далее</description>
+      <pubDate>Mon, 23 Nov 2026 11:17:55 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1111210/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1111210</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Как заставить LLM не врать в цифрах: код считает, модель формулирует</title>
+      <link>https://habr.com/ru/articles/1111224/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1111224</link>
+      <description>Я в одиночку делаю AI-ассистента по финансам для владельцев малого бизнеса: он смотрит на данные из учёта и коротко пишет, что происходит. «Расходы за месяц выросли на 18%», «долгов с просрочкой больше 60 дней нет», «денег хватит примерно на три месяца». В такой фразе ошибка хуже, чем её отсутствие: по ней человек примет решение. LLM подводит здесь не громко. Она не падает с ошибкой, а уверенно пишет правдоподобный текст: меняет сумму, путает рост со снижением, дописывает совет, о котором никто </description>
+      <pubDate>Mon, 23 Nov 2026 11:16:23 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1111224/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1111224</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
   </channel>
