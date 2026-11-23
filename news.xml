@@ -5,9 +5,73 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Sun, 22 Nov 2026 21:34:17 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 02:18:27 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Выпуск обновления дистрибутива для одноплатных ПК DietPi 10.9</title>
+      <link>https://habr.com/ru/articles/1110924/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110924</link>
+      <description>Состоялся выпуск проекта дистрибутива DietPi 10.9 для одноплатных ПК на базе архитектур ARM и RISC‑V, таких как Raspberry Pi, Orange Pi, NanoPi, BananaPi, BeagleBone Black, Rock64, Rock Pi, Quartz64, Pine64, Asus Tinker, Odroid и VisionFive 2. Версия проекта DietPi 9.0 вышла в январе 2024 года. Сборку DietPi 10.0 представили в январе 2026 года. Читать далее</description>
+      <pubDate>Mon, 23 Nov 2026 02:06:05 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1110924/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110924</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO</title>
+      <link>https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/</link>
+      <description>Three significant backers share what gave them conviction to bet billions on Anthropic.</description>
+      <pubDate>Mon, 23 Nov 2026 01:25:53 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>«Ваш разговор стал слишком длинным»: как Google Antigravity неожиданно режет контекст и как Gemini это решил</title>
+      <link>https://habr.com/ru/articles/1111006/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1111006</link>
+      <description>Отображение размера контекстного окна сессии для Google Antigravity 2.0 Antigravity сжимает контекст, выводит об этом сообщение, что приводит к потере деталей, важных правил и инструкций в начале сессии, чтобы контролировать и предугадывать сжатие нужно отслеживать размер контекста, при этом встроенных инструментов не предусмотрено, поэтому Gemini сам себе написал решение этой задачи. Разработка, дизайн, статья - Geimini 4 Argon High Читать далее</description>
+      <pubDate>Sun, 22 Nov 2026 23:08:19 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1111006/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1111006</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>We haven’t seen the last of the major tech outages</title>
+      <link>https://www.theverge.com/tech/1039851/major-tech-outages</link>
+      <description>Over the last week or so, we have seen a nationwide FAA ground stop, a multi-day Outlook outage that brought entire companies to a standstill, and a banking outage at JPMorgan Chase. But the consensus is that there are more to come. Director of National Intelligence Jay Clayton told CNN: "The American people should be […]</description>
+      <pubDate>Sun, 22 Nov 2026 22:48:02 +0000</pubDate>
+      <guid>https://www.theverge.com/tech/1039851/major-tech-outages</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>Модель вселенной как многопоточного гексагонального вычислителя на горизонте событий Белой дыры</title>
+      <link>https://habr.com/ru/articles/1111004/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1111004</link>
+      <description>От автора. Я не являюсь ни физиком, ни математиком, ни программистом. Я просто человек, интересующийся наукой и по мере возможности читающий статьи. Поэтому в тексте вы не встретите «правильных» физических терминов и сложных математических формул. Вся эта модель появилась из простой мысли, при чтении книги, в которой время было описано как движение вверх и вниз. Тогда я задал себе вопрос, а как еще можно представить время. Появилась первая концепция. Изначально, я представил нашу вселенную как и</description>
+      <pubDate>Sun, 22 Nov 2026 22:28:39 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1111004/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1111004</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Агентская разработка в геймдеве на Unity, или Как я скормил агенту рекламу мобильной игры</title>
+      <link>https://habr.com/ru/articles/1110996/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110996</link>
+      <description>Агентская разработка в геймдеве: как из рекламы мобильной игры, скормленной агенту, получился полноценный 3D-экшен на Unity. Внутри — связка CLI + MCP Unity + Meshy + ElevenLabs, честное сравнение GPT, Gemini, Kimi и Qwen на реальных задачах, почему Blender MCP проигрывает специализированным генераторам 3D, полный ценник подписок и вывод, как не скатиться в нейрослоп. Читать далее</description>
+      <pubDate>Sun, 22 Nov 2026 21:51:01 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1110996/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110996</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>‘You Can See Everything’ has made more than $100M worldwide</title>
+      <link>https://techcrunch.com/2026/11/22/you-can-see-everything-has-made-more-than-100m-worldwide/</link>
+      <description>The new Elizabeth Holmes documentary is just beginning to roll out internationally.</description>
+      <pubDate>Sun, 22 Nov 2026 21:42:48 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/11/22/you-can-see-everything-has-made-more-than-100m-worldwide/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>Common medications may secretly rewire your gut, with effects lasting for years</title>
+      <link>https://www.sciencedaily.com/releases/2026/11/261120071501.htm</link>
+      <description>Medications taken years or even long ago may leave lasting changes in your gut microbiome, according to a study of more than 2,500 people. Researchers discovered that common drugs, including antidepressants, blood pressure medications, and anxiety treatments, can leave microbial “fingerprints” long after patients stop taking them. Surprisingly, some anxiety medications had effects comparable to broad-spectrum antibiotics.</description>
+      <pubDate>Sun, 22 Nov 2026 21:35:19 +0000</pubDate>
+      <guid>https://www.sciencedaily.com/releases/2026/11/261120071501.htm</guid>
+      <category>All Top News -- ScienceDaily</category>
+    </item>
     <item>
       <title>OpenAI’s chief scientist has thoughts on how to limit AI development</title>
       <link>https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/</link>
@@ -23,70 +87,6 @@
       <pubDate>Sun, 22 Nov 2026 20:47:14 +0000</pubDate>
       <guid>https://habr.com/ru/articles/1110964/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110964</guid>
       <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Одна генетическая мутация как двигатель эволюции мозга</title>
-      <link>https://habr.com/ru/articles/1110966/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110966</link>
-      <description>Странно, на за последние пару месяцев это уже третья статья о новом факторе, который пушил развитие мозга людей. Что еще раз доказывает: не было какого-то одного источника роста мозга. Были условия, были мутации, был естественный отбор. И тем не менее, даже при одинаковом наборе генов, всего одна измененная активность может дать прирост, отделяющий нас от других млекопитающих. Читать далее</description>
-      <pubDate>Sun, 22 Nov 2026 20:00:21 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1110966/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110966</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Ролевая игра с RAG: как нейросеть стала библиотекарем</title>
-      <link>https://habr.com/ru/articles/1110956/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110956</link>
-      <description>Во время игры на полигоне всегда есть момент, когда игрок подходит с лицом человека, у которого наконец-то созрел правильный вопрос, а у мастера в этот момент в голове план полигона, в одной руке рация а в другой чужой реквизит. Ответ на вопрос при этом лежит где-то в мастерятнике и в голове трёх разных людей. Из этих мест его надо достать быстрее, чем игрок успеет придумать свою версию событий. Я сделал для этого помощника. Он стоит на точке, может в библиотеке, может в мастерятнике, может в та</description>
-      <pubDate>Sun, 22 Nov 2026 19:22:10 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1110956/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110956</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Три моих кейса, где экономия времени с ИИ‑автоматизациями обернулась постоянными переделками и фиксами</title>
-      <link>https://habr.com/ru/articles/1109850/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1109850</link>
-      <description>Автоматизация с ИИ может быстро выдать результат и всё же потребовать настройки, проверки и ремонта. В октябре я заморозил сложную фабрику статей, столкнулся с падением ночного запуска после обновления Claude Code и добавил проверку дат для семейной афиши. Общих затрат на эти задачи я не считал, поэтому по отдельным эпизодам нельзя сказать, сколько времени автоматизация сэкономила или забрала. Можно разобрать, где именно возникла дополнительная работа и как учитывать её в следующем сравнении. Чи</description>
-      <pubDate>Sun, 22 Nov 2026 18:52:19 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1109850/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1109850</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Why data centers are at the center of the Big Tech backlash</title>
-      <link>https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/</link>
-      <description>Journalist Paris Marx unpacks his new book "Hyperscale."</description>
-      <pubDate>Sun, 22 Nov 2026 18:08:43 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>Delta flights in and out of Atlanta delayed due to system outage</title>
-      <link>https://www.theverge.com/transportation/1039779/delta-flights-delayed-system-outage</link>
-      <description>All Delta flights in and out of Atlanta are facing significant delays on Sunday due to a problem with the system that calculates a plane's weight and balance. Hartsfield-Jackson Atlanta International Airport is Delta's largest hub and one of the busiest airports in the world. While only Delta is impacted at the moment, disruptions at […]</description>
-      <pubDate>Sun, 22 Nov 2026 17:46:44 +0000</pubDate>
-      <guid>https://www.theverge.com/transportation/1039779/delta-flights-delayed-system-outage</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>Казино в корзине: зачем магазины предлагают нам «выигрывать» скидки</title>
-      <link>https://habr.com/ru/articles/1110938/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110938</link>
-      <description>Мне пришло уведомление от Ozon: начислили 15 морковок. Я зашёл в «Морковск», сыграл и выиграл три скидки: на Tefal, Librederm и «Галтекс». Использовать их можно 48 часов, а покупать что-то из этого я не собирался. Разбираюсь, зачем магазину превращать скидку в игру, что на это говорят эксперименты (там есть неожиданные цифры) и где начинается обман. Читать далее</description>
-      <pubDate>Sun, 22 Nov 2026 17:36:25 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1110938/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110938</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Binding of Isaac developer removes AI music from Repentance Plus</title>
-      <link>https://www.theverge.com/games/1039770/binding-of-isaac-ai-music</link>
-      <description>The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered that a particular segment of the game used AI music. Reddit user ShweetsStuff discovered the songs used during a Grand Theft Auto-themed section. They found several audio files with Suno metadata that pointed back to […]</description>
-      <pubDate>Sun, 22 Nov 2026 17:25:20 +0000</pubDate>
-      <guid>https://www.theverge.com/games/1039770/binding-of-isaac-ai-music</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>TechCrunch Mobility: A/B testing robots vs. humans</title>
-      <link>https://techcrunch.com/2026/11/22/techcrunch-mobility-a-b-testing-robots-vs-humans/</link>
-      <description>Welcome back to TechCrunch Mobility, your hub for the future of transportation and, now more than ever, the role AI is playing in it.</description>
-      <pubDate>Sun, 22 Nov 2026 17:06:00 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/11/22/techcrunch-mobility-a-b-testing-robots-vs-humans/</guid>
-      <category>TechCrunch</category>
     </item>
   </channel>
 </rss>
