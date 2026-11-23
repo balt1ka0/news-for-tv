@@ -5,88 +5,88 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Mon, 23 Nov 2026 11:53:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 23:27:49 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Скиллы — это всего лишь методички для агентов</title>
-      <link>https://habr.com/ru/articles/1111254/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1111254</link>
-      <description>В конце 90-х выходил сериал «Притворщик» (The Pretender), где герой мгновенно мог стать кем угодно — врачом, полицейским, пилотом. Причем он не врал и не притворялся, он действительно становился профессионалом и спасал людей. Например, если он перевоплощался в хирурга, то обладал навыком понимать диагноз, чтобы принять решение об экстренной операции, управлять врачебной командой, следить за показателями пациента и непосредственно оперировать. А потом возвращался в обычное состояние и ничего тако</description>
-      <pubDate>Mon, 23 Nov 2026 11:46:55 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1111254/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1111254</guid>
+      <title>Figma employee sues, alleging company forced her to confront harassers</title>
+      <link>https://techcrunch.com/2026/11/23/figma-employee-sues-alleging-company-forced-her-to-confront-harassers/</link>
+      <description>Figma and its CEO are being sued by a current employee for alleged sexual harassment and discrimination.</description>
+      <pubDate>Mon, 23 Nov 2026 23:07:49 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/11/23/figma-employee-sues-alleging-company-forced-her-to-confront-harassers/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>От инженера к клавишенажимателю. История одного профессионального вырождения?</title>
+      <link>https://habr.com/ru/articles/1111518/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1111518</link>
+      <description>Как разделение труда, корпоративные метрики и искусственный интеллект меняют профессию разработчика В 2017 году я наткнулся на фриланс-площадке на одно техническое задание. Заказчику нужна была программа для Windows, которая имитировала бы работу программиста. Не просто двигать мышкой и жать случайные клавиши. Всё было интереснее. Программа должна была следить за активным окном, генерировать клики, копировать заранее заготовленный код из Notepad++, набирать его с человеческой скоростью, открыват</description>
+      <pubDate>Mon, 23 Nov 2026 22:39:48 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1111518/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1111518</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>В Москве открылся первый в России банковский офис с цифровым сотрудником</title>
-      <link>https://habr.com/ru/articles/1111246/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1111246</link>
-      <description>Клиентов нового офиса «Сбера» в Москве консультирует фотореалистичный цифровой аватар на основе искусственного интеллекта. Как сообщили в пресс‑службе банка, это первый подобный банковский офис в России. Читать далее</description>
-      <pubDate>Mon, 23 Nov 2026 11:31:13 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1111246/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1111246</guid>
-      <category>Все публикации подряд на Хабре</category>
+      <title>Ladybird, the first new browser engine in years, is now available to test</title>
+      <link>https://www.theverge.com/tech/1040872/ladybird-indie-browser-engine-alpha-testing</link>
+      <description>Ladybird, an independent web browser with a built-from-scratch engine, is finally available for testing. On Monday, Ladybird developer Andreas Kling announced that the browser is launching in alpha on macOS and Linux following more than four years of development. The release makes Ladybird the first browser in years to arrive with an entirely new engine. […]</description>
+      <pubDate>Mon, 23 Nov 2026 22:38:09 +0000</pubDate>
+      <guid>https://www.theverge.com/tech/1040872/ladybird-indie-browser-engine-alpha-testing</guid>
+      <category>The Verge</category>
     </item>
     <item>
-      <title>Дело о зависшем пуле: @Transactional, connection leak и deadlock в Spring Boot</title>
-      <link>https://habr.com/ru/articles/1111240/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1111240</link>
-      <description>В четверг в 23:10 сервис ещё дышал: health check горел зелёным, база скучала на десяти процентах CPU. Только запросы уходили внутрь и больше не возвращались. Подозреваемого вычислили той же ночью: HTTP-вызов к соседнему сервису, спрятанный прямо внутри транзакции. В пятницу выкатили фикс и закрыли дело. А в понедельник в 10:15 пул лёг снова, уже с исправленным кодом. Настоящий виновник всё это время сидел в настройках по умолчанию, и Spring Boot честно предупреждал о нём в логе старта. Это продо</description>
-      <pubDate>Mon, 23 Nov 2026 11:27:08 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1111240/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1111240</guid>
-      <category>Все публикации подряд на Хабре</category>
+      <title>Trump engineered a risky comeback for Jensen Huang</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated</link>
+      <description>After Nvidia's board accepted Jensen Huang's resignation as CEO, following reports that Huang had an affair with an alleged Chinese spy, President Donald Trump, too, appeared to submit to the new reality. Appearing on Stephen A. Smith's radio show shortly after the news came out, Trump said that Huang would "end up on his feet." […]</description>
+      <pubDate>Mon, 23 Nov 2026 22:25:12 +0000</pubDate>
+      <guid>https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated</guid>
+      <category>The Verge</category>
     </item>
     <item>
-      <title>Нейросеть для создания игр и обучающие ролики: ролик за час вместо 12 — создание сервера MMORPG, ч. 23</title>
-      <link>https://habr.com/ru/articles/1111140/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1111140</link>
-      <description>Один обучающий ролик о том, как собрать свою MMORPG, раньше отнимал у меня около 12 часов. Теперь — около часа: сцены описываются словами, противников в кадр расставляет ИИ, а съёмку, озвучку и сборку ведёт сама платформа. Читать далее</description>
-      <pubDate>Mon, 23 Nov 2026 11:26:18 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1111140/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1111140</guid>
-      <category>Все публикации подряд на Хабре</category>
+      <title>Nvidia CEO Jensen Huang is back. What happens next?</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang</link>
+      <description>After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However, after The New York Times reported there was evidence of another affair, this time with an Nvidia executive who reported directly to him, a board meeting that night ended […]</description>
+      <pubDate>Mon, 23 Nov 2026 22:10:32 +0000</pubDate>
+      <guid>https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang</guid>
+      <category>The Verge</category>
     </item>
     <item>
-      <title>Российское ИТ за рубежом: как выходить на новые рынки и конкурировать с международными игроками</title>
-      <link>https://habr.com/ru/companies/itglobalcom/articles/1111238/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1111238</link>
-      <description>ITGLOBAL.COM стал гостем подкаста «Говорим ОБ ИТ» нашего партнёра — компании ОБИТ, поставщика цифровых решений для бизнеса. Новый выпуск посвящён выходу российских ИТ-компаний на зарубежные рынки: насколько востребованы отечественные облачные решения, чем конкурировать с глобальными провайдерами и с какими сложностями сталкивается бизнес на новых рынках. В выпуске рассмотрены вопросы: Читать далее</description>
-      <pubDate>Mon, 23 Nov 2026 11:24:48 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/itglobalcom/articles/1111238/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1111238</guid>
-      <category>Все публикации подряд на Хабре</category>
+      <title>Welcome to elite impunity, Jensen Huang</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1040819/welcome-to-elite-impunity-jensen-huang</link>
+      <description>I suppose I must issue a hearty congratulations to Jensen Huang. Huang is CEO of Nvidia again, to the surprise of basically everyone except President Donald Trump and Vice President JD Vance, who made sure it happened. Now, those of us who had some kind of basic education on what a "free market" is might […]</description>
+      <pubDate>Mon, 23 Nov 2026 22:09:26 +0000</pubDate>
+      <guid>https://www.theverge.com/ai-artificial-intelligence/1040819/welcome-to-elite-impunity-jensen-huang</guid>
+      <category>The Verge</category>
     </item>
     <item>
-      <title>Выбор GPU для ИИ-проекта: от MVP до продакшена под нагрузкой и гиперскейлинга</title>
-      <link>https://habr.com/ru/companies/itglobalcom/articles/1111212/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1111212</link>
-      <description>Хороший ИИ-продукт как для внутренних (корпоративных), так и для внешних пользователей решает конкретные проблемы, стоит недорого и, конечно же, не зависит от вендоров. Open-source модели дают свободу выбора и предсказуемость в работе, но требуют собственной инфраструктуры для запуска. Порой при расчёте нагрузки и требований к железу цифры получаются пугающими, и кажется, что проект нерентабельный. Но это ошибка, из-за которой проект может так и не увидеть свет. В этой статье на реальном примере</description>
-      <pubDate>Mon, 23 Nov 2026 11:24:21 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/itglobalcom/articles/1111212/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1111212</guid>
-      <category>Все публикации подряд на Хабре</category>
+      <title>Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes</title>
+      <link>https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/</link>
+      <description>As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.</description>
+      <pubDate>Mon, 23 Nov 2026 22:05:50 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/</guid>
+      <category>TechCrunch</category>
     </item>
     <item>
-      <title>Межзвёздные корабли на солнечных парусах столкнутся со странной проблемой при приближении к скорости света</title>
-      <link>https://habr.com/ru/articles/1111236/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1111236</link>
-      <description>Чтобы добраться до другой звезды, потребуются космические аппараты, способные двигаться гораздо быстрее всего, что человечество создало до сих пор. Одним из перспективных решений является солнечный парус, огромная лёгкая отражающая поверхность, которая использует импульс света для движения космического аппарата в пространстве. Однако на экстремальных скоростях часть света, разгоняющего космический аппарат, может начать препятствовать его движению. В недавней работе , опубликованной на arXiv, Чао</description>
-      <pubDate>Mon, 23 Nov 2026 11:22:49 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1111236/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1111236</guid>
-      <category>Все публикации подряд на Хабре</category>
+      <title>Supertake raises $20M to let AI agents turn your market predictions into stock portfolios</title>
+      <link>https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/</link>
+      <description>Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.</description>
+      <pubDate>Mon, 23 Nov 2026 22:02:05 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/</guid>
+      <category>TechCrunch</category>
     </item>
     <item>
-      <title>Как ИИ будет чувствовать себя в 2035 году: продолжил пять графиков и посмотрел, где они ломаются</title>
-      <link>https://habr.com/ru/articles/1111232/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1111232</link>
-      <description>Взял пять рядов, которые публично измеряют METR, Epoch AI и МЭА, и продолжил каждый до 2035 года. Хотелось понять, какой график первым упрётся в физику или просто потеряет смысл, и что из этого следует для тех, кто пишет код. Читать далее</description>
-      <pubDate>Mon, 23 Nov 2026 11:18:40 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1111232/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1111232</guid>
-      <category>Все публикации подряд на Хабре</category>
+      <title>The Apple Watch Series 12 is cheaper than ever ahead of Black Friday</title>
+      <link>https://www.theverge.com/gadgets/1034512/apple-watch-series-12-black-friday-deal-sale</link>
+      <description>If you’re still sporting an Apple Watch that launched five or so years ago, now is a good time to upgrade. Apple’s latest smartwatch, the 42mm Apple Watch Series 12 with Wi-Fi and GPS connectivity, has dropped to a new all-time low of $299 ($100 off) at Amazon and Walmart, beating its most sale price […]</description>
+      <pubDate>Mon, 23 Nov 2026 21:36:48 +0000</pubDate>
+      <guid>https://www.theverge.com/gadgets/1034512/apple-watch-series-12-black-friday-deal-sale</guid>
+      <category>The Verge</category>
     </item>
     <item>
-      <title>3D‑эмодзи на Android требуют 6 ГБ оперативной памяти и 10 ГБ места в хранилище</title>
-      <link>https://habr.com/ru/articles/1111210/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1111210</link>
-      <description>Google озвучила требования к Noto 3D — новому набору эмодзи для Android, и они оказались весьма внушительными. Для поддержки 3D‑эмодзи смартфону требуется 6 ГБ оперативной памяти и 10 ГБ свободного места в хранилище. Читать далее</description>
-      <pubDate>Mon, 23 Nov 2026 11:17:55 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1111210/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1111210</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Как заставить LLM не врать в цифрах: код считает, модель формулирует</title>
-      <link>https://habr.com/ru/articles/1111224/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1111224</link>
-      <description>Я в одиночку делаю AI-ассистента по финансам для владельцев малого бизнеса: он смотрит на данные из учёта и коротко пишет, что происходит. «Расходы за месяц выросли на 18%», «долгов с просрочкой больше 60 дней нет», «денег хватит примерно на три месяца». В такой фразе ошибка хуже, чем её отсутствие: по ней человек примет решение. LLM подводит здесь не громко. Она не падает с ошибкой, а уверенно пишет правдоподобный текст: меняет сумму, путает рост со снижением, дописывает совет, о котором никто </description>
-      <pubDate>Mon, 23 Nov 2026 11:16:23 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1111224/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1111224</guid>
-      <category>Все публикации подряд на Хабре</category>
+      <title>Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist</title>
+      <link>https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/</link>
+      <description>Megaspeed, which was previously led by Alice Huang, would be barred from doing business with U.S. companies unless those companies attained a special license from the federal government.</description>
+      <pubDate>Mon, 23 Nov 2026 21:25:42 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/</guid>
+      <category>TechCrunch</category>
     </item>
   </channel>
 </rss>
