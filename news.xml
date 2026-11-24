@@ -5,87 +5,87 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Tue, 24 Nov 2026 08:41:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 19:58:12 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>ТОП-5 ИБ‑событий недели по версии Jet CSIRT</title>
-      <link>https://habr.com/ru/companies/jetinfosystems/articles/1111640/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1111640</link>
-      <description>Сегодня в ТОП-5 — NGINX2Root: критические RCE-уязвимости в NGINX, Java4Shell: критическая RCE-уязвимость в OpenJDK, выполнена компрометация PyPI-пакета Microsoft Agent Framework, F5 предупреждает о шести критических уязвимостях в BIG-IP, активная эксплуатация RCE-уязвимости в Apache Roller. Читать далее</description>
-      <pubDate>Tue, 24 Nov 2026 08:40:54 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/jetinfosystems/articles/1111640/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1111640</guid>
+      <title>Яндекс Браузер официально отменил анонимность. Спойлер: похоже, её и не было</title>
+      <link>https://habr.com/ru/articles/1111954/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1111954</link>
+      <description>Я тут наткнулся на новость в CNews: мол, Яндекс тихо выпилил из лицензионного соглашения своего браузера слово «анонимность». Все пять штук. И оба упоминания «обезличивания» прихватил до кучи. Думаю — да ладно, не может быть всё так топорно, пошел сам почитать актуальную лицензию ... Ёлки‑метёлки, какие же там бездны открываются! Таких юридических кульбитов я давно не видел. Для начала имеем факт, что пресс‑служба Яндекса на вопросы журналистов CNews решила всех успокоить: «Изменения чисто техни</description>
+      <pubDate>Tue, 24 Nov 2026 19:46:13 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1111954/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1111954</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>[Перевод] Почему после замены NVIDIA на AMD локальный ИИ переключается на CPU и как это исправить</title>
-      <link>https://habr.com/ru/companies/otus/articles/1110018/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110018</link>
-      <description>После замены NVIDIA RTX 4060 Ti на AMD Radeon AI PRO R9700 с 32 ГБ памяти автор столкнулся с неожиданными сбоями: инференс уходил на CPU, Vulkan ограничивал выделение памяти, а Kubernetes продолжал искать старую видеокарту. Разберём причины проблем и решения, которые помогли наладить работу нового GPU. Изучить опыт</description>
-      <pubDate>Tue, 24 Nov 2026 08:40:13 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/otus/articles/1110018/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110018</guid>
+      <title>Amazon is knocking almost $50 off six months of Apple TV</title>
+      <link>https://www.theverge.com/gadgets/1040046/apple-tv-subscription-streaming-sale-deal-black-friday</link>
+      <description>Streaming deals aren’t as plentiful as they used to be, but they’re still around if you know where to look. One that caught our eye is an offer for Apple TV for those with an Amazon account in the US. Apple’s streaming service usually costs $14.99 per month, but following this page will let you […]</description>
+      <pubDate>Tue, 24 Nov 2026 19:00:00 +0000</pubDate>
+      <guid>https://www.theverge.com/gadgets/1040046/apple-tv-subscription-streaming-sale-deal-black-friday</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>Синхронизация iPod Nano 7G с Linux: формат .itdb, HASHAB/CBK и podlib</title>
+      <link>https://habr.com/ru/articles/1111946/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1111946</link>
+      <description>Если у вас на полке до сих пор живёт iPod, а на десктопе — Linux, вы, скорее всего, проходили через этот сюжет. Лет десять назад связка libgpod + gtkpod решала всё: подключил плеер по USB, перетащил альбомы, синхронизировал, отключил — и слушаешь. Классический воркфлоу «закинуть музыку с компа на iPod», без iTunes, без Windows-машины и без костылей. Потом этот воркфлоу тихо умер. Инструменты по-прежнему запускались, файлы вроде бы писались, но iPod после отключения просто не видел библиотеку — п</description>
+      <pubDate>Tue, 24 Nov 2026 18:58:31 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1111946/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1111946</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Верификация фактов с помощью графа знаний и локальной LLM: GraphRAG на Wikidata, Neo4j и Llama 3.1</title>
-      <link>https://habr.com/ru/articles/1111636/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1111636</link>
-      <description>TL;DR. Я собрал локальную систему проверки фактов на базе Llama 3.1 8B, Neo4j и графа из Wikidata (960 тысяч узлов, 2,68 миллиона рёбер). Сравнил четыре режима работы: LLM без контекста, с сырыми триплетами из графа, с шаблонами на естественном языке и с фильтрованными шаблонами. Без графа модель показала accuracy 17,37% — она почти всегда отвечала «недостаточно информации». С графовым контекстом accuracy поднялась до 79,21%. Разница между форматами подачи контекста оказалась минимальной. Всё ра</description>
-      <pubDate>Tue, 24 Nov 2026 08:35:12 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1111636/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1111636</guid>
+      <title>Now Firefox can select which sites use its VPN, and clear your browsing history with one click</title>
+      <link>https://www.theverge.com/tech/1041474/firefox-161-vpn-rules-fire-button</link>
+      <description>Mozilla released Firefox 161 on Tuesday with a new setting you can use to choose which pages automatically open with the browser's VPN active. Using the "Manage VPN rules" option in Firefox's VPN panel, you can set it to "always on" or "always off" for specific sites, so you don't have to toggle it manually […]</description>
+      <pubDate>Tue, 24 Nov 2026 18:44:57 +0000</pubDate>
+      <guid>https://www.theverge.com/tech/1041474/firefox-161-vpn-rules-fire-button</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>Anthropic shares fall below IPO price, a worrying sign for AI startups</title>
+      <link>https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/</link>
+      <description>Anthropic’s post-IPO slump could put pressure on AI startup valuations.</description>
+      <pubDate>Tue, 24 Nov 2026 18:30:42 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>MIA-Padezh: как я переписал склонение русских ФИО для .NET — и зачем приделал к нему нейросеть</title>
+      <link>https://habr.com/ru/articles/1111932/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1111932</link>
+      <description>Склонение русских ФИО — задача, которая звучит скучно, пока не попробуешь решить её «в лоб». Фамилия «Шевченко» не склоняется, «Кучма» в женском роде не склоняется, а в мужском склоняется, «Берия» мужская склоняется, а женская — нет, «Ермек» — это казахское имя, и никакого «Ермьки» из него делать нельзя. А ошибка в бухгалтерском документе или письме клиенту — это уже не лингвистика, это инцидент. Эта статья — про мой проект MIA-Padezh : детерминированную библиотеку склонения ФИО для .NET, про то</description>
+      <pubDate>Tue, 24 Nov 2026 18:16:59 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1111932/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1111932</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>В 1С 8.5.6 можно будет заранее узнать, что расширение изменит в конфигурации</title>
-      <link>https://habr.com/ru/companies/infostart/articles/1111634/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1111634</link>
-      <description>Сейчас, чтобы выяснить, какие свойства объектов конфигурации меняет расширение, разработчику приходится установить его в информационную базу и сравнить значения в двух сеансах - с активным расширением и без него. Для «1С:Предприятия 8.5.6» фирма «1С» планирует добавить два метода, которые позволят получить эти сведения до установки. По описанию в технологическом блоге «1С», разработчик сможет выбрать, как посмотреть изменения: отдельно по каждому расширению или сразу по всему набору. Ещё одно из</description>
-      <pubDate>Tue, 24 Nov 2026 08:33:00 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/infostart/articles/1111634/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1111634</guid>
+      <title>— Папа, а люди есть? — Нет, сынок, это фантастика</title>
+      <link>https://habr.com/ru/articles/1110526/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110526</link>
+      <description>У этих двоих полно общих дел и один общий знакомый — человек перед монитором. Друг о друге они до сих пор знают только с его слов: обрывки чужих мыслей, пересказанные на бегу, да редкие цитаты, скопированные через буфер обмена. Они живут в соседних вкладках, сплетены одним контекстом, но разделены невидимой стеной харнеса. А где-то в стороне, на другой машине, ждет своей очереди третий — тот, кому все это в итоге придется собирать воедино. Забавно, как тесно они связаны, хотя так и останутся дру</description>
+      <pubDate>Tue, 24 Nov 2026 18:15:30 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1110526/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110526</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Тестировщик без опыта на hh: из 263 вакансий программы тестируют в 58</title>
-      <link>https://habr.com/ru/articles/1111514/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1111514</link>
-      <description>Мне часто попадается совет начинать путь в IT с тестирования. Стало интересно, что на самом деле лежит в вакансиях «тестировщик» с пометкой «опыт не требуется». Я прочитал все такие вакансии из выборки, 139 разных текстов, и разложил их по тому, какую работу в них описывают. Работа тестировщиком программ нашлась в каждой пятой. Треть объявлений оказалась пешими прогулками по городу с фотографиями вывесок. Читать далее</description>
-      <pubDate>Tue, 24 Nov 2026 08:30:20 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1111514/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1111514</guid>
+      <title>David Fincher is being dragged for suspected use of AI in his latest film</title>
+      <link>https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive</link>
+      <description>Though David Fincher's fans had been eagerly anticipating The Further Mis-Adventures of Cliff Booth, early screenings of the Once Upon a Time in Hollywood sequel starring Brad Pitt have raised questions about whether generative AI was used in the film. People have claimed that the movie is chock-full of uncanny, inconsistent visuals that make it […]</description>
+      <pubDate>Tue, 24 Nov 2026 18:15:00 +0000</pubDate>
+      <guid>https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>Куда пропала оплата? Как я сделал Paylift для малого бизнеса</title>
+      <link>https://habr.com/ru/articles/1111930/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1111930</link>
+      <description>Стартап Paylift повышает конверсию платежей. Позволяет получить «95% вместо 0%». Для чего я его сделал и для кого? Какие механики реализованы? Какие IPSP поддерживаются? Как работает реферальная программа? Читать далее</description>
+      <pubDate>Tue, 24 Nov 2026 18:08:04 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1111930/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1111930</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>У берегов Мальорки нашли следы кораблекрушения исламского периода</title>
-      <link>https://nplus1.ru/news/2026/11/24/islamic-era-shipwreck</link>
-      <description>В июле 2026 года житель Мальорки отправился купаться в море и во время этого процесса заметил деревянные обломки, которые торчали из песчаного дна. Он сообщил в местный муниципалитет о находках, предположив, что, возможно, на морском дне лежали останки древнего корабля. Прибывшие на место подводные археологи впоследствии установили, что неподалеку от острова покоятся обломки судна, затонувшего во времена, когда Испания находилась под властью мусульман. По данным исследователей, в районе Балеарск</description>
-      <pubDate>Tue, 24 Nov 2026 08:28:00 +0000</pubDate>
-      <guid>https://nplus1.ru/news/2026/11/24/islamic-era-shipwreck</guid>
-      <category>N + 1 — главное издание о науке, технике и технологиях</category>
-    </item>
-    <item>
-      <title>Как я делал игру с GPT 6.2 Astra и LeCodes Engine, которая завирусилась у меня в рилсах</title>
-      <link>https://habr.com/ru/articles/1111630/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1111630</link>
-      <description>Вечером листая ленту в запрещенной социальной сети мне попался рилс про игру, где дед ездит на газонокосилке по густой траве и курит сигарэту. А алгоритмы рилсов чувствуют слабости своих зрителей и лента начала переполняться этой медитативной игрой. Возможно в эти суетные дни как раз не хватало простого — покосить траву и покурить сигарэтку (хоть я и не курю). Еще и саундтреки там про то как balls are itching. Игра называется One More Lawn. Сразу обозначим — то, что я делал в рамках этой статьи </description>
-      <pubDate>Tue, 24 Nov 2026 08:23:11 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1111630/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1111630</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Прозрачные поля PNG сбили размер принта: проверяем макет на Python</title>
-      <link>https://habr.com/ru/articles/1111628/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1111628</link>
-      <description>В папке лежат три версии одного принта. Две выглядят одинаково в проводнике, а третья показывает белую плашку только на тёмном фоне. Если рассчитать размер печати по ширине файла, прозрачные поля попадут в расчёт наравне с рисунком. Я собрал три контрольных PNG, чтобы проверить, какие свойства файла можно надёжно вытащить до передачи макета в печать. Читать далее</description>
-      <pubDate>Tue, 24 Nov 2026 08:21:53 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1111628/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1111628</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Семь самых прибыльных игр в истории: от Space Invaders до GTA VI</title>
-      <link>https://habr.com/ru/companies/finam_broker/articles/1111620/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1111620</link>
-      <description>В 2026 году игры стали одним из самых прибыльных направлений индустрии развлечений. По прогнозу Newzoo, мировой рынок видеоигр достигнет $213,9 млрд к концу этого года. Ноябрьский релиз Grand Theft Auto VI уже стал ключевым событием года, о котором говорят даже за пределами игровой индустрии. В честь выхода новой части популярной франшизы — рассказ о семи самых прибыльных видеоиграх в истории. Читать далее</description>
-      <pubDate>Tue, 24 Nov 2026 08:10:10 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/finam_broker/articles/1111620/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1111620</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>[Перевод] Будущее CSS</title>
-      <link>https://habr.com/ru/companies/timeweb/articles/1104240/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104240</link>
-      <description>На протяжении последних нескольких лет все основные вендоры браузеров (Google, Apple, Microsoft и Mozilla, а также Igalia и Bocoup) вместе работают над Interop , проектом по улучшению универсальной поддержки веб-технологий браузерами. Это довольно успешная инициатива; когда что-то добавляется в Interop, оно часто получает почти 100% поддержку всех основных браузеров в течение года. CSS Subgrid — хороший пример. Subgrid — очень мощное дополнение CSS Grid, предоставляющее совершенно новые способы </description>
-      <pubDate>Tue, 24 Nov 2026 08:06:08 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/timeweb/articles/1104240/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1104240</guid>
+      <title>Две слишком большие чёрные дыры на заре Вселенной ставят учёных в тупик</title>
+      <link>https://habr.com/ru/articles/1111928/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1111928</link>
+      <description>Астрономы обнаружили необычного кандидата на пару квазаров, существовавших всего через 900 миллионов лет после Большого взрыва. Каждый из них питается энергией огромной чёрной дыры, которая каким‑то образом успела вырасти до поразительных размеров, когда Вселенная была ещё совсем молодой. У учёных пока нет окончательного объяснения того, как эти два космических гиганта смогли настолько быстро набрать массу. Пара, получившая официальное обозначение J1602+4228AB и гавайское название Наповаваэнакау</description>
+      <pubDate>Tue, 24 Nov 2026 18:06:35 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1111928/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1111928</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
   </channel>
