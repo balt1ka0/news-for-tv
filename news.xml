@@ -5,87 +5,87 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Wed, 25 Nov 2026 13:56:17 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 22:57:34 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Мир есть текст. Почему LLM попали прямо в операционную систему цивилизации</title>
-      <link>https://habr.com/ru/articles/1112254/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112254</link>
-      <description>В дискуссиях об искусственном интеллекте мы спорим о том, понимает ли машина смысл, обладает ли сознанием и можно ли считать её мышление настоящим. Но есть другой, не менее интересный вопрос: почему машина, обученная на текстах, оказалась способна писать программы, проектировать технические системы и помогать в управлении компаниями? Мир ведь состоит из молекул и атомов, из стали, бетона, бактерий, электрических полей, людей и множества других вещей, которые имеют весьма отдалённое отношение к т</description>
-      <pubDate>Wed, 25 Nov 2026 13:39:08 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1112254/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112254</guid>
+      <title>DAG зелёный, а данные неправильные: Data Quality на практике с ClickHouse и Airflow</title>
+      <link>https://habr.com/ru/articles/1112466/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112466</link>
+      <description>Зелёный DAG ещё ничего не говорит о том, что в отчёте всё верно. Знакомое утро дата-инженера: загрузка прошла без единой ошибки, в ClickHouse лежат свежие записи, и тут пишут из бизнеса: «По одному складу нет продаж». Через час прилетает похожее сообщение: теперь куда-то пропали закупочные цены. А сам процесс загрузки оба раза отработал как положено. В CoreDataTeam в Magnum e-Commerce мы упирались в это постоянно. Нас то и дело спрашивали: когда обновились данные, все ли записи долетели, можно л</description>
+      <pubDate>Wed, 25 Nov 2026 22:25:22 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1112466/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112466</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Школа Okdesk как инструмент сокращения time to value</title>
-      <link>https://habr.com/ru/companies/okdesk/articles/1112300/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112300</link>
-      <description>Привет, Хабр! Меня зовут Ирина Хмелевская, я методолог Okdesk – платформы для управления заявками, выездным обслуживанием и ТОиР. Okdesk развивается с 2015 года. Сегодня через платформу проходит обслуживание около двух миллионов единиц техники. По мере развития продукта росло количество возможностей, настроек и сценариев его использования, а вместе с ними – объем пользовательской документации. В какой-то момент мы столкнулись с проблемой: при наличии подробной документации и контекстных подсказо</description>
-      <pubDate>Wed, 25 Nov 2026 13:38:13 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/okdesk/articles/1112300/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112300</guid>
+      <title>Red Atlas: 96 % из 8 038 проверенных подсетей открываются из России</title>
+      <link>https://habr.com/ru/articles/1112464/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112464</link>
+      <description>Три дня назад мы выложили Red Atlas, бесплатную карту, на которой видно, какие подсети хостеров открываются из России, а какие нет. В ночь на 24 ноября оказалось, что у Selectel мы показывали 63-67 % открытых подсетей, хотя на самом деле открывалось больше 95 %. Ошибка сидела в нашей методике, сам Selectel ни при чём. Эта статья про то, как мы ошиблись, как это нашли и как теперь измеряем. Цифры в тексте сняты с живого сайта и API вечером 24 ноября 2026 года, ближе к 23:00 по Москве. К моменту, </description>
+      <pubDate>Wed, 25 Nov 2026 22:21:23 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1112464/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112464</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>ТОП-5 агентств для ведения экспертных блогов</title>
-      <link>https://habr.com/ru/articles/1112298/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112298</link>
-      <description>Экспертный блог — это площадка, где компания или эксперт делится своими профессиональными знаниями и уникальным опытом. Основная ценность такого ресурса кроется в формировании доверительных отношений с аудиторией, которая со временем превращается в клиентов. Со стороны может показаться, будто ведение экспертного блога — пара пустяков. Нашел исполнителей, утвердил темы, заложил бюджет и жди готовых публикаций. В реальности этот процесс сложнее: нужно отыскать эксперта, собрать фактуру на интервью</description>
-      <pubDate>Wed, 25 Nov 2026 13:34:32 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1112298/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112298</guid>
+      <title>КПК iPAQ 214 не открыл мою Google Таблицу, и я написал свой учёт расходов на Alfa Romeo 156</title>
+      <link>https://habr.com/ru/articles/1112462/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112462</link>
+      <description>КПК, который я не застал Я 1998 года рождения. Карманные компьютеры на Windows Mobile по возрасту не застал. Около месяца назад купил HP iPAQ 214, чтобы потрогать эти технологии руками и оживить устройство из другой эпохи. Alfa Romeo 156 и таблица В августе 2025 года у меня появилась Alfa Romeo 156. Машину пришлось оживлять, и спустя год захотелось понять, сколько денег на это ушло. Я завёл Google Таблицу и начал туда записывать. По таблице набежало 2796,83 белорусского рубля. Таблица, которую К</description>
+      <pubDate>Wed, 25 Nov 2026 22:18:00 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1112462/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112462</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>[Перевод] MP3-плеер в Factorio из двух тысяч динамиков</title>
-      <link>https://habr.com/ru/companies/ruvds/articles/1111944/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1111944</link>
-      <description>Вас тоже утомило постоянно переключаться между Spotify и Factorio в процессе игры? И каждый раз при возвращении в игру вас уже побеждают кусаки? Вот было бы здорово управлять плейлистом автоматически при помощи логических сетей, чтобы ничто не отвлекало от развития фабрики! Представляю вашему вниманию FactoTune! Почему бы не просто MIDI? Раньше в Factorio уже воспроизводили музыку, но только в виде простых MIDI-последовательностей, используя фиксированный набор инструментов, доступных в программ</description>
-      <pubDate>Wed, 25 Nov 2026 13:30:15 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/ruvds/articles/1111944/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1111944</guid>
+      <title>Разбор OpenAI Codex на Windows и macOS: обрыв на 516 токенах и слив до 1 МБ git diff в обход opt-out</title>
+      <link>https://habr.com/ru/articles/1112460/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112460</link>
+      <description>В октябре Codex Desktop в режиме ultra стал заметно хуже справляться с кодом: модели начали мгновенно выплёвывать длинные куски текста, промахиваться мимо очевидных вещей, квота улетала быстрее, а сами рассуждения просто пропали из интерфейса. В чатах и на Reddit народ спорил, реальная это деградация или эффект плацебо. Мы с другом (я на Windows 11 x64, он на macOS arm64) решили не гадать на ощущениях, а вскрыть свои папки ~/.codex/ , распаковать .jsonl.zst сессии, проверить локальные SQLite-баз</description>
+      <pubDate>Wed, 25 Nov 2026 22:16:16 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1112460/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112460</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Tapo’s new indoor security camera includes a touchscreen for video calls</title>
-      <link>https://www.theverge.com/tech/1041221/tapo-c825-security-indoor-2k-camera-video-calls-tracking-pan-tilt</link>
-      <description>TP-Link's Tapo smart home brand announced a new indoor security camera that can help keep an eye on your house while you're away or connect you to family and friends while you're at home. The C825 upgrades a 2K pan-and-tilt camera with a 4-inch touchscreen, so when it's not watching for intruders or misbehaving pets, […]</description>
-      <pubDate>Wed, 25 Nov 2026 13:30:00 +0000</pubDate>
-      <guid>https://www.theverge.com/tech/1041221/tapo-c825-security-indoor-2k-camera-video-calls-tracking-pan-tilt</guid>
+      <title>Как мы делали LLM‑бота для ЖКХ, который работает полностью в закрытом контуре</title>
+      <link>https://habr.com/ru/articles/1112458/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112458</link>
+      <description>Как мы заменили скриптового робота с 60 сценариями на LLM‑бота, который работает полностью в закрытом контуре, отвечает голосом и текстом в пяти каналах и закрывает 72% обращений без оператора. Рассказываю, почему выбрали Qwen3-14B, как обошлись без облачных LLM, зачем нам LoRA и RAG по сценариям и каких метрик удалось достичь: точность классификации 98%, время ожидания оператора менее 5 секунд, человечный синтез речи и пиковая нагрузка 60 звонков + 200 чатов на одной H200. Читать далее</description>
+      <pubDate>Wed, 25 Nov 2026 22:15:02 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1112458/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112458</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future</title>
+      <link>https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent</link>
+      <description>Last year, Google filed a patent for a system called My Channel that's designed to create feeds filled with personalized, AI-generated videos and advertisements based on information the company knows about its users. The patent has been rejected, but unfortunately, Google might appeal or resubmit an amended version, and we could see this monstrosity come […]</description>
+      <pubDate>Wed, 25 Nov 2026 21:51:26 +0000</pubDate>
+      <guid>https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent</guid>
       <category>The Verge</category>
     </item>
     <item>
-      <title>Заблокировали Claude? Разбираем, чем заменить, что выбрать по задачам и сколько это стоит</title>
-      <link>https://habr.com/ru/articles/1112292/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112292</link>
-      <description>Чат заменить просто. Claude Code заменить сложнее, и вся статья в основном о нём. Главное, что я вынес. Заменять надо не «Claude вообще», а то, как вы с ним работали. Если вы работали в локальном агенте, то ваши файлы и инструкции никуда не денутся, и переехать можно за пару вечеров. А вот выбор нового инструмента зависит от того, как вы ставите задачи. Читать далее</description>
-      <pubDate>Wed, 25 Nov 2026 13:19:07 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1112292/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112292</guid>
+      <title>The Verge’s 2026 holiday gift guide for travelers</title>
+      <link>https://www.theverge.com/gadgets/1021917/best-gifts-for-travelers-2026</link>
+      <description>Everyone has that traveler in their life. That person who feels more at home on a 14-hour train ride than a quiet Sunday on the couch. They speak multiple languages, have a gut like a goat, and make friends wherever they go. Whether they're your kindred spirit or the person you live vicariously through, one […]</description>
+      <pubDate>Wed, 25 Nov 2026 21:48:00 +0000</pubDate>
+      <guid>https://www.theverge.com/gadgets/1021917/best-gifts-for-travelers-2026</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>Как алгоритмы соцсетей ухудшили UX и привели к деградации визуального вкуса пользователя</title>
+      <link>https://habr.com/ru/articles/1112450/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112450</link>
+      <description>За последние годы интерфейсы стали заметно проще. Я все чаще стала замечать, кнопки все крупнее и крупнее, инфомрация все скуднее и скуднее, сильнее контраст, бесконечный скролл, повторяющиеся паттерны. Многое из этого действительно улучшило доступность и скорость восприятия для пользователя. Но вместе с упрощением произошло и другое: визуальный язык стал гораздо беднее, а ожидания пользователей — примитивнее. Хоть мы и живем в эпоху минимализма, но думаю, это не мода на нее. Это во многом следс</description>
+      <pubDate>Wed, 25 Nov 2026 21:41:48 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1112450/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112450</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Новости о IMSProg</title>
-      <link>https://habr.com/ru/articles/1112290/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112290</link>
-      <description>Вышла новая версия программатора - v1.9.2. Версия в основном посвящена устранению мелких проблем с отображением информации. Измненен набор иконок, в файлах рабочего стола и метафайлах исправлены замечания, касающиеся соответствия спецификации FreeDesktop. Добавлены пара десятков микросхемы NOR и NAND флеш памяти в базу программы. Читать далее</description>
-      <pubDate>Wed, 25 Nov 2026 13:16:50 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1112290/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112290</guid>
+      <title>Разработка системы мониторинга терминалов: от C# к Node.js, Protobuf и AI‑аналитике</title>
+      <link>https://habr.com/ru/articles/1112448/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112448</link>
+      <description>Агент на устройстве, бинарные сообщения, команды через очередь и передача логов по частям. Показываю, как это устроено в разрабатываемой системе мониторинга, что уже работает и что ещё требует доработки. Отдельно расскажу про следующий этап: как использовать накопленные события для прогноза проблем и планирования обслуживания. Это история моего пути разработчика и руководителя проекта. Читать далее</description>
+      <pubDate>Wed, 25 Nov 2026 21:40:08 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1112448/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112448</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Как стоит перестроить IT-образование в эпоху ИИ-агентов</title>
-      <link>https://habr.com/ru/articles/1112288/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112288</link>
-      <description>Веду занятия по использованию ИИ у студентов выпускного курса IT-специальности. Наблюдаю интересный эффект: с ИИ-агентом на небольшой локальной модели Qwen 4B я получаю результаты лучше, чем студенты с агентами на топовых моделях. Причина не столько в умении пользоваться ИИ, сколько в инженерной компетентности. Эксперт понимает задачу, сокращает пространство поиска решений, управляет сложностью, обнаруживает ошибки и обеспечивает качественную обратную связь. Новичок делегирует всё это модели, вк</description>
-      <pubDate>Wed, 25 Nov 2026 13:16:35 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1112288/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112288</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Flipkart CEO Kalyan Krishnamurthy to step down next week amid IPO uncertainty</title>
-      <link>https://techcrunch.com/2026/11/25/flipkart-ceo-kalyan-krishnamurthy-to-step-down-next-week-amid-ipo-uncertainty/</link>
-      <description>Flipkart's product and technology chief Balaji Thiagarajan will lead the company alongside its board until a successor is found.</description>
-      <pubDate>Wed, 25 Nov 2026 13:08:19 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/11/25/flipkart-ceo-kalyan-krishnamurthy-to-step-down-next-week-amid-ipo-uncertainty/</guid>
-      <category>TechCrunch</category>
-    </item>
-    <item>
-      <title>Manticore Search 32.1.3: массовый импорт напрямую на диск и ускоренный поиск</title>
-      <link>https://habr.com/ru/articles/1112276/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112276</link>
-      <description>Manticore Search 32.1.3 ускоряет загрузку больших объемов данных, улучшает полнотекстовый и векторный поиск и включает длинный список исправлений корректности и надежности. Главная новая возможность — массовый импорт напрямую на диск для локальных, шардированных и реплицируемых таблиц реального времени. В статье собраны изменения, появившиеся после 29.9.0 , то есть в релизах с 29.9.1 по 32.1.3 . ❤️ Благодарим @tudorvasinca ( #4858 , #4924 , #4925 ), @vitlav ( #5060 ), @RaphaelFakhri ( #5031 ) и </description>
-      <pubDate>Wed, 25 Nov 2026 13:07:11 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1112276/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112276</guid>
+      <title>Как я запитал бытовку от солнечной станции,</title>
+      <link>https://habr.com/ru/articles/1112378/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112378</link>
+      <description>Как я запитал бытовку от солнечной станции, Я увлекаюсь техникой поэтому дачная бытовка для меня это не только сарай для лопат, но и основной полигон для испытаний камер видеонаблюдения, радиостанций, мештастика, мешкора. Конечно, на таком полигоне должен быть и интернет. А значит роутер, свитч, видеорегистратор. И эти хотелки всегда растут. Но давайте с начала. Молдова. Пригород Кишинёва. Бытовка находится на некотором удалении от цивилизации поэтому подключить электросети, если даже и реальный</description>
+      <pubDate>Wed, 25 Nov 2026 21:05:50 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1112378/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112378</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
   </channel>
