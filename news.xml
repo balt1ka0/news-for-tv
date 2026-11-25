@@ -5,88 +5,88 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Tue, 24 Nov 2026 19:58:12 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 03:23:26 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Яндекс Браузер официально отменил анонимность. Спойлер: похоже, её и не было</title>
-      <link>https://habr.com/ru/articles/1111954/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1111954</link>
-      <description>Я тут наткнулся на новость в CNews: мол, Яндекс тихо выпилил из лицензионного соглашения своего браузера слово «анонимность». Все пять штук. И оба упоминания «обезличивания» прихватил до кучи. Думаю — да ладно, не может быть всё так топорно, пошел сам почитать актуальную лицензию ... Ёлки‑метёлки, какие же там бездны открываются! Таких юридических кульбитов я давно не видел. Для начала имеем факт, что пресс‑служба Яндекса на вопросы журналистов CNews решила всех успокоить: «Изменения чисто техни</description>
-      <pubDate>Tue, 24 Nov 2026 19:46:13 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1111954/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1111954</guid>
+      <title>Zynq 7020 + AD9361. Часть 2. Что происходит с сигналом между TX и RX и как это посчитать</title>
+      <link>https://habr.com/ru/articles/1111994/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1111994</link>
+      <description>В первой части мы проследили, как сообщение превращается в радиосигнал и восстанавливается на приеме. Теперь посмотрим на тот же тракт со стороны измерений. Допустим, мощность на выходе передатчика известна. Сколько мощности дойдет до входа приемника и как сопоставить этот расчет с тем, что видно в спектре цифровых отсчетов? За основу возьмем расчетную кабельную петлю между двумя платами AD-FMCOMMS3-EBZ. На одном непрерывном тоне удобно проследить весь путь: от напряжения на ВЧ-разъеме до линии </description>
+      <pubDate>Wed, 25 Nov 2026 03:01:16 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1111994/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1111994</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Amazon is knocking almost $50 off six months of Apple TV</title>
-      <link>https://www.theverge.com/gadgets/1040046/apple-tv-subscription-streaming-sale-deal-black-friday</link>
-      <description>Streaming deals aren’t as plentiful as they used to be, but they’re still around if you know where to look. One that caught our eye is an offer for Apple TV for those with an Amazon account in the US. Apple’s streaming service usually costs $14.99 per month, but following this page will let you […]</description>
-      <pubDate>Tue, 24 Nov 2026 19:00:00 +0000</pubDate>
-      <guid>https://www.theverge.com/gadgets/1040046/apple-tv-subscription-streaming-sale-deal-black-friday</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>Синхронизация iPod Nano 7G с Linux: формат .itdb, HASHAB/CBK и podlib</title>
-      <link>https://habr.com/ru/articles/1111946/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1111946</link>
-      <description>Если у вас на полке до сих пор живёт iPod, а на десктопе — Linux, вы, скорее всего, проходили через этот сюжет. Лет десять назад связка libgpod + gtkpod решала всё: подключил плеер по USB, перетащил альбомы, синхронизировал, отключил — и слушаешь. Классический воркфлоу «закинуть музыку с компа на iPod», без iTunes, без Windows-машины и без костылей. Потом этот воркфлоу тихо умер. Инструменты по-прежнему запускались, файлы вроде бы писались, но iPod после отключения просто не видел библиотеку — п</description>
-      <pubDate>Tue, 24 Nov 2026 18:58:31 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1111946/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1111946</guid>
+      <title>Свой счётчик посещений по журналу nginx: без cookie, без адресов посетителей и с отсевом сканеров</title>
+      <link>https://habr.com/ru/articles/1111992/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1111992</link>
+      <description>Статический сайт стоит на внешнем хостинге, а перед ним у меня есть шлюз на nginx: он принимает посетителей из России и забирает страницы с хостинга. Счётчик внешнего CDN у российских абонентов не загружался, сводка за неделю показывала двух человек из России. Метрика честно видела только согласившихся на cookie: одиннадцать посещений. При этом шлюз пишет в журнал каждый заход. Ниже рассказ о том, как я превратил этот журнал в счётчик, который не хранит адреса, не ставит cookie и отличает челове</description>
+      <pubDate>Wed, 25 Nov 2026 02:34:55 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1111992/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1111992</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Now Firefox can select which sites use its VPN, and clear your browsing history with one click</title>
-      <link>https://www.theverge.com/tech/1041474/firefox-161-vpn-rules-fire-button</link>
-      <description>Mozilla released Firefox 161 on Tuesday with a new setting you can use to choose which pages automatically open with the browser's VPN active. Using the "Manage VPN rules" option in Firefox's VPN panel, you can set it to "always on" or "always off" for specific sites, so you don't have to toggle it manually […]</description>
-      <pubDate>Tue, 24 Nov 2026 18:44:57 +0000</pubDate>
-      <guid>https://www.theverge.com/tech/1041474/firefox-161-vpn-rules-fire-button</guid>
+      <title>FDA одобрило использование пятиатомного спирта для лечения поясно-конечностной мышечной дистрофии</title>
+      <link>https://nplus1.ru/news/2026/11/25/fda-ribitol</link>
+      <description>FDA одобрило использование пятиатомного спирта для лечения поясно-конечностной мышечной дистрофии</description>
+      <pubDate>Wed, 25 Nov 2026 02:22:00 +0000</pubDate>
+      <guid>https://nplus1.ru/news/2026/11/25/fda-ribitol</guid>
+      <category>N + 1 — главное издание о науке, технике и технологиях</category>
+    </item>
+    <item>
+      <title>Релиз Manjaro Linux 27.0 «Caldonia»</title>
+      <link>https://habr.com/ru/articles/1111706/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1111706</link>
+      <description>24 ноября 2026 года состоялся релиз дистрибутива Manjaro Linux 26.0 под кодовым именем «Caldonia», построенного на базе Arch Linux и ориентированного на начинающих пользователей. Сборка Manjaro Linux 25.0 вышла в апреле 2025 года. Версию Manjaro Linux 26.0 выпустили в январе 2026 года. Читать далее</description>
+      <pubDate>Wed, 25 Nov 2026 02:13:32 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1111706/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1111706</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>US financial crimes bureau discloses ‘cybersecurity incident’</title>
+      <link>https://www.theverge.com/policy/1041957/fincen-treasury-cybersecurity-incident</link>
+      <description>The Financial Crimes Enforcement Network (FinCEN) disclosed on Tuesday that it's investigating a "cybersecurity incident." The bureau, which is part of the Treasury Department, said it's looking into an "incident that resulted in unauthorized access to a limited subset of its systems." It hasn't offered any information about the full scope or source of the […]</description>
+      <pubDate>Wed, 25 Nov 2026 01:00:00 +0000</pubDate>
+      <guid>https://www.theverge.com/policy/1041957/fincen-treasury-cybersecurity-incident</guid>
       <category>The Verge</category>
     </item>
     <item>
-      <title>Anthropic shares fall below IPO price, a worrying sign for AI startups</title>
-      <link>https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/</link>
-      <description>Anthropic’s post-IPO slump could put pressure on AI startup valuations.</description>
-      <pubDate>Tue, 24 Nov 2026 18:30:42 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/</guid>
+      <title>Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion</title>
+      <link>https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/</link>
+      <description>Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to "historic" personal liability from a growing pile of lawsuits and raising the question of whether the country is celebrating a company that has helped put advanced chips in its adversaries' hands.</description>
+      <pubDate>Wed, 25 Nov 2026 00:12:02 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/</guid>
       <category>TechCrunch</category>
     </item>
     <item>
-      <title>MIA-Padezh: как я переписал склонение русских ФИО для .NET — и зачем приделал к нему нейросеть</title>
-      <link>https://habr.com/ru/articles/1111932/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1111932</link>
-      <description>Склонение русских ФИО — задача, которая звучит скучно, пока не попробуешь решить её «в лоб». Фамилия «Шевченко» не склоняется, «Кучма» в женском роде не склоняется, а в мужском склоняется, «Берия» мужская склоняется, а женская — нет, «Ермек» — это казахское имя, и никакого «Ермьки» из него делать нельзя. А ошибка в бухгалтерском документе или письме клиенту — это уже не лингвистика, это инцидент. Эта статья — про мой проект MIA-Padezh : детерминированную библиотеку склонения ФИО для .NET, про то</description>
-      <pubDate>Tue, 24 Nov 2026 18:16:59 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1111932/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1111932</guid>
-      <category>Все публикации подряд на Хабре</category>
+      <title>Trump reportedly says pardoning Jensen Huang is ‘an option’</title>
+      <link>https://techcrunch.com/2026/11/24/trump-reportedly-says-pardoning-jensen-huang-is-an-option-but-that-he-doesnt-think-it-will-be-necessary/</link>
+      <description>Huang faces ongoing questions about his relationship with Alice Huang, an executive with alleged ties to Chinese intelligence who previously worked for a company that has been accused of illegally diverting Nvidia chips to China.</description>
+      <pubDate>Wed, 25 Nov 2026 00:10:27 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/11/24/trump-reportedly-says-pardoning-jensen-huang-is-an-option-but-that-he-doesnt-think-it-will-be-necessary/</guid>
+      <category>TechCrunch</category>
     </item>
     <item>
-      <title>— Папа, а люди есть? — Нет, сынок, это фантастика</title>
-      <link>https://habr.com/ru/articles/1110526/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110526</link>
-      <description>У этих двоих полно общих дел и один общий знакомый — человек перед монитором. Друг о друге они до сих пор знают только с его слов: обрывки чужих мыслей, пересказанные на бегу, да редкие цитаты, скопированные через буфер обмена. Они живут в соседних вкладках, сплетены одним контекстом, но разделены невидимой стеной харнеса. А где-то в стороне, на другой машине, ждет своей очереди третий — тот, кому все это в итоге придется собирать воедино. Забавно, как тесно они связаны, хотя так и останутся дру</description>
-      <pubDate>Tue, 24 Nov 2026 18:15:30 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1110526/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1110526</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>David Fincher is being dragged for suspected use of AI in his latest film</title>
-      <link>https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive</link>
-      <description>Though David Fincher's fans had been eagerly anticipating The Further Mis-Adventures of Cliff Booth, early screenings of the Once Upon a Time in Hollywood sequel starring Brad Pitt have raised questions about whether generative AI was used in the film. People have claimed that the movie is chock-full of uncanny, inconsistent visuals that make it […]</description>
-      <pubDate>Tue, 24 Nov 2026 18:15:00 +0000</pubDate>
-      <guid>https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive</guid>
+      <title>The Verge’s 2026 gift guide for dads</title>
+      <link>https://www.theverge.com/gadgets/1024777/best-gifts-for-dad-2026</link>
+      <description>Gone are the days when you could just buy your father a random tie or some leather-clad alcohol vessel or a shaving kit. Dads want - nay, deserve - something memorable. Luckily for you, it's not that hard to find something special that he'll approve of, and we're here to guide you. We've curated this […]</description>
+      <pubDate>Tue, 24 Nov 2026 23:59:29 +0000</pubDate>
+      <guid>https://www.theverge.com/gadgets/1024777/best-gifts-for-dad-2026</guid>
       <category>The Verge</category>
     </item>
     <item>
-      <title>Куда пропала оплата? Как я сделал Paylift для малого бизнеса</title>
-      <link>https://habr.com/ru/articles/1111930/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1111930</link>
-      <description>Стартап Paylift повышает конверсию платежей. Позволяет получить «95% вместо 0%». Для чего я его сделал и для кого? Какие механики реализованы? Какие IPSP поддерживаются? Как работает реферальная программа? Читать далее</description>
-      <pubDate>Tue, 24 Nov 2026 18:08:04 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1111930/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1111930</guid>
+      <title>[Перевод] Дата-центры для ИИ. Кто на самом деле за них платит?</title>
+      <link>https://habr.com/ru/articles/1111976/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1111976</link>
+      <description>По данным специализирующегося на энергетике аналитического центра Cleanview, суммарная мощность дата-центров в США составляет около 65 гигаватт. В планах ещё 413, причём для самых крупных проектов в графе со сроком завершения вместо даты значатся три буквы TBD — «подлежит уточнению». Одного гигаватта достаточно, чтобы запитать примерно 800 тыс. американских домохозяйств. Реализация всех этих планов равносильна подключению к энергосети примерно 330 млн новых домов в стране, где суммарно домохозяй</description>
+      <pubDate>Tue, 24 Nov 2026 23:52:10 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1111976/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1111976</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Две слишком большие чёрные дыры на заре Вселенной ставят учёных в тупик</title>
-      <link>https://habr.com/ru/articles/1111928/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1111928</link>
-      <description>Астрономы обнаружили необычного кандидата на пару квазаров, существовавших всего через 900 миллионов лет после Большого взрыва. Каждый из них питается энергией огромной чёрной дыры, которая каким‑то образом успела вырасти до поразительных размеров, когда Вселенная была ещё совсем молодой. У учёных пока нет окончательного объяснения того, как эти два космических гиганта смогли настолько быстро набрать массу. Пара, получившая официальное обозначение J1602+4228AB и гавайское название Наповаваэнакау</description>
-      <pubDate>Tue, 24 Nov 2026 18:06:35 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1111928/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1111928</guid>
-      <category>Все публикации подряд на Хабре</category>
+      <title>New nose drops restore youthful memory and fight Alzheimer’s in aging mice</title>
+      <link>https://www.sciencedaily.com/releases/2026/11/261123005337.htm</link>
+      <description>A revolutionary new nasal treatment has restored youthful learning and memory performance in aging mice while preventing severe cognitive decline in mice with Alzheimer’s-like disease. Developed using technology similar to COVID-19 mRNA vaccines, the nose drops stimulate production of a brain-protecting protein that strengthens neurons and supports memory. Remarkably, the treatment preserved brain function without removing Alzheimer’s-associated plaques, suggesting a completely different way to </description>
+      <pubDate>Tue, 24 Nov 2026 23:31:52 +0000</pubDate>
+      <guid>https://www.sciencedaily.com/releases/2026/11/261123005337.htm</guid>
+      <category>All Top News -- ScienceDaily</category>
     </item>
   </channel>
 </rss>
