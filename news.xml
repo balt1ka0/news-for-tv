@@ -5,87 +5,87 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Wed, 25 Nov 2026 22:57:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 04:43:06 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>DAG зелёный, а данные неправильные: Data Quality на практике с ClickHouse и Airflow</title>
-      <link>https://habr.com/ru/articles/1112466/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112466</link>
-      <description>Зелёный DAG ещё ничего не говорит о том, что в отчёте всё верно. Знакомое утро дата-инженера: загрузка прошла без единой ошибки, в ClickHouse лежат свежие записи, и тут пишут из бизнеса: «По одному складу нет продаж». Через час прилетает похожее сообщение: теперь куда-то пропали закупочные цены. А сам процесс загрузки оба раза отработал как положено. В CoreDataTeam в Magnum e-Commerce мы упирались в это постоянно. Нас то и дело спрашивали: когда обновились данные, все ли записи долетели, можно л</description>
-      <pubDate>Wed, 25 Nov 2026 22:25:22 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1112466/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112466</guid>
+      <title>Программирование в тумане</title>
+      <link>https://habr.com/ru/articles/1112494/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112494</link>
+      <description>Занимаюсь этим дело 20+ лет, ИТ индустрии слегка более 50 лет, тем не менее картина всё более и более безнадёжная. Тут и enshittification и откровенный саботаж от всем известных монополий, но больше всего удручает даже не качество конечного софта и раздутые "аппаратные требования", а качество инструментов для его разработки. Программисты нынче это классические "сапожники без сапог". Популярнейшие языки разработки в 2026-м году - JS и Python. Без комментариев. В C++ модули появились аж к 2020-му </description>
+      <pubDate>Thu, 26 Nov 2026 04:35:03 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1112494/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112494</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Red Atlas: 96 % из 8 038 проверенных подсетей открываются из России</title>
-      <link>https://habr.com/ru/articles/1112464/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112464</link>
-      <description>Три дня назад мы выложили Red Atlas, бесплатную карту, на которой видно, какие подсети хостеров открываются из России, а какие нет. В ночь на 24 ноября оказалось, что у Selectel мы показывали 63-67 % открытых подсетей, хотя на самом деле открывалось больше 95 %. Ошибка сидела в нашей методике, сам Selectel ни при чём. Эта статья про то, как мы ошиблись, как это нашли и как теперь измеряем. Цифры в тексте сняты с живого сайта и API вечером 24 ноября 2026 года, ближе к 23:00 по Москве. К моменту, </description>
-      <pubDate>Wed, 25 Nov 2026 22:21:23 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1112464/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112464</guid>
+      <title>Вышел Tails 7.18</title>
+      <link>https://habr.com/ru/articles/1112356/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112356</link>
+      <description>Во второй половине ноября 2026 года состоялся выпуск специализированного дистрибутива Tails 7.18, ориентированного на конфиденциальность, основанного на пакетной базе Debian 13 (ядре Linux 6.12 LTS), поставляемого с рабочим столом GNOME 48 и предназначенного для анонимного выхода в сеть. Выпуск Tails 6.0 произошёл в феврале 2024 года. Версия Tails 7.0 была представлена в сентябре 2025 года. Читать далее</description>
+      <pubDate>Thu, 26 Nov 2026 03:22:21 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1112356/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112356</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>КПК iPAQ 214 не открыл мою Google Таблицу, и я написал свой учёт расходов на Alfa Romeo 156</title>
-      <link>https://habr.com/ru/articles/1112462/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112462</link>
-      <description>КПК, который я не застал Я 1998 года рождения. Карманные компьютеры на Windows Mobile по возрасту не застал. Около месяца назад купил HP iPAQ 214, чтобы потрогать эти технологии руками и оживить устройство из другой эпохи. Alfa Romeo 156 и таблица В августе 2025 года у меня появилась Alfa Romeo 156. Машину пришлось оживлять, и спустя год захотелось понять, сколько денег на это ушло. Я завёл Google Таблицу и начал туда записывать. По таблице набежало 2796,83 белорусского рубля. Таблица, которую К</description>
-      <pubDate>Wed, 25 Nov 2026 22:18:00 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1112462/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112462</guid>
+      <title>Scientists discover mysterious lakes more than a mile beneath the Red Sea</title>
+      <link>https://www.sciencedaily.com/releases/2026/11/261125045259.htm</link>
+      <description>More than a mile beneath the surface of the Red Sea, scientists have discovered rare underwater lakes that could reveal secrets about Earth's ancient oceans and the possibility of alien life. Known as brine pools, these extremely salty, oxygen-free environments are surprisingly teeming with microbial life, challenging our understanding of where living organisms can survive.</description>
+      <pubDate>Thu, 26 Nov 2026 02:42:37 +0000</pubDate>
+      <guid>https://www.sciencedaily.com/releases/2026/11/261125045259.htm</guid>
+      <category>All Top News -- ScienceDaily</category>
+    </item>
+    <item>
+      <title>Nightmare Spire: Как я разрабатываю текстовую MMORPG в Telegram</title>
+      <link>https://habr.com/ru/articles/1112490/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112490</link>
+      <description>Привет, Хабр. Меня зовут Трика. В одиночку я делаю Nightmare Spire, текстовую MMORPG в тёмном фэнтези, которая целиком живёт внутри Telegram-бота. В ней есть пошаговые бои, открытый мир из десяти регионов, Цитадели, которые захватывают кланы, восемь профессий и PvP с кармой. За последний месяц я фактически написал игру заново. Сейчас в ней около 296 тысяч строк Python и 4 тысячи тестов. В статье расскажу, откуда взялась идея, как игра устроена изнутри и что я понял, когда живые игроки начали лом</description>
+      <pubDate>Thu, 26 Nov 2026 02:37:34 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1112490/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112490</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Разбор OpenAI Codex на Windows и macOS: обрыв на 516 токенах и слив до 1 МБ git diff в обход opt-out</title>
-      <link>https://habr.com/ru/articles/1112460/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112460</link>
-      <description>В октябре Codex Desktop в режиме ultra стал заметно хуже справляться с кодом: модели начали мгновенно выплёвывать длинные куски текста, промахиваться мимо очевидных вещей, квота улетала быстрее, а сами рассуждения просто пропали из интерфейса. В чатах и на Reddit народ спорил, реальная это деградация или эффект плацебо. Мы с другом (я на Windows 11 x64, он на macOS arm64) решили не гадать на ощущениях, а вскрыть свои папки ~/.codex/ , распаковать .jsonl.zst сессии, проверить локальные SQLite-баз</description>
-      <pubDate>Wed, 25 Nov 2026 22:16:16 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1112460/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112460</guid>
+      <title>Вышло обновление открытого проекта LocalSend 1.19 для обмена файлами на любых устройствах по локальной сети</title>
+      <link>https://habr.com/ru/articles/1112218/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112218</link>
+      <description>Состоялся выпуск обновление открытого проекта LocalSend 1.19 (на базе LocalSend Protocol ). Это кроссплатформенное решение для обмена файлами на любых устройствах (например, по Wi‑Fi между ноутбуком и смартфоном) по локальной сети без использования интернета или сторонних серверов. Читать далее</description>
+      <pubDate>Thu, 26 Nov 2026 02:08:28 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1112218/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112218</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Как мы делали LLM‑бота для ЖКХ, который работает полностью в закрытом контуре</title>
-      <link>https://habr.com/ru/articles/1112458/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112458</link>
-      <description>Как мы заменили скриптового робота с 60 сценариями на LLM‑бота, который работает полностью в закрытом контуре, отвечает голосом и текстом в пяти каналах и закрывает 72% обращений без оператора. Рассказываю, почему выбрали Qwen3-14B, как обошлись без облачных LLM, зачем нам LoRA и RAG по сценариям и каких метрик удалось достичь: точность классификации 98%, время ожидания оператора менее 5 секунд, человечный синтез речи и пиковая нагрузка 60 звонков + 200 чатов на одной H200. Читать далее</description>
-      <pubDate>Wed, 25 Nov 2026 22:15:02 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1112458/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112458</guid>
+      <title>Astronomers may have discovered a black hole born before the first stars</title>
+      <link>https://www.sciencedaily.com/releases/2026/11/261122060346.htm</link>
+      <description>A mysterious object named Phoebe, detected when it briefly magnified a distant star, could be a primordial black hole formed just after the Big Bang. With an estimated mass only three times that of the Moon, it may be a 13-billion-year-old cosmic relic that offers new clues to the mystery of dark matter.</description>
+      <pubDate>Thu, 26 Nov 2026 02:00:33 +0000</pubDate>
+      <guid>https://www.sciencedaily.com/releases/2026/11/261122060346.htm</guid>
+      <category>All Top News -- ScienceDaily</category>
+    </item>
+    <item>
+      <title>Бесплатный AI-агент из обычного браузерного чата: как я устал от счетов за токены и правок, ломающих проект</title>
+      <link>https://habr.com/ru/articles/1112488/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112488</link>
+      <description>Большинство разработчиков уже давно используют нейросети через обычный браузер: Gemini (в том числе через Google AI Studio), Claude, ChatGPT, DeepSeek, Qwen. Там огромные контекстные окна, которые часто бесплатны или считаются по количеству сообщений, а не по каждому токену на входе и выходе. Проблема одна: браузерный чат не умеет работать с диском. Если же пойти в сторону автономных агентов в IDE (Cursor, Cline, Aider и т.д.), быстро вылезают три другие боли: Счёт за API-токены. Агент сам решае</description>
+      <pubDate>Thu, 26 Nov 2026 01:58:50 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1112488/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112488</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future</title>
-      <link>https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent</link>
-      <description>Last year, Google filed a patent for a system called My Channel that's designed to create feeds filled with personalized, AI-generated videos and advertisements based on information the company knows about its users. The patent has been rejected, but unfortunately, Google might appeal or resubmit an amended version, and we could see this monstrosity come […]</description>
-      <pubDate>Wed, 25 Nov 2026 21:51:26 +0000</pubDate>
-      <guid>https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent</guid>
+      <title>По документам труба бесшовная: с чего начинать оценку безопасности старого трубопровода</title>
+      <link>https://habr.com/ru/articles/1112486/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112486</link>
+      <description>9 сентября 2010 года в Сан-Бруно под Сан-Франциско разорвался 30-дюймовый газопровод Line 132. Погибли восемь человек, сгорели 38 домов, еще 70 были повреждены. Через четыре месяца NTSB выпустил срочные рекомендации оператору , компании PG&amp;E. В базе данных PG&amp;E для участка указывалась бесшовная труба API 5L X42 со стенкой 0,375 дюйма. По итоговому отчету NTSB, в месте разрыва обнаружили шесть коротких отрезков длиной около 4 футов, сваренных между собой. Разрушение началось в частично проваренно</description>
+      <pubDate>Thu, 26 Nov 2026 01:10:32 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1112486/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112486</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Now Google’s Familiar Faces AI feature works on Walmart’s $35 smart home camera too</title>
+      <link>https://www.theverge.com/tech/1042938/google-home-familiar-faces-onn-cameras</link>
+      <description>A couple of Walmart's budget-friendly smart home cameras will be able to recognize people around your house now using Google's familiar face detection feature. A new Google Home update brings Familiar Faces support to the $35 Onn Outdoor Camera Plug-In and $77 Onn Floodlight Camera Hardwired. However, a Google Home Premium subscription is still required […]</description>
+      <pubDate>Thu, 26 Nov 2026 00:04:34 +0000</pubDate>
+      <guid>https://www.theverge.com/tech/1042938/google-home-familiar-faces-onn-cameras</guid>
       <category>The Verge</category>
     </item>
     <item>
-      <title>The Verge’s 2026 holiday gift guide for travelers</title>
-      <link>https://www.theverge.com/gadgets/1021917/best-gifts-for-travelers-2026</link>
-      <description>Everyone has that traveler in their life. That person who feels more at home on a 14-hour train ride than a quiet Sunday on the couch. They speak multiple languages, have a gut like a goat, and make friends wherever they go. Whether they're your kindred spirit or the person you live vicariously through, one […]</description>
-      <pubDate>Wed, 25 Nov 2026 21:48:00 +0000</pubDate>
-      <guid>https://www.theverge.com/gadgets/1021917/best-gifts-for-travelers-2026</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>Как алгоритмы соцсетей ухудшили UX и привели к деградации визуального вкуса пользователя</title>
-      <link>https://habr.com/ru/articles/1112450/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112450</link>
-      <description>За последние годы интерфейсы стали заметно проще. Я все чаще стала замечать, кнопки все крупнее и крупнее, инфомрация все скуднее и скуднее, сильнее контраст, бесконечный скролл, повторяющиеся паттерны. Многое из этого действительно улучшило доступность и скорость восприятия для пользователя. Но вместе с упрощением произошло и другое: визуальный язык стал гораздо беднее, а ожидания пользователей — примитивнее. Хоть мы и живем в эпоху минимализма, но думаю, это не мода на нее. Это во многом следс</description>
-      <pubDate>Wed, 25 Nov 2026 21:41:48 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1112450/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112450</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Разработка системы мониторинга терминалов: от C# к Node.js, Protobuf и AI‑аналитике</title>
-      <link>https://habr.com/ru/articles/1112448/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112448</link>
-      <description>Агент на устройстве, бинарные сообщения, команды через очередь и передача логов по частям. Показываю, как это устроено в разрабатываемой системе мониторинга, что уже работает и что ещё требует доработки. Отдельно расскажу про следующий этап: как использовать накопленные события для прогноза проблем и планирования обслуживания. Это история моего пути разработчика и руководителя проекта. Читать далее</description>
-      <pubDate>Wed, 25 Nov 2026 21:40:08 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1112448/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112448</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Как я запитал бытовку от солнечной станции,</title>
-      <link>https://habr.com/ru/articles/1112378/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112378</link>
-      <description>Как я запитал бытовку от солнечной станции, Я увлекаюсь техникой поэтому дачная бытовка для меня это не только сарай для лопат, но и основной полигон для испытаний камер видеонаблюдения, радиостанций, мештастика, мешкора. Конечно, на таком полигоне должен быть и интернет. А значит роутер, свитч, видеорегистратор. И эти хотелки всегда растут. Но давайте с начала. Молдова. Пригород Кишинёва. Бытовка находится на некотором удалении от цивилизации поэтому подключить электросети, если даже и реальный</description>
-      <pubDate>Wed, 25 Nov 2026 21:05:50 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1112378/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112378</guid>
+      <title>Запрещай, запрещай, а остальное всё — дребедень. Песня о безопаснике Бобби и нейросетях</title>
+      <link>https://habr.com/ru/articles/1112482/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112482</link>
+      <description>Помнишь «Остров сокровищ» 1986 года? Посреди мультфильма вдруг выходит хор, и под фортепиано рассказывают историю мальчика Бобби. «С рождения Бобби пай-мальчиком был. — Молодец…» Бобби любил деньги, не ел, не пил и всё складывал в копилку. Чем закончилось, помнит каждый, кто смотрел: он забыл, что деньги на свете любит не он один. Давай я спою тебе свою версию. С рождения Бобби безопасником был. — Молодец… Имел Бобби хобби — он данные хранил. — Хороший мальчик… Хранил и закрыл. — Что было дальше</description>
+      <pubDate>Thu, 26 Nov 2026 00:02:41 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1112482/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112482</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
   </channel>
