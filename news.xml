@@ -5,87 +5,87 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Thu, 26 Nov 2026 04:43:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 14:45:00 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Программирование в тумане</title>
-      <link>https://habr.com/ru/articles/1112494/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112494</link>
-      <description>Занимаюсь этим дело 20+ лет, ИТ индустрии слегка более 50 лет, тем не менее картина всё более и более безнадёжная. Тут и enshittification и откровенный саботаж от всем известных монополий, но больше всего удручает даже не качество конечного софта и раздутые "аппаратные требования", а качество инструментов для его разработки. Программисты нынче это классические "сапожники без сапог". Популярнейшие языки разработки в 2026-м году - JS и Python. Без комментариев. В C++ модули появились аж к 2020-му </description>
-      <pubDate>Thu, 26 Nov 2026 04:35:03 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1112494/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112494</guid>
+      <title>Можно ли сделать кремниевый транзистор в гараже без вакуумной установки?</title>
+      <link>https://habr.com/ru/articles/1112782/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112782</link>
+      <description>В первой смете моего гаражного эксперимента появилась установка за 3,6 млн рублей. Её задача состояла в том, чтобы напылить на кремний алюминий для трёх электродов. Для микросхемы с сотней соединений я бы ещё понял эту покупку. У меня задача скромнее: сделать один транзистор, подвести к нему провода и увидеть, как напряжение на затворе меняет ток стока. В 2009 году Джери Эллсворт показала такой прибор на Maker Faire. Год спустя она отдельно сняла самую любопытную часть опыта: как сделать затвор </description>
+      <pubDate>Thu, 26 Nov 2026 14:40:12 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1112782/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112782</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Вышел Tails 7.18</title>
-      <link>https://habr.com/ru/articles/1112356/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112356</link>
-      <description>Во второй половине ноября 2026 года состоялся выпуск специализированного дистрибутива Tails 7.18, ориентированного на конфиденциальность, основанного на пакетной базе Debian 13 (ядре Linux 6.12 LTS), поставляемого с рабочим столом GNOME 48 и предназначенного для анонимного выхода в сеть. Выпуск Tails 6.0 произошёл в феврале 2024 года. Версия Tails 7.0 была представлена в сентябре 2025 года. Читать далее</description>
-      <pubDate>Thu, 26 Nov 2026 03:22:21 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1112356/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112356</guid>
+      <title>Расшифровка звонков и встреч на базе ИИ</title>
+      <link>https://habr.com/ru/companies/itglobalcom/articles/1112780/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112780</link>
+      <description>Расшифровка на ИИ превращает записи звонков и встреч в текст с разметкой, кто что сказал, а языковая модель делает из него протокол, оценку разговора или запись в CRM. Это практическое руководство: три типовых сценария (колл-центр, встречи и продажи), выбор схемы и модели, требования к железу, наши замеры точности, опыт собственного анализатора встреч и ответы на частые вопросы заказчиков. Модели и цены — на конец ноября 2026 года. Читать далее</description>
+      <pubDate>Thu, 26 Nov 2026 14:36:07 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/itglobalcom/articles/1112780/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112780</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Scientists discover mysterious lakes more than a mile beneath the Red Sea</title>
-      <link>https://www.sciencedaily.com/releases/2026/11/261125045259.htm</link>
-      <description>More than a mile beneath the surface of the Red Sea, scientists have discovered rare underwater lakes that could reveal secrets about Earth's ancient oceans and the possibility of alien life. Known as brine pools, these extremely salty, oxygen-free environments are surprisingly teeming with microbial life, challenging our understanding of where living organisms can survive.</description>
-      <pubDate>Thu, 26 Nov 2026 02:42:37 +0000</pubDate>
-      <guid>https://www.sciencedaily.com/releases/2026/11/261125045259.htm</guid>
-      <category>All Top News -- ScienceDaily</category>
-    </item>
-    <item>
-      <title>Nightmare Spire: Как я разрабатываю текстовую MMORPG в Telegram</title>
-      <link>https://habr.com/ru/articles/1112490/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112490</link>
-      <description>Привет, Хабр. Меня зовут Трика. В одиночку я делаю Nightmare Spire, текстовую MMORPG в тёмном фэнтези, которая целиком живёт внутри Telegram-бота. В ней есть пошаговые бои, открытый мир из десяти регионов, Цитадели, которые захватывают кланы, восемь профессий и PvP с кармой. За последний месяц я фактически написал игру заново. Сейчас в ней около 296 тысяч строк Python и 4 тысячи тестов. В статье расскажу, откуда взялась идея, как игра устроена изнутри и что я понял, когда живые игроки начали лом</description>
-      <pubDate>Thu, 26 Nov 2026 02:37:34 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1112490/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112490</guid>
+      <title>Microsoft увеличила срок хранения резервных копий в OneDrive и SharePoint до 10 лет</title>
+      <link>https://habr.com/ru/articles/1112774/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112774</link>
+      <description>Microsoft объявила об увеличении срока хранения резервных копий в OneDrive и SharePoint с 2 до 10 лет. Фактически глубина доступной администраторам истории восстановления увеличилась в пять раз. Это может быть полезным для компаний, столкнувшихся со случайным удалением данных, атаками программ‑вымогателей и другими инцидентами, приводящими к потере информации. Читать далее</description>
+      <pubDate>Thu, 26 Nov 2026 14:30:02 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1112774/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112774</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Вышло обновление открытого проекта LocalSend 1.19 для обмена файлами на любых устройствах по локальной сети</title>
-      <link>https://habr.com/ru/articles/1112218/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112218</link>
-      <description>Состоялся выпуск обновление открытого проекта LocalSend 1.19 (на базе LocalSend Protocol ). Это кроссплатформенное решение для обмена файлами на любых устройствах (например, по Wi‑Fi между ноутбуком и смартфоном) по локальной сети без использования интернета или сторонних серверов. Читать далее</description>
-      <pubDate>Thu, 26 Nov 2026 02:08:28 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1112218/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112218</guid>
+      <title>Я выбрал модель, а отвечала другая: 129 проверок Perplexity</title>
+      <link>https://habr.com/ru/articles/1111446/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1111446</link>
+      <description>Я заплатил за Perplexity Pro так как всегда считал, что это один из самых удобных AI инструментов с достойной подборкой различных LLM на выбор и до определенного момента считал, что этот выбор работает. Оказалось, что на коротких, визуальных и чувствительных запросах ответ иногда приходит не от той модели, которую я выбрал: 70 несовпадений на 84 проверочных запроса при 60 из 60 в основном прогоне. Заодно я прогнал шесть моделей на десяти задачах: от утилиты и отладки до тест-кейсов по руководств</description>
+      <pubDate>Thu, 26 Nov 2026 14:09:55 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1111446/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1111446</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Astronomers may have discovered a black hole born before the first stars</title>
-      <link>https://www.sciencedaily.com/releases/2026/11/261122060346.htm</link>
-      <description>A mysterious object named Phoebe, detected when it briefly magnified a distant star, could be a primordial black hole formed just after the Big Bang. With an estimated mass only three times that of the Moon, it may be a 13-billion-year-old cosmic relic that offers new clues to the mystery of dark matter.</description>
-      <pubDate>Thu, 26 Nov 2026 02:00:33 +0000</pubDate>
-      <guid>https://www.sciencedaily.com/releases/2026/11/261122060346.htm</guid>
-      <category>All Top News -- ScienceDaily</category>
-    </item>
-    <item>
-      <title>Бесплатный AI-агент из обычного браузерного чата: как я устал от счетов за токены и правок, ломающих проект</title>
-      <link>https://habr.com/ru/articles/1112488/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112488</link>
-      <description>Большинство разработчиков уже давно используют нейросети через обычный браузер: Gemini (в том числе через Google AI Studio), Claude, ChatGPT, DeepSeek, Qwen. Там огромные контекстные окна, которые часто бесплатны или считаются по количеству сообщений, а не по каждому токену на входе и выходе. Проблема одна: браузерный чат не умеет работать с диском. Если же пойти в сторону автономных агентов в IDE (Cursor, Cline, Aider и т.д.), быстро вылезают три другие боли: Счёт за API-токены. Агент сам решае</description>
-      <pubDate>Thu, 26 Nov 2026 01:58:50 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1112488/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112488</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>По документам труба бесшовная: с чего начинать оценку безопасности старого трубопровода</title>
-      <link>https://habr.com/ru/articles/1112486/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112486</link>
-      <description>9 сентября 2010 года в Сан-Бруно под Сан-Франциско разорвался 30-дюймовый газопровод Line 132. Погибли восемь человек, сгорели 38 домов, еще 70 были повреждены. Через четыре месяца NTSB выпустил срочные рекомендации оператору , компании PG&amp;E. В базе данных PG&amp;E для участка указывалась бесшовная труба API 5L X42 со стенкой 0,375 дюйма. По итоговому отчету NTSB, в месте разрыва обнаружили шесть коротких отрезков длиной около 4 футов, сваренных между собой. Разрушение началось в частично проваренно</description>
-      <pubDate>Thu, 26 Nov 2026 01:10:32 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1112486/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112486</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Now Google’s Familiar Faces AI feature works on Walmart’s $35 smart home camera too</title>
-      <link>https://www.theverge.com/tech/1042938/google-home-familiar-faces-onn-cameras</link>
-      <description>A couple of Walmart's budget-friendly smart home cameras will be able to recognize people around your house now using Google's familiar face detection feature. A new Google Home update brings Familiar Faces support to the $35 Onn Outdoor Camera Plug-In and $77 Onn Floodlight Camera Hardwired. However, a Google Home Premium subscription is still required […]</description>
-      <pubDate>Thu, 26 Nov 2026 00:04:34 +0000</pubDate>
-      <guid>https://www.theverge.com/tech/1042938/google-home-familiar-faces-onn-cameras</guid>
+      <title>Here’s where you can save (a little) on the Ocarina of Time remake</title>
+      <link>https://www.theverge.com/gadgets/1040110/zelda-ocarina-of-time-switch-2-black-friday-2026-deal-sale</link>
+      <description>A lot of people have The Legend of Zelda: Ocarina of Time for the Nintendo Switch 2 on their holiday wishlist. In case you haven’t bought it yet, I wanted to share some small but welcome deals happening on the physical and digital versions of the game. Costco members can currently grab the cartridge edition […]</description>
+      <pubDate>Thu, 26 Nov 2026 14:00:00 +0000</pubDate>
+      <guid>https://www.theverge.com/gadgets/1040110/zelda-ocarina-of-time-switch-2-black-friday-2026-deal-sale</guid>
       <category>The Verge</category>
     </item>
     <item>
-      <title>Запрещай, запрещай, а остальное всё — дребедень. Песня о безопаснике Бобби и нейросетях</title>
-      <link>https://habr.com/ru/articles/1112482/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112482</link>
-      <description>Помнишь «Остров сокровищ» 1986 года? Посреди мультфильма вдруг выходит хор, и под фортепиано рассказывают историю мальчика Бобби. «С рождения Бобби пай-мальчиком был. — Молодец…» Бобби любил деньги, не ел, не пил и всё складывал в копилку. Чем закончилось, помнит каждый, кто смотрел: он забыл, что деньги на свете любит не он один. Давай я спою тебе свою версию. С рождения Бобби безопасником был. — Молодец… Имел Бобби хобби — он данные хранил. — Хороший мальчик… Хранил и закрыл. — Что было дальше</description>
-      <pubDate>Thu, 26 Nov 2026 00:02:41 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1112482/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112482</guid>
+      <title>Как выучить язык до B1 за год: мой рецепт, который начался с долгой компиляции</title>
+      <link>https://habr.com/ru/articles/1112760/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112760</link>
+      <description>Расскажу, как я учу языки. Без волшебных таблеток, без «английский за 21 день во сне», зато с понятным планом на год. Проверено на себе на французском, немецком и итальянском. Easy peasy lemon squeezy! Читать далее</description>
+      <pubDate>Thu, 26 Nov 2026 13:52:39 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1112760/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112760</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Ядра – чистый изумруд? Тестируем кампусные коммутаторы YADRO</title>
+      <link>https://habr.com/ru/companies/k2tech/articles/1112738/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112738</link>
+      <description>Друзья, коллеги! Здравствуйте! Помните белку из «Сказки о царе Салтане»? Ту самую, что песенки поёт, орешки грызёт, а под золотой скорлупкой у неё – «ядра чистый изумруд». Недавно, листая каналы, наткнулся я на этот фильм и поймал себя на профдеформации, вспомнив (как истинный сетевик!), что у нас среди вендоров есть один с таким же названием – YADRO. И пошла-полетела мысль: а под красивой золотой скорлупкой действительно ли изумруды? Ну, а раз в голове мысль уже поселилась – её оттуда уже никак</description>
+      <pubDate>Thu, 26 Nov 2026 13:42:49 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/k2tech/articles/1112738/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112738</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Русский ModernBERT: предобучение и постобучение</title>
+      <link>https://habr.com/ru/companies/ru_mts/articles/1112532/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112532</link>
+      <description>Привет, Хабр! Меня зовут Антон Кабаев, технический лидер Центра обработки естественного языка MWS AI. В этой статье мы расскажем, как обучали две модели ModernBERT для русского языка. Русскоязычный энкодер можно обучить с нуля, а можно взять готовую мультиязычную модель и заменить ей словарь. Мы попробовали оба пути. BERT — языковая модель-энкодер. Она превращает текст в векторы, по которым можно классифицировать тексты, искать похожие фразы или ранжировать документы. При обучении BERT часть ток</description>
+      <pubDate>Thu, 26 Nov 2026 13:40:07 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/ru_mts/articles/1112532/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112532</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Нейросеть для постеров и типографики на русском: Nano Banana 2.1, GPT Image 2.6, Seedream 5.5 и Kling 4.0 Image</title>
+      <link>https://habr.com/ru/companies/syntx_ai/articles/1112726/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112726</link>
+      <description>Ошибка в одной букве ломает афишу сильнее любой кривой детали: странную руку зритель может и не заметить, а латинскую букву в названии фильма заметит сразу. Поэтому я прогнал 8 русских постеров на 4 нейросетях: Nano Banana 2.1, GPT Image 2.6, Seedream 5.5 и Kling 4.0 Image. Проверял сначала по буквам и только потом по красоте. Все 4 модели работали в одинаковых условиях. Какая нейросеть напишет текст без ошибок, а какую брать под другие задачи? Читать далее</description>
+      <pubDate>Thu, 26 Nov 2026 13:39:26 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/syntx_ai/articles/1112726/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112726</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>Valve открыла приём номинантов на десятую премию The Steam Awards 2026</title>
+      <link>https://habr.com/ru/articles/1112748/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112748</link>
+      <description>Valve 23 ноября открыла приём номинантов на юбилейную десятую премию The Steam Awards 2026. Кроме того, в честь юбилея компания расширила список доступных категорий до четырнадцати. Читать далее</description>
+      <pubDate>Thu, 26 Nov 2026 13:37:11 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1112748/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112748</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
   </channel>
