@@ -5,87 +5,87 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Thu, 26 Nov 2026 14:45:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 23:30:22 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Можно ли сделать кремниевый транзистор в гараже без вакуумной установки?</title>
-      <link>https://habr.com/ru/articles/1112782/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112782</link>
-      <description>В первой смете моего гаражного эксперимента появилась установка за 3,6 млн рублей. Её задача состояла в том, чтобы напылить на кремний алюминий для трёх электродов. Для микросхемы с сотней соединений я бы ещё понял эту покупку. У меня задача скромнее: сделать один транзистор, подвести к нему провода и увидеть, как напряжение на затворе меняет ток стока. В 2009 году Джери Эллсворт показала такой прибор на Maker Faire. Год спустя она отдельно сняла самую любопытную часть опыта: как сделать затвор </description>
-      <pubDate>Thu, 26 Nov 2026 14:40:12 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1112782/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112782</guid>
+      <title>Эгоистичный ген — 50 лет книге. Самый известный труд Ричарда Докинза</title>
+      <link>https://habr.com/ru/articles/1112886/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112886</link>
+      <description>Как говорил мой тренер «время оставляет лучших». И вот спустя 50 лет. 50 лет! Пол века. Спустя всего ничего книга смутьяна, консерватора и новатора, мастера дискуссии и околофилософской беседы, ученого по форме мысли и по сути своей, Ричарда Докинза - «Эгоистичный ген» «стоит не шелохнется». Что же в ней такого интересного? Экстремальные версии дарвинизма Дарвинизм, сам по себе всегда актуален. Так что думать его никогда не ошибка. «Дайте мне то же самое, но новое» как говорил один из гейм дизай</description>
+      <pubDate>Thu, 26 Nov 2026 23:04:43 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1112886/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112886</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Расшифровка звонков и встреч на базе ИИ</title>
-      <link>https://habr.com/ru/companies/itglobalcom/articles/1112780/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112780</link>
-      <description>Расшифровка на ИИ превращает записи звонков и встреч в текст с разметкой, кто что сказал, а языковая модель делает из него протокол, оценку разговора или запись в CRM. Это практическое руководство: три типовых сценария (колл-центр, встречи и продажи), выбор схемы и модели, требования к железу, наши замеры точности, опыт собственного анализатора встреч и ответы на частые вопросы заказчиков. Модели и цены — на конец ноября 2026 года. Читать далее</description>
-      <pubDate>Thu, 26 Nov 2026 14:36:07 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/itglobalcom/articles/1112780/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112780</guid>
+      <title>Разгон LLM модели qwen 3.8 до 40+ токенов</title>
+      <link>https://habr.com/ru/articles/1112874/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112874</link>
+      <description>Начну с истории очередного LLM сервера и особенностей AMD / ROCm. Но основная тема публикации настройка - оптимизация скорость платформы vLLM при работе с популярной моделью qwen 3.8. В том числе активация MTP и создание собственных матриц расчетов. Читать далее</description>
+      <pubDate>Thu, 26 Nov 2026 21:19:06 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1112874/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112874</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Microsoft увеличила срок хранения резервных копий в OneDrive и SharePoint до 10 лет</title>
-      <link>https://habr.com/ru/articles/1112774/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112774</link>
-      <description>Microsoft объявила об увеличении срока хранения резервных копий в OneDrive и SharePoint с 2 до 10 лет. Фактически глубина доступной администраторам истории восстановления увеличилась в пять раз. Это может быть полезным для компаний, столкнувшихся со случайным удалением данных, атаками программ‑вымогателей и другими инцидентами, приводящими к потере информации. Читать далее</description>
-      <pubDate>Thu, 26 Nov 2026 14:30:02 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1112774/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112774</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Я выбрал модель, а отвечала другая: 129 проверок Perplexity</title>
-      <link>https://habr.com/ru/articles/1111446/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1111446</link>
-      <description>Я заплатил за Perplexity Pro так как всегда считал, что это один из самых удобных AI инструментов с достойной подборкой различных LLM на выбор и до определенного момента считал, что этот выбор работает. Оказалось, что на коротких, визуальных и чувствительных запросах ответ иногда приходит не от той модели, которую я выбрал: 70 несовпадений на 84 проверочных запроса при 60 из 60 в основном прогоне. Заодно я прогнал шесть моделей на десяти задачах: от утилиты и отладки до тест-кейсов по руководств</description>
-      <pubDate>Thu, 26 Nov 2026 14:09:55 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1111446/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1111446</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Here’s where you can save (a little) on the Ocarina of Time remake</title>
-      <link>https://www.theverge.com/gadgets/1040110/zelda-ocarina-of-time-switch-2-black-friday-2026-deal-sale</link>
-      <description>A lot of people have The Legend of Zelda: Ocarina of Time for the Nintendo Switch 2 on their holiday wishlist. In case you haven’t bought it yet, I wanted to share some small but welcome deals happening on the physical and digital versions of the game. Costco members can currently grab the cartridge edition […]</description>
-      <pubDate>Thu, 26 Nov 2026 14:00:00 +0000</pubDate>
-      <guid>https://www.theverge.com/gadgets/1040110/zelda-ocarina-of-time-switch-2-black-friday-2026-deal-sale</guid>
+      <title>Netflix’s coziest show has made a very quiet return</title>
+      <link>https://www.theverge.com/entertainment/1043489/midnight-diner-season3</link>
+      <description>The bigger Netflix gets, the easier it is to miss stuff. This is true of all digital platforms, of course, but it's especially true of Netflix of late, as the streaming service's lineup now also includes a growing library of reality shows, live-programming, and even games. It makes it easy for some of the best […]</description>
+      <pubDate>Thu, 26 Nov 2026 21:00:00 +0000</pubDate>
+      <guid>https://www.theverge.com/entertainment/1043489/midnight-diner-season3</guid>
       <category>The Verge</category>
     </item>
     <item>
-      <title>Как выучить язык до B1 за год: мой рецепт, который начался с долгой компиляции</title>
-      <link>https://habr.com/ru/articles/1112760/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112760</link>
-      <description>Расскажу, как я учу языки. Без волшебных таблеток, без «английский за 21 день во сне», зато с понятным планом на год. Проверено на себе на французском, немецком и итальянском. Easy peasy lemon squeezy! Читать далее</description>
-      <pubDate>Thu, 26 Nov 2026 13:52:39 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1112760/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112760</guid>
+      <title>Инсайд без инсайда: поиск грааля или анализ аномальных объёмов на Мосбирже</title>
+      <link>https://habr.com/ru/articles/1112864/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112864</link>
+      <description>Однажды я подумал что объемы это тот редкий инструмент из теханализа (хотя считается ли этот инструмент его частью?) который может быть полезен из всего этого псевдоидиотизма под названием теханализ. И пошел считать, сколько раз за десять лет российские акции торговались хотя бы вдвое активнее обычного. Вышло 63 624 раза. Больше шестидесяти тысяч дней, когда кто-то на Мосбирже, судя по объёму, торговал больше остальных и возможно знал больше остальных если в бумаге(правды ради, часть инсайдер сд</description>
+      <pubDate>Thu, 26 Nov 2026 20:20:30 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1112864/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112864</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Ядра – чистый изумруд? Тестируем кампусные коммутаторы YADRO</title>
-      <link>https://habr.com/ru/companies/k2tech/articles/1112738/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112738</link>
-      <description>Друзья, коллеги! Здравствуйте! Помните белку из «Сказки о царе Салтане»? Ту самую, что песенки поёт, орешки грызёт, а под золотой скорлупкой у неё – «ядра чистый изумруд». Недавно, листая каналы, наткнулся я на этот фильм и поймал себя на профдеформации, вспомнив (как истинный сетевик!), что у нас среди вендоров есть один с таким же названием – YADRO. И пошла-полетела мысль: а под красивой золотой скорлупкой действительно ли изумруды? Ну, а раз в голове мысль уже поселилась – её оттуда уже никак</description>
-      <pubDate>Thu, 26 Nov 2026 13:42:49 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/k2tech/articles/1112738/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112738</guid>
+      <title>Как Galaxy S9+ с разбитым экраном стал LTE‑роутером на Debian</title>
+      <link>https://habr.com/ru/articles/1112860/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112860</link>
+      <description>Дайте почитать своему ИИ-агенту. У меня в ящике лежал Samsung Galaxy S9+ 2018 года. Экран разбит, кнопки увеличения и уменьшения громкости когда-то вырвали, кнопка питания держится на скотче. Обновления давно закончились, ремонтировать его особого смысла не было, а выбрасывать жалко. Я решил попробовать сделать из него LTE-роутер на Debian. Раньше я бы за такую работу не взялся: слишком много времени пришлось бы потратить на устройство, которое сегодня почти ничего не стоит. В этот раз всё получ</description>
+      <pubDate>Thu, 26 Nov 2026 20:05:44 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1112860/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112860</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Русский ModernBERT: предобучение и постобучение</title>
-      <link>https://habr.com/ru/companies/ru_mts/articles/1112532/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112532</link>
-      <description>Привет, Хабр! Меня зовут Антон Кабаев, технический лидер Центра обработки естественного языка MWS AI. В этой статье мы расскажем, как обучали две модели ModernBERT для русского языка. Русскоязычный энкодер можно обучить с нуля, а можно взять готовую мультиязычную модель и заменить ей словарь. Мы попробовали оба пути. BERT — языковая модель-энкодер. Она превращает текст в векторы, по которым можно классифицировать тексты, искать похожие фразы или ранжировать документы. При обучении BERT часть ток</description>
-      <pubDate>Thu, 26 Nov 2026 13:40:07 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/ru_mts/articles/1112532/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112532</guid>
-      <category>Все публикации подряд на Хабре</category>
+      <title>Nvidia hits pause on chip shipments to Southeast Asia</title>
+      <link>https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/</link>
+      <description>Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.</description>
+      <pubDate>Thu, 26 Nov 2026 20:03:54 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/</guid>
+      <category>TechCrunch</category>
     </item>
     <item>
-      <title>Нейросеть для постеров и типографики на русском: Nano Banana 2.1, GPT Image 2.6, Seedream 5.5 и Kling 4.0 Image</title>
-      <link>https://habr.com/ru/companies/syntx_ai/articles/1112726/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112726</link>
-      <description>Ошибка в одной букве ломает афишу сильнее любой кривой детали: странную руку зритель может и не заметить, а латинскую букву в названии фильма заметит сразу. Поэтому я прогнал 8 русских постеров на 4 нейросетях: Nano Banana 2.1, GPT Image 2.6, Seedream 5.5 и Kling 4.0 Image. Проверял сначала по буквам и только потом по красоте. Все 4 модели работали в одинаковых условиях. Какая нейросеть напишет текст без ошибок, а какую брать под другие задачи? Читать далее</description>
-      <pubDate>Thu, 26 Nov 2026 13:39:26 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/syntx_ai/articles/1112726/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112726</guid>
-      <category>Все публикации подряд на Хабре</category>
+      <title>Is Alice Huang a spy or not?</title>
+      <link>https://techcrunch.com/2026/11/26/is-alice-huang-a-spy-or-not/</link>
+      <description>The central, still-unproven claim in the Nvidia scandal is that Alice Huang, the former Megaspeed exec with whom Nvidia CEO Jensen Huang had an extramarital affair, is a Chinese spy.</description>
+      <pubDate>Thu, 26 Nov 2026 20:00:00 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/11/26/is-alice-huang-a-spy-or-not/</guid>
+      <category>TechCrunch</category>
     </item>
     <item>
-      <title>Valve открыла приём номинантов на десятую премию The Steam Awards 2026</title>
-      <link>https://habr.com/ru/articles/1112748/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112748</link>
-      <description>Valve 23 ноября открыла приём номинантов на юбилейную десятую премию The Steam Awards 2026. Кроме того, в честь юбилея компания расширила список доступных категорий до четырнадцати. Читать далее</description>
-      <pubDate>Thu, 26 Nov 2026 13:37:11 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1112748/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112748</guid>
+      <title>X finally gets parental controls after 20 years</title>
+      <link>https://techcrunch.com/2026/11/26/x-finally-gets-parental-controls-after-20-years/</link>
+      <description>Elon Musk's social network X has finally added parental controls for teenagers, giving parents and guardians a way to manage what their kids see on the platform.</description>
+      <pubDate>Thu, 26 Nov 2026 19:31:50 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/11/26/x-finally-gets-parental-controls-after-20-years/</guid>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>The Garmin Forerunner 265S is down to $300, its best price of the year</title>
+      <link>https://www.theverge.com/gadgets/1042483/garmin-forerunner-265s-fitness-tracker-wearable-deal-sale-black-friday</link>
+      <description>The Forerunner 265S may not be the newest or flashiest Garmin, but it’s one that I’ve always loved most in testing. For runners with smaller wrists, it fits nicely. The battery life is pretty good thanks in part to its OLED touchscreen. When I reviewed it a few years ago, I called it the Goldilocks […]</description>
+      <pubDate>Thu, 26 Nov 2026 19:00:00 +0000</pubDate>
+      <guid>https://www.theverge.com/gadgets/1042483/garmin-forerunner-265s-fitness-tracker-wearable-deal-sale-black-friday</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>«Зомби‑UI»: почему крупные бренды начали выпускать интерфейсы, которые стыдно показывать</title>
+      <link>https://habr.com/ru/articles/1112820/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112820</link>
+      <description>Скриншоты интерфейсов, сгенерированных нейросетями у крупных брендов, вызывают закономерный вопрос: неужели в компаниях с миллиардными бюджетами закончились дизайнеры и тестировщики? К сожалению, во многих случаях это недалеко от истины. Проблема не в том, что ИИ «не умеет» рисовать кнопки. Проблема в том, что процесс производства интерфейсов был перестроен вокруг возможностей ИИ, а не вокруг потребностей пользователя. Читать далее</description>
+      <pubDate>Thu, 26 Nov 2026 17:59:22 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1112820/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112820</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
   </channel>
