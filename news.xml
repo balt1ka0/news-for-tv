@@ -5,87 +5,87 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Fri, 27 Nov 2026 06:59:39 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 17:16:17 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Аналитика воронки продаж: как объединить данные CRM и речевой аналитики, чтобы не считать события дважды</title>
-      <link>https://habr.com/ru/articles/1112968/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112968</link>
-      <description>Маркетинг отчитывается о росте качественных лидов. Отдел продаж утверждает, что заявок стало больше, а работать не с кем. Часто обе команды опираются на правильные цифры — просто считают разные события. На ежемесячной встрече директор по маркетингу показывает отчет: 600 лидов, стоимость привлечения снизилась, конверсия посадочной страницы выросла. Руководитель отдела продаж открывает CRM: до квалификации дошло только 240 обращений. В сделки превратились 30. Маркетинг говорит, что привел 600 поте</description>
-      <pubDate>Fri, 27 Nov 2026 06:47:49 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1112968/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112968</guid>
+      <title>The absolute best Black Friday deals we’ve found (so far)</title>
+      <link>https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas</link>
+      <description>This year’s Black Friday deals have launched in waves over the past several weeks, but now the floodgates have officially opened. You can now take advantage of the lowest prices we’ve seen in-store and online for video games, wireless earbuds, TVs, e-readers, robot vacuums, and so much more. We can’t guarantee a deal you’ve had […]</description>
+      <pubDate>Fri, 27 Nov 2026 17:07:08 +0000</pubDate>
+      <guid>https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>Как я превратил загрузку Windows в Linux-терминал и 24-битный UEFI-видеоплеер на голом C</title>
+      <link>https://habr.com/ru/articles/1112884/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112884</link>
+      <description>Первые секунды после нажатия кнопки питания на ПК обычно выглядят одинаково скучно: статичный логотип материнской платы, короткая чёрная пауза и вращающиеся точки загрузчика Windows. Максимум кастомизации, до которого обычно доходят руки — поставить открытую утилиту HackBGRT , подменяющую картинку в ACPI-таблице BGRT на собственный splash.bmp . Но если задуматься, в момент старта UEFI-приложения — ещё до запуска bootmgfw.efi и ядра ntoskrnl.exe — в нашем распоряжении уже находятся 64-битный проц</description>
+      <pubDate>Fri, 27 Nov 2026 16:57:22 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1112884/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112884</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Вышел открытый проект Cmdr — аналог Total Commander для macOS, написанный на языке Rust</title>
-      <link>https://habr.com/ru/articles/1112954/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112954</link>
-      <description>Состоялся выход написанного с помощью Claude открытого проекта Cmdr ( сайт программы ). Это аналог Total Commander (быстрый двухпанельный файловый менеджер) для macOS. Решение написано на языке Rust. Исходный код открыт для просмотра, программа бесплатна для личного использования. Проект включает опциональные функции на базе ИИ, разработанные с приоритетом конфиденциальности. Читать далее</description>
-      <pubDate>Fri, 27 Nov 2026 06:33:04 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1112954/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112954</guid>
+      <title>The best Black Friday deals on AirPods, MacBooks, and other Apple gear</title>
+      <link>https://www.theverge.com/gadgets/1043935/best-black-friday-apple-deals-2026</link>
+      <description>Black Friday is one of the best times of the year to save some cash on a new pair of AirPods or the latest Apple Watch. After all, the holiday savings can help offset the unfortunate price hikes from earlier this year, when Apple raised the cost of some of its most popular gear. Some […]</description>
+      <pubDate>Fri, 27 Nov 2026 16:30:37 +0000</pubDate>
+      <guid>https://www.theverge.com/gadgets/1043935/best-black-friday-apple-deals-2026</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>Укрощение Grafana: от настройки дашбордов до автоматизации</title>
+      <link>https://habr.com/ru/companies/otus/articles/1111440/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1111440</link>
+      <description>Grafana быстро становится сложнее в управлении, когда к мониторингу подключается целая команда: появляются вопросы разграничения прав, тиражирования дашбордов и автоматизации конфигурации. В этой статье на практических примерах разберём, как использовать API, сервисные аккаунты, Terraform и Ansible, чтобы сделать управление Grafana воспроизводимым и упростить работу с мониторингом в команде. Разобрать Grafana</description>
+      <pubDate>Fri, 27 Nov 2026 16:21:02 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/otus/articles/1111440/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1111440</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Система продуктивности готова на 100% и работает на 40%: что я понял, став руководителем</title>
-      <link>https://habr.com/ru/companies/sberbank/articles/1111904/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1111904</link>
-      <description>Привет, Хабр! Меня зовут Ренат, я в Сбере руковожу аналитикой в направлении AI PDLC — если по-простому, мы встраиваем ИИ-инструменты в производственный процесс разработки, чтобы аналитики и инженеры работали быстрее и качественнее. Ещё недавно я сам был системным аналитиком и возглавлял небольшой стрим: писал требования, проектировал интеграции, доводил ИИ-агенты от идеи до внедрения своими руками. Потом ролей стало две, обе управленческие, и привычный способ работать сломался за пару недель. Эт</description>
-      <pubDate>Fri, 27 Nov 2026 06:28:57 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/sberbank/articles/1111904/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1111904</guid>
+      <title>Slonik-LLM, или Как мы учили модель разработке ядра PostgreSQL</title>
+      <link>https://habr.com/ru/companies/postgrespro/articles/1113058/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1113058</link>
+      <description>Сможет ли агент написать код, который пройдёт ревью в pgsql-hackers? Мы дообучили Qwen на 27B параметров под разработку PostgreSQL: за неделю на 8 GPU H200 получилась модель, которую мы назвали Slonik. Рассказываем, что сработало, а что нет. Читать далее</description>
+      <pubDate>Fri, 27 Nov 2026 16:12:01 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/postgrespro/articles/1113058/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1113058</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Сколько в мире умных людей?</title>
-      <link>https://habr.com/ru/articles/1112944/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112944</link>
-      <description>А пока вы не осознали, в какую кротовую нору заведёт этот вопрос, задам ещё один. Если ИИ захочет уничтожить только часть человечества, то по каким признакам он решит, кого оставить? Ответ ИИ в конце текста. Мы уже говорили о том, что, скорее всего, ИИ никого уничтожать не будет. Однако, скорее всего, он получит контроль над человечеством. И каким-то образом им воспользуется. Одни люди получат больше возможностей, другие будут ограничены. Мы попробуем разобраться, на какие черты личности ИИ буде</description>
-      <pubDate>Fri, 27 Nov 2026 06:13:23 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1112944/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112944</guid>
+      <title>Ratcast — продолжаем допиливать совместный стриминг без серверов и блокировок</title>
+      <link>https://habr.com/ru/articles/1113374/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1113374</link>
+      <description>Всем привет! Решил написать новую статью и рассказать о последних обновлениях, исправлениях и новых возможностях моего приложения RatCast. RatCast работает по аналогии с голосовыми каналами и конференциями в Discord и сосредоточен именно на общении: голосовой связи, видеоконференциях, звонках, совместном просмотре чего угодно, а также на обходе блокировок ;). В основе приложения лежит моя сетевая библиотека librats, которая используется и в других проектах. В отличие от Discord, RatCast построен</description>
+      <pubDate>Fri, 27 Nov 2026 16:01:23 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1113374/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1113374</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Фронтир нужен реже, чем кажется: как срезать расходы на токены и где на них нельзя экономить</title>
-      <link>https://habr.com/ru/companies/diasoft_company/articles/1112858/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112858</link>
-      <description>Привет, Хабр! Меня зовут Денис Тимощук, я отвечаю за развитие экосистемы AI-driven Digital Q. За последний год я не раз видел, как команды пытаются сэкономить на ИИ самым очевидным способом – «переезжают» на модель подешевле. Вот только это такая себе экономия: слабая модель чаще ошибается, и бесконечные переделки съедают всю выгоду на дистанции. Но и оставаться на фронтире становится все дороже. Долгое время вендоры «кормили» рынок огромными скидками, чтобы приучить всех к технологии: одна толь</description>
-      <pubDate>Fri, 27 Nov 2026 06:01:14 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/diasoft_company/articles/1112858/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112858</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Ни дня без 0day: что делать с телефонами, если патча нет месяцами</title>
-      <link>https://habr.com/ru/companies/safemobile/articles/1112734/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112734</link>
-      <description>Привет, Хабр! Осень у нас выдалась весёлая: что ни день, то новая критичная уязвимость. Только за ноябрь – OpenSSH, Java, nginx и PHP, причём уязвимость в OpenSSH начали эксплуатировать через несколько часов после публикации. С серверами хотя бы понятно: они свои, обновил и выдохнул. С телефонами так не выйдет. 2 ноября Google закрыл в Android критичные уязвимости, через которые код на устройстве можно выполнить удалённо. Pixel начали получать обновление 10 ноября, у остальных производителей сро</description>
-      <pubDate>Fri, 27 Nov 2026 06:00:13 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/safemobile/articles/1112734/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112734</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Как не провалиться с решением крупной задачи внутри компании</title>
-      <link>https://habr.com/ru/companies/alfa/articles/1111542/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1111542</link>
-      <description>Поделюсь моими многолетними наблюдениями о том, что же на самом деле ждёт руководства, когда даёт вам большую задачу, как вам с её решением не опозориться и почему «проактивные» падают громче всех. А ещё объясню, что когда вы получили задачу, то не надо сразу её бежать решать. Читать далее</description>
-      <pubDate>Fri, 27 Nov 2026 05:47:00 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/alfa/articles/1111542/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1111542</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Кроманьонцы разделали в Ирландии большерогого оленя около 13,4 тысячи лет назад</title>
-      <link>https://nplus1.ru/news/2026/11/27/ancient-people-in-ireland</link>
-      <description>Исследователи обнаружили новые свидетельства того, что первобытные охотники-собиратели добрались до территории современной Ирландии в конце позднего плейстоцена. Они нашли давно раскопанные кости большерогого оленя со следами от орудий. Радиоуглеродный анализ остатков показал, что кости относятся к периоду около 13,5–13,3 тысячи лет. Об этом сообщается в статье, которую опубликовали в журнале Proceedings of the Royal Irish Academy: Archaeology, Culture, History.</description>
-      <pubDate>Fri, 27 Nov 2026 05:27:00 +0000</pubDate>
-      <guid>https://nplus1.ru/news/2026/11/27/ancient-people-in-ireland</guid>
+      <title>Лжемурашки</title>
+      <link>https://nplus1.ru/material/2026/11/27/aesthetic-chills</link>
+      <description>Музыка, фильмы, литература, пламенные речи, религиозные ритуалы, занятия наукой вообще и математикой в частности — могут вызвать холодок благоговения, который пробегает по затылку, шее, спине и предплечьям. В научной литературе этот тип мурашек называют эстетический озноб (aesthetic chills) или фриссон. Судя по всему, эстетические мурашки — универсальный эмоциональный феномен, который встречается во всех культурах — более 90 процентов людей хотя бы раз в жизни испытывали фриссон. Но очевидное яв</description>
+      <pubDate>Fri, 27 Nov 2026 15:40:00 +0000</pubDate>
+      <guid>https://nplus1.ru/material/2026/11/27/aesthetic-chills</guid>
       <category>N + 1 — главное издание о науке, технике и технологиях</category>
     </item>
     <item>
-      <title>Почему знать команды Linux недостаточно для работы системным администратором</title>
-      <link>https://habr.com/ru/articles/1112880/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112880</link>
-      <description>Работая системным администратором уже какой год, я задумался: можно ведь выучить основные команды Linux, разобраться с правами доступа, научиться управлять сервисами, читать логи и даже написать несколько Bash-скриптов. Но всё это не гарантирует, что человек сможет разобраться с неисправностью на сервере. Проблема становится особенно заметной, когда вместо практического задания с готовым списком команд появляется обычное сообщение от пользователя: «Ничего не работает». Скажите, у кого жиза?) И т</description>
-      <pubDate>Fri, 27 Nov 2026 05:14:10 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1112880/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112880</guid>
+      <title>You can grab a 12-pack of Zepath’s rechargeable AA batteries for just $24</title>
+      <link>https://www.theverge.com/gadgets/1043272/zepath-rechargeable-aa-batteries-black-friday-2026-deal-sale</link>
+      <description>If you’re picking up any gifts that require AA batteries, it’s not a bad idea to buy a set you can keep using long after the holidays. Thankfully, you can currently get a 12-pack of Zepath’s rechargeable 3,000mWh AAs on Amazon with a charger for $23.99 ($8 off) for Black Friday, which is a new […]</description>
+      <pubDate>Fri, 27 Nov 2026 15:30:00 +0000</pubDate>
+      <guid>https://www.theverge.com/gadgets/1043272/zepath-rechargeable-aa-batteries-black-friday-2026-deal-sale</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>В Минцифры пока не смогли прийти к решению с Apple о включении 5G на российских iPhone</title>
+      <link>https://habr.com/ru/articles/1113358/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1113358</link>
+      <description>Глава Минцифры РФ Максут Шадаев пояснил СМИ, что ведомству пока не удалось договориться с Apple об активации 5G на iPhone в России. Читать далее</description>
+      <pubDate>Fri, 27 Nov 2026 15:28:01 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1113358/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1113358</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>AI-агент внутри дашборда Superset</title>
-      <link>https://habr.com/ru/articles/1112936/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112936</link>
-      <description>Заходишь утром посмотреть красивые графики, а выручка выросла на несколько десятков процентов. Хочется сразу узнать, что же такого интересного случилось. Аналитик, скорее всего, пойдёт в SQL или начнёт дрилить, бизнес-пользователь — спрашивать аналитика в чате. Для таких вопросов уже есть text to SQL/дата-агенты — часто это отдельный сервис с чатом (в этой статье это Nao). Отсюда идея: встроить его прямо в дашборды Superset. Пользователь раскрывает панель в углу дашборда и задаёт вопрос, а агент</description>
-      <pubDate>Fri, 27 Nov 2026 05:05:36 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1112936/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112936</guid>
+      <title>Разработка в эпоху ИИ: часть 2</title>
+      <link>https://habr.com/ru/companies/naumen/articles/1113352/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1113352</link>
+      <description>Недавно говорили о том, как ИИ помогает разработчикам в повседневных задачах и почему его работу важно проверять. Теперь разбираемся, как меняются требования к самим специалистам. Читать далее</description>
+      <pubDate>Fri, 27 Nov 2026 15:17:08 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/naumen/articles/1113352/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1113352</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
   </channel>
