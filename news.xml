@@ -5,87 +5,87 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Thu, 26 Nov 2026 23:30:22 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 06:59:39 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Эгоистичный ген — 50 лет книге. Самый известный труд Ричарда Докинза</title>
-      <link>https://habr.com/ru/articles/1112886/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112886</link>
-      <description>Как говорил мой тренер «время оставляет лучших». И вот спустя 50 лет. 50 лет! Пол века. Спустя всего ничего книга смутьяна, консерватора и новатора, мастера дискуссии и околофилософской беседы, ученого по форме мысли и по сути своей, Ричарда Докинза - «Эгоистичный ген» «стоит не шелохнется». Что же в ней такого интересного? Экстремальные версии дарвинизма Дарвинизм, сам по себе всегда актуален. Так что думать его никогда не ошибка. «Дайте мне то же самое, но новое» как говорил один из гейм дизай</description>
-      <pubDate>Thu, 26 Nov 2026 23:04:43 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1112886/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112886</guid>
+      <title>Аналитика воронки продаж: как объединить данные CRM и речевой аналитики, чтобы не считать события дважды</title>
+      <link>https://habr.com/ru/articles/1112968/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112968</link>
+      <description>Маркетинг отчитывается о росте качественных лидов. Отдел продаж утверждает, что заявок стало больше, а работать не с кем. Часто обе команды опираются на правильные цифры — просто считают разные события. На ежемесячной встрече директор по маркетингу показывает отчет: 600 лидов, стоимость привлечения снизилась, конверсия посадочной страницы выросла. Руководитель отдела продаж открывает CRM: до квалификации дошло только 240 обращений. В сделки превратились 30. Маркетинг говорит, что привел 600 поте</description>
+      <pubDate>Fri, 27 Nov 2026 06:47:49 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1112968/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112968</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Разгон LLM модели qwen 3.8 до 40+ токенов</title>
-      <link>https://habr.com/ru/articles/1112874/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112874</link>
-      <description>Начну с истории очередного LLM сервера и особенностей AMD / ROCm. Но основная тема публикации настройка - оптимизация скорость платформы vLLM при работе с популярной моделью qwen 3.8. В том числе активация MTP и создание собственных матриц расчетов. Читать далее</description>
-      <pubDate>Thu, 26 Nov 2026 21:19:06 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1112874/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112874</guid>
+      <title>Вышел открытый проект Cmdr — аналог Total Commander для macOS, написанный на языке Rust</title>
+      <link>https://habr.com/ru/articles/1112954/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112954</link>
+      <description>Состоялся выход написанного с помощью Claude открытого проекта Cmdr ( сайт программы ). Это аналог Total Commander (быстрый двухпанельный файловый менеджер) для macOS. Решение написано на языке Rust. Исходный код открыт для просмотра, программа бесплатна для личного использования. Проект включает опциональные функции на базе ИИ, разработанные с приоритетом конфиденциальности. Читать далее</description>
+      <pubDate>Fri, 27 Nov 2026 06:33:04 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1112954/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112954</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Netflix’s coziest show has made a very quiet return</title>
-      <link>https://www.theverge.com/entertainment/1043489/midnight-diner-season3</link>
-      <description>The bigger Netflix gets, the easier it is to miss stuff. This is true of all digital platforms, of course, but it's especially true of Netflix of late, as the streaming service's lineup now also includes a growing library of reality shows, live-programming, and even games. It makes it easy for some of the best […]</description>
-      <pubDate>Thu, 26 Nov 2026 21:00:00 +0000</pubDate>
-      <guid>https://www.theverge.com/entertainment/1043489/midnight-diner-season3</guid>
-      <category>The Verge</category>
-    </item>
-    <item>
-      <title>Инсайд без инсайда: поиск грааля или анализ аномальных объёмов на Мосбирже</title>
-      <link>https://habr.com/ru/articles/1112864/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112864</link>
-      <description>Однажды я подумал что объемы это тот редкий инструмент из теханализа (хотя считается ли этот инструмент его частью?) который может быть полезен из всего этого псевдоидиотизма под названием теханализ. И пошел считать, сколько раз за десять лет российские акции торговались хотя бы вдвое активнее обычного. Вышло 63 624 раза. Больше шестидесяти тысяч дней, когда кто-то на Мосбирже, судя по объёму, торговал больше остальных и возможно знал больше остальных если в бумаге(правды ради, часть инсайдер сд</description>
-      <pubDate>Thu, 26 Nov 2026 20:20:30 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1112864/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112864</guid>
+      <title>Система продуктивности готова на 100% и работает на 40%: что я понял, став руководителем</title>
+      <link>https://habr.com/ru/companies/sberbank/articles/1111904/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1111904</link>
+      <description>Привет, Хабр! Меня зовут Ренат, я в Сбере руковожу аналитикой в направлении AI PDLC — если по-простому, мы встраиваем ИИ-инструменты в производственный процесс разработки, чтобы аналитики и инженеры работали быстрее и качественнее. Ещё недавно я сам был системным аналитиком и возглавлял небольшой стрим: писал требования, проектировал интеграции, доводил ИИ-агенты от идеи до внедрения своими руками. Потом ролей стало две, обе управленческие, и привычный способ работать сломался за пару недель. Эт</description>
+      <pubDate>Fri, 27 Nov 2026 06:28:57 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/sberbank/articles/1111904/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1111904</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Как Galaxy S9+ с разбитым экраном стал LTE‑роутером на Debian</title>
-      <link>https://habr.com/ru/articles/1112860/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112860</link>
-      <description>Дайте почитать своему ИИ-агенту. У меня в ящике лежал Samsung Galaxy S9+ 2018 года. Экран разбит, кнопки увеличения и уменьшения громкости когда-то вырвали, кнопка питания держится на скотче. Обновления давно закончились, ремонтировать его особого смысла не было, а выбрасывать жалко. Я решил попробовать сделать из него LTE-роутер на Debian. Раньше я бы за такую работу не взялся: слишком много времени пришлось бы потратить на устройство, которое сегодня почти ничего не стоит. В этот раз всё получ</description>
-      <pubDate>Thu, 26 Nov 2026 20:05:44 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1112860/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112860</guid>
+      <title>Сколько в мире умных людей?</title>
+      <link>https://habr.com/ru/articles/1112944/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112944</link>
+      <description>А пока вы не осознали, в какую кротовую нору заведёт этот вопрос, задам ещё один. Если ИИ захочет уничтожить только часть человечества, то по каким признакам он решит, кого оставить? Ответ ИИ в конце текста. Мы уже говорили о том, что, скорее всего, ИИ никого уничтожать не будет. Однако, скорее всего, он получит контроль над человечеством. И каким-то образом им воспользуется. Одни люди получат больше возможностей, другие будут ограничены. Мы попробуем разобраться, на какие черты личности ИИ буде</description>
+      <pubDate>Fri, 27 Nov 2026 06:13:23 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1112944/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112944</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Nvidia hits pause on chip shipments to Southeast Asia</title>
-      <link>https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/</link>
-      <description>Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.</description>
-      <pubDate>Thu, 26 Nov 2026 20:03:54 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/</guid>
-      <category>TechCrunch</category>
+      <title>Фронтир нужен реже, чем кажется: как срезать расходы на токены и где на них нельзя экономить</title>
+      <link>https://habr.com/ru/companies/diasoft_company/articles/1112858/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112858</link>
+      <description>Привет, Хабр! Меня зовут Денис Тимощук, я отвечаю за развитие экосистемы AI-driven Digital Q. За последний год я не раз видел, как команды пытаются сэкономить на ИИ самым очевидным способом – «переезжают» на модель подешевле. Вот только это такая себе экономия: слабая модель чаще ошибается, и бесконечные переделки съедают всю выгоду на дистанции. Но и оставаться на фронтире становится все дороже. Долгое время вендоры «кормили» рынок огромными скидками, чтобы приучить всех к технологии: одна толь</description>
+      <pubDate>Fri, 27 Nov 2026 06:01:14 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/diasoft_company/articles/1112858/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112858</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Is Alice Huang a spy or not?</title>
-      <link>https://techcrunch.com/2026/11/26/is-alice-huang-a-spy-or-not/</link>
-      <description>The central, still-unproven claim in the Nvidia scandal is that Alice Huang, the former Megaspeed exec with whom Nvidia CEO Jensen Huang had an extramarital affair, is a Chinese spy.</description>
-      <pubDate>Thu, 26 Nov 2026 20:00:00 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/11/26/is-alice-huang-a-spy-or-not/</guid>
-      <category>TechCrunch</category>
+      <title>Ни дня без 0day: что делать с телефонами, если патча нет месяцами</title>
+      <link>https://habr.com/ru/companies/safemobile/articles/1112734/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112734</link>
+      <description>Привет, Хабр! Осень у нас выдалась весёлая: что ни день, то новая критичная уязвимость. Только за ноябрь – OpenSSH, Java, nginx и PHP, причём уязвимость в OpenSSH начали эксплуатировать через несколько часов после публикации. С серверами хотя бы понятно: они свои, обновил и выдохнул. С телефонами так не выйдет. 2 ноября Google закрыл в Android критичные уязвимости, через которые код на устройстве можно выполнить удалённо. Pixel начали получать обновление 10 ноября, у остальных производителей сро</description>
+      <pubDate>Fri, 27 Nov 2026 06:00:13 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/safemobile/articles/1112734/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112734</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>X finally gets parental controls after 20 years</title>
-      <link>https://techcrunch.com/2026/11/26/x-finally-gets-parental-controls-after-20-years/</link>
-      <description>Elon Musk's social network X has finally added parental controls for teenagers, giving parents and guardians a way to manage what their kids see on the platform.</description>
-      <pubDate>Thu, 26 Nov 2026 19:31:50 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/11/26/x-finally-gets-parental-controls-after-20-years/</guid>
-      <category>TechCrunch</category>
+      <title>Как не провалиться с решением крупной задачи внутри компании</title>
+      <link>https://habr.com/ru/companies/alfa/articles/1111542/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1111542</link>
+      <description>Поделюсь моими многолетними наблюдениями о том, что же на самом деле ждёт руководства, когда даёт вам большую задачу, как вам с её решением не опозориться и почему «проактивные» падают громче всех. А ещё объясню, что когда вы получили задачу, то не надо сразу её бежать решать. Читать далее</description>
+      <pubDate>Fri, 27 Nov 2026 05:47:00 +0000</pubDate>
+      <guid>https://habr.com/ru/companies/alfa/articles/1111542/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1111542</guid>
+      <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>The Garmin Forerunner 265S is down to $300, its best price of the year</title>
-      <link>https://www.theverge.com/gadgets/1042483/garmin-forerunner-265s-fitness-tracker-wearable-deal-sale-black-friday</link>
-      <description>The Forerunner 265S may not be the newest or flashiest Garmin, but it’s one that I’ve always loved most in testing. For runners with smaller wrists, it fits nicely. The battery life is pretty good thanks in part to its OLED touchscreen. When I reviewed it a few years ago, I called it the Goldilocks […]</description>
-      <pubDate>Thu, 26 Nov 2026 19:00:00 +0000</pubDate>
-      <guid>https://www.theverge.com/gadgets/1042483/garmin-forerunner-265s-fitness-tracker-wearable-deal-sale-black-friday</guid>
-      <category>The Verge</category>
+      <title>Кроманьонцы разделали в Ирландии большерогого оленя около 13,4 тысячи лет назад</title>
+      <link>https://nplus1.ru/news/2026/11/27/ancient-people-in-ireland</link>
+      <description>Исследователи обнаружили новые свидетельства того, что первобытные охотники-собиратели добрались до территории современной Ирландии в конце позднего плейстоцена. Они нашли давно раскопанные кости большерогого оленя со следами от орудий. Радиоуглеродный анализ остатков показал, что кости относятся к периоду около 13,5–13,3 тысячи лет. Об этом сообщается в статье, которую опубликовали в журнале Proceedings of the Royal Irish Academy: Archaeology, Culture, History.</description>
+      <pubDate>Fri, 27 Nov 2026 05:27:00 +0000</pubDate>
+      <guid>https://nplus1.ru/news/2026/11/27/ancient-people-in-ireland</guid>
+      <category>N + 1 — главное издание о науке, технике и технологиях</category>
     </item>
     <item>
-      <title>«Зомби‑UI»: почему крупные бренды начали выпускать интерфейсы, которые стыдно показывать</title>
-      <link>https://habr.com/ru/articles/1112820/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112820</link>
-      <description>Скриншоты интерфейсов, сгенерированных нейросетями у крупных брендов, вызывают закономерный вопрос: неужели в компаниях с миллиардными бюджетами закончились дизайнеры и тестировщики? К сожалению, во многих случаях это недалеко от истины. Проблема не в том, что ИИ «не умеет» рисовать кнопки. Проблема в том, что процесс производства интерфейсов был перестроен вокруг возможностей ИИ, а не вокруг потребностей пользователя. Читать далее</description>
-      <pubDate>Thu, 26 Nov 2026 17:59:22 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1112820/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112820</guid>
+      <title>Почему знать команды Linux недостаточно для работы системным администратором</title>
+      <link>https://habr.com/ru/articles/1112880/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112880</link>
+      <description>Работая системным администратором уже какой год, я задумался: можно ведь выучить основные команды Linux, разобраться с правами доступа, научиться управлять сервисами, читать логи и даже написать несколько Bash-скриптов. Но всё это не гарантирует, что человек сможет разобраться с неисправностью на сервере. Проблема становится особенно заметной, когда вместо практического задания с готовым списком команд появляется обычное сообщение от пользователя: «Ничего не работает». Скажите, у кого жиза?) И т</description>
+      <pubDate>Fri, 27 Nov 2026 05:14:10 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1112880/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112880</guid>
+      <category>Все публикации подряд на Хабре</category>
+    </item>
+    <item>
+      <title>AI-агент внутри дашборда Superset</title>
+      <link>https://habr.com/ru/articles/1112936/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112936</link>
+      <description>Заходишь утром посмотреть красивые графики, а выручка выросла на несколько десятков процентов. Хочется сразу узнать, что же такого интересного случилось. Аналитик, скорее всего, пойдёт в SQL или начнёт дрилить, бизнес-пользователь — спрашивать аналитика в чате. Для таких вопросов уже есть text to SQL/дата-агенты — часто это отдельный сервис с чатом (в этой статье это Nao). Отсюда идея: встроить его прямо в дашборды Superset. Пользователь раскрывает панель в углу дашборда и задаёт вопрос, а агент</description>
+      <pubDate>Fri, 27 Nov 2026 05:05:36 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1112936/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112936</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
   </channel>
