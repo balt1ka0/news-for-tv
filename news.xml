@@ -5,87 +5,87 @@
     <link>https://tv.example.com</link>
     <description>Автоматическая лента: хайтек, умное садоводство, наука, технологии</description>
     <language>ru-ru</language>
-    <lastBuildDate>Fri, 27 Nov 2026 17:16:17 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 01:11:34 +0000</lastBuildDate>
     <generator>corp-tv-feed-generator</generator>
     <atom:link href="https://tv.example.com/rss.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The absolute best Black Friday deals we’ve found (so far)</title>
       <link>https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas</link>
-      <description>This year’s Black Friday deals have launched in waves over the past several weeks, but now the floodgates have officially opened. You can now take advantage of the lowest prices we’ve seen in-store and online for video games, wireless earbuds, TVs, e-readers, robot vacuums, and so much more. We can’t guarantee a deal you’ve had […]</description>
-      <pubDate>Fri, 27 Nov 2026 17:07:08 +0000</pubDate>
+      <description>This year's Black Friday deals have launched in waves over the past several weeks, but now the floodgates have officially opened. You can now take advantage of the lowest prices we've seen in-store and online for video games, wireless earbuds, TVs, e-readers, robot vacuums, and so much more. We can't guarantee a deal you've had […]</description>
+      <pubDate>Sat, 28 Nov 2026 00:44:11 +0000</pubDate>
       <guid>https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas</guid>
       <category>The Verge</category>
     </item>
     <item>
-      <title>Как я превратил загрузку Windows в Linux-терминал и 24-битный UEFI-видеоплеер на голом C</title>
-      <link>https://habr.com/ru/articles/1112884/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112884</link>
-      <description>Первые секунды после нажатия кнопки питания на ПК обычно выглядят одинаково скучно: статичный логотип материнской платы, короткая чёрная пауза и вращающиеся точки загрузчика Windows. Максимум кастомизации, до которого обычно доходят руки — поставить открытую утилиту HackBGRT , подменяющую картинку в ACPI-таблице BGRT на собственный splash.bmp . Но если задуматься, в момент старта UEFI-приложения — ещё до запуска bootmgfw.efi и ядра ntoskrnl.exe — в нашем распоряжении уже находятся 64-битный проц</description>
-      <pubDate>Fri, 27 Nov 2026 16:57:22 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1112884/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1112884</guid>
-      <category>Все публикации подряд на Хабре</category>
+      <title>Sony’s 1000XM4C headphones are a Black Friday bargain at $198</title>
+      <link>https://www.theverge.com/gadgets/1043976/sony-wh1000xm4c-noise-canceling-headphones-black-friday-2026-deal-sale</link>
+      <description>Instead of purely looking forward with its headphone designs, Sony went back to its popular WH-1000XM4 design and made some improvements to make it even better. The 2026 version, called the WH-1000XM4C, sounds nearly as good as the pricier XM6 model (currently $348), but is down to $198 during Black Friday at Amazon, Best Buy, […]</description>
+      <pubDate>Sat, 28 Nov 2026 00:30:00 +0000</pubDate>
+      <guid>https://www.theverge.com/gadgets/1043976/sony-wh1000xm4c-noise-canceling-headphones-black-friday-2026-deal-sale</guid>
+      <category>The Verge</category>
     </item>
     <item>
-      <title>The best Black Friday deals on AirPods, MacBooks, and other Apple gear</title>
+      <title>This purple electric Chinese minivan can go up to 559 miles on a charge</title>
+      <link>https://www.theverge.com/transportation/1044706/this-purple-electric-chinese-minivan-can-go-up-to-559-miles-on-a-charge</link>
+      <description>Electric minivans could be the ultimate in utility, with room for passengers, gear, and huge batteries. While VW's ID Buzz only gave us 200 miles of real-world driving on a charge in 2023, China's BYD has just announced a flagship purple peoplemover that can go an estimated 559 miles (900 km) on electricity. It's called […]</description>
+      <pubDate>Sat, 28 Nov 2026 00:02:49 +0000</pubDate>
+      <guid>https://www.theverge.com/transportation/1044706/this-purple-electric-chinese-minivan-can-go-up-to-559-miles-on-a-charge</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>The best Black Friday deals you can still get on AirPods, Macs, and other Apple gear</title>
       <link>https://www.theverge.com/gadgets/1043935/best-black-friday-apple-deals-2026</link>
-      <description>Black Friday is one of the best times of the year to save some cash on a new pair of AirPods or the latest Apple Watch. After all, the holiday savings can help offset the unfortunate price hikes from earlier this year, when Apple raised the cost of some of its most popular gear. Some […]</description>
-      <pubDate>Fri, 27 Nov 2026 16:30:37 +0000</pubDate>
+      <description>Black Friday is entering the evening, which means one of the best times of the year to save some cash on a new pair of AirPods or the latest Apple Watch is coming to a close. After all, the holiday savings can help offset the unfortunate price hikes from earlier this year, when Apple raised […]</description>
+      <pubDate>Fri, 27 Nov 2026 23:53:19 +0000</pubDate>
       <guid>https://www.theverge.com/gadgets/1043935/best-black-friday-apple-deals-2026</guid>
       <category>The Verge</category>
     </item>
     <item>
-      <title>Укрощение Grafana: от настройки дашбордов до автоматизации</title>
-      <link>https://habr.com/ru/companies/otus/articles/1111440/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1111440</link>
-      <description>Grafana быстро становится сложнее в управлении, когда к мониторингу подключается целая команда: появляются вопросы разграничения прав, тиражирования дашбордов и автоматизации конфигурации. В этой статье на практических примерах разберём, как использовать API, сервисные аккаунты, Terraform и Ansible, чтобы сделать управление Grafana воспроизводимым и упростить работу с мониторингом в команде. Разобрать Grafana</description>
-      <pubDate>Fri, 27 Nov 2026 16:21:02 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/otus/articles/1111440/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1111440</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Slonik-LLM, или Как мы учили модель разработке ядра PostgreSQL</title>
-      <link>https://habr.com/ru/companies/postgrespro/articles/1113058/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1113058</link>
-      <description>Сможет ли агент написать код, который пройдёт ревью в pgsql-hackers? Мы дообучили Qwen на 27B параметров под разработку PostgreSQL: за неделю на 8 GPU H200 получилась модель, которую мы назвали Slonik. Рассказываем, что сработало, а что нет. Читать далее</description>
-      <pubDate>Fri, 27 Nov 2026 16:12:01 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/postgrespro/articles/1113058/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1113058</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Ratcast — продолжаем допиливать совместный стриминг без серверов и блокировок</title>
-      <link>https://habr.com/ru/articles/1113374/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1113374</link>
-      <description>Всем привет! Решил написать новую статью и рассказать о последних обновлениях, исправлениях и новых возможностях моего приложения RatCast. RatCast работает по аналогии с голосовыми каналами и конференциями в Discord и сосредоточен именно на общении: голосовой связи, видеоконференциях, звонках, совместном просмотре чего угодно, а также на обходе блокировок ;). В основе приложения лежит моя сетевая библиотека librats, которая используется и в других проектах. В отличие от Discord, RatCast построен</description>
-      <pubDate>Fri, 27 Nov 2026 16:01:23 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1113374/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1113374</guid>
-      <category>Все публикации подряд на Хабре</category>
-    </item>
-    <item>
-      <title>Лжемурашки</title>
-      <link>https://nplus1.ru/material/2026/11/27/aesthetic-chills</link>
-      <description>Музыка, фильмы, литература, пламенные речи, религиозные ритуалы, занятия наукой вообще и математикой в частности — могут вызвать холодок благоговения, который пробегает по затылку, шее, спине и предплечьям. В научной литературе этот тип мурашек называют эстетический озноб (aesthetic chills) или фриссон. Судя по всему, эстетические мурашки — универсальный эмоциональный феномен, который встречается во всех культурах — более 90 процентов людей хотя бы раз в жизни испытывали фриссон. Но очевидное яв</description>
-      <pubDate>Fri, 27 Nov 2026 15:40:00 +0000</pubDate>
-      <guid>https://nplus1.ru/material/2026/11/27/aesthetic-chills</guid>
-      <category>N + 1 — главное издание о науке, технике и технологиях</category>
-    </item>
-    <item>
-      <title>You can grab a 12-pack of Zepath’s rechargeable AA batteries for just $24</title>
-      <link>https://www.theverge.com/gadgets/1043272/zepath-rechargeable-aa-batteries-black-friday-2026-deal-sale</link>
-      <description>If you’re picking up any gifts that require AA batteries, it’s not a bad idea to buy a set you can keep using long after the holidays. Thankfully, you can currently get a 12-pack of Zepath’s rechargeable 3,000mWh AAs on Amazon with a charger for $23.99 ($8 off) for Black Friday, which is a new […]</description>
-      <pubDate>Fri, 27 Nov 2026 15:30:00 +0000</pubDate>
-      <guid>https://www.theverge.com/gadgets/1043272/zepath-rechargeable-aa-batteries-black-friday-2026-deal-sale</guid>
+      <title>The best robot vacuums we’ve tested are up to 60 percent off for Black Friday</title>
+      <link>https://www.theverge.com/gadgets/1044487/best-black-friday-robot-vacuum-mop-deals-2026</link>
+      <description>Black Friday is here, and if you want a little help keeping your floors clean this holiday season, now is a great time to pick up a robot vacuum. Some of the best models we’ve tested over the last year or two are on sale for up to 60 percent off, whether you’re after a […]</description>
+      <pubDate>Fri, 27 Nov 2026 23:32:17 +0000</pubDate>
+      <guid>https://www.theverge.com/gadgets/1044487/best-black-friday-robot-vacuum-mop-deals-2026</guid>
       <category>The Verge</category>
     </item>
     <item>
-      <title>В Минцифры пока не смогли прийти к решению с Apple о включении 5G на российских iPhone</title>
-      <link>https://habr.com/ru/articles/1113358/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1113358</link>
-      <description>Глава Минцифры РФ Максут Шадаев пояснил СМИ, что ведомству пока не удалось договориться с Apple об активации 5G на iPhone в России. Читать далее</description>
-      <pubDate>Fri, 27 Nov 2026 15:28:01 +0000</pubDate>
-      <guid>https://habr.com/ru/articles/1113358/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1113358</guid>
+      <title>Yooka-Laylee’s free upgrade is skipping Xbox</title>
+      <link>https://www.theverge.com/games/1044715/yooka-laylees-free-upgrade-is-skipping-xbox</link>
+      <description>Playtronic Games is getting ready to launch Yooka-Laylee and the Impossible Lair: Definitive Edition as a free update on PlayStation 5, Switch 2, and PC on December 15th. Unfortunately for Xbox owners, the developer says it "can't commit to any additional platforms for the foreseeable future." In a statement posted on X, Playtronic said that […]</description>
+      <pubDate>Fri, 27 Nov 2026 23:30:32 +0000</pubDate>
+      <guid>https://www.theverge.com/games/1044715/yooka-laylees-free-upgrade-is-skipping-xbox</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>Many of our favorite Blu-ray movies are over 50 percent off for Black Friday</title>
+      <link>https://www.theverge.com/gadgets/1040471/4k-bluray-movie-film-black-friday-deal-sale</link>
+      <description>No shade to those who love their subscription services, but viewing physical movies is a time-honored tradition that shouldn’t go away. Watching them doesn’t feel all that different, but deciding which movie to watch feels less annoying; sifting through a movie collection on your shelf or in a storage binder is so much more fun […]</description>
+      <pubDate>Fri, 27 Nov 2026 23:30:00 +0000</pubDate>
+      <guid>https://www.theverge.com/gadgets/1040471/4k-bluray-movie-film-black-friday-deal-sale</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>Rockstar Games: разбор логотипа заряженного на насилие</title>
+      <link>https://habr.com/ru/articles/1113452/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1113452</link>
+      <description>Самый впечатляющий логотип из невзрачных или самый невзрачный лотоготип из впечатляющих. Ещё не разобрался до конца, но чтоб вы поняли мои смущённые чувства, вам придется раскрыть для себя несколько хорошо спрятанных матрёшек. Всё же не перестаю удивляться… Поехали. Читать далее</description>
+      <pubDate>Fri, 27 Nov 2026 23:24:53 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1113452/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1113452</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
     <item>
-      <title>Разработка в эпоху ИИ: часть 2</title>
-      <link>https://habr.com/ru/companies/naumen/articles/1113352/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1113352</link>
-      <description>Недавно говорили о том, как ИИ помогает разработчикам в повседневных задачах и почему его работу важно проверять. Теперь разбираемся, как меняются требования к самим специалистам. Читать далее</description>
-      <pubDate>Fri, 27 Nov 2026 15:17:08 +0000</pubDate>
-      <guid>https://habr.com/ru/companies/naumen/articles/1113352/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1113352</guid>
+      <title>The new iPad Mini is getting its first major discount for Black Friday</title>
+      <link>https://www.theverge.com/gadgets/1042705/ipad-mini-black-friday-deal-sale-2026</link>
+      <description>We were big fans of Apple’s new iPad Mini when we reviewed it in early November, but its steep starting price of $699 was hard to swallow. Thankfully, the small tablet is already getting a sizable discount for Black Friday. Right now, Amazon and Walmart are both selling the 2026 iPad Mini with Wi-Fi and […]</description>
+      <pubDate>Fri, 27 Nov 2026 22:30:00 +0000</pubDate>
+      <guid>https://www.theverge.com/gadgets/1042705/ipad-mini-black-friday-deal-sale-2026</guid>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>KeenProxy 0.11.0: как мы сломали обновления, починили память и добрались до RouterOS</title>
+      <link>https://habr.com/ru/articles/1113442/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1113442</link>
+      <description>В прошлой статье про переход на sing-box-lx я писал, что на моём роутере ограничение памяти Go сбило скорость через тот самый WG с 400 до 230 Мбит/с. Тогда мы уже нашли подозрительные буферы на приёме и собирались предложить исправление. В итоге в sing-box-lx поправили ещё и отправку, а она, как выяснилось, съедала больше памяти, чем мы думали. Между делом мы сломали обновление из панели на части роутеров. С этого и начну: если вы застряли на старой версии, новая сама эту проблему не исправит. Ч</description>
+      <pubDate>Fri, 27 Nov 2026 22:01:00 +0000</pubDate>
+      <guid>https://habr.com/ru/articles/1113442/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=1113442</guid>
       <category>Все публикации подряд на Хабре</category>
     </item>
   </channel>
